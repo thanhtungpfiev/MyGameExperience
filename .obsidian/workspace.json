@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StardewValley/00 Home.md",
+                "file": "StardewValley/Bản đồ khu vực.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 Home"
+              "title": "Bản đồ khu vực"
             }
           }
         ]
@@ -186,6 +186,13 @@
   },
   "active": "a1d313260c5f4fae",
   "lastOpenFiles": [
+    "StardewValley/Bản đồ khu vực.md.tmp.42532.fce10d37d35f",
+    "StardewValley/00 Home.md",
+    "StardewValley/Mẹo.md.tmp.42532.325a6d66fe29",
+    "StardewValley/00 Home.md.tmp.42532.2ae6117755d5",
+    "StardewValley/Bản đồ khu vực.md",
+    "StardewValley/Bản đồ khu vực.md.tmp.42532.5f0e788c6ff6",
+    "StardewValley/Daily.md",
     "README.md",
     "StardewValley/assets/standard-farm-plan-hieu-qua.jpg",
     "StardewValley/assets/standard-farm-plan-gon-dep.jpg",
@@ -201,15 +208,10 @@
     "StardewValley/Mẹo.md.tmp.42532.52ef3d1e6bc1",
     "StardewValley/00 Home.md.tmp.42532.26b4502507a2",
     "StardewValley/Mods.md.tmp.42532.faaf47034b47",
-    "StardewValley/Mods.md.tmp.42532.ec601823ccaa",
-    "StardewValley/Mods.md.tmp.42532.9ccb96eb7751",
-    "StardewValley/Mods.md.tmp.42532.16a26b251890",
     "StardewValley/assets/Pasted image 20260727162502.png",
     "StardewValley/assets/Pasted image 20260727162456.png",
     "StardewValley/assets/Pasted image 20260727162440.png",
     "StardewValley/assets/Pasted image 20260727162013.png",
-    "StardewValley/Daily.md",
-    "StardewValley/Mẹo.md",
-    "StardewValley/00 Home.md"
+    "StardewValley/Mẹo.md"
   ]
 }

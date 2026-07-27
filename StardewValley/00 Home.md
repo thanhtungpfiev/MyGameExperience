@@ -7,6 +7,7 @@
 - [[Mods]] — Bộ mod đang dùng, cách dùng chi tiết và danh sách file thừa cần dọn.
 - [[Daily]] — Lịch trình một ngày tối ưu + việc cần làm theo mùa.
 - [[Mẹo]] — Mẹo kiếm tiền, farming, kết bạn, khai thác, câu cá.
+- [[Bản đồ khu vực]] — Sơ đồ kết nối + bản đồ wiki từng khu vực.
 
 ## 🎯 Trạng thái hiện tại
 

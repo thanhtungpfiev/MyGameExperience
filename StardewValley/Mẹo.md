@@ -1,6 +1,6 @@
 # 💡 Mẹo chơi Stardew Valley
 
-> Về [[00 Home]] · Xem [[Daily]] để áp dụng theo lịch · [[Mods]] để hỗ trợ
+> Về [[00 Home]] · Xem [[Daily]] để áp dụng theo lịch · [[Mods]] để hỗ trợ · [[Bản đồ khu vực]] để xem từng khu
 >
 > _Thuật ngữ để tiếng Việt theo bản Việt hóa; tên tiếng Anh trong ngoặc để tra cứu._
 
