@@ -1,4 +1,4 @@
-1# 💡 Mẹo chơi Stardew Valley
+# 💡 Mẹo chơi Stardew Valley
 
 > Về [[00 Home]] · Xem [[Daily]] để áp dụng theo lịch · [[Mods]] để hỗ trợ
 >

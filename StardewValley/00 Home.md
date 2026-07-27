@@ -1,4 +1,4 @@
-2# 🌱 Stardew Valley 1.6.15 — Trang chủ
+# 🌱 Stardew Valley 1.6.15 — Trang chủ
 
 > Vault ghi chú cá nhân cho save Stardew Valley. Đây là mục lục trung tâm, bấm vào link để mở từng note.
 
@@ -20,7 +20,7 @@
 ## ⚡ Việc ưu tiên
 
 - [ ] Kiểm tra mod tương thích 1.6.15 tại `smapi.io/mods`
-- [ ] Dọn file mod thừa (xem [[Mods]] mục 8)
+- [ ] Dọn file mod thừa (xem [[Mods#9) Ghi chú bản VH & file trùng|Mods mục 9]])
 - [ ] Cập nhật mục tiêu mùa hiện tại (xem [[Daily]])
 
 ## 🔗 Liên kết nhanh

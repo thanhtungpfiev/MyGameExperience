@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StardewValley/Daily.md",
+                "file": "StardewValley/00 Home.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "00 Home"
             }
           }
         ]
@@ -186,23 +186,30 @@
   },
   "active": "a1d313260c5f4fae",
   "lastOpenFiles": [
-    "StardewValley/assets/valley-map.png",
+    "README.md",
     "StardewValley/assets/standard-farm-plan-hieu-qua.jpg",
-    "StardewValley/Daily.md",
     "StardewValley/assets/standard-farm-plan-gon-dep.jpg",
-    "StardewValley/assets/_cand/layout-14.jpg",
-    "StardewValley/assets/_cand/layout-13.jpg",
-    "StardewValley/assets/_cand/layout-12.jpg",
-    "StardewValley/assets/_cand/layout-11.jpg",
-    "StardewValley/assets/_cand/layout-10.jpg",
-    "StardewValley/assets/_cand/layout-9.jpg",
-    "StardewValley/assets/_cand/layout-8.jpg",
-    "StardewValley/assets/_cand/layout-7.jpg",
-    "StardewValley/assets/_cand",
-    "StardewValley/assets/_make_day1.py",
+    "StardewValley/assets/standard-farm-full.png",
+    "StardewValley/Mods.md",
+    "README.md.tmp.42532.6298b1ffd8b3",
+    "StardewValley/Mods.md.tmp.42532.0697fe5af6c9",
+    "StardewValley/Mods.md.tmp.42532.bc22c821a88f",
+    "StardewValley/assets/experience-bars-2.png",
+    "StardewValley/assets/experience-bars-1.png",
+    "StardewValley/assets/ui-info-suite.png",
+    "StardewValley/00 Home.md.tmp.42532.71769b198caa",
+    "StardewValley/Mẹo.md.tmp.42532.52ef3d1e6bc1",
+    "StardewValley/00 Home.md.tmp.42532.26b4502507a2",
+    "StardewValley/Mods.md.tmp.42532.faaf47034b47",
+    "StardewValley/Mods.md.tmp.42532.ec601823ccaa",
+    "StardewValley/Mods.md.tmp.42532.9ccb96eb7751",
+    "StardewValley/Mods.md.tmp.42532.16a26b251890",
+    "StardewValley/assets/Pasted image 20260727162502.png",
+    "StardewValley/assets/Pasted image 20260727162456.png",
+    "StardewValley/assets/Pasted image 20260727162440.png",
+    "StardewValley/assets/Pasted image 20260727162013.png",
+    "StardewValley/Daily.md",
     "StardewValley/Mẹo.md",
-    "StardewValley/00 Home.md",
-    "StardewValley/assets",
-    "StardewValley/Mods.md"
+    "StardewValley/00 Home.md"
   ]
 }
