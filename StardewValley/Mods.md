@@ -1,22 +1,23 @@
 # 🧩 Mods đang dùng — Stardew Valley 1.6.15
 
-> Về [[00 Home]] · Áp dụng theo [[Daily]] · Mẹo chơi [[Mẹo]]
+> Về [[00 Home]] · Áp dụng theo [[Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]]
 >
-> _26 mod trong `F:\Games\StardewValley Mods`, nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
+> _26 mục trong `F:\Games\StardewValley Mods` — **25 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
 >
 > _Khuôn mỗi mod: **Công dụng / Cách dùng / Phím / Cấu hình / Nexus**. Phím ghi "GMCM" = mặc định trống, tự gán trong Cài đặt → GMCM._
 
 ## 📑 Mục lục
 
-1. [Bộ nền & Việt hóa](#1-bộ-nền--việt-hóa-bắt-buộc-cài-trước) (3)
-2. [Cấu hình trong game](#2-cấu-hình-mod-trong-game) (2)
-3. [Giao diện & thông tin](#3-giao-diện--thông-tin-uiinfo) (9)
-4. [Kho đồ & rương](#4-kho-đồ--rương) (3)
-5. [Tự động hóa & năng suất](#5-tự-động-hóa--năng-suất) (3)
-6. [Tiện ích (QoL)](#6-tiện-ích-qol) (4)
-7. [Cheat & Debug](#7-cheat--debug) (1)
-8. [Hình ảnh / nhân vật](#8-hình-ảnh--nhân-vật) (1)
-9. [Ghi chú bản VH & thứ tự cài](#9-ghi-chú-bản-vh--file-trùng) · [Thứ tự cài](#10-thứ-tự-cài--vận-hành-ổn-định-1615)
+1. [[#1) Bộ nền & Việt hóa (bắt buộc, cài trước)|Bộ nền & Việt hóa]] (3)
+2. [[#2) Cấu hình mod trong game|Cấu hình trong game]] (2)
+3. [[#3) Giao diện & thông tin (UI/Info)|Giao diện & thông tin]] (9)
+4. [[#4) Kho đồ & rương|Kho đồ & rương]] (3)
+5. [[#5) Tự động hóa & năng suất|Tự động hóa & năng suất]] (3)
+6. [[#6) Tiện ích (QoL)|Tiện ích (QoL)]] (3)
+7. [[#7) Cheat & Debug|Cheat & Debug]] (1)
+8. [[#8) Hình ảnh / nhân vật|Hình ảnh / nhân vật]] (1)
+9. [[#9) Ghi chú bản VH & file trùng|Ghi chú bản VH & file trùng]] · [[#10) Thứ tự cài & vận hành ổn định (1.6.15)|Thứ tự cài]]
+10. [[#🧰 Công cụ ngoài game|Công cụ ngoài game]] (1)
 
 ## 🎹 Bảng phím tắt nhanh
 
@@ -78,7 +79,7 @@
 ## 3) Giao diện & thông tin (UI/Info)
 
 ### UI Info Suite 2 (v2.3.7, bản VH)
-![[ui-info-suite.png]]
+![[assets/ui-info-suite.png|600]]
 - **Công dụng:** Hiện thông tin quan trọng lên màn hình (sinh nhật, thương nhân, thu hoạch, may mắn...).
 - **Cách dùng:** Chủ yếu **rê chuột (hover)** vào các icon cạnh đồng hồ/tiền:
   - 🎂 sinh nhật NPC → ai sinh nhật, thích quà gì · 🍀 may mắn hôm nay · 🚂 giờ tàu chạy.
@@ -88,8 +89,8 @@
 - **Nexus:** https://www.nexusmods.com/stardewvalley/mods/7098
 
 ### Experience Bars 1.4.6
-![[experience-bars-1.png]]
-![[experience-bars-2.png]]
+![[assets/experience-bars-1.png|400]]
+![[assets/experience-bars-2.png|600]]
 - **Công dụng:** Hiện thanh kinh nghiệm (XP) và cấp của từng kỹ năng.
 - **Cách dùng:** Thanh XP tự nổi khi nhận kinh nghiệm rồi mờ dần; xem để biết còn bao nhiêu là lên cấp.
 - **Phím:** GMCM — gán phím **ẩn/hiện thanh XP** (mặc định trống).
@@ -204,12 +205,6 @@
 - **Phím:** — (qua menu lưu).
 - **Nexus:** https://www.nexusmods.com/stardewvalley/mods/22953
 
-### Farm Foundry 2.0.0.42
-- **Công dụng:** Tùy biến bố cục nông trại (đặt nền, địa hình linh hoạt).
-- **Cách dùng:** Dùng công cụ của mod để chỉnh layout ruộng theo ý.
-- **Phím:** — (dùng công cụ của mod).
-- **Nexus:** https://www.nexusmods.com/stardewvalley/mods/127
-
 ## 7) Cheat & Debug
 
 ### CJB Cheats Menu 1.42.0
@@ -226,6 +221,20 @@
 - **Phím:** — (content pack).
 - **Phụ thuộc:** Content Patcher.
 - **Nexus:** https://www.nexusmods.com/stardewvalley/search/?gsearch=Seasonal+Cute+Characters
+
+---
+
+## 🧰 Công cụ ngoài game
+
+> _Không phải mod SMAPI — **không bỏ vào thư mục `Mods`**._
+
+### Farm Foundry 2.0.0.42 — trình sửa file save
+
+- **Thực chất là:** **Save editor** chạy độc lập ngoài game (Nexus xếp mục "Stardew Valley Save editor"), không phải mod nạp qua SMAPI. Để trong `Mods` thì SMAPI chỉ báo lỗi/bỏ qua.
+- **Công dụng:** Mở file save để sửa trực tiếp (tiền, vật phẩm, bố cục/địa hình nông trại…).
+- **Cách dùng:** **Thoát game trước**, sao lưu save (`%AppData%\StardewValley\Saves`), rồi mới mở bằng Farm Foundry.
+- **⚠️ Rủi ro:** Đây là công cụ đời cũ (từ thời SDV 1.x đầu), **chưa chắc tương thích định dạng save 1.6.15** — sửa sai là hỏng save. Cân nhắc dùng [[#CJB Cheats Menu 1.42.0|CJB Cheats Menu]] ngay trong game cho hầu hết nhu cầu, an toàn hơn nhiều.
+- **Nexus:** https://www.nexusmods.com/stardewvalley/mods/127
 
 ---
 
