@@ -6,17 +6,18 @@
 
 - [[Mods]] — Bộ mod đang dùng, cách dùng chi tiết và danh sách file thừa cần dọn.
 - [[Daily]] — Lịch trình một ngày tối ưu + việc cần làm theo mùa.
-- [[Mẹo]] — Mẹo kiếm tiền, farming, kết bạn, khai thác, câu cá.
-- [[Bản đồ khu vực]] — Sơ đồ kết nối + bản đồ wiki từng khu vực.
+- [[Mẹo]] — Nguyên tắc nền tảng, 5 nghề, kiếm tiền theo giai đoạn, kết bạn, Trung tâm Cộng đồng.
+- [[Bản đồ khu vực]] — Ảnh bản đồ từng khu + sơ đồ kết nối + từ điển địa danh Anh–Việt.
+- [[Quy hoạch nông trại]] — Bản đồ farm ban đầu, mẫu bố cục tham khảo, nguyên tắc sắp xếp.
 
 ## 🎯 Trạng thái hiện tại
 
 | Mục | Ghi chú |
 |-----|---------|
-| Phiên bản game | 1.6.15 |
-| Loại farm | _(điền loại farm của bạn)_ |
-| Mùa / Năm | _(cập nhật mỗi khi chơi)_ |
-| Mục tiêu gần | _(vd: hoàn thành Community Center)_ |
+| Phiên bản game | 1.6.15 (bản Việt hóa) |
+| Loại farm | **Nông trại Tiêu chuẩn (Standard Farm)** — xem [[Quy hoạch nông trại]] |
+| Mùa / Năm | **Xuân, Năm 1** _(cập nhật mỗi khi chơi)_ |
+| Mục tiêu gần | _(vd: hoàn thành Gói Cây Xuân ở Trung tâm Cộng đồng)_ |
 
 ## ⚡ Việc ưu tiên
 
