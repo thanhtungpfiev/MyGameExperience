@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StardewValley/Bản đồ khu vực.md",
+                "file": "StardewValley/Daily.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Bản đồ khu vực"
+              "title": "Daily"
             }
           }
         ]
@@ -186,32 +186,33 @@
   },
   "active": "a1d313260c5f4fae",
   "lastOpenFiles": [
-    "StardewValley/Bản đồ khu vực.md.tmp.42532.fce10d37d35f",
-    "StardewValley/00 Home.md",
-    "StardewValley/Mẹo.md.tmp.42532.325a6d66fe29",
-    "StardewValley/00 Home.md.tmp.42532.2ae6117755d5",
-    "StardewValley/Bản đồ khu vực.md",
-    "StardewValley/Bản đồ khu vực.md.tmp.42532.5f0e788c6ff6",
-    "StardewValley/Daily.md",
-    "README.md",
-    "StardewValley/assets/standard-farm-plan-hieu-qua.jpg",
-    "StardewValley/assets/standard-farm-plan-gon-dep.jpg",
-    "StardewValley/assets/standard-farm-full.png",
+    "StardewValley/Daily.md.tmp.20332.51decc5df35d",
+    "StardewValley/Mẹo.md",
     "StardewValley/Mods.md",
-    "README.md.tmp.42532.6298b1ffd8b3",
-    "StardewValley/Mods.md.tmp.42532.0697fe5af6c9",
-    "StardewValley/Mods.md.tmp.42532.bc22c821a88f",
-    "StardewValley/assets/experience-bars-2.png",
-    "StardewValley/assets/experience-bars-1.png",
-    "StardewValley/assets/ui-info-suite.png",
-    "StardewValley/00 Home.md.tmp.42532.71769b198caa",
-    "StardewValley/Mẹo.md.tmp.42532.52ef3d1e6bc1",
-    "StardewValley/00 Home.md.tmp.42532.26b4502507a2",
-    "StardewValley/Mods.md.tmp.42532.faaf47034b47",
-    "StardewValley/assets/Pasted image 20260727162502.png",
-    "StardewValley/assets/Pasted image 20260727162456.png",
-    "StardewValley/assets/Pasted image 20260727162440.png",
-    "StardewValley/assets/Pasted image 20260727162013.png",
-    "StardewValley/Mẹo.md"
+    "StardewValley/Quy hoạch nông trại.md",
+    "README.md",
+    "StardewValley/Daily.md",
+    "StardewValley/00 Home.md.tmp.20332.9f9ac453dbfe",
+    "StardewValley/00 Home.md.tmp.20332.d361a1e9f5b7",
+    "README.md.tmp.20332.5bb9aa1b77d3",
+    "StardewValley/Daily.md.tmp.20332.c8b0f8a222df",
+    "StardewValley/Daily.md.tmp.20332.38925620742d",
+    "StardewValley/Daily.md.tmp.20332.d86a87b62774",
+    "StardewValley/Quy hoạch nông trại.md.tmp.20332.49d840d9ad05",
+    "StardewValley/Mods.md.tmp.20332.09d4860ad9d4",
+    "StardewValley/Mods.md.tmp.20332.2d3ac3a93c7b",
+    "StardewValley/Mods.md.tmp.20332.2f835c023bf2",
+    "StardewValley/Bản đồ khu vực.md",
+    "StardewValley/00 Home.md",
+    "StardewValley/assets/valley-map.png",
+    "StardewValley/assets/map-island-west.png",
+    "StardewValley/assets/map-backwoods.png",
+    "StardewValley/assets/map-secretwoods.png",
+    "StardewValley/assets/map-mines.png",
+    "StardewValley/assets/map-sewers.png",
+    "StardewValley/assets/map-island.png",
+    "StardewValley/assets/map-desert.png",
+    "StardewValley/assets/map-railroad.png",
+    "StardewValley/assets/map-beach.png"
   ]
 }
