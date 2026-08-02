@@ -9,7 +9,7 @@
 - [[#🧭 Nguyên tắc nền tảng|Nguyên tắc nền tảng]] — đọc trước, ăn tiền nhất cho người mới
 - **5 nghề:** [[#🌾 Trồng trọt (Farming)|Trồng trọt]] · [[#⛏️ Khai thác (Mining)|Khai thác]] · [[#🌰 Lượm (Foraging)|Lượm]] · [[#🎣 Câu cá (Fishing)|Câu cá]] · [[#⚔️ Chiến đấu (Combat)|Chiến đấu]]
 - [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền theo giai đoạn]] · [[#❤️ Kết bạn & hẹn hò|Kết bạn]] · [[#🧩 Trung tâm Cộng đồng|Trung tâm Cộng đồng]]
-- [[#⚙️ Mẹo liên quan mod|Mẹo mod]] · [[#🎥 Video hướng dẫn (tiếng Việt)|Video hướng dẫn]]
+- [[#🎛️ Tùy chọn game gốc nên bật|Tùy chọn game gốc]] · [[#⚙️ Mẹo liên quan mod|Mẹo mod]] · [[#🎥 Video hướng dẫn (tiếng Việt)|Video hướng dẫn]]
 
 ---
 
@@ -41,14 +41,17 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 ### Cơ chế & lộ trình lên cấp (1.6)
 
-> _Tóm ý từ video của Duy Haruno — xem [[#🎥 Video hướng dẫn (tiếng Việt)|mục Video hướng dẫn]] ở cuối note._
+> [!video] Tóm ý từ video của Duy Haruno
+> Bản đầy đủ kèm mốc thời gian ở [[#🎥 Video hướng dẫn (tiếng Việt)|mục Video hướng dẫn]] cuối note.
 
 - **Mùa vụ:** Mỗi mùa **28 ngày**. Trồng phải tính ngày chín — trồng muộn là mất trắng khi sang mùa. Ưu tiên cây tái thu hoạch nếu còn đủ ngày.
 - **Chất lượng nông sản (Thường → Bạc → Vàng → Iridium):** quyết định bởi **cấp kỹ năng** + **phân bón**. Chênh lệch giá rất lớn, nên bón phân từ đầu.
 - **3 nhóm phân bón:** tăng **chất lượng** · tăng **tốc độ lớn** · **giữ ẩm**. Chọn theo mục tiêu từng vụ, không rải bừa.
 - **Mốc cấp độ quan trọng:** mở khóa **Vòi phun nước** → **Thùng ủ (Keg)**. Hai thứ đổi đời, càng sớm càng tốt.
-- **Chọn nhánh nghề:** Cấp 5 chọn **Nông sản (Tiller)** hay **Chăn nuôi (Rancher)**; cấp 10 theo Tiller → **Nghệ nhân (Artisan) +40%** là hướng kiếm tiền mạnh nhất.
 - **Bậc thầy Trồng trọt (Mastery, 1.6):** thưởng **Lưỡi hái Iridium** và **Tượng Chúc Lành** — mục tiêu dài hạn đáng cày.
+
+> [!nghe] Chọn nhánh nghề Trồng trọt
+> Cấp 5 chọn **Nông sản (Tiller)** hay **Chăn nuôi (Rancher)**; cấp 10 theo Tiller → **Nghệ nhân (Artisan) +40%** — hướng kiếm tiền mạnh nhất game.
 
 ### 3 sai lầm người mới hay mắc
 
@@ -61,18 +64,19 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - Ăn no trước khi xuống mỏ; mang theo **món hồi sức** và bom.
 - **Thang máy 5 tầng/lần** — luôn xuống sâu nhất có thể trong 1 chuyến để cắm mốc mới.
 - Tìm thang nhanh: ưu tiên **đập đá và diệt quái** để rơi thang/hố.
-- **Hang Đầu Lâu (Skull Cavern):** dùng **Bom/Siêu Bom (Mega Bomb)** phá đá hàng loạt; uống **Cà phê** + ăn **Súp Lươn Cay (Spicy Eel)** để tăng tốc & may mắn.
-- Mang **Cầu thang (Staircase)** (chế từ 99 đá) để tụt tầng nhanh trong Hang Đầu Lâu — đi Hang Đầu Lâu vào **ngày may mắn cao** mới hiệu quả.
+- **Hang Đầu Lâu (Skull Cavern):** chỉ đi vào **ngày may mắn cao** mới hiệu quả. Mang **Bom/Siêu Bom (Mega Bomb)** phá đá hàng loạt và **Cầu thang (Staircase)** (chế từ 99 đá) để tụt tầng nhanh; uống **Cà phê** + ăn **Súp Lươn Cay (Spicy Eel)** để tăng tốc & may mắn.
 - Đá quý/quặng để dành: quyên góp Bảo tàng trước, phần thừa mới bán hoặc nấu thỏi.
 
 ## 🌰 Lượm (Foraging)
 
 - **Quét đồ lượm mỗi ngày** ở Rừng Cindersap → Bãi biển → Núi (xem [[Bản đồ khu vực]], mấy bản đồ có ô màu chính là **điểm mọc đồ lượm**).
-- **Chọn nghề:** Cấp 5 nên chọn **Người Tụ Tập (Gatherer)** — có tỉ lệ **x2 sản lượng** khi lượm; cấp 10 chọn **Nhà Thực Vật (Botanist)** — **mọi đồ lượm luôn ở phẩm cấp Iridium**. Đây là perk mạnh nhất game về lâu dài.
 - **Rừng Bí Mật:** 6 gốc cây cứng hồi lại **mỗi ngày** → nguồn **Gỗ Cứng (Hardwood)** ổn định nhất, cần rìu Thép trở lên.
 - **Mùa Đông** vẫn lượm được: dùng cuốc đào **điểm giun đất (worm tile)** để lấy Củ Mùa Đông (Winter Root), Khoai Tuyết (Snow Yam), cổ vật.
 - **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên (có cả Tinh Thể Lăng Trụ).
 - Giữ lại **Nhựa cây (Sap)** để làm phân bón, đừng bán.
+
+> [!nghe] Chọn nhánh nghề Lượm — perk mạnh nhất game về lâu dài
+> Cấp 5 chọn **Người Tụ Tập (Gatherer)**: tỉ lệ **x2 sản lượng** khi lượm. Cấp 10 chọn **Nhà Thực Vật (Botanist)**: **mọi đồ lượm luôn ở phẩm cấp Iridium**.
 
 ## 🎣 Câu cá (Fishing)
 
@@ -84,7 +88,8 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 ## ⚔️ Chiến đấu (Combat)
 
-> _Tóm ý từ video của Duy Haruno — xem [[#🎥 Video hướng dẫn (tiếng Việt)|mục Video hướng dẫn]] ở cuối note._
+> [!video] Tóm ý từ video của Duy Haruno
+> Bản đầy đủ kèm mốc thời gian ở [[#🎥 Video hướng dẫn (tiếng Việt)|mục Video hướng dẫn]] cuối note.
 
 ### Vũ khí
 
@@ -129,7 +134,8 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 | **Từ năm 2** | **Quả Cổ Đại (Ancient Fruit)** + dàn **Thùng ủ → Rượu vang** | Hướng làm giàu bền vững nhất |
 | **Bất kỳ lúc nào** | **Heo (Pig) → Nấm cục (Truffle) → Dầu nấm cục** | Nuôi Hạ/Thu, dùng Máy ép dầu (Oil Maker) |
 
-**Nguyên tắc chung:** luôn **chế biến trước khi bán**. Rượu vang (Wine) / Mứt (Jelly) / Bia Nhạt (Pale Ale) lời hơn bán thô rất nhiều — kết hợp nghề **Nghệ nhân (Artisan +40%)**. Dùng **Máy làm hạt giống (Seed Maker)** để nhân giống cây đắt thay vì mua hạt.
+> [!tien] Nguyên tắc chung — chế biến trước khi bán
+> Rượu vang (Wine) / Mứt (Jelly) / Bia Nhạt (Pale Ale) lời hơn bán thô rất nhiều — kết hợp nghề **Nghệ nhân (Artisan +40%)**. Dùng **Máy làm hạt giống (Seed Maker)** để nhân giống cây đắt thay vì mua hạt.
 
 ## ❤️ Kết bạn & hẹn hò
 
@@ -143,6 +149,44 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - Ưu tiên gói dễ trước: **Gói Cây Xuân (Spring Crops)**, **Gói Cây Thu (Fall Crops)** để mở phần thưởng sớm.
 - **Giữ lại 1 phần mỗi loại** nông/thủy/khoáng sản phẩm cấp cao để nộp gói — bán hết rồi mới phát hiện thiếu là rất mệt.
 - Dùng **Lookup Anything** để biết gói còn thiếu gì (xem [[Mods]]).
+
+## 🎛️ Tùy chọn game gốc nên bật
+
+> _Menu → **Tùy chọn (Options)**. Đây là cài đặt sẵn của game, không cần mod._
+
+- ✅ **Luôn hiện vị trí sử dụng công cụ** (_Always Show Tool Hit Location_) — vẽ **ô vuông sáng** lên đúng ô mà cuốc/bình tưới/rìu/cúp sẽ tác động.
+  - Mặc định **tắt** → ô chỉ báo chỉ hiện lúc **giữ chuột để sạc**. Bật lên thì hiện **liên tục** ngay khi cầm công cụ.
+  - Lợi: khỏi lỡ tay **cuốc trúng cây trồng** hay **chặt nhầm** đồ đã đặt; với công cụ đã nâng cấp, lúc sạc thấy rõ **cả vùng nhiều ô** → xếp luống đều, tưới 1 phát cả hàng.
+  - Chỉ áp dụng cho **công cụ**, không áp dụng vũ khí/cần câu. Khác với **Range Highlight** (mod đó tô vùng phủ của Vòi phun nước/Bù nhìn/Nhà ong — xem [[Mods#Range Highlight 4.2.1|Mods]]).
+- ✅ **Hiện thông tin chế tạo nâng cao** (_Show Advanced Crafting Information_) — hiện số lượng có thể chế và số nguyên liệu đang có ngay trong menu Chế tạo/Nấu ăn.
+- 🔧 **Mức thu phóng / Tỷ lệ giao diện** (_Zoom Level / UI Scale_) — hạ Zoom để thấy rộng hơn (tiện lúc quy hoạch nông trại), giữ UI Scale to cho dễ đọc.
+- 🔧 **Chạy tự động** (_Auto-Run_) — mặc định bật; giữ `Shift` để đi bộ chậm khi cần né chính xác.
+
+### ⌨️ Phím tắt gốc của game (để tránh gán trùng khi cài mod)
+
+> [!phim] Xem/đổi ở Tùy chọn → phần Điều khiển
+> Đây là bảng mặc định — nếu bạn từng đổi thì lấy trong game làm chuẩn.
+
+| Phím | Tác dụng |
+|------|----------|
+| `W` `A` `S` `D` | Di chuyển |
+| **Chuột trái** / `C` | **Dùng công cụ** |
+| **Chuột phải** / `X` | **Kiểm tra / tương tác** (nói chuyện, mở cửa, thu hoạch) |
+| `1`…`9` `0` `-` `=` | Chọn ô đồ trên thanh công cụ |
+| `Tab` | Đổi hàng thanh công cụ (túi đồ có 3 hàng) |
+| `E` hoặc `Esc` | Mở túi đồ / menu · `Esc` cũng để tạm dừng, đóng menu |
+| `F` | Mở nhật ký nhiệm vụ (Journal) |
+| `M` | Mở bản đồ |
+| `T` | Khung chat (chơi mạng) |
+| `Y` | Menu biểu cảm (emote) |
+| `Shift` (giữ) | Đi bộ chậm khi đang bật Chạy tự động |
+
+> [!phim] Phím nào đụng với mod thì xem ở [[Mods]]
+> Bảng trên là **phím gốc của game**. Phần đối chiếu — phím nào **thật sự đụng nhau** (`C`, `X`, chuột phải) và phím nào chỉ trùng ký tự nhưng **khác ngữ cảnh** nên không sao (`Shift trái`, `Space`, `F`, `Tab`) — nằm ngay dưới bảng phím mod ở [[Mods#🎹 Bảng phím tắt nhanh|Mods — Bảng phím tắt nhanh]].
+>
+> Để ở một chỗ duy nhất cho khỏi sửa bên này quên bên kia.
+
+---
 
 ## ⚙️ Mẹo liên quan mod
 

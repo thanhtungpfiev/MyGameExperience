@@ -15,11 +15,15 @@ Mở `StardewValley/00 Home.md` làm điểm bắt đầu — đây là mục l�
 | **Mẹo** | Nguyên tắc nền tảng, 5 nghề, kiếm tiền theo giai đoạn, kết bạn, Trung tâm Cộng đồng |
 | **Bản đồ khu vực** | Ảnh bản đồ từng khu (từ wiki), sơ đồ kết nối, từ điển địa danh Anh–Việt |
 | **Quy hoạch nông trại** | Bản đồ farm ban đầu, mẫu bố cục tham khảo, nguyên tắc sắp xếp |
+| **An toàn save** | 2 mod đổi save serializer, 3 lớp lưu, cách khôi phục khi hỏng save |
+| **Bản XNB và bản CP** | Mod đồ họa cho tải 2 bản thì lấy bản nào |
 
 ## 🛠️ Cách dùng
 
 - Mở thư mục này như một vault trong **Obsidian** để xem đầy đủ liên kết `[[wikilink]]`, ảnh nhúng và bảng.
 - Ảnh minh họa nằm trong `StardewValley/assets/`.
+- Mẫu ghi chú nằm trong `_Templates/` (plugin **Templates** đã trỏ sẵn vào đây). Thêm mod mới thì chèn mẫu `Mod — mục nhập` — trong mẫu có kèm hướng dẫn viết và danh sách callout riêng của vault.
+- Kiểu callout riêng (`[!phim]`, `[!save]`, `[!vh]`…) do `.obsidian/snippets/stardew-callouts.css` định nghĩa — **bật snippet đó** trong Cài đặt → Giao diện, không thì callout hiện dạng mặc định.
 
 ## 🔗 Tham khảo ngoài
 

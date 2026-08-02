@@ -4,7 +4,7 @@
 >
 > _Ghi chi tiết mỗi ngày làm gì. Bắt đầu từ Ngày 1, Năm 1, mùa Xuân._
 >
-> _Bản đồ farm & các mẫu bố cục đã tách sang [[Quy hoạch nông trại]] cho gọn note này._
+> _Note này trả lời **"hôm nay/mùa này trồng gì, làm gì"**. Còn **"bán thế nào cho lời"** thì xem [[Mẹo#💰 Kiếm tiền theo giai đoạn|Mẹo — Kiếm tiền theo giai đoạn]]._
 
 ## 📆 Năm 1 · Xuân
 
@@ -16,16 +16,16 @@
 
 1. **Xem hết hội thoại mở đầu** (thư của ông, gặp Lewis & Robin).
 2. **Bật TV trong nhà** trước khi ra ngoài — thành thói quen từ ngày đầu:
-   - **Dự báo thời tiết:** nếu **mai mưa** thì tối nay **khỏi tưới**, tiết kiệm cả thanh năng lượng.
-   - **Thầy bói:** biết hôm nay may hay xui.
+  - **Dự báo thời tiết:** nếu **mai mưa** thì tối nay **khỏi tưới**, tiết kiệm cả thanh năng lượng.
+  - **Thầy bói:** biết hôm nay may hay xui.
 3. **Dọn 1 khoảng đất** gần nhà/thùng vận chuyển:
-   - **Cỏ dại (Weeds)** — đập bằng bất kỳ công cụ nào → ra **Sợi (Fiber)**, thỉnh thoảng ra **Hạt giống hỗn hợp (Mixed Seeds)** → trồng thêm được miễn phí.
-   - **Đá** (Cuốc chim) → **Đá**; **cành cây / gốc cây nhỏ** (Rìu) → **Gỗ**.
-   - Chỉ dọn đủ chỗ cho 15 ô, **đừng dọn quá sức** — năng lượng để dành cày & tưới.
+  - **Cỏ dại (Weeds)** — đập bằng bất kỳ công cụ nào → ra **Sợi (Fiber)**, thỉnh thoảng ra **Hạt giống hỗn hợp (Mixed Seeds)** → trồng thêm được miễn phí.
+  - **Đá** (Cuốc chim) → **Đá**; **cành cây / gốc cây nhỏ** (Rìu) → **Gỗ**.
+  - Chỉ dọn đủ chỗ cho 15 ô, **đừng dọn quá sức** — năng lượng để dành cày & tưới.
 4. **Trồng 15 hạt Củ cải vàng:**
-   - **Cuốc** cày 15 ô, bố trí **3 × 5** cho gọn, dễ tưới.
-   - Gieo hạt → **tưới cả 15 ô** (hết nước thì ra ao/sông trên farm đổ lại).
-   - Trồng gần **nhà + thùng vận chuyển** và gần **hồ nước** — xem bản đồ ở [[Quy hoạch nông trại]].
+  - **Cuốc** cày 15 ô, bố trí **3 × 5** cho gọn, dễ tưới.
+  - Gieo hạt → **tưới cả 15 ô** (hết nước thì ra ao/sông trên farm đổ lại).
+  - Trồng gần **nhà + thùng vận chuyển** và gần **hồ nước** — xem bản đồ ở [[Quy hoạch nông trại]].
 5. **Vào Thị trấn Pelican:** chào **càng nhiều dân làng càng tốt** (mỗi lần nói chuyện đều +tình cảm, hôm nay ai cũng chưa quen). Ghé **cửa hàng Pierre** (mở **9:00–17:00**, nghỉ **Thứ Tư**) cho biết chỗ — ngày 1 **chưa cần mua gì**, giữ 500g.
 6. **Lượm đồ mùa Xuân** dọc đường: Hành mùa Xuân (Spring Onion), Củ cải ngựa dại (Wild Horseradish), Bồ công anh (Dandelion), Tỏi tây (Leek), Thủy tiên (Daffodil) → ăn hồi sức hoặc bán.
 7. **Dùng gần cạn năng lượng rồi về ngủ trước 24:00.** Năng lượng **không cộng dồn** sang hôm sau — tiết kiệm là phí. Quá **02:00** sẽ ngất (mất tiền, có thể mất đồ).
@@ -39,13 +39,13 @@
 - ⚠️ **Ngày 1 chưa câu cá được** — chưa có cần câu (xem Ngày 2).
 
 **Checklist Ngày 1:**
-- [ ] Xem hết hội thoại mở đầu
-- [ ] Bật TV xem thời tiết + vận may
-- [ ] Dọn đất đủ cho 15 ô
-- [ ] Cày + gieo + tưới 15 Củ cải vàng
-- [ ] Vào town chào dân làng
-- [ ] Lượm đồ mùa Xuân
-- [ ] Dùng hết năng lượng rồi ngủ trước 24:00
+- [x] Xem hết hội thoại mở đầu
+- [x] Bật TV xem thời tiết + vận may
+- [x] Dọn đất đủ cho 15 ô
+- [x] Cày + gieo + tưới 15 Củ cải vàng
+- [x] Vào town chào dân làng
+- [x] Lượm đồ mùa Xuân
+- [x] Dùng hết năng lượng rồi ngủ trước 24:00
 
 ---
 
@@ -72,10 +72,10 @@
 
 1. **Hầm mỏ (The Mines)** — Morris gửi thư báo đá lở đã được dọn. Lên Ngọn núi là vào được.
 2. **Trung tâm Cộng đồng** — mở cutscene với Lewis, nhưng **điều kiện rất khó tính**:
-   - Vào Thị trấn **từ hướng Bến xe buýt** (không phải hướng khác),
-   - **Ngày không mưa**,
-   - Trong khung **08:00 – 13:00**.
-   - Sai 1 trong 3 → không kích hoạt, phải chờ hôm sau.
+  - Vào Thị trấn **từ hướng Bến xe buýt** (không phải hướng khác),
+  - **Ngày không mưa**,
+  - Trong khung **08:00 – 13:00**.
+  - Sai 1 trong 3 → không kích hoạt, phải chờ hôm sau.
 
 - [ ] **Thu hoạch 15 Củ cải vàng**
 - [ ] Đi vào town đúng hướng Bến xe buýt trong khung 8–13h để mở Trung tâm Cộng đồng
@@ -143,6 +143,6 @@
 ### ❄️ Đông (Winter)
 
 - **Không trồng được ngoài trời** (chỉ Nhà kính) → dồn sức cho: **hầm mỏ**, **câu cá**, **kết bạn**, **xây/nâng cấp công trình**, **quyên góp Bảo tàng**.
-- Vẫn lượm được: dùng cuốc đào **điểm giun đất** để lấy Củ Mùa Đông, Khoai Tuyết, cổ vật.
+- Vẫn lượm được — đào **điểm giun đất**, chi tiết ở [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
 - Đây là mùa tốt nhất để **nâng cấp công cụ** (không lo bỏ lỡ vụ mùa).
 - **Sự kiện:** Lễ hội Băng (8) · Đại tiệc Sao Đông (25).

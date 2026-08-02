@@ -30,13 +30,9 @@
 
 ## 🌾 Nông trại (The Farm) — Tiêu chuẩn
 
-![[assets/standard-farm-full.png|700]]
-
 - **Bản đồ wiki:** https://stardewvalleywiki.com/The_Farm
-- **Quy hoạch farm chi tiết:** xem [[Daily]] (2 bản vẽ gọn-đẹp & hiệu-quả).
 - **Nối tới:** Backwoods (phía bắc) → đi Núi/Bus Stop · Rừng Cindersap (phía nam).
-- **Có gì:** Nhà nông trại, thùng vận chuyển, hang trên farm (chọn Nấm/Dơi), 2 hồ nước để lấy nước tưới.
-- **Công cụ planner:** https://stardew.info/planner/ (chọn Standard Farm để quy hoạch).
+- **Ảnh farm, mẫu bố cục, công cụ planner và nguyên tắc sắp xếp:** đều nằm ở [[Quy hoạch nông trại]] — note đó lo trọn phần quy hoạch, ở đây không chép lại.
 
 ## 🌳 Backwoods (Rừng sau nhà)
 
