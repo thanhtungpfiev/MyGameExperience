@@ -3,5 +3,7 @@
   "newFileLocation": "current",
   "attachmentFolderPath": "./assets",
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "useTab": false,
+  "tabSize": 2
 }

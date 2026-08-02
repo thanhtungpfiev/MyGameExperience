@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "StardewValley/Daily.md",
+                "file": "StardewValley/Mẹo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Daily"
+              "title": "Mẹo"
+            }
+          },
+          {
+            "id": "05637186a1e0d5f0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "StardewValley/00 Home.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00 Home"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,7 +56,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,35 +201,39 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a1d313260c5f4fae",
+  "active": "05637186a1e0d5f0",
   "lastOpenFiles": [
-    "StardewValley/Daily.md.tmp.20332.51decc5df35d",
+    "StardewValley/Mods.md.tmp.7288.2cae4b51e8fb",
+    "StardewValley/Daily.md",
+    "README.md.tmp.7288.642790b837c7",
+    "StardewValley/00 Home.md.tmp.7288.04ad661abb6c",
+    "StardewValley/Mods.md.tmp.7288.9265b0ce46cd",
+    "StardewValley/Mods.md.tmp.7288.5d0fa7cdcda2",
+    "StardewValley/Mods.md.tmp.7288.f80fecfb1de7",
+    "StardewValley/Mods.md.tmp.7288.17aab5c31ff7",
+    "StardewValley/Bản XNB và bản CP.md",
+    "StardewValley/Bản XNB và bản CP.md.tmp.7288.dffed7945796",
+    "StardewValley/An toàn save.md",
+    "StardewValley/An toàn save.md.tmp.7288.6d30ca1e6151",
+    "StardewValley/Quy hoạch nông trại.md",
+    "README.md.tmp.7288.d5d8196a1411",
+    "StardewValley/00 Home.md.tmp.7288.55a4a1b84974",
     "StardewValley/Mẹo.md",
     "StardewValley/Mods.md",
-    "StardewValley/Quy hoạch nông trại.md",
-    "README.md",
-    "StardewValley/Daily.md",
-    "StardewValley/00 Home.md.tmp.20332.9f9ac453dbfe",
-    "StardewValley/00 Home.md.tmp.20332.d361a1e9f5b7",
-    "README.md.tmp.20332.5bb9aa1b77d3",
-    "StardewValley/Daily.md.tmp.20332.c8b0f8a222df",
-    "StardewValley/Daily.md.tmp.20332.38925620742d",
-    "StardewValley/Daily.md.tmp.20332.d86a87b62774",
-    "StardewValley/Quy hoạch nông trại.md.tmp.20332.49d840d9ad05",
-    "StardewValley/Mods.md.tmp.20332.09d4860ad9d4",
-    "StardewValley/Mods.md.tmp.20332.2d3ac3a93c7b",
-    "StardewValley/Mods.md.tmp.20332.2f835c023bf2",
-    "StardewValley/Bản đồ khu vực.md",
+    "StardewValley/assets/farm-foundry-1.png",
+    "StardewValley/assets/farm-foundry-2.png",
+    "StardewValley/assets/farm-foundry.png",
+    "StardewValley/assets/Pasted image 20260802085642.png",
+    "StardewValley/assets/Pasted image 20260802085633.png",
+    "StardewValley/assets/cjb-cheats-menu.png",
+    "StardewValley/assets/Pasted image 20260802082737.png",
+    "StardewValley/assets/multisave-4.png",
+    "StardewValley/assets/multisave-3.png",
+    "StardewValley/assets/multisave-2.png",
     "StardewValley/00 Home.md",
-    "StardewValley/assets/valley-map.png",
-    "StardewValley/assets/map-island-west.png",
-    "StardewValley/assets/map-backwoods.png",
-    "StardewValley/assets/map-secretwoods.png",
-    "StardewValley/assets/map-mines.png",
-    "StardewValley/assets/map-sewers.png",
-    "StardewValley/assets/map-island.png",
-    "StardewValley/assets/map-desert.png",
-    "StardewValley/assets/map-railroad.png",
-    "StardewValley/assets/map-beach.png"
+    "StardewValley/Untitled.md",
+    "_Templates/Mod — mục nhập.md",
+    "README.md",
+    "StardewValley/Bản đồ khu vực.md"
   ]
 }

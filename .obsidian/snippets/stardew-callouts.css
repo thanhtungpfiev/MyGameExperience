@@ -1,0 +1,110 @@
+/* ══════════════════════════════════════════════════════════════
+   Callout riêng cho vault Stardew Valley
+   Bật ở: Settings → Appearance → CSS snippets → stardew-callouts
+
+   Cách dùng:  > [!phim] Tiêu đề
+               > nội dung
+   Thêm  -  để mặc định gấp:  > [!bom]- Tiêu đề
+   Thêm  +  để mặc định mở:   > [!bom]+ Tiêu đề
+
+   --callout-color  phải là 3 số RGB, KHÔNG bọc rgb()
+   --callout-icon   là tên icon Lucide (đổi tên khác tại lucide.dev)
+   ══════════════════════════════════════════════════════════════ */
+
+/* 🎹 Phím tắt, gán phím, trùng phím */
+.callout[data-callout="phim"] {
+  --callout-color: 189, 147, 249;
+  --callout-icon: lucide-keyboard;
+}
+
+/* 🔗 Link tải, trang tra cứu, nguồn ngoài */
+.callout[data-callout="nexus"] {
+  --callout-color: 139, 233, 253;
+  --callout-icon: lucide-download;
+}
+
+/* 🇻🇳 Ghi chú bản Việt hóa, thuật ngữ dịch */
+.callout[data-callout="vh"] {
+  --callout-color: 255, 121, 198;
+  --callout-icon: lucide-languages;
+}
+
+/* 💣 Nguy hiểm trong game — mất mùa, mất đồ, chết */
+.callout[data-callout="bom"] {
+  --callout-color: 255, 184, 108;
+  --callout-icon: lucide-bomb;
+}
+
+/* 🛟 An toàn save — hỏng save, serializer, backup */
+.callout[data-callout="save"] {
+  --callout-color: 255, 85, 85;
+  --callout-icon: lucide-shield-alert;
+}
+
+/* 💰 Kiếm tiền, giá cả, lợi nhuận */
+.callout[data-callout="tien"] {
+  --callout-color: 241, 250, 140;
+  --callout-icon: lucide-coins;
+}
+
+/* 📅 Ngày, mùa, khung giờ, thời điểm phải canh */
+.callout[data-callout="lich"] {
+  --callout-color: 98, 158, 255;
+  --callout-icon: lucide-calendar;
+}
+
+/* 🏆 Chọn nghề, perk, mốc cấp độ — quyết định không đổi lại được */
+.callout[data-callout="nghe"] {
+  --callout-color: 80, 250, 123;
+  --callout-icon: lucide-award;
+}
+
+/* 🎥 Video hướng dẫn, nguồn tham khảo */
+.callout[data-callout="video"] {
+  --callout-color: 98, 114, 164;
+  --callout-icon: lucide-youtube;
+}
+
+/* ── Light theme: mấy màu pastel trên nền trắng bị nhạt quá ── */
+.theme-light .callout[data-callout="tien"] {
+  --callout-color: 168, 132, 0;
+}
+.theme-light .callout[data-callout="nghe"] {
+  --callout-color: 22, 145, 60;
+}
+.theme-light .callout[data-callout="nexus"] {
+  --callout-color: 20, 128, 158;
+}
+.theme-light .callout[data-callout="lich"] {
+  --callout-color: 28, 98, 200;
+}
+.theme-light .callout[data-callout="video"] {
+  --callout-color: 88, 100, 140;
+}
+
+/* ══════════════════════════════════════════════════════════════
+   Sửa vài chỗ khó đọc của callout mặc định
+   ══════════════════════════════════════════════════════════════ */
+
+/* Bảng trong callout: tràn ngang thì cho cuộn, đừng phá vỡ layout */
+.callout-content {
+  overflow-x: auto;
+}
+.callout-content table {
+  width: 100%;
+  margin: 0.4em 0;
+}
+.callout-content table th,
+.callout-content table td {
+  padding: 0.3em 0.6em;
+}
+
+/* Callout liền nhau: giãn ra cho khỏi dính vào nhau */
+.callout + .callout {
+  margin-top: 0.75em;
+}
+
+/* Tiêu đề callout: bỏ in đậm quá nặng, giữ màu là đủ */
+.callout-title-inner {
+  font-weight: 600;
+}
