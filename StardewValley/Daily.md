@@ -83,13 +83,13 @@
 - [[Mods#Visible Fish 0.4.2|Visible Fish]] vẽ sẵn **đúng con đang câu được** dưới mặt nước — liếc là biết chỗ nào có gì, khỏi tra bảng.
 
 **Checklist Ngày 2:**
-- [ ] Mở hộp thư (thư Willy)
-- [ ] Bật TV xem thời tiết + vận may
-- [ ] Tưới 15 Củ cải vàng
-- [ ] Ra Tiệm Cá nhận **Cần tre**
-- [ ] Câu cá kiếm vốn ở biển / sông
-- [ ] Lượm đồ dọc đường
-- [ ] Ship cá + đồ lượm trước 12h đêm, ngủ trước 24:00
+- [x] Mở hộp thư (thư Willy)
+- [x] Bật TV xem thời tiết + vận may
+- [x] Tưới 15 Củ cải vàng
+- [x] Ra Tiệm Cá nhận **Cần tre**
+- [x] Câu cá kiếm vốn ở biển / sông
+- [x] Lượm đồ dọc đường
+- [x] Ship cá + đồ lượm trước 12h đêm, ngủ trước 24:00
 
 ---
 
@@ -101,10 +101,41 @@
 - 📺 **Nữ hoàng Nước sốt (Queen of Sauce)** chiếu hôm nay — **bật TV học công thức miễn phí**. Bỏ lỡ là sau này phải bỏ tiền mua lại.
 - 🚫 **Cửa hàng Pierre nghỉ Thứ Tư** — cần mua gì thì để mai.
 
+**🎣 Câu gì hôm nay — 3 con chỉ ra khi mưa:**
+
+| Cá | Khu | Giờ | Giá | Gói Cộng đồng |
+|---|---|---|---|---|
+| **Cá trê (Catfish)** | **Sông** — Thị trấn / Rừng Cindersap | 06:00–24:00 | ~200g | **Gói Cá Sông** ✅ |
+| **Cá cháy (Shad)** | **Sông** — Thị trấn / Rừng | 09:00–02:00 | ~60g | **Gói Cá Sông** ✅ |
+| **Lươn (Eel)** | **Biển** — Bãi biển | **16:00**–02:00 | ~85g | **Gói Câu Đêm** ✅ |
+
+**Cá trê là mục tiêu số một** — đắt nhất trong ba con, mùa Xuân chỉ ra khi mưa. Bỏ lỡ là chờ ngày mưa kế tiếp hoặc sang tận mùa Thu.
+
+**Lươn** giữ lại vài con làm **Súp Lươn Cay (Spicy Eel)** — món tăng tốc & may mắn để đi Hang Đầu Lâu (xem [[Mẹo#⛏️ Khai thác (Mining)|Mẹo — Khai thác]]), đừng ship hết.
+
+**Lộ trình theo giờ:**
+
+| Khung giờ | Ở đâu | Bắt gì |
+|---|---|---|
+| 06:00–09:00 | **Sông trong Thị trấn** | Cá trê |
+| 09:00–16:00 | Vẫn ở sông | Cá trê + Cá cháy (từ 9:00) |
+| **16:00**–tối | **Chuyển ra Bãi biển** | **Lươn** + Cá mòi, Cá trích, Cá cơm |
+| 18:00 trở đi | Quay lại sông nếu còn sức | Cá vền (Bream) — Gói Câu Đêm |
+
+Mốc **16:00** phải nhớ: trước giờ đó ra biển thì không có Lươn.
+
+**Tiện thể lấp luôn gói khác** (mấy con này không kén thời tiết): Cá chép (Carp) & Cá vược miệng rộng (Largemouth Bass) ở **hồ Ngọn núi** → Gói Cá Hồ · Cá mòi (Sardine) ở biển 06:00–19:00 → Gói Cá Biển.
+
+> [!nghe] Con Huyền Thoại (Legend) — ghi để dành cho sau
+> **Legend** ~5.000g, con đắt nhất game, **chỉ ra vào mùa Xuân + trời mưa**, ở **hồ Ngọn núi**. Hôm nay chưa lấy được vì nó **đòi Câu cá cấp 10**, nhưng [[Mods#Visible Fish 0.4.2|Visible Fish]] sẽ **vẽ sẵn nó đúng ô đứng câu** — cứ ghé nhìn cho biết chỗ. Xuân năm sau gặp ngày mưa là quay lại: cả game chỉ có vài ngày như vậy.
+
 - [ ] Mở hộp thư
 - [ ] **Bật TV — xem Nữ hoàng Nước sốt** (+ thời tiết, vận may)
 - [ ] **Không cần tưới** — mưa tự tưới ruộng ngoài trời
-- [ ] **Câu cá cả ngày** — mưa là lúc cá đặc biệt xuất hiện, dễ ăn cá hiếm hơn
+- [ ] **Cá trê** ở sông (cả ngày)
+- [ ] **Cá cháy** ở sông (từ 09:00)
+- [ ] **Lươn** ở biển (từ 16:00) — giữ lại vài con
+- [ ] Ghé hồ Ngọn núi xem chỗ đứng câu **Legend**
 - [ ] Dọn thêm đất / chặt cây lấy gỗ (dành gỗ để xây Kho cỏ & rương)
 - [ ] _(điền kế hoạch của bạn)_
 
