@@ -10,23 +10,48 @@
 
 > _Ảnh nhỏ trong game (nút bản đồ). Xem chi tiết từng khu ở các mục bên dưới._
 
-## 🧭 Sơ đồ kết nối tổng thể (tương đối)
+## 🧭 Bảng kết nối các khu
 
-```
-                        [Đường ray xe lửa]  (mở sau)
-                               │
-      [Backwoods] ───────── [Ngọn núi]
-          │                    │  └─ Hầm mỏ · Mỏ đá · Xưởng Mộc · Hội Mạo Hiểm · Lều Linus
-     [NÔNG TRẠI]               │
-          │               [Thị trấn Pelican] ══(xe buýt)══► [Sa mạc Calico]
-          │                    │                               └─ Ốc đảo · Hang Đầu Lâu · Người buôn
-   [Rừng Cindersap] ───────────┘
-          │  └─ Marnie · Leah · Tháp Pháp sư · Rừng Bí Mật · Xe hàng rong
-     [Bãi biển] ──(tàu Willy)──► [Đảo Gừng]  (end-game)
-          └─ Tiệm Cá · Vũng thủy triều
-```
+> _Hình dạng và vị trí thật thì xem **ảnh bản đồ ngay phía trên** — đó là bản đồ trong game, chuẩn tuyệt đối. Bảng này lo phần ảnh không nói được: **đi từ đâu sang đâu bằng lối nào**._
 
-> _Sơ đồ chỉ để hình dung hướng đi, không đúng tỉ lệ. Muốn xem chính xác từng ô, bấm link "Bản đồ wiki" ở mỗi khu bên dưới._
+| Khu | Đi bộ sang | Lối riêng trong khu |
+|---|---|---|
+| 🌾 **Nông trại** | Backwoods (bắc) · Rừng Cindersap (nam) | Hang trên farm (Nấm/Dơi) |
+| 🌳 **Backwoods** | Nông trại (tây) · Ngọn núi (đông) · Bến xe buýt (nam) | — |
+| 🚌 **Bến xe buýt** | Backwoods (tây bắc) · Thị trấn (đông) | 🚌 **Xe buýt → Sa mạc Calico** |
+| 🏘️ **Thị trấn Pelican** | Bến xe buýt (tây) · Ngọn núi (đông bắc) · Rừng Cindersap (nam) · Bãi biển (nam) | — |
+| ⛰️ **Ngọn núi** | Backwoods (tây) · Thị trấn (nam) · Đường ray (bắc) | ⛏️ **Hầm mỏ** · Mỏ đá |
+| 🌲 **Rừng Cindersap** | Nông trại (bắc) · Thị trấn (đông bắc) | 🌿 **Rừng Bí Mật** (rìu Thép) · Cống ngầm |
+| 🏖️ **Bãi biển** | **Thị trấn (bắc) — lối duy nhất** | ⛵ **Tàu Willy → Đảo Gừng** |
+| 🚂 **Đường ray xe lửa** | Ngọn núi (nam) | Túp lều Phù thủy |
+| 🏜️ **Sa mạc Calico** | _không đi bộ tới được_ | 💀 **Hang Đầu Lâu** |
+| 🌋 **Đảo Gừng** | _không đi bộ tới được_ | Hầm Núi lửa |
+
+**Hai chỗ trực giác hay đánh lừa:**
+
+- **Rừng Cindersap ✗ Bãi biển** — nhìn bản đồ tưởng sát nhau, thực tế **không có lối**. Ra biển bắt buộc vòng qua Thị trấn.
+- **Nông trại ✗ Thị trấn** — cũng không nối thẳng. Phải qua Rừng Cindersap (nam) hoặc Backwoods → Bến xe buýt (bắc).
+
+**Mở khóa khi nào:**
+
+| Khu | Điều kiện |
+|---|---|
+| ⛏️ **Hầm mỏ** | **Ngày 5 Xuân Năm 1** — thư báo dọn xong đá lở |
+| 🌿 **Rừng Bí Mật** | Có **rìu Thép** trở lên để chặt gốc cây to |
+| 🚂 **Đường ray xe lửa** | **Hạ 3** — động đất mở đường từ Ngọn núi lên |
+| 🏜️ **Sa mạc Calico** | **Sửa xe buýt** — gói Kho Tiền (Vault) ở Trung tâm Cộng đồng, hoặc mua ở Joja |
+| 💀 **Hang Đầu Lâu** | Vào được Sa mạc là vào được |
+| 🌋 **Đảo Gừng** | **Sửa tàu của Willy** ở Tiệm Cá — nội dung end-game |
+
+> [!nexus] Nguồn tra cứu bản đồ — đã kiểm chứng
+> **Chuẩn nhất cho câu hỏi "khu A nối khu B không":**
+> - [Category:Locations](https://stardewvalleywiki.com/Category:Locations) — wiki chính thức, mỗi trang khu ghi rõ lối ra vào. Link từng trang có sẵn ở mỗi mục bên dưới.
+> - [Modding:Location data](https://stardewvalleywiki.com/Modding:Location_data) — dữ liệu warp gốc của game, chính xác tuyệt đối nhưng khô như tài liệu kỹ thuật.
+>
+> **Bản đồ tương tác** (điểm câu cá · đồ lượm theo mùa · điểm giun đất · thư bí mật):
+> - [GameMappers](http://gamemappers.com/stardew-valley-map/) · [Wand](https://wand.com/maps/stardew-valley) · [FrontierNav](https://frontiernav.net/wiki/stardew-valley/visualisations/maps)
+>
+> ⚠️ **Bẫy:** trang `stardewvalleywiki.com/World_Map` là **món đồ nội thất treo tường**, không phải bản đồ thung lũng. Wiki **không có** trang bản đồ tổng thể nào — bố cục thật thì lấy **ảnh bản đồ trong game** làm chuẩn.
 
 ## 🌾 Nông trại (The Farm) — Tiêu chuẩn
 
@@ -75,7 +100,7 @@
 ![[assets/map-forest.png|700]]
 
 - **Bản đồ wiki:** https://stardewvalleywiki.com/Cindersap_Forest
-- **Nối tới:** Nông trại (bắc) · Thị trấn (đông bắc) · Bãi biển (đông).
+- **Nối tới:** Nông trại (bắc) · Thị trấn (đông bắc). **Không** có lối đi thẳng sang Bãi biển — muốn ra biển phải vòng qua Thị trấn.
 - **Có gì:** Trang trại Marnie (vật nuôi) · Nhà Leah · Tháp Pháp sư (Rasmodius) · **Rừng Bí Mật** (chặt gốc cây cứng mới vào) · **Xe hàng rong** (Thứ 6 & CN) · cửa vào Cống ngầm.
 
 ## 🏖️ Bãi biển (The Beach)
@@ -83,7 +108,7 @@
 ![[assets/map-beach.png|700]]
 
 - **Bản đồ wiki:** https://stardewvalleywiki.com/The_Beach
-- **Nối tới:** Thị trấn (bắc).
+- **Nối tới:** Thị trấn (bắc) — **lối duy nhất**, không vào thẳng từ Rừng Cindersap được.
 - **Có gì:** Tiệm Cá (Willy — đồ câu, **tàu đi Đảo Gừng**) · Vũng thủy triều (lượm hải sản khi triều rút) · câu cá biển.
 
 ## 🚂 Đường ray xe lửa (The Railroad)

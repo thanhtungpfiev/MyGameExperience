@@ -40,13 +40,13 @@
 - ⚙️ **Máy bạn đang bật `InfiniteStamina`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → mấy lời khuyên tiết kiệm năng lượng ở trên **không áp dụng**, cứ dọn và tưới thoải mái. Giới hạn thật sự chỉ còn **thời gian trong ngày**.
 
 **Checklist Ngày 1:**
-- [x] Xem hết hội thoại mở đầu
-- [x] Bật TV xem thời tiết + vận may
-- [x] Dọn đất đủ cho 15 ô
-- [x] Cày + gieo + tưới 15 Củ cải vàng
-- [x] Vào town chào dân làng
-- [x] Lượm đồ mùa Xuân
-- [x] Dùng hết năng lượng rồi ngủ trước 24:00
+- [ ] Xem hết hội thoại mở đầu
+- [ ] Bật TV xem thời tiết + vận may
+- [ ] Dọn đất đủ cho 15 ô
+- [ ] Cày + gieo + tưới 15 Củ cải vàng
+- [ ] Vào town chào dân làng
+- [ ] Lượm đồ mùa Xuân
+- [ ] Dùng hết năng lượng rồi ngủ trước 24:00
 
 ---
 
@@ -63,7 +63,7 @@
   - _(Nữ hoàng Nước sốt chỉ chiếu **CN & Thứ Tư**, hôm nay Thứ Ba nên không có.)_
 3. **Tưới 15 Củ cải vàng** — hôm nay vẫn nắng nên vẫn phải tưới tay.
 4. **Đi bãi biển nhận Cần tre:** ra khỏi farm hướng nam → Rừng Cindersap → Thị trấn → qua cầu xuống nam là **Bãi biển**. Vào **Tiệm Cá của Willy** (mở **9:00–17:00**) → Willy tặng **Cần tre** và chỉ cách câu.
-  - ⚠️ _Cần kiểm chứng:_ [[Bản đồ khu vực]] ghi Rừng Cindersap **nối thẳng sang Bãi biển (đông)**. Nếu đúng thì đi lối đó gần hơn, khỏi vòng qua Thị trấn. Đi thử một lần rồi **sửa lại note nào ghi sai**.
+  - ⚠️ **Bắt buộc vòng qua Thị trấn** — Rừng Cindersap **không** có lối đi thẳng ra Bãi biển, dù nhìn bản đồ tưởng gần.
 5. **Tập câu ngay tại bãi biển** hoặc sông trong thị trấn:
   - Quăng cần → chờ dấu `!` → bấm để dính → giữ/nhả chuột cho **ô xanh bám theo con cá**, thanh bên phải đầy là bắt được.
   - Câu cá **cấp 0 rất khó**, ô xanh nhỏ xíu — dính rác (rong, lon, giày cũ) là chuyện thường, đừng nản. Mỗi cấp lên ô xanh dài thêm.
@@ -85,13 +85,13 @@
 - [[Mods#Visible Fish 0.4.2|Visible Fish]] vẽ sẵn **đúng con đang câu được** dưới mặt nước — liếc là biết chỗ nào có gì, khỏi tra bảng.
 
 **Checklist Ngày 2:**
-- [x] Mở hộp thư (thư Willy)
-- [x] Bật TV xem thời tiết + vận may
-- [x] Tưới 15 Củ cải vàng
-- [x] Ra Tiệm Cá nhận **Cần tre**
-- [x] Câu cá kiếm vốn ở biển / sông
-- [x] Lượm đồ dọc đường
-- [x] Ship cá + đồ lượm trước 12h đêm, ngủ trước 24:00
+- [ ] Mở hộp thư (thư Willy)
+- [ ] Bật TV xem thời tiết + vận may
+- [ ] Tưới 15 Củ cải vàng
+- [ ] Ra Tiệm Cá nhận **Cần tre**
+- [ ] Câu cá kiếm vốn ở biển / sông
+- [ ] Lượm đồ dọc đường
+- [ ] Ship cá + đồ lượm trước 12h đêm, ngủ trước 24:00
 
 ---
 
