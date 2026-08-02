@@ -37,6 +37,7 @@
 - ⚠️ **Cắt cỏ (Grass) bằng Liềm ngày 1 KHÔNG ra cỏ khô.** Cỏ khô (Hay) chỉ vào kho khi bạn đã có **Kho cỏ (Silo)** chưa đầy. Chưa có Silo thì cắt cỏ = mất trắng → **để dành cỏ** cho vật nuôi sau này.
 - ⚠️ **Ngày 1 chưa xuống mỏ được** — lối vào Hầm mỏ bị đá lở chặn **tới ngày 5 Xuân**.
 - ⚠️ **Ngày 1 chưa câu cá được** — chưa có cần câu (xem Ngày 2).
+- ⚙️ **Máy bạn đang bật `InfiniteStamina`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → mấy lời khuyên tiết kiệm năng lượng ở trên **không áp dụng**, cứ dọn và tưới thoải mái. Giới hạn thật sự chỉ còn **thời gian trong ngày**.
 
 **Checklist Ngày 1:**
 - [x] Xem hết hội thoại mở đầu
@@ -62,6 +63,7 @@
   - _(Nữ hoàng Nước sốt chỉ chiếu **CN & Thứ Tư**, hôm nay Thứ Ba nên không có.)_
 3. **Tưới 15 Củ cải vàng** — hôm nay vẫn nắng nên vẫn phải tưới tay.
 4. **Đi bãi biển nhận Cần tre:** ra khỏi farm hướng nam → Rừng Cindersap → Thị trấn → qua cầu xuống nam là **Bãi biển**. Vào **Tiệm Cá của Willy** (mở **9:00–17:00**) → Willy tặng **Cần tre** và chỉ cách câu.
+  - ⚠️ _Cần kiểm chứng:_ [[Bản đồ khu vực]] ghi Rừng Cindersap **nối thẳng sang Bãi biển (đông)**. Nếu đúng thì đi lối đó gần hơn, khỏi vòng qua Thị trấn. Đi thử một lần rồi **sửa lại note nào ghi sai**.
 5. **Tập câu ngay tại bãi biển** hoặc sông trong thị trấn:
   - Quăng cần → chờ dấu `!` → bấm để dính → giữ/nhả chuột cho **ô xanh bám theo con cá**, thanh bên phải đầy là bắt được.
   - Câu cá **cấp 0 rất khó**, ô xanh nhỏ xíu — dính rác (rong, lon, giày cũ) là chuyện thường, đừng nản. Mỗi cấp lên ô xanh dài thêm.
@@ -98,7 +100,7 @@
 **Mưa cả ngày** (Năm 1 luôn mưa hôm nay) → **khỏi tưới ruộng**, cả thanh năng lượng dồn cho việc khác.
 
 ⚠️ **Thứ Tư có 2 thứ phải nhớ:**
-- 📺 **Nữ hoàng Nước sốt (Queen of Sauce)** chiếu hôm nay — **bật TV học công thức miễn phí**. Bỏ lỡ là sau này phải bỏ tiền mua lại.
+- 📺 **Nữ hoàng Nước sốt (Queen of Sauce)** — kênh này **Chủ Nhật chiếu công thức mới**, **Thứ Tư chỉ chiếu lại công thức cũ**. Hôm nay là Thứ Tư **đầu tiên của game** nên chưa có gì để chiếu lại. Buổi thật sự không được bỏ lỡ là **Chủ Nhật — Ngày 7**.
 - 🚫 **Cửa hàng Pierre nghỉ Thứ Tư** — cần mua gì thì để mai.
 
 **🎣 Câu gì hôm nay — 3 con chỉ ra khi mưa:**
@@ -129,8 +131,9 @@ Mốc **16:00** phải nhớ: trước giờ đó ra biển thì không có Lư�
 > [!nghe] Con Huyền Thoại (Legend) — ghi để dành cho sau
 > **Legend** ~5.000g, con đắt nhất game, **chỉ ra vào mùa Xuân + trời mưa**, ở **hồ Ngọn núi**. Hôm nay chưa lấy được vì nó **đòi Câu cá cấp 10**, nhưng [[Mods#Visible Fish 0.4.2|Visible Fish]] sẽ **vẽ sẵn nó đúng ô đứng câu** — cứ ghé nhìn cho biết chỗ. Xuân năm sau gặp ngày mưa là quay lại: cả game chỉ có vài ngày như vậy.
 
+**Checklist Ngày 3:**
 - [ ] Mở hộp thư
-- [ ] **Bật TV — xem Nữ hoàng Nước sốt** (+ thời tiết, vận may)
+- [ ] Bật TV (thời tiết, vận may) — 📌 **đánh dấu Ngày 7 cho Nữ hoàng Nước sốt**
 - [ ] **Không cần tưới** — mưa tự tưới ruộng ngoài trời
 - [ ] **Cá trê** ở sông (cả ngày)
 - [ ] **Cá cháy** ở sông (từ 09:00)
@@ -138,6 +141,8 @@ Mốc **16:00** phải nhớ: trước giờ đó ra biển thì không có Lư�
 - [ ] Ghé hồ Ngọn núi xem chỗ đứng câu **Legend**
 - [ ] Dọn thêm đất / chặt cây lấy gỗ (dành gỗ để xây Kho cỏ & rương)
 - [ ] _(điền kế hoạch của bạn)_
+
+---
 
 ### ☀️ Ngày 4 (Xuân, Năm 1 — Thứ Năm)
 
@@ -163,7 +168,8 @@ Mốc **16:00** phải nhớ: trước giờ đó ra biển thì không có Lư�
 
 - ⚠️ **Mai phải vào Thị trấn từ hướng Bến xe buýt, khung 08:00–13:00, trời không mưa** thì mới mở được Trung tâm Cộng đồng. **TV tối nay báo mai mưa là phải hoãn** sang ngày nắng gần nhất.
 - **Đất sét (Clay)** ra khi **cuốc lên ô đất** (đất thường hoặc điểm giun đất) — cần 10 viên cho Kho cỏ, gom dần từ giờ, đừng để tới lúc cần mới đi đào.
-- **Kho cỏ nên xây sớm:** chưa có Silo thì cắt cỏ = **mất trắng**, có rồi mới vào kho thành Cỏ khô (đã nhắc ở Ngày 1).
+- ⚠️ **Kho cỏ chưa xây được hôm nay — đừng trông chờ.** 5 Thỏi Đồng phải **nấu từ quặng đồng bằng Lò luyện**, mà quặng đồng chỉ có trong **mỏ — Ngày 5 mới mở**. Hôm nay cứ gom **gỗ + đất sét** trước; thực tế Silo dựng được khoảng **Ngày 7–10**.
+- **Nhưng vẫn nên xây sớm nhất có thể:** chưa có Silo thì cắt cỏ = **mất trắng**, có rồi mới vào kho thành Cỏ khô (đã nhắc ở Ngày 1).
 - Sinh nhật dân làng thì đừng cố nhớ — **UI Info Suite 2** hiện icon sinh nhật hôm nay, **Stardew Dashboard** (`F10`) liệt kê sinh nhật **3 ngày tới** (xem [[Mods]]).
 
 **Checklist Ngày 4:**
@@ -173,6 +179,8 @@ Mốc **16:00** phải nhớ: trước giờ đó ra biển thì không có Lư�
 - [ ] Chuẩn bị đồ ăn + chừa ô túi trống cho chuyến mỏ
 - [ ] Chào dân làng một vòng
 - [ ] Ship + ngủ trước 24:00
+
+---
 
 ### ☀️ Ngày 5 (Xuân, Năm 1 — Thứ Sáu) — 🔓 Ngày mở khóa lớn
 
@@ -194,17 +202,20 @@ Sai → không kích hoạt, phải chờ hôm sau làm lại.
 
 **Việc cần làm (theo thứ tự):**
 
-1. **Mở hộp thư** (thư Morris) + **bật TV**.
-2. **Thu hoạch 15 Củ cải vàng** — khoảng **35g/củ**, tổng ~**525g**. **Giữ lại 1–2 củ phẩm cấp cao nhất** cho gói Trung tâm Cộng đồng, đừng ship sạch.
+1. **Mở hộp thư** + **bật TV**. _(Note cũ ghi thư do **Morris** gửi — ⚠️ chưa kiểm chứng, liếc chữ ký lúc đọc rồi sửa lại cho đúng.)_
+2. **Thu hoạch 15 Củ cải vàng** — khoảng **35g/củ**, tổng ~**525g**. **Giữ lại 1 củ** cho gói Trung tâm Cộng đồng, đừng ship sạch.
 3. **Đi Thị trấn ĐÚNG đường, xong trước 13:00:** Nông trại → **Backwoods** (bắc) → **Bến xe buýt** (nam) → rẽ **đông vào Thị trấn**. Lewis sẽ xuất hiện dẫn đi → mở **Trung tâm Cộng đồng**.
-4. **Ghé Pierre mua hạt** cho vụ mới bằng tiền vừa bán — nhưng **chừa vốn cho Lễ hội Trứng Ngày 13** (hạt Dâu tây 100g/hạt).
-5. **Tạt Rừng Cindersap xem Xe hàng rong** — thỉnh thoảng có **Hạt Giống Hiếm / Quả Cổ Đại**, đáng liếc mỗi tuần.
-6. **Về farm cày & gieo lại** chỗ đất vừa thu hoạch, tưới xong mới đi tiếp.
-7. **Lên Ngọn núi xuống Hầm mỏ:**
+4. **Vào trong Trung tâm Cộng đồng** xem một lượt — bảng gói lúc này toàn **chữ Junimo, chưa đọc được**. Bình thường, xem bước 6.
+5. **Ghé Pierre mua hạt** cho vụ mới bằng tiền vừa bán — nhưng **chừa vốn cho Lễ hội Trứng Ngày 13** (hạt Dâu tây 100g/hạt).
+6. **Xuống Rừng Cindersap — một chuyến làm 2 việc:**
+  - 🧙 **Tháp Pháp sư (Rasmodius)** → ông ấy cho khả năng **đọc chữ Junimo**. ⚠️ **Chưa làm bước này là chưa nộp gói được**, dù Trung tâm Cộng đồng đã mở.
+  - 🛒 **Xe hàng rong** (Thứ Sáu) → liếc xem có **Hạt Giống Hiếm / Quả Cổ Đại** không.
+7. **Về farm cày & gieo lại** chỗ đất vừa thu hoạch, tưới xong mới đi tiếp.
+8. **Lên Ngọn núi xuống Hầm mỏ:**
   - Ngay lối vào có **rương chứa Kiếm Gỉ (Rusty Sword)** — nhặt trước khi xuống.
   - **Cứ 5 tầng có thang máy** làm mốc; mỗi chuyến cố xuống sâu nhất có thể để lần sau vào thẳng tầng đó.
   - Đập đá lấy **quặng Đồng (Copper)**, diệt quái, ưu tiên tìm thang xuống.
-8. Ship hết, ngủ trước 24:00.
+9. Ship hết, ngủ trước 24:00.
 
 **Lưu ý quan trọng:**
 
@@ -215,10 +226,12 @@ Sai → không kích hoạt, phải chờ hôm sau làm lại.
 
 **Checklist Ngày 5:**
 - [ ] Mở hộp thư + bật TV
-- [ ] **Thu hoạch 15 Củ cải vàng** (giữ lại củ phẩm cấp cao cho bundle)
+- [ ] **Thu hoạch 15 Củ cải vàng** (giữ lại 1 củ cho bundle)
 - [ ] Vào town **qua Bến xe buýt, trước 13:00** → mở Trung tâm Cộng đồng
+- [ ] Vào trong Trung tâm Cộng đồng xem một lượt
 - [ ] Mua hạt ở Pierre (chừa vốn cho Ngày 13)
-- [ ] Xem Xe hàng rong ở Rừng Cindersap
+- [ ] 🧙 **Tháp Pháp sư** — lấy khả năng đọc chữ Junimo _(thiếu bước này là chưa nộp gói được)_
+- [ ] Xem Xe hàng rong ở Rừng Cindersap (cùng chuyến với Tháp Pháp sư)
 - [ ] Cày & gieo lại ruộng, tưới
 - [ ] `F5` rồi xuống Hầm mỏ (nhặt **Kiếm Gỉ** ở lối vào)
 - [ ] Ship + ngủ trước 24:00
