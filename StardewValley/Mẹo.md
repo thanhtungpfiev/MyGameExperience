@@ -71,12 +71,45 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 - **Quét đồ lượm mỗi ngày** ở Rừng Cindersap → Bãi biển → Núi (xem [[Bản đồ khu vực]], mấy bản đồ có ô màu chính là **điểm mọc đồ lượm**).
 - **Rừng Bí Mật:** 6 gốc cây cứng hồi lại **mỗi ngày** → nguồn **Gỗ Cứng (Hardwood)** ổn định nhất, cần rìu Thép trở lên.
-- **Mùa Đông** vẫn lượm được: dùng cuốc đào **điểm giun đất (worm tile)** để lấy Củ Mùa Đông (Winter Root), Khoai Tuyết (Snow Yam), cổ vật.
+- **Mùa Đông** vẫn lượm được — nguồn duy nhất là **điểm giun đất**, xem mục dưới.
 - **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên (có cả Tinh Thể Lăng Trụ).
 - Giữ lại **Nhựa cây (Sap)** để làm phân bón, đừng bán.
 
 > [!nghe] Chọn nhánh nghề Lượm — perk mạnh nhất game về lâu dài
 > Cấp 5 chọn **Người Tụ Tập (Gatherer)**: tỉ lệ **x2 sản lượng** khi lượm. Cấp 10 chọn **Nhà Thực Vật (Botanist)**: **mọi đồ lượm luôn ở phẩm cấp Iridium**.
+
+### 🪱 Điểm giun đất (Artifact Spot)
+
+Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lên. Đào bằng **Cuốc (Hoe)**, một nhát là xong.
+
+⚠️ **Cuốc chim (Pickaxe) không ăn** — chỉ Cuốc mới đào được. Đây là chỗ hay bấm nhầm rồi tưởng nó hỏng.
+
+| Nhóm | Món ra | Dùng làm gì |
+|---|---|---|
+| 🧱 **Nguyên liệu** | **Đất sét (Clay)** — hay ra nhất · Đá · Than · Quặng | Đất sét là lý do chính phải đào mỗi ngày |
+| 🏺 **Cổ vật (Artifacts)** | Mỗi khu một bảng riêng | Quyên góp **Bảo tàng** cho Gunther |
+| 📖 **Sách Thất Lạc (Lost Book)** | **21 cuốn** cả game | Tự bay vào **Thư viện**, mở kiến thức ẩn |
+| ❄️ **Mùa Đông** | **Củ Mùa Đông (Winter Root)** · **Khoai Tuyết (Snow Yam)** | Nguồn lượm chính của mùa Đông |
+
+**Ba luật phải nhớ:**
+
+1. **Chỉ mọc ngoài trời** — Thị trấn, Rừng, Núi, Bãi biển, Bến xe buýt, và cả trên nông trại.
+2. **Mọc lại mỗi ngày**, vị trí ngẫu nhiên.
+3. ⚠️ **Hết ngày là biến mất** — thấy hôm nào phải đào hôm đó.
+
+**Bảng cổ vật khác nhau theo từng khu**, nên muốn đủ bộ Bảo tàng thì phải đào **rải khắp các khu**, đào mãi một chỗ sẽ thiếu. Cổ vật đào được bỏ thẳng vào rương **`0 ĐỪNG BÁN`** (xem [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Kho & rương]]).
+
+> [!tien] Đất sét — gom từ Ngày 1, đừng đợi tới lúc cần
+> **Kho cỏ (Silo) cần 10 Đất sét.** Đất sét gần như chỉ ra từ điểm giun đất (cuốc đất thường cũng có tỉ lệ nhỏ). Đào tốn **2 năng lượng**/nhát, mà `InfiniteStamina` đang bật nên với máy này là **miễn phí** — thấy giun là đào, không có lý do bỏ qua.
+
+### 🌸 Vì sao có hôm đi cả ngày không thấy gì
+
+- **Đồ lượm KHÔNG dính dáng tới may mắn.** Ngày xui vẫn mọc bình thường. Riêng **điểm giun đất** thì may mắn có ảnh hưởng tới **số lượng**, nhưng không phải điều kiện bắt buộc — ngày xui vẫn có, chỉ ít hơn.
+- ⚠️ **Nông trại Tiêu chuẩn không mọc đồ lượm.** Chỉ **Nông trại Rừng (Forest Farm)** mới có. Đứng trong trại cả ngày thì không bao giờ thấy cây lượm nào, dù may cỡ nào — phải ra ngoài.
+- **Đồ lượm nằm nguyên tại chỗ tới khi có người nhặt**, mỗi ngày chỉ mọc thêm **nhỏ giọt**. Vét sạch một lượt thì phải 2–3 hôm bản đồ mới đầy lại.
+- **Ô đất bị chiếm thì không mọc** — chỗ có đá, cành cây, cỏ dại đều bị loại khỏi danh sách ô mọc được.
+
+**Cách chữa:** chạy đúng vòng **Rừng Cindersap → Núi → Bãi biển**, nhắm vào **vùng đỏ trên bản đồ** ở [[Bản đồ khu vực]] (đỏ = tỉ lệ cao, hồng = tỉ lệ thấp). Muốn kiểm chứng phần may mắn thì soi icon may mắn của **UI Info Suite 2** vài hôm liền.
 
 ## 🎣 Câu cá (Fishing)
 
