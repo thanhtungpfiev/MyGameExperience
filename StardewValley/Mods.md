@@ -2,7 +2,7 @@
 
 > Về [[00 Home]] · Áp dụng theo [[Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]] · 🛟 [[An toàn save]] · 📦 [[Bản XNB và bản CP]]
 >
-> _26 mục trong `F:\Games\StardewValley Mods` — **25 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
+> _29 mục trong `F:\Games\StardewValley Mods` — **28 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
 >
 > _Mỗi mục mod: dòng đầu là **công dụng**, rồi các dòng **Cách dùng / Phím / Cấu hình / Nexus**. Cảnh báo và chi tiết dài nằm trong **khối callout** — khối có dấu `-` là mặc định gấp lại, bấm để mở. Phím ghi "GMCM" = mặc định trống, tự gán trong Cài đặt → GMCM._
 
@@ -10,7 +10,7 @@
 
 1. [[#1) Bộ nền & Việt hóa (bắt buộc, cài trước)|Bộ nền & Việt hóa]] (3)
 2. [[#2) Cấu hình mod trong game|Cấu hình trong game]] (2)
-3. [[#3) Giao diện & thông tin (UI/Info)|Giao diện & thông tin]] (10)
+3. [[#3) Giao diện & thông tin (UI/Info)|Giao diện & thông tin]] (13)
 4. [[#4) Kho đồ & rương|Kho đồ & rương]] (3)
 5. [[#5) Tự động hóa & năng suất|Tự động hóa & năng suất]] (2)
 6. [[#6) Tiện ích (QoL)|Tiện ích (QoL)]] (3)
@@ -479,6 +479,80 @@ Bảng thống kê tổng hợp **ngay trong game** — gom thứ vốn nằm r�
 > Hệ quả: SMAPI (và `smapi.io/mods`) so `2.1.5` trong manifest với `2.1.6` trên Nexus nên sẽ **nhắc cập nhật hoài** dù không thiếu gì. **Bỏ qua lời nhắc này** cho tới khi Nexus lên 2.1.7.
 >
 > Muốn hết bị nhắc thì tự sửa dòng `"Version": "2.1.5"` trong `Mods\Stardew Dashboard\manifest.json` thành `2.1.6` — sửa xong sẽ bị ghi đè ở lần cập nhật sau, và **chỉ nên làm khi chắc mình đã cài đúng file 2.1.6**.
+
+### Forage Pointers 1.2.0
+
+Vẽ **mũi tên nhỏ nhấp nháy trên đầu đồ lượm** đang nằm trong tầm — thứ bình thường lẫn vào cỏ, vào bụi cây, đi ngang là bỏ sót. Từ bản 1.2.0 chỉ luôn **điểm giun đất** (artifact spot) và **đốm hạt giống** (seed spot của 1.6). Tác giả **Bpendragon**. Trên cạn nó đóng đúng vai [[#Visible Fish 0.4.2|Visible Fish]] làm dưới nước.
+
+**Cách dùng** — không thao tác gì, mũi tên tự hiện khi tới gần. **Tầm nhìn nới rộng theo cấp Hái lượm**, nên đầu game thấy ít là đúng chứ không phải mod lỗi.
+
+**Phím** — không có.
+
+**Cấu hình** — GMCM (mod có nối API GMCM, xác nhận trong log SMAPI) hoặc `config.json`.
+
+**Nexus** — https://www.nexusmods.com/stardewvalley/mods/7781 · **Mã nguồn:** https://github.com/Bpendragon/ForagePointers
+
+| Tùy chọn | Đang để | Tác dụng |
+|---|---|---|
+| `MinimumViewDistance` | `3` | Bán kính gốc (ô) lúc Hái lượm cấp 0 |
+| `ScalingRadius` | `1` | Mỗi mốc cộng thêm bao nhiêu ô |
+| `ScaleEveryNLevels` | `2` | Cứ mấy cấp Hái lượm thì lên một mốc |
+| `AlwaysShow` | ❌ | Bật = thấy **toàn màn hình** như đã có nghề Tracker |
+| `BlinkPointers` | ✅ | Mũi tên nhấp nháy |
+| `NumFramesArrowsOn` / `Off` | `50` / `20` | Số khung hình hiện / tắt của một nhịp nháy |
+| `ShowArtifactSpots` | ✅ | Chỉ **điểm giun đất** |
+| `ShowSeedSpots` | ✅ | Chỉ **đốm hạt giống** (bản 1.6, màu xanh, còn khó thấy hơn giun đất) |
+
+> [!info] Cấu hình hiện tại thấy xa bao nhiêu
+> `3 + 1 ô mỗi 2 cấp` → Hái lượm **cấp 0 = 3 ô**, **cấp 10 = 8 ô**. Có nghề **Tracker** (nhánh Hái lượm cấp 5) thì mod hiện **mọi món trên màn hình**, khỏi tính bán kính; chưa lấy Tracker mà vẫn muốn vậy thì bật `AlwaysShow`.
+
+> [!warning] Xung khắc & giới hạn
+> Có thể **đụng mod Custom Tracker** — bộ này không cài nên không sao. **Không chạy trên Android.**
+
+### Visible Artifact Spots 1.2.0
+
+Chuyên trị đúng một việc: làm **điểm giun đất và đốm hạt giống nổi hẳn lên** thay vì phải soi từng con giun ngọ nguậy. Tác giả **Zamiel**. Cần SMAPI 4.0.0 trở lên.
+
+**Cách dùng** — tự động, đi ngang là thấy. Hợp nhất lúc cày mỏ, đi Rừng bí mật hay quét bãi biển tìm cổ vật cho [[#Show Missing Collection Entries 0.2.0|Bảo tàng]].
+
+**Phím** — không có.
+
+**Cấu hình** — GMCM, đúng **một tùy chọn**: `HighlightType` — `Border` (**đang để**, viền đỏ quanh ô) hoặc `Bubble` (bong bóng thông báo nổi trên ô).
+
+**Nexus** — https://www.nexusmods.com/stardewvalley/mods/21223
+
+> [!tip] Chọn Border hay Bubble
+> **Border** bám sát ô, không che tầm nhìn — hợp khi trong mỏ nhiều đá. **Bubble** nổi cao hơn nên thấy được cả khi điểm đó bị cỏ/cây che, nhưng rối mắt hơn ở chỗ đông vật thể.
+
+### Forage Markers – Stardew Visual Enhancer 1.0.0
+
+Đóng **khung đỏ thẳng vào sprite của món lượm** cho dễ nhận ra. Tác giả **GingerNinja7921**. Đây là **content pack của [[#Content Patcher 2.9.1|Content Patcher]]**, không phải mod code — thư mục `[CP] Forage Markers`.
+
+**Cách dùng** — để trong `Mods`, không thao tác trong game.
+
+**Phím** — không có.
+
+**Cấu hình** — **không có** `config.json`, không có GMCM. Không thích thì xóa thư mục.
+
+**Nexus** — https://www.nexusmods.com/stardewvalley/mods/18880
+
+> [!warning] Khung đỏ đi theo món khắp mọi nơi, không chỉ ngoài đồng
+> Pack `EditImage` đè lên bảng sprite `Maps/springobjects` — tức là **vẽ khung đỏ vào chính hình của món**. Nên nó hiện luôn trong **túi đồ, trong rương, ở cửa hàng, tab Bộ sưu tập**, chứ không riêng lúc món nằm dưới đất. Hai mod trên chỉ vẽ lên màn hình nên không bị vậy.
+>
+> Ảnh của pack là `384×624` = **39 hàng × 24 ô**, phủ index `0–935` — vùng vật phẩm đời cũ. Món mới của 1.6 vẽ ở `TileSheets/Objects_2` nên **không có khung đỏ**.
+
+> [!info] SMAPI báo lỗi kiểm tra cập nhật — vô hại, sửa được
+> `manifest.json` ghi `"UpdateKeys": ["Nexus:???"]` (tác giả quên điền), log SMAPI báo _"The value '???' isn't a valid Nexus mod ID"_ → mod này **không bao giờ tự báo có bản mới**. Sửa thành `"Nexus:18880"` là hết, nhưng sẽ bị ghi đè ở lần cập nhật sau.
+>
+> Tên trong manifest cũng gõ thiếu chữ — SMAPI liệt kê là **"Forage Makers"**, tìm trong log thì tìm theo tên đó.
+
+> [!tip] Ba mod này chồng vai nhau — nên giữ thế nào
+> | Việc | Mod lo | Ghi chú |
+> |---|---|---|
+> | **Đồ lượm** | Forage Pointers (mũi tên) **hoặc** Forage Markers (khung đỏ) | Giữ cả hai thì một món có cả mũi tên lẫn khung đỏ. Muốn gọn thì bỏ Forage Markers — nó còn dính khung đỏ trong túi đồ |
+> | **Điểm giun đất / đốm hạt giống** | Visible Artifact Spots | Forage Pointers cũng làm được → **tắt `ShowArtifactSpots` + `ShowSeedSpots`** nếu thấy vẽ đè hai lớp |
+>
+> Ba mod **không xung đột kỹ thuật**, chỉ chồng hình. Cứ chơi thử một hai ngày rồi tắt bớt cho vừa mắt.
 
 ## 4) Kho đồ & rương
 
