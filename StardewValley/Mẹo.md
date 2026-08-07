@@ -113,6 +113,23 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 
 ## 🎣 Câu cá (Fishing)
 
+### 📬 Thư của Willy (theo cấp Câu cá)
+
+Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau khi bạn lên cấp**, nên đừng chờ theo lịch: cứ câu đủ là thư tự đến.
+
+| Mốc | Thư báo gì | Giá |
+|---|---|---|
+| **Câu cá cấp 2** | **Cần Sợi Thủy Tinh (Fiberglass Rod)** về tiệm — cần này mới **gắn được mồi & phao** | **1.800g** |
+| **Câu cá cấp 3** | Mở khoá chế **Bẫy Cua (Crab Pot)** _(⚠️ 1.6 hình như Willy gửi tặng luôn 1 cái qua thư — chưa kiểm chứng, mở thư ra xem có kèm đồ không)_ | tự chế / Willy bán 1.500g |
+| **Câu cá cấp 6** | **Cần Iridium (Iridium Rod)** về tiệm — gắn được cả **mồi + phao cùng lúc** | **7.500g** |
+
+- ⚠️ **Thư chỉ là thông báo hàng về, không phải tặng cần.** Vẫn phải ra Tiệm Cá mua bằng tiền mặt.
+- 💸 **Đừng mua vội ở tuần đầu.** 1.800g ≈ **18 hạt Dâu tây** ở Lễ hội Trứng **Ngày 13** ([[Daily]]) — dâu tây sinh lời cả mùa, cần câu thì mua lúc nào cũng được. Ưu tiên hạt trước, cần sau.
+- Mua cần rồi nhớ mua kèm **Mồi (Bait)** chỗ Willy — không có mồi thì cần xịn cũng chỉ đỡ mỏi tay chút.
+- ⚙️ **Máy bạn đang bật `InstantCatch`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → cần xịn **gần như không còn tác dụng gì** (cá cắn là dính, khỏi đánh minigame). Cái duy nhất còn đáng tiền là **chỗ gắn mồi/phao**, mà mồi cũng chỉ để cá cắn nhanh hơn. Nghĩa là **1.800g này hoàn toàn có thể hoãn vô thời hạn** — trừ khi bạn định tắt cheat để chơi câu cá thật.
+
+### Mẹo chung
+
 - Ăn món tăng **Câu cá** (vd: Súp Cá Hồi / Trout Soup) trước khi câu ở khu khó.
 - Gắn **Phao Bẫy (Trap Bobber)** để cá ít tụt, **Phao Bần (Cork Bobber)** để thanh câu dài hơn.
 - **Câu lúc mưa** để bắt cá đặc biệt; tra cá theo mùa/khung giờ/khu vực trên wiki.
