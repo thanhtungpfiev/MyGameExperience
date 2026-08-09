@@ -189,10 +189,30 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 
 ## ❤️ Kết bạn & hẹn hò
 
+**1 trái tim = 250 điểm tình cảm.** Có hai nguồn điểm: **trò chuyện** (ít nhưng mỗi ngày) và **quà** (nhiều nhưng giới hạn 2 lần/tuần).
+
+### Trò chuyện mỗi ngày
+
+- Nói chuyện **lần đầu trong ngày** với mỗi dân làng = **+20 điểm**. Nói tiếp trong cùng ngày = **0 điểm**.
+- **Không** nói chuyện thì tình cảm **tụt**: dân làng thường **−2/ngày** · người đang hẹn hò (đã tặng Bó hoa) **−8/ngày** · vợ/chồng **−20/ngày**. Nên chênh lệch thực tế giữa có nói và không nói là **22 điểm/ngày**, không phải 20.
+- Lời thoại đổi theo **mùa · thứ trong tuần · thời tiết · mức tim · sự kiện vừa xảy ra**, nhưng kho câu hữu hạn nên **lặp lại là chuyện thường**. Thoại lặp **vẫn ăn đủ +20** — đừng bỏ qua ai chỉ vì "câu này nghe rồi".
+- Đi một vòng thị trấn buổi sáng (~9–11h) chạm được nhiều người nhất trong một lượt.
+
+> [!tip] Khỏi phải nhớ hôm nay đã nói với ai
+> [[Mods#Better Friendship 1.1.3 (bản VH)|Better Friendship]] hiện **bong bóng "muốn nói chuyện"** trên đầu người **chưa nói hôm nay**. Người đã đầy tim thì trò chuyện hết tác dụng — bật `IgnoreMaxedFriendships` để mod thôi nhắc.
+
+### Quà tặng
+
 - Tặng **quà Yêu thích (Loved)** 2 lần/tuần cho mỗi dân làng (tra sở thích bằng Lookup Anything — xem [[Mods]]).
 - Quà "an toàn" cho hầu hết mọi người: **Chân Thỏ (Rabbit's Foot)**, các loại **hoa lượm**.
-- **Sinh nhật: tặng đúng ngày = x8 điểm tình cảm** — hiệu quả nhất, đừng bỏ lỡ.
+- **Sinh nhật: tặng đúng ngày = x8 điểm tình cảm** — hiệu quả nhất, đừng bỏ lỡ. Quà sinh nhật **vẫn tính vào** hạn 2 lần/tuần.
 - **Đại tiệc Sao Đông (25 Đông):** chọn quà xịn cho người được bốc thăm.
+
+### Mốc hẹn hò & cưới
+
+- Dân làng thường trần **10 tim**. Người hẹn hò được cũng **kẹt trần 8 tim** cho tới khi tặng bó hoa.
+- **8 tim** → mua **Bó hoa (Bouquet)** ở tiệm Pierre (800g) để chính thức hẹn hò, mở trần lên 10 tim.
+- **10 tim** + đã **nâng cấp nhà ít nhất 1 lần** → mua **Vòng cổ Người cá (Mermaid's Pendant)** 5.000g từ ông lão ở mép phải **Bãi biển vào ngày mưa** (riêng mùa Đông thì ngày **15–17** dù thời tiết nào) để cầu hôn. Cưới xong trần lên **14 tim**.
 
 ## 🧩 Trung tâm Cộng đồng
 
