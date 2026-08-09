@@ -2,5 +2,8 @@
   "cssTheme": "Dracula Official",
   "enabledCssSnippets": [
     "stardew-callouts"
-  ]
+  ],
+  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
+  "textFontFamily": "CaskaydiaCove Nerd Font",
+  "monospaceFontFamily": "Fira Code"
 }
