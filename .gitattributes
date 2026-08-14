@@ -1,0 +1,41 @@
+# Chuan hoa line ending cho toan repo.
+#
+# Repo luon luu LF; tren Windows checkout ra CRLF. Nho vay ket qua khong con
+# phu thuoc core.autocrlf cua tung may.
+* text=auto
+
+# ─── Text ────────────────────────────────────────────────────────────────────
+*.md      text
+*.txt     text
+*.json    text
+*.js      text
+*.css     text
+*.html    text
+*.yml     text
+*.yaml    text
+.gitignore      text
+.gitattributes  text
+
+# ─── Cau hinh Obsidian: giu LF ca trong working tree ──────────────────────────
+#
+# Obsidian tu ghi lai cac file nay bang LF moi khi doi setting. Neu de git
+# checkout ra CRLF thi lan ghi ke tiep cua Obsidian lai bien chung thanh LF va
+# git bao "modified" du noi dung khong doi mot byte nao. Ghim eol=lf cho khop
+# voi thu Obsidian thuc su ghi ra thi het churn.
+.obsidian/*.json      text eol=lf
+.obsidian/**/*.json   text eol=lf
+.obsidian/**/*.css    text eol=lf
+
+# ─── Nhi phan: khong dung vao noi dung, khong thu diff ────────────────────────
+*.png     binary
+*.jpg     binary
+*.jpeg    binary
+*.gif     binary
+*.webp    binary
+*.ico     binary
+*.pdf     binary
+*.zip     binary
+*.woff    binary
+*.woff2   binary
+*.ttf     binary
+*.otf     binary
