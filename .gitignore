@@ -1,3 +1,6 @@
 # Trang thai giao dien Obsidian - rieng cua tung may, khong can dong bo
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Cau hinh Claude Code rieng cua tung may - co the chua duong dan va quyen local
+**/.claude/settings.local.json
