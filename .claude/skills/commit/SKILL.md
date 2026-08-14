@@ -103,10 +103,36 @@ tiết phụ thuộc phiên bản.
 đổi tên note là gãy hàng loạt mà không có gì báo. Khi thay đổi có đổi tên hay di chuyển
 note, để kết quả kiểm chứng vào Implications.
 
+## Tổ chức commit
+
+Trước khi nghĩ tới câu chữ, phải quyết **commit này gồm những gì**. Mỗi commit là **một
+thay đổi mạch lạc, tự nó review độc lập được** — mở diff ra là hiểu trọn một ý, không phải
+gỡ nó ra khỏi ba ý khác đang nằm chung.
+
+Đừng trộn sắp xếp lại với thay đổi nội dung, đừng gộp nhiều chỗ sửa không liên quan. Trộn
+vào là mất khả năng trả lời đúng câu hỏi mà lịch sử tồn tại để trả lời: **thay đổi nào đã
+sửa vấn đề nào**. Với vault này thì câu hỏi đó rất hay phải hỏi — phát hiện một chi tiết
+game ghi sai thì việc đầu tiên là truy xem nó vào từ commit nào và lúc đó dựa trên cái gì.
+Đó cũng là điều kiện để `git bisect` còn dùng được: commit ôm nhiều ý thì có tìm ra đúng nó
+cũng chưa biết phần nào bên trong gây ra.
+
+**Scope trong subject chính là cái chuông báo.** Phải bỏ scope đi vì commit chạm cả `Daily`
+lẫn `Mods` mà hai thứ chẳng liên quan gì nhau, thì đó không phải lý do để bỏ scope — đó là
+dấu hiệu phải tách thành hai commit. Chỉ bỏ scope khi một ý duy nhất thật sự trải ra nhiều
+note.
+
+Khi một file đang chứa hai ý khác nhau, tách bằng `git add -p` để stage từng hunk, chứ đừng
+commit cả file rồi giải thích bù trong message.
+
+**Đừng quét việc đang sửa dở của người dùng vào commit của mình.** Xem `git status` trước,
+chỉ stage đúng phần thuộc về ý mình đang commit, phần còn lại để nguyên đó.
+
 ## Các bước
 
 1. **Đọc thay đổi thật** — `git diff --staged` (hoặc `git diff`, `git status`). Đừng bao
    giờ viết message theo trí nhớ về cuộc hội thoại; diff đã stage mới là nguồn sự thật.
+   Nếu phần đang stage gồm nhiều ý rời rạc thì quay lại mục **Tổ chức commit** và tách ra
+   trước, đừng cố viết một message ôm hết.
 2. **Xem subject gần đây** — `git log -5 --format='%s%n%n%b'` — và giữ cho nhất quán.
 3. **Viết subject** theo `type(Scope): …` ở trên, một dòng, ≤ ~72 ký tự.
 4. **Viết thân bài** bằng tiếng Anh theo khung, cân theo bảng trên. Ngắt dòng ở ~76 ký tự.
