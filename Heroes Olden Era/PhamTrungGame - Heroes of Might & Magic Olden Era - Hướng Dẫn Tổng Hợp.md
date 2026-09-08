@@ -153,7 +153,7 @@ Chỉ chuột vào **biểu tượng class** của hero là thấy **hai subclas
 
 | Class | Subclass | Nó làm gì |
 |---|---|---|
-| Chiến binh | ❓ nguyên văn "squat buckler" | **Heroic strike gây thêm 60 sát thương cơ bản** ❓ — buff thẳng vào hero |
+| Chiến binh | ❓ nguyên văn "squat buckler" | **Heroic strike gây thêm 200 sát thương cơ bản** (note trước ghi nhầm 60, sửa 08/09/2026 sau khi đối chiếu wiki — xem callout cuối mục) ❓ — buff thẳng vào hero |
 | Chiến binh | **Paragon** | Lính **gây sát thương cao nhất và nhận sát thương thấp nhất** — buff vào lính |
 | Pháp sư | **Grand Inquisitor** | Mỗi phép của địch **chỉ dùng được một lần trong combat**; địch có ba phép thì hết ba lần là coi như phế — chuyên trị pháp sư |
 | Pháp sư | **Ascendant** ❓ (nguyên văn "asend") | **Dùng phép không tốn mana** — spam được phép late game vốn ngốn mana |
