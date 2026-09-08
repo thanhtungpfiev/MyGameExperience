@@ -57,9 +57,9 @@ Trừ vài trường hợp đặc biệt, vừa vào game nên **mua thêm một
 
 Ưu tiên chiếm những công trình **sản xuất tài nguyên hàng ngày**, đặc biệt là công trình ra **gỗ** và **đá**.
 
-- Gần như **mọi công trình đầu game đều cần gỗ và đá ngoài vàng** — video lấy ví dụ "soler temple" ❓ _(nguyên văn — có thể là Solar Temple, chưa đối chiếu)_ và ngân hàng.
+- Gần như **mọi công trình đầu game đều cần gỗ và đá ngoài vàng** — video lấy ví dụ **Solar Temple** và ngân hàng.
 - Mua lính đầu game, hay xây nhà mua lính, cũng đều cần gỗ hoặc đá.
-- **Crystal, Mercury, "Achemidus" ❓** _(nguyên văn — nghe không ra tên tài nguyên thứ ba)_ đều quan trọng, **nhưng đầu game chưa cần**.
+- **Crystal, Mercury, Alchemical Dust** (bụi giả kim) đều quan trọng, **nhưng đầu game chưa cần**.
 
 ### 🏗️ Dọn quái sớm và nhà lính ở thành phố khởi đầu
 
@@ -68,7 +68,7 @@ Trừ vài trường hợp đặc biệt, vừa vào game nên **mua thêm một
 
 Có những công trình hạ được sớm thì lợi thế rất lớn — video chỉ một công trình cho **một em Phượng Hoàng**, tức là **một unit late game có ngay từ những tuần đầu tiên**.
 
-Muốn làm được vậy thì cần đội quân đầu game mạnh ⇒ **xây nhà lính ngay ở thành phố khởi đầu**, chỗ hero chủ chốt xuất hiện. Ví dụ trong video là phe **Temple ❓** _(nguyên văn "Temper", và "fashion temple" — nhiều khả năng là faction Temple, chưa đối chiếu)_, có ba hướng:
+Muốn làm được vậy thì cần đội quân đầu game mạnh ⇒ **xây nhà lính ngay ở thành phố khởi đầu**, chỗ hero chủ chốt xuất hiện. Ví dụ trong video là phe **Temple**, có ba hướng:
 
 | Lựa chọn | Ghi chú của tác giả |
 |---|---|
@@ -78,13 +78,13 @@ Muốn làm được vậy thì cần đội quân đầu game mạnh ⇒ **xây
 
 ### 📈 Chọn class khi nâng cấp — initiative là chỉ số quyết định
 
-Mỗi unit khi nâng cấp **luôn có hai class để chọn**. Video không chỉ chọn con nào, mà dạy **cách đọc chỉ số để tự chọn**. Ví dụ dùng: Crossbowman lên "inger"/"Ainger" ❓ hoặc "masman"/"Maxman"/"Smartman" ❓ _(nguyên văn — phụ đề đọc mỗi lần một kiểu, không chốt được tên nào)_.
+Mỗi unit khi nâng cấp **luôn có hai class để chọn**. Video không chỉ chọn con nào, mà dạy **cách đọc chỉ số để tự chọn**. Ví dụ dùng: Crossbowman lên **Austringer** hoặc **Marksman**.
 
 - **Initiative** — quyết định **ai đến lượt trước**. Đây là chỉ số quan trọng nhất, **với mọi class**. Hai xạ thủ bắn nhau thì con bắn trước làm con kia mất lính ⇒ đòn bắn trả yếu đi. Đánh xa thì **đi trước là có lợi thế**.
 - **Speed** — số ô di chuyển trong combat. Với xạ thủ (đứng yên một chỗ) thì **1 hay 10 đều vô dụng**; với cận chiến thì ngược lại, rất quan trọng.
 - **Tấn công** — hơn nhau **1 điểm thì bỏ qua**, vì chỉ số này còn được hero, trang bị và skill cộng thêm. **Hơn 2-3 điểm mới đáng cân nhắc.**
-- **Kỹ năng** — "Maxman" ❓ có thêm **bắn xuyên giáp**, cộng nội tại **"Sap shoter" (bắn tỉa)** ❓ khiến đòn đánh luôn được tính là **full rank** ⇒ sát thương cao nhất. Nhìn qua thì ngon hơn hẳn.
-- **Nhưng** "Ainger" ❓ có nội tại **double shot** — bắn hai lần. Và double shot móc thẳng vào hệ thống [[#🔶 Focus point — hệ thống điểm mới của Olden Era|focus]], nên so sánh không dừng ở bảng chỉ số.
+- **Kỹ năng** — **Marksman** có thêm **bắn xuyên giáp** (Piercing Shot), cộng nội tại **Sharpshooter** (bắn tỉa): đánh xa luôn tính full damage bất kể khoảng cách ⇒ sát thương cao nhất. Nhìn qua thì ngon hơn hẳn.
+- **Nhưng Austringer** có nội tại **Double Shot** — bắn hai lần. Video nói double shot móc vào hệ thống [[#🔶 Focus point — hệ thống điểm mới của Olden Era|focus]] ❓ _(wiki lại ghi đây là nội tại thụ động, tách biệt khỏi focus — xem callout cuối mục)_, nên so sánh không dừng ở bảng chỉ số.
 
 ### 🔶 Focus point — hệ thống điểm mới của Olden Era
 
@@ -124,8 +124,11 @@ Mẹo đi kèm: giữ **Ctrl** để **tách unit cận chiến yếu nhất th�
 - **Ưu tiên đánh stack còn đầy máu** — ví dụ trong video là stack còn đủ 29 lính.
 - Stack sắp chết thì để cho một unit yếu của mình dọn, **hoặc để nó tự lao vào tấn công mình rồi chết vì counter attack**.
 
-> [!video] Video 1 còn 10 chỗ `❓` chưa chốt
-> Phụ đề tự động làm méo gần như mọi tên riêng. Những chỗ còn `❓`: phím highlight (nguyên văn "nút AD") · tên phe (nguyên văn "Temper", "fashion temple") · tên hai class của Crossbowman (nguyên văn "inger"/"Ainger" và "masman"/"Maxman"/"Smartman") · nội tại bắn tỉa (nguyên văn "Sap shoter") · kỹ năng tốn 2 focus (nguyên văn "fow") · tên unit trong ví dụ Wait (nguyên văn "em ưng sư") · tài nguyên thứ ba (nguyên văn "Achemidus") · công trình cần gỗ đá (nguyên văn "soler temple") · giá kỵ binh 6500 vàng + 15 gỗ · điều kiện counter attack. **Mở game ra đối chiếu rồi xoá dấu `❓` đi.**
+> [!video] Video 1 còn 6 chỗ `❓` chưa chốt
+> Phụ đề tự động làm méo gần như mọi tên riêng. Những chỗ còn `❓`: phím highlight (nguyên văn "nút AD") · double shot của Austringer có móc vào focus point hay không · kỹ năng tốn 2 focus (nguyên văn "fow") · tên unit trong ví dụ Wait (nguyên văn "em ưng sư") · giá kỵ binh 6500 vàng + 15 gỗ · điều kiện counter attack. **Mở game ra đối chiếu rồi xoá dấu `❓` đi.**
+>
+> [!info]- Đã đối chiếu wiki 08/09/2026 — 4 chỗ đã chốt tên
+> Tên phe **Temple**, tài nguyên thứ ba **Alchemical Dust**, công trình đầu game **Solar Temple**, hai class Crossbowman **Austringer** (Double Shot) / **Marksman** (nội tại **Sharpshooter** — "Ranged attacks deal full Ranged Damage at any range", khớp mô tả "full rank" trong note). Đối chiếu [Olden Era – Classes](https://www.olden-era.com/en/classes), [Olden Era – Resources](https://www.olden-era.com/en/resources), [oldenera.th.gl – Solar Temple](https://oldenera.th.gl/db/buildings/human_Build_Main), [Hooded Horse wiki – Marksman](https://wiki.hoodedhorse.com/Heroes_of_Might_and_Magic_Olden_Era/Marksman), [Hooded Horse wiki – Austringer](https://wiki.hoodedhorse.com/Heroes_of_Might_and_Magic_Olden_Era/Austringer). Riêng claim "double shot móc vào focus" trong video: wiki mô tả Double Shot là nội tại **thụ động, tách biệt khỏi focus** (Fine Bolts mới là kỹ năng tốn focus của unit này) — có thể video nói khác, cần mở game đối chiếu.
 
 ## 2️⃣ Hero, class–subclass, phép và Faction Law
 
@@ -136,7 +139,7 @@ Mẹo đi kèm: giữ **Ctrl** để **tách unit cận chiến yếu nhất th�
 
 ### 🎓 Hai kỹ năng khởi đầu — ít hơn chưa chắc là thiệt
 
-Mỗi hero có **phong cách chơi riêng và số lượng hero cực nhiều** — riêng phe Temple ❓ (nguyên văn "Fashion Temple", cùng chỗ mờ như ở video 1) đã có hàng chục. Giữ **Alt** ❓ (nguyên văn "nút as") khi chọn hero để xem **hai kỹ năng khởi đầu** của họ.
+Mỗi hero có **phong cách chơi riêng và số lượng hero cực nhiều** — riêng phe **Temple** đã có hàng chục. Giữ **Alt** ❓ (nguyên văn "nút as") khi chọn hero để xem **hai kỹ năng khởi đầu** của họ.
 
 Kỹ năng khởi đầu nói thẳng ra hero đó được thiết kế xoay quanh unit nào:
 
@@ -153,10 +156,10 @@ Chỉ chuột vào **biểu tượng class** của hero là thấy **hai subclas
 
 | Class | Subclass | Nó làm gì |
 |---|---|---|
-| Chiến binh | ❓ nguyên văn "squat buckler" | **Heroic strike gây thêm 200 sát thương cơ bản** (note trước ghi nhầm 60, sửa 08/09/2026 sau khi đối chiếu wiki — xem callout cuối mục) ❓ — buff thẳng vào hero |
+| Chiến binh | **Swashbuckler** | **Heroic Strike gây thêm 200 sát thương cơ bản** (note trước ghi nhầm 60, sửa 08/09/2026 sau khi đối chiếu wiki) — buff thẳng vào hero |
 | Chiến binh | **Paragon** | Lính **gây sát thương cao nhất và nhận sát thương thấp nhất** — buff vào lính |
 | Pháp sư | **Grand Inquisitor** | Mỗi phép của địch **chỉ dùng được một lần trong combat**; địch có ba phép thì hết ba lần là coi như phế — chuyên trị pháp sư |
-| Pháp sư | **Ascendant** ❓ (nguyên văn "asend") | **Dùng phép không tốn mana** — spam được phép late game vốn ngốn mana |
+| Pháp sư | **Ascendant** | **Dùng phép không tốn mana** — spam được phép late game vốn ngốn mana |
 
 Hai điều kiện cần nhớ:
 
@@ -200,17 +203,17 @@ Nhưng **tiếp cận không có nghĩa là đánh vào**:
 
 **Muốn dùng phép thì phải học phép**, và có hai đường:
 
-- Xây **Mage Guild** ❓ (nguyên văn "công trình mây vui") — mở khoá **7 phép ngẫu nhiên tier 1** cho **mọi hero** khi vào thành phố đã xây công trình đó.
+- Xây **Mage Guild** — mở khoá **7 phép ngẫu nhiên tier 1** cho **mọi hero** khi vào thành phố đã xây công trình đó.
 - Xây xong thì mở được điểm **Magic Observatory**, nơi có hai loại phép:
 
 | Loại | Mở khoá thế nào | Dùng để làm gì |
 |---|---|---|
 | Phép **combat** | Nâng cấp công trình, trả tài nguyên — nâng càng cao mở càng nhiều | Đánh nhau trong trận |
-| Phép **bản đồ** ❓ (nguyên văn "high nature magic") | Cần điểm Magic Observatory | **Quan trọng hơn** — teleport và di chuyển |
+| Phép **bản đồ** (**Neutral Magic**) | Cần điểm Magic Observatory | **Quan trọng hơn** — teleport và di chuyển |
 
 Vì sao phép bản đồ quan trọng hơn: **teleport hero trong 8 ô** (đang đuổi nhau với tướng địch thì bắt được nó ngay), **đưa quân về thành phố gần nhất** khi thành bị doạ, và cho hero **bay qua công trình** — video ví von là giống phép Fly của Heroes 3 ngày xưa.
 
-Phép bản đồ dùng từ **màn hình hero → spell**, và **tốn mana**: ví dụ một phép mất 10 mana; **Second Wind** ❓ hồi **40 điểm di chuyển** cho hero thì mất **17 mana**.
+Phép bản đồ dùng từ **màn hình hero → spell**, và **tốn mana**: ví dụ một phép mất 10 mana; **Second Wind** hồi **40 điểm di chuyển** cho hero thì mất **17 mana**.
 
 ### 📜 Faction Law — cộng thứ đang thiếu, đừng để dành điểm
 
@@ -238,8 +241,11 @@ Hai nguồn hồi mana có sẵn:
 - **Giếng trên bản đồ** — hồi **đầy** mana, **mỗi tuần tương tác một lần**. Video chỉ ra một khu chỉ quanh đó đã có **ba cái giếng**.
 - **Về thành phố kết thúc lượt** — hồi đầy mana, **điều kiện là thành phố phải có tháp** ❓ (nguyên văn "tháp của th", nhiều khả năng là công trình phép ở mục trên).
 
-> [!video] Video 2 còn 9 chỗ `❓` chưa chốt
-> Phụ đề tự động lại làm méo tên riêng. Những chỗ còn `❓`: tên phe (nguyên văn "Fashion Temple", trùng chỗ mờ ở video 1) · nội tại chung của Temple (nguyên văn "Rot Net") · phím xem kỹ năng khi chọn hero (nguyên văn "nút as") · tên hero mạnh nhất Temple (nguyên văn "EOS the Excited") và hero chỉ có một kỹ năng (nguyên văn "Lord Eas"/"Lord Edgard") · subclass chiến binh thứ nhất (nguyên văn "squat buckler") cùng con số **+60 sát thương** · tên kỹ năng vàng mỗi lượt (nguyên văn "economic") · lựa chọn tính thẳng kết quả và tên dòng trong Settings (nguyên văn "to place", "battle auto resour") · tên công trình học phép (nguyên văn "công trình mây vui") và nhóm phép bản đồ (nguyên văn "high nature magic") · điều kiện thành phố hồi mana (nguyên văn "tháp của th"). **Mở game ra đối chiếu rồi xoá dấu `❓` đi.**
+> [!video] Video 2 còn 6 chỗ `❓` chưa chốt
+> Phụ đề tự động lại làm méo tên riêng. Những chỗ còn `❓`: nội tại chung của Temple (nguyên văn "Rot Net") · phím xem kỹ năng khi chọn hero (nguyên văn "nút as") · tên hero mạnh nhất Temple (nguyên văn "EOS the Excited") và hero chỉ có một kỹ năng (nguyên văn "Lord Eas"/"Lord Edgard") · tên kỹ năng vàng mỗi lượt (nguyên văn "economic") · lựa chọn tính thẳng kết quả và tên dòng trong Settings (nguyên văn "to place", "battle auto resour") · điều kiện thành phố hồi mana (nguyên văn "tháp của th"). **Mở game ra đối chiếu rồi xoá dấu `❓` đi.**
+>
+> [!info]- Đã đối chiếu wiki 08/09/2026 — 4 chỗ đã chốt tên
+> Tên phe **Temple** (khớp video 1), subclass chiến binh thứ nhất **Swashbuckler** (số sát thương đã sửa ở commit riêng, xem lịch sử note), công trình học phép **Mage Guild** (mở 7 phép tier 1 ngẫu nhiên — khớp số 7 trong note), nhóm phép bản đồ **Neutral Magic**, phép **Second Wind** (hồi 40 điểm di chuyển / tốn 17 mana — khớp đúng cả hai số trong note). Đối chiếu [Hooded Horse wiki – Spellcasting](https://wiki.hoodedhorse.com/Heroes_of_Might_and_Magic_Olden_Era/Spellcasting), [Hooded Horse wiki – Second Wind](https://wiki.hoodedhorse.com/Heroes_of_Might_and_Magic_Olden_Era/Second_Wind), [KeenGamer subclasses guide](https://www.keengamer.com/articles/guides/heroes-of-might-and-magic-olden-era-subclasses-guide/).
 
 %%
 ━━━━━━━━━━ THÊM VIDEO TIẾP THEO VÀO NOTE NÀY ━━━━━━━━━━
