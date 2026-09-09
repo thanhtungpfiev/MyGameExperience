@@ -151,7 +151,7 @@ Nhịp bốn ngày mà tác giả nhắc đi nhắc lại:
 | "sagna" | Sanya | Đoán |
 | "loại list" · "nuôi list" | Loynis | Đoán |
 | "barista" · "piston" | Tên một tướng có quân đi kèm mạnh | Không rõ |
-| "20.000" (giá Angel) · "2.000" (giá Town Hall) | Giá vàng theo lời video | Chưa kiểm được bảng giá |
+| "20.000" (giá Angel) · "2.000" (giá Town Hall) | Giá vàng theo lời video | Chưa kiểm được bảng giá — **Town Hall thực ra 2.500 vàng, không phải 2.000** (note trước ghi nhầm, sửa 09/09/2026 sau khi đối chiếu wiki — xem callout cuối mục) |
 
 ## 🔗 Liên quan
 
