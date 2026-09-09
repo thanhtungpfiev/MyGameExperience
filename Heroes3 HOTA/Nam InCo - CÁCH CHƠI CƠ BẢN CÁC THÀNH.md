@@ -6,8 +6,8 @@
 
 ## 📑 Mục lục
 
-> [!warning] ❓ **Bảng dưới thiếu 10 video cuối — playlist thật có 25 video, không phải 15**
-> Ngày 08/09/2026 trang playlist đá sang `consent.youtube.com` nên không đọc được, danh sách lấy tạm từ RSS feed (`youtube.com/feeds/videos.xml?playlist_id=...`) — feed đó chỉ trả tối đa 15 mục nên đã đoán đúng là chạm trần. Mở lại **09/09/2026** thì trang playlist tải bình thường và ghi rõ **"25 videos"** ở phần metadata, xác nhận nghi ngờ trên là đúng. Công cụ đang dùng vẫn không trả ra tiêu đề của 10 video thứ 16–25 — cần mở playlist thủ công (trình duyệt thật) để chép nốt rồi mới xoá dòng ❓ này.
+> [!info]- Đã liệt kê đủ 25/25 video — kiểm 09/09/2026
+> Ngày 08/09/2026 trang playlist đá sang `consent.youtube.com` nên không đọc được, danh sách tạm lấy từ RSS feed (chỉ trả tối đa 15 mục, đúng như suy đoán ban đầu). Mở lại **09/09/2026** bằng trình duyệt thật (cuộn hết danh sách) thì lấy đủ tên và ngày đăng của cả 25 video. 10 video thứ 16–25 là loạt phụ "Duel cơ bản" (P1–P10); playlist chỉ hiện ngày tương đối kiểu "2 năm trước" nên ngày đăng chính xác của 10 video này lấy từ trang xem của từng video, không phải từ RSS.
 >
 > Thứ tự trong feed trùng thứ tự ngày đăng cũ → mới, chưa đối chiếu được với thứ tự hiển thị của playlist. Tiêu đề đã **cắt tiền tố lặp** (`HEROES 3 HOTA |`, `HEROES 3 |`, `Heroes 3 HotA |`, `Heroes 3 |`) và hậu tố `| Heroes 3 HotA` ở số 14, phần còn lại nguyên văn — kể cả chỗ viết hoa và dấu chấm câu không đều.
 
@@ -28,9 +28,19 @@
 | 13 | [Chia sẻ kinh nghiệm chơi cơ bản thành Phượng Hoàng CONFLUX.](https://www.youtube.com/watch?v=VUGJGH8hJMI) | 21/01/2024 | ⬜ chưa xem |
 | 14 | [Cách để chọn Tướng ẩn: SirMullich, Gelu, HaartLich...](https://www.youtube.com/watch?v=kiH2LRNbOuI) | 24/01/2024 | ⬜ chưa xem |
 | 15 | [Các phím tắt CƠ BẢN trong Heroes !](https://www.youtube.com/watch?v=Dllj-Eq8T7o) | 26/01/2024 | ⬜ chưa xem |
+| 16 | [Duel cơ bản \| P1: Xây dựng mục tiêu ở biome !](https://www.youtube.com/watch?v=UZwwxUciiqE) | 27/01/2024 | ⬜ chưa xem |
+| 17 | [Duel cơ bản \| P2: Xây dựng mục tiêu và xử lí ở mid, size zone !](https://www.youtube.com/watch?v=WP27F1b-6eQ) | 29/01/2024 | ⬜ chưa xem |
+| 18 | [Duel cơ bản \| P3: Một số bài vở cơ bản để phát triển thành Thiên Thần CASTLE !](https://www.youtube.com/watch?v=QMbY-uHqNiA) | 04/02/2024 | ⬜ chưa xem |
+| 19 | [Duel cơ bản \| P4: Một số bài vở cơ bản để phát triển thành Rồng Vàng RAMPART !](https://www.youtube.com/watch?v=oDadWDByOoc) | 13/02/2024 | ⬜ chưa xem |
+| 20 | [Duel cơ bản \| P5: Một số bài vở cơ bản phát triển thành Titan TOWER !](https://www.youtube.com/watch?v=0xPXXDVENFk) | 17/03/2024 | ⬜ chưa xem |
+| 21 | [Duel cơ bản \| P6: Một số bài vở cơ bản phát triển thành Devil INFERNO!](https://www.youtube.com/watch?v=mRMC95-9YU4) | 25/03/2024 | ⬜ chưa xem |
+| 22 | [Duel cơ bản \| P7: Một số bài vở cơ bản phát triển thành Dungeon](https://www.youtube.com/watch?v=rxf9TdIZZBk) | 29/03/2024 | ⬜ chưa xem |
+| 23 | [Duel cơ bản \| P8: Một số ưu tiên về phát triển của thành Gấu STRONGHOLD](https://www.youtube.com/watch?v=cxeIL1v1jcU) | 01/04/2024 | ⬜ chưa xem |
+| 24 | [Duel cơ bản \| P9: Bài vở và phương hướng phát triển chung của thành Đầm Lầy FORTRESS](https://www.youtube.com/watch?v=lfJAxty9QD4) | 14/04/2024 | ⬜ chưa xem |
+| 25 | [Duel cơ bản \| P10: Bài vở và phương hướng phát triển chung của thành COVE !](https://www.youtube.com/watch?v=5Y6njhmQGO8) | 16/06/2024 | ⬜ chưa xem |
 
-> [!info]- Ngoài nguồn — 15 video đã biết tên phủ 9 thành, 10 video còn lại chưa rõ nội dung
-> 15 video đã có tiêu đề phủ **9 thành gốc**: Castle · Rampart · Tower · Inferno · Necropolis · Dungeon · Stronghold · Fortress · Conflux. HotA còn thêm **Cove** và **Factory** — chưa thấy video nào cho hai thành này trong 15 video đó. Playlist thật có 25 video (xác nhận 09/09/2026, xem cảnh báo trên), nên 10 video 16–25 chưa biết tên vẫn có thể là Cove/Factory, video tổng hợp, hoặc chủ đề khác — chưa đủ dữ liệu để suy luận tiếp. Đây vẫn là suy luận từ hiểu biết về game, **không phải thứ nguồn nói ra**.
+> [!info]- Ngoài nguồn — cả 25 video phủ 9 thành gốc + Cove, vẫn thiếu Factory
+> 15 video đầu phủ **9 thành gốc**: Castle · Rampart · Tower · Inferno · Necropolis · Dungeon · Stronghold · Fortress · Conflux. 10 video 16–25 (loạt "Duel cơ bản") gồm 2 video mở đầu chung (P1–P2) cộng 8 video nâng cao theo từng thành: Castle, Rampart, Tower, Inferno, Dungeon, Stronghold, Fortress, và **Cove** (P10, video 25) — thành riêng của HotA đầu tiên xuất hiện trong playlist. Necropolis và Conflux không có bản Duel tương ứng. **Factory** — thành HotA còn lại — không xuất hiện ở video nào trong cả 25 video. Đây vẫn là suy luận từ tiêu đề video, **không phải thứ nguồn nói ra**.
 
 **Bên trong video 1** — [[#🎯 Quan điểm nền — quân trong thành không phải quân chủ lực|Quan điểm nền]] · [[#🏰 Vì sao Castle dễ với người mới|Vì sao Castle dễ]] · [[#🏹 Ba ngày đầu — áp cung, Town Hall, rồi dồn hết cho con ngựa|Ba ngày đầu]] · [[#🦆 Tuần 2–3 — lấy ngựa đi cày "mỏ vịt", đủ 30 con thì đánh nhà rồng|Cày mỏ vịt]] · [[#👼 Đừng lấy "lên Thiên Thần sớm" làm thước đo|Chuyện lên Thiên Thần]] · [[#🧭 Tóm lại ba bước của Castle|Ba bước]] · [[#⚔️ Tướng — chọn theo "luyện quân" và theo Diplomacy|Tướng]] · [[#🎥 Mốc thời gian — video 1|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 1 (Castle)|Bảng giải mã]]
 
@@ -75,7 +85,7 @@ Nhịp bốn ngày mà tác giả nhắc đi nhắc lại:
 
 ### 🦆 Tuần 2–3 — lấy ngựa đi cày "mỏ vịt", đủ 30 con thì đánh nhà rồng
 
-- Có ngựa (tuần 1 lý tưởng là **8 con**) thì việc tiếp theo là **đi ăn "mỏ vịt"** ❓ — nguồn quân chủ lực thật sự.
+- Có ngựa (tuần 1 lý tưởng là **8 con**) thì việc tiếp theo là **đi ăn "mỏ vịt"** (Wyvern Nest — xem bảng giải mã) — nguồn quân chủ lực thật sự.
 - Tuần 2 thêm ngựa; **tuần 3 tối thiểu phải đã có mỏ vịt trong tay**, đó mới là cột mốc đáng đo.
 - **Ngưỡng đánh "nhà rồng"** (Dragon Utopia — xác nhận tên đúng, xem bảng giải mã): **30 "vịt"**, và **40 cho chắc ăn**. Cách chia quân đi kèm thì phụ đề vỡ, không chép lại được ❓.
 - **Tách quân, mua thêm tướng để cày song song.** Ví dụ trong tháng đầu cày được 20 con thì tách 10 + 10 cho hai tướng đi hai hướng.
@@ -131,8 +141,8 @@ Nhịp bốn ngày mà tác giả nhắc đi nhắc lại:
 
 ### ❓ Bảng giải mã phụ đề — video 1 (Castle)
 
-> [!info]- Đối chiếu lại 09/09/2026 — phần lớn bảng đã chốt được, còn "vịt"/"mỏ vịt" và hai tướng chưa chắc 100%
-> Ngày 08/09/2026 ba nguồn đều chặn: `heroes.thelazy.net` (403), `homm.fandom.com` (402), diễn đàn GVN (403). Mở lại **09/09/2026** thì cả ba tải bình thường — đối chiếu lại toàn bộ bảng bên dưới, phần lớn dòng đã chuyển từ "Đoán"/"Không rõ" sang xác nhận. Còn treo thật sự: cụm "vịt"/"mỏ vịt" — tra thuật ngữ Heroes 3 tiếng Anh lẫn slang tiếng Việt đều không ra kết quả khớp, phải mở game/nghe lại video mới chốt được. Hai dòng "coleen"/"choline" (đoán Caitlin) và "barista"/"piston" (đoán Christian) khớp hồ sơ tướng trên wiki nhưng chưa nghe lại video để chắc chắn khớp âm, nên vẫn giữ mức "nhiều khả năng" chứ chưa xác nhận.
+> [!info]- Đối chiếu lại 09/09/2026 — gần hết bảng đã chốt được, chỉ còn hai tướng chưa chắc 100%
+> Ngày 08/09/2026 ba nguồn đều chặn: `heroes.thelazy.net` (403), `homm.fandom.com` (402), diễn đàn GVN (403). Mở lại **09/09/2026** thì cả ba tải bình thường — đối chiếu lại toàn bộ bảng bên dưới, phần lớn dòng đã chuyển từ "Đoán"/"Không rõ" sang xác nhận. Cụm "vịt"/"mỏ vịt" — thứ mà cả build order xoay quanh — do người dùng xác nhận trực tiếp cùng ngày (Wyvern, tier 6 Fortress), không phải từ tra cứu. Còn treo: hai dòng "coleen"/"choline" (đoán Caitlin) và "barista"/"piston" (đoán Christian) khớp hồ sơ tướng trên wiki nhưng chưa nghe lại video để chắc chắn khớp âm, nên vẫn giữ mức "nhiều khả năng" chứ chưa xác nhận.
 
 | Nghe ra | Hiểu là | Chắc tới đâu |
 |---|---|---|
@@ -140,7 +150,7 @@ Nhịp bốn ngày mà tác giả nhắc đi nhắc lại:
 | "cung" | Quân bắn của Castle (Archer/Marksman) | Khá chắc |
 | "ngựa" | Quân kỵ binh cấp cao của Castle (Cavalier/Champion) | Khá chắc |
 | "con sẻ" · "con gà" | Quân cấp thấp của thành | Đoán |
-| "vịt" · "mỏ vịt" | Một loại quân trung lập cày ngoài bản đồ, và chỗ sinh ra nó | **Vẫn chưa xác định.** Tra lại 09/09/2026 khi các trang đã mở được — không ra thuật ngữ Heroes 3 tiếng Anh hay slang tiếng Việt nào khớp. Phải mở game/nghe lại video mới chốt được |
+| "vịt" · "mỏ vịt" | Một loại quân trung lập cày ngoài bản đồ, và chỗ sinh ra nó | **Xác nhận (09/09/2026, người dùng cho biết trực tiếp):** "vịt" là quân cấp 6 của thành Đầm Lầy — **Wyvern** (nâng cấp thành Wyvern Monarch) — dân chơi Việt Nam gọi vậy vì Wyvern cổ dài giống vịt. "Mỏ vịt" là **Wyvern Nest**, nhà ngoài bản đồ sinh Wyvern. Khớp hồ sơ trên heroes.thelazy.net: quân cấp 6 hệ Fortress, tốc độ sinh 2 con/ngày |
 | "nhà rồng" | Dragon Utopia | **Xác nhận tên đúng** (heroes.thelazy.net, 09/09/2026) — canh giữ bởi 4 đội hình Rồng Xanh lá/Đỏ/Vàng/Đen tuỳ độ khó, thưởng 20.000–50.000 vàng + kinh nghiệm + vật phẩm. Ngưỡng "30–40 vịt" vẫn là kinh nghiệm riêng của tác giả, không có trong wiki |
 | "thu phục" | Diplomacy | **Xác nhận** (heroes.thelazy.net, 09/09/2026) — Cơ bản/Cao cấp/Chuyên gia tăng dần tỉ lệ quái xin hàng-gia nhập, giảm giá đầu hàng 20/40/60%. Việc xếp ngang Necromancy là nhận định riêng của video, không có trong wiki |
 | "casting" · "cao tinh" | Scouting | **Xác nhận** — kỹ năng có sẵn từ bản gốc SoD (không phải HotA thêm mới); HotA chỉ tăng tầm nhìn Cao cấp/Chuyên gia lên 3/5 ô thay vì 2/3 ô gốc |
