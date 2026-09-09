@@ -240,7 +240,7 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 | Phím | Tác dụng |
 |------|----------|
 | `W` `A` `S` `D` | Di chuyển |
-| **Chuột trái** / `C` | **Dùng công cụ** |
+| **Chuột trái** / ~~`C`~~ → **`G`** | **Dùng công cụ** — 🔧 đã tự đổi từ `C` sang `G` (xem lý do ở [[Mods#🎹 Bảng phím tắt nhanh|Mods — Bảng phím tắt nhanh]]) |
 | **Chuột phải** / `X` | **Kiểm tra / tương tác** (nói chuyện, mở cửa, thu hoạch) |
 | `1`…`9` `0` `-` `=` | Chọn ô đồ trên thanh công cụ |
 | `Tab` | Đổi hàng thanh công cụ (túi đồ có 3 hàng) |
@@ -252,7 +252,7 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 | `Shift` (giữ) | Đi bộ chậm khi đang bật Chạy tự động |
 
 > [!phim] Phím nào đụng với mod thì xem ở [[Mods]]
-> Bảng trên là **phím gốc của game**. Phần đối chiếu — phím nào **thật sự đụng nhau** (`C`, `X`, chuột phải) và phím nào chỉ trùng ký tự nhưng **khác ngữ cảnh** nên không sao (`Shift trái`, `Space`, `F`, `Tab`) — nằm ngay dưới bảng phím mod ở [[Mods#🎹 Bảng phím tắt nhanh|Mods — Bảng phím tắt nhanh]].
+> Bảng trên là **phím gốc của game**. Phần đối chiếu — phím nào **thật sự đụng nhau** (`X`, chuột phải — `C` đã hết đụng sau khi đổi sang `G`) và phím nào chỉ trùng ký tự nhưng **khác ngữ cảnh** nên không sao (`Shift trái`, `Space`, `F`, `Tab`) — nằm ngay dưới bảng phím mod ở [[Mods#🎹 Bảng phím tắt nhanh|Mods — Bảng phím tắt nhanh]].
 >
 > Để ở một chỗ duy nhất cho khỏi sửa bên này quên bên kia.
 

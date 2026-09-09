@@ -26,6 +26,7 @@
 
 | Phím | Mod | Tác dụng |
 |------|-----|----------|
+| `G` | _(phím gốc game, tự đổi)_ | **Dùng công cụ** (Use Tool) — đã đổi từ `C`/chuột trái sang `G` trong Tùy chọn → Điều khiển, cho hết trùng với UI Info Suite 2 |
 | `F1` | Lookup Anything | Tra cứu vật/dân làng/cây dưới con trỏ (laptop: `Fn`+`F1`) |
 | `Shift trái`+`F1` | Lookup Anything | Mở ô tìm kiếm để tra bất kỳ thứ gì |
 | `M` | NPC Map Locations | Mở bản đồ (phím gốc game) |
@@ -62,7 +63,6 @@
 >
 > | Phím | Đụng nhau ở đâu |
 > |---|---|
-> | `C` | Phím phụ **"dùng công cụ"** của game ↔ **UI Info Suite 2** mở Lịch |
 > | `X` | Phím phụ **"kiểm tra"** của game ↔ **Experience Bars** ẩn/hiện thanh XP |
 > | **Chuột phải** | **"Kiểm tra / tương tác"** của game ↔ **MouseMoveMode** dùng để đi — mod xử lý sẵn (bấm gần vẫn tương tác), `F6` tắt tạm là hết |
 >
@@ -77,7 +77,9 @@
 >
 > ✅ `H` đã hết trùng: Bảng nhiệm vụ đổi sang `Q`, giờ `H` chỉ còn **Range Highlight** dùng.
 >
-> **Có cần đổi `C` và `X` không?** Hai phím đó chỉ là **phím phụ** của chuột trái/phải — chơi bằng chuột thì để mod dùng cũng không sao. Hay thao tác bằng bàn phím thì đổi mod sang phím còn trống (`G`, `K`, `L`, `N`, `V`, `Z`) trong GMCM.
+> ✅ `C` đã hết trùng: đổi phím **"Dùng công cụ" (Use Tool)** của game từ `C`/chuột trái sang **`G`** (Tùy chọn → Điều khiển) — `C` giờ chỉ còn **UI Info Suite 2** dùng để mở Lịch, không còn tranh chấp với thao tác dùng công cụ (câu cá, cuốc, tưới...) nữa. `G` không trùng bất kỳ phím gốc hay phím mod nào khác trong bảng ở trên.
+>
+> **Còn `X` thì sao?** Vẫn để mặc định — phím phụ "kiểm tra" của game trùng ký tự với Experience Bars (ẩn/hiện thanh XP), nhưng hai thao tác này gần như không bao giờ cần bấm cùng lúc nên chưa cấp thiết phải đổi. Muốn đổi thì làm tương tự: chọn 1 trong các phím còn trống (`K`, `L`, `N`, `V`, `Z`) và gán trong GMCM cho Experience Bars.
 >
 > `M` là **phím gốc**: NPC Map Locations chỉ mở rộng chức năng bản đồ chứ không chiếm thêm phím.
 
