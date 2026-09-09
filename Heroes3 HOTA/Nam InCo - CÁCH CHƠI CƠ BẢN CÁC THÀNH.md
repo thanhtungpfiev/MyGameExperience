@@ -55,7 +55,7 @@
 
 ### 🎯 Quan điểm nền — quân trong thành không phải quân chủ lực
 
-- Người mới hay nghĩ "lên được quân cấp cao là mạnh hơn". Tác giả nói người chơi giỏi **không quan tâm chuyện đó**, họ chỉ hỏi một câu: **có cày được "vịt" ❓ hay không**.
+- Người mới hay nghĩ "lên được quân cấp cao là mạnh hơn". Tác giả nói người chơi giỏi **không quan tâm chuyện đó**, họ chỉ hỏi một câu: **có cày được "vịt" (Wyvern) hay không**.
 - Quân xây trong thành chủ yếu có giá trị ở **giai đoạn mở đường đầu game**; quân chủ lực cuối cùng thường là quân trung lập cày ngoài bản đồ.
 - Thành nào cũng có ít nhất một loại quân đủ sức đi cày **ngay tuần 1–2** — nên đừng lấy "lên quân cấp 7 sớm" làm thước đo.
 
