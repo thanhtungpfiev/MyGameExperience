@@ -1,6 +1,6 @@
 # 🏰 Heroes 3 HotA — Cách chơi cơ bản các thành (Nam InCo)
 
-> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **1/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
+> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **2/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
 >
 > _Video nói tiếng Việt nhưng tên thành, tên lính, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
@@ -14,7 +14,7 @@
 | # | Video | Đăng | Trạng thái |
 |---|---|---|---|
 | 1 | [Chia sẻ đôi điều về cách chơi cơ bản dành cho thành Thiên Thần CASTLE.](https://www.youtube.com/watch?v=UrV69o76MME) | 23/12/2021 | ✅ [[#1️⃣ Castle (Thiên Thần) — tuần đầu và dàn tướng\|đã chắt lọc]] |
-| 2 | [Chia sẻ kinh nghiệm bản thân về cách chơi cơ bản dành cho thành Rồng Vàng RAMPART.](https://www.youtube.com/watch?v=_CsqbbXC2B0) | 26/12/2021 | ⬜ chưa xem |
+| 2 | [Chia sẻ kinh nghiệm bản thân về cách chơi cơ bản dành cho thành Rồng Vàng RAMPART.](https://www.youtube.com/watch?v=_CsqbbXC2B0) | 26/12/2021 | ✅ [[#2️⃣ Rampart (Rồng Vàng) — mở đường bằng nhân mã và cung, ma cây làm quân chủ lực\|đã chắt lọc]] |
 | 3 | [Chia sẻ kinh nghiệm bản thân về cách chơi cơ bản dành cho thành Titan TOWER.](https://www.youtube.com/watch?v=d0G4HA7qOhA) | 12/01/2022 | ⬜ chưa xem |
 | 4 | [Cách tìm và đào GRAIL nhanh chóng!](https://www.youtube.com/watch?v=rHbFAqtj-_g) | 01/02/2022 | ⬜ chưa xem |
 | 5 | [Chia sẻ kinh nghiệm bản thân về cách chơi cơ bản dành cho thành Devil INFERNO.](https://www.youtube.com/watch?v=Hkv7AxOiFKY) | 22/02/2022 | ⬜ chưa xem |
@@ -43,6 +43,8 @@
 > 15 video đầu phủ **9 thành gốc**: Castle · Rampart · Tower · Inferno · Necropolis · Dungeon · Stronghold · Fortress · Conflux. 10 video 16–25 (loạt "Duel cơ bản") gồm 2 video mở đầu chung (P1–P2) cộng 8 video nâng cao theo từng thành: Castle, Rampart, Tower, Inferno, Dungeon, Stronghold, Fortress, và **Cove** (P10, video 25) — thành riêng của HotA đầu tiên xuất hiện trong playlist. Necropolis và Conflux không có bản Duel tương ứng. **Factory** — thành HotA còn lại — không xuất hiện ở video nào trong cả 25 video. Đây vẫn là suy luận từ tiêu đề video, **không phải thứ nguồn nói ra**.
 
 **Bên trong video 1** — [[#🎯 Quan điểm nền — quân trong thành không phải quân chủ lực|Quan điểm nền]] · [[#🏰 Vì sao Castle dễ với người mới|Vì sao Castle dễ]] · [[#🏹 Ba ngày đầu — áp cung, Town Hall, rồi dồn hết cho con ngựa|Ba ngày đầu]] · [[#🦆 Tuần 2–3 — lấy ngựa đi cày "mỏ vịt", đủ 30 con thì đánh nhà rồng|Cày mỏ vịt]] · [[#👼 Đừng lấy "lên Thiên Thần sớm" làm thước đo|Chuyện lên Thiên Thần]] · [[#🧭 Tóm lại ba bước của Castle|Ba bước]] · [[#⚔️ Tướng — chọn theo "luyện quân" và theo Diplomacy|Tướng]] · [[#🎥 Mốc thời gian — video 1|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 1 (Castle)|Bảng giải mã]]
+
+**Bên trong video 2** — [[#⚠️ Nhược điểm của Rampart — quân cấp 6–7 đắt, quân chậm, rồng hớ phép cấp 5|Nhược điểm]] · [[#🏹 Giai đoạn mở đường của Rampart — nhân mã và cung|Mở đường]] · [[#🌳 Tuần 1–2 của Rampart — dồn hết cho ma cây|Dồn cho ma cây]] · [[#🦆 Rampart cày mỏ vịt — bỏ hẳn ý định lên rồng|Cày mỏ vịt, bỏ rồng]] · [[#🧭 Tóm lại ba bước của Rampart|Ba bước]] · [[#⚔️ Tướng Rampart — dàn tướng đa dạng nhất|Tướng]] · [[#🏁 Vì sao người chơi giỏi thích Rampart|Kết]] · [[#❓ Bảng giải mã phụ đề — video 2 (Rampart)|Bảng giải mã]]
 
 ---
 
@@ -163,6 +165,226 @@ Nhịp bốn ngày mà tác giả nhắc đi nhắc lại:
 | "barista" · "piston" | Tên một tướng có quân đi kèm mạnh | **Nhiều khả năng là Christian** — tướng Knight Castle, đặc trưng Ballista (+30% công/thủ máy bắn đá); "Ballista" phát âm dễ nghe méo thành "barista". Khớp hồ sơ tướng nhưng chưa nghe lại video để chắc chắn khớp âm |
 | "20.000" (giá Angel) · "2.000" (giá Town Hall) | Giá vàng theo lời video | **Angel xác nhận đúng 20.000** vàng (+ 10 Thuỷ ngân/Diêm sinh/Pha lê/Bảo thạch). Town Hall 2.500 đã sửa ở commit trước (xem lịch sử) |
 
+---
+
+## 2️⃣ Rampart (Rồng Vàng) — mở đường bằng nhân mã và cung, ma cây làm quân chủ lực
+
+> [!video] Nguồn
+> **Nam InCo** — [Chia sẻ kinh nghiệm bản thân về cách chơi cơ bản dành cho thành Rồng Vàng RAMPART.](https://www.youtube.com/watch?v=_CsqbbXC2B0) · đăng 26/12/2021 · video 2/25. Transcript mở đầu bằng "tiếp tục… thành thứ hai… thành rồng vàng", khớp video 2 chứ không phải video 19 (loạt "Duel cơ bản" P4, cũng về Rampart).
+> Transcript dán vào **không có timestamp** — nên mục này không có bảng mốc thời gian và không biết độ dài video.
+> Tác giả lại tự nhận **"người chơi chỉ ở mức trung bình"**, chỉ chia sẻ cách chơi cơ bản.
+> **Phụ đề tự động méo còn nặng hơn video 1**: tên quân, tên tướng, con số gần như không câu nào nguyên vẹn. Tên tướng giải mã bằng cách **khớp specialty mà video tả với hồ sơ tướng trên wiki** — xem [[#❓ Bảng giải mã phụ đề — video 2 (Rampart)|bảng giải mã]].
+
+> [!info]- Đối chiếu 10/09/2026 — nguồn nào mở được, nguồn nào không
+> Hôm nay mạng lại chặn: `heroes.thelazy.net` 403 (cả qua trình duyệt thật), `homm.fandom.com` 402, `homm.miraheze.org` 403, `staroceans.org` 403/timeout. Mở được **`heroes.v.thelazy.net`** — cùng wiki, khác host — nên các chỗ ghi "xác nhận" bên dưới là theo trang đó, ngày 10/09/2026. Vài chi tiết chỉ lấy được từ **kết quả tìm kiếm** chứ chưa mở trang (ghi rõ tại chỗ): mức Mage Guild mà Dragon Cliffs đòi · Ryland nằm trong danh sách cấm của luật giải HotA · Jenova +350 vàng/ngày.
+
+### ⚠️ Nhược điểm của Rampart — quân cấp 6–7 đắt, quân chậm, rồng hớ phép cấp 5
+
+- **Quân cấp 6 và 7 rất khó lên trong tuần 1**, nên tuần đầu Rampart thường không có quân chủ lực chỉ số cao như các thành khác.
+    - Nhà Unicorn tốn pha lê — video nghe ra "tốn 10 Crystal", nâng cấp tốn thêm ❓. Wiki mở được lại cho hai con số lệch nhau (trang nhà: 2.000 vàng + 10 pha lê; bảng trong trang thành: 2.500 vàng) ❓ — chưa chốt được.
+    - Nhà rồng (Dragon Cliffs) tốn **10.000 vàng + 30 quặng + 20 pha lê**, nâng cấp **20.000 vàng + 30 quặng + 20 pha lê** (xác nhận). Video nhấn thêm là còn phải xây **Mage Guild** — thứ đòi **cả 4 loại tài nguyên hiếm**: Mage Guild cấp 2 là 1.000 vàng + 5 gỗ + 5 quặng + 4 mỗi loại Thuỷ ngân/Diêm sinh/Pha lê/Bảo thạch (xác nhận). Kết quả tìm kiếm nói nhà rồng đòi Mage Guild cấp 2, bản nâng cấp đòi cấp 3 — chưa mở được trang để chắc ❓.
+- **Chất lượng quân không được đánh giá cao** — một số người xếp Rampart ở mức trung bình, thậm chí dưới trung bình.
+- **Quân chậm**: người lùn (Dwarf) tốc độ **3**, nâng cấp **5**; ma cây (Dendroid) **3**, nâng cấp **4** (xác nhận). Nhiều người nghĩ quân tốc độ thấp thì khó dùng.
+- **Rồng vàng (Gold Dragon) "hớ" đúng chỗ đau.** Nó miễn nhiễm phép cấp **1–4** (rồng xanh chỉ 1–3 — xác nhận), nhưng **không miễn cấp 5**, mà cấp 5 có phép video gọi là "đổ dầu" ❓.
+    - "Đổ dầu" yếu khi đánh nhau với hàng nghìn quân chủ lực, nhưng rất mạnh ở trận quân ít — một hai chục con trở xuống.
+    - Rồng đen của Dungeon miễn **mọi** phép nên không có điểm yếu này. Rồng vàng thì thành "cái bia" cho tướng phép của đối phương.
+    - Lên rồng đã đắt, bị "đổ dầu" chết rồi thì cũng không hồi lại được như Thiên Thần của Castle — tác giả gọi là "rất chua xót". Nên ngay cả người thích Rampart cũng ít muốn lên rồng.
+- **Unicorn** ("ngựa" cấp 6): kỹ năng tốt — **20% làm mù** mục tiêu, kèm **hào quang kháng phép 20%** (xác nhận) — nhưng mù là chuyện may rủi. Lên mù liên tục thì cực mạnh; không lên thì con này yếu, trong khi giá lại đắt. War Unicorn có **110 máu** (xác nhận).
+- Kiếm và giáp của quân Rampart nhìn chung **thấp hơn** thành khác — chủ yếu chỉ có damage ❓ (đoạn này phụ đề vỡ nặng).
+
+### 🏹 Giai đoạn mở đường của Rampart — nhân mã và cung
+
+Tác giả chia ván chơi làm **ba giai đoạn** (áp cho mọi thành):
+
+1. Đánh tài nguyên để lên **quân chủ lực**.
+2. Lấy quân chủ lực mở đường, bắt đầu **cày "vịt"** (Wyvern — xem [[#❓ Bảng giải mã phụ đề — video 1 (Castle)|bảng giải mã video 1]]).
+3. Nâng số "vịt" để **đánh nhà rồng**. Đánh được nhà rồng thì đủ mạnh để thay đồ và đi đánh tướng.
+
+Ở giai đoạn 1, Rampart là **một trong những thành mở đường mạnh nhất** tác giả biết:
+
+- Tướng Rampart đa số chỉ mang **"ngựa" (nhân mã — Centaur) và người lùn**. Rất ít tướng có cung, chỉ **Ivor** là chắc chắn có ❓ (chưa đối chiếu được đội quân khởi đầu của tướng).
+- Nên buộc phải mở đường bằng nhân mã + người lùn:
+    - Người lùn chậm. Nhưng không mang theo thì phải chia nhỏ nhân mã, mà chia ra thì nhân mã yếu đi.
+    - Vậy nên **mang người lùn theo, tách vài con ra làm bia đỡ đạn cho nhân mã**. Người lùn **20 máu**, giáp tốt (xác nhận 20 máu) nên chịu đòn giỏi.
+    - Người chơi giỏi chỉ cần tách vài con làm bia là đủ. Gặp đội quái đông thì vẫn phải mang cả đàn lùn.
+- **Cung (Wood Elf) lên cấp (Grand Elf) bắn hai lần** (xác nhận). Tác giả xếp đây là quân bắn cấp thấp mạnh nhất: mạnh và ổn định hơn con "mắt" của Dungeon (Beholder), con "thần gió" ❓ của Conflux thì phụ thuộc phép và dao động hơn.
+- **Nhân mã + cung là tổ hợp mạnh nhất trong quân cấp 1–3 của mọi thành.** Wiki gọi Centaur Captain là "quân cấp 1 tốt nhất xét theo chỉ số thô" — tốc độ **8** (xác nhận). So với mở đường bằng xương của Necropolis thì dễ hơn rất nhiều: xương đánh vất vả, phải tính toán nhiều vì tốc độ thấp.
+- **Đừng mua cung tham.** Cung đắt. Tác giả khuyên **12–15 con là đủ mạnh**; mua 20–23 con thì hết tiền lên ma cây.
+- **Đừng nặng nề chuyện lên quân cấp cao trong thành** — nó kéo chậm việc phát triển tướng và đạo quân chủ lực.
+- Sang **tuần 3** có thể chia cung ra **hai tướng đi hai hướng**, mở đường rất nhanh.
+- Người lùn về sau chủ yếu dùng làm **bia đỡ** khi đánh các điểm trọng yếu như mỏ vịt — ngoài chịu đòn thì không có giá trị gì.
+
+### 🌳 Tuần 1–2 của Rampart — dồn hết cho ma cây
+
+**Ma cây (Dendroid) là quân chủ lực của Rampart**, và theo tác giả là quân cấp 5 mạnh nhất nếu xét số lượng ra được trong một tuần:
+
+- Nhà ma cây sinh **3 con/tuần**. Công trình riêng **Dendroid Saplings** cộng thêm **2 con/tuần** (xác nhận) — kể cả khi chưa có Castle.
+- Có Castle thì ma cây lên **8 con/tuần** (3×2 + 2), trong khi quân cấp 5 thành khác chỉ **6**.
+- Tác giả so với "con bò" (Minotaur của Dungeon ❓) — quân thường được xếp mạnh nhất cấp 5 — nhưng đoạn giải thích nhược điểm của nó vỡ không chép lại được ❓.
+
+| Khi nào | Làm gì | Vì sao |
+|---|---|---|
+| Ngày 2–3 | Xây nhà cung, **áp cung** nếu có tiền | Cung bắn hai lần là nửa bộ mở đường |
+| Ngày 4 | Vẫn chưa đủ tiền áp cung thì **bỏ**, để dành | Tiền tuần 1 phải dồn cho ma cây |
+| Cuối tuần 1 | **Bằng được nhà ma cây** | Ma cây là quân chủ lực; tuần đầu có 3 con |
+| Còn tiền | Citadel/Castle ❓ ("Carter"), không thì **Dendroid Saplings** | Xem ô dưới — Saplings lợi hơn Citadel |
+| Tuần 2 | Town Hall, Citadel/Castle ❓, và **chắc chắn phải có Saplings** | Xong mấy thứ này là tuần 2 thành công — **không xây thêm gì nữa**, tốn tiền mà ít tác dụng |
+| Cuối tuần 2 | **Ít nhất 6 ma cây**, tốt là 8 | Đủ sức sang giai đoạn 2 |
+
+> [!tien] Dendroid Saplings trước, Citadel sau
+> **Citadel** tốn **2.500 vàng + 5 quặng** (video đọc "2.000 năm" — xác nhận là 2.500) và cộng **+50%** quân sinh ra. Nhưng 50% của 3 ma cây là 1,5 — **làm tròn còn 1 con**. **Dendroid Saplings** chỉ **2.000 vàng** mà cộng **2 con** (xác nhận). Tiền eo hẹp thì Saplings trước — tác giả nói về số con thì ngang việc lên Castle, lại đỡ mất tiền sang tuần 2.
+
+### 🦆 Rampart cày mỏ vịt — bỏ hẳn ý định lên rồng
+
+- Cuối tuần 2 có 6–8 ma cây là **cày được mỏ vịt**. Tuần 1 có 3 con, tuần 2 lên 6 là đủ, 8 con kèm nhiều người lùn cũng được.
+- **Đánh mỏ vịt sớm thì phải hi sinh**:
+    - Đánh sớm: mang **1–2 nhân mã** vào làm thế thân.
+    - Đánh muộn hơn: mang **người lùn** — chịu đòn tốt, đỡ cho ma cây.
+- **Ma cây chậm, kéo tốc độ tướng chính xuống.** Tác giả cho **tướng phụ đi song hành với tướng chính** để giữ nhịp tướng chính; tướng phụ nên có kỹ năng ❓ ("Lucy"/"rustic" — có thể là Logistics). Chi tiết cách chuyển quân giữa hai tướng phụ đề vỡ, không chép lại được ❓.
+- Sang giai đoạn 3 thì **thôi quan tâm đến quân trong thành**, tập trung đánh đường chính, mở rộng, **cày mỏ vịt lên**.
+- **Rồng thì không đáng để lên sớm.** Có tiền dư mới lên, không cần thiết.
+    - Nhiều người nghĩ cái lợi duy nhất của rồng vàng là **kháng Armageddon** ("anaconda") — combo rồng + Armageddon. Nhưng theo video, Rampart **không xây ra được phép này** trong thành ❓: phải tìm sách phép Lửa ngoài bản đồ, mà phép Lửa lại "khó lên nhất game" ❓.
+    - Tác giả chốt: **bỏ luôn suy nghĩ đó**, khỏi bị đeo bám mà mất phương hướng.
+
+> [!bom] Cứ đòi lên rồng là Rampart chậm hẳn
+> Có ma cây, có cung, có nhân mã là **đủ quân mở đường và ăn mỏ vịt**. Cứ nghĩ "phải lên bằng được rồng" thì bị chậm việc mở đường ra để cày — quanh quẩn mãi trong thành và chậm phát triển.
+
+### 🧭 Tóm lại ba bước của Rampart
+
+1. **Bỏ ý định xây rồng từ đầu.** Hai mục tiêu xây duy nhất: **áp cung** và **lên ma cây**.
+2. Hỗ trợ ma cây bằng **Citadel** ❓ và **Dendroid Saplings**. Trong lúc đó mở đường bằng cung + nhân mã.
+3. Ma cây (kèm người lùn làm bia) đi **ăn mỏ vịt**. Hết lùn thì tuần sau lại có — tuần nào nhà cũng sinh.
+
+Việc xếp quân trong từng trận thì tác giả để người chơi tự rút kinh nghiệm — mỗi trận một thế khác nhau.
+
+Theo tác giả, Rampart là thành mở đường mạnh nhất nếu xét **cả thành**:
+
+- Xét **một tướng** thì Luna của Conflux (chuyên **Fire Wall**, HotA tăng lên +100% damage — xác nhận) vẫn mở đường khủng nhất — nhưng đó chỉ là 1 trong 16 tướng của thành ❓ (số 16 theo lời video).
+- Rampart thì mọi tướng đều mở đường mạnh được.
+- Ma cây cấp 5 **rẻ hơn nhiều** so với quân cấp 6 mà các thành khác phải mua.
+- Tác giả ngày trước cũng khởi đầu bằng Castle, về sau thích Rampart hơn.
+
+### ⚔️ Tướng Rampart — dàn tướng đa dạng nhất
+
+Rampart có đủ loại tướng: chiến thiên giáp, chiến thiên kiếm, luyện cung, luyện di chuyển, và tướng phép.
+
+> [!info]- Kỹ năng hay nhắc đến trong đoạn tướng: Interference và Resistance
+> - *(ngoài nguồn, theo wiki)* **Interference** — kỹ năng HotA thêm mới, giảm sức mạnh phép (spell power) của **tướng đối phương** **10/20/30%** theo Cơ bản/Cao cấp/Chuyên gia.
+> - *(ngoài nguồn, theo wiki)* **Resistance** — cho quân của tướng **5/10/20%** kháng phép. Từ HotA 1.6.0 kỹ năng này bị **cấm mặc định**; tướng nào vốn khởi đầu với Resistance thì nhận Interference thay.
+> - Lập luận của tác giả: về lâu dài tướng chiến khoẻ hơn tướng phép nhiều. Interference cắt thẳng 30% sức mạnh phép của đối phương — "bao công khổ luyện" của tướng phép mất gần một phần ba. Các con số ví dụ trong video (30 và 40 sức mạnh phép…) vỡ, không chép lại được ❓.
+> - So với Resistance: kháng phép chỉ là **xác suất** miễn phép — có trận năm lượt liền không dính, có trận dính cả năm. Interference **giảm thẳng**, đỡ may rủi hơn.
+
+**Tướng chiến:**
+
+- **Mephala** — chuyên **Armorer**, khởi đầu Leadership + Armorer (xác nhận). Tác giả cho là **tướng mạnh nhất Rampart khi đánh với người**.
+    - Giáp được đánh giá cao hơn kiếm: mở đường bằng giáp thì an toàn, chắc tay. Còn tướng thiên kiếm buộc phải chủ động lao vào và chấp nhận mất quân — người mới rất khó chơi.
+    - Rampart không phải thành tăng tinh thần như Castle, nhưng có sẵn Leadership thì vẫn rất tốt.
+    - Tác giả xếp Mephala vào nhóm tướng giáp khủng nhất, cùng "ta ra" (đầm lầy) và "liên lạc" (thành Titan). Khớp danh sách tướng chuyên Armorer trên wiki: **Tazar** (Fortress) và **Neela** (Tower) — nhiều khả năng đúng.
+- **Ufretin** — chuyên **người lùn** (HotA: +1 tốc độ, +20% công/thủ cho người lùn), khởi đầu **Interference + Luck** trong HotA (bản SoD là Resistance + Luck — xác nhận).
+    - Hai kỹ năng khởi đầu tốt. Luck đặc biệt quan trọng vì Rampart là **thành may mắn**: xây Grail ở Rampart (**Spirit Guardian**) thì **mọi tướng +2 may mắn** (xác nhận).
+    - Nhưng specialty người lùn thì phí: người lùn không phải quân chủ lực, hay bị hi sinh ở các nhà bảo vật và mỏ vịt, cuối cùng chẳng còn mấy con. Lùn lại chậm, hay bị đánh trước. Nên Ufretin bị thờ ơ.
+- **Jenova** — chuyên **vàng** (+350 vàng/ngày — theo kết quả tìm kiếm), khởi đầu **Advanced Archery** (xác nhận).
+    - Rất lợi đầu game, nhất là trên template mà sản lượng tiền khởi điểm bằng 0 ❓ ("tạm ích mà 8" — có thể là 8XM8, xem video 10 và 12). Lại có sẵn Archery, mở đường bằng cung rất ổn.
+    - Nhưng specialty vàng không biến được thành tướng chủ lực. Dùng mở đường đầu game, **giữa game thì đổi tướng khác**.
+- *Ngoài lề về Sir Mullich (Castle)*: tác giả lấy Mullich làm ví dụ cho việc một specialty có thể biến tướng thành vô địch.
+    - Mullich +2 tốc độ toàn quân (xác nhận): đạo quân Castle đi trước gần như mọi thành, trường hợp hiếm còn thành "14 quân đánh trước" trong lượt đầu.
+    - Video nói **bản HotA buộc phải loại bỏ ông** — **đúng**: HotA mặc định thay Sir Mullich bằng Lord Haart vì tốc độ quá mạnh (heroes.v.thelazy.net, 10/09/2026).
+- **Gelu** ("hay ghen") — tướng ẩn. Tác giả nói nếu được chơi thì có thể là **tướng mạnh nhất** Rampart; "nghe nói bị nerf" ❓. Cách chọn tướng ẩn nằm ở [video 14](https://www.youtube.com/watch?v=kiH2LRNbOuI).
+- **Ryland** ("Real") — **chuyên ma cây**, khởi đầu **Leadership + Diplomacy** (xác nhận). HotA: +1 tốc độ, +20% công/thủ cho ma cây (xác nhận).
+    - Tác giả xếp là **tướng mạnh nhất Rampart** — tướng duy nhất chuyên ma cây, mà ma cây là quân chủ lực giai đoạn 2.
+    - Nhưng **người ta không cho chơi** vì Diplomacy. Hứa "không dùng thu phục" cũng chẳng ai tin: đầu game có thể không, nhưng về sau bí quá rồi thì ai biết. Kết quả tìm kiếm cho thấy Ryland và Diplomacy nằm trong danh sách cấm của luật giải HotA — chưa mở được trang luật để chắc.
+    - Đây là **điểm yếu ngầm của Rampart**: các thành khác đều có tướng luyện quân mở đường chủ lực (Castle, Stronghold, Tower… — tên tướng phụ đề vỡ ❓), còn tướng luyện ma cây của Rampart thì bị cấm. Ma cây vì thế không được cộng specialty.
+- **Giselle** ("dịch Seo"/"tshirt") — **chuyên Interference** (xác nhận). *(Ngoài nguồn, theo wiki: tướng HotA thêm mới, thay Thorgrim — vốn chuyên Resistance, mà Resistance nay bị cấm mặc định.)*
+    - Theo tác giả là một trong những tướng khắc phép mạnh nhất game.
+    - Dùng tuỳ đối thủ: gặp tướng phép, thành thiên phép thì rất đáng; gặp tướng chiến thì kém.
+- **Ivor** ("Evo"/"Yves") — **chuyên cung**, khởi đầu **Archery + Offense** (xác nhận).
+    - Video nói specialty cộng "+1 kiếm, +1 giáp, +1 tốc độ". **Wiki ghi khác**: bản HotA là **+1 tốc độ và +20% công/thủ** cho cung.
+    - Grand Elf tốc độ **7** (xác nhận), cộng specialty lên 8, **đi trước gần như mọi trận ngoài đường** — quân bộ canh đường thường chỉ 4–7. Gặp quân tốc độ 7 thì cung vẫn nhường lượt — chênh lệch một điểm tốc độ rất lớn.
+    - Archery + Offense đều tăng damage đúng cho **cung và nhân mã** — bộ mở đường của Rampart. Tuần 1 cực mạnh.
+    - Cái khó tuần 1 không phải mỏ vịt mà là **quân canh mỏ vịt**. Đánh được trong tuần 1 cần may: nhiều tiền, mua được thêm tướng.
+- **Clancy** — **chuyên Unicorn**, khởi đầu **Interference + Pathfinding** trong HotA (xác nhận). Tác giả xếp là **tướng ít được dùng nhất**:
+    - Unicorn gần như không lên được giai đoạn đầu — ít nhất tuần 3 — nên specialty vô dụng.
+    - Pathfinding thì tốt, nhưng rốt cuộc chỉ làm **tướng phụ**.
+- **Kyrre** — **chuyên Logistics**, khởi đầu Archery + Logistics (xác nhận). Là một trong **ba tướng chạy nhanh nhất game**, cùng **Gunnar** (Dungeon) và **Dessa** (Stronghold) — đúng ba tướng chuyên Logistics trên wiki (xác nhận).
+    - Chạy xa, ăn được nhiều đồ và tài nguyên. Rampart mở đường bằng quân ngoài đường nên Logistics rất quan trọng.
+    - Dùng làm tướng phụ cũng rất tốt.
+
+**Tướng phép:**
+
+- **Coronius** ("Cola"/"chorus", ngày xưa bị gọi đùa là **"con giết rồng"**) — **chuyên Slayer** (xác nhận).
+    - Slayer lên Chuyên gia thì đánh mạnh vào rồng, Behemoth, cả Thiên Thần và Titan.
+    - Trong các phép tăng damage, tác giả xếp Slayer **thứ hai**, chỉ sau phép "chuyển hết thủ sang công" (nhiều khả năng là Frenzy ❓).
+    - Rất mạnh cuối game, nhưng việc học kỹ năng "không ổn định" ❓.
+- **Uland** ("Vu Lan"?) — **chuyên Cure** (xác nhận). Cure vừa giải phép xấu vừa hồi máu, nhưng **hơi phế với Rampart**:
+    - Nhân mã và cung máu ít, bị đánh là chết hẳn — không còn gì để hồi. Cure chỉ hợp quân máu trâu, ví dụ Titan **300 máu** của Tower.
+    - Rồng vàng miễn phép cấp 1–4 thì cũng không nhận được Cure.
+- **Elleshar** ("Extra") — **chuyên Intelligence** (xác nhận). Tướng "lấp lửng":
+    - Đánh máy thì rất mạnh, ném phép liên tục.
+    - Đánh người mà gặp tướng chiến có kỹ năng khắc phép thì gần như không có cửa.
+- Một tướng **chưa nhận ra** được, nằm giữa Elleshar và Malcom ❓ — nhắc đến "như ở thành trước", một kỹ năng "phụ thuộc may rủi", và chuyện quân bị hút lại không thoát được. Tác giả đánh giá trung bình.
+- **Malcom** ("Ekko skin") — **chuyên Eagle Eye** (xác nhận). Tác giả gọi Eagle Eye là **một trong những kỹ năng phế nhất** — cùng nhận định với Sanya ở video 1.
+- **Melodia** ("malala"/"Midea") — **chuyên Fortune**, khởi đầu Luck (xác nhận).
+    - Castle tăng tinh thần, còn Rampart tăng **may mắn** — thêm Grail Spirit Guardian nữa thì càng mạnh.
+    - Cuối game chỉ cần ném Fortune lên là quân rất khoẻ. Tác giả khuyên nên thử.
+- **Alagar** — **chuyên Ice Bolt**, khởi đầu Sorcery (xác nhận).
+    - Tướng chuyên một phép sát thương thì đầu game rất lợi: đánh quái mở đường bằng tay thì hao quân, bị gián đoạn, còn phép thì không mất quân.
+    - Vấn đề là **mana** — phải liên tục về thành hồi. Giữa game vẫn mạnh.
+    - Cuối game kém hơn tướng Sorcery khác, vì specialty chỉ tăng một phép.
+- **Aeris** ("Alice") — **chuyên Pegasus**, khởi đầu **Scouting** (xác nhận). Tác giả xếp là một trong những **tướng phế nhất** Rampart:
+    - Pegasus hầu như không ai buồn lên, lên rồi cũng chẳng dùng.
+    - Scouting có ích đầu game để nhìn đường, nên thường chỉ làm tướng phụ.
+
+Cuối đoạn tác giả đếm **khoảng 10 tướng mạnh** — hơn nửa dàn tướng — nhưng danh sách đọc ra bị vỡ ❓. Ba cái tên đầu nghe được: Mephala, Jenova, "Zealand" ❓.
+
+### 🏁 Vì sao người chơi giỏi thích Rampart
+
+- **Biết "đi tắt" thì Rampart là một trong những thành mạnh nhất**: bỏ rồng, lên thẳng ma cây, cày vịt sớm, mở đường sớm và **kết thúc ván sớm**.
+- Nhắc lại quan điểm nền của cả playlist: đừng xét quân trong thành mạnh hay yếu, hãy xét **mình làm được gì với nó**.
+- Người chơi cấp cao rất thích Rampart. Người ít chơi nghe đồn "thành yếu" nên ngại chọn.
+- Câu chốt của tác giả: **"đừng để Rampart rơi vào tay người biết chơi"**.
+
+### ❓ Bảng giải mã phụ đề — video 2 (Rampart)
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "rồng vàng" | Rampart | **Chắc** — tên thành theo cách gọi Việt Nam, đúng tiêu đề video |
+| "ngựa" (đoạn mở đường) · "nhựa" | Nhân mã — Centaur / Centaur Captain | **Khá chắc** — "tổ hợp mạnh nhất trong quân cấp 1–3", tướng Rampart mang sẵn; wiki xác nhận Centaur Captain tốc độ 8, "quân cấp 1 tốt nhất theo chỉ số thô". Chưa đối chiếu được đội quân khởi đầu của tướng |
+| "ngựa" (đoạn quân cấp 6) | Unicorn / War Unicorn | **Khá chắc** — khớp làm mù 20%, kháng phép, 110 máu. Cùng một chữ "ngựa" chỉ hai con khác nhau, phải nhìn ngữ cảnh |
+| "cung" · "cung đồng" | Wood Elf / Grand Elf | **Xác nhận** — bắn hai lần khi nâng cấp |
+| "con lùn" · "người lùn" | Dwarf / Battle Dwarf | **Xác nhận** — tốc độ 3/5, 20 máu |
+| "ma cây" · "mặt cây" · "ba cây" · "macha" | Dendroid Guard / Soldier | **Xác nhận** — 3 con/tuần, tốc độ 3/4 |
+| "Android sắp Linh" · "sắp Linh" · "Shopping" ❓ | Dendroid Saplings | **Xác nhận** — 2.000 vàng, +2 ma cây/tuần. "Shopping" chỉ đoán theo ngữ cảnh |
+| "sedan" · "serum" · "các tờ" · "Carter" | Citadel (và có thể lẫn Castle) | "Serum… 2.000 năm tiền + 5 đá… +50%" **xác nhận là Citadel** (2.500 vàng + 5 quặng). "Carter"/"các tờ" có lúc nghe như Castle — **Đoán** |
+| "đổ dầu" | Một phép cấp 5 | **Đoán: Implosion** — theo mô tả "phép cấp 5 sát thương, yếu trước hàng nghìn quân, mạnh ở trận quân ít". Không khớp âm, chưa kiểm |
+| "anaconda" | Armageddon | **Khá chắc** — phép Lửa cấp 4, rồng vàng miễn cấp 1–4 (xác nhận); combo rồng + Armageddon. Việc Rampart không xây được phép này thì chưa kiểm |
+| "con bò" | Minotaur (Dungeon, cấp 5) | **Đoán** |
+| "con mắt" (Dungeon) | Beholder | **Đoán** |
+| "thần gió" (Conflux) | Storm Elemental | **Đoán** |
+| "mavala" · "bị pha" · "mình pha la" | Mephala | **Xác nhận** theo specialty Armorer + Leadership |
+| "ta ra" · "liên lạc" | Tazar · Neela | **Nhiều khả năng** — đúng hai tướng chuyên Armorer còn lại của Fortress và Tower trên wiki |
+| "rùa tin" | Ufretin | **Xác nhận** theo specialty người lùn + Interference/Luck |
+| "zin Nova" · "Innova" | Jenova | **Xác nhận** theo specialty vàng + Archery |
+| "Real" · "nuôi lợn" | Ryland | **Xác nhận** theo "tướng duy nhất luyện ma cây" + Diplomacy |
+| "dịch Seo" · "tshirt" | Giselle | **Nhiều khả năng** — tướng HotA chuyên Interference, thay Thorgrim. Không khớp âm |
+| "Evo" · "Yves" | Ivor | **Xác nhận** theo specialty cung + Archery/Offense |
+| "hay ghen" | Gelu | **Nhiều khả năng** — tướng ẩn, video 14 có tên Gelu |
+| "Galaxy" · "một ứng ngựa" | Clancy | **Nhiều khả năng** — chuyên Unicorn + Pathfinding ("vắt file.ink") |
+| "cunda" · "dasa" | Gunnar · Dessa | **Xác nhận** — đúng hai tướng chuyên Logistics còn lại (Dungeon, Stronghold) |
+| "Cola" · "chorus" · "con giết rồng" | Coronius | **Xác nhận** theo specialty Slayer |
+| "Vu Lan" · "qua" | Uland · Cure | **Nhiều khả năng** — "qua" là phép Cure, Uland là tướng chuyên Cure |
+| "Extra" · "intelligent" | Elleshar | **Xác nhận** theo specialty Intelligence |
+| "Ekko skin" | Eagle Eye (Malcom) | **Xác nhận** |
+| "Midea" · "malala chứng nguyện Fortuner" | Melodia | **Xác nhận** theo specialty Fortune |
+| "xét cong" · "lượn băng" | Ice Bolt (Alagar) | **Nhiều khả năng** — tên Alagar không nghe ra, chỉ khớp "chuyên một phép băng" |
+| "Alice" · "cao tinh" | Aeris · Scouting | **Xác nhận** theo Pegasus + Scouting |
+| "Luna" · "thành chim lửa" | Luna (Conflux) | **Xác nhận** — chuyên Fire Wall |
+| "xơ music" | Sir Mullich | **Xác nhận** — xem ghi chú ở mục tướng |
+| "Nuskin interferential" · "marie-christine" | Interference · Resistance (Magic Resistance) | **Xác nhận** theo mô tả giảm 30% sức mạnh phép / kháng phép theo xác suất |
+| "xe grab" · "ghế nail" | Grail (Spirit Guardian) | **Xác nhận** — +2 may mắn cho mọi tướng |
+
+> [!video] Còn treo sau video 2
+> Giá nhà Unicorn (hai con số lệch trên wiki) · mức Mage Guild nhà rồng đòi · phép "đổ dầu" · việc Rampart không xây được Armageddon · kỹ năng nên có của tướng phụ đi kèm ma cây · tướng chưa nhận ra giữa Elleshar và Malcom · danh sách 10 tướng mạnh cuối video · đội quân khởi đầu của tướng Rampart (có nhân mã hay không). Nghe lại video hoặc mở game là cách duy nhất chốt được phần lớn chỗ này.
+
 ## 🔗 Liên quan
 
 - [[Game9x - Hero3 Tập chơi]] — cùng game nhưng bản **SoD** gốc, dạng nhập môn từ cài đặt trở đi
@@ -175,12 +397,12 @@ bên trong dùng "###".
 
 CÁC BƯỚC:
   1. Thêm mục "## 2️⃣ <tên ngắn>", mở đầu bằng callout [!video] Nguồn ghi:
-     link video · ngày đăng · "video n/15 theo thứ tự RSS".
+     link video · ngày đăng · "video n/25".
   2. Viết các mục "###" theo ĐÚNG THỨ TỰ VIDEO nói — thứ tự đó là nội dung.
   3. Kết bằng một callout [!video] liệt kê các chỗ ❓ còn treo. Nếu lấy được mốc
      chương thì thêm "### 🎥 Mốc thời gian — video n".
   4. Cập nhật 3 chỗ ở đầu note:
-     - dòng mở đầu: đổi "1/15 đã chắt lọc" cho khớp
+     - dòng mở đầu: đổi "n/25 đã chắt lọc" cho khớp
      - bảng Mục lục: đổi ⬜ thành ✅ + wikilink tới mục vừa viết
      - thêm một dòng "**Bên trong video n** — ..." nối các heading bằng dấu ·
 
