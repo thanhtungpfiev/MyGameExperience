@@ -112,7 +112,7 @@ Nhịp bốn ngày mà tác giả nhắc đi nhắc lại:
 - Castle **không có tướng chuyên phép nào nổi bật**, điểm mạnh nằm ở chỗ **dàn tướng đa dạng, gần như tướng nào cũng chơi được**.
 - Đáng giá nhất giai đoạn đầu là **tướng "luyện quân"** — tướng có specialty gắn với một loại quân: tướng cộng cho **cung** (mở đường nhanh, đầu game cực lợi), và nhất là tướng cộng cho **ngựa** (cộng tấn công và tốc độ) — ngựa đi trước thì **ít sợ quân bắn của quái**, mở đường mạnh hơn hẳn.
 - **Diplomacy ("thu phục", xác nhận) là kỹ năng đổi cục diện.** Video xếp nó ngang hàng với Necromancy — nhận định riêng của video, không có trong wiki: có tướng thu phục thì **đánh được nhà rồng ngay tuần 3**, may mắn thì cả tuần 2 — vì quân thu phục được cộng dồn rất nhanh. Tác giả kể từng tận mắt thấy một người chơi đàn anh làm được đúng như vậy.
-- **Sir Mullich ("sơ Munich", xác nhận)**: cộng tốc độ cho **toàn bộ đạo quân**, đi trước gần như mọi thành khác — tác giả gọi là một trong hai tướng mạnh nhất của Castle. "Nghe nói bị cấm" khớp với một chi tiết lore có thật trong game (nhân vật Dargem nói ông không còn được đấu thương để người khác có cơ hội thắng), **không phải bị cấm thi đấu ngoài đời** — video có thể đã hiểu nhầm câu thoại đó. Playlist có hẳn [video 14 về các tướng ẩn](https://www.youtube.com/watch?v=kiH2LRNbOuI), tra lại ở đó.
+- **Sir Mullich ("sơ Munich", xác nhận)**: cộng tốc độ cho **toàn bộ đạo quân**, đi trước gần như mọi thành khác — tác giả gọi là một trong hai tướng mạnh nhất của Castle. "Nghe nói bị cấm" là **đúng** (sửa 10/09/2026): **HotA mặc định thay Sir Mullich bằng Lord Haart** vì +2 tốc độ quá mạnh (heroes.v.thelazy.net, 10/09/2026) — video 2 cũng nói đúng ý này. Ghi chú trước đây ("chỉ là câu thoại lore Dargem, không phải bị cấm thật") là sai; câu thoại lore đó có thật nhưng không phải lý do. Playlist có hẳn [video 14 về các tướng ẩn](https://www.youtube.com/watch?v=kiH2LRNbOuI), tra lại ở đó.
 - **Bị đánh giá thấp trong PvP:** tướng chuyên Eagle Eye (Sanya, xác nhận) và tướng chuyên một phép đơn lẻ. Lý do rất thực dụng: đánh với người thì phép của mình đã đủ dùng, còn đánh máy/đi cày thì **quái có dùng phép đâu mà học lỏm**.
 - Kỹ năng do thám (Scouting, xác nhận — kỹ năng gốc bản SoD chứ không phải HotA thêm mới) chỉ đáng giá **đầu game**, để biết quanh thành có bao nhiêu tài nguyên mà lên kế hoạch; về sau thành vô dụng.
 - Mẹo lẻ: gặp **hòm** ngoài đường thì **chọn kinh nghiệm thay vì vàng** ❓ — tướng lên level nhanh, mở sớm các kỹ năng cần cho việc cày.
@@ -135,7 +135,7 @@ Nhịp bốn ngày mà tác giả nhắc đi nhắc lại:
 | 15:59 | Bắt đầu phần tướng |
 | 24:51 | Tướng luyện quân — cung và ngựa |
 | 27:05 | Kỹ năng đổi cục diện: Necromancy và Diplomacy |
-| 33:45 | Sir Mullich ❓ và chuyện bị cấm |
+| 33:45 | Sir Mullich và chuyện bị cấm |
 | 35:02 | Xếp hạng tướng của thành |
 | 37:19 | Kết — hẹn thành tiếp theo ở video sau |
 
@@ -154,7 +154,7 @@ Nhịp bốn ngày mà tác giả nhắc đi nhắc lại:
 | "nhà rồng" | Dragon Utopia | **Xác nhận tên đúng** (heroes.thelazy.net, 09/09/2026) — canh giữ bởi 4 đội hình Rồng Xanh lá/Đỏ/Vàng/Đen tuỳ độ khó, thưởng 20.000–50.000 vàng + kinh nghiệm + vật phẩm. Ngưỡng "30–40 vịt" vẫn là kinh nghiệm riêng của tác giả, không có trong wiki |
 | "thu phục" | Diplomacy | **Xác nhận** (heroes.thelazy.net, 09/09/2026) — Cơ bản/Cao cấp/Chuyên gia tăng dần tỉ lệ quái xin hàng-gia nhập, giảm giá đầu hàng 20/40/60%. Việc xếp ngang Necromancy là nhận định riêng của video, không có trong wiki |
 | "casting" · "cao tinh" | Scouting | **Xác nhận** — kỹ năng có sẵn từ bản gốc SoD (không phải HotA thêm mới); HotA chỉ tăng tầm nhìn Cao cấp/Chuyên gia lên 3/5 ô thay vì 2/3 ô gốc |
-| "sơ Munich" · "xơ Munich" | Sir Mullich | **Xác nhận** — đúng là tướng Castle (Knight), đặc trưng Speed (+2 tốc độ toàn quân). "Nghe nói bị cấm" là lời thoại lore trong game (nhân vật Dargem nói ông không được đấu thương nữa để người khác có cơ hội thắng), không phải bị cấm thi đấu thật |
+| "sơ Munich" · "xơ Munich" | Sir Mullich | **Xác nhận** — đúng là tướng Castle (Knight), đặc trưng Speed (+2 tốc độ toàn quân). "Nghe nói bị cấm" **đúng**: HotA mặc định thay ông bằng Lord Haart vì cân bằng game (heroes.v.thelazy.net, 10/09/2026) — ghi chú cũ "chỉ là lore, không bị cấm thật" đã sửa |
 | "xót xa" | Sorsha | **Xác nhận** — tướng Castle (Knight) |
 | "Allah" · "adalah" | Adela | **Xác nhận** — tướng Castle (Cleric) |
 | "coleen" · "choline" | Tên một tướng Castle | **Nhiều khả năng là Caitlin** — tướng Cleric Castle, đặc trưng Gold (+350 vàng/ngày). Khớp hồ sơ tướng trên wiki nhưng chưa nghe lại video để chắc chắn khớp âm |
