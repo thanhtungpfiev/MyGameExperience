@@ -4,3 +4,6 @@
 
 # Cau hinh Claude Code rieng cua tung may - co the chua duong dan va quyen local
 **/.claude/settings.local.json
+
+# Log va snapshot trang do Playwright MCP tu do ra - chi la rac cua phien duyet web
+**/.playwright-mcp/
