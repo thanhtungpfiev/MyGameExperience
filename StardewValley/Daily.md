@@ -44,9 +44,9 @@
 **Sự kiện:** Willy gửi thư mời ra bãi biển → nhận **Cần tre (Bamboo Pole)** miễn phí, từ đây câu cá được.
 
 **Việc cần làm:**
-- [x] Ra bãi biển nhận Cần tre: Farm → **Backwoods không có đường tắt** — phải vòng qua **Rừng Cindersap → Thị trấn → qua cầu xuống Bãi biển**. Vào Tiệm Cá Willy (9:00–17:00)
-- [x] Tập câu ngay tại bãi biển/sông: quăng cần → chờ `!` → bấm dính → giữ/nhả chuột cho ô xanh bám theo cá
-- [x] Lượm đồ dọc đường (bãi biển có thêm san hô, ốc, sò)
+- [ ] Ra bãi biển nhận Cần tre: Farm → **Backwoods không có đường tắt** — phải vòng qua **Rừng Cindersap → Thị trấn → qua cầu xuống Bãi biển**. Vào Tiệm Cá Willy (9:00–17:00)
+- [ ] Tập câu ngay tại bãi biển/sông: quăng cần → chờ `!` → bấm dính → giữ/nhả chuột cho ô xanh bám theo cá
+- [ ] Lượm đồ dọc đường (bãi biển có thêm san hô, ốc, sò)
 
 **Lưu ý:**
 - Câu cá cấp 0 rất khó, ô xanh nhỏ, dính rác là thường — đừng nản, mỗi lần câu (kể cả hụt) vẫn cộng kinh nghiệm. [[Mods#Visible Fish 0.4.2|Visible Fish]] chỉ hiển thị con cá đang câu được, không đổi độ khó minigame.
@@ -74,9 +74,9 @@ Mưa cả ngày (Năm 1 luôn mưa hôm nay) → khỏi tưới ruộng. **Pierr
 **Lộ trình:** sáng ở sông bắt Cá trê + Cá cháy → từ 16:00 chuyển ra biển bắt Lươn (trước giờ đó ra biển sẽ không có).
 
 **Việc cần làm:**
-- [x] Câu Cá trê + Cá cháy ở sông, Lươn ở biển từ 16:00
-- [x] Ghé hồ Ngọn núi xem chỗ đứng câu **Legend** (con cá ~5.000g, chỉ ra Xuân + mưa, đòi cấp 10 — chưa câu được, chỉ xem chỗ)
-- [x] Dọn thêm đất / chặt cây lấy gỗ
+- [ ] Câu Cá trê + Cá cháy ở sông, Lươn ở biển từ 16:00
+- [ ] Ghé hồ Ngọn núi xem chỗ đứng câu **Legend** (con cá ~5.000g, chỉ ra Xuân + mưa, đòi cấp 10 — chưa câu được, chỉ xem chỗ)
+- [ ] Dọn thêm đất / chặt cây lấy gỗ
 
 ---
 
