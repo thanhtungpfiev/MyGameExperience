@@ -175,14 +175,15 @@ Nhịp bốn ngày mà tác giả nhắc đi nhắc lại:
 > Tác giả lại tự nhận **"người chơi chỉ ở mức trung bình"**, chỉ chia sẻ cách chơi cơ bản.
 > **Phụ đề tự động méo còn nặng hơn video 1**: tên quân, tên tướng, con số gần như không câu nào nguyên vẹn. Tên tướng giải mã bằng cách **khớp specialty mà video tả với hồ sơ tướng trên wiki** — xem [[#❓ Bảng giải mã phụ đề — video 2 (Rampart)|bảng giải mã]].
 
-> [!info]- Đối chiếu 10/09/2026 — nguồn nào mở được, nguồn nào không
-> Hôm nay mạng lại chặn: `heroes.thelazy.net` 403 (cả qua trình duyệt thật), `homm.fandom.com` 402, `homm.miraheze.org` 403, `staroceans.org` 403/timeout. Mở được **`heroes.v.thelazy.net`** — cùng wiki, khác host — nên các chỗ ghi "xác nhận" bên dưới là theo trang đó, ngày 10/09/2026. Vài chi tiết chỉ lấy được từ **kết quả tìm kiếm** chứ chưa mở trang (ghi rõ tại chỗ): mức Mage Guild mà Dragon Cliffs đòi · Ryland nằm trong danh sách cấm của luật giải HotA · Jenova +350 vàng/ngày.
+> [!info]- Đối chiếu 10/09/2026 — 2 đợt trong ngày, đợt sau mở được thẳng `heroes.thelazy.net`
+> Đợt sáng: `heroes.thelazy.net` 403 (cả qua trình duyệt thật), `homm.fandom.com` 402, `homm.miraheze.org` 403, `staroceans.org` 403/timeout — mở được **`heroes.v.thelazy.net`** (cùng wiki, khác host), nên các chỗ ghi "xác nhận" ở đợt này theo trang đó. Vài chi tiết chỉ lấy được từ **kết quả tìm kiếm** chứ chưa mở trang: Ryland nằm trong danh sách cấm của luật giải HotA · Jenova +350 vàng/ngày (cả hai vẫn chưa kiểm thêm được ở đợt sau).
+> Đợt chiều (theo yêu cầu người dùng "verify lại note cho video 2"): `heroes.thelazy.net` mở bình thường, cả qua WebFetch lẫn trình duyệt thật — chốt được thêm: chi phí Unicorn Glade/Dragon Cliffs (đọc trực tiếp từ bảng, đối chiếu tọa độ icon tài nguyên để tránh đọc nhầm cột), điều kiện Mage Guild của Dragon Cliffs, xác suất Armageddon ở Mage Guild Rampart, danh sách tướng chuyên Armorer, số tướng Conflux. Xem chi tiết nguồn ở từng dòng bên dưới.
 
 ### ⚠️ Nhược điểm của Rampart — quân cấp 6–7 đắt, quân chậm, rồng hớ phép cấp 5
 
 - **Quân cấp 6 và 7 rất khó lên trong tuần 1**, nên tuần đầu Rampart thường không có quân chủ lực chỉ số cao như các thành khác.
-    - Nhà Unicorn tốn pha lê — video nghe ra "tốn 10 Crystal", nâng cấp tốn thêm ❓. Wiki mở được lại cho hai con số lệch nhau (trang nhà: 2.000 vàng + 10 pha lê; bảng trong trang thành: 2.500 vàng) ❓ — chưa chốt được.
-    - Nhà rồng (Dragon Cliffs) tốn **10.000 vàng + 30 quặng + 20 pha lê**, nâng cấp **20.000 vàng + 30 quặng + 20 pha lê** (xác nhận). Video nhấn thêm là còn phải xây **Mage Guild** — thứ đòi **cả 4 loại tài nguyên hiếm**: Mage Guild cấp 2 là 1.000 vàng + 5 gỗ + 5 quặng + 4 mỗi loại Thuỷ ngân/Diêm sinh/Pha lê/Bảo thạch (xác nhận). Kết quả tìm kiếm nói nhà rồng đòi Mage Guild cấp 2, bản nâng cấp đòi cấp 3 — chưa mở được trang để chắc ❓.
+    - Nhà Unicorn (Unicorn Glade) — video nghe ra "tốn 10 Crystal": **xác nhận đúng con số 10, nhưng là Gem (Bảo thạch) chứ không phải Crystal (Pha lê)** — đọc trực tiếp từ bảng chi phí trên heroes.thelazy.net (đối chiếu toạ độ icon tài nguyên từng dòng để khỏi lẫn cột, 10/09/2026 đợt chiều): **4.000 vàng + 5 gỗ + 5 quặng + 10 Bảo thạch**. Nâng cấp lên Upg. Unicorn Glade: **3.000 vàng + 5 Bảo thạch**.
+    - Nhà rồng (Dragon Cliffs) tốn **10.000 vàng + 30 quặng + 20 pha lê**, nâng cấp **20.000 vàng + 30 quặng + 20 pha lê** (xác nhận, đọc lại đúng con số ở đợt chiều). Video nhấn thêm là còn phải xây **Mage Guild**: **xác nhận** — trang "Green Dragon and Gold Dragon" trên heroes.thelazy.net ghi nguyên văn nhà cấp cơ bản "requires... a level 2 Mage Guild", bản nâng cấp "requires Mage Guild level 3" (10/09/2026 đợt chiều). Chi phí xây từng cấp Mage Guild thì chưa đối chiếu lại kỹ (bảng "Common Buildings" cùng trang có nhưng chưa tách rõ từng loại tài nguyên) — để nguyên ❓, không tự suy diễn số cũ.
 - **Chất lượng quân không được đánh giá cao** — một số người xếp Rampart ở mức trung bình, thậm chí dưới trung bình.
 - **Quân chậm**: người lùn (Dwarf) tốc độ **3**, nâng cấp **5**; ma cây (Dendroid) **3**, nâng cấp **4** (xác nhận). Nhiều người nghĩ quân tốc độ thấp thì khó dùng.
 - **Rồng vàng (Gold Dragon) "hớ" đúng chỗ đau.** Nó miễn nhiễm phép cấp **1–4** (rồng xanh chỉ 1–3 — xác nhận), nhưng **không miễn cấp 5**, mà cấp 5 có phép video gọi là "đổ dầu" ❓.
@@ -243,7 +244,7 @@ Tác giả chia ván chơi làm **ba giai đoạn** (áp cho mọi thành):
 - **Ma cây chậm, kéo tốc độ tướng chính xuống.** Tác giả cho **tướng phụ đi song hành với tướng chính** để giữ nhịp tướng chính; tướng phụ nên có kỹ năng ❓ ("Lucy"/"rustic" — có thể là Logistics). Chi tiết cách chuyển quân giữa hai tướng phụ đề vỡ, không chép lại được ❓.
 - Sang giai đoạn 3 thì **thôi quan tâm đến quân trong thành**, tập trung đánh đường chính, mở rộng, **cày mỏ vịt lên**.
 - **Rồng thì không đáng để lên sớm.** Có tiền dư mới lên, không cần thiết.
-    - Nhiều người nghĩ cái lợi duy nhất của rồng vàng là **kháng Armageddon** ("anaconda") — combo rồng + Armageddon. Nhưng theo video, Rampart **không xây ra được phép này** trong thành ❓: phải tìm sách phép Lửa ngoài bản đồ, mà phép Lửa lại "khó lên nhất game" ❓.
+    - Nhiều người nghĩ cái lợi duy nhất của rồng vàng là **kháng Armageddon** ("anaconda") — combo rồng + Armageddon. Theo video, Rampart **không xây ra được phép này** trong thành: **xác nhận** — bảng xác suất phép theo thành trên heroes.thelazy.net ghi Armageddon có **0% xác suất xuất hiện ở Mage Guild Rampart** (chỉ có ở Inferno/Necropolis/Dungeon và vài thành khác), nên đúng là phải tìm sách phép hoặc học từ nơi khác ngoài bản đồ (10/09/2026). Riêng nhận định "phép Lửa khó lên nhất game" (nói chung, không riêng Rampart) thì chưa kiểm được — để nguyên ❓.
     - Tác giả chốt: **bỏ luôn suy nghĩ đó**, khỏi bị đeo bám mà mất phương hướng.
 
 > [!bom] Cứ đòi lên rồng là Rampart chậm hẳn
@@ -259,7 +260,7 @@ Việc xếp quân trong từng trận thì tác giả để người chơi tự
 
 Theo tác giả, Rampart là thành mở đường mạnh nhất nếu xét **cả thành**:
 
-- Xét **một tướng** thì Luna của Conflux (chuyên **Fire Wall**, HotA tăng lên +100% damage — xác nhận) vẫn mở đường khủng nhất — nhưng đó chỉ là 1 trong 16 tướng của thành ❓ (số 16 theo lời video).
+- Xét **một tướng** thì Luna của Conflux (chuyên **Fire Wall**, HotA tăng lên +100% damage — xác nhận) vẫn mở đường khủng nhất — nhưng đó chỉ là 1 trong **16 tướng của thành** (số 16 theo lời video, **xác nhận** — Conflux có đúng 16 tướng: 8 Planeswalker + 8 Elementalist, heroes.thelazy.net 10/09/2026).
 - Rampart thì mọi tướng đều mở đường mạnh được.
 - Ma cây cấp 5 **rẻ hơn nhiều** so với quân cấp 6 mà các thành khác phải mua.
 - Tác giả ngày trước cũng khởi đầu bằng Castle, về sau thích Rampart hơn.
@@ -279,7 +280,7 @@ Rampart có đủ loại tướng: chiến thiên giáp, chiến thiên kiếm, 
 - **Mephala** — chuyên **Armorer**, khởi đầu Leadership + Armorer (xác nhận). Tác giả cho là **tướng mạnh nhất Rampart khi đánh với người**.
     - Giáp được đánh giá cao hơn kiếm: mở đường bằng giáp thì an toàn, chắc tay. Còn tướng thiên kiếm buộc phải chủ động lao vào và chấp nhận mất quân — người mới rất khó chơi.
     - Rampart không phải thành tăng tinh thần như Castle, nhưng có sẵn Leadership thì vẫn rất tốt.
-    - Tác giả xếp Mephala vào nhóm tướng giáp khủng nhất, cùng "ta ra" (đầm lầy) và "liên lạc" (thành Titan). Khớp danh sách tướng chuyên Armorer trên wiki: **Tazar** (Fortress) và **Neela** (Tower) — nhiều khả năng đúng.
+    - Tác giả xếp Mephala vào nhóm tướng giáp khủng nhất, cùng "ta ra" (đầm lầy) và "liên lạc" (thành Titan). **Xác nhận** (heroes.thelazy.net, 10/09/2026): đúng 3 tướng chuyên Armorer bản gốc là **Mephala** (Rampart), **Tazar** (Fortress), **Neela** (Tower) — khớp hoàn toàn. HotA sau này thêm **Dury** (Factory) làm tướng chuyên Armorer thứ tư, nhưng Factory ra sau video này nên không được nhắc tới.
 - **Ufretin** — chuyên **người lùn** (HotA: +1 tốc độ, +20% công/thủ cho người lùn), khởi đầu **Interference + Luck** trong HotA (bản SoD là Resistance + Luck — xác nhận).
     - Hai kỹ năng khởi đầu tốt. Luck đặc biệt quan trọng vì Rampart là **thành may mắn**: xây Grail ở Rampart (**Spirit Guardian**) thì **mọi tướng +2 may mắn** (xác nhận).
     - Nhưng specialty người lùn thì phí: người lùn không phải quân chủ lực, hay bị hi sinh ở các nhà bảo vật và mỏ vịt, cuối cùng chẳng còn mấy con. Lùn lại chậm, hay bị đánh trước. Nên Ufretin bị thờ ơ.
@@ -289,7 +290,7 @@ Rampart có đủ loại tướng: chiến thiên giáp, chiến thiên kiếm, 
 - *Ngoài lề về Sir Mullich (Castle)*: tác giả lấy Mullich làm ví dụ cho việc một specialty có thể biến tướng thành vô địch.
     - Mullich +2 tốc độ toàn quân (xác nhận): đạo quân Castle đi trước gần như mọi thành, trường hợp hiếm còn thành "14 quân đánh trước" trong lượt đầu.
     - Video nói **bản HotA buộc phải loại bỏ ông** — **đúng**: HotA mặc định thay Sir Mullich bằng Lord Haart vì tốc độ quá mạnh (heroes.v.thelazy.net, 10/09/2026).
-- **Gelu** ("hay ghen") — tướng ẩn. Tác giả nói nếu được chơi thì có thể là **tướng mạnh nhất** Rampart; "nghe nói bị nerf" ❓. Cách chọn tướng ẩn nằm ở [video 14](https://www.youtube.com/watch?v=kiH2LRNbOuI).
+- **Gelu** ("hay ghen") — tướng ẩn. Tác giả nói nếu được chơi thì có thể là **tướng mạnh nhất** Rampart; "nghe nói bị nerf" — **đã kiểm, chưa xác nhận được**: mở thẳng trang Gelu trên heroes.thelazy.net (10/09/2026) thì quân khởi đầu vẫn ghi 100% (không thấy số liệu HotA nào khác SoD), cũng không thấy ghi chú thay đổi specialty giữa các bản. Có thể video nói tới một thay đổi khác (cân bằng bản đồ, luật giải…) chưa tra ra được — giữ ❓. Cách chọn tướng ẩn nằm ở [video 14](https://www.youtube.com/watch?v=kiH2LRNbOuI).
 - **Ryland** ("Real") — **chuyên ma cây**, khởi đầu **Leadership + Diplomacy** (xác nhận). HotA: +1 tốc độ, +20% công/thủ cho ma cây (xác nhận).
     - Tác giả xếp là **tướng mạnh nhất Rampart** — tướng duy nhất chuyên ma cây, mà ma cây là quân chủ lực giai đoạn 2.
     - Nhưng **người ta không cho chơi** vì Diplomacy. Hứa "không dùng thu phục" cũng chẳng ai tin: đầu game có thể không, nhưng về sau bí quá rồi thì ai biết. Kết quả tìm kiếm cho thấy Ryland và Diplomacy nằm trong danh sách cấm của luật giải HotA — chưa mở được trang luật để chắc.
@@ -355,13 +356,13 @@ Cuối đoạn tác giả đếm **khoảng 10 tướng mạnh** — hơn nửa 
 | "ma cây" · "mặt cây" · "ba cây" · "macha" | Dendroid Guard / Soldier | **Xác nhận** — 3 con/tuần, tốc độ 3/4 |
 | "Android sắp Linh" · "sắp Linh" · "Shopping" ❓ | Dendroid Saplings | **Xác nhận** — 2.000 vàng, +2 ma cây/tuần. "Shopping" chỉ đoán theo ngữ cảnh |
 | "sedan" · "serum" · "các tờ" · "Carter" | Citadel (và có thể lẫn Castle) | "Serum… 2.000 năm tiền + 5 đá… +50%" **xác nhận là Citadel** (2.500 vàng + 5 quặng). "Carter"/"các tờ" có lúc nghe như Castle — **Đoán** |
-| "đổ dầu" | Một phép cấp 5 | **Đoán: Implosion** — theo mô tả "phép cấp 5 sát thương, yếu trước hàng nghìn quân, mạnh ở trận quân ít". Không khớp âm, chưa kiểm |
-| "anaconda" | Armageddon | **Khá chắc** — phép Lửa cấp 4, rồng vàng miễn cấp 1–4 (xác nhận); combo rồng + Armageddon. Việc Rampart không xây được phép này thì chưa kiểm |
+| "đổ dầu" | Một phép cấp 5 | **Khá chắc hơn: Implosion** (Earth Magic) — công thức 100/200/300 + (sức mạnh phép × 75), đánh dồn vào **một mục tiêu duy nhất** bất kể cỡ đội quân (heroes.thelazy.net, 10/09/2026) — khớp đúng mô tả "yếu trước hàng nghìn quân, mạnh ở trận quân ít": damage cố định dư sức xoá sổ một đội nhỏ nhưng chẳng thấm vào đâu với đội đông. Không khớp âm "đổ dầu", vẫn chưa nghe lại video để chắc 100% |
+| "anaconda" | Armageddon | **Xác nhận** — phép Lửa cấp 4, rồng vàng miễn cấp 1–4 (xác nhận); combo rồng + Armageddon. Việc Rampart không xây được phép này: **xác nhận đúng** — Armageddon có 0% xác suất ở Mage Guild Rampart (heroes.thelazy.net, 10/09/2026) |
 | "con bò" | Minotaur (Dungeon, cấp 5) | **Đoán** |
 | "con mắt" (Dungeon) | Beholder | **Đoán** |
 | "thần gió" (Conflux) | Storm Elemental | **Đoán** |
 | "mavala" · "bị pha" · "mình pha la" | Mephala | **Xác nhận** theo specialty Armorer + Leadership |
-| "ta ra" · "liên lạc" | Tazar · Neela | **Nhiều khả năng** — đúng hai tướng chuyên Armorer còn lại của Fortress và Tower trên wiki |
+| "ta ra" · "liên lạc" | Tazar · Neela | **Xác nhận** — đúng hai tướng chuyên Armorer còn lại của Fortress và Tower (heroes.thelazy.net, 10/09/2026) |
 | "rùa tin" | Ufretin | **Xác nhận** theo specialty người lùn + Interference/Luck |
 | "zin Nova" · "Innova" | Jenova | **Xác nhận** theo specialty vàng + Archery |
 | "Real" · "nuôi lợn" | Ryland | **Xác nhận** theo "tướng duy nhất luyện ma cây" + Diplomacy |
@@ -383,7 +384,9 @@ Cuối đoạn tác giả đếm **khoảng 10 tướng mạnh** — hơn nửa 
 | "xe grab" · "ghế nail" | Grail (Spirit Guardian) | **Xác nhận** — +2 may mắn cho mọi tướng |
 
 > [!video] Còn treo sau video 2
-> Giá nhà Unicorn (hai con số lệch trên wiki) · mức Mage Guild nhà rồng đòi · phép "đổ dầu" · việc Rampart không xây được Armageddon · kỹ năng nên có của tướng phụ đi kèm ma cây · tướng chưa nhận ra giữa Elleshar và Malcom · danh sách 10 tướng mạnh cuối video · đội quân khởi đầu của tướng Rampart (có nhân mã hay không). Nghe lại video hoặc mở game là cách duy nhất chốt được phần lớn chỗ này.
+> **Đối chiếu 10/09/2026 (đợt chiều) đã chốt thêm:** chi phí Unicorn Glade/Dragon Cliffs · điều kiện Mage Guild nhà rồng · phép "đổ dầu" (khá chắc là Implosion) · Rampart không xây được Armageddon (0% xác nhận) · Tazar/Neela cùng Mephala chuyên Armorer · Conflux đúng 16 tướng. Đã kiểm nhưng **chưa chốt được**: Gelu "nghe nói bị nerf" (mở thẳng trang Gelu không thấy số liệu HotA khác SoD).
+> **Còn treo, chỉ nghe lại video hoặc mở game mới chốt được:** kỹ năng nên có của tướng phụ đi kèm ma cây ("Lucy"/"rustic") · tướng chưa nhận ra giữa Elleshar và Malcom · danh sách 10 tướng mạnh cuối video (mới nghe được 3 tên) · đội quân khởi đầu của tướng Rampart (có nhân mã hay không, ngoài Ivor) · giá nhà Unicorn video tự đọc số ("chưa nghe lại để đối chiếu với 4.000 vàng + 10 Bảo thạch vừa chốt").
+> **Phát hiện thêm (ngoài nguồn, theo wiki):** Rampart thực ra có **18 tướng** (10 Ranger + 8 Druid, kể cả Gelu ẩn), không phải 16 như bảng tướng ở trên liệt kê — video/note đã bỏ qua **Thorgrim** (chuyên Resistance, đặc trưng gần như vô dụng vì Resistance bị cấm mặc định trong HotA) và **Gem** (chuyên First Aid). Đây là suy luận từ danh sách tướng trên heroes.thelazy.net, không phải điều video nói ra.
 
 ## 🔗 Liên quan
 
