@@ -77,7 +77,7 @@ Rê chuột vào cột Prestige trên bảng xếp hạng để xem nguồn. So 
 
 ⇒ Việc tiên quyết với Đại Nam là **đẩy học thức lên ngay từ đầu** bằng decree. Hai decree tác giả ban:
 
-1. Decree tăng học thức ❓ _(nguyên văn "thúc đẩy xã xã hội này")_ — xem callout dưới.
+1. Decree tăng học thức — **Promote Social Mobility** _(nguyên văn nghe "thúc đẩy xã xã hội này")_ — xem callout dưới.
 2. **Road Maintenance** (bảo trì đường bộ) — _"đằng nào thì cũng không đánh thuế nên cứ dùng hết đi"_.
 
 Ban xong còn **75 Authority**.
@@ -85,13 +85,13 @@ Ban xong còn **75 Authority**.
 Tác giả nói rõ đây là lối **riêng cho Đại Nam**: nước châu Âu vốn giàu và học thức cao thì chưa chắc cần decree giáo dục, có thể dồn vào decree khuyến khích sản xuất. Tùy nước mà chọn.
 
 > [!info]- Hai decree này thật ra làm gì (ngoài nguồn)
-> Decree gần nhất với "thúc đẩy xã hội" trong file game là **Promote Social Mobility**: **+25% education access** và **+25% pop qualifications** trong bang được ban — học thức tăng gián tiếp qua education access, đúng mục đích tác giả nói. Chưa mở game xem tên Việt hóa nên vẫn để `❓` ở trên.
+> Decree đúng là **Promote Social Mobility**: **+25% education access** và **+25% pop qualifications** trong bang được ban — học thức tăng gián tiếp qua education access, đúng mục đích tác giả nói. Mô tả gốc trong file: _"Encourage the population to strive for higher job qualifications"_ — khớp ý "thúc đẩy [dịch chuyển] xã hội". **Đã xác nhận chéo qua wiki chính thức** (không bị chặn từ máy cloud) nên bỏ dấu `❓` ở tên tiếng Anh; chỉ còn thiếu tên Việt hóa trong game.
 >
 > **Road Maintenance**: +1 infrastructure theo dân số, +20 trần infrastructure, **+10% tốc độ xây dựng** trong bang. Mỗi decree tốn **100 Authority**.
 >
 > **Academia** có thật, là công nghệ society thời kỳ 1, nằm sau Rationalism; comment trong file ghi nó mở công trình University, và nó cũng mở luật Private Schools. Con số 35 tháng không kiểm được — thời gian nghiên cứu phụ thuộc điểm nghiên cứu của từng ván.
 >
-> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/decrees/00_decree.txt`, `common/technology/technologies/30_society.txt`.
+> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/decrees/00_decree.txt`, `common/technology/technologies/30_society.txt`. Đối chiếu lại cùng ngày trên [Decree — Victoria 3 Wiki](https://vic3.paradoxwikis.com/Decree) (bản hiện hành 1.13.x): số và mô tả khớp nguyên văn.
 
 ### 🏛️ Bureaucracy âm — thuế thất thu hai lớp
 
@@ -123,11 +123,13 @@ Thuế bị hụt qua **hai lớp**, và tác giả giải thích bằng ví d�
 Nâng một phát là Bureaucracy từ âm chuyển sang dương — nhưng phải có giấy trước. Giấy lấy ở mục dưới.
 
 > [!warning]- Số của video lệch với file game — nhiều khả năng là tổng của cả công trình
-> File script bản 1.9.0 ghi **mỗi cấp**: Simple Organization **10 Bureaucracy · 2 tax capacity**; Filing Cabinets (key `pm_horizontal_drawer_cabinets`, mở bằng tech Centralization) tiêu **10 giấy**, cho **50 Bureaucracy · 10 tax capacity**. Số của video (30/6 và 150/30) **đúng gấp 3** — khớp nếu con số trên màn hình là tổng của **3 cấp** (Bắc Kỳ có đúng 3 công trình hành chính), dù tác giả nói "mỗi một cấp". Cũng có thể bản 1.13 đã cân lại số.
+> File script bản 1.9.0 ghi **mỗi cấp**: Simple Organization **10 Bureaucracy · 2 tax capacity**; Filing Cabinets (key `pm_horizontal_drawer_cabinets`, mở bằng tech Centralization) tiêu **10 giấy**, cho **50 Bureaucracy · 10 tax capacity**. Số của video (30/6 và 150/30) **đúng gấp 3** — khớp nếu con số trên màn hình là tổng của **3 cấp** (Bắc Kỳ có đúng 3 công trình hành chính), dù tác giả nói "mỗi một cấp".
+>
+> **Đã loại khả năng "1.13 cân lại số":** đối chiếu cùng ngày trên wiki chính thức (phản ánh bản hiện hành 1.13.x) thì bốn cấp vẫn ra **đúng y số của file 1.9.0** — số này ổn định qua các bản, không phải do patch đổi.
 >
 > Các bậc sau (chưa nói trong video): Standardized Filing System — 20 giấy → 65/15 · Telephone Switchboards — 20 giấy + 5 telephone → 100/30.
 >
-> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/production_methods/07_government.txt`. **Mở game bản mình đang chơi mà lấy số.**
+> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/production_methods/07_government.txt`, và trên [List of production methods — Victoria 3 Wiki](https://vic3.paradoxwikis.com/List_of_production_methods) (bản hiện hành 1.13.x). **Mở game bản mình đang chơi mà lấy số.**
 
 ### 🤝 Nhập giấy từ Đại Thanh bằng hiệp ước
 
@@ -139,11 +141,16 @@ Nâng một phát là Bureaucracy từ âm chuyển sang dương — nhưng ph�
 
 1. Đề xuất nhập **10 tấn giấy** → Đại Thanh **−5**, chưa chịu.
 2. Bù bằng một mặt hàng họ đang thiếu. Hai lựa chọn: **gỗ** (họ đang thiếu) hoặc **thịt** (họ đang cực khan, giá **đắt hơn 75%** so với giá cơ bản). Chọn thịt vì đó là thứ Đại Nam đang làm ra — xuất **15 tấn thịt** → lên **+4**.
-3. Hết hàng để mặc cả thì thêm **mắc nợ nghĩa vụ** ❓ _(tên tiếng Anh chưa đối chiếu)_ — hiểu nôm na là mình mang ơn Đại Thanh, sau này họ có thể đòi mình làm gì đó. Theo tác giả AI **rất ít khi đòi**, nên đây là "điểm lợi" ông hay dùng. Thêm vào thì đề xuất lên ❓ _"34 điểm"_ (nguyên văn — nghe không rõ, có thể là +34).
+3. Hết hàng để mặc cả thì thêm **mắc nợ nghĩa vụ — Obligation** — hiểu nôm na là mình mang ơn Đại Thanh, sau này họ có thể đòi mình làm gì đó. Theo tác giả AI **rất ít khi đòi**, nên đây là "điểm lợi" ông hay dùng. Thêm vào thì đề xuất lên ❓ _"34 điểm"_ (nguyên văn — nghe không rõ, có thể là +34).
 4. Thử hạ thịt xuống 10 tấn → Đại Thanh không chịu, **phải 15**.
 5. Thời hạn: định để khoảng 10 năm rồi đổi ý ❓ _(nguyên văn "551 thôi. 551")_. Gửi đi, Đại Thanh đồng ý.
 
 Có giấy rồi thì vào mục công trình, nâng cơ quan hành chính lên **Filing Cabinets**: Bureaucracy dương ngay, thu nhập từ **+5.000 lên +7.000 mỗi tuần** ❓ _(nguyên văn "đang dương 7 5000 tiền" — con số trước khi nâng nghe không rõ, số sau là 7.000 và tác giả nói "thêm được 2000")_.
+
+> [!info]- "Mắc nợ nghĩa vụ" thật ra là gì (ngoài nguồn)
+> Tên tiếng Anh chính thức là **Obligation**: một lời hứa mà nước A dùng để tăng khả năng nước B chấp nhận đề xuất/hiệp ước, hoặc để kéo nước B vào một diplomatic play. Obligation "đến hạn" khi hết thời gian ràng buộc hoặc sau 10 năm, tùy cái nào tới trước. Nếu bên nhận từ chối sau khi đã bị gọi nợ thì bị phạt quan hệ và Prestige đáng kể — khớp lý do "AI rất ít khi đòi" mà tác giả nói (đòi mà bị từ chối thì AI cũng thiệt).
+>
+> Kiểm ngày 10/09/2026 trên [Diplomatic action — Victoria 3 Wiki](https://vic3.paradoxwikis.com/Diplomatic_action).
 
 ### 👔 Chọn bộ máy thế tục
 
@@ -203,10 +210,10 @@ Vẫn còn dư, giá chỉ nhích lên 6% ⇒ đổi được mà không làm th
 
 **Thịt thì phải xây thêm** — Trung Kỳ ❓ _(nguyên văn "chung kỳ")_ đang có 3 trang trại, xây thêm **2** cho đủ 5. Lý do chọn đúng số 5 ở mục ngay dưới.
 
-> [!warning]- Số của Fig Orchards đã đổi qua các bản patch
-> File script bản 1.9.0 ghi Fig Orchards mỗi cấp: **−30 gạo · +12 hoa quả · +18 đường** — khác hẳn −20/+15/+2 của video; một nguồn web cũ hơn lại ghi −20/+10/+10. Tên thì đúng: Fig Orchards là production method phụ duy nhất của Rice Farm. **Butchering Tools** khớp video: tiêu 2 tools, ra 15 thịt mỗi cấp (mô hình không cần tools là Open Air Stockyards, ra 10 thịt).
+> [!warning]- Số của Fig Orchards: file 1.9.0 cũ, video đúng với bản hiện hành
+> File script bản 1.9.0 ghi Fig Orchards mỗi cấp: **−30 gạo · +12 hoa quả · +18 đường** — khác hẳn −20/+15/+2 của video; một nguồn web cũ hơn lại ghi −20/+10/+10. **Đối chiếu thêm trên wiki chính thức (phản ánh bản hiện hành 1.13.x) thì ra đúng −20 gạo · +15 hoa quả · +2 đường — khớp y số của video.** Vậy giả thuyết "1.13 cân lại số" trong note trước đây là đúng: file mirror 1.9.0 là bản cũ đã lỗi thời ở mục này, còn số video lấy từ ván đang chơi (sau 1.13) là số nên dùng. Tên thì đúng: Fig Orchards là production method phụ duy nhất của Rice Farm. **Butchering Tools** khớp video: tiêu 2 tools, ra 15 thịt mỗi cấp (mô hình không cần tools là Open Air Stockyards, ra 10 thịt).
 >
-> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/production_methods/02_agro.txt`. **Lấy số trong game bản mình đang chơi.**
+> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/production_methods/02_agro.txt`, và trên [List of production methods — Victoria 3 Wiki](https://vic3.paradoxwikis.com/List_of_production_methods) (bản hiện hành 1.13.x — bản game mới nhất tính đến 09/2026, sau 1.14 open beta).
 
 ### 5️⃣ Xây mỗi loại lên cấp 5 rồi rải sang tỉnh khác
 
@@ -248,18 +255,20 @@ Ví dụ giáo dục, Đại Nam đang **không có trường học**:
 - **Xã hội chủ nghĩa** → nuôi **Trade Unions** (công đoàn). Hiện chỉ **0,8%** vì Đại Nam là nước nông nghiệp, ít thợ máy, kỹ sư. Công nghiệp lớn lên thì nhiều công nhân, kỹ sư ⇒ công đoàn mạnh lên, mang tư tưởng bảo vệ người lao động ⇒ lúc đó giúp họ thông qua luật ủng hộ công đoàn.
 - **Tư bản** → hướng tới **Industrialists** (nhà công nghiệp, chủ nhà máy) và **Petite Bourgeoisie** (tiểu tư sản) — cả hai hay có tư tưởng cộng hòa.
 
-**Hiện trạng:** quân chủ chuyên chế, vua ❓ _(nguyên văn "vua Vinh")_ nắm quyền cao nhất. Trong nội các chỉ có **Landowners** (địa chủ) với **70%** sức mạnh; tác giả nhắc thêm vũ trang và nông thôn như các phe đang có tiếng nói.
+**Hiện trạng:** quân chủ chuyên chế, vua **Minh Mạng** (nguyên văn nghe lộn thành "vua Vinh") nắm quyền cao nhất. Trong nội các chỉ có **Landowners** (địa chủ) với **70%** sức mạnh; tác giả nhắc thêm vũ trang và nông thôn như các phe đang có tiếng nói.
 
 **Đưa thêm phe vào chính phủ thì Legitimacy (tính chính thống) giảm** — chính phủ cũ vận hành bao năm đang hợp với tầng lớp cũ, thêm phe mới là đấu đá nội bộ. Nhưng muốn cải cách thì không tránh được. Giữ Legitimacy cao thì được **−25% thời gian ban hành luật** và **+33% phe trung thành từ political movement**.
 
 > [!info]- Đối chiếu file game (ngoài nguồn)
 > Có **8** interest group — danh sách của video thiếu **Devout** (giáo hội). "Authoritarian" là **ideology** của lãnh đạo chứ không phải trait; ngoài ba luật video kể, nó còn ủng hộ Autocracy và Oligarchy.
 >
-> Hai bonus Legitimacy trong video thuộc mức **Righteous Government**, bắt đầu từ **90** chứ không phải 100 như video nói. Mức Legitimate Government (từ 75) chỉ cho +25% phe trung thành.
+> Hai bonus Legitimacy trong video thuộc mức **Righteous Government**, bắt đầu từ **90** chứ không phải 100 như video nói. Mức Legitimate Government (từ 75) chỉ cho +25% phe trung thành. **Xác nhận lại đúng ngưỡng 90/75 này qua wiki chính thức** (bản hiện hành).
 >
 > Giáo dục đúng thứ tự video: No Schools → Religious Schools → Private Schools → Public Schools. Y tế: No Health System → Charitable Health System → Private hoặc Public Health Insurance.
 >
-> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/ideologies/01_character_ideologies.txt`, `common/legitimacy_levels/00_legitimacy_levels.txt`, `common/laws/00_education_system.txt`, `common/laws/00_health_system.txt`.
+> **Tên vua "vua Vinh" nghe lộn** — vua thật của Đại Nam năm 1836 trong game là **Minh Mạng (Minh Mang Nguyen Phuoc)**, ý thức hệ Traditionalist, trait **Imperious**, ủng hộ Landowners — khớp bối cảnh "quân chủ chuyên chế, Landowners nắm quyền" của note.
+>
+> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/ideologies/01_character_ideologies.txt`, `common/legitimacy_levels/00_legitimacy_levels.txt`, `common/laws/00_education_system.txt`, `common/laws/00_health_system.txt`. Vua và bối cảnh Đại Nam đối chiếu trên [Dai Nam — Victoria 3 Wiki](https://vic3.paradoxwikis.com/Dai_Nam) (bản hiện hành 1.13.x): literacy ghi 8,8% (video nói 8%, làm tròn), Cambodia là tributary, truce với Xiêm tới 1839 — đều khớp.
 
 ### 🚓 Ban hành Local Police ngay đầu ván
 
@@ -306,7 +315,7 @@ Luật nên ban ngay: nâng từ **No Police** (không có cảnh sát) lên **L
 2. **Chiếm xong Miến Điện trong 10-15 năm**, trước khi Đông Ấn Anh lấy.
 
 > [!info]- Đối chiếu file game (ngoài nguồn)
-> **Truce Xiêm – Đại Nam dài 36 tháng** tính từ 1836 ⇒ hết khoảng 1839. Con số "35 tháng" của video gần đúng, còn "5 năm" là sai. Campuchia (tag `CAM`) là **tributary** của Đại Nam — tên "Trấn Tây Thành" là tên Việt hóa, chưa kiểm. Số 15 + 6 tiểu đoàn không kiểm được.
+> **Truce Xiêm – Đại Nam dài 36 tháng** tính từ 1836 ⇒ hết khoảng 1839. Con số "35 tháng" của video gần đúng, còn "5 năm" là sai. **Wiki chính thức xác nhận trực tiếp: "truce until 1839"** — không cần suy ra từ 36 tháng nữa. Campuchia (tag `CAM`) là **tributary** của Đại Nam — tên "Trấn Tây Thành" là tên Việt hóa, chưa kiểm. Số 15 + 6 tiểu đoàn không kiểm được.
 >
 > Hệ thống "sức lan tỏa" là **Involvement** — cấp độ can dự theo từng strategic region, ra mắt ở **bản 1.13 "Matcha"**. Các mức: None · Observant · Engaged · Pervasive · Hegemonic. Infamy từ hành động ngoại giao: **+25%** ở None/Observant, **+10% ở Engaged** (khớp số của video cho Hoa Nam), −20% ở Hegemonic. Chưa rõ "cấp 4" trong video ứng với mức nào.
 >
@@ -320,7 +329,7 @@ Luật nên ban ngay: nâng từ **No Police** (không có cảnh sát) lên **L
 
 - Một tướng chỉ huy quân đội: + tỉ lệ chí mạng, −10 khả năng mất sĩ khí.
 - Một tướng ❓ _"khảo sát viên"_: tăng tấn công và phòng thủ khi đánh **trên lãnh thổ nhà**, cộng xác suất khảo sát địa hình, tầm nhìn tốt, phục kích.
-- **Tướng được chọn — ❓ _"Nguyễn Phúc Lê"_:** có **chuyên gia chiến đấu vùng núi** — biên giới Đại Nam – Xiêm nhiều núi — cộng trait ❓ _"tỉ mỉ"_ tăng độ chính xác, +10% chí mạng, +5 tấn công/phòng thủ, +10% phục kích, thận trọng.
+- **Tướng được chọn — ❓ _"Nguyễn Phúc Lê"_:** có **chuyên gia chiến đấu vùng núi** — biên giới Đại Nam – Xiêm nhiều núi — cộng trait **Meticulous** ("tỉ mỉ") tăng độ chính xác, +10% chí mạng, +5 tấn công/phòng thủ, +10% phục kích, thận trọng.
 
 **Thăng chức cho tướng.** Bậc chuẩn tướng chỉ chỉ huy được ❓ _"30 tiểu đoàn thôi. 20 tiểu đoàn đấy"_ (tác giả tự sửa giữa câu). Thăng chức thêm **+30 giới hạn chỉ huy** → **60**.
 
@@ -331,7 +340,11 @@ Luật nên ban ngay: nâng từ **No Police** (không có cảnh sát) lên **L
 >
 > Thuốc phiện là mobilization option **Opium** trong nhóm **Supplements**: 0,5 opium mỗi tiểu đoàn, **+10% tốc độ hồi sĩ khí**.
 >
-> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/commander_ranks/00_commander_ranks.txt`, `common/mobilization_options/00_mobilization_option.txt`.
+> **Trait "tỉ mỉ" = Meticulous**, số chính xác lấy từ wiki chính thức: **+20 độ chính xác, +10% chí mạng, +5% tấn công, +5% phòng thủ** — khớp gần hết với video (video chỉ thiếu số +20 accuracy). Trait "khảo sát viên" và "chuyên gia chiến đấu vùng núi" **chưa tìm được** trong danh sách trait tra được — nhiều khả năng đây là cơ chế *terrain experience* (kinh nghiệm địa hình tích lũy theo thời gian chiến đấu) chứ không phải trait cố định; vẫn giữ `❓`.
+>
+> **Tướng "Nguyễn Phúc Lê" không thể đối chiếu qua file/wiki**: theo trang Đại Nam trên wiki, nước này **không có tướng có sẵn lúc bắt đầu ván** — tướng trong video chắc chắn là nhân vật được **game sinh ngẫu nhiên** khi bổ nhiệm (không nằm trong file lịch sử cố định), nên đây đổi từ "chưa nghe rõ" thành "không có gì để đối chiếu", không phải lỗi ghi chép.
+>
+> Kiểm ngày 10/09/2026 trên file script bản 1.9.0: `common/commander_ranks/00_commander_ranks.txt`, `common/mobilization_options/00_mobilization_option.txt`. Trait và tướng đối chiếu thêm trên [Character — Victoria 3 Wiki](https://vic3.paradoxwikis.com/Character) và [Dai Nam — Victoria 3 Wiki](https://vic3.paradoxwikis.com/Dai_Nam).
 
 ### 🔬 Công nghệ đầu tiên — Line Infantry
 
@@ -348,7 +361,7 @@ Tác giả chốt: đây là **loạt việc phải làm ngay lúc vào game**, 
 
 1. Ngân sách để nguyên · không đánh consumption tax.
 2. Ban decree tăng học thức + Road Maintenance.
-3. Ký hiệp ước nhập giấy từ Đại Thanh (đổi thịt + mắc nợ nghĩa vụ) → nâng cơ quan hành chính lên Filing Cabinets → Bureaucracy dương.
+3. Ký hiệp ước nhập giấy từ Đại Thanh (đổi thịt + Obligation "mắc nợ nghĩa vụ") → nâng cơ quan hành chính lên Filing Cabinets → Bureaucracy dương.
 4. Chọn bộ máy hành chính thế tục.
 5. Xây 2 Construction Sector ở tỉnh có tích V.
 6. Rice Farm bật Fig Orchards (sau khi xem gạo còn dư) · xây thêm trang trại cho đủ cấp 5.
@@ -359,18 +372,18 @@ Tác giả chốt: đây là **loạt việc phải làm ngay lúc vào game**, 
 
 ### 🎥 Ghi chú nguồn — phần một
 
-> [!video] Phần một còn nhiều chỗ `❓` và vài chỗ nguồn tự mâu thuẫn
-> **Tên chưa chốt:** decree "thúc đẩy xã hội" (nhiều khả năng Promote Social Mobility) · tên tiếng Anh của "mắc nợ nghĩa vụ" · công trình "quét" yêu cầu cấp 4 · tên vua (nguyên văn "vua Vinh") · tên tướng "Nguyễn Phúc Lê" và hai trait "khảo sát viên", "tỉ mỉ" · "cảnh sát chuyên nghiệp" (nhiều khả năng Dedicated Police).
+> [!video] Phần một — đã đối chiếu thêm với wiki chính thức ngày 10/09/2026, còn vài chỗ `❓`
+> **Đã giải quyết nhờ wiki chính thức** (máy cloud không bị chặn `vic3.paradoxwikis.com`, khác với máy công ty của mình): decree "thúc đẩy xã hội" = **Promote Social Mobility** · "mắc nợ nghĩa vụ" tiếng Anh = **Obligation** · tên vua = **Minh Mạng** (không phải "vua Vinh") · trait "tỉ mỉ" = **Meticulous** (+20 accuracy, +10% chí mạng, +5%/+5% tấn công-phòng thủ) · truce Xiêm 1839 có nguồn trực tiếp, không cần suy từ 36 tháng · **Fig Orchards** của video (−20/+15/+2) khớp đúng bản hiện hành, số −30/+12/+18 chỉ là file mirror 1.9.0 lỗi thời · số Government Administration ổn định, không phải do 1.13 cân lại như nghi ngờ trước.
 >
-> **Số nghe không rõ:** mức Authority cuối game "1000 2000" · điểm đề xuất "34" · thời hạn hiệp ước "551" · thu nhập trước khi nâng cơ quan hành chính · giá Construction Sector 2.000-3.000 · −64 Bureaucracy của Local Police.
+> **Tên tướng "Nguyễn Phúc Lê" không phải chỗ nghe thiếu, mà không có gì để đối chiếu** — Đại Nam không có tướng có sẵn đầu ván, tướng trong video là nhân vật game sinh ngẫu nhiên.
 >
-> **Nguồn tự mâu thuẫn:** nói "ba chỉ số" xếp hạng rồi kể bốn · "3000 nông dân + 4000 công nhân" rồi "gần tới 5000 người" · truce "5 năm" rồi "35 tháng" · tướng chỉ huy "30 tiểu đoàn… 20 tiểu đoàn" · hứa giải thích mức thất nghiệp 2-3% nhưng không giải thích.
+> **Vẫn còn `❓`, chưa tìm được nguồn:** trait "khảo sát viên"/"chuyên gia núi" (có thể là cơ chế terrain experience chứ không phải trait) · công trình "quét" yêu cầu cấp 4 · mức Authority cuối game "1000 2000" · điểm đề xuất "34" · thời hạn hiệp ước "551" · thu nhập trước khi nâng cơ quan hành chính · giá Construction Sector 2.000-3.000 · −64 Bureaucracy và % Landowners chính xác của Local Police · "cảnh sát chuyên nghiệp" (vẫn nhiều khả năng là Dedicated Police, theo đúng thứ tự chuỗi luật, nhưng chưa có nguồn xác nhận tên trực tiếp).
 >
-> **Số lệch với file game 1.9.0** (có thể do cân lại ở 1.13 — video đăng một tháng sau khi 1.13 ra): production method của cơ quan hành chính (video gấp 3 lần) · Fig Orchards (−30/+12/+18 thay vì −20/+15/+2) · mốc Legitimacy 90 thay vì 100.
+> **Nguồn tự mâu thuẫn (chưa giải được):** nói "ba chỉ số" xếp hạng rồi kể bốn · "3000 nông dân + 4000 công nhân" rồi "gần tới 5000 người" · tướng chỉ huy "30 tiểu đoàn… 20 tiểu đoàn" · hứa giải thích mức thất nghiệp 2-3% nhưng không giải thích.
 >
 > **Không lấy được:** mốc chương theo phút — video không chia chương; khoảng 41 giây đầu có thể thiếu trong bản thô.
 >
-> **Phiên bản:** video không nói bản game. File đối chiếu là **1.9.0** (mirror GitHub, commit 18/06/2025) vì wiki chính thức `vic3.paradoxwikis.com` bị proxy chặn từ máy này. **Mở game bản mình đang chơi ra đối chiếu rồi xoá dấu `❓` đi.**
+> **Phiên bản:** video không nói bản game. Đối chiếu ban đầu dùng file **1.9.0** (mirror GitHub, commit 18/06/2025) vì wiki chính thức bị proxy công ty chặn từ máy làm việc; lần đối chiếu 10/09/2026 bổ sung trực tiếp từ **wiki chính thức**, phản ánh bản hiện hành **1.13.11** (bản **1.14 đang open beta**, tính đến 09/2026). Vài trang wiki bị rate-limit khi tra nên không lấy được hết số (Local Police, Livestock Ranch, Policing) — **mở game bản mình đang chơi để chốt các số này.**
 
 %%
 ━━━━━━━━━━ THÊM PHẦN TIẾP THEO VÀO NOTE NÀY ━━━━━━━━━━
