@@ -147,7 +147,7 @@ Từ công thức suy ra **ba khái niệm damage** phải phân biệt:
 >
 > Nhóm **I** chính là **A** của video, nhóm **R** chính là **B** — và nhìn vào là thấy ngay vì sao video tách hai phần: phần tăng là **một dấu ngoặc cộng dồn**, còn phần giảm là **bảy dấu ngoặc nhân liên tiếp**. Thứ tự I1→I5 trên wiki trùng đúng thứ tự A1→A5 video kể: chênh lệch công thủ → Offense/Archery → chuyên môn tướng → Luck → Hate.
 >
-> ❓ Riêng **Jousting** thì video xếp vào nhóm A5 cùng với Hate; mình **không mở được trang wiki** để chốt xem nó là biến số thứ mấy trong danh sách I.
+> Cập nhật 10/09/2026, mở trực tiếp được trang *Damage* của wiki: **Jousting = I5**, đứng cuối trong 5 biến I (I1 chênh công/thủ · I2 Archery/Offense · I3 chuyên môn tướng · I4 Lucky strikes/Luck · I5 Jousting) — đúng khớp thứ tự A1→A5 mà video kể. [Damage – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Damage)
 
 ### ➕ A1 — chênh lệch công trừ thủ, mỗi điểm 5%
 
@@ -206,6 +206,8 @@ Cả ba đều ra thủ 3 → A = 180% → nhân đam gốc 30–50 với 2 con 
 > ❗ **Nhưng video bỏ mất một vế:** con số **80% là của Ancient Behemoth (bản nâng cấp)**; **Behemoth thường chỉ giảm 40%**. Video nói "kỹ năng giảm 80%" chung chung như thể cả hai bản đều thế. Đối chiếu bằng chỉ số trong chính ví dụ của video thì con đang đánh là **Ancient Behemoth**: công 19, damage 30–50 — đúng bộ chỉ số của bản nâng cấp; wiki cũng ghi Titan có thủ hơn Ancient Behemoth đúng 5 điểm, tức Ancient Behemoth thủ 19.
 >
 > Còn **chiều làm tròn LÊN thì wiki không nói** — đó là kết quả video tự thử trong game, và mình **không kiểm chứng lại được**.
+>
+> Cập nhật 10/09/2026: mở trực tiếp được trang *Behemoth*, xác nhận lại đúng cặp **40% (Behemoth thường) / 80% (Ancient Behemoth)** — không có gì đổi. Trang này **vẫn không mô tả** việc trừ thêm 1 điểm thủ hay chiều làm tròn ở mức chi tiết công thức, nên hai chỗ đó **vẫn giữ nguyên trạng thái "video tự thử, chưa có nguồn xác nhận"**. [Behemoth – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Behemoth)
 
 ### 🏹 A2 — Offense cho cận chiến, Archery cho bắn xa
 
@@ -329,7 +331,7 @@ Ví von của video: _"như việc lấy đà — chạy càng xa thì càng m�
 > [!info]- Ngoài nguồn — đối chiếu wiki, tra ngày 10/09/2026
 > **Hate: khớp.** Wiki gọi đúng tên kỹ năng là **Hate**, và ghi **+50% base damage** lên loại quái mà nó ghét. Ba cặp đúng như video: Angel/Archangel với Devil/Arch Devil (**cả bản thường lẫn bản nâng cấp**), Genie/Master Genie với Efreeti/Efreet Sultan, và **chỉ Titan với Black Dragon** — Giant và Red Dragon **không ghét ai**, đúng vế "chưa lắp thì không có" của video. Wiki còn thêm một chi tiết vui: Hate **không ảnh hưởng tinh thần**, và Devil/Arch Devil thậm chí **+1 morale** khi đứng cạnh Angel.
 >
-> ❓ **Chiều của cặp Titan–Black Dragon thì mình không chốt được.** Video nói một chiều; wiki thì viết "only Titans and Black Dragons hate each other" — đọc như hai chiều, nhưng câu đó đang so với Giant/Red Dragon nên có thể chỉ có ý "chỉ bản nâng cấp mới có". **Chưa mở được trang gốc để phân xử → giữ nguyên lời video kèm ❓.**
+> Cập nhật 10/09/2026, mở trực tiếp được trang *Hate*: nguyên văn **"Only Titans and Black Dragons hate each other"** — xác nhận đây là **quan hệ hai chiều** (cả hai đều ghét nhau), giống mọi cặp Hate khác trong bảng (Angel↔Devil, Genie↔Efreeti). **Vế "một chiều" của video không khớp với trang gốc** — sửa lại thành hai chiều. [Hate – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Hate)
 >
 > **Nguyên tố: khớp.** Air/Storm Elemental gây **200% base damage** lên Earth/Magma Elemental và ngược lại; Water/Ice với Fire/Energy cũng vậy — tức **+100%**, hai chiều, đúng như video. Về bản thân bốn con này thì xem [[Game9x - Hero3 Tập chơi#🔥 Hạng 1 — Conflux (thành phượng): thành duy nhất cho tướng phép chơi nhanh như tướng chiến|mục Conflux của video 7]].
 >
@@ -561,8 +563,9 @@ Video gọi hiệu ứng này là ❓_"optical penalty"_ — gần như chắc l
 
 | Tình huống | B7 |
 |---|---|
-| Quái **bị Blind** ❓_"cá tép mồ brin"_ rồi đánh trả con khác | 100% − 50% = **50%** |
-| Như trên nhưng phép ở mức ❓_"Expert trở lên"_ | 100% − 75% = **25%** |
+| Quái **bị Blind** ❓_"cá tép mồ brin"_ rồi đánh trả con khác — mức Basic hoặc không có kỹ năng | 100% − 50% = **50%** |
+| Blind mức **Advanced** | 100% − 75% = **25%** |
+| Blind mức **Expert** | **không đánh trả gì cả** (0%) — mạnh hơn 25% |
 | Quân **bắn xa** dính **Forgetfulness** ❓_"funes" / "your phone is"_ | 100% − 60% = **40%** |
 
 Ví dụ: một Angel đánh vào hai Angel đang bị Blind → hai Angel đánh trả chỉ ra **50** thay vì 100. Hết hiệu ứng thì lại đánh 100 như cũ.
@@ -575,11 +578,11 @@ Và một ca **chồng hai hệ số**: quân bắn xa bị áp sát *và* đang
 > Mình **đối chiếu lại và wiki đúng là 50%**. Vậy con số **60%** là thứ video đo được trong bản game nó đang chạy, và **chỗ lệch vẫn treo** — không kết luận bên nào sai, vì không biết video chạy bản nào.
 
 > [!info]- Ngoài nguồn — hai chỗ wiki nói khác video, tra ngày 10/09/2026
-> **Blind: mức của video bị lệch một bậc.** Wiki ghi: cast ở mức Basic hoặc không có kỹ năng → đánh trả chỉ **50%** (R7 = 0,50); cast ở mức **Advanced** → **25%**; còn **Expert Blind thì đòn phá blind KHÔNG bị đánh trả gì cả** (con quái vẫn giữ quyền đánh trả một đòn khác trong cùng vòng).
+> **Blind: mức của video bị lệch một bậc — đã xác nhận trực tiếp 10/09/2026.** Mở được trang *Blind*, nguyên văn: Basic — *"retaliated at 50% of base attack rating"*; Advanced — *"retaliated at 25%"*; Expert — *"is not retaliated"* (không đánh trả gì cả).
 >
-> Video gán mốc 25% cho **"Expert trở lên"**. Theo wiki thì 25% là của **Advanced**, và Expert còn mạnh hơn thế — cấm đánh trả luôn. **Chưa mở được trang gốc để chốt**, nhưng đây là chỗ nên kiểm lại trước khi dùng.
+> Video gán mốc 25% cho **"Expert trở lên"**. Theo wiki, 25% là của **Advanced**; **Expert mạnh hơn thế — cấm đánh trả hoàn toàn**, không phải còn 25%. Đã sửa bảng bên trên theo đúng ba bậc của wiki. [Blind – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Blind)
 >
-> **Forgetfulness: wiki 50%.** Nguyên văn wiki: cast ở mức Basic hoặc không kỹ năng thì **một nửa cọc quân bắn xa quên mất đòn bắn**, tức damage bắn xa còn một nửa (R7 = 0,50). Video đo được 60%.
+> **Forgetfulness: wiki 50%, đã xác nhận qua trang công thức riêng.** Cập nhật 10/09/2026, mở được trang *Damage* (trang công thức gốc, không phải trang mô tả phép): định nghĩa **R7 = "0,50 cho quân bắn xa dính Forgetfulness cơ bản"** — tức công thức tính damage luôn dùng **50%** cho R7, không đổi theo bậc phép. Trang *Forgetfulness* mô tả thêm cơ chế thật trong trận (không phải công thức ước lượng): Basic chỉ **50% quân trong cọc** quên bắn; Advanced/Expert thì **100% quân quên bắn**, và **wiki tự gọi phần "quên luôn cả đánh cận chiến" là một dạng lỗi (bug)** chứ không phải thiết kế. Vì mục đích của cả hai video là **ước lượng trước** damage (không phải mô tả cơ chế trong trận), nên **R7 = 50% mới là con số nên dùng khi tính tay** — khớp với callout gốc. Con số 60% của video **vẫn chưa giải thích được**, giữ nguyên là điều chưa rõ. [Damage – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Damage) · [Forgetfulness – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Forgetfulness)
 
 ### 👹 B8 — kỹ năng của quái
 
@@ -599,7 +602,7 @@ Con này **đánh bằng phép**, nên **quái có kỹ năng chống phép ở 
 
 > [!info]- Ngoài nguồn — bốn ca đều khớp, một ca video nói rộng hơn wiki, tra ngày 10/09/2026
 > - **Psychic Elemental**: wiki ghi đúng **nửa damage lên quái miễn nhiễm phép tinh thần**, và nêu ví dụ **Giant và undead** — nằm gọn trong danh sách video đọc.
-> - **Magic Elemental**: wiki cũng ghi **nửa damage lên quái miễn nhiễm phép**, nhưng ví dụ nó nêu chỉ có **Magic Elemental và Black Dragon** (hai con miễn nhiễm phép hoàn toàn), và nói rõ hiệu ứng này **không** bị Orb of Vulnerability, Anti-Magic hay Magic Resistance tác động. ❓ **Vế "chống phép bất kỳ mức nào" và vế xe bắn đá / lều cứu thương thì mình không xác nhận được** — trang gốc mở không được, kết quả tìm kiếm không liệt kê đủ.
+> - **Magic Elemental**: cập nhật 10/09/2026, mở trực tiếp được trang *Magic Elemental*: nguyên văn **"50% damage to creatures with total spell immunity"** — tức chỉ quái **miễn nhiễm phép HOÀN TOÀN** (ví dụ chính Magic Elemental và Black Dragon), **không phải "chống phép ở bất kỳ mức nào"** như video nói. Quái chỉ có Magic Resistance một phần (Basic/Advanced, không phải 100%) **không được giảm**. Trang gốc cũng không nói gì tới xe bắn đá / lều cứu thương, nên **vế đó của video vẫn chưa xác nhận được** — có thể video nói đúng (nhiều xe cỗ máy chiến tranh có sẵn miễn nhiễm phép hoàn toàn) nhưng không có nguồn xác nhận trực tiếp. [Magic Elemental – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Magic_Elemental)
 > - **Hoá đá**: wiki ghi quái bị hoá đá bởi Basilisk hoặc Medusa **nhận 50% damage từ cả đòn cận chiến lẫn đòn bắn** ✓.
 > - **Tê liệt**: wiki ghi quái bị Scorpicore làm tê liệt **đánh trả chỉ bằng 25% sức** ✓.
 >
@@ -965,11 +968,11 @@ Video nói **bản Shadow of Death có đúng 5 tướng** loại này:
 
 | Tướng ❓ | Lớp | Thành |
 |---|---|---|
-| ❓ "rất" | ❓ "3 đồ make" (Battle Mage) | Stronghold |
-| ❓ "mà lẽ kết" | ❓ "tập vua" (Warlock) | Dungeon |
-| ❓ "render" | Necromancer | Necropolis |
-| ❓ "sở thích" | ❓ "tộc Quyết" (Witch) | Fortress |
-| ❓ "Rider" | ❓ "tập 2 di tích" (Heretic) | Inferno |
+| **Gird** ✅ | Battle Mage | Stronghold |
+| **Malekith** ✅ | Warlock | Dungeon |
+| **Sandro** ✅ | Necromancer | Necropolis |
+| **Styg** ✅ | Witch | Fortress |
+| **Zydar** ✅ | Heretic | Inferno |
 
 **Nhưng đây là chỗ video lật ngược cả nhóm:** không có đồ *giảm* damage phép, nhưng **có đồ chống phép** — ❓_"ngọc đỏ"_ hoặc ❓_"áo chống phép"_. Và chống phép thì **gấp tỷ lần giảm damage**: nó **triệt tiêu hoàn toàn** sức mạnh của tướng phép trong combat.
 
@@ -977,10 +980,10 @@ Video nói **bản Shadow of Death có đúng 5 tướng** loại này:
 
 **Tỷ lệ thắng: hậu 0% · vua 50%.** Ở chế độ hậu, tướng phép khởi đầu không nhanh bằng tướng chiến, mà về lết thì bị đồ chống phép xoá sạch → video chấm thẳng **0%**. Ở chế độ vua thì khá hơn: tướng phép có thời gian, người ta chơi phép nhiều hơn nên đồ chống phép không còn mạnh như thế, cộng chất tướng ngon và **dễ học Diplomacy**.
 
-> [!warning] ❓ Cả hai danh sách tướng ở mục này **mình không xác nhận được**
-> Tra ngày 10/09/2026: trang danh sách chuyên môn của wiki H3 bị chặn WebFetch, còn kết quả tìm kiếm **không liệt kê đủ nhóm chuyên Sorcery lẫn nhóm chuyên mana**. Vì thế **năm cái tên ở bảng trên và ba cái tên ở mục dưới đều để nguyên chữ phụ đề** — chỉ cột "lớp" và "thành" là đọc ra được, và chính hai cột đó mới là thứ dùng để tra lại sau này.
+> [!info]- Cả hai danh sách tướng đã xác nhận được — cập nhật 10/09/2026
+> Lần kiểm 09/09/2026 chỉ có kết quả tìm kiếm, không liệt kê đủ. Hôm nay mở trực tiếp được `Template:Stronghold_hero_table`, `Template:Dungeon_hero_table` (qua các trang tướng riêng lẻ), `Template:Fortress_hero_table`, `Template:Inferno_hero_table`, `Template:Rampart_hero_table` của `heroes.thelazy.net`: đúng **5 tướng chuyên Sorcery** (Gird, Malekith, Sandro, Styg, Zydar — khớp cả lớp lẫn thành video đọc) và đúng **3 tướng chuyên Intelligence** (kỹ năng tăng mana tối đa — xem mục dưới), khớp chính xác 5+3 cái tên mà video kể theo lớp/thành. Đã điền tên vào cả hai bảng.
 >
-> ❓ Tương tự, ❓_"ngọc đỏ"_ và ❓_"áo chống phép"_ nhiều khả năng là **Orb of Inhibition** (cấm cả hai bên cast phép trong combat) và **Recanter's Cloak** — cả hai đều có thật trong wiki H3 — nhưng **phụ đề không đủ để chốt**, nên không ghi tên vào phần lời video.
+> ❓_"ngọc đỏ"_ và ❓_"áo chống phép"_ đã xác nhận là **Orb of Inhibition** và **Recanter's Cloak**: Orb of Inhibition — nguyên văn *"Prevents either hero from casting any spells during combat"* (cấm cả hai bên cast mọi phép); Recanter's Cloak — nguyên văn *"Prevents either hero from casting level 3, 4, or 5 spells during combat"* (cấm cả hai bên cast phép cấp 3–5, phép cấp 1–2 vẫn dùng được). [Orb of Inhibition](https://heroes.thelazy.net/index.php/Orb_of_Inhibition) · [Recanter's Cloak](https://heroes.thelazy.net/index.php/Recanter%27s_Cloak)
 
 ### 🔵 Tướng siêu mana
 
@@ -988,9 +991,9 @@ Cùng logic, nhưng đổi hướng: thay vì tăng damage phép thì **tăng l�
 
 | Tướng ❓ | Lớp | Thành |
 |---|---|---|
-| ❓ "under xa" | Witch | Fortress |
-| ❓ "đơn" | ❓ "tập 2C tích" (Heretic) | Inferno |
-| ❓ "like Lê Sa" | Druid ❓ | Rampart |
+| **Andra** ✅ | Witch | Fortress |
+| **Ayden** ✅ | Heretic | Inferno |
+| **Elleshar** ✅ | Druid | Rampart |
 
 **Tỷ lệ thắng: hậu 0% · vua 50%.** Y hệt nhóm Sorcery — cũng bị đồ chống phép khắc chế, mà tốc độ phát triển còn **chậm hơn cả tướng chiến**, lại không có Diplomacy để đột biến. Video nói rõ: **50% ở chế độ vua là nhờ chúng dễ học Diplomacy, chứ không phải nhờ chất tướng.**
 
@@ -1229,9 +1232,9 @@ Video này **toàn tên riêng**, mà tên riêng lại đúng là chỗ phụ �
 | "mê farah" | **Mephala** — Ranger, Rampart | Rất khả năng — một trong ba tướng chuyên Armorer |
 | "anh nhìn la" | **Neela** — Alchemist, Tower | Rất khả năng — như trên |
 | "ta ra" | **Tazar** — Beastmaster, Fortress | Rất khả năng — như trên |
-| "Ngọc đỏ" · "áo chống phép" | Trang bị **chống cast phép** — nhiều khả năng **Orb of Inhibition** và **Recanter's Cloak** | Suy luận, chưa chốt được |
-| "rất" · "mà lẽ kết" · "render" · "sở thích" · "Rider" | Năm tướng chuyên **Sorcery** | Không rõ — chỉ đọc được lớp và thành |
-| "under xa" · "đơn" · "like Lê Sa" | Ba tướng **siêu mana** | Không rõ — chỉ đọc được lớp và thành |
+| "Ngọc đỏ" · "áo chống phép" | **Orb of Inhibition** và **Recanter's Cloak** | Xác nhận — cả hai đều cấm cast phép combat cho cả hai bên |
+| "rất" · "mà lẽ kết" · "render" · "sở thích" · "Rider" | Năm tướng chuyên **Sorcery**: **Gird · Malekith · Sandro · Styg · Zydar** | Xác nhận — khớp đúng lớp và thành qua bảng tướng theo thành |
+| "under xa" · "đơn" · "like Lê Sa" | Ba tướng **siêu mana**: **Andra · Ayden · Elleshar** | Xác nhận — khớp đúng lớp và thành qua bảng tướng theo thành |
 | "3 đồ make" · "tập vua" · "quy rát" · "Liên Xô" · "tập 33 diện" · "cọc ba đồng mét" · "tộc Quyết" · "Chuyến Tàu contrai" | Tên các **lớp tướng** — Battle Mage · Warlock · Wizard · Ranger · Barbarian · Alchemist · Beastmaster… | Khá chắc theo cặp thành–lớp |
 | "cùng chùa" · "coi chùa" · "tặng chùa" | "**cho không**" — quân tặng kèm khi mua tướng | Khá chắc theo mạch |
 | "chấm phát muối tiêu" · "chất như nước cất" · "đường thông hè thoáng xe ngon xăng đầy" | Câu đùa của tác giả, không phải thuật ngữ | Chắc |

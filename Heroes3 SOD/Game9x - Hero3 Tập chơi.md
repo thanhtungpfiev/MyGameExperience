@@ -102,8 +102,8 @@ Cửa sổ bên trái, đọc từ trên xuống:
 - Con số đó là **lượng tài nguyên nhận được lúc vào game**: càng khó thì tài nguyên càng ít, phát triển càng chậm — và quan trọng hơn, nó **thay đổi sức mạnh của từng thành rất nhiều**.
 - Quy ước của tác giả: **chơi vui thì vua 200%**, **giao lưu thi đấu thì hậu 160%**.
 
-> [!warning] ❓ Chưa đối chiếu được bảng phần trăm chính thức
-> Muốn kiểm cặp "vua 200% / hậu 160%" nhưng ngày 08/09/2026 cả hai wiki đều chặn (`heroes.thelazy.net` trả HTTP 403, `homm.fandom.com` trả HTTP 402), và máy này **không có bản game cài sẵn** để mở ra xem. Con số ở đây là **theo lời video**, chưa xác nhận độc lập.
+> [!info]- Đối chiếu ngoài nguồn — "vua 200% / hậu 160%" đúng, đã mở được trang gốc
+> Ngày 10/09/2026, từ máy ở nhà, `heroes.thelazy.net` mở được trực tiếp (không còn 403). Trang *Difficulty level* ghi rõ 5 mức quân cờ: **Pawn 80% · Knight 100% · Rook 130% · Queen 160% · King 200%** — khớp chính xác cặp "hậu 160% / vua 200%" mà video nói. [Difficulty level – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Difficulty_level)
 
 ### 🎨 Cửa sổ nâng cao: tên phe, màu cờ, thành, tướng, quà khởi đầu
 
@@ -284,7 +284,7 @@ Tướng là **đối tượng duy nhất dùng để tương tác mọi thứ t
 
 Cách gọi tên tướng chỉ có hai kiểu: **theo tên gốc tiếng Anh**, hoặc **theo kỹ năng đặc biệt + thành** của tướng đó ❓ (ví dụ video đưa ra nghe không rõ).
 
-- **Level**: khởi đầu lv1, **tối đa 99 trong bản SoD** ❓ (chưa kiểm được). Mỗi lần lên level thì **tăng một chỉ số cơ bản** và **được chọn một kỹ năng phụ**.
+- **Level**: khởi đầu lv1, **không có giới hạn cứng 99** ❓→✅ đã sửa, xem đối chiếu ngoài nguồn bên dưới. Mỗi lần lên level thì **tăng một chỉ số cơ bản** và **được chọn một kỹ năng phụ**.
 - **Bốn chỉ số cơ bản**:
 
 | Chỉ số | Tác động |
@@ -296,21 +296,22 @@ Cách gọi tên tướng chỉ có hai kiểu: **theo tên gốc tiếng Anh**,
 
 - **Kỹ năng đặc biệt** (specialty): mỗi tướng có đúng một cái, **không nâng cấp được, không đổi được**. Video coi đây là **yếu tố quan trọng nhất để đánh giá một tướng ngon hay không**. Bấm chuột phải để đọc mô tả.
 
-> [!info]- Đối chiếu ngoài nguồn — "1 thông thái = 10 mana" đúng
-> Tra 09/09/2026: Knowledge quyết định lượng spell point tối đa, tính bằng **Knowledge × 10** (13 Knowledge = 130 spell point). Khớp lời video. Con số **level tối đa 99** thì chưa tìm được nguồn xác nhận, vẫn để ❓.
+> [!info]- Đối chiếu ngoài nguồn — "1 thông thái = 10 mana" đúng; "level tối đa 99" thì sai
+> Tra 09/09/2026: Knowledge quyết định lượng spell point tối đa, tính bằng **Knowledge × 10** (13 Knowledge = 130 spell point). Khớp lời video.
+> Cập nhật 10/09/2026, mở được `heroes.thelazy.net/Experience`: bản gốc/SoD **không giới hạn cứng ở level 99**. Từ **level 75** hệ thống kinh nghiệm bắt đầu lỗi (nhảy cấp bất thường 75→88→100→108…), dùng được về lý thuyết tới khoảng level 6424 trước khi vào vòng lặp vô hạn. **Horn of the Abyss** (bản sau SoD) mới sửa lỗi này và chốt cứng ở **level 74**. → **Con số "99" trong note không khớp nguồn nào**, cần sửa thành "không giới hạn cứng, thực tế ổn định tới khoảng level 75". [Experience – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Experience)
 
 ### 🎖️ Tinh thần và may mắn — hai thứ trông giống nhau nhưng không đối xứng
 
 | | Tinh thần (**morale**) — hình chú chim | May mắn (**luck**) — hình móng ngựa |
 |---|---|---|
 | Tác dụng | Tăng tỷ lệ **thêm lượt**, hoặc tỷ lệ **mất lượt** | Tăng tỷ lệ **đánh thêm sát thương** |
-| Có chiều âm không | **Có** — âm thì lính mất lượt | **Không** ❓ — video nói luck chỉ cộng, không có chiều giảm sát thương |
-| Thang | 7 cấp, **−3 → +3** | 4 cấp, **0 → +3** ❓ |
+| Có chiều âm không | **Có** — âm thì lính mất lượt | **Không** — xác nhận 10/09/2026: bản SoD luck không có chiều âm |
+| Thang | 7 cấp, **−3 → +3** | 4 cấp, **0 → +3** — xác nhận đúng cho bản SoD |
 
 Tiếng lóng trong video: thêm lượt gọi là "xoè" / "chim tươi", mất lượt gọi là "rủ" / "chim đen" ❓ — nguyên văn phụ đề vỡ, chép lại theo âm.
 
-> [!warning] ❓ Thang may mắn — video và wiki lệch nhau
-> Video nói luck có **4 cấp từ 0 đến +3**. Kết quả tra `homm.fandom.com` / `heroes.thelazy.net` ngày 09/09/2026 lại ghi **luck chạy từ −3 đến +3**, giống morale. **Chưa mở được trang gốc để đọc kỹ**, nên chưa biết chỗ lệch là do video nói tắt hay do khác biệt giữa SoD và bản khác. Điều video khẳng định — **luck chỉ cộng sát thương chứ không có chiều giảm** — vẫn còn nguyên là một câu chưa kiểm.
+> [!info]- Đối chiếu ngoài nguồn — video đúng, lần kiểm gián tiếp trước đó nhầm
+> Ngày 10/09/2026 mở trực tiếp được `heroes.thelazy.net/Luck`: trong **bản gốc / Shadow of Death, luck chỉ có 0, +1, +2, +3** — **không có chiều âm**. Giá trị âm (−1 → −3) chỉ được thêm vào ở bản mở rộng **Horn of the Abyss (HotA)**, ra đời sau SoD. Lần kiểm gián tiếp ngày 09/09/2026 (chỉ đọc snippet tìm kiếm, không mở được trang gốc) nhiều khả năng đã đọc nhầm số liệu của HotA. **Kết luận: video đúng, gỡ nghi ngờ.** [Luck – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Luck)
 
 ### 🎒 Kỹ năng phụ, trang bị, hòm đồ và các ô quân
 
@@ -321,16 +322,17 @@ Tiếng lóng trong video: thêm lượt gọi là "xoè" / "chim tươi", mất
   - Kỹ năng hiện ra **ngẫu nhiên**, nhưng **loại tướng nào thì tỷ lệ ra kỹ năng tương ứng cao hơn**.
   - Mỗi kỹ năng **nâng cấp thêm được 2 lần**: **Basic → Advanced → Expert** ❓ ("bây xích lên ven và mắt"). Lên tới bậc cao nhất thì kỹ năng đó **không hiện ra trong bảng chọn nữa**.
   - **Tám kỹ năng luôn khác nhau**, không học trùng được.
-- **Trang bị**: bên phải là các ô bảo vật phụ trợ cho combat; **14 ô mang trang bị** ❓ (số ô chưa kiểm). Bấm vào một trang bị thì ô lắp được của nó sáng lên, lắp vào là xong.
+- **Trang bị**: bên phải là các ô bảo vật phụ trợ cho combat; **14 ô mang trang bị** — đã xác minh 10/09/2026 (xem callout dưới). Bấm vào một trang bị thì ô lắp được của nó sáng lên, lắp vào là xong.
 - **Sách phép** là **trang bị bắt buộc** để tướng học và dùng phép. Tướng có sách gọi là **"có học"**, không có sách là **"thất học"** ❓ (phụ đề ra "thích hợp").
 - **Hòm đồ 64 ô**, chứa trang bị nhặt được mà không dùng. **Đầy hòm là không nhặt thêm được nữa.** Không xoá, không vứt trang bị ra ngoài được — chỉ **chuyển sang tướng khác**, hoặc **đem tướng vào chợ bảo vật** mới bán được.
 - **Nút xoá tướng**: xoá rồi mà tướng đó **hiện lại trong quán rượu thì vẫn mua lại được, giữ nguyên level, kỹ năng và trang bị** — chỉ mất quân.
-- **Bảy ô quân** ❓ ("bầy Hồ"), mỗi ô gọi là một **"cọc"**. Gộp các cọc quân giống nhau thành một, hoặc tách ra nhiều cọc nếu còn ô trống: **giữ Shift và trỏ chuột vào ô trống** để hiện bảng tách quân, kéo thanh trượt hoặc **gõ thẳng số rồi Enter** (muốn tách 1 thì bấm `1` rồi `Enter`). Xoá quân thì bấm vào ô đó rồi chọn nút xoá.
+- **Bảy ô quân** — đã xác minh 10/09/2026 ("bầy Hồ" = bảy), mỗi ô gọi là một **"cọc"**. Gộp các cọc quân giống nhau thành một, hoặc tách ra nhiều cọc nếu còn ô trống: **giữ Shift và trỏ chuột vào ô trống** để hiện bảng tách quân, kéo thanh trượt hoặc **gõ thẳng số rồi Enter** (muốn tách 1 thì bấm `1` rồi `Enter`). Xoá quân thì bấm vào ô đó rồi chọn nút xoá.
 - Ô dàn quân sẵn cho combat nằm bên phải — **video khuyên không nên dùng** ❓ (câu này phụ đề vỡ nặng, chép theo nghĩa nghe được).
 - Danh sách bên phải là **toàn bộ tướng đang sở hữu**; bấm vào ảnh tướng nào thì xem thông tin tướng đó.
 
-> [!info]- Đối chiếu ngoài nguồn — 8 kỹ năng, 3 bậc, hòm 64 ô đều đúng
-> Tra 09/09/2026: một tướng **học tối đa 8 kỹ năng phụ**, H3 có **28 kỹ năng phụ**, mỗi kỹ năng có đúng **ba bậc Basic / Advanced / Expert** — khớp cả con số lẫn cách mô tả "nâng thêm 2 lần". Hòm đồ **chứa tối đa 64 bảo vật chưa lắp, đầy thì không nhặt thêm được** — khớp nguyên văn. Riêng **14 ô trang bị** và **7 ô quân** thì chưa tìm được nguồn xác nhận, vẫn để ❓.
+> [!info]- Đối chiếu ngoài nguồn — 8 kỹ năng, 3 bậc, hòm 64 ô, 14 ô trang bị, 7 ô quân đều đúng
+> Tra 09/09/2026: một tướng **học tối đa 8 kỹ năng phụ**, H3 có **28 kỹ năng phụ**, mỗi kỹ năng có đúng **ba bậc Basic / Advanced / Expert** — khớp cả con số lẫn cách mô tả "nâng thêm 2 lần". Hòm đồ **chứa tối đa 64 bảo vật chưa lắp, đầy thì không nhặt thêm được** — khớp nguyên văn.
+> Cập nhật 10/09/2026, mở trực tiếp được hai trang: `heroes.thelazy.net/Troop_stack` ghi *"A hero's army must have at least one troop stack and can include up to seven"* → **7 ô quân xác nhận đúng**. `heroes.thelazy.net/Artifact` đếm đủ Helmet, Cape, Necklace, Right Hand, Left Hand, Torso, 2 Ring, Feet, 5 Misc = **14 ô trang bị mặc trên người xác nhận đúng** (chưa tính hòm 64 ô, 4 ô cỗ máy chiến tranh, và ô sách phép). [Troop stack](https://heroes.thelazy.net/index.php/Troop_stack) · [Artifact](https://heroes.thelazy.net/index.php/Artifact)
 
 ### 👑 Tướng chính và tướng phụ — phân loại theo việc, không theo chỉ số
 
@@ -477,8 +479,8 @@ Tác giả xếp bảo vật là **một trong hai yếu tố quan trọng nhấ
 
 Bảo vật đáng săn nhất vẫn là **loại dạy phép cho tướng**: cuộn phép ❓ · **mũ phép cấp 5** · **sách gió**; cùi hơn một chút là loại **cho phép bay** ❓ ("cánh thiên thần"). Đó là các mục tiêu cần **tìm ra và đoạt lấy càng sớm càng tốt**.
 
-> [!warning] ❓ Chỗ video nói khác wiki — số bảo vật trong nhà rồng
-> Video nói **"số bảo vật cấp 4 trong nhà rồng tương ứng với số con rồng đen xuất hiện"**. Tra 09/09/2026: Dragon Utopia được canh bởi **16–26 con rồng** (luôn có đủ cả Green + Gold và Red + Black), phần thưởng là **20.000–50.000 vàng và đúng 4 bảo vật**. Tức là con số 4 nằm ở **số món đồ**, không phải ở cấp đồ, và **không thấy nguồn nào nói nó đổi theo số rồng đen**. Chưa mở được trang gốc để đọc kỹ, nên ghi lại cả hai — **đừng dựa vào cách đếm rồng đen của video** cho tới khi tự kiểm trong game.
+> [!info]- Đối chiếu ngoài nguồn — video có cơ sở, nhưng không phải tỉ lệ 1:1 tuyệt đối
+> Video nói **"số bảo vật cấp 4 trong nhà rồng tương ứng với số con rồng đen xuất hiện"**. Cập nhật 10/09/2026, mở trực tiếp được `heroes.thelazy.net/Dragon_Utopia`: phần thưởng có **4 biến thể**, cùng roll một lần — biến thể 1 (20.000 vàng, 1 artifact) canh bởi 8 Green + 5 Red + 2 Gold + **1** Black Dragon; … biến thể 4 (50.000 vàng, 4 artifact) canh bởi 8 Green + 7 Red + 6 Gold + **5** Black Dragon. **Số bảo vật không cố định là 4** (dao động 1–4 tuỳ biến thể), nhưng **có tương quan thuận với số rồng đen** vì cùng một lần roll — trực giác của video có cơ sở, dù không đúng tuyệt đối theo tỉ lệ 1:1. [Dragon Utopia – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Dragon_Utopia)
 
 ### 🐺 Quân trong thành — chỉ cần nhớ hai vai: mở đường và chủ lực
 
@@ -992,8 +994,8 @@ Ngoài bản đồ có hàng trăm công trình; video chỉ điểm những cá
 
 **Nhà bổ trợ** — **Cartographer**: xoá màn sương đen, nhìn rõ hết bản đồ. Cartographer trên mặt đất mở phần mặt đất, cartographer dưới lòng đất mở phần dưới lòng đất.
 
-> [!info]- Ngoài nguồn — Cartographer có ba loại, và giá thì tuỳ bản
-> Ba loại chứ không phải hai: **mặt đất** (mở mọi ô trừ nước và hầm ngầm) · **lòng đất** · **mặt nước**. Giá thì nguồn tìm kiếm nói "ban đầu 1.000 vàng, sau nâng lên 10.000" mà không nói rõ nâng từ bản nào — ❓ **chưa chốt được giá cho bản SoD**, đừng lấy con số này đi tính tiền. Kiểm 09/09/2026 qua kết quả tìm kiếm trang *Cartographer*.
+> [!info]- Ngoài nguồn — Cartographer có ba loại, và giá cho bản SoD đã chốt: 1.000 vàng
+> Ba loại chứ không phải hai: **mặt đất** (mở mọi ô trừ nước và hầm ngầm) · **lòng đất** · **mặt nước**. Kiểm 09/09/2026 chỉ qua snippet tìm kiếm, chưa chốt được giá cho bản nào. Cập nhật 10/09/2026, mở trực tiếp `heroes.thelazy.net/Cartographer`: nguyên văn *"All maps cost 10000 Gold [Horn of the Abyss] 1000 Gold [The Shadow of Death]"* → **bản SoD (bản note này đang nói tới) = 1.000 vàng mỗi loại bản đồ**; Horn of the Abyss (bản sau) tăng lên 10.000 vàng. [Cartographer – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Cartographer)
 
 **Nhà nâng cấp quân** — **Hill Fort**: quân nào nâng cấp được thì dắt tới đây là nâng, khỏi phải về thành.
 
@@ -1012,10 +1014,10 @@ Ngoài bản đồ có hàng trăm công trình; video chỉ điểm những cá
 | Nhà thưởng quân | Quái canh | Video nói thưởng | Wiki nói thưởng |
 |---|---|---|---|
 | **Griffin Conservatory** — video gọi "nhà thiên thần", canh bởi "quái vật đại bàng" | Griffin | **1–4 thiên thần**, càng nhiều quái canh càng nhiều thiên thần | ✅ khớp — 1–4 **Angel**; canh bởi 50–200 Griffin chia năm cọc 10/20/30/40, cọc góc dưới trái có 50% là bản nâng cấp |
-| **Dragon Fly Hive** — video gọi "cây vịt", canh bởi "chuồn chuồn" | Dragon Fly | **6, 8, 10 hoặc 12** vịt (Wyvern, cấp 6 của Fortress) | ⚠️ lệch — **4, 6, 8 hoặc 12** Wyvern; canh bởi 30–90 Dragon Fly |
+| **Dragon Fly Hive** — video gọi "cây vịt", canh bởi "chuồn chuồn" | Dragon Fly | **6, 8, 10 hoặc 12** vịt (Wyvern, cấp 6 của Fortress) | ✅ xác nhận 10/09/2026 — **4, 6, 8 hoặc 12** Wyvern; canh bởi 30/45/60/90 Dragon Fly. Video nhớ nhầm hai mức thấp nhất |
 
-> [!warning] ❓ Số vịt nhận được: video nói 6/8/10/12, wiki nói 4/6/8/12
-> Hai bảng chỉ khác nhau ở hai mức thấp nhất. Chưa mở game đối chiếu được, nên **đừng lấy con số này ra tính trước khi đánh** — mở nhà ra rồi đếm là chắc nhất. Kiểm 09/09/2026 qua kết quả tìm kiếm các trang *Griffin Conservatory*, *Dragon Fly Hive*, *Creature Bank*.
+> [!info]- Số vịt nhận được — đã chốt: wiki đúng (4/6/8/12), video nhầm
+> Kiểm 09/09/2026 chỉ qua snippet tìm kiếm, chưa chắc chắn. Cập nhật 10/09/2026, mở trực tiếp `heroes.thelazy.net/Dragon_Fly_Hive` xác nhận đúng **4 / 6 / 8 / 12 Wyvern** (tỉ lệ 30/30/30/10%), canh bởi 30/45/60/90 Dragon Fly. Video nói "6, 8, 10, 12" lệch ở hai mức thấp nhất — dùng con số wiki. [Dragon Fly Hive – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Dragon_Fly_Hive)
 
 **Nhà cho bảo vật cấp cao** — video gọi "nhà giàu ❓ *neutopia*", tức **Dragon Utopia**: cho bảo vật cấp 4 và một đống tiền, canh bởi bốn loại rồng — vàng, đen, đỏ, xanh. Chỗ "số bảo vật cấp 4 tương ứng số rồng đen (1–5 con)" là **cùng một khẳng định video đã nói ở [[#💎 Bảo vật — bốn cấp, ghép bộ, và quy luật "quái càng mạnh, đồ càng xịn"|mục bảo vật của video 3]]**, và đã bị wiki phản bác ở đó — xem cảnh báo tại mục ấy, không nhắc lại ở đây.
 
@@ -1389,8 +1391,8 @@ Video mở đầu bằng lời xin lỗi fan: rồng đen được rất nhiều
 
 **Tổng:** **quân mở đường yếu nhất trong 9 thành**; ở 160% không lại các thành khác nhưng bù bằng quân cấp 4 ngon rẻ nên **sóc vịt dễ → xếp trên Dungeon**. Ở 200% phát triển chậm, **phụ thuộc rất nhiều vào địa hình có giàu không và có Diplomacy sớm hay muộn**. Tổng cả hai chế độ thì vẫn *"rất chậm, không hiệu quả bằng 7 thành phía trên"*.
 
-> [!warning] ❓ Con số **250 vàng** chưa kiểm được
-> Wiki xác nhận quân cấp 4 của Inferno là **Demon / Horned Demon**, mua ở **Demon Gate** — khớp cách video gọi. Nhưng **bảng giá cụ thể thì các trang wiki bị chặn không mở được**, kết quả tìm kiếm cũng không trả về con số. Giữ nguyên **250** là *lời video*, chưa xác nhận; mở game ra xem giá trong nhà quân là ra ngay.
+> [!info]- Con số **250 vàng** đã xác nhận đúng
+> Wiki xác nhận quân cấp 4 của Inferno là **Demon / Horned Demon**, mua ở **Demon Gate** — khớp cách video gọi. Kiểm 09/09/2026 các trang wiki còn chặn nên chưa lấy được giá. Cập nhật 10/09/2026, mở trực tiếp `heroes.thelazy.net/Demon`: **Demon = 250 vàng**, Horned Demon (bản nâng cấp) = 270 vàng — khớp chính xác lời video. [Demon – Heroes 3 wiki](https://heroes.thelazy.net/index.php/Demon)
 
 ### ❄️ Hạng 7 — Tower (Titan): thành của người khổng lồ, nhưng sống bằng mấy chú lùn ném đá
 
