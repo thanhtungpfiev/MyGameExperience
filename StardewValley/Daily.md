@@ -44,9 +44,9 @@
 **Sự kiện:** Willy gửi thư mời ra bãi biển → nhận **Cần tre (Bamboo Pole)** miễn phí, từ đây câu cá được.
 
 **Việc cần làm:**
-- [ ] Ra bãi biển nhận Cần tre: Farm → **Backwoods không có đường tắt** — phải vòng qua **Rừng Cindersap → Thị trấn → qua cầu xuống Bãi biển**. Vào Tiệm Cá Willy (9:00–17:00)
-- [ ] Tập câu ngay tại bãi biển/sông: quăng cần → chờ `!` → bấm dính → giữ/nhả chuột cho ô xanh bám theo cá
-- [ ] Lượm đồ dọc đường (bãi biển có thêm san hô, ốc, sò)
+- [x] Ra bãi biển nhận Cần tre: Farm → **Backwoods không có đường tắt** — phải vòng qua **Rừng Cindersap → Thị trấn → qua cầu xuống Bãi biển**. Vào Tiệm Cá Willy (9:00–17:00)
+- [x] Tập câu ngay tại bãi biển/sông: quăng cần → chờ `!` → bấm dính → giữ/nhả chuột cho ô xanh bám theo cá
+- [x] Lượm đồ dọc đường (bãi biển có thêm san hô, ốc, sò)
 
 **Lưu ý:**
 - Câu cá cấp 0 rất khó, ô xanh nhỏ, dính rác là thường — đừng nản, mỗi lần câu (kể cả hụt) vẫn cộng kinh nghiệm. [[Mods#Visible Fish 0.4.2|Visible Fish]] chỉ hiển thị con cá đang câu được, không đổi độ khó minigame.
