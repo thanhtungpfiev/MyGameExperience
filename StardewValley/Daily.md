@@ -265,7 +265,224 @@ Thiếu mục nào thì 3 ngày tới ưu tiên bù mục đó.
 > - Tưới ruộng **trước 09:00** — về tới nhà đã 22:00, coi như mất cả ngày.
 > - Mang toàn bộ tiền theo người — Pierre bán hạt Dâu tây 100g, **cả năm chỉ đúng hôm nay**.
 > - Săn trứng lúc 12:00, nhặt 9 quả thắng Mũ Rơm.
-> - Lễ hội tiếp theo: Vũ hội Hoa (24) — cần Bó hoa (Pierre 200g, đòi 8 tim) nếu muốn hẹn hò.
+> - Lễ hội tiếp theo: Vũ hội Hoa (24) — nhảy cần đối tác ≥4 tim; muốn xác nhận thành người yêu thì tặng Bó hoa (Pierre 200g, đòi 8 tim).
+
+---
+
+### ☀️ Ngày 11 (Thứ Năm)
+
+Ngày trống — dồn sức cho Lễ hội Trứng còn 2 ngày nữa.
+
+**Việc cần làm:**
+- [ ] Câu cá / xuống mỏ kiếm nốt vốn cho mục tiêu 3.000–5.000g (xem bảng Ngày 9)
+- [ ] Kiểm tra lại ruộng: Khoai tây/Cải xoăn hạn chót gieo Xuân 22, Đậu xanh hạn Xuân 18 — nếu chưa gieo thì tranh thủ vài ngày tới
+- [ ] Quyên góp Bảo tàng nốt số khoáng vật/cổ vật đang giữ
+- [ ] Ghé Bảng tin nhiệm vụ
+
+**Lưu ý:** đừng tiêu hết tiền hôm nay — để dành nguyên cho hạt Dâu tây Ngày 13.
+
+---
+
+### ☀️ Ngày 12 (Thứ Sáu) — 🛒 Xe hàng rong
+
+Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm) — cứ **Thứ Sáu & Chủ Nhật** xe mới về, không phải ngày nào cũng có.
+
+**Việc cần làm:**
+- [ ] Ghé xe hàng rong: ưu tiên mua **Hạt Giống Hiếm** (~1.000g, chắc chắn có hàng Xuân/Hạ) và **Hạt Cổ Đại** nếu thấy — hàng ngẫu nhiên, hết là hết, giá hét gấp 2–5 lần Pierre nên cân nhắc túi tiền
+- [ ] Chốt lại vốn cho ngày mai — kiểm tra đã đạt 3.000–5.000g chưa
+- [ ] Tưới ruộng, thu hoạch nếu có nông sản chín
+
+**Lưu ý:** Xe không mua lại đồ của bạn, chỉ bán — đừng mang cá/khoáng vật ra định bán ở đây.
+
+---
+
+### ☀️🎉 Ngày 13 (Thứ Bảy) — Lễ hội Trứng
+
+**09:00–14:00, Quảng trường Thị trấn, luôn nắng. Nhà/cửa hàng toàn thị trấn đóng cửa hôm nay.**
+
+**Việc cần làm:**
+- [ ] Tưới ruộng **trước 09:00** — đi lễ hội cả buổi, về tới nhà thường đã tối
+- [ ] Mang toàn bộ tiền mặt theo người
+- [ ] Mua **hạt Dâu tây ở Pierre — 100g/hạt, cả năm chỉ bán đúng hôm nay** — theo ngân sách đã gom (xem bảng Ngày 9)
+- [ ] Tham gia **Săn trứng** lúc 12:00: 50 giây, nhặt đủ **9 quả trước Abigail** để thắng **Mũ Rơm** (chỉ thắng lần đầu, các lần sau đổi Vé Thưởng)
+- [ ] Sau 14:00 về farm: **cày + gieo + tưới toàn bộ hạt Dâu tây vừa mua ngay trong hôm nay** — trễ 1 ngày là trễ cả lứa
+- [ ] Nói chuyện với dân làng có mặt ở lễ hội — cơ hội tăng tình cảm tiện thể
+
+**Lưu ý:**
+- Dâu tây gieo hôm nay → chín **Ngày 21** → tái thu hoạch mỗi 4 ngày → hái thêm lứa 2 khoảng **Ngày 25** trước khi hết mùa.
+- Nếu bón **Speed-Gro** (~100g/gói, bón lúc gieo) thì rút còn 7 ngày chín → kịp ăn 3 lứa thay vì 2.
+- Đây cũng là cơ hội cuối gom nốt 4 món cho gói **Lượm Xuân** nếu còn thiếu — nhiều dân làng bán dạo gần lễ hội.
+
+---
+
+### ☀️ Ngày 14 (Chủ Nhật) — 🎂 Sinh nhật Haley · 📺 công thức mới · 🛒 Xe hàng rong
+
+**3 việc cùng lúc hôm nay** — công thức Nữ hoàng Nước sốt mới (Chủ Nhật), sinh nhật Haley, xe hàng rong về lại (06:00–20:00).
+
+**Việc cần làm:**
+- [ ] Bật TV sớm xem công thức mới
+- [ ] Tìm Haley tặng quà sinh nhật — hay lang thang quanh nhà cô (phía bắc Thị trấn) hoặc Bãi biển buổi chiều nắng đẹp; chưa biết món Yêu thích thì tặng món **Thích** bất kỳ (vẫn x8 điểm). Haley đầu game khó tính, đồ trang trí/hoa dễ trúng gu hơn nông sản
+- [ ] Ghé xe hàng rong nếu còn Hạt Giống Hiếm/Cổ Đại chưa mua
+- [ ] Tưới ruộng, kiểm tra Dâu tây (còn 7 ngày mới chín)
+
+**Lưu ý:** đừng tặng quà 2 lần trong 1 tuần cho cùng 1 người (kể cả sinh nhật) — chỉ tính hiệu quả tình cảm 2 lần/tuần/người, phần dư vẫn nhận được nhưng không cộng điểm thêm.
+
+---
+
+### ☀️ Ngày 15 (Thứ Hai) — 🍓 Bắt đầu mùa Dâu rừng (Salmonberry)
+
+Dâu rừng (Salmonberry) chỉ mọc trên bụi cây quanh Rừng Cindersap/Thị trấn đúng **4 ngày: 15–18** — qua ngày 19 là hết cả năm.
+
+**Việc cần làm:**
+- [ ] Quét bụi Dâu rừng dọc Rừng Cindersap khi có thời gian rảnh — vừa lượm free vừa ra kinh nghiệm Lượm, có thể góp gói Cộng đồng liên quan
+- [ ] Việc thường ngày: tưới ruộng, câu cá/xuống mỏ tùy năng lượng còn lại
+- [ ] Kiểm tra lại 2 hạn gieo sắp tới: Đậu xanh (hạn 18, đã trễ nếu chưa gieo) và Khoai tây/Cải xoăn (hạn 22)
+
+---
+
+### ☀️ Ngày 16 (Thứ Ba) — Robin & Marnie đóng cửa
+
+Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đặt xây/mua thú cưng được hôm nay.
+
+**Việc cần làm:**
+- [ ] Dồn hẳn qua mỏ/câu cá/lượm Dâu rừng (còn 2 ngày cuối)
+- [ ] Nếu chưa nâng cấp công cụ, đây là ngày rảnh hợp lý để mang tới Clint (Thứ Ba anh vẫn mở, 09:00–16:00) — nhớ 2.000g + 5 Thỏi Đồng, khóa công cụ 2 ngày
+- [ ] Quyên góp Bảo tàng nốt số đang giữ
+
+---
+
+### ☀️ Ngày 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)
+
+**Sự kiện mới:** sau cơn mưa, cầu vồng có thể xuất hiện ở **thác nước gần Nhà hoang (Abandoned House), Rừng Cindersap**. Bấm vào chum vàng ở chân cầu vồng để nhận **Mũ Yêu Tinh Lùn (Leprechaun Hat)** + ít vàng. Vật phẩm không bán được, chỉ để trưng/sưu tập.
+
+**Việc cần làm:**
+- [ ] Nếu tối qua có dự báo mưa, tranh thủ ghé qua thác nước cạnh Nhà hoang kiểm tra cầu vồng
+- [ ] Pierre nghỉ Thứ Tư — đừng định mua hạt hôm nay
+- [ ] Ngày cuối mùa Dâu rừng — lượm nốt nếu còn thời gian
+- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
+
+**Lưu ý:** đây là mốc thời gian tương đối theo bản 1.6 (sự kiện mới), không bắt buộc phải săn — bỏ lỡ cũng không ảnh hưởng tiến trình chính.
+
+---
+
+### ☀️ Ngày 18 (Thứ Năm) — 🎂 Sinh nhật Pam
+
+**Việc cần làm:**
+- [ ] Tìm Pam tặng quà sinh nhật — hay ở quán Saloon (12:00–23:00) hoặc trạm xe buýt buổi sáng; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
+- [ ] Lượm nốt Dâu rừng — **ngày cuối cùng trong năm** bụi còn ra quả
+- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá kiếm vốn nâng cấp túi đồ/công cụ
+
+---
+
+### ☀️ Ngày 19 (Thứ Sáu) — 🛒 Xe hàng rong
+
+**Việc cần làm:**
+- [ ] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt Giống Hiếm/Cổ Đại nếu tuần trước chưa mua đủ
+- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
+- [ ] Kiểm tra túi đồ — nếu đầy và dư tiền, cân nhắc nâng 24 ô ở Pierre (2.000g)
+
+---
+
+### ☀️ Ngày 20 (Thứ Bảy) — 🎂 Sinh nhật Shane
+
+**Việc cần làm:**
+- [ ] Tìm Shane tặng quà — hay ở Trại Marnie (nơi anh làm việc) buổi sáng, hoặc Saloon tối muộn (sau 21:00, đứng ở quầy bar); chưa rõ món Yêu thích thì tặng món Thích bất kỳ, **tránh mang hoa quả gia vị (spicy) — Shane ghét**
+- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
+- [ ] Kiểm tra Dâu tây — chuẩn bị thu hoạch lứa đầu ngày mai/kia (chín Ngày 21)
+
+---
+
+### ☀️ Ngày 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong
+
+**Việc cần làm:**
+- [ ] Bật TV xem công thức mới
+- [ ] **Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp
+- [ ] Ghé xe hàng rong nếu còn thiếu Hạt Giống Hiếm
+- [ ] Đây cũng là **hạn chót gieo Đậu xanh đã qua từ Ngày 18** — nếu lỡ thì bỏ qua, dồn sang Hạ
+
+**Lưu ý:** Dâu tây phẩm cấp cao (vàng/tím) giữ lại vài quả cho gói Cộng đồng/Bảo tàng nếu chưa có, còn lại ship hết.
+
+---
+
+### ☀️ Ngày 22 (Thứ Hai) — ⏳ Hạn chót gieo Khoai tây / Cải xoăn
+
+Hạn gieo cuối cùng trong mùa cho **Khoai tây** và **Cải xoăn** (xem bảng "Hạn gieo cuối mùa" ở Ngày 10) — qua hôm nay coi như hết cơ hội trồng 2 loại này trong Xuân Năm 1.
+
+**Việc cần làm:**
+- [ ] Nếu còn đất trống và còn hạt Khoai tây/Cải xoăn, gieo nốt ngay hôm nay
+- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
+- [ ] Đối chiếu lại bảng chốt Ngày 10 — còn 6 ngày nữa hết mùa, bù nốt mục nào đang thiếu (Bảo tàng, gói Cộng đồng, cấp Câu cá...)
+
+---
+
+### ☀️ Ngày 23 (Thứ Ba) — Chuẩn bị Vũ hội Hoa
+
+Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh thủ mua sắm trước khi lễ hội đóng cửa toàn thị trấn ngày mai.
+
+**Việc cần làm:**
+- [ ] (Tuỳ chọn) Nếu đã đủ **8 tim** với 1 NPC và muốn xác nhận làm người yêu, mua **Bó hoa (Bouquet)** ở Pierre — 200g
+- [ ] Tưới ruộng **kỹ** — mai đi lễ hội cả buổi chiều
+- [ ] Việc thường ngày: mỏ/câu cá, quyên góp Bảo tàng
+
+**Lưu ý:** Bó hoa **không bắt buộc** để tham dự hay nhảy ở Vũ hội Hoa — chỉ cần để chính thức hoá quan hệ yêu đương (mở khóa mốc tình cảm > 8 tim). Muốn nhảy cùng ai chỉ cần người đó đạt **4 tim** trở lên (xem Ngày 24).
+
+---
+
+### ☀️🎉 Ngày 24 (Thứ Tư) — Vũ hội Hoa
+
+**09:00–14:00, Rừng Cindersap. Nhà/cửa hàng toàn thị trấn đóng cửa hôm nay — kể cả Pierre.**
+
+**Việc cần làm:**
+- [ ] Vào Rừng Cindersap trong khung 09:00–14:00 (trước 09:00 rừng chưa mở)
+- [ ] Đi về phía tây khu rừng, qua cây cầu phía nam Tháp Pháp sư — nơi diễn ra vũ hội chỉ mở đúng hôm nay
+- [ ] Nếu muốn mời ai nhảy cùng: người đó cần **≥ 4 tim** tình cảm mới nhận lời (không liên quan Bó hoa) — nhảy xong +1 tim (250 điểm tình cảm) với người đó
+- [ ] Không mời ai / bị từ chối vẫn không sao — 6 cặp NPC mặc định sẽ tự nhảy, bạn chỉ cần dự khán là đủ, không mất gì
+- [ ] Tưới ruộng trước khi đi — 14:00 mới được rời lễ hội, về tới nhà đã trễ
+
+**Lưu ý:** đừng nhầm điều kiện — **4 tim** là để được mời nhảy, **8 tim + Bó hoa** (mua Ngày 23) là để chính thức thành người yêu, hai mốc khác nhau và không phụ thuộc nhau.
+
+---
+
+### ☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2
+
+**Việc cần làm:**
+- [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Speed-Gro)
+- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
+- [ ] Rà lại gói Cộng đồng **Cây Xuân** — còn thiếu Củ cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Củ cải vàng hết hạn gieo từ hôm qua – Ngày 24)
+
+---
+
+### ☀️ Ngày 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong
+
+**Việc cần làm:**
+- [ ] Tìm Pierre tặng quà sinh nhật — cửa hàng của ông đóng cửa hôm nay (nghỉ sinh nhật), thường thấy ông đi dạo quanh Thị trấn hoặc ở nhà; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
+- [ ] Ghé xe hàng rong lần cuối trong mùa Xuân nếu còn thiếu Hạt Giống Hiếm
+- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
+
+---
+
+### ☀️ Ngày 27 (Thứ Bảy) — 🎂 Sinh nhật Emily
+
+**Việc cần làm:**
+- [ ] Tìm Emily tặng quà — hay ở nhà (chung nhà với Haley, phía bắc Thị trấn) hoặc Saloon tối thứ Bảy; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
+- [ ] Bắt đầu dọn dẹp: thu hoạch/bán nốt nông sản sắp hết mùa, cây trồng ngoài trời sẽ **chết hết khi sang Hạ** (trừ có Nhà kính, chưa mở được trong Xuân Năm 1)
+- [ ] Kiểm tra ví — chuẩn bị ngân sách mua hạt giống Hạ ngày mai (Việt quất, Hoa bia... xem mục Tham khảo theo mùa cuối note)
+
+---
+
+### 🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong
+
+**Việc cần làm:**
+- [ ] Bật TV xem công thức mới lần cuối trong mùa
+- [ ] Thu hoạch/bán **toàn bộ** nông sản còn lại trên ruộng — qua đêm nay mọi cây ngoài trời sẽ chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất, phải trồng lại mùa sau)
+- [ ] Ghé xe hàng rong lần cuối (Rare Seed gần như chắc chắn còn hàng) nếu còn dư tiền
+- [ ] Không cần dọn đất trước — đất tự "cày lại" khi bước sang mùa mới, cây chết sẽ biến mất
+- [ ] Đối chiếu lại toàn bộ gói Cộng đồng mùa Xuân (**Lượm Xuân, Cây Xuân, Cá, Xây dựng**) — cái nào dở dang thì phải chờ... một số gói không giới hạn theo mùa (Cá/Xây dựng vẫn nộp được quanh năm), riêng **Cây Xuân** lỡ là phải chờ Xuân năm sau
+- [ ] Chuẩn bị hạt giống Hạ cần mua ngay sáng mai ở Pierre: ưu tiên **Việt quất** (lãi cao) và **Hoa bia** (nếu định ủ Bia Nhạt)
+
+**Lưu ý:** đêm nay ngủ vẫn tính là "Ngày 28 Xuân" như bình thường — sang ngày mới mới chính thức là Ngày 1 Hạ, không có gì đặc biệt phải làm gấp trước 24:00 ngoài ship nông sản.
+
+---
 
 ---
 
