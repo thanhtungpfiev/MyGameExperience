@@ -2,7 +2,7 @@
 
 > Về [[00 Home]] · Áp dụng theo [[Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]] · 🛟 [[An toàn save]] · 📦 [[Bản XNB và bản CP]]
 >
-> _29 mục trong `F:\Games\StardewValley Mods` — **28 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
+> _31 mục trong `F:\Games\StardewValley Mods` — **30 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
 >
 > _Mỗi mục mod: dòng đầu là **công dụng**, rồi các dòng **Cách dùng / Phím / Cấu hình / Nexus**. Cảnh báo và chi tiết dài nằm trong **khối callout** — khối có dấu `-` là mặc định gấp lại, bấm để mở. Phím ghi "GMCM" = mặc định trống, tự gán trong Cài đặt → GMCM._
 
@@ -10,7 +10,7 @@
 
 1. [[#1) Bộ nền & Việt hóa (bắt buộc, cài trước)|Bộ nền & Việt hóa]] (3)
 2. [[#2) Cấu hình mod trong game|Cấu hình trong game]] (2)
-3. [[#3) Giao diện & thông tin (UI/Info)|Giao diện & thông tin]] (13)
+3. [[#3) Giao diện & thông tin (UI/Info)|Giao diện & thông tin]] (15)
 4. [[#4) Kho đồ & rương|Kho đồ & rương]] (3)
 5. [[#5) Tự động hóa & năng suất|Tự động hóa & năng suất]] (2)
 6. [[#6) Tiện ích (QoL)|Tiện ích (QoL)]] (3)
@@ -428,6 +428,21 @@ Vẽ **đúng những con đang câu được ngay lúc này** bơi lượn dư�
 >
 > Rất hợp để đối chiếu với [[#Show Missing Collection Entries 0.2.0|Show Missing Collection Entries]]: mod kia bảo còn thiếu con gì, mod này chỉ luôn nó nằm ở ô nào.
 
+### Fishing Info Overlays 1.3.2
+
+Hiện lớp thông tin ngay trên màn hình khi đang cầm cần câu (hoặc lồng bắt cua): liệt kê **những con cá/vật phẩm câu được ở khu vực + giờ + mùa + thời tiết hiện tại**, kèm xem trước hình dạng thanh minigame của từng con trước khi quăng cần. Tác giả **cat-jam1**, cần SMAPI 3.10 trở lên, đã gắn thẻ tương thích 1.6.
+
+**Cách dùng** — cầm cần câu ra khu vực muốn câu, bảng overlay tự hiện ở góc màn hình liệt kê danh sách cá khả dụng; không cần bấm gì thêm.
+
+**Phím** — không có phím bật/tắt riêng. `F5` để reload cấu hình nếu sửa tay file `config.json`.
+
+**Cấu hình** — GMCM (tùy chỉnh vị trí/kích thước overlay, bật/tắt xem trước minigame, lọc bớt loại vật phẩm hiển thị...).
+
+**Nexus** — https://www.nexusmods.com/stardewvalley/mods/8970
+
+> [!warning] Chỉ là hình vẽ, không đổi tỉ lệ ra cá hay độ khó minigame
+> Giống [[#Visible Fish 0.4.2|Visible Fish]] — chỉ hiển thị thông tin, không thay đổi cơ chế câu cá thật, tỉ lệ cắn câu hay độ khó ô xanh khi bắt. Hai mod dùng chung mục đích (biết trước có gì để câu) nhưng khác cách trình bày — Visible Fish vẽ cá bơi dưới nước, mod này liệt kê dạng danh sách/bảng trên overlay. Giữ cả hai không xung đột, chỉ trùng thông tin.
+
 ### Stardew Dashboard 2.1.6 — ✅ _đã cài (manifest bên trong vẫn ghi 2.1.5)_
 
 ![[assets/stardew-dashboard-1.png|600]]
@@ -525,6 +540,23 @@ Chuyên trị đúng một việc: làm **điểm giun đất và đốm hạt g
 
 > [!tip] Chọn Border hay Bubble
 > **Border** bám sát ô, không che tầm nhìn — hợp khi trong mỏ nhiều đá. **Bubble** nổi cao hơn nên thấy được cả khi điểm đó bị cỏ/cây che, nhưng rối mắt hơn ở chỗ đông vật thể.
+
+### ClayMap 1.1
+
+Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Clay)** — tô màu theo số nhát cuốc cần thêm trước khi ra sét, khỏi phải cuốc mò từng ô để tìm đủ sét xây Kho cỏ/Silo (xem [[Daily#☀️ Ngày 4 (Thứ Năm)|Daily — Ngày 4]]). Cần SMAPI, không cần Content Patcher.
+
+**Cách dùng** — mở cửa sổ console SMAPI (cửa sổ dòng lệnh chạy nền cùng lúc với game, không phải gõ trong game) rồi gõ lệnh:
+- `claymap_toggle` — bật/tắt overlay
+- `claymap_setdepth <số>` — đổi xem theo độ sâu bao nhiêu nhát cuốc
+
+**Phím** — không có phím trong game, chỉ có lệnh console (xem trên).
+
+**Cấu hình** — không có GMCM, không có `config.json` — chỉnh hoàn toàn qua console mỗi lần muốn đổi.
+
+**Nexus** — https://www.nexusmods.com/stardewvalley/mods/11903
+
+> [!info] Console SMAPI là gì, gõ lệnh ở đâu
+> Là cửa sổ dòng lệnh (thường nền đen) tự bật lên cùng lúc khi chạy game qua SMAPI (không phải màn hình trong game) — click vào cửa sổ đó, gõ lệnh mod rồi Enter. Đóng cửa sổ này là thoát game luôn nên đừng tắt nhầm.
 
 ### Forage Markers – Stardew Visual Enhancer 1.0.0
 
