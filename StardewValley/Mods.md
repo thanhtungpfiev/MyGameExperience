@@ -197,12 +197,16 @@ Thêm widget nâng cao cho GMCM, vốn chỉ có bật/tắt, ô số, ô chữ,
 | Nhóm | Thấy được gì |
 |---|---|
 | 🎂 **Dân làng** | Hôm nay sinh nhật ai, thích quà gì · mức **tim chính xác** (game gốc làm tròn nên không rõ còn thiếu bao nhiêu) |
-| 🍀 **Hôm nay / mai** | May mắn hôm nay · **thời tiết ngày mai** · giờ tàu chạy |
+| 🍀 **Hôm nay / mai** | May mắn hôm nay · **cảnh báo thời tiết xấu ngày mai** (icon chỉ hiện khi mai mưa/bão sét/tuyết/mưa xanh — mai nắng thì **không có icon nào cả**, không phải lỗi) · giờ tàu chạy |
 | 🍳 **Đừng bỏ lỡ** | Queen of Sauce đang chiếu **công thức mình chưa biết** · Clint đang nâng **công cụ nào, còn mấy ngày** |
 | 💰 **Vật phẩm** | Giá bán · thu nhập theo vụ/ngày · còn thiếu **gói Cộng Đồng** · chưa donate **Bảo tàng** · chưa ship lần nào (**Full Shipment**) |
 | 🌱 **Cây trồng** | Loại cây + **còn mấy ngày thu hoạch** |
 | 🐮 **Nông trại** | Con nào **chưa vuốt** hôm nay · con nào **đã có sữa/lông** để lấy |
 | ➕ **Kỹ năng** | Điểm XP vừa nhận nổi lên tại chỗ |
+
+> [!info] Vì sao có ngày không thấy icon thời tiết
+> Setting trong cấu hình mod tên **"Hiển thị những ngày mưa"** (`ShowRainyDay` trong code) — nghe tên tưởng chỉ báo mưa, nhưng thực chất là toggle **duy nhất** điều khiển icon thời tiết ngày mai, gồm cả bão sét/tuyết/mưa xanh. Ngày mai **nắng đẹp thì mod chủ động không vẽ icon nào**, không có icon "mặt trời" thay thế — đây là thiết kế gốc, không phải lỗi hay do bị tắt nhầm.
+> Nguồn: [ShowRainyDayIcon.cs](https://github.com/Annosz/UIInfoSuite2/blob/master/UIInfoSuite2/UIElements/ShowRainyDayIcon.cs) · [default.json (tên option)](https://github.com/Annosz/UIInfoSuite2/blob/master/UIInfoSuite2/i18n/default.json)
 
 > [!warning] Trùng tính năng với 3 mod chuyên dụng đang cài
 > Nên vào cấu hình **tắt 3 nhóm này ở UI Info Suite 2** cho khỏi vẽ đè:
