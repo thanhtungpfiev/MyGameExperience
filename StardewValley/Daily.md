@@ -506,45 +506,70 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 ## 🌸 Tham khảo nhanh việc theo mùa
 
 > 🔁 = cây tái thu hoạch (trồng 1 lần, hái nhiều lần) — ưu tiên trồng sớm để hái nhiều lứa nhất.
+> Cột **Lời/ngày** tính thô = (Giá bán − Giá hạt) ÷ số ngày lớn, phẩm cấp thường (chưa tính "khổng lồ"/xử lý qua lò sấy — thực tế sẽ cao hơn). Nguồn giá & ngày lớn: [Crops – Stardew Valley Wiki](https://stardewvalleywiki.com/Crops), [Pierre's General Store](https://stardewvalleywiki.com/Pierre%27s_General_Store).
 
 ### 🌱 Xuân
 
-| Cây trồng | Ghi chú |
-|-----------|---------|
-| Củ cải vàng | Cây khởi đầu, 4 ngày |
-| Khoai tây | Có tỉ lệ ra thêm củ |
-| Súp lơ | Giá tốt, dễ ra "khổng lồ" khi trồng khối 3×3 |
-| **Dâu tây** 🔁 | Hạt chỉ mua ở Lễ hội Trứng (13) — lời nhất mùa Xuân |
-| Đậu xanh 🔁 | Cần giàn (trellis) |
+| Cây trồng | Giá hạt | Ngày lớn | Giá bán | Tái thu hoạch | Lời/ngày (thô) |
+|---|---|---|---|---|---|
+| Củ cải vàng | 20g | 4 | 35g | — | ~3,8g |
+| Khoai tây | 50g | 6 | 80g | — | ~5,0g (thêm tỉ lệ ra 2 củ) |
+| Súp lơ | 80g | 12 | 175g | — | ~7,9g — dễ ra "khổng lồ" khi trồng khối 3×3 |
+| Đậu xanh 🔁 | 60g | 10 (rồi 3/lứa) | 40g | 3 ngày | ~13,3g/ngày từ lứa 2 — cần giàn (trellis) |
+| **Dâu tây** 🔁 | 100g — **chỉ bán ở Lễ hội Trứng (13)** | 8 (rồi 4/lứa) | 120g | 4 ngày | ~30g/ngày từ lứa 2 — lời nhất mùa Xuân |
 
-- Sự kiện: Lễ hội Trứng (13) · Vũ hội Hoa (24).
+**🎉 Lễ hội:** Lễ hội Trứng (13, mở 09:00–14:00) · Vũ hội Hoa (24, mở 09:00–14:00) · Lễ hội Sa mạc (15–17 — **chưa đi được Năm 1**, cần sửa xong xe buýt tốn 40.000g hoặc hoàn thành hết gói Vault).
+
+**🎂 Sinh nhật:** 4 Kent (⚠️ **vắng mặt cả Năm 1**, đi lính tới Xuân Năm 2 mới về — bỏ qua) · 7 Lewis · 10 Vincent · 14 Haley · 18 Pam · 20 Shane · 26 Pierre · 27 Emily.
+
+**🧩 Gói Cộng đồng theo mùa:** Lượm Xuân (phòng Thủ công) · Cây Xuân (phòng Đựng thức ăn) — lỡ mùa nào phải chờ đúng mùa đó năm sau.
 
 ### ☀️ Hạ
 
-| Cây trồng | Ghi chú |
-|-----------|---------|
-| **Việt quất** 🔁 | Lãi cao nhất đầu game |
-| Hoa bia 🔁 | Ủ Bia Nhạt rất lời |
-| Dưa lưới | Dễ ra "khổng lồ" khối 3×3 |
-| Quả sao | Mua ở Ốc đảo sa mạc, ủ rượu rất lời |
+| Cây trồng | Giá hạt | Ngày lớn | Giá bán | Tái thu hoạch | Lời/ngày (thô) |
+|---|---|---|---|---|---|
+| Củ cải đỏ | 40g | 6 | 90g | — | ~8,3g |
+| **Việt quất** 🔁 | 80g | 13 (rồi 4/lứa, ra 3 quả/lần) | 50g/quả | 4 ngày | ~30g/ngày từ lứa 2 (×3 quả) — lãi cao nhất đầu game |
+| Cà chua 🔁 | 50g | 11 | 60g | 4 ngày | ~15g/ngày từ lứa 2 |
+| Hoa bia 🔁 | 60g | 11 | 25g | 1 ngày | ~25g/ngày — hái mỗi ngày, ủ Bia Nhạt rất lời |
+| Bắp cải tím | 100g | 10 | 260g | — | ~16,0g |
+| Dưa lưới | 80g | 12 | 250g | — | ~14,2g — dễ ra "khổng lồ" khi trồng khối 3×3 |
+| Quả sao | 400g — mua ở Ốc đảo sa mạc | 13 | 750g | — | ~26,9g — lời nhất Hạ, nhưng cần đi được Sa mạc (thường chưa kịp Năm 1) |
 
-- Sự kiện: Lễ hội Luau (11) · Vũ điệu Sứa Trăng (28).
+**🎉 Lễ hội:** Lễ hội Luau (11, 09:00–14:00, nộp súp chung) · Giải câu Cá hồi vân (20–21, thi câu ở Rừng Cindersap) · Vũ điệu Sứa Trăng (28, tối, ra bến tàu ngắm sứa).
+
+**🎂 Sinh nhật:** 4 Jas · 8 Gus · 10 Maru · 13 Alex · 17 Sam · 19 Demetrius · 22 Chú lùn (Dwarf, ⚠️ phải giải cứu dưới mỏ + học tiếng Lùn mới tặng quà được) · 24 Willy · 26 Leo (⚠️ sống ở Đảo Gừng, cần thân với 3 chim vẹt + 6 tim mới dọn vào đất liền — khó gặp sớm).
+
+**🧩 Gói Cộng đồng theo mùa:** Lượm Hạ · Cây Hạ.
 
 ### 🍂 Thu
 
-| Cây trồng | Ghi chú |
-|-----------|---------|
-| **Nam việt quất** 🔁 | Cây chủ lực mùa Thu |
-| Nho 🔁 | Cần giàn |
-| Bí ngô | Dễ ra "khổng lồ", cần cho bundle |
-| **Quả Ngọc Ngọt** | Từ Hạt Giống Hiếm, bán rất cao — nhân giống bằng Máy làm hạt |
+| Cây trồng | Giá hạt | Ngày lớn | Giá bán | Tái thu hoạch | Lời/ngày (thô) |
+|---|---|---|---|---|---|
+| Bok Choy | 50g | 4 | 80g | — | ~7,5g |
+| Atiso | 30g | 8 | 160g | — | ~16,3g |
+| Rau dền (Amaranth) | 70g | 7 | 150g | — | ~11,4g |
+| Cà tím 🔁 | 20g | 10 (rồi 3/lứa) | 60g | 3 ngày | ~13,3g/ngày từ lứa 2 |
+| Nho 🔁 | 60g | 10 (rồi 3/lứa) | 80g | 3 ngày | ~26,7g/ngày từ lứa 2 — cần giàn |
+| **Nam việt quất** 🔁 | 240g | 7 (rồi 5/lứa) | 75g | 5 ngày | ~15g/ngày từ lứa 2 — cây chủ lực mùa Thu |
+| Bí ngô | 100g | 13 | 320g | — | ~16,9g — dễ ra "khổng lồ", cần cho gói Xây dựng/Hầm rượu |
+| **Quả Ngọc Ngọt** | Hạt Giống Hiếm (~600–1.000g, chỉ mua ở Xe hàng rong) | 24 | 3.000g | — | ~83,3g — lời nhất cả năm, nhưng nguồn hạt cực khan hiếm; nhân giống về sau bằng Máy làm hạt |
 
-- Sự kiện: Hội chợ Thung lũng (16) · Đêm Linh Hồn (27).
-- ⚠️ Cuối Thu (26–28): dọn cây chết, mua đủ hạt cho vụ sau.
+**🎉 Lễ hội:** Hội chợ Thung lũng (16, minigame ăn Vé Sao + thi trưng bày Grange) · Đêm Linh Hồn (27, mê cung — năm lẻ ra Bí ngô vàng, năm chẵn ra Vé Thưởng).
+
+**🎂 Sinh nhật:** 2 Penny · 5 Elliott · 11 Jodi · 13 Abigail · 15 Sandy (⚠️ sống ở Ốc đảo sa mạc, cùng vấn đề đường xa như Lễ hội Sa mạc) · 18 Marnie · 21 Robin · 24 George.
+
+**🧩 Gói Cộng đồng theo mùa:** Lượm Thu · Cây Thu.
+
+- ⚠️ Cuối Thu (26–28): dọn cây chết, mua đủ hạt cho vụ Đông/Nhà kính, ship hết nông sản trước khi đổi mùa.
 
 ### ❄️ Đông
 
-- Không trồng ngoài trời (chỉ Nhà kính) → dồn cho: mỏ, câu cá, kết bạn, xây/nâng cấp, quyên góp Bảo tàng.
+- Không trồng ngoài trời (chỉ Nhà kính, cần hoàn thành hết gói Cộng đồng hoặc mua qua Joja mới có) → dồn thời gian cho: mỏ, câu cá, kết bạn, xây/nâng cấp, quyên góp Bảo tàng.
 - Vẫn lượm được — đào điểm giun đất, xem [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
-- Mùa tốt nhất để nâng cấp công cụ.
-- Sự kiện: Lễ hội Băng (8) · Đại tiệc Sao Đông (25).
+- Mùa tốt nhất để nâng cấp công cụ (không mất buổi tưới ruộng nào).
+- **🧩 Gói Cộng đồng theo mùa:** chỉ có Lượm Đông (phòng Thủ công) — Đông **không có** gói Cây trồng riêng.
+
+**🎉 Lễ hội:** Lễ hội Băng (8, câu cá dưới băng lấy vé) · Đại tiệc Sao Đông (25, tặng quà bí mật + đấu giá đêm khuya).
+
+**🎂 Sinh nhật:** 1 Krobus (⚠️ sống dưới Cống, cần Chìa khóa Gỉ từ Gunther — quyên góp đủ 60 món Bảo tàng mới mở) · 3 Linus · 7 Caroline · 10 Sebastian · 14 Harvey · 17 Pháp sư (⚠️ cần làm xong nhiệm vụ mở khóa Tháp mới tặng quà được) · 20 Evelyn · 23 Leah · 26 Clint.
