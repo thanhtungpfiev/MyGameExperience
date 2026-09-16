@@ -74,9 +74,9 @@ Mưa cả ngày (Năm 1 luôn mưa hôm nay) → khỏi tưới ruộng. **Pierr
 **Lộ trình:** sáng ở sông bắt Cá trê + Cá trích dày mình → từ 16:00 chuyển ra biển bắt Lươn (trước giờ đó ra biển sẽ không có).
 
 **Việc cần làm:**
-- [ ] Câu Cá trê + Cá trích dày mình ở sông, Lươn ở biển từ 16:00
-- [ ] Ghé hồ Ngọn núi xem chỗ đứng câu **Legend** (con cá ~5.000g, chỉ ra Xuân + mưa, đòi cấp 10 — chưa câu được, chỉ xem chỗ)
-- [ ] Dọn thêm đất / chặt cây lấy gỗ
+- [x] Câu Cá trê + Cá trích dày mình ở sông, Lươn ở biển từ 16:00
+- [x] Ghé hồ Ngọn núi xem chỗ đứng câu **Legend** (con cá ~5.000g, chỉ ra Xuân + mưa, đòi cấp 10 — chưa câu được, chỉ xem chỗ)
+- [x] Dọn thêm đất / chặt cây lấy gỗ
 
 ---
 
