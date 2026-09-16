@@ -27,6 +27,7 @@
 | Phím | Mod | Tác dụng |
 |------|-----|----------|
 | `G` | _(phím gốc game, tự đổi)_ | **Dùng công cụ** (Use Tool) — đã đổi từ `C`/chuột trái sang `G` trong Tùy chọn → Điều khiển, cho hết trùng với UI Info Suite 2 |
+| `K` | Perfection Stats | Mở thẳng bảng % Hoàn hảo (`OpenMenuKey`, mặc định trống, tự gán) — chọn `K` để tránh trùng `O` (đã bị Range Highlight dùng cho vùng Bù nhìn) |
 | `F1` | Lookup Anything | Tra cứu vật/dân làng/cây dưới con trỏ (laptop: `Fn`+`F1`) |
 | `Shift trái`+`F1` | Lookup Anything | Mở ô tìm kiếm để tra bất kỳ thứ gì |
 | `M` | NPC Map Locations | Mở bản đồ (phím gốc game) |
@@ -77,9 +78,13 @@
 >
 > ✅ `H` đã hết trùng: Bảng nhiệm vụ đổi sang `Q`, giờ `H` chỉ còn **Range Highlight** dùng.
 >
-> ✅ `C` đã hết trùng: đổi phím **"Dùng công cụ" (Use Tool)** của game từ `C`/chuột trái sang **`G`** (Tùy chọn → Điều khiển) — `C` giờ chỉ còn **UI Info Suite 2** dùng để mở Lịch, không còn tranh chấp với thao tác dùng công cụ (câu cá, cuốc, tưới...) nữa. `G` không trùng bất kỳ phím gốc hay phím mod nào khác trong bảng ở trên.
+> ✅ `C` đã hết trùng: đổi phím **"Dùng công cụ" (Use Tool)** của game từ `C`/chuột trái sang **`G`** (Tùy chọn → Điều khiển) — `C` giờ chỉ còn **UI Info Suite 2** dùng để mở Lịch, không còn tranh chấp với thao tác dùng công cụ (câu cá, cuốc, tưới...) nữa.
 >
-> **Còn `X` thì sao?** Vẫn để mặc định — phím phụ "kiểm tra" của game trùng ký tự với Experience Bars (ẩn/hiện thanh XP), nhưng hai thao tác này gần như không bao giờ cần bấm cùng lúc nên chưa cấp thiết phải đổi. Muốn đổi thì làm tương tự: chọn 1 trong các phím còn trống (`K`, `L`, `N`, `V`, `Z`) và gán trong GMCM cho Experience Bars.
+> **Còn `X` thì sao?** Vẫn để mặc định — phím phụ "kiểm tra" của game trùng ký tự với Experience Bars (ẩn/hiện thanh XP), nhưng hai thao tác này gần như không bao giờ cần bấm cùng lúc nên chưa cấp thiết phải đổi. Muốn đổi thì làm tương tự: chọn 1 trong các phím còn trống (`L`, `N`, `V`, `Z`) và gán trong GMCM cho Experience Bars.
+>
+> ✅ **`K` đã được gán:** Perfection Stats mặc định không có phím mở (`OpenMenuKey: "None"`), tab cúp trong menu bị lỗi vùng click (xem [[#Perfection Stats 1.6.7|mục Perfection Stats]]) nên đã gán phím **`K`** để mở thẳng, tránh dùng `O` (đang bị Range Highlight chiếm cho vùng Bù nhìn).
+>
+> **Phím trống còn lại sau khi trừ `K` (Perfection Stats):** `L`, `N`, `V`, `Z`.
 >
 > `M` là **phím gốc**: NPC Map Locations chỉ mở rộng chức năng bản đồ chứ không chiếm thêm phím.
 
@@ -350,9 +355,14 @@ Hiện **icon + tên** của những mục **còn thiếu** trong Bộ sưu tậ
 
 Bảng theo dõi **tiến độ Hoàn hảo (Perfection)** — mỗi hạng mục một thanh %, kèm nút **xem danh sách còn thiếu**. Tác giả **ReichelHz**. Tự nhận diện nội dung của các mod mở rộng lớn (**SVE**, **Ridgeside Village**) nếu có cài.
 
-**Cách dùng** — mở menu game (`Esc`) → **tab hình cúp 🏆 "Perfection Stats"** (tab cuối cùng, sau tab Tùy chọn). Cuộn để xem hết các thanh; bấm **kính lúp 🔍** cạnh thanh nào để bung ra **đúng những món / NPC / quái còn thiếu** của mục đó. Thanh **PERFECTION** ở dưới cùng là tổng.
+**Cách dùng** — bấm phím **`K`** (đã tự gán, xem lý do bên dưới) để mở thẳng bảng, hoặc `Esc` → **tab hình cúp 🏆 "Perfection Stats"** (tab cuối cùng, sau tab Tùy chọn). Cuộn để xem hết các thanh; bấm **kính lúp 🔍** cạnh thanh nào để bung ra **đúng những món / NPC / quái còn thiếu** của mục đó. Thanh **PERFECTION** ở dưới cùng là tổng.
 
-**Phím** — mặc định **trống** (`OpenMenuKey: "None"`), gán trong GMCM để mở thẳng bảng khỏi phải qua menu.
+**Phím** — mặc định **trống** (`OpenMenuKey: "None"`) — đã tự gán thành **`K`** trong GMCM để mở thẳng bảng khỏi phải qua menu.
+
+> [!warning] Tab cúp trong menu Esc từng bấm không ra gì — đã có cách né
+> Vùng bấm được của tab cúp bị lệch so với hình vẽ (lỗi ghi nhận trên trang thảo luận Nexus của mod) — bấm giữa icon nhiều khi không ăn. Cách né chắc ăn nhất là **dùng phím tắt `K`** thay vì bấm tab. Muốn vẫn bấm tab thì thử bấm lệch sang rìa phải/rìa trên icon.
+>
+> Lúc đầu định gán `O` (đang trống theo hình dung ban đầu), nhưng rà lại bảng phím thì `O` đã bị [[#Range Highlight 4.2.1|Range Highlight]] dùng để hiện vùng Bù nhìn — nên đổi sang `K` cho sạch, không đụng gì trong bảng phím tắt ở đầu note.
 
 **Cấu hình** — **GMCM**: `ShowTab` ẩn/hiện tab cúp · phím mở · mục **Colors & Accessibility** đổi 6 màu (đã hoàn thành / còn thiếu / ruột thanh / nền thanh / tiêu đề / chữ). Trong `config.json` còn phần **tổng số từng hạng mục** (vanilla + SVE + Ridgeside).
 
