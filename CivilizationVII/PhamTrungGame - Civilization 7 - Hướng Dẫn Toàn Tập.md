@@ -10,13 +10,15 @@
 |---|---|---|---|
 | 1 | [Hướng Dẫn Toàn Tập Cho Người Mới](https://www.youtube.com/watch?v=IP6nWuL1Tho) | 27:36 | ✅ [[#1️⃣ Hướng dẫn cho người mới\|đã chắt lọc]] |
 | 2 | [Chi Tiết 50 Lượt Đầu Độ Khó Deity](https://www.youtube.com/watch?v=-JmspSnFHeI) | 35:49 | ✅ [[#2️⃣ 50 lượt đầu ở độ khó Deity\|đã chắt lọc]] |
-| 3 | [Toàn Tập Về Commander Cho Tân Thủ](https://www.youtube.com/watch?v=R2TcBjyGUdQ) | 11:00 | ⬜ chưa xem |
+| 3 | [Toàn Tập Về Commander Cho Tân Thủ](https://www.youtube.com/watch?v=R2TcBjyGUdQ) | 11:00 | ✅ [[#3️⃣ Toàn tập về Commander cho tân thủ\|đã chắt lọc]] |
 | 4 | [Toàn Tập Về Thời Kỳ Khám Phá (Exploration Age)](https://www.youtube.com/watch?v=CH3kR8dJLSM) | 23:26 | ⬜ chưa xem |
 | 5 | [Hoàn Thành Legacy Path Trong Cả 3 Thời Kỳ](https://www.youtube.com/watch?v=QN8RMuz57EQ) | 27:31 | ⬜ chưa xem |
 
 **Bên trong video 1** — [[#🕰️ Ba thời kỳ — thay đổi lớn nhất so với Civ VI|Ba thời kỳ]] · [[#👑 Leader — Memento và cây kỹ năng|Leader & Memento]] · [[#⚙️ Thiết lập ván đấu|Thiết lập ván đấu]] · [[#📊 Bảy chỉ số cơ bản|Bảy chỉ số]] · [[#💠 Influence — chỉ số quan trọng nhất|Influence]] · [[#🔬 Hai cây nghiên cứu — Khoa học và Văn hóa|Hai cây nghiên cứu]] · [[#🧭 Nghiên cứu gì trước|Nghiên cứu gì trước]] · [[#🔭 Do thám (Scout)|Do thám]] · [[#🏘️ Thành phố và Thị trấn|Thành phố & Thị trấn]] · [[#🏆 Bốn Legacy Path|Bốn Legacy Path]] · [[#⚔️ Chiến tranh và Happiness|Chiến tranh & Happiness]]
 
 **Bên trong video 2** — [[#🎯 Bối cảnh ván demo|Bối cảnh ván demo]] · [[#🧱 Chọn nền văn minh theo combo district|Combo district]] · [[#🐎 Lượt 1-10 — hai Scout và cày làng độc lập|Lượt 1-10]] · [[#📜 Lượt 11-20 — Commander, Government, và chọn sẵn chỗ đặt thành phố|Lượt 11-20]] · [[#🗺️ Lượt 21-30 — đếm ba ô để đặt thành phố|Lượt 21-30]] · [[#⚒️ Lượt 31-40 — combo district và Tradition|Lượt 31-40]] · [[#🏛️ Lượt 41-52 — chốt hình và Convert to City|Lượt 41-52]] · [[#✅ Mốc tự đối chiếu|Mốc tự đối chiếu]]
+
+**Bên trong video 3** — [[#🪖 Commander là gì — gộp quân di chuyển cùng lúc|Commander là gì]] · [[#🎖️ Ba cách sở hữu Commander|Ba cách sở hữu]] · [[#📈 EXP và năm cột kỹ năng|EXP và năm cột kỹ năng]] · [[#⚡ Điểm Initiative — đánh chủ động|Điểm Initiative]] · [[#🔥 Sáu lệnh chỉ huy và Focus Fire|Sáu lệnh chỉ huy]] · [[#🏅 Commendation Point|Commendation Point]] · [[#⚓ Chỉ huy thủy quân và cột Leadership|Chỉ huy thủy quân]]
 
 ---
 
@@ -382,6 +384,115 @@ Tác giả nói rõ đây là **lối chơi không chiến tranh sớm** — *"p
 > **Nguồn tự mâu thuẫn:** khuyên Convert to City khi thị trấn 5-6 dân, nhưng trong ván lại convert lúc 4 dân.
 >
 > **Không lấy được:** mô tả video và mốc chương — YouTube chặn mọi đường lấy metadata từ máy này, nên mục này neo theo **số lượt** thay vì mốc phút. Cần bảng timestamp thì mở video ra chép.
+
+
+## 3️⃣ Toàn tập về Commander cho tân thủ
+
+> [!video] Nguồn
+> **PhamTrungGame** — [Civilization VII: Hướng Dẫn Toàn Tập Về Commander Cho Tân Thủ](https://www.youtube.com/watch?v=R2TcBjyGUdQ) · 11:00 · đăng 15/12/2025 · video 3/5 của playlist.
+> Mốc thời gian từng mục ở [[#🎥 Mốc thời gian — video 3\|cuối phần này]]. Nguồn: bản chép lời tự động của YouTube, user dán tay vào note ngày 15/09/2026 — xem cảnh báo về đoạn outro bị cắt cụt ở cuối phần này.
+
+### 🪖 Commander là gì — gộp quân di chuyển cùng lúc
+
+Commander (chỉ huy) là đơn vị lính mới, vai trò lớn nhất là cho phép nhập nhiều lính vào làm một đội và **di chuyển cùng lúc** thay vì dắt từng em một như Civ VI. Nhập bằng tay từng em, hoặc dùng lệnh nhập lính của Commander để gom hết trong một lượt.
+
+Tốc độ di chuyển của cả đội phụ thuộc tốc độ của Commander. Lưu ý quan trọng: nếu Commander đã dùng hết điểm hành động trong lượt (di chuyển hết số ô cho phép) thì **không tách lính ra được nữa** trong lượt đó — ví dụ Commander có 3 điểm di chuyển, đi hết cả 3 là kẹt nguyên cục, không tách quân được. Đi 2/3 điểm thì vẫn còn 1 điểm để tách lính ra (tự tay hoặc dùng lệnh tách hết).
+
+> [!tip] Đừng di chuyển hết điểm hành động khi có nguy cơ chạm địch
+> Video khuyên khi đang trong vùng nguy hiểm/chiến tranh thì di chuyển Commander từ từ, đừng dùng hết điểm hành động trong một lượt — hết điểm là không tách quân ra đánh được, dễ bị phục kích cả cục.
+
+### 🎖️ Ba cách sở hữu Commander
+
+| Cách | Ghi chú |
+|---|---|
+| Sản xuất bằng Production | Như một đơn vị lính bình thường — ví dụ trong video tốn 30 lượt |
+| Mua bằng vàng | Ví dụ trong video tốn 54 vàng cho em đầu tiên |
+| Nghiên cứu civic mở Commander miễn phí | Cách dễ nhất — nên nghiên cứu sớm ở **mọi** ván, vì Commander rất mạnh dù chơi tấn công hay phòng thủ |
+
+> [!warning]- Số liệu chi phí tăng dần nghe không rõ ràng
+> Video nói mua/sản xuất Commander tiếp theo sẽ đắt hơn em trước (ví dụ 30 lượt → 36 lượt sản xuất), nhưng đoạn nói giá vàng nghe rất rối: *"từ 500 vàng lên 6600"* — chênh quá xa so với "54 vàng" nói ngay trước đó cho em đầu tiên, nhiều khả năng speech-to-text nghe sai. ❓ Đừng tin số cho tới khi mở game đối chiếu. Hướng đi (giá tăng dần theo số lượng đã sở hữu) thì hợp lý, đúng tinh thần cơ chế Civ.
+
+Gợi ý nghiên cứu Commander miễn phí sớm này trùng với [[#🧭 Nghiên cứu gì trước\|lời khuyên ở video 1]] và [[#📜 Lượt 11-20 — Commander, Government, và chọn sẵn chỗ đặt thành phố\|video 2]].
+
+### 📈 EXP và năm cột kỹ năng
+
+Khác Civ VI — lính thường không còn cây kỹ năng/kinh nghiệm riêng. **Chỉ Commander mới lên level**: đánh địch, bị đánh, phá trại/thành bang độc lập đều cho kinh nghiệm (video ví dụ giết một lính được 5 điểm kinh nghiệm).
+
+Lên level thì chọn một trong **năm cột kỹ năng**:
+
+| Cột (nguyên văn video) | Ý nghĩa |
+|---|---|
+| Bastion (nghe "Baston") | Phòng thủ |
+| Assault (nghe "asal") | Tấn công |
+| Logistics (nghe "logistic") | Hậu cần |
+| Maneuver (nghe "man rover") | Di chuyển |
+| Leadership | Lãnh đạo |
+
+> [!info]- Tên cột đã đối chiếu ngoài nguồn
+> Năm cột trên khớp với danh sách promotion tree của Commander được cộng đồng liệt kê: **Bastion · Assault · Maneuver · Logistics · Leadership** (còn cột thứ sáu **Bombardment** chỉ dành riêng cho tướng thủy quân — xem [[#⚓ Chỉ huy thủy quân và cột Leadership\|mục Chỉ huy thủy quân]]).
+> Kiểm ngày 15/09/2026 qua thảo luận [CivFanatics — What are your priorities for Commander Promotions?](https://forums.civfanatics.com/threads/what-are-your-priorities-for-commander-promotions.698980/).
+
+### ⚡ Điểm Initiative — đánh chủ động
+
+Điểm kỹ năng quan trọng nhất, nằm **đầu tiên** của mỗi cột: video gọi là điểm **initiative** hay "đánh chủ động". Không có điểm này thì lính nhập vào Commander rồi tách ra trong cùng lượt sẽ **không đánh được** — mất cả lượt.
+
+Có điểm rồi thì nhập — tách — đánh được ngay trong cùng một lượt. Video minh hoạ hai tình huống hay gặp thực chiến:
+
+- **Lính bắn xa hết tầm** — đi bộ thì chỉ bắn tới ô gần; nhập vào Commander (di chuyển xa hơn) rồi tách ra với điểm chủ động thì bắn được tới xa hơn hẳn, ngay trong lượt đó.
+- **Lính kỵ binh hết chỗ tách ra** (đội hình đông, không còn ô trống quanh Commander) — cho Commander đi thêm một ô để có chỗ trống, tách kỵ binh ra là đánh được luôn, không phải đợi thêm lượt.
+
+> [!tip] Initiative là ưu tiên số 1 khi lên level Commander
+> Đây là điểm được khuyên chọn đầu tiên gần như tuyệt đối — lý do đúng như video: đổi lại một lượt đánh sớm hơn, nhiều khi đổi cả cục diện trận đánh.
+> Kiểm ngày 15/09/2026, cùng nguồn CivFanatics ở mục trên — Initiative được mô tả là *"Being able to load, unload and attack with units in the same turn is game-changing"*.
+
+### 🔥 Sáu lệnh chỉ huy và Focus Fire
+
+Commander có sáu lệnh cơ bản: nhập quân · tách quân · yêu cầu tất cả vào phòng thủ (đào chiến hào) · đốt phá (Pillage) · **Focus Fire** (bắn tập trung) · **đánh cận chiến tập trung**.
+
+Hai lệnh cuối là trọng tâm của video: yêu cầu toàn bộ lính **trong tầm 1 ô quanh Commander** (không phải quanh mục tiêu) cùng đánh một điểm. Video minh hoạ: 3 lính bắn xa đứng quanh Commander, nhưng có 1 em đứng xa Commander tới 2 ô thì **không nhận lệnh** — chỉ 2 em trong tầm 1 ô mới bắn theo lệnh. Đứng đúng vị trí (trong tầm) mới tối ưu được lệnh.
+
+> [!warning]- Video nói hai lệnh tập trung cộng damage bằng nhau — nguồn ngoài không khớp
+> Video nói cả bắn tập trung lẫn đánh cận chiến tập trung đều "tăng hai dam" (+2 Combat Strength) như nhau. Nguồn ngoài (Steam Community guide) ghi khác: **Focus Fire (bắn xa) chỉ cho +1 Combat Strength**, còn **Coordinated Assault (cận chiến) cho +2 Combat Strength** — hai lệnh không bằng nhau. Bản thân video cũng khuyên dùng lệnh bắn tập trung nhiều hơn vì cận chiến tập trung khiến lính mất máu do cơ chế cận chiến, nhưng không nói lý do là bonus thấp hơn.
+> Kiểm ngày 15/09/2026 qua [Steam Community — Comprehensive Civilization VII Army Commander Guide](https://steamcommunity.com/sharedfiles/filedetails/?id=3645296112). **Chưa mở game đối chiếu số thật** — bản patch nào đổi thì lấy trong game làm chuẩn.
+
+### 🏅 Commendation Point
+
+Đi hết một cột kỹ năng (cộng điểm cuối cùng của cột) thì mở khoá một **Commendation Point** — điểm đặc biệt mạnh, không phụ thuộc level cụ thể (không phải cứ lên level 5/6/10 là có, mà phải đúng điểm cuối cột đó).
+
+Hai ví dụ video lấy đầu game:
+
+- **Order** — cộng Combat Strength cho toàn bộ lính trong tầm chỉ huy (video ví dụ +5: lính từ 51 lên 56, từ 40 lên 45).
+- **Valor** — cho một lính hoạt động thêm lần nữa (hồi 2 điểm di chuyển), tức đánh được thêm một lần trong lượt.
+
+> [!info]- Đối chiếu ngoài nguồn — khớp gần đúng, tên gọi khác chút
+> **Order**: nguồn ngoài xác nhận +5 Combat Strength cho lính trong tầm chỉ huy — khớp đúng con số video nói. **Valor**: nguồn ngoài gọi là **Second Wind** (làm mới một đơn vị để tấn công lần hai, cooldown 3 lượt) — cùng ý "đánh thêm lần nữa" nhưng không nói rõ "hồi 2 điểm di chuyển" như video, và có thêm chi tiết cooldown 3 lượt mà video không nhắc.
+> Kiểm ngày 15/09/2026, cùng nguồn Steam Community Guide ở mục trên.
+
+### ⚓ Chỉ huy thủy quân và cột Leadership
+
+Từ thời **Exploration** trở đi có thêm tướng thủy quân (Fleet Commander). Cơ chế giống tướng trên bộ: cần điểm tương đương Initiative — video gọi là điểm ❓ *"engustment"* (nghe không rõ, tạm phiên âm "engagement") — để lính/thuyền tách ra là hành động được luôn, không mất lượt. Tướng thủy quân cũng có lệnh Focus Fire y hệt tướng trên bộ.
+
+Cột **Leadership** (bỏ qua ở phần trên) hợp với lối chơi phòng thủ, không thích chiến tranh chủ động: điểm đầu cho +5% tất cả tài nguyên, các điểm sâu hơn thiên về phòng thủ — video nêu một điểm cho +10 Combat Strength khi phòng thủ.
+
+> [!video] Video 3 còn 2 chỗ `❓` chưa chốt và 1 chỗ nguồn tự mâu thuẫn với nguồn ngoài
+> **Chưa chốt:** tên điểm chủ động của tướng thủy quân (nguyên văn "engustment") · số liệu chi phí Commander tăng dần theo số lượng (nguyên văn "500 vàng lên 6600", chênh vô lý so với 54 vàng của em đầu). **Mở game hoặc Civilopedia ra đối chiếu rồi xoá dấu `❓`.**
+>
+> **Nguồn tự mâu thuẫn với nguồn ngoài:** video nói bắn tập trung và cận chiến tập trung cộng damage bằng nhau (+2 cả hai), nguồn ngoài ghi Focus Fire ranged chỉ +1 — xem cảnh báo ở mục [[#🔥 Sáu lệnh chỉ huy và Focus Fire\|Sáu lệnh chỉ huy]].
+>
+> **Về nguồn thô:** bản chép lời tự động do YouTube tạo, user copy tay dán vào note. Đoạn cuối (outro) bị cắt cụt giữa câu ("...các bạn có thể comment cho mình biết nhé. H") — chưa rõ mất phần nào sau đó ngoài lời chào tạm biệt thông thường.
+
+### 🎥 Mốc thời gian — video 3
+
+| Mốc | Nội dung | Mục trong note |
+|---|---|---|
+| 0:00 | Giới thiệu | [[#🪖 Commander là gì — gộp quân di chuyển cùng lúc\|Commander là gì]] |
+| 0:08 | Di chuyển | [[#🪖 Commander là gì — gộp quân di chuyển cùng lúc\|Commander là gì]] |
+| 1:32 | Cách sở hữu | [[#🎖️ Ba cách sở hữu Commander\|Ba cách sở hữu]] |
+| 2:50 | EXP và Skill Tree | [[#📈 EXP và năm cột kỹ năng\|EXP và năm cột kỹ năng]] |
+| 3:58 | Dùng kỹ năng đánh chủ động | [[#⚡ Điểm Initiative — đánh chủ động\|Điểm Initiative]] |
+| 5:51 | Focus Fire | [[#🔥 Sáu lệnh chỉ huy và Focus Fire\|Sáu lệnh chỉ huy]] |
+| 8:03 | Commandation | [[#🏅 Commendation Point\|Commendation Point]] |
+| 9:31 | Chỉ huy thủy quân | [[#⚓ Chỉ huy thủy quân và cột Leadership\|Chỉ huy thủy quân]] |
 
 
 %%
