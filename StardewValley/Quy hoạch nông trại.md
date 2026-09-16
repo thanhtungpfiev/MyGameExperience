@@ -53,28 +53,37 @@
 
 ### Tầng 1 — 5 rương mở màn (làm ngay khi gom đủ 250 gỗ)
 
-| Màu | Tên rương | Chứa gì | Vì sao màu đó |
-|---|---|---|---|
-| 🟫 **Nâu** (mặc định) | `1 Nguyên liệu` | Gỗ, Đá, Sợi, Đất sét, Nhựa cây, Gỗ cứng | Màu gỗ nguyên bản |
-| ⬜ **Xám** | `2 Quặng & Đá quý` | Quặng, thỏi, than, geode, đá quý | Màu đá |
-| 🟩 **Xanh lá đậm** | `3 Nông sản` | Rau củ quả thu hoạch | Màu cây |
-| 🟦 **Xanh dương** | `4 Cá & Biển` | Cá, rong, san hô, ốc sò | Màu nước |
-| 🟥 **Đỏ** | `0 ĐỪNG BÁN` | Đồ giữ nộp Bảo tàng / bundle / quà sinh nhật | Đỏ = dừng tay |
+| Màu                   | Tên rương           | Chứa gì                                      | Vì sao màu đó     |
+| --------------------- | ------------------- | -------------------------------------------- | ----------------- |
+| 🟫 **Nâu** (mặc định) | `1 Nguyên liệu`     | Gỗ, Đá, Sợi, Đất sét, Nhựa cây, Gỗ cứng      | Màu gỗ nguyên bản |
+| ⬜ **Xám**             | `2 Quặng Và Đá quý` | Quặng, thỏi, than, geode, đá quý             | Màu đá            |
+| 🟩 **Xanh lá đậm**    | `3 Nông sản`        | Rau củ quả thu hoạch                         | Màu cây           |
+| 🟦 **Xanh dương**     | `4 Cá`              | Cá, rong, san hô, ốc sò                      | Màu nước          |
+| 🟥 **Đỏ**             | `0 ĐỪNG BÁN`        | Đồ giữ nộp Bảo tàng / bundle / quà sinh nhật | Đỏ = dừng tay     |
 
 > [!tien] Rương đỏ là cái đáng giá nhất trong bảng
 > [[Mẹo#🧩 Trung tâm Cộng đồng|Mẹo]] đã cảnh báo _"bán hết rồi mới phát hiện thiếu là rất mệt"_. Một cái rương **khác màu hẳn mọi rương còn lại** giải quyết trọn vấn đề đó — tay không bao giờ với nhầm, và lúc dồn đồ cuối ngày cũng không lỡ ship.
 
 ### Tầng 2 — thêm khi kho phình (giữa Xuân → Hạ)
 
-| Màu | Tên rương | Chứa gì |
-|---|---|---|
-| 🟢 **Xanh lá nhạt** | `5 Hạt & Phân bón` | Hạt giống, các loại phân |
-| 🟧 **Cam** | `6 Đồ lượm` | Forage 4 mùa, nấm, hoa dại |
-| ⬜ **Trắng / kem** | `7 Chăn nuôi` | Trứng, sữa, len, lông |
-| 🟪 **Tím** | `8 Hàng thủ công` | Rượu vang, mứt, phô mai, dầu, bia |
-| 🩷 **Hồng** | `9 Quà tặng` | Đồ để tặng dân làng |
+| Màu                         | Tên rương              | Chứa gì                                                                                                              |
+| --------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
+| 🟢 **Xanh lá nhạt**         | `5 Hạt Và Phân bón`    | Hạt giống, các loại phân                                                                                             |
+| 🟧 **Cam**                  | `6 Đồ lượm`            | Forage 4 mùa, nấm, hoa dại                                                                                           |
+| ⬜ **Trắng / kem**           | `7 Chăn nuôi`          | Trứng, sữa, len, lông                                                                                                |
+| 🟪 **Tím**                  | `8 Hàng thủ công`      | Rượu vang, mứt, phô mai, dầu, bia                                                                                    |
+| 🩷 **Hồng**                 | `9 Quà tặng`           | Đồ để tặng dân làng                                                                                                  |
+| 🟨 **Vàng**                 | `10 Công cụ Và Vũ khí` | Nhẫn, giày, vũ khí dự phòng chưa mặc/trang bị · đạn Ná · Bom · dùi cui, kiếm cũ chưa bán                             |
+| 🟤 **Nâu đất (terracotta)** | `11 Cổ vật`            | Cổ vật khảo cổ đào được (mũi tên đá, bình gốm cổ, mảnh hóa thạch...) — khác nhóm khoáng vật/đá quý đã có ở rương `2` |
 
-Cặp **xanh lá nhạt → xanh lá đậm** cố ý đi liền nhau: hạt giống nảy thành nông sản, nhìn là nhớ. **Tím cho hàng thủ công** vì đó là nhóm đắt nhất — thấy tím là biết "đồ này đem bán, đừng ăn đừng tặng".
+Cặp **xanh lá nhạt → xanh lá đậm** cố ý đi liền nhau: hạt giống nảy thành nông sản, nhìn là nhớ. **Tím cho hàng thủ công** vì đó là nhóm đắt nhất — thấy tím là biết "đồ này đem bán, đừng ăn đừng tặng". **Vàng cho Công cụ & Vũ khí** vì đó là nhóm hay lôi ra trước mỗi chuyến mỏ — màu sáng dễ thấy nhất trong kho. **Nâu đất cho Cổ vật** — tông màu gợi khảo cổ/đất đào lên, tách hẳn khỏi rương `2 Quặng & Đá quý` (khoáng vật) dù hai loại hay đào ra cùng lúc dưới mỏ.
+
+> [!info] Vì sao không có rương riêng cho 5 công cụ chính
+> Cuốc, Cuốc chim, Rìu, Bình tưới, Liềm **mỗi loại chỉ có đúng 1 cái/người chơi** (nâng cấp là đổi thẳng, không tạo bản sao) — nên không cần rương cất, chúng luôn nằm trong túi đồ. Rương `10 Công cụ & Vũ khí` chỉ dùng cho thứ **có thể có nhiều bản/không mặc thường xuyên**: nhẫn, giày, vũ khí đổi qua lại tuỳ tình huống (kiếm nhanh vs búa AoE), đạn dược.
+
+> [!info] Cổ vật vs Khoáng vật — dễ gộp nhầm
+> Game chia 2 nhóm khác nhau trong tab Thu thập (Collections): **Khoáng vật** (Minerals — Quặng, Đá quý, Geode...) và **Cổ vật** (Artifacts — đồ khảo cổ, thường đào từ điểm giun đất màu nâu hoặc rương kho báu). Cả hai đều cần cho gói Bảo tàng nhưng là 2 danh sách donate riêng — để chung 1 rương dễ lẫn lúc kiểm tra còn thiếu món nào.
+> Cổ vật **đã quyên góp Bảo tàng rồi mà đào trùng lại** thì mới nên giữ trong rương này (để bán hoặc tặng); cổ vật **chưa quyên góp** nên đưa thẳng vào rương `0 ĐỪNG BÁN` cho chắc, tránh lỡ tay bán trước khi kịp mang tới Gunther.
 
 ### Tầng 3 — rương Automate, để riêng một màu
 
