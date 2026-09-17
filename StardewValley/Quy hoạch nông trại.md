@@ -51,39 +51,52 @@
 
 > _Hai lớp khác nhau, cần cả hai: **màu** để nhìn từ xa lúc đứng trên farm, **tên** để tìm trong menu [[Mods#Chests Anywhere 1.30.1|Chests Anywhere]] / [[Mods#All Chests Menu 0.4.2|All Chests Menu]]._
 
-### Tầng 1 — 5 rương mở màn (làm ngay khi gom đủ 250 gỗ)
+### Tầng 1 — 4 rương mở màn (làm ngay khi gom đủ 200 gỗ)
 
-| Màu                   | Tên rương           | Chứa gì                                      | Vì sao màu đó     |
-| --------------------- | ------------------- | -------------------------------------------- | ----------------- |
-| 🟫 **Nâu** (mặc định) | `1 Nguyên liệu`     | Gỗ, Đá, Sợi, Đất sét, Nhựa cây, Gỗ cứng      | Màu gỗ nguyên bản |
-| ⬜ **Xám**             | `2 Quặng Và Đá quý` | Quặng, thỏi, than, geode, đá quý             | Màu đá            |
-| 🟩 **Xanh lá đậm**    | `3 Nông sản`        | Rau củ quả thu hoạch                         | Màu cây           |
-| 🟦 **Xanh dương**     | `4 Cá`              | Cá, rong, san hô, ốc sò                      | Màu nước          |
-| 🟥 **Đỏ**             | `0 ĐỪNG BÁN`        | Đồ giữ nộp Bảo tàng / bundle / quà sinh nhật | Đỏ = dừng tay     |
+| Màu | Tên rương | Chứa gì (chi tiết) | Vì sao màu đó |
+|---|---|---|---|
+| 🟫 **Nâu** (mặc định) | `1 Nguyên liệu` | Gỗ (Wood), Đá (Stone), Sợi (Fiber), Đất sét (Clay), Nhựa cây (Sap), Gỗ cứng (Hardwood) | Màu gỗ nguyên bản |
+| ⬜ **Xám** | `2 Quặng & Đá quý` | Quặng Đồng/Sắt/Vàng/Iridium · Than (Coal) · Thỏi Đồng/Sắt/Vàng/Iridium · Thạch anh (Quartz) · Thạch anh lửa (Fire Quartz) · Geode thường/đông lạnh/dung nham/Omni · Đá quý (Ngọc lục bảo, Hải lam, Hồng ngọc, Thạch anh tím, Topaz, Ngọc bích, Kim cương) | Màu đá |
+| 🟩 **Xanh lá đậm** | `3 Nông sản` | Rau củ quả thu hoạch từ ruộng theo mùa — xem bảng đầy đủ ở [[Daily#🌸 Tham khảo nhanh việc theo mùa|Daily]] | Màu cây |
+| 🟦 **Xanh dương** | `4 Cá` | Cá các loại · Rong biển (Seaweed) · Tảo trắng (White Algae) · San hô (Coral) · Nhím biển (Sea Urchin) · Trai/Sò/Hàu (Clam/Cockle/Mussel/Oyster) · Cua sông, Tôm càng, Ốc sông (Crab/Crayfish/Periwinkle) · Vỏ ốc xà cừ (Nautilus Shell) · Trứng cá thô (Roe) từ Hồ cá | Màu nước |
 
-> [!tien] Rương đỏ là cái đáng giá nhất trong bảng
-> [[Mẹo#🧩 Trung tâm Cộng đồng|Mẹo]] đã cảnh báo _"bán hết rồi mới phát hiện thiếu là rất mệt"_. Một cái rương **khác màu hẳn mọi rương còn lại** giải quyết trọn vấn đề đó — tay không bao giờ với nhầm, và lúc dồn đồ cuối ngày cũng không lỡ ship.
+> [!info] Không làm rương riêng cho "Đừng bán" — thay bằng 3 cách có thật
+> Cân nhắc rồi bỏ, giống lý do bỏ rương Quà tặng: đồ cần giữ (cổ vật/khoáng vật chưa donate, nông sản/cá phẩm cấp cao cho gói Cộng đồng) nằm sẵn trong đúng rương của nó (`10 Cổ vật`, `2 Quặng & Đá quý`, `3 Nông sản`...), không cần tách riêng. Để khỏi lỡ tay bán nhầm, dùng 3 cách **có thật trong mod đang cài**, không phải rương phụ:
+> - **Rê chuột vào vật phẩm — kể cả đang mở rương** — [[Mods#UI Info Suite 2 (v2.3.7, bản VH)|UI Info Suite 2]] tự hiện **icon Gunther** (chưa donate Bảo tàng), **icon thùng ship** (chưa ship lần nào) và **icon + tên gói** (còn thiếu gói Cộng đồng) ngay trên tooltip — không cần nhớ đã cất đâu, cứ rê chuột là biết. Đây là cách chính, gần như thay thế hẳn nhu cầu có rương riêng.
+> - **Giữ trong túi đồ tới khi donate/nộp gói xong** — đa số trường hợp trong ngày là mang đi nộp luôn (xem thói quen ở [[Daily#🔁 Routine mỗi ngày|Daily]]), chỉ bỏ vào rương khi túi đầy hoặc chưa kịp mang đi.
+> - **Bật `FilterItems`/`Description` trong [[Mods#All Chests Menu 0.4.2|All Chests Menu]]** rồi gõ tên món vào ô Filter khi mở `F2` — tìm ra món đó đang nằm ở đúng rương nào trong tích tắc.
 
 ### Tầng 2 — thêm khi kho phình (giữa Xuân → Hạ)
 
-| Màu                         | Tên rương              | Chứa gì                                                                                                              |
-| --------------------------- | ---------------------- | -------------------------------------------------------------------------------------------------------------------- |
-| 🟢 **Xanh lá nhạt**         | `5 Hạt Và Phân bón`    | Hạt giống, các loại phân                                                                                             |
-| 🟧 **Cam**                  | `6 Đồ lượm`            | Forage 4 mùa, nấm, hoa dại                                                                                           |
-| ⬜ **Trắng / kem**           | `7 Chăn nuôi`          | Trứng, sữa, len, lông                                                                                                |
-| 🟪 **Tím**                  | `8 Hàng thủ công`      | Rượu vang, mứt, phô mai, dầu, bia                                                                                    |
-| 🩷 **Hồng**                 | `9 Quà tặng`           | Đồ để tặng dân làng                                                                                                  |
-| 🟨 **Vàng**                 | `10 Công cụ Và Vũ khí` | Nhẫn, giày, vũ khí dự phòng chưa mặc/trang bị · đạn Ná · Bom · dùi cui, kiếm cũ chưa bán                             |
-| 🟤 **Nâu đất (terracotta)** | `11 Cổ vật`            | Cổ vật khảo cổ đào được (mũi tên đá, bình gốm cổ, mảnh hóa thạch...) — khác nhóm khoáng vật/đá quý đã có ở rương `2` |
+| Màu | Tên rương | Chứa gì (chi tiết) |
+|---|---|---|
+| 🟢 **Xanh lá nhạt** | `5 Hạt & Phân bón` | Hạt giống theo mùa · Giống cây ăn quả (Fruit Tree Sapling) · Phân bón thường/Chất lượng/Deluxe · Speed-Gro/Deluxe/Hyper Speed-Gro · Retaining Soil/Deluxe Retaining Soil · Phân bón cây (Tree Fertilizer) |
+| 🟧 **Cam** | `6 Đồ lượm` | **Xuân**: Hành dại, Củ cải ngựa dại, Bồ công anh, Tỏi tây, Thủy tiên · **Hạ**: Dâu gai (Spice Berry), Nho dại, Đậu Hà Lan thơm, Dương xỉ cuộn · **Thu**: Nấm thường, Mận dại, Phỉ (Hazelnut), Mâm xôi đen, Nấm Chanterelle · **Đông**: Củ cải đông, Quả pha lê, Khoai tuyết, Nghệ tây dại, Cây nhựa ruồi (Holly) · Nấm hang (nếu chọn Nấm cho hang farm) |
+| ⬜ **Trắng / kem** | `7 Chăn nuôi` | Trứng thường/Trứng to · Trứng vịt · Sữa/Sữa to · Sữa dê/Sữa dê to · Len (Wool) · Nấm cục (Truffle) · Chân thỏ (Rabbit's Foot) |
+| 🟪 **Tím** | `8 Hàng thủ công` | Rượu vang (Wine) · Nước ép trái cây (Juice) · Mứt (Jelly) · Phô mai/Phô mai dê · Dầu ô liu · Mật ong (kể cả loại hoa đặc biệt) · Bia nhạt/Bia đậm/Mead · Dưa muối (Pickles) · Trái cây/Nấm sấy khô · Cá xông khói · Nho khô (Raisins) · Trứng cá muối (Caviar) · Trứng cá ướp (Aged Roe) — 2 món cuối là Roe thô ở rương `4` đem ngâm Hũ mới ra |
+| 🟨 **Vàng** | `9 Công cụ & Vũ khí` | Nhẫn, giày, vũ khí dự phòng chưa mặc/trang bị · đạn Ná · Bom · dùi cui, kiếm cũ chưa bán |
+| 🟤 **Nâu đất (terracotta)** | `10 Cổ vật` | Cổ vật khảo cổ đào được (mũi tên đá, bình gốm cổ, mảnh hóa thạch...) — khác nhóm khoáng vật/đá quý đã có ở rương `2` |
+| ⬛ **Đen** | `11 Chiến lợi phẩm` | Slime · Thịt côn trùng (Bug Meat) · Cánh dơi (Bat Wing) · Tinh chất Mặt trời (Solar Essence) · Tinh chất Bóng tối (Void Essence) · Mảnh than hồng (Cinder Shard, ở Hầm Núi lửa) · Mảnh xương (Bone Fragment) — toàn bộ đều rơi ra khi **đánh quái**, không lượm được |
+| 🩵 **Xanh lơ nhạt** | `12 Trang phục` | Mũ, Áo, Quần/Váy (đồ Máy may) · Vải (Cloth, dệt từ Len ở Khung dệt) · nguyên liệu nhuộm ở Chum nhuộm |
 
-Cặp **xanh lá nhạt → xanh lá đậm** cố ý đi liền nhau: hạt giống nảy thành nông sản, nhìn là nhớ. **Tím cho hàng thủ công** vì đó là nhóm đắt nhất — thấy tím là biết "đồ này đem bán, đừng ăn đừng tặng". **Vàng cho Công cụ & Vũ khí** vì đó là nhóm hay lôi ra trước mỗi chuyến mỏ — màu sáng dễ thấy nhất trong kho. **Nâu đất cho Cổ vật** — tông màu gợi khảo cổ/đất đào lên, tách hẳn khỏi rương `2 Quặng & Đá quý` (khoáng vật) dù hai loại hay đào ra cùng lúc dưới mỏ.
+Cặp **xanh lá nhạt → xanh lá đậm** cố ý đi liền nhau: hạt giống nảy thành nông sản, nhìn là nhớ. **Tím cho hàng thủ công** vì đó là nhóm đắt nhất — thấy tím là biết "đồ này đem bán, đừng ăn đừng tặng". **Vàng cho Công cụ & Vũ khí** vì đó là nhóm hay lôi ra trước mỗi chuyến mỏ — màu sáng dễ thấy nhất trong kho. **Nâu đất cho Cổ vật** — tông màu gợi khảo cổ/đất đào lên, tách hẳn khỏi rương `2 Quặng & Đá quý` (khoáng vật) dù hai loại hay đào ra cùng lúc dưới mỏ. **Đen cho Chiến lợi phẩm** — tông tối gợi "quái vật/nguy hiểm", tách khỏi mọi rương còn lại vì đây là nhóm duy nhất chỉ có được qua chiến đấu. **Xanh lơ nhạt cho Trang phục** — tách khỏi Xanh dương (Cá) và Xanh ngọc (Automate) nhưng vẫn cùng tông "mềm mại" hợp với quần áo.
+
+> [!info] Không làm rương riêng cho Quà tặng
+> Cân nhắc rồi bỏ — quà tặng dân làng đa phần lấy trực tiếp từ rương sẵn có theo loại đồ (nông sản ở `3`, hàng thủ công ở `8`, đồ lượm ở `6`...), không cần gom riêng ra 1 rương nữa cho đỡ trùng lặp công sức cất/lấy 2 lần.
 
 > [!info] Vì sao không có rương riêng cho 5 công cụ chính
-> Cuốc, Cuốc chim, Rìu, Bình tưới, Liềm **mỗi loại chỉ có đúng 1 cái/người chơi** (nâng cấp là đổi thẳng, không tạo bản sao) — nên không cần rương cất, chúng luôn nằm trong túi đồ. Rương `10 Công cụ & Vũ khí` chỉ dùng cho thứ **có thể có nhiều bản/không mặc thường xuyên**: nhẫn, giày, vũ khí đổi qua lại tuỳ tình huống (kiếm nhanh vs búa AoE), đạn dược.
+> Cuốc, Cuốc chim, Rìu, Bình tưới, Liềm **mỗi loại chỉ có đúng 1 cái/người chơi** (nâng cấp là đổi thẳng, không tạo bản sao) — nên không cần rương cất, chúng luôn nằm trong túi đồ. Rương `9 Công cụ & Vũ khí` chỉ dùng cho thứ **có thể có nhiều bản/không mặc thường xuyên**: nhẫn, giày, vũ khí đổi qua lại tuỳ tình huống (kiếm nhanh vs búa AoE), đạn dược.
 
 > [!info] Cổ vật vs Khoáng vật — dễ gộp nhầm
 > Game chia 2 nhóm khác nhau trong tab Thu thập (Collections): **Khoáng vật** (Minerals — Quặng, Đá quý, Geode...) và **Cổ vật** (Artifacts — đồ khảo cổ, thường đào từ điểm giun đất màu nâu hoặc rương kho báu). Cả hai đều cần cho gói Bảo tàng nhưng là 2 danh sách donate riêng — để chung 1 rương dễ lẫn lúc kiểm tra còn thiếu món nào.
-> Cổ vật **đã quyên góp Bảo tàng rồi mà đào trùng lại** thì mới nên giữ trong rương này (để bán hoặc tặng); cổ vật **chưa quyên góp** nên đưa thẳng vào rương `0 ĐỪNG BÁN` cho chắc, tránh lỡ tay bán trước khi kịp mang tới Gunther.
+> Cổ vật **chưa quyên góp** nên mang thẳng đi donate Gunther trong ngày (giữ trong túi đồ), tránh lỡ tay bán; chỉ khi chưa kịp mang đi mới tạm bỏ vào rương `10 Cổ vật` này — rê chuột vào món đó (kể cả đang nằm trong rương) là [[Mods#UI Info Suite 2 (v2.3.7, bản VH)|UI Info Suite 2]] tự hiện icon Gunther báo chưa donate, khỏi cần sắp xếp thủ công. Cổ vật **đã quyên góp rồi mà đào trùng lại** thì cứ bỏ chung rương bình thường (để bán hoặc tặng).
+
+> [!warning]- Trang phục — chưa cần gấp trong Xuân Năm 1
+> Máy may (Sewing Machine) mở khá muộn — cần thân với Emily hoặc mua qua NPC đặc biệt, thường sau vài mùa chơi. Rương `12 Trang phục` có thể để trống lâu, chưa cần dựng ngay từ Tầng 2 — dựng lúc nào thật sự có Máy may cũng không muộn.
+> Nguồn: [Tailoring – Stardew Valley Wiki](https://stardewvalleywiki.com/Tailoring).
+
+> [!info] Nguồn danh sách vật phẩm
+> Chiến lợi phẩm quái vật tổng hợp từ [Monster Loot](https://stardewvalleywiki.com/Monster_Loot) và [Bat Wing](https://stardewvalleywiki.com/Bat_Wing) — riêng Cánh dơi **chỉ rơi khi đánh Dơi**, không liên quan tới việc chọn Hang Dơi/Nấm trên farm. Trứng cá muối/ướp xác nhận là **Hàng thủ công** (qua Hũ ngâm), Roe thô mới thuộc nhóm Cá — theo [Roe – Stardew Valley Wiki](https://stardewvalleywiki.com/Roe).
 
 ### Tầng 3 — rương Automate, để riêng một màu
 
