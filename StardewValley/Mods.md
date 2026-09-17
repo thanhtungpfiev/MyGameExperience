@@ -204,6 +204,16 @@ Thêm widget nâng cao cho GMCM, vốn chỉ có bật/tắt, ô số, ô chữ,
 | 🐮 **Nông trại** | Con nào **chưa vuốt** hôm nay · con nào **đã có sữa/lông** để lấy |
 | ➕ **Kỹ năng** | Điểm XP vừa nhận nổi lên tại chỗ |
 
+> [!success] Rê chuột vào vật phẩm — hoạt động cả khi đang mở rương
+> Ngoài cột icon cạnh đồng hồ, mod còn có tính năng riêng **"Show item hover information"** — rê chuột vào **bất kỳ vật phẩm nào** (túi đồ, đất, **hoặc đang mở một rương bất kỳ**) sẽ hiện thêm:
+> - Giá bán (và tổng giá nếu trỏ vào cả chồng)
+> - **Icon đầu Gunther** nếu món đó **chưa quyên góp Bảo tàng**
+> - **Icon thùng ship** nếu món đó **chưa từng ship lần nào** (tính cho Full Shipment)
+> - **Icon + tên gói** (màu theo phòng Trung tâm Cộng đồng) nếu món đó **còn cần cho 1 gói chưa nộp**
+>
+> Nhờ hoạt động cả trong menu rương nên **không cần rương "Đừng bán" riêng** — rê chuột vào bất kỳ món nào ở bất kỳ rương nào là biết ngay còn thiếu Bảo tàng/gói CĐ/Full Shipment hay không, xem thêm ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]].
+> Nguồn: [ShowItemHoverInformation.cs](https://github.com/Annosz/UIInfoSuite2/blob/master/UIInfoSuite2/UIElements/ShowItemHoverInformation.cs) — xác nhận hoạt động trong `ItemGrabMenu` (class game dùng cho mọi loại rương).
+
 > [!info] Vì sao có ngày không thấy icon thời tiết
 > Setting trong cấu hình mod tên **"Hiển thị những ngày mưa"** (`ShowRainyDay` trong code) — nghe tên tưởng chỉ báo mưa, nhưng thực chất là toggle **duy nhất** điều khiển icon thời tiết ngày mai, gồm cả bão sét/tuyết/mưa xanh. Ngày mai **nắng đẹp thì mod chủ động không vẽ icon nào**, không có icon "mặt trời" thay thế — đây là thiết kế gốc, không phải lỗi hay do bị tắt nhầm.
 > Nguồn: [ShowRainyDayIcon.cs](https://github.com/Annosz/UIInfoSuite2/blob/master/UIInfoSuite2/UIElements/ShowRainyDayIcon.cs) · [default.json (tên option)](https://github.com/Annosz/UIInfoSuite2/blob/master/UIInfoSuite2/i18n/default.json)
