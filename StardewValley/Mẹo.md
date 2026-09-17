@@ -241,7 +241,7 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 |------|----------|
 | `W` `A` `S` `D` | Di chuyển |
 | **Chuột trái** / ~~`C`~~ → **`G`** | **Dùng công cụ** — 🔧 đã tự đổi từ `C` sang `G` (xem lý do ở [[Mods#🎹 Bảng phím tắt nhanh|Mods — Bảng phím tắt nhanh]]) |
-| **Chuột phải** / `X` | **Kiểm tra / tương tác** (nói chuyện, mở cửa, thu hoạch) |
+| **Chuột phải** / `X` / **`V`** (mới thêm) | **Kiểm tra / tương tác** (nói chuyện, mở cửa, thu hoạch) — cầm vũ khí thì đây cũng là nút **đỡ đòn/đòn đặc biệt**. Đã gán thêm `V` làm phím phụ ở Tùy chọn → Điều khiển (giữ nguyên chuột phải, không xoá) vì chuột phải đang bị [[Mods#MouseMoveMode 1.4.4\|MouseMoveMode]] chiếm để di chuyển |
 | `1`…`9` `0` `-` `=` | Chọn ô đồ trên thanh công cụ |
 | `Tab` | Đổi hàng thanh công cụ (túi đồ có 3 hàng) |
 | `E` hoặc `Esc` | Mở túi đồ / menu · `Esc` cũng để tạm dừng, đóng menu |

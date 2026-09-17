@@ -56,6 +56,7 @@
 | `Ctrl` + lăn chuột | MouseMoveMode | Phóng to / thu nhỏ khung nhìn |
 | `RightAlt`+`Enter` | MouseMoveMode | Đổi toàn màn hình ↔ cửa sổ |
 | Nút giữa chuột | MouseMoveMode | Đòn đặc biệt của vũ khí (đã dời khỏi chuột phải) |
+| `V` | _(phím gốc game, tự đổi)_ | **Kiểm tra/tương tác** — gán thêm làm phím phụ cho "Action Button" (Tùy chọn → Điều khiển), dùng để **đỡ đòn/đòn đặc biệt vũ khí** bằng bàn phím thay vì nút giữa chuột. MouseMoveMode chỉ chặn đúng chuột phải vật lý nên phím này chạy y như game gốc, không đụng gì tới đi chuyển |
 
 > [!phim] Đối chiếu phím gốc của game trước khi gán
 > Bảng phím gốc đầy đủ ở [[Mẹo#⌨️ Phím tắt gốc của game (để tránh gán trùng khi cài mod)|Mẹo]].
@@ -80,11 +81,13 @@
 >
 > ✅ `C` đã hết trùng: đổi phím **"Dùng công cụ" (Use Tool)** của game từ `C`/chuột trái sang **`G`** (Tùy chọn → Điều khiển) — `C` giờ chỉ còn **UI Info Suite 2** dùng để mở Lịch, không còn tranh chấp với thao tác dùng công cụ (câu cá, cuốc, tưới...) nữa.
 >
-> **Còn `X` thì sao?** Vẫn để mặc định — phím phụ "kiểm tra" của game trùng ký tự với Experience Bars (ẩn/hiện thanh XP), nhưng hai thao tác này gần như không bao giờ cần bấm cùng lúc nên chưa cấp thiết phải đổi. Muốn đổi thì làm tương tự: chọn 1 trong các phím còn trống (`L`, `N`, `V`, `Z`) và gán trong GMCM cho Experience Bars.
+> **Còn `X` thì sao?** Vẫn để mặc định — phím phụ "kiểm tra" của game trùng ký tự với Experience Bars (ẩn/hiện thanh XP), nhưng hai thao tác này gần như không bao giờ cần bấm cùng lúc nên chưa cấp thiết phải đổi. Muốn đổi thì làm tương tự: chọn 1 trong các phím còn trống (`L`, `N`, `Z`) và gán trong GMCM cho Experience Bars.
 >
 > ✅ **`K` đã được gán:** Perfection Stats mặc định không có phím mở (`OpenMenuKey: "None"`), tab cúp trong menu bị lỗi vùng click (xem [[#Perfection Stats 1.6.7|mục Perfection Stats]]) nên đã gán phím **`K`** để mở thẳng, tránh dùng `O` (đang bị Range Highlight chiếm cho vùng Bù nhìn).
 >
-> **Phím trống còn lại sau khi trừ `K` (Perfection Stats):** `L`, `N`, `V`, `Z`.
+> ✅ **`V` đã được gán:** thêm làm phím phụ bàn phím cho "Action Button" gốc của game (Tùy chọn → Điều khiển, giữ nguyên chuột phải) — để đỡ đòn/đòn đặc biệt vũ khí trong mỏ bằng phím thay vì nút giữa chuột, vì chuột phải đang bận cho [[#MouseMoveMode 1.4.4|MouseMoveMode]] di chuyển. Đây là rebind **của chính game**, không phải của mod nào, nên không chiếm phím nào của mod khác.
+>
+> **Phím trống còn lại sau khi trừ `K` (Perfection Stats) và `V` (đỡ đòn):** `L`, `N`, `Z`.
 >
 > `M` là **phím gốc**: NPC Map Locations chỉ mở rộng chức năng bản đồ chứ không chiếm thêm phím.
 
