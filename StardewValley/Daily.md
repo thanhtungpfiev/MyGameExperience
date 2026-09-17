@@ -85,9 +85,9 @@ Mưa cả ngày (Năm 1 luôn mưa hôm nay) → khỏi tưới ruộng. **Pierr
 Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng mở — dùng để gom nguyên liệu.
 
 **Việc cần làm:**
-- [ ] Tưới Củ cải vàng lần cuối (mai hái)
-- [ ] Gom Gỗ, Đá, **Đất sét** (ra khi cuốc đất thường/điểm giun đất) cho: Rương (50 Gỗ) · Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) · Kho cỏ (100 Gỗ, 10 Đất sét, 5 Thỏi Đồng, 100g)
-- [ ] Chuẩn bị đồ ăn hồi máu + chừa ô túi trống cho chuyến mỏ ngày mai
+- [x] Tưới Củ cải vàng lần cuối (mai hái)
+- [x] Gom Gỗ, Đá, **Đất sét** (ra khi cuốc đất thường/điểm giun đất) cho: Rương (50 Gỗ) · Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) · Kho cỏ (100 Gỗ, 10 Đất sét, 5 Thỏi Đồng, 100g)
+- [x] Chuẩn bị đồ ăn hồi máu + chừa ô túi trống cho chuyến mỏ ngày mai
 
 **Lưu ý:**
 - ⚠️ Ngày mai phải vào Thị trấn từ Bến xe buýt, 08:00–13:00, **không mưa** mới mở được Trung tâm Cộng đồng — kiểm tra dự báo tối nay, mai mưa thì phải hoãn.
@@ -108,14 +108,14 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 | Khung giờ | 08:00–13:00 |
 
 **Việc cần làm:**
-- [ ] Ra khỏi nhà gặp Marnie, nhận thú cưng, đặt tên
-- [ ] Thu hoạch 15 Củ cải vàng (~35g/củ) — **giữ lại 1 củ** cho gói Cộng đồng
-- [ ] Đi Thị trấn đúng đường (Backwoods → Bến xe buýt → rẽ đông), xong **trước 13:00** → Lewis mở Trung tâm Cộng đồng
-- [ ] ⭐ **Vào hẳn bên trong** Trung tâm Cộng đồng (bảng gói còn là chữ Junimo, chưa đọc được — không sao, nhưng bước chân vào trong mới kích hoạt thư Pháp sư sáng mai; đứng ngoài xem cutscene rồi bỏ đi là kẹt cả dây chuyền)
-- [ ] Mua hạt ở Pierre bằng tiền vừa bán — chừa vốn cho Ngày 13
-- [ ] Xem Xe hàng rong ở Rừng Cindersap (Tháp Pháp sư hôm nay còn khóa, để Ngày 6)
-- [ ] Cày & gieo lại ruộng vừa thu hoạch, tưới
-- [ ] Xuống Hầm mỏ: nhặt rương **Kiếm Gỉ** ngay lối vào, đập đá lấy quặng Đồng, ưu tiên tìm thang xuống (cứ 5 tầng có thang máy)
+- [x] Ra khỏi nhà gặp Marnie, nhận thú cưng, đặt tên
+- [x] Thu hoạch 15 Củ cải vàng (~35g/củ) — **giữ lại 1 củ** cho gói Cộng đồng
+- [x] Đi Thị trấn đúng đường (Backwoods → Bến xe buýt → rẽ đông), xong **trước 13:00** → Lewis mở Trung tâm Cộng đồng
+- [x] ⭐ **Vào hẳn bên trong** Trung tâm Cộng đồng (bảng gói còn là chữ Junimo, chưa đọc được — không sao, nhưng bước chân vào trong mới kích hoạt thư Pháp sư sáng mai; đứng ngoài xem cutscene rồi bỏ đi là kẹt cả dây chuyền)
+- [x] Mua hạt ở Pierre bằng tiền vừa bán — chừa vốn cho Ngày 13
+- [x] Xem Xe hàng rong ở Rừng Cindersap (Tháp Pháp sư hôm nay còn khóa, để Ngày 6)
+- [x] Cày & gieo lại ruộng vừa thu hoạch, tưới
+- [x] Xuống Hầm mỏ: nhặt rương **Kiếm Gỉ** ngay lối vào, đập đá lấy quặng Đồng, ưu tiên tìm thang xuống (cứ 5 tầng có thang máy)
 
 **Lưu ý:**
 - Dây chuyền Trung tâm Cộng đồng mất 2 ngày, không gấp được: Ngày 5 vào trong CC → Ngày 6 sáng nhận thư Pháp sư → lên Tháp đọc chữ Junimo → lúc đó mới nộp gói được. **Ngày 5 chưa nộp được gói nào cả.**
