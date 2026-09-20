@@ -86,12 +86,12 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 
 **Việc cần làm:**
 - [x] Tưới Củ cải vàng lần cuối (mai hái)
-- [x] Gom Gỗ, Đá, **Đất sét** (ra khi cuốc đất thường/điểm giun đất) cho: Rương (50 Gỗ) · Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) · Kho cỏ (100 Gỗ, 10 Đất sét, 5 Thỏi Đồng, 100g)
+- [x] Gom Gỗ, Đá, **Đất sét** (ra khi cuốc đất thường/điểm giun đất) cho: Rương (50 Gỗ) · Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) · Kho cỏ (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g)
 - [x] Chuẩn bị đồ ăn hồi máu + chừa ô túi trống cho chuyến mỏ ngày mai
 
 **Lưu ý:**
 - ⚠️ Ngày mai phải vào Thị trấn từ Bến xe buýt, 08:00–13:00, **không mưa** mới mở được Trung tâm Cộng đồng — kiểm tra dự báo tối nay, mai mưa thì phải hoãn.
-- Kho cỏ chưa xây được hôm nay (5 Thỏi Đồng cần quặng đồng dưới mỏ, Ngày 5 mới mở) — thực tế dựng được khoảng Ngày 7–10, nhưng nên xây sớm nhất có thể.
+- Kho cỏ chưa xây được hôm nay (5 Thỏi Đồng cần quặng đồng dưới mỏ, Ngày 5 mới mở). **Không gấp** — cỏ khô chỉ dùng để nuôi gia súc (Chuồng gà/Chuồng bò), mà Chuồng gà tốn tới 4.000g nên khó xây được sớm trong mùa Xuân năm đầu. Ưu tiên đào mỏ, gom quặng, đặt Lò luyện trước; xây Kho cỏ khi nào rảnh tay, khoảng Ngày 7–10 cũng không sao.
 
 ---
 
