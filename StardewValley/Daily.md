@@ -126,26 +126,29 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 
 ### ☀️ Ngày 6 (Thứ Bảy) — 🏗️ ngày dựng nền móng
 
-**3 lá thư có thể tới sáng nay:**
+**2 lá thư có thể tới sáng nay:**
 
 | Thư của | Điều kiện | Nội dung |
 |---|---|---|
 | 🧙 Pháp sư (Rasmodius) | Hôm qua đã vào hẳn trong CC | Nhiệm vụ "Gặp Pháp sư" → mở khóa cửa tháp |
 | Clint | Đã nhặt quặng Đồng đầu tiên | Bản vẽ Lò luyện (25 Đá + 20 Quặng Đồng) |
-| Gunther | Đã nhặt cổ vật/khoáng vật đầu tiên | Mời quyên góp Bảo tàng |
 
 Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bên trong CC, quay lại vào một lượt.
+
+> [!info] Gunther KHÔNG gửi thư — tự đi vào Bảo tàng là được
+> Khác 2 người trên, Gunther không mời qua thư. Chỉ cần **mang theo bất kỳ cổ vật/khoáng vật nào trong túi đồ rồi bước vào Bảo tàng** (cạnh nhà Lewis) lần đầu tiên — Gunther tự ra chào và mời quyên góp ngay tại chỗ, không cần chờ thư báo trước.
+> Nguồn: [Gunther – Stardew Valley Wiki](https://stardewvalleywiki.com/Gunther).
 
 ⚠️ **Từ hôm nay thời tiết hết cố định** (Năm 1 chỉ ép sẵn Ngày 1–4) — trừ ngày lễ hội (13, 24) luôn nắng, còn lại ngẫu nhiên hoàn toàn.
 
 **Việc cần làm:**
-- [ ] Đặt Lò luyện (nếu có thư Clint), nấu Thỏi Đồng — 5 Quặng Đồng + 1 Than → 1 Thỏi, ~30 phút/mẻ, mỗi mẻ ăn 1 Than. Cần 25 quặng + 5 than cho đủ 5 Thỏi Đồng xây Kho cỏ
-- [ ] 🧙 Lên Tháp Pháp sư (Rừng Cindersap, tây hồ) **trước khi vào CC** — lấy khả năng đọc chữ Junimo (bắt buộc, chưa làm là chưa nộp gói được dù CC đã mở)
-- [ ] Vào CC đọc bảng gói — 4 nhóm gói làm được trong Xuân: **Lượm Xuân** (4 món nhặt dọc đường, dễ nhất) · **Cây Xuân** (Củ cải vàng/Đậu xanh/Súp lơ/Khoai tây, phải trồng đủ) · **Xây dựng** (99 Gỗ, 99 Gỗ, 99 Đá, 10 Gỗ Cứng — cần Rìu Đồng) · **Cá** (giữ 1 con mỗi loại)
-- [ ] Chế Rương (50 Gỗ) và Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) — từ 16 cây trở lên quạ bắt đầu phá ruộng
-- [ ] Đặt Robin xây Kho cỏ (100 Gỗ, 10 Đất sét, 5 Thỏi Đồng, 100g — Xưởng Mộc mở 09:00–18:00, nghỉ Thứ Ba, xây mất 2 ngày)
-- [ ] Ghé Bảng tin nhiệm vụ cạnh Pierre — thường chỉ cần mang 1 món, thưởng tiền + tình cảm gần như miễn phí
-- [ ] Xuống mỏ gom thêm quặng Đồng + đá nếu còn năng lượng
+- [x] Đặt Lò luyện (nếu có thư Clint), nấu Thỏi Đồng — 5 Quặng Đồng + 1 Than → 1 Thỏi, ~30 phút/mẻ, mỗi mẻ ăn 1 Than. Đồng nấu ra ưu tiên dùng nâng cấp Cuốc/Rìu trước, dư ra mới dành cho Kho cỏ (5 Thỏi)
+- [x] 🧙 Lên Tháp Pháp sư (Rừng Cindersap, tây hồ) **trước khi vào CC** — lấy khả năng đọc chữ Junimo (bắt buộc, chưa làm là chưa nộp gói được dù CC đã mở)
+- [x] Vào CC đọc bảng gói — 4 nhóm gói làm được trong Xuân: **Lượm Xuân** (4 món nhặt dọc đường, dễ nhất) · **Cây Xuân** (Củ cải vàng/Đậu xanh/Súp lơ/Khoai tây, phải trồng đủ) · **Xây dựng** (99 Gỗ, 99 Gỗ, 99 Đá, 10 Gỗ Cứng — cần Rìu Đồng) · **Cá** (giữ 1 con mỗi loại)
+- [x] Chế Rương (50 Gỗ) và Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) — từ 16 cây trở lên quạ bắt đầu phá ruộng
+- [ ] *(Không gấp)* Đặt Robin xây Kho cỏ nếu đã đủ nguyên liệu (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g — Xưởng Mộc mở 09:00–18:00, nghỉ Thứ Ba, xây mất 2 ngày) — chưa đủ thì để dành, xây trễ vài ngày không ảnh hưởng gì vì chưa có gia súc để ăn cỏ khô
+- [x] Ghé Bảng tin nhiệm vụ cạnh Pierre — thường chỉ cần mang 1 món, thưởng tiền + tình cảm gần như miễn phí
+- [x] Xuống mỏ gom thêm quặng Đồng + đá nếu còn năng lượng
 
 **Lưu ý:**
 - Địa thạch (Geode) đừng đập bừa, mang Clint mở (25g/viên), ưu tiên quyên góp Bảo tàng trước khi bán.
@@ -161,11 +164,11 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 > Chủ Nhật = công thức mới, Thứ Tư = chiếu lại. Bỏ lỡ Chủ Nhật thì phải chờ công thức đó quay lại ngẫu nhiên vào 1 Thứ Tư nào đó, có thể vài mùa sau. Kênh chiếu cả ngày, bật trước khi ngủ vẫn kịp.
 
 **Việc cần làm:**
-- [ ] Bật TV sớm (công thức mới)
-- [ ] Tìm Lewis tặng quà sinh nhật — ưu tiên làm sớm, ông đi lung tung cả ngày. Món Yêu thích chưa làm được trong Xuân Năm 1, cứ tặng món **Thích** bất kỳ (vẫn x8 điểm)
-- [ ] Xem Xe hàng rong (06:00–20:00): mua **Hạt Giống Hiếm** (~600–1.000g, ra Quả Ngọc Ngọt, chỉ trồng mùa Thu) và **Hạt Cổ Đại** nếu thấy — mua bằng mọi giá, cực hiếm. Xe chỉ bán không mua đồ của bạn, giá thường hét gấp 2–5 lần Pierre
-- [ ] Quyên góp Bảo tàng (Gunther) nếu đã có thư
-- [ ] Mua nốt hạt Khoai tây/Súp lơ/Đậu xanh ở Pierre cho gói Cây Xuân — càng sớm càng tốt vì Súp lơ mất 12 ngày mới chín
+- [x] Bật TV sớm (công thức mới)
+- [x] Tìm Lewis tặng quà sinh nhật — ưu tiên làm sớm, ông đi lung tung cả ngày. Món Yêu thích chưa làm được trong Xuân Năm 1, cứ tặng món **Thích** bất kỳ (vẫn x8 điểm)
+- [x] Xem Xe hàng rong (06:00–20:00): mua **Hạt Giống Hiếm** (~600–1.000g, ra Quả Ngọc Ngọt, chỉ trồng mùa Thu) và **Hạt Cổ Đại** nếu thấy — mua bằng mọi giá, cực hiếm. Xe chỉ bán không mua đồ của bạn, giá thường hét gấp 2–5 lần Pierre
+- [x] Quyên góp Bảo tàng (Gunther) nếu chưa vào lần nào — mang theo cổ vật/khoáng vật rồi bước vào là gặp ngay, không cần chờ thư
+- [x] Mua nốt hạt Khoai tây/Súp lơ/Đậu xanh ở Pierre cho gói Cây Xuân — càng sớm càng tốt vì Súp lơ mất 12 ngày mới chín
 
 **Lưu ý:**
 - Câu cá cấp 2 → Willy báo có Cần Sợi Thủy Tinh (1.800g) — cân đối túi tiền, không bắt buộc mua ngay.
@@ -175,7 +178,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 
 ### ☀️ Ngày 8 (Thứ Hai) — ⛏️ ngày cày mỏ
 
-Kho cỏ xong hôm nay nếu đặt từ Ngày 6. Trại Marnie nghỉ Thứ Hai & Ba.
+Kho cỏ xong hôm nay nếu đã đặt Robin từ Ngày 6 (không đặt cũng không sao, chưa cần gấp). Trại Marnie nghỉ Thứ Hai & Ba.
 
 **⛏️ Mốc trong mỏ:**
 
@@ -189,9 +192,9 @@ Kho cỏ xong hôm nay nếu đặt từ Ngày 6. Trại Marnie nghỉ Thứ Hai
 | 120 | 🎁 Chìa khóa Đầu lâu (còn xa) |
 
 **Việc cần làm:**
-- [ ] Xuống mỏ, mục tiêu cắm mốc thang máy **tầng 20–30**, nhặt 2 rương ở tầng 10 & 20
-- [ ] Diệt đủ 10 Slime → mở **Hội Phiêu lưu** ở Ngọn núi (14:00–22:00, bán kiếm/giày/nhẫn)
-- [ ] Nấu Thỏi Đồng ở Lò luyện nếu chưa đủ cho Kho cỏ
+- [x] Xuống mỏ, mục tiêu cắm mốc thang máy **tầng 20–30**, nhặt 2 rương ở tầng 10 & 20
+- [x] Diệt đủ 10 Slime → mở **Hội Phiêu lưu** ở Ngọn núi (14:00–22:00, bán kiếm/giày/nhẫn)
+- [x] *(Không gấp)* Nấu thêm Thỏi Đồng ở Lò luyện nếu dư quặng — ưu tiên vẫn là nâng cấp công cụ, Kho cỏ để sau
 
 **🔨 Thứ tự nâng cấp công cụ** (Clint, 09:00–16:00, mỗi lần 2.000g + 5 Thỏi Đồng, khóa công cụ 2 ngày): **Cuốc chim** → **Rìu** → **Bình tưới** (nâng đúng lúc TV báo mai mưa để không lỡ tưới) → **Cuốc**. 2.000g = 20 hạt Dâu tây, nên ưu tiên gom vốn Ngày 13 trước, nâng sau lễ hội.
 
@@ -214,10 +217,10 @@ Robin và Marnie cùng nghỉ Thứ Ba → không tiêu tiền được mấy, d
 Gieo Ngày 13 → chín Ngày 21 → tái thu hoạch 4 ngày/lứa → 2 lứa trước hết mùa, lời ~2,4 lần. Bón **Speed-Gro** (~100g, bón lúc gieo) rút còn 7 ngày → ăn thêm 1 lứa (3 lứa).
 
 **Việc cần làm:**
-- [ ] Quét đồ lượm 1 vòng: Rừng Cindersap → Thị trấn → Bãi biển → Ngọn núi — gom đủ 4 món cho gói **Lượm Xuân** (hết mùa là hết cơ hội tới Xuân sang năm)
-- [ ] Câu cá / xuống mỏ kiếm vốn — mục tiêu **3.000–5.000g** trước tối Ngày 12
-- [ ] Ghé Bảng tin nhiệm vụ
-- [ ] Trước khi ship, lọc giữ 1 con cá phẩm cấp cao nhất mỗi loại cho gói Cộng đồng + Bảo tàng
+- [x] Quét đồ lượm 1 vòng: Rừng Cindersap → Thị trấn → Bãi biển → Ngọn núi — gom đủ 4 món cho gói **Lượm Xuân** (hết mùa là hết cơ hội tới Xuân sang năm)
+- [x] Câu cá / xuống mỏ kiếm vốn — mục tiêu **3.000–5.000g** trước tối Ngày 12
+- [x] Ghé Bảng tin nhiệm vụ
+- [x] Trước khi ship, lọc giữ 1 con cá phẩm cấp cao nhất mỗi loại cho gói Cộng đồng + Bảo tàng
 
 **Lưu ý:** giữ lại Sợi (bù nhìn ăn 20 Sợi/cái). Túi đồ đầy thì cân nhắc nâng 24 ô ở Pierre (2.000g) nếu đã có trên 4.000g, không thì để sau Ngày 13.
 
@@ -235,7 +238,7 @@ Mốc 1/3 mùa Xuân. Pierre nghỉ, Nữ hoàng Nước sốt chiếu lại (c�
 |---|---|
 | 💰 Tiền | ≥ 3.000g, đang tăng |
 | 🌾 Ruộng | Kín cây, có Bù nhìn nếu >16 cây |
-| 🏗️ Công trình | Kho cỏ xong · Lò luyện chạy · ≥2 Rương |
+| 🏗️ Công trình | Lò luyện chạy · ≥2 Rương (Kho cỏ chưa cần, để sau khi có gia súc) |
 | ⛏️ Mỏ | Thang máy tầng 20–30 |
 | 🎣 Câu cá | Cấp 2+ |
 | 🧩 Gói CĐ | Lượm Xuân gần đủ · giữ 1 Củ cải vàng cho Cây Xuân |
@@ -255,10 +258,10 @@ Thiếu mục nào thì 3 ngày tới ưu tiên bù mục đó.
 | Súp lơ | 12 | Xuân 16 | — |
 
 **Việc cần làm:**
-- [ ] Tặng quà sinh nhật Vincent
-- [ ] Đối chiếu bảng chốt, chọn 1–2 mục yếu nhất để cày tiếp
-- [ ] Đặt Robin xây Kho cỏ nếu chưa (mở cửa Thứ Tư)
-- [ ] Gieo nốt Súp lơ (hạn chót Xuân 16)
+- [x] Tặng quà sinh nhật Vincent
+- [x] Đối chiếu bảng chốt, chọn 1–2 mục yếu nhất để cày tiếp
+- [x] *(Tùy chọn, không gấp)* Đặt Robin xây Kho cỏ nếu dư tiền/nguyên liệu và muốn xây trước — chưa có gia súc thì để hẳn sang khi định xây Chuồng gà/Chuồng bò cũng được
+- [x] Gieo nốt Súp lơ (hạn chót Xuân 16)
 
 > [!warning] Chuẩn bị Ngày 13 — Lễ hội Trứng (còn 3 ngày)
 > - 09:00–14:00 ở Quảng trường Thị trấn, luôn nắng.
