@@ -7,19 +7,19 @@
 > [!video] Nguồn
 > Playlist **"VICTORIA 3 Hướng dẫn"** — kênh [Hải Gà](https://www.youtube.com/@haigagta5), 10 video, đăng 12/2022, tổng khoảng 81 phút. Chơi bản Việt hóa, phe **Đại Nam**.
 > Tóm tắt dưới đây rút từ bản chép lời (phụ đề tự động tiếng Việt) của từng video. Phụ đề tự động nên vài chỗ nghe không rõ (đánh dấu ❓) — **chưa đối chiếu với file game**, chỉ nên dùng làm gợi ý tổng quan.
+>
+> Playlist thực chất làm thành 2 đợt: đợt đầu (video "Cách cân đối...") là mấy clip mẹo lẻ, đợt sau (video "Hướng dẫn tổng quan...") là loạt phủ đủ 5 mục chính đã giới thiệu ở video giao diện — nên 2 cặp video bị trùng nội dung khá nhiều. Đã **gộp mỗi cặp trùng thành một mục** dưới đây thay vì tách riêng: mục Tài chính (gộp 2 video) và mục Thị trường (gộp 2 video).
 
 ## 📑 Mục lục
 
 1. [[#1️⃣ Các chỉ số cơ bản trong game (8:48)|Chỉ số cơ bản]]
 2. [[#2️⃣ Giao diện, cơ chế, tính năng cơ bản (6:48)|Giao diện cơ bản]]
-3. [[#3️⃣ Cân đối tài chính, tiền vàng — kinh tế & quân đội (8:37)|Tài chính & quân đội]]
-4. [[#4️⃣ Cân đối xuất khẩu, nhập khẩu và sản xuất (5:39)|Xuất nhập khẩu]]
+3. [[#3️⃣ Tài chính — thuế, chi phí, tiền vàng, quân đội (gộp 2 video, ~15 phút)|Tài chính]]
+4. [[#4️⃣ Thị trường — xuất khẩu, nhập khẩu, sản xuất (gộp 2 video, ~13 phút)|Thị trường]]
 5. [[#5️⃣ Ngoại giao an toàn và chiếm đóng nước khác (7:38)|Ngoại giao]]
 6. [[#6️⃣ Chính trị — luật pháp, chính quyền, đảng phái, hành chính (8:00)|Chính trị]]
 7. [[#7️⃣ Kiến trúc — xây dựng, nông nghiệp, công nghiệp, ngành nghề (8:49)|Kiến trúc]]
 8. [[#8️⃣ Quân sự — chiêu binh, lục quân, hải quân, chiếm đóng, tấn công (13:09)|Quân sự]]
-9. [[#9️⃣ Thị trường — mua bán, xuất khẩu, nhập khẩu (7:07)|Thị trường]]
-10. [[#🔟 Tài chính tổng quan — thuế, chi phí, tiền bạc (6:35)|Tài chính tổng quan]]
 
 ---
 
@@ -50,28 +50,35 @@ Các chỉ số ở góc trên bên trái màn hình đánh giá tổng thể qu
 - Góc dưới phải: thông báo sự kiện, biến cố trong nước và thế giới có ảnh hưởng tới mình.
 - 5 mục trung tâm màn hình (mỗi mục có clip riêng, xem các phần dưới): (1) **Xây dựng** — nông nghiệp/tài nguyên/công nghiệp; (2) **Chính trị** — kiến trúc chính phủ, pháp lệnh, địa khu hành động (ngoại giao vùng đất); (3) **Quân sự** — kiến trúc quân đội, lục quân, hải quân; (4) **Mậu dịch** — cảng biển, đường sắt, xuất/nhập khẩu.
 
-## 3️⃣ Cân đối tài chính, tiền vàng — kinh tế & quân đội (8:37)
+## 3️⃣ Tài chính — thuế, chi phí, tiền vàng, quân đội (gộp 2 video, ~15 phút)
 
-[VICTORIA 3 Cách cân đối TÀI CHÍNH, TIỀN VÀNG xây dựng KINH TẾ và QUÂN ĐỘI](https://www.youtube.com/watch?v=AOUPGKoRjF0)
+> [!video] Nguồn (2 video trùng nội dung, đã gộp)
+> - [VICTORIA 3 Cách cân đối TÀI CHÍNH, TIỀN VÀNG xây dựng KINH TẾ và QUÂN ĐỘI](https://www.youtube.com/watch?v=AOUPGKoRjF0) (8:37) — clip mẹo làm trước.
+> - [VICTORIA 3 Hướng dẫn tổng quan về TÀI CHÍNH thuế, chi phí, tiền bạc](https://www.youtube.com/watch?v=xGWH50XSpvw) (6:35) — clip tổng quan làm sau, giảng lại gần như cùng nội dung 5 mức thuế + thuế theo ngành + xem theo địa khu.
 
-- 5 mức thuế — tăng thuế thu nhiều tiền hơn nhưng mất lòng dân; giảm thuế ngược lại.
+- Ngân sách mỗi kỳ = **tổng thuế thu được − tổng chi ra**. 5 mức thuế — tăng thuế thu nhiều tiền hơn nhưng mất lòng dân; giảm thuế ngược lại. Cân đối theo thời điểm (cần tiền gấp, có chiến sự thì tăng thuế tạm thời).
 - **Dự trữ (reserve):** khi ngân sách âm, tiền bị trừ vào khoản dự trữ tích lũy trước đó chứ chưa phá sản ngay. Hết sạch dự trữ mới **tuyên bố phá sản** (kéo theo giảm tấn công/phòng thủ).
 - **Thuế thu nhập theo đầu người:** tăng theo dân số và diện tích chiếm được.
 - **Thuế ngành nghề (production tax):** đánh thuế riêng từng loại hàng hóa, đem nhiều tiền nhưng tốn 100–300 điểm quyền uy mỗi lần áp.
 - **Thuế quan (tariff):** thu từ xuất/nhập khẩu, tăng thêm 10%/lần qua nghiên cứu khoa học kỹ thuật; một số điều ước ngoại giao (ví dụ ép nước chiếm được) cũng cho thêm thuế.
 - Chi ra chủ yếu hai khoản: **lương chính phủ** và **lương quân đội** (mỗi khoản 5 mức) — tăng thì bộ máy/quân đội mạnh hơn nhưng tốn tiền hơn.
 - **Cống nạp (lệ thuộc nước lớn):** trả một khoản tiền/tài nguyên để nước lớn không đụng tới mình, đổi lại có thể rảnh tay thu phục các nước nhỏ khác trong khu vực.
-- **Địa khu (state):** mỗi vùng quản lý có thu/chi riêng — cần cân đối tổng thể, không nhất thiết vùng nào cũng phải dương.
+- **Địa khu (state):** mỗi vùng quản lý có thu/chi riêng, xem được chi tiết theo từng vùng — vùng nào chi nhiều/lỗ thì tối ưu lại bộ máy hành chính ở đó thay vì tăng thuế chung; không nhất thiết vùng nào cũng phải dương.
+- Đẩy thuế lên mức tối đa có thể tăng thu rất mạnh (ví dụ x2 trong video) nhưng đánh đổi giảm mức sống, tính hợp pháp và nhiều chỉ số khác — không nên giữ lâu dài.
 
-## 4️⃣ Cân đối xuất khẩu, nhập khẩu và sản xuất (5:39)
+## 4️⃣ Thị trường — xuất khẩu, nhập khẩu, sản xuất (gộp 2 video, ~13 phút)
 
-[VICTORIA 3 Cách cân đối XUẤT KHẨU, NHẬP KHẨU và SẢN XUẤT](https://www.youtube.com/watch?v=FfjNfPEis8A)
+> [!video] Nguồn (2 video trùng nội dung, đã gộp)
+> - [VICTORIA 3 Cách cân đối XUẤT KHẨU, NHẬP KHẨU và SẢN XUẤT](https://www.youtube.com/watch?v=FfjNfPEis8A) (5:39) — clip mẹo làm trước.
+> - [VICTORIA 3 Hướng dẫn tổng quan THỊ TRƯỜNG mua bán, xuất khẩu, nhập khẩu](https://www.youtube.com/watch?v=uTjE2bmL3UI) (7:07) — clip tổng quan làm sau, giảng lại gần như y nguyên bài học xuất/nhập khẩu để bình ổn giá.
 
-- Thị trường gồm mọi loại hàng hóa/nhu yếu phẩm (nông nghiệp, công nghiệp, vũ khí...) mà dân cần và mà chiến tranh cần.
+- Thị trường gồm mọi loại hàng hóa/nhu yếu phẩm (nông nghiệp, công nghiệp, vũ khí...) mà dân cần và mà chiến tranh cần. Màn hình thị trường liệt kê sẵn hàng **dư thừa** (nên xuất khẩu) và hàng **thiếu hụt** (nên nhập khẩu), sắp theo mức độ dư/thiếu nhiều nhất.
 - **Hàng dư** → giá giảm, nên **xuất khẩu** để bình ổn giá và kiếm tiền. **Hàng thiếu** → giá tăng cao, dân bất mãn, nên **nhập khẩu** để kéo giá xuống mức trung bình.
 - Xuất/nhập khẩu tốn điểm **hành chính** — không nên bấm hàng loạt cùng lúc, nên làm từ từ.
 - Cần đủ **số lượng tàu vận chuyển (convoy)** để chở hàng; thiếu tàu thì phải nâng cấp bến cảng và mua thêm tàu.
 - Nếu bỏ mặc giá giảm quá sâu vì dư thừa kéo dài, xưởng/nông trường sản xuất mặt hàng đó sẽ **lỗ vốn, hoạt động kém hiệu quả** — nên chủ động xuất khẩu ngay khi thấy dư để giữ giá ổn định cho nhà sản xuất trong nước.
+- Mục **thành viên/địa khu**: theo dõi GDP, tỷ lệ lao động, luật riêng của từng vùng quản lý; mỗi vùng có thể có **đặc thù riêng** (ví dụ +10% sản lượng củi đốt) tùy tài nguyên vùng đó.
+- ❓ Ở video tổng quan, đoạn ~1:00–2:00 phụ đề tự động lỗi/thiếu, không rõ nội dung — nên xem lại video gốc nếu cần đoạn này.
 
 ## 5️⃣ Ngoại giao an toàn và chiếm đóng nước khác (7:38)
 
@@ -108,25 +115,6 @@ Các chỉ số ở góc trên bên trái màn hình đánh giá tổng thể qu
 - Lục quân tổ chức theo **tiểu đoàn (battalion)**; mỗi tướng quản lý một số tiểu đoàn ở một hoặc nhiều vùng, có giới hạn tối đa tiểu đoàn/tướng (ví dụ tối đa 20).
 - Mỗi tướng có **thuộc tính/skill riêng** (thiên về tấn công, phòng thủ, khám phá, xây dựng...), có thể **nâng quân hàm** (tốn điểm hành chính, đổi lại tăng nhiều chỉ số quân đội), khích lệ tinh thần, hoặc **cho xuất ngũ** khi hết tuổi phục vụ.
 - Có thể đổi loại quân (bộ binh ⇄ pháo binh...) — loại mạnh hơn (như pháo binh) tăng tấn công/phòng thủ nhưng làm **chi phí quân đội** tăng theo.
-- Thiếu vũ khí/pháo tự sản xuất thì có thể **nhập khẩu** qua thị trường (xem mục 4, 9).
+- Thiếu vũ khí/pháo tự sản xuất thì có thể **nhập khẩu** qua thị trường (xem mục 4).
 - **Chiêu mộ (recruit)** thêm quân khi cần bổ sung lực lượng, có giới hạn tối đa quân có thể chiêu mộ cùng lúc.
 - Ngoại giao quân sự: có thể **xin bảo hộ** từ nước lớn (đổi lại lệ thuộc — xem mục 5) hoặc chủ động điều quân **chiếm lại lãnh thổ đã mất**. Đánh một nước có nhiều đồng minh/liên minh quân sự dễ kéo cả khối vào cuộc chiến với mình.
-
-## 9️⃣ Thị trường — mua bán, xuất khẩu, nhập khẩu (7:07)
-
-[VICTORIA 3 Hướng dẫn tổng quan THỊ TRƯỜNG mua bán, xuất khẩu, nhập khẩu](https://www.youtube.com/watch?v=uTjE2bmL3UI)
-
-- Màn hình thị trường liệt kê hàng **dư thừa** (nên xuất khẩu) và hàng **thiếu hụt** (nên nhập khẩu), sắp xếp theo mức độ dư/thiếu nhiều nhất.
-- Xuất khẩu tốn điểm hành chính và cần đủ **tàu vận chuyển** — thiếu tàu thì nâng cấp bến cảng, mua thêm tàu (trùng với lưu ý ở mục 4).
-- Mục **thành viên/địa khu**: theo dõi GDP, tỷ lệ lao động, luật riêng của từng vùng quản lý; mỗi vùng có thể có **đặc thù riêng** (ví dụ +10% sản lượng củi đốt) tùy tài nguyên vùng đó.
-- ❓ Đoạn ~1:00–2:00 phụ đề tự động lỗi/thiếu, không rõ nội dung — nên xem lại video gốc nếu cần đoạn này.
-
-## 🔟 Tài chính tổng quan — thuế, chi phí, tiền bạc (6:35)
-
-[VICTORIA 3 Hướng dẫn tổng quan về TÀI CHÍNH thuế, chi phí, tiền bạc](https://www.youtube.com/watch?v=xGWH50XSpvw)
-
-- Ngân sách mỗi kỳ = **tổng thuế thu được − tổng chi ra** (chính phủ, quân đội, phúc lợi/trợ cấp, ngoại giao...). Hai khoản chi lớn nhất đầu game thường là **chính phủ** và **quân đội**.
-- Thuế cao → thu nhiều tiền nhưng dân kém vui; thuế thấp → dân vui hơn nhưng thu ít — cân đối theo nhu cầu từng thời điểm (cần tiền gấp, có chiến sự thì tăng thuế tạm thời).
-- Có thể đánh **thuế riêng theo ngành nghề** ngoài thuế thu nhập chung.
-- Mục **địa khu (state)** cho xem chi tiết thu/chi từng vùng quản lý — vùng nào đang chi nhiều/lỗ thì tối ưu lại bộ máy hành chính ở đó thay vì tăng thuế chung.
-- Đẩy thuế lên mức tối đa có thể tăng thu rất mạnh (ví dụ x2 trong video) nhưng đánh đổi giảm mức sống, tính hợp pháp và nhiều chỉ số khác — không nên giữ lâu dài.
