@@ -3,7 +3,7 @@
   "enabledCssSnippets": [
     "stardew-callouts"
   ],
-  "interfaceFontFamily": "CaskaydiaCove Nerd Font",
-  "textFontFamily": "CaskaydiaCove Nerd Font",
+  "interfaceFontFamily": "Cascadia Code NF",
+  "textFontFamily": "Cascadia Code NF",
   "monospaceFontFamily": "Fira Code"
 }
