@@ -12,7 +12,7 @@
 
 ## 🌸 Xuân
 
-**Đã câu 16 / 21 loại** câu được mùa Xuân ở những chỗ đã vào được (không tính rong, tảo, sứa và mục 🔒).
+**Đã câu 17 / 21 loại** câu được mùa Xuân ở những chỗ đã vào được (không tính rong, tảo, sứa và mục 🔒).
 
 ### 🌊 Biển (Bãi biển)
 
@@ -56,7 +56,7 @@ Bạn đã xuống tới **tầng 70** → tầng 20 và 60 đều câu được
 | ✅ | Cá | Nơi | Cấp tối thiểu |
 |---|---|---|---|
 | [x] | Cá ma (Ghostfish) 🧩 | ao tầng 20 · 60 | — |
-| [ ] | **Cá đá (Stonefish)** | ao tầng 20 | 3 |
+| [x] | Cá đá (Stonefish) | ao tầng 20 | 3 |
 | [ ] | **Ice Pip** | ao tầng 60 | 5 |
 | [ ] | Lươn dung nham (Lava Eel) | ao tầng 100 — _chưa tới_ | 7 |
 | [ ] | Thạch hang động (Cave Jelly) — _sứa, mới từ 1.6_ | ao tầng 20 · 60 (rất hiếm) · dung nham tầng 100 (dễ hơn) | — |
@@ -87,7 +87,8 @@ Bạn đã xuống tới **tầng 70** → tầng 20 và 60 đều câu được
 ### 🎯 Còn làm được trong Xuân này
 
 - [ ] **Cá bống** — ra thác nước Rừng Cindersap, 08:00–18:00, ngày nào cũng được.
-- [ ] **Cá đá** (tầng 20) + **Ice Pip** (tầng 60) — tiện ghé khi đi mỏ, dùng thang máy xuống thẳng.
+- [x] **Cá đá** (tầng 20)
+- [ ] **Ice Pip** (tầng 60) — tiện ghé khi đi mỏ, dùng thang máy xuống thẳng; tỉ lệ thấp (~5%/lần cắn), xem khung Hầm mỏ ở trên.
 - [ ] **Legend** — cần ngày mưa + buff +3 Câu cá (xem khung trên).
 - Cá trê, Lươn, Cá trích sông (🌧️) đều đã có — ngày mưa còn lại cứ dồn cho Legend.
 
