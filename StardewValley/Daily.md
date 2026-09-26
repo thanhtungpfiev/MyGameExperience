@@ -1,6 +1,6 @@
 # 📅 Nhật ký theo ngày — Nông trại Tiêu chuẩn (Standard Farm)
 
-> Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Mods [[Mods]] · Bản đồ [[Bản đồ khu vực]] · Bố cục farm [[Quy hoạch nông trại]] · Bí mật theo ngày [[Bí mật & Sự kiện ẩn]]
+> Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Mods [[Mods]] · Bản đồ [[Bản đồ khu vực]] · Bố cục farm [[Quy hoạch nông trại]] · Bí mật theo ngày [[Bí mật & Sự kiện ẩn]] · Cá theo mùa [[Câu cá theo mùa]]
 >
 > _Ghi chi tiết mỗi ngày làm gì. Bắt đầu từ Ngày 1, Năm 1, mùa Xuân. Bản rút gọn — đã gộp phần "Việc cần làm" và "Checklist" cũ thành một, bỏ các ý lặp lại mỗi ngày (xem mục Routine bên dưới)._
 >
@@ -527,6 +527,8 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **🎂 Sinh nhật:** 4 Kent (⚠️ **vắng mặt cả Năm 1**, đi lính tới Xuân Năm 2 mới về — bỏ qua) · 7 Lewis · 10 Vincent · 14 Haley · 18 Pam · 20 Shane · 26 Pierre · 27 Emily.
 
 **🧩 Gói Cộng đồng theo mùa:** Lượm Xuân (phòng Thủ công) · Cây Xuân (phòng Đựng thức ăn) — lỡ mùa nào phải chờ đúng mùa đó năm sau.
+
+**🎣 Cá:** ngày mưa ưu tiên Cá trê · Cá trích sông · Lươn; Legend chỉ có ở Xuân — bảng đầy đủ & con còn thiếu ở [[Câu cá theo mùa#🌸 Xuân|Câu cá — Xuân]].
 
 **🔮 Bí mật:** 17 Chum vàng cuối cầu vồng · 28 lúc 12:00 Thú bông Junimo — xem [[Bí mật & Sự kiện ẩn#🌸 Xuân|Bí mật — Xuân]].
 

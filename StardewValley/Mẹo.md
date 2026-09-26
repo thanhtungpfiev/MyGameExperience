@@ -132,7 +132,7 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 
 - Ăn món tăng **Câu cá** (vd: Súp Cá Hồi / Trout Soup) trước khi câu ở khu khó.
 - Gắn **Phao Bẫy (Trap Bobber)** để cá ít tụt, **Phao Bần (Cork Bobber)** để thanh câu dài hơn.
-- **Câu lúc mưa** để bắt cá đặc biệt; tra cá theo mùa/khung giờ/khu vực trên wiki.
+- **Câu lúc mưa** để bắt cá đặc biệt; cá theo mùa/khung giờ/khu vực và danh sách còn thiếu xem [[Câu cá theo mùa]].
 - **Bẫy Cua (Crab Pot)** + mồi cho hải sản thụ động — kết hợp nghề **Thủy thủ (Mariner)** để bẫy không dính rác.
 - Cá phẩm cấp cao đem **ủ thành cá muối / nấu ăn** thường lời hơn bán thô.
 
