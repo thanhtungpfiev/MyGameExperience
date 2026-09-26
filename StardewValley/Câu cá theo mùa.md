@@ -59,6 +59,22 @@ Bạn đã xuống tới **tầng 70** → tầng 20 và 60 đều câu được
 | [ ] | **Cá đá (Stonefish)** | ao tầng 20 | 3 |
 | [ ] | **Ice Pip** | ao tầng 60 | 5 |
 | [ ] | Lươn dung nham (Lava Eel) | ao tầng 100 — _chưa tới_ | 7 |
+| [ ] | Thạch hang động (Cave Jelly) — _sứa, mới từ 1.6_ | ao tầng 20 · 60 (rất hiếm) · dung nham tầng 100 (dễ hơn) | — |
+
+> [!info] Vì sao cá mỏ khó ra — không phải do minigame, mà do **tỉ lệ cắn câu**
+> Soi code game 1.6.15 (`MineShaft.getFish`): mỗi lần cá cắn, game tung **1 lần xúc xắc riêng** cho cá của tầng đó; trượt thì rơi về danh sách thường của mỏ (Cá ma, tảo…).
+>
+> | Cá | Tỉ lệ mỗi lần cắn | Ở cấp 7, quăng xa bờ |
+> |---|---|---|
+> | Cá đá (tầng 20) | 2% + 1% × k | **~6%** |
+> | Ice Pip (tầng 60) | 1,5% + 0,9% × k | **~5%** |
+> | Lươn dung nham (tầng 100) | 1% + 0,8% × k | ~4% |
+>
+> với **k = 1 + 0,4 × cấp Câu cá + 0,1 × độ sâu nước** (quăng càng xa bờ càng sâu). Tức là **~20 lần cắn mới ra 1 con Ice Pip**.
+>
+> **Tăng tỉ lệ:** Phao **Tò mò (Curiosity Lure)** cộng k **+5** (Ice Pip lên ~10%) — cần Cần Iridium · **Mồi riêng loài** làm từ chính con cá đó ở **Máy làm mồi (Bait Maker)** cộng k **+10** (lên ~14%) · cả hai → ~19%. Quăng hết tầm cho nước sâu.
+>
+> **Thạch hang động:** ở tầng 20/60 chỉ ra khi xúc xắc cá mỏ trượt **và** các món thường phía trước cũng không rơi — nên cực hiếm. Ở **dung nham tầng 100**, hễ không ra Lươn dung nham là có **5% + 5% × Luck** ra Thạch, còn lại là rác → **để dành tới tầng 100 hãy săn**. Cần tập (Training Rod) dưới mỏ chỉ câu ra rác.
 
 ### 🔒 Chưa vào được
 
