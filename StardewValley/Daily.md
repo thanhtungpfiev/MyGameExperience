@@ -277,10 +277,10 @@ Thiếu mục nào thì 3 ngày tới ưu tiên bù mục đó.
 Ngày trống — dồn sức cho Lễ hội Trứng còn 2 ngày nữa.
 
 **Việc cần làm:**
-- [ ] Câu cá / xuống mỏ kiếm nốt vốn cho mục tiêu 3.000–5.000g (xem bảng Ngày 9)
-- [ ] Kiểm tra lại ruộng: Khoai tây/Cải xoăn hạn chót gieo Xuân 22, Đậu xanh hạn Xuân 18 — nếu chưa gieo thì tranh thủ vài ngày tới
-- [ ] Quyên góp Bảo tàng nốt số khoáng vật/cổ vật đang giữ
-- [ ] Ghé Bảng tin nhiệm vụ
+- [x] Câu cá / xuống mỏ kiếm nốt vốn cho mục tiêu 3.000–5.000g (xem bảng Ngày 9)
+- [x] Kiểm tra lại ruộng: Khoai tây/Cải xoăn hạn chót gieo Xuân 22, Đậu xanh hạn Xuân 18 — nếu chưa gieo thì tranh thủ vài ngày tới
+- [x] Quyên góp Bảo tàng nốt số khoáng vật/cổ vật đang giữ
+- [x] Ghé Bảng tin nhiệm vụ
 
 **Lưu ý:** đừng tiêu hết tiền hôm nay — để dành nguyên cho hạt Dâu tây Ngày 13.
 
@@ -291,9 +291,9 @@ Ngày trống — dồn sức cho Lễ hội Trứng còn 2 ngày nữa.
 Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm) — cứ **Thứ Sáu & Chủ Nhật** xe mới về, không phải ngày nào cũng có.
 
 **Việc cần làm:**
-- [ ] Ghé xe hàng rong: ưu tiên mua **Hạt Giống Hiếm** (~1.000g, chắc chắn có hàng Xuân/Hạ) và **Hạt Cổ Đại** nếu thấy — hàng ngẫu nhiên, hết là hết, giá hét gấp 2–5 lần Pierre nên cân nhắc túi tiền
-- [ ] Chốt lại vốn cho ngày mai — kiểm tra đã đạt 3.000–5.000g chưa
-- [ ] Tưới ruộng, thu hoạch nếu có nông sản chín
+- [x] Ghé xe hàng rong: ưu tiên mua **Hạt Giống Hiếm** (~1.000g, chắc chắn có hàng Xuân/Hạ) và **Hạt Cổ Đại** nếu thấy — hàng ngẫu nhiên, hết là hết, giá hét gấp 2–5 lần Pierre nên cân nhắc túi tiền
+- [x] Chốt lại vốn cho ngày mai — kiểm tra đã đạt 3.000–5.000g chưa
+- [x] Tưới ruộng, thu hoạch nếu có nông sản chín
 
 **Lưu ý:** Xe không mua lại đồ của bạn, chỉ bán — đừng mang cá/khoáng vật ra định bán ở đây.
 
@@ -304,12 +304,12 @@ Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm)
 **09:00–14:00, Quảng trường Thị trấn, luôn nắng. Nhà/cửa hàng toàn thị trấn đóng cửa hôm nay.**
 
 **Việc cần làm:**
-- [ ] Tưới ruộng **trước 09:00** — đi lễ hội cả buổi, về tới nhà thường đã tối
-- [ ] Mang toàn bộ tiền mặt theo người
-- [ ] Mua **hạt Dâu tây ở Pierre — 100g/hạt, cả năm chỉ bán đúng hôm nay** — theo ngân sách đã gom (xem bảng Ngày 9)
-- [ ] Tham gia **Săn trứng** lúc 12:00: 50 giây, nhặt đủ **9 quả trước Abigail** để thắng **Mũ Rơm** (chỉ thắng lần đầu, các lần sau đổi Vé Thưởng)
-- [ ] Sau 14:00 về farm: **cày + gieo + tưới toàn bộ hạt Dâu tây vừa mua ngay trong hôm nay** — trễ 1 ngày là trễ cả lứa
-- [ ] Nói chuyện với dân làng có mặt ở lễ hội — cơ hội tăng tình cảm tiện thể
+- [x] Tưới ruộng **trước 09:00** — đi lễ hội cả buổi, về tới nhà thường đã tối
+- [x] Mang toàn bộ tiền mặt theo người
+- [x] Mua **hạt Dâu tây ở Pierre — 100g/hạt, cả năm chỉ bán đúng hôm nay** — theo ngân sách đã gom (xem bảng Ngày 9)
+- [x] Tham gia **Săn trứng** lúc 12:00: 50 giây, nhặt đủ **9 quả trước Abigail** để thắng **Mũ Rơm** (chỉ thắng lần đầu, các lần sau đổi Vé Thưởng)
+- [x] Sau 14:00 về farm: **cày + gieo + tưới toàn bộ hạt Dâu tây vừa mua ngay trong hôm nay** — trễ 1 ngày là trễ cả lứa
+- [x] Nói chuyện với dân làng có mặt ở lễ hội — cơ hội tăng tình cảm tiện thể
 
 **Lưu ý:**
 - Dâu tây gieo hôm nay → chín **Ngày 21** → tái thu hoạch mỗi 4 ngày → hái thêm lứa 2 khoảng **Ngày 25** trước khi hết mùa.
@@ -323,10 +323,10 @@ Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm)
 **3 việc cùng lúc hôm nay** — công thức Nữ hoàng Nước sốt mới (Chủ Nhật), sinh nhật Haley, xe hàng rong về lại (06:00–20:00).
 
 **Việc cần làm:**
-- [ ] Bật TV sớm xem công thức mới
-- [ ] Tìm Haley tặng quà sinh nhật — hay lang thang quanh nhà cô (phía bắc Thị trấn) hoặc Bãi biển buổi chiều nắng đẹp; chưa biết món Yêu thích thì tặng món **Thích** bất kỳ (vẫn x8 điểm). Haley đầu game khó tính, đồ trang trí/hoa dễ trúng gu hơn nông sản
-- [ ] Ghé xe hàng rong nếu còn Hạt Giống Hiếm/Cổ Đại chưa mua
-- [ ] Tưới ruộng, kiểm tra Dâu tây (còn 7 ngày mới chín)
+- [x] Bật TV sớm xem công thức mới
+- [x] Tìm Haley tặng quà sinh nhật — hay lang thang quanh nhà cô (phía bắc Thị trấn) hoặc Bãi biển buổi chiều nắng đẹp; chưa biết món Yêu thích thì tặng món **Thích** bất kỳ (vẫn x8 điểm). Haley đầu game khó tính, đồ trang trí/hoa dễ trúng gu hơn nông sản
+- [x] Ghé xe hàng rong nếu còn Hạt Giống Hiếm/Cổ Đại chưa mua
+- [x] Tưới ruộng, kiểm tra Dâu tây (còn 7 ngày mới chín)
 
 **Lưu ý:** đừng tặng quà 2 lần trong 1 tuần cho cùng 1 người (kể cả sinh nhật) — chỉ tính hiệu quả tình cảm 2 lần/tuần/người, phần dư vẫn nhận được nhưng không cộng điểm thêm.
 
@@ -337,9 +337,9 @@ Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm)
 Dâu rừng (Salmonberry) chỉ mọc trên bụi cây quanh Rừng Cindersap/Thị trấn đúng **4 ngày: 15–18** — qua ngày 19 là hết cả năm.
 
 **Việc cần làm:**
-- [ ] Quét bụi Dâu rừng dọc Rừng Cindersap khi có thời gian rảnh — vừa lượm free vừa ra kinh nghiệm Lượm, có thể góp gói Cộng đồng liên quan
-- [ ] Việc thường ngày: tưới ruộng, câu cá/xuống mỏ tùy năng lượng còn lại
-- [ ] Kiểm tra lại 2 hạn gieo sắp tới: Đậu xanh (hạn 18, đã trễ nếu chưa gieo) và Khoai tây/Cải xoăn (hạn 22)
+- [x] Quét bụi Dâu rừng dọc Rừng Cindersap khi có thời gian rảnh — vừa lượm free vừa ra kinh nghiệm Lượm, có thể góp gói Cộng đồng liên quan
+- [x] Việc thường ngày: tưới ruộng, câu cá/xuống mỏ tùy năng lượng còn lại
+- [x] Kiểm tra lại 2 hạn gieo sắp tới: Đậu xanh (hạn 18, đã trễ nếu chưa gieo) và Khoai tây/Cải xoăn (hạn 22)
 
 ---
 
@@ -348,9 +348,9 @@ Dâu rừng (Salmonberry) chỉ mọc trên bụi cây quanh Rừng Cindersap/Th
 Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đặt xây/mua thú cưng được hôm nay.
 
 **Việc cần làm:**
-- [ ] Dồn hẳn qua mỏ/câu cá/lượm Dâu rừng (còn 2 ngày cuối)
-- [ ] Nếu chưa nâng cấp công cụ, đây là ngày rảnh hợp lý để mang tới Clint (Thứ Ba anh vẫn mở, 09:00–16:00) — nhớ 2.000g + 5 Thỏi Đồng, khóa công cụ 2 ngày
-- [ ] Quyên góp Bảo tàng nốt số đang giữ
+- [x] Dồn hẳn qua mỏ/câu cá/lượm Dâu rừng (còn 2 ngày cuối)
+- [x] Nếu chưa nâng cấp công cụ, đây là ngày rảnh hợp lý để mang tới Clint (Thứ Ba anh vẫn mở, 09:00–16:00) — nhớ 2.000g + 5 Thỏi Đồng, khóa công cụ 2 ngày
+- [x] Quyên góp Bảo tàng nốt số đang giữ
 
 ---
 
@@ -359,10 +359,10 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 **Sự kiện mới:** sau cơn mưa, cầu vồng có thể xuất hiện ở **thác nước gần Nhà hoang (Abandoned House), Rừng Cindersap**. Bấm vào chum vàng ở chân cầu vồng để nhận **Mũ Yêu Tinh Lùn (Leprechaun Hat)** + ít vàng. Vật phẩm không bán được, chỉ để trưng/sưu tập.
 
 **Việc cần làm:**
-- [ ] Nếu tối qua có dự báo mưa, tranh thủ ghé qua thác nước cạnh Nhà hoang kiểm tra cầu vồng
-- [ ] Pierre nghỉ Thứ Tư — đừng định mua hạt hôm nay
-- [ ] Ngày cuối mùa Dâu rừng — lượm nốt nếu còn thời gian
-- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
+- [x] Nếu tối qua có dự báo mưa, tranh thủ ghé qua thác nước cạnh Nhà hoang kiểm tra cầu vồng
+- [x] Pierre nghỉ Thứ Tư — đừng định mua hạt hôm nay
+- [x] Ngày cuối mùa Dâu rừng — lượm nốt nếu còn thời gian
+- [x] Việc thường ngày: tưới ruộng, mỏ/câu cá
 
 **Lưu ý:** đây là mốc thời gian tương đối theo bản 1.6 (sự kiện mới), không bắt buộc phải săn — bỏ lỡ cũng không ảnh hưởng tiến trình chính.
 
