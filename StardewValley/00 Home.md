@@ -9,6 +9,7 @@
 - [[Mẹo]] — Nguyên tắc nền tảng, 5 nghề, kiếm tiền theo giai đoạn, kết bạn, Trung tâm Cộng đồng.
 - [[Bản đồ khu vực]] — Ảnh bản đồ từng khu + sơ đồ kết nối + từ điển địa danh Anh–Việt.
 - [[Quy hoạch nông trại]] — Bản đồ farm ban đầu, mẫu bố cục tham khảo, nguyên tắc sắp xếp.
+- [[Bí mật & Sự kiện ẩn]] — Sự kiện game không báo trước theo ngày/mùa, Stardrop, khu vực ẩn, Ghi chú bí mật.
 
 **Ghi chú kỹ thuật (đọc khi cần):**
 

@@ -1,6 +1,6 @@
 # 📅 Nhật ký theo ngày — Nông trại Tiêu chuẩn (Standard Farm)
 
-> Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Mods [[Mods]] · Bản đồ [[Bản đồ khu vực]] · Bố cục farm [[Quy hoạch nông trại]]
+> Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Mods [[Mods]] · Bản đồ [[Bản đồ khu vực]] · Bố cục farm [[Quy hoạch nông trại]] · Bí mật theo ngày [[Bí mật & Sự kiện ẩn]]
 >
 > _Ghi chi tiết mỗi ngày làm gì. Bắt đầu từ Ngày 1, Năm 1, mùa Xuân. Bản rút gọn — đã gộp phần "Việc cần làm" và "Checklist" cũ thành một, bỏ các ý lặp lại mỗi ngày (xem mục Routine bên dưới)._
 >
@@ -479,6 +479,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - [ ] Bật TV xem công thức mới lần cuối trong mùa
 - [ ] Thu hoạch/bán **toàn bộ** nông sản còn lại trên ruộng — qua đêm nay mọi cây ngoài trời sẽ chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất, phải trồng lại mùa sau)
 - [ ] Ghé xe hàng rong lần cuối (Rare Seed gần như chắc chắn còn hàng) nếu còn dư tiền
+- [ ] 🔮 **Đúng 12:00 trưa** (12:00–12:09) ra rung **bụi cây phía trên sân chơi** (góc tây bắc Thị trấn) → **Thú bông Junimo**, chỉ 1 lần/save; lỡ thì chờ ngày 28 mùa sau — xem [[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật — Mọi mùa]]
 - [ ] Không cần dọn đất trước — đất tự "cày lại" khi bước sang mùa mới, cây chết sẽ biến mất
 - [ ] Đối chiếu lại toàn bộ gói Cộng đồng mùa Xuân (**Lượm Xuân, Cây Xuân, Cá, Xây dựng**) — cái nào dở dang thì phải chờ... một số gói không giới hạn theo mùa (Cá/Xây dựng vẫn nộp được quanh năm), riêng **Cây Xuân** lỡ là phải chờ Xuân năm sau
 - [ ] Chuẩn bị hạt giống Hạ cần mua ngay sáng mai ở Pierre: ưu tiên **Việt quất** (lãi cao) và **Hoa bia** (nếu định ủ Bia Nhạt)
@@ -527,6 +528,8 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **🧩 Gói Cộng đồng theo mùa:** Lượm Xuân (phòng Thủ công) · Cây Xuân (phòng Đựng thức ăn) — lỡ mùa nào phải chờ đúng mùa đó năm sau.
 
+**🔮 Bí mật:** 17 Chum vàng cuối cầu vồng · 28 lúc 12:00 Thú bông Junimo — xem [[Bí mật & Sự kiện ẩn#🌸 Xuân|Bí mật — Xuân]].
+
 ### ☀️ Hạ
 
 | Cây trồng | Giá hạt | Ngày lớn | Giá bán | Tái thu hoạch | Lời/ngày (thô) |
@@ -544,6 +547,8 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **🎂 Sinh nhật:** 4 Jas · 8 Gus · 10 Maru · 13 Alex · 17 Sam · 19 Demetrius · 22 Chú lùn (Dwarf, ⚠️ phải giải cứu dưới mỏ + học tiếng Lùn mới tặng quà được) · 24 Willy · 26 Leo (⚠️ sống ở Đảo Gừng, cần thân với 3 chim vẹt + 6 tim mới dọn vào đất liền — khó gặp sớm).
 
 **🧩 Gói Cộng đồng theo mùa:** Lượm Hạ · Cây Hạ.
+
+**🔮 Bí mật:** 11 Quần đùi tím vào nồi súp Luau · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#☀️ Hạ|Bí mật — Hạ]].
 
 ### 🍂 Thu
 
@@ -564,6 +569,8 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **🧩 Gói Cộng đồng theo mùa:** Lượm Thu · Cây Thu.
 
+**🔮 Bí mật:** 16 Quần đùi tím ở gian Grange (750 Vé Sao) + mua Stardrop 2.000 Vé Sao · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#🍂 Thu|Bí mật — Thu]].
+
 - ⚠️ Cuối Thu (26–28): dọn cây chết, mua đủ hạt cho vụ Đông/Nhà kính, ship hết nông sản trước khi đổi mùa.
 
 ### ❄️ Đông
@@ -572,6 +579,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - Vẫn lượm được — đào điểm giun đất, xem [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
 - Mùa tốt nhất để nâng cấp công cụ (không mất buổi tưới ruộng nào).
 - **🧩 Gói Cộng đồng theo mùa:** chỉ có Lượm Đông (phòng Thủ công) — Đông **không có** gói Cây trồng riêng.
+- **🔮 Bí mật:** ⭐ 06:00–16:00 đi từ Farm sang Bến xe buýt gặp bóng đen → **Kính lúp** (mở Ghi chú bí mật) · đêm 24 đặt Sữa/Bánh quy lên bàn → Hộp bí ẩn · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#❄️ Đông|Bí mật — Đông]].
 
 **🎉 Lễ hội:** Lễ hội Băng (8, câu cá dưới băng lấy vé) · Đại tiệc Sao Đông (25, tặng quà bí mật + đấu giá đêm khuya).
 
