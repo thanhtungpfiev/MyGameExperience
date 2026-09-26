@@ -528,7 +528,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **🧩 Gói Cộng đồng theo mùa:** Lượm Xuân (phòng Thủ công) · Cây Xuân (phòng Đựng thức ăn) — lỡ mùa nào phải chờ đúng mùa đó năm sau.
 
-**🎣 Cá:** ngày mưa ưu tiên Cá trê · Cá trích sông · Lươn; Legend chỉ có ở Xuân — bảng đầy đủ & con còn thiếu ở [[Câu cá theo mùa#🌸 Xuân|Câu cá — Xuân]].
+**🎣 Cá:** ngày mưa ưu tiên Cá trê · Cá trích dày mình · Lươn; Cá huyền thoại (Legend) chỉ có ở Xuân — bảng đầy đủ & con còn thiếu ở [[Câu cá theo mùa#🌸 Xuân|Câu cá — Xuân]].
 
 **🔮 Bí mật:** 17 Chum vàng cuối cầu vồng · 28 lúc 12:00 Thú bông Junimo — xem [[Bí mật & Sự kiện ẩn#🌸 Xuân|Bí mật — Xuân]].
 

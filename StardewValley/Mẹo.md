@@ -137,16 +137,16 @@ Mua ở Tiệm Cá của Willy. Điều kiện mở bán lấy từ file game 1.
 | **Cần tre (Bamboo Pole)** | Willy tặng đầu game · 500g nếu mua lại | có sẵn | — | cần khởi đầu |
 | **Cần tập (Training Rod)** | 25g | có sẵn | — | **chỉ câu được cá độ khó < 50** (code game) — dễ, nhưng không ra cá khó; dưới mỏ chỉ câu ra rác |
 | **Cần Sợi Thủy Tinh (Fiberglass Rod)** | 1.800g | cấp Câu cá **gốc** ≥ 2 | 1 Mồi | |
-| **Cần Iridium (Iridium Rod)** | 7.500g | cấp Câu cá **gốc** ≥ 6 | 1 Mồi + 1 Phao | phao: Bẫy (cá tụt chậm), Bần (thanh to), Tò mò (Curiosity Lure — tăng cá hiếm)… |
+| **Cần Iridium (Iridium Rod)** | 7.500g | cấp Câu cá **gốc** ≥ 6 | 1 Mồi + 1 Phao | phao: Phao hút (Trap Bobber — cá tụt chậm), Phao nút chai (Cork Bobber — thanh to), Phao mồi kì lạ (Curiosity Lure — tăng cá hiếm)… |
 | **Cần Iridium nâng cao (Advanced Iridium Rod)** | 25.000g | đã mở **Mastery Câu cá** | 1 Mồi + 2 Phao | mới từ 1.6, cuối game |
 
-- ⚠️ **"Gốc" = không tính buff đồ ăn** — cửa hàng kiểm tra `PLAYER_BASE_FISHING_LEVEL`. Ngược với điều kiện câu Legend (có tính buff), xem [[Câu cá theo mùa]].
-- Đang bật `InstantCatch` thì **Phao gần như vô dụng** (phao chỉ giúp trong minigame) — trừ **Phao Tò mò**, vì nó tăng tỉ lệ **cá hiếm cắn câu** chứ không dính tới minigame.
+- ⚠️ **"Gốc" = không tính buff đồ ăn** — cửa hàng kiểm tra `PLAYER_BASE_FISHING_LEVEL`. Ngược với điều kiện câu Cá huyền thoại (có tính buff), xem [[Câu cá theo mùa]].
+- Đang bật `InstantCatch` thì **Phao gần như vô dụng** (phao chỉ giúp trong minigame) — trừ **Phao mồi kì lạ (Curiosity Lure)**, vì nó tăng tỉ lệ **cá hiếm cắn câu** chứ không dính tới minigame.
 
 ### Mẹo chung
 
 - Ăn món tăng **Câu cá** (vd: Súp Cá Hồi / Trout Soup) trước khi câu ở khu khó.
-- Gắn **Phao Bẫy (Trap Bobber)** để cá ít tụt, **Phao Bần (Cork Bobber)** để thanh câu dài hơn.
+- Gắn **Phao hút (Trap Bobber)** để cá ít tụt, **Phao nút chai (Cork Bobber)** để thanh câu dài hơn.
 - **Câu lúc mưa** để bắt cá đặc biệt; cá theo mùa/khung giờ/khu vực và danh sách còn thiếu xem [[Câu cá theo mùa]].
 - **Bẫy Cua (Crab Pot)** + mồi cho hải sản thụ động — kết hợp nghề **Thủy thủ (Mariner)** để bẫy không dính rác.
 - Cá phẩm cấp cao đem **ủ thành cá muối / nấu ăn** thường lời hơn bán thô.
