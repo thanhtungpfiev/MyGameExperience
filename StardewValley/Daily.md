@@ -356,15 +356,15 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 
 ### ☀️ Ngày 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)
 
-**Sự kiện mới:** sau cơn mưa, cầu vồng có thể xuất hiện ở **thác nước gần Nhà hoang (Abandoned House), Rừng Cindersap**. Bấm vào chum vàng ở chân cầu vồng để nhận **Mũ Yêu Tinh Lùn (Leprechaun Hat)** + ít vàng. Vật phẩm không bán được, chỉ để trưng/sưu tập.
+**Sự kiện ẩn (từ bản 1.6), game không báo trước:** cầu vồng hiện ở **phía nam Rừng Cindersap, gần thác nước cạnh Nhà hoang (Abandoned House** — nhà Chuột bán mũ). Bấm vào **chum vàng** ở chân cầu vồng → rơi ra **Mũ Leprechaun (Leprechaun Hat)** + **8 đồng xu vàng × 25g = 200g** (Năm 1; mỗi năm sau thêm 1 đồng). Chi tiết & các bí mật khác: [[Bí mật & Sự kiện ẩn#🌸 Xuân|Bí mật — Xuân]].
 
 **Việc cần làm:**
-- [x] Nếu tối qua có dự báo mưa, tranh thủ ghé qua thác nước cạnh Nhà hoang kiểm tra cầu vồng
+- [x] Ghé chân cầu vồng cạnh Nhà hoang, bấm chum vàng lấy mũ + 200g — **chỉ cần đúng ngày Xuân 17, không cần mưa**; chum chỉ có hôm nay, sang Ngày 18 là mất
 - [x] Pierre nghỉ Thứ Tư — đừng định mua hạt hôm nay
 - [x] Ngày cuối mùa Dâu rừng — lượm nốt nếu còn thời gian
 - [x] Việc thường ngày: tưới ruộng, mỏ/câu cá
 
-**Lưu ý:** đây là mốc thời gian tương đối theo bản 1.6 (sự kiện mới), không bắt buộc phải săn — bỏ lỡ cũng không ảnh hưởng tiến trình chính.
+**Lưu ý:** không bắt buộc — lỡ thì chờ Xuân 17 năm sau (lặp mỗi năm, năm nào cũng rơi lại mũ). Không ảnh hưởng tiến trình chính.
 
 ---
 
