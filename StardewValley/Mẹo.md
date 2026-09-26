@@ -128,6 +128,21 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 - Mua cần rồi nhớ mua kèm **Mồi (Bait)** chỗ Willy — không có mồi thì cần xịn cũng chỉ đỡ mỏi tay chút.
 - ⚙️ **Máy bạn đang bật `InstantCatch`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → cần xịn **gần như không còn tác dụng gì** (cá cắn là dính, khỏi đánh minigame). Cái duy nhất còn đáng tiền là **chỗ gắn mồi/phao**, mà mồi cũng chỉ để cá cắn nhanh hơn. Nghĩa là **1.800g này hoàn toàn có thể hoãn vô thời hạn** — trừ khi bạn định tắt cheat để chơi câu cá thật.
 
+### 🎣 Các loại cần câu
+
+Mua ở Tiệm Cá của Willy. Điều kiện mở bán lấy từ file game 1.6.15 (`Data/Shops`); giá theo wiki.
+
+| Cần | Giá | Mở bán khi | Gắn được | Ghi chú |
+|---|---|---|---|---|
+| **Cần tre (Bamboo Pole)** | Willy tặng đầu game · 500g nếu mua lại | có sẵn | — | cần khởi đầu |
+| **Cần tập (Training Rod)** | 25g | có sẵn | — | **chỉ câu được cá độ khó < 50** (code game) — dễ, nhưng không ra cá khó; dưới mỏ chỉ câu ra rác |
+| **Cần Sợi Thủy Tinh (Fiberglass Rod)** | 1.800g | cấp Câu cá **gốc** ≥ 2 | 1 Mồi | |
+| **Cần Iridium (Iridium Rod)** | 7.500g | cấp Câu cá **gốc** ≥ 6 | 1 Mồi + 1 Phao | phao: Bẫy (cá tụt chậm), Bần (thanh to), Tò mò (Curiosity Lure — tăng cá hiếm)… |
+| **Cần Iridium nâng cao (Advanced Iridium Rod)** | 25.000g | đã mở **Mastery Câu cá** | 1 Mồi + 2 Phao | mới từ 1.6, cuối game |
+
+- ⚠️ **"Gốc" = không tính buff đồ ăn** — cửa hàng kiểm tra `PLAYER_BASE_FISHING_LEVEL`. Ngược với điều kiện câu Legend (có tính buff), xem [[Câu cá theo mùa]].
+- Đang bật `InstantCatch` thì **Phao gần như vô dụng** (phao chỉ giúp trong minigame) — trừ **Phao Tò mò**, vì nó tăng tỉ lệ **cá hiếm cắn câu** chứ không dính tới minigame.
+
 ### Mẹo chung
 
 - Ăn món tăng **Câu cá** (vd: Súp Cá Hồi / Trout Soup) trước khi câu ở khu khó.
