@@ -75,9 +75,11 @@
 > | `Shift trái` | Đi bộ chậm (gốc) · Range Highlight (giữ) · Lookup Anything (`Shift`+`F1`) · All Chests Menu (chuyển đồ) · Better Crafting (mở menu gốc) |
 > | `Space` | NPC Map Locations (chỉ khi **đang mở bản đồ**) · MouseMoveMode (ép đi) |
 > | `F` | Nhật ký nhiệm vụ (gốc) · Better Crafting (chỉ **trong menu chế tạo**) |
-> | `Tab` | Đổi hàng thanh công cụ (gốc) · NPC Map Locations (chỉ khi đang mở bản đồ) |
+> | ~~`Tab`~~ → **`N`** (mới đổi) | Đổi hàng thanh công cụ (gốc) · NPC Map Locations (chỉ khi đang mở bản đồ) |
 >
 > ✅ `H` đã hết trùng: Bảng nhiệm vụ đổi sang `Q`, giờ `H` chỉ còn **Range Highlight** dùng.
+>
+> ✅ **`Tab` đã đổi sang `N`:** phím "Đổi hàng thanh công cụ" (Change Toolbar Row) tưởng như không hoạt động, nhưng thật ra là **vô hiệu đúng theo thiết kế** chứ không phải lỗi hay xung đột — phím này chỉ có tác dụng khi túi đồ có **từ 2 hàng trở lên**. Túi đồ khởi đầu chỉ có **1 hàng 12 ô**; phải mua nâng cấp **Túi lớn (Large Pack, 2.000g ở Pierre)** lên 24 ô (2 hàng) trở lên thì `Tab` mới có gì để đảo. Do bấm không ra tác dụng nên đã đổi hẳn sang phím **`N`** (Tùy chọn → Điều khiển) cho chắc, không liên quan gì tới việc `Tab` trùng ký tự với NPC Map Locations ở trên (mod đó chỉ chiếm `Tab` khi đang mở bản đồ, không đụng lúc chơi bình thường).
 >
 > ✅ `C` đã hết trùng: đổi phím **"Dùng công cụ" (Use Tool)** của game từ `C`/chuột trái sang **`G`** (Tùy chọn → Điều khiển) — `C` giờ chỉ còn **UI Info Suite 2** dùng để mở Lịch, không còn tranh chấp với thao tác dùng công cụ (câu cá, cuốc, tưới...) nữa.
 >
@@ -87,7 +89,7 @@
 >
 > ✅ **`V` đã được gán:** thêm làm phím phụ bàn phím cho "Action Button" gốc của game (Tùy chọn → Điều khiển, giữ nguyên chuột phải) — để đỡ đòn/đòn đặc biệt vũ khí trong mỏ bằng phím thay vì nút giữa chuột, vì chuột phải đang bận cho [[#MouseMoveMode 1.4.4|MouseMoveMode]] di chuyển. Đây là rebind **của chính game**, không phải của mod nào, nên không chiếm phím nào của mod khác.
 >
-> **Phím trống còn lại sau khi trừ `K` (Perfection Stats) và `V` (đỡ đòn):** `L`, `N`, `Z`.
+> **Phím trống còn lại sau khi trừ `K` (Perfection Stats), `V` (đỡ đòn), `N` (Đổi hàng thanh công cụ):** `L`, `Z`.
 >
 > `M` là **phím gốc**: NPC Map Locations chỉ mở rộng chức năng bản đồ chứ không chiếm thêm phím.
 
