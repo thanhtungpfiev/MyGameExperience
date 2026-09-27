@@ -220,7 +220,7 @@ Mua ở Tiệm Cá của Willy. Điều kiện mở bán lấy từ file game 1.
 
 - Tặng **quà Yêu thích (Loved)** 2 lần/tuần cho mỗi dân làng (tra sở thích bằng Lookup Anything — xem [[Mods]]).
 - Quà "an toàn" cho hầu hết mọi người: **Chân Thỏ (Rabbit's Foot)**, các loại **hoa lượm**.
-- **Sinh nhật: tặng đúng ngày = x8 điểm tình cảm** — hiệu quả nhất, đừng bỏ lỡ. Quà sinh nhật **vẫn tính vào** hạn 2 lần/tuần.
+- **Sinh nhật: tặng đúng ngày = x8 điểm tình cảm** — hiệu quả nhất, đừng bỏ lỡ. Quà sinh nhật **vẫn được đếm** vào 2 lần/tuần, nhưng **không bị chặn** bởi nó: đúng ngày sinh nhật thì luôn tặng được dù tuần đó đã đủ 2 quà (vẫn giới hạn 1 quà/ngày).
 - **Đại tiệc Sao Đông (25 Đông):** chọn quà xịn cho người được bốc thăm.
 
 ### Mốc hẹn hò & cưới

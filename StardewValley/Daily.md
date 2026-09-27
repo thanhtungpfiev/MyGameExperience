@@ -328,7 +328,7 @@ Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm)
 - [x] Ghé xe hàng rong nếu còn Hạt Giống Hiếm/Cổ Đại chưa mua
 - [x] Tưới ruộng, kiểm tra Dâu tây (còn 7 ngày mới chín)
 
-**Lưu ý:** đừng tặng quà 2 lần trong 1 tuần cho cùng 1 người (kể cả sinh nhật) — chỉ tính hiệu quả tình cảm 2 lần/tuần/người, phần dư vẫn nhận được nhưng không cộng điểm thêm.
+**Lưu ý:** mỗi người nhận tối đa **2 quà/tuần** (tuần tính từ Chủ Nhật) và **1 quà/ngày** — quá hạn thì họ **từ chối, không nhận** chứ không phải nhận mà không cộng điểm. **Ngoại lệ: đúng ngày sinh nhật thì luôn tặng được**, kể cả đã đủ 2 quà trong tuần (vẫn chỉ 1 quà/ngày) — nên cứ tặng quà thường mấy hôm trước, không cần "để dành lượt" cho sinh nhật.
 
 ---
 
