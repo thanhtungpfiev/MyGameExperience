@@ -35,7 +35,7 @@
 | [x] | Cá vược miệng nhỏ (Smallmouth Bass) | cả ngày | bất kỳ |
 | [x] | Cá bống (Chub) | cả ngày | bất kỳ |
 | [x] | Cá vền (Bream) 🧩 | 18:00–02:00 | bất kỳ |
-| [ ] | **Cá bống tượng (Goby)** — _mới từ 1.6, khác Cá bống (Chub) ở trên_ | 08:00–18:00 | bất kỳ — câu ở **thác nước Rừng Cindersap** |
+| [ ] | **Cá bống tượng (Goby)** — _mới từ 1.6, khác Cá bống (Chub) ở trên_ | 08:00–18:00 · trừ Đông | bất kỳ — **phao phải rơi đúng vũng nước dưới chân thác phía nam Rừng Cindersap** (ngay dưới chỗ cầu vồng Xuân 17, ô X 51–65, Y ≥ 100); câu chỗ khác của sông **không bao giờ ra** |
 
 ### ⛰️ Hồ trên Núi
 
@@ -86,7 +86,7 @@ Bạn đã xuống tới **tầng 70** → tầng 20 và 60 đều câu được
 
 ### 🎯 Còn làm được trong Xuân này
 
-- [ ] **Cá bống tượng (Goby)** — ra thác nước Rừng Cindersap, 08:00–18:00, ngày nào cũng được.
+- [ ] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
 - [x] **Cá đá** (tầng 20)
 - [ ] **Cá băng** (tầng 60) — tiện ghé khi đi mỏ, dùng thang máy xuống thẳng; tỉ lệ thấp (~5%/lần cắn), xem khung Hầm mỏ ở trên.
 - [ ] **Cá huyền thoại** — cần ngày mưa + buff +3 Câu cá (xem khung trên).
