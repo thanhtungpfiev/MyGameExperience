@@ -12,7 +12,7 @@
 
 ## 🌸 Xuân
 
-**Đã câu 17 / 21 loại** câu được mùa Xuân ở những chỗ đã vào được (không tính rong, tảo, sứa và mục 🔒).
+**Đã câu 18 / 21 loại** câu được mùa Xuân ở những chỗ đã vào được (không tính rong, tảo, sứa và mục 🔒).
 
 ### 🌊 Biển (Bãi biển)
 
@@ -35,7 +35,7 @@
 | [x] | Cá vược miệng nhỏ (Smallmouth Bass) | cả ngày | bất kỳ |
 | [x] | Cá bống (Chub) | cả ngày | bất kỳ |
 | [x] | Cá vền (Bream) 🧩 | 18:00–02:00 | bất kỳ |
-| [ ] | **Cá bống tượng (Goby)** — _mới từ 1.6, khác Cá bống (Chub) ở trên_ | 08:00–18:00 · trừ Đông | bất kỳ — **phao phải rơi đúng vũng nước dưới chân thác phía nam Rừng Cindersap** (ngay dưới chỗ cầu vồng Xuân 17, ô X 51–65, Y ≥ 100); câu chỗ khác của sông **không bao giờ ra** |
+| [x] | Cá bống tượng (Goby) — _mới từ 1.6, khác Cá bống (Chub) ở trên_ | 08:00–18:00 · trừ Đông | bất kỳ — **phao phải rơi đúng vũng nước dưới chân thác phía nam Rừng Cindersap** (ngay dưới chỗ cầu vồng Xuân 17, ô X 51–65, Y ≥ 100); câu chỗ khác của sông **không bao giờ ra** |
 
 ### ⛰️ Hồ trên Núi
 
@@ -59,7 +59,7 @@ Bạn đã xuống tới **tầng 70** → tầng 20 và 60 đều câu được
 | [x] | Cá đá (Stonefish) | ao tầng 20 | 3 |
 | [ ] | **Cá băng (Ice Pip)** | ao tầng 60 | 5 |
 | [ ] | Lươn dung nham (Lava Eel) | ao tầng 100 — _chưa tới_ | 7 |
-| [ ] | Thạch Hang Động (Cave Jelly) — _sứa, mới từ 1.6_ | ao tầng 20 · 60 (rất hiếm) · dung nham tầng 100 (dễ hơn) | — |
+| [x] | Thạch Hang Động (Cave Jelly) — _sứa, mới từ 1.6_ | ao tầng 20 · 60 (rất hiếm) · dung nham tầng 100 (dễ hơn) | — |
 
 > [!info] Vì sao cá mỏ khó ra — không phải do minigame, mà do **tỉ lệ cắn câu**
 > Soi code game 1.6.15 (`MineShaft.getFish`): mỗi lần cá cắn, game tung **1 lần xúc xắc riêng** cho cá của tầng đó; trượt thì rơi về danh sách thường của mỏ (Cá ma, tảo…).
@@ -86,7 +86,7 @@ Bạn đã xuống tới **tầng 70** → tầng 20 và 60 đều câu được
 
 ### 🎯 Còn làm được trong Xuân này
 
-- [ ] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
+- [x] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
 - [x] **Cá đá** (tầng 20)
 - [ ] **Cá băng** (tầng 60) — tiện ghé khi đi mỏ, dùng thang máy xuống thẳng; tỉ lệ thấp (~5%/lần cắn), xem khung Hầm mỏ ở trên.
 - [ ] **Cá huyền thoại** — cần ngày mưa + buff +3 Câu cá (xem khung trên).
