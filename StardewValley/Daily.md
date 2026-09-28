@@ -371,15 +371,28 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 ### ☀️ Ngày 18 (Thứ Năm) — 🎂 Sinh nhật Pam
 
 **Việc cần làm:**
-- [ ] Tìm Pam tặng quà sinh nhật — hay ở quán Saloon (12:00–23:00) hoặc trạm xe buýt buổi sáng; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
+- [x] Tìm Pam tặng quà sinh nhật — hay ở quán Saloon (12:00–23:00) hoặc trạm xe buýt buổi sáng; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
 - [ ] Lượm nốt Dâu rừng — **ngày cuối cùng trong năm** bụi còn ra quả
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá kiếm vốn nâng cấp túi đồ/công cụ
+- [ ] 🎣 **Chuẩn bị câu Cá huyền thoại (Legend) ngày mai** — TV báo mai mưa. Cần món **Suất đồ biền** (Dish O' The Sea, +3 Câu cá) — chi tiết xem [[Câu cá theo mùa#⛰️ Hồ trên Núi|Câu cá theo mùa]]:
+  - [ ] Saloon: mua công thức **Khoai tây chiên** (Hashbrowns) — 50g
+  - [ ] Pierre: mua **Dầu ăn** (Oil)
+  - [ ] Câu thêm **1 Cá mòi** (Sardine) ở biển — rương đã có 1, món cần 2
+  - [ ] Chế **Bộ bếp cơ động** (Cookout Kit) — 15 Gỗ + 10 Sợi + 3 Than đá; nhà chưa nâng cấp nên chưa có bếp
+  - [ ] Nấu Khoai tây chiên (Khoai tây + Dầu ăn) → nấu Suất đồ biền (2 Cá mòi + Khoai tây chiên)
+- [ ] 📦 **Giao Rong biển cho Emily** — nhiệm vụ còn **2 ngày**; rương đã có 2 Rong biển
+- [ ] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Mẹo#🪱 Điểm giun đất (Artifact Spot)|Mẹo]])
+
+> [!info] Tình trạng đọc từ quicksave Xuân 18
+> Câu cá cấp 8 · 5.031g · mỏ sâu nhất tầng 76 · **ruộng trống** (83 ô đã cuốc, chưa gieo gì) — nên mọi việc Dâu tây từ Ngày 20 trở đi **không áp dụng** cho save này.
 
 ---
 
-### ☀️ Ngày 19 (Thứ Sáu) — 🛒 Xe hàng rong
+### 🌧️ Ngày 19 (Thứ Sáu) — 🎣 Cá huyền thoại · 🛒 Xe hàng rong
 
 **Việc cần làm:**
+- [ ] 🎣 **Câu Cá huyền thoại (Legend)** ở Hồ trên Núi — mưa + chỉ Xuân + cấp Câu cá ≥ 10 tính cả buff: **ăn Suất đồ biền** (+3 → cấp 11) ngay khi tới hồ, quăng xa bờ ≥ 4 ô; gắn **Phao hút + Mồi cao cấp** vì độ khó 110 và phải tự kéo. 1 con/save
+- [ ] Giao Rong biển cho Emily nếu hôm qua chưa kịp — **hạn chót**
 - [ ] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt Giống Hiếm/Cổ Đại nếu tuần trước chưa mua đủ
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [ ] Kiểm tra túi đồ — nếu đầy và dư tiền, cân nhắc nâng 24 ô ở Pierre (2.000g)
@@ -391,7 +404,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 **Việc cần làm:**
 - [ ] Tìm Shane tặng quà — hay ở Trại Marnie (nơi anh làm việc) buổi sáng, hoặc Saloon tối muộn (sau 21:00, đứng ở quầy bar); chưa rõ món Yêu thích thì tặng món Thích bất kỳ, **tránh mang hoa quả gia vị (spicy) — Shane ghét**
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
-- [ ] Kiểm tra Dâu tây — chuẩn bị thu hoạch lứa đầu ngày mai/kia (chín Ngày 21)
+- [ ] ~~Kiểm tra Dâu tây — chuẩn bị thu hoạch lứa đầu ngày mai/kia (chín Ngày 21)~~ _(save này không trồng Dâu tây)_
 
 ---
 
@@ -399,7 +412,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 
 **Việc cần làm:**
 - [ ] Bật TV xem công thức mới
-- [ ] **Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp
+- [ ] ~~**Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp~~ _(save này không trồng Dâu tây)_
 - [ ] Ghé xe hàng rong nếu còn thiếu Hạt Giống Hiếm
 - [ ] Đây cũng là **hạn chót gieo Đậu xanh đã qua từ Ngày 18** — nếu lỡ thì bỏ qua, dồn sang Hạ
 
@@ -415,6 +428,9 @@ Hạn gieo cuối cùng trong mùa cho **Khoai tây** và **Cải xoăn** (xem b
 - [ ] Nếu còn đất trống và còn hạt Khoai tây/Cải xoăn, gieo nốt ngay hôm nay
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [ ] Đối chiếu lại bảng chốt Ngày 10 — còn 6 ngày nữa hết mùa, bù nốt mục nào đang thiếu (Bảo tàng, gói Cộng đồng, cấp Câu cá...)
+- [ ] Gói Cộng đồng gần xong (save Xuân 18) — không giới hạn mùa nhưng tiện làm luôn:
+  - **Bẫy Cua** 3/5 — 3 Bẫy cua đang đặt ở Thị trấn, Bãi biển, Núi; nạp mồi đều là đủ
+  - **Khoáng Sản** — thiếu **Thạch anh Lửa**, ra từ tầng 80 (đang ở tầng 76)
 
 ---
 
@@ -449,9 +465,10 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 ### ☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2
 
 **Việc cần làm:**
-- [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Speed-Gro)
+- [ ] ~~Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Speed-Gro)~~ _(save này không trồng Dâu tây)_
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
-- [ ] Rà lại gói Cộng đồng **Cây Xuân** — còn thiếu Củ cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Củ cải vàng hết hạn gieo từ hôm qua – Ngày 24)
+- [x] Rà lại gói Cộng đồng **Cây Xuân** — còn thiếu Củ cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Củ cải vàng hết hạn gieo từ hôm qua – Ngày 24) _(save Xuân 18: gói đã xong)_
+- [ ] Lấy **Nhựa phong** (Maple Syrup) ở Chén hứng Nhựa cây trên cây phong — save Xuân 18 báo còn khoảng 6 ngày, tức quanh hôm nay → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
 
 ---
 
