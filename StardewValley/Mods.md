@@ -459,7 +459,9 @@ Vẽ **đúng những con đang câu được ngay lúc này** bơi lượn dư�
 
 ### Fishing Info Overlays 1.3.2
 
-Hiện lớp thông tin ngay trên màn hình khi đang cầm cần câu (hoặc lồng bắt cua): liệt kê **những con cá/vật phẩm câu được ở khu vực + giờ + mùa + thời tiết hiện tại**, kèm xem trước hình dạng thanh minigame của từng con trước khi quăng cần. Tác giả **cat-jam1**, cần SMAPI 3.10 trở lên, đã gắn thẻ tương thích 1.6.
+Hiện lớp thông tin ngay trên màn hình khi đang cầm cần câu (hoặc lồng bắt cua): liệt kê **những con cá/vật phẩm câu được ở khu vực + giờ + mùa + thời tiết hiện tại**, kèm xem trước hình dạng thanh minigame của từng con trước khi quăng cần. **Khi cá cắn câu, nó cho biết luôn con nào đang dính** — đúng việc của Phao câu tín hiệu (Sonar Bobber), nên khỏi chế phao đó (xem [[Mẹo#🪝 Phao & mồi tự chế|Mẹo]]). Tác giả **barteke22**, cần SMAPI 4.1.10 và game 1.6.15 trở lên.
+
+`config.json` đang để `BarSonarMode: 3` — nằm ngoài ba chế độ "bắt buộc có Sonar" (0–2), nên mọi tính năng chạy mà **không cần gắn Phao câu tín hiệu**.
 
 **Cách dùng** — cầm cần câu ra khu vực muốn câu, bảng overlay tự hiện ở góc màn hình liệt kê danh sách cá khả dụng; không cần bấm gì thêm.
 
