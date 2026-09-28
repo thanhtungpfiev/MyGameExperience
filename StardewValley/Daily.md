@@ -384,7 +384,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 - [ ] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Mẹo#🪱 Điểm giun đất (Artifact Spot)|Mẹo]])
 
 > [!info] Tình trạng đọc từ quicksave Xuân 18
-> Câu cá cấp 8 · 5.031g · mỏ sâu nhất tầng 76 · **ruộng trống** (83 ô đã cuốc, chưa gieo gì) — nên mọi việc Dâu tây từ Ngày 20 trở đi **không áp dụng** cho save này.
+> Câu cá cấp 8 · 5.031g · mỏ sâu nhất tầng 76 · ruộng có **71 cây**: 49 Dâu tây · 15 Súp lơ · 3 Cải vàng · 2 Khoai tây · 1 Đậu xanh · 1 Hạt cà phê.
 
 ---
 
@@ -404,7 +404,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 **Việc cần làm:**
 - [ ] Tìm Shane tặng quà — hay ở Trại Marnie (nơi anh làm việc) buổi sáng, hoặc Saloon tối muộn (sau 21:00, đứng ở quầy bar); chưa rõ món Yêu thích thì tặng món Thích bất kỳ, **tránh mang hoa quả gia vị (spicy) — Shane ghét**
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
-- [ ] ~~Kiểm tra Dâu tây — chuẩn bị thu hoạch lứa đầu ngày mai/kia (chín Ngày 21)~~ _(save này không trồng Dâu tây)_
+- [ ] Kiểm tra Dâu tây — chuẩn bị thu hoạch lứa đầu ngày mai/kia (chín Ngày 21)
 
 ---
 
@@ -412,7 +412,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 
 **Việc cần làm:**
 - [ ] Bật TV xem công thức mới
-- [ ] ~~**Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp~~ _(save này không trồng Dâu tây)_
+- [ ] **Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp
 - [ ] Ghé xe hàng rong nếu còn thiếu Hạt Giống Hiếm
 - [ ] Đây cũng là **hạn chót gieo Đậu xanh đã qua từ Ngày 18** — nếu lỡ thì bỏ qua, dồn sang Hạ
 
@@ -465,7 +465,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 ### ☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2
 
 **Việc cần làm:**
-- [ ] ~~Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Speed-Gro)~~ _(save này không trồng Dâu tây)_
+- [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Speed-Gro)
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [x] Rà lại gói Cộng đồng **Cây Xuân** — còn thiếu Củ cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Củ cải vàng hết hạn gieo từ hôm qua – Ngày 24) _(save Xuân 18: gói đã xong)_
 - [ ] Lấy **Nhựa phong** (Maple Syrup) ở Chén hứng Nhựa cây trên cây phong — save Xuân 18 báo còn khoảng 6 ngày, tức quanh hôm nay → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
