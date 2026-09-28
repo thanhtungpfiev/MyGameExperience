@@ -775,7 +775,7 @@ Nhấc **cả rương lẫn đồ bên trong** mang đi chỗ khác, khỏi ph�
 
 Đặt rương **cạnh máy** thì máy **tự rút nguyên liệu từ rương và đẩy thành phẩm trở lại rương** — khỏi chạy từng cái để đút vào lấy ra. Tác giả **Pathoschild** (cùng nhà với [[#Content Patcher 2.9.1|Content Patcher]], [[#Lookup Anything 1.55.0|Lookup Anything]], [[#Chests Anywhere 1.30.1|Chests Anywhere]]).
 
-**Cách dùng** — đặt 1 rương **chạm** cụm máy (Thùng ủ / Hũ ngâm / Lò luyện / Bể pha lê...), **mọi hướng kể cả chéo góc**. Đổ nguyên liệu vào rương → máy tự chạy → thành phẩm tự về rương.
+**Cách dùng** — đặt 1 rương **chạm** cụm máy (Thùng chứa / Vại Bảo quản / Lò nung / Máy Sao chép Ngọc...), **mọi hướng kể cả chéo góc**. Đổ nguyên liệu vào rương → máy tự chạy → thành phẩm tự về rương.
 
 **Phím** — `U` bật/tắt **lớp phủ sơ đồ** máy–rương (nhìn được cụm nào đang nối với cụm nào), đổi được trong GMCM.
 
@@ -787,7 +787,7 @@ Nhấc **cả rương lẫn đồ bên trong** mang đi chỗ khác, khỏi ph�
 > Mặc định thùng ship cũng là một "rương" của mod → rương nào chạm thùng ship là **đồ bị bán khi qua đêm**. Hoặc dời rương ra xa thùng ship, hoặc vào GMCM → **Shipping Bin settings** tắt hẳn.
 
 > [!info] Nguyên liệu của một công thức phải nằm **chung một rương**
-> Nối nhiều rương vào cùng cụm máy thì máy vẫn **lấy đầu vào từ tất cả các rương**, nhưng **một mẻ** phải đủ nguyên liệu trong **cùng một rương** — than ở rương A, quặng ở rương B thì Lò luyện đứng im.
+> Nối nhiều rương vào cùng cụm máy thì máy vẫn **lấy đầu vào từ tất cả các rương**, nhưng **một mẻ** phải đủ nguyên liệu trong **cùng một rương** — than ở rương A, quặng ở rương B thì Lò nung đứng im.
 >
 > Thành phẩm đẩy ra theo thứ tự: rương đã bật **"prefer this chest for output"** ([[#Chests Anywhere 1.30.1|Chests Anywhere]] → icon bút chì) → rương **đã có sẵn món cùng loại** → rương bất kỳ.
 
@@ -799,19 +799,23 @@ Nhấc **cả rương lẫn đồ bên trong** mang đi chỗ khác, khỏi ph�
 >
 > Bật **Enabled connectors** trong GMCM để **đường lát (wooden path...) dẫn tín hiệu** thay cho việc phải xếp máy dính sát nhau → rải đường nối một cụm máy trải khắp nông trại vẫn được.
 >
-> **Rương Junimo** đưa cả cụm lên phạm vi **toàn cầu**: mọi máy/rương nối với rương Junimo (dù ở khu khác) chung một cụm. Ví dụ Chòi Junimo trên trại thu hoạch → Thùng ủ trong nhà kho lên men → Hũ ủ dưới hầm ủ lâu → thùng ship gom thành phẩm.
+> **Rương Junimo** đưa cả cụm lên phạm vi **toàn cầu**: mọi máy/rương nối với rương Junimo (dù ở khu khác) chung một cụm. Ví dụ Lều Junimo trên trại thu hoạch → Thùng chứa (Keg) trong nhà kho lên men → Thùng Tô nô (Cask) dưới hầm ủ lâu → thùng ship gom thành phẩm.
 
 > [!tip]- Danh sách thứ tự động được — có cả thứ không ngờ tới
+> Tên theo bản dịch đang cài, tên tiếng Anh trong ngoặc để tra wiki.
+>
 > | Nhóm | Gồm những gì |
 > |---|---|
-> | 🏭 **Máy chế biến** | Đe · Máy tự nhặt · Máy làm mồi · Nhà ong · Máy nghiền xương · Hũ ủ (cask) · Lò than · Máy ép phô mai · Máy pha cà phê · **Lồng cua** · Bể pha lê · Máy tháo dỡ · Máy sấy khô · Máy xông khói cá · **Lò luyện & Lò luyện lớn** (nhớ nạp than) · **Máy nghiền địa chất** (cũng cần than) · Máng cỏ khô · Lồng ấp trứng · Thùng ủ (keg) · Cột thu lôi · Khung dệt · Máy làm mayonnaise · Thùng ship mini · Hộp nấm · Khúc gỗ nấm · Máy ép dầu · Hũ ngâm · Máy tái chế · Máy làm hạt giống · Máy ép trứng slime · Lồng ấp slime · Máy làm soda · Pin mặt trời · Tượng Vô Tận / Hoàn Hảo / Chân Hoàn Hảo · Máy băm gỗ · Thùng trùn (cả loại deluxe) |
-> | 🏚️ **Công trình** | Ao cá (**chỉ lấy ra**) · Chòi Junimo · Cối xay · Kho cỏ khô |
-> | 🌳 **Thứ vốn không phải máy** | Bụi cây (mâm xôi đen, dâu rừng, **bụi trà**) · Cây ăn quả · **Thùng rác** · Thùng ship (chỉnh được) · Vòi hứng nhựa (tapper) · Cây thường |
-> | 📦 **Vật chứa** | Rương (kể cả rương lớn & rương đá) · Tủ lạnh nhà/cabin · **Hopper** (y như rương nhưng **chỉ đẩy ra**) · Rương Junimo · Tủ lạnh mini · Thùng ship mini |
+> | 🏭 **Máy chế biến** | Đe (Anvil) · Máy tự nhặt (Auto-Grabber) · Máy Làm Mồi Câu (Bait Maker) · Nhà Ong (Bee House) · Máy nghiền xương (Bone Mill) · Thùng Tô nô (Cask) · Lò Than (Charcoal Kiln) · Máy ép Pho-mát (Cheese Press) · Máy pha cà phê (Coffee Maker) · **Bẫy cua (Crab Pot)** · Máy Sao chép Ngọc (Crystalarium) · Máy thu hủy (Deconstructor) · Máy Sấy Thực Phẩm (Dehydrator) · Lò hun cá (Fish Smoker) · **Lò nung & Lò Nung Lớn (Furnace & Heavy Furnace)** (nhớ nạp than) · **Máy phá hốc tinh (Geode Crusher)** (cũng cần than) · Phễu cho ăn (Feed Hopper) · Lò ấp trứng (Incubator) · Thùng chứa (Keg) · Cột thu lôi (Lightning Rod) · Khung cửi (Loom) · Máy làm sốt Mayonnaise (Mayonnaise Machine) · Hộp nấm (Mushroom Box) · Gốc Cây Nhiễm Nấm (Mushroom Log) · Máy ép dầu (Oil Maker) · Vại Bảo quản (Preserves Jar) · Máy Tái chế (Recycling Machine) · Máy tạo Hạt giống (Seed Maker) · Máy ép trứng Slime (Slime Egg-Press) · Lò ấp Slime (Slime Incubator) · Máy làm Soda (Soda Machine) · Tấm quang năng (Solar Panel) · Tượng Tài phú Vô biên / Hoàn hảo / Hoàn hảo đích thực (Statue of Endless Fortune / Perfection / True Perfection) · Máy Chẻ gỗ (Wood Chipper) · Thùng Sâu & Thùng sâu Cao cấp (Worm Bin & Deluxe Worm Bin) |
+> | 🏚️ **Công trình** | Hồ Cá (Fish Pond — **chỉ lấy ra**) · Lều Junimo (Junimo Hut) · Cối xay (Mill) · Kho chứa Cỏ (Silo) |
+> | 🌳 **Thứ vốn không phải máy** | Bụi cây (mâm xôi đen, dâu rừng, **bụi trà**) · Cây ăn quả · **Thùng rác** · Thùng ship (chỉnh được) · Chén hứng Nhựa cây & Phễu hứng nhựa cây (Tapper & Heavy Tapper) · Cây thường |
+> | 📦 **Vật chứa** | Rương (Chest — kể cả Rương lớn, Rương đá, Rương đá lớn) · Tủ lạnh nhà/cabin · **Máng nạp (Hopper)** (y như rương nhưng **chỉ đẩy ra**) · Rương Junimo (Junimo Chest) · Tủ lạnh Mini (Mini-Fridge) · Thùng rác Mini (Mini-Shipping Bin) |
+>
+> ⚠️ **"Thùng rác Mini" là thùng ship mini** — bản dịch dịch nhầm _Mini-Shipping Bin_. Đồ bỏ vào đó **bị bán** qua đêm y như thùng ship, không phải bị vứt.
 >
 > Còn hỗ trợ **máy do mod khác thêm** nếu mod đó viết theo định dạng máy chuẩn của bản 1.6+.
 >
-> 🦀 **Lồng cua** — ảnh 3 là bố cục ở bãi biển: Thùng trùn tự sinh mồi → rương đẩy mồi vào lồng cua → lồng cua trả hải sản về rương → Máy tái chế xử lý luôn đống rác câu được.
+> 🦀 **Bẫy cua** — ảnh 3 là bố cục ở bãi biển: Thùng Sâu tự sinh mồi → rương đẩy mồi vào Bẫy cua → Bẫy cua trả hải sản về rương → Máy Tái chế xử lý luôn đống rác câu được.
 
 > [!info]- Machine pipelines — dành cho lúc muốn nghịch sâu
 > Bản mới có **machine pipelines**: chuyển đồ giữa **nhiều cụm máy** khác nhau, đặt **luật lọc vật phẩm**, xử lý **tràn rương**. Đọc mục _machine pipelines_ trong readme trên trang Nexus khi cần.
