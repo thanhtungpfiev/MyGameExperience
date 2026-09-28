@@ -142,6 +142,28 @@ Mua ở Tiệm Cá của Willy. Điều kiện mở bán lấy từ file game 1.
 - ⚠️ **"Gốc" = không tính buff đồ ăn** — cửa hàng kiểm tra `PLAYER_BASE_FISHING_LEVEL`. Ngược với điều kiện câu Cá huyền thoại (có tính buff), xem [[Câu cá theo mùa]].
 - Đang bật `InstantBite` thì phao/mồi **chỉ làm cá cắn nhanh** là vô dụng: **Phao câu (Spinner)**, **Phao xoay có Trang trí (Dressed Spinner)**, **Mồi (Bait)**. Phao giúp minigame thì vẫn đáng gắn.
 
+### 🪝 Phao & mồi tự chế
+
+Cấp mở khoá và nguyên liệu lấy từ file game 1.6.15 (`Data/CraftingRecipes`); tên theo bản dịch đang cài.
+
+| Món | Mở khi | Nguyên liệu | Với cấu hình cheat hiện tại |
+|---|---|---|---|
+| **Phao hút (Trap Bobber)** | Câu cá 6 | 1 Thỏi đồng + 10 Nhựa cây | ⭐ **Phao mặc định** — thanh lệch khỏi cá thì tiến độ tụt chậm; rẻ, hợp mọi loại cá |
+| **Phao nút chai (Cork Bobber)** | Câu cá 7 | 10 Gỗ + 5 Gỗ cứng + 10 Slime | Thanh câu to hơn một chút |
+| **Lưỡi câu có ngạnh (Barbed Hook)** | Câu cá 8 | 1 Thỏi đồng + 1 Thỏi sắt + 1 Thỏi vàng | Thanh tự bám theo cá — tốt với cá chậm, yếu; kém với cá nhảy loạn |
+| **Phao hút báu vật (Treasure Hunter)** | Câu cá 7 | 2 Thỏi vàng | Cá không thoát khi đang gom rương; tăng nhẹ tỉ lệ ra rương |
+| Phao câu tín hiệu (Sonar Bobber) | Câu cá 6 | 1 Thỏi sắt + 2 Thạch anh tinh luyện | Biết con nào cắn câu trước khi kéo — **thừa**, [[Mods#Fishing Info Overlays 1.3.2\|Fishing Info Overlays]] đã hiện sẵn |
+| ❌ Phao câu (Spinner) · Phao xoay có Trang trí (Dressed Spinner) | Câu cá 6 · 8 | — | Chỉ làm cá cắn nhanh — `InstantBite` đã lo |
+| **Mồi cao cấp (Deluxe Bait)** | Câu cá 4 | 5 Mồi + 2 Rêu → 5 cái | ⭐ Ngoài cắn nhanh còn **làm thanh câu to hơn** → vẫn đáng gắn |
+| **Mồi riêng loài** | Máy làm mồi (Bait Maker), Câu cá 6 | con cá cần săn | Tăng tỉ lệ đúng loài đó — săn cá cho bộ sưu tập |
+| **Mồi dân dã (Wild Bait)** | công thức từ Linus | 10 Sợi + 5 Thịt côn trùng + 5 Slime → 5 cái | Có cơ hội ra 2 con một lần |
+| **Nam châm (Magnet)** | Câu cá 9 | 1 Thỏi sắt → 3 cái | Tăng tỉ lệ ra rương báu vật, đổi lại cá cắn chậm hơn — với `InstantBite` thì cái giá này gần như mất _(suy từ mô tả, chưa thử)_ |
+| ❌ Mồi (Bait) | Câu cá 2 | 1 Thịt côn trùng → 5 cái | Chỉ làm cá cắn nhanh |
+
+- **Câu thường ngày:** Mồi cao cấp + Phao hút.
+- **Săn một loài:** Mồi riêng loài + Phao hút (cá hiếm thì Phao mồi kì lạ).
+- **Săn rương:** Nam châm + Phao hút báu vật.
+
 ### Mẹo chung
 
 - Ăn món tăng **Câu cá** (vd: Súp Cá Hồi / Trout Soup) trước khi câu ở khu khó.
