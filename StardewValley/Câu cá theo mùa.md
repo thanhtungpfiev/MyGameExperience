@@ -46,8 +46,15 @@
 | [x] | Cá đầu bò (Bullhead) 🧩 | cả ngày | bất kỳ |
 | [ ] | **Cá huyền thoại (Legend)** | 06:00–20:00 | 🌧️ · **chỉ Xuân** · cần **cấp Câu cá 10** · quăng xa bờ **≥ 4 ô** · 1 con/save |
 
-> [!info] Cá huyền thoại với cấp 7
-> Game kiểm tra cấp Câu cá **gồm cả buff đồ ăn**, nên cấp 7 + món **+3 Câu cá** (vd Dish o' the Sea) là đủ 10. Còn thiếu một ngày mưa trước Xuân 28 — xem TV dự báo mỗi sáng. Độ khó 110 (khó nhất game) và `InstantCatch` đã **tắt** — phải tự kéo, nên gắn phao giúp minigame (xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]]).
+> [!info] Cá huyền thoại khi chưa tới cấp 10
+> Game kiểm tra cấp Câu cá **gồm cả buff đồ ăn**, nên cấp 7–8 + món **+3 Câu cá** là đủ 10. Đang cấp 8 (save Xuân 18) nên cần ít nhất **+2** — **Súp cá hồi** (Trout Soup, Willy bán 250g) hay **Thạch Biển** (Sea Jelly) chỉ +1, không đủ; hai món ăn cũng không cộng dồn vì cùng loại buff "đồ ăn".
+>
+> **Suất đồ biền** (Dish O' The Sea, +3) — _tên đúng như bản dịch ghi, có vẻ gõ nhầm "biển"_. Công thức: 2 **Cá mòi** + 1 **Khoai tây chiên** (Hashbrowns). Chưa nâng cấp nhà thì chưa có bếp, làm theo chuỗi:
+> 1. Saloon bán **công thức Khoai tây chiên** — 50g. Khoai tây chiên = 1 **Khoai tây** + 1 **Dầu ăn** (Oil, Pierre bán).
+> 2. Chế **Bộ bếp cơ động** (Cookout Kit) — 15 Gỗ + 10 Sợi + 3 Than đá, mở ở Hái lượm cấp 3 — đặt xuống là nấu được.
+> 3. Nấu Khoai tây chiên → nấu Suất đồ biền → ăn ngay khi tới hồ.
+>
+> Món mạnh hơn (**Bánh pudding bọt biển**/Seafoam Pudding +4, mở ở Câu cá 9) thì chưa với tới. Còn thiếu một ngày mưa trước Xuân 28 — xem TV dự báo mỗi sáng. Độ khó 110 (khó nhất game) và `InstantCatch` đã **tắt** — phải tự kéo, nên gắn phao giúp minigame (xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]]).
 
 ### ⛏️ Hầm mỏ (mọi mùa)
 
