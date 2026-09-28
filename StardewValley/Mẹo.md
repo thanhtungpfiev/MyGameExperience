@@ -175,6 +175,22 @@ Cấp mở khoá và nguyên liệu lấy từ file game 1.6.15 (`Data/CraftingR
 - **Săn một loài:** Mồi riêng loài + Phao hút (cá hiếm thì Phao mồi kì lạ).
 - **Săn rương:** Nam châm + Phao hút báu vật.
 
+### 🪱 Thùng Sâu hay Máy Làm Mồi Câu?
+
+Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game 1.6.15 (`Data/Machines`, `Data/CraftingRecipes`).
+
+| | **Thùng Sâu (Worm Bin)** | **Thùng sâu Cao cấp (Deluxe Worm Bin)** | **Máy Làm Mồi Câu (Bait Maker)** |
+|---|---|---|---|
+| Bỏ vào | **không cần gì** — tự sinh | **không cần gì** — tự sinh | **1 con cá bất kỳ** |
+| Ra | 4–5 **Mồi** | 4–5 **Mồi cao cấp** | 5–10 **Mồi riêng loài** của đúng con cá đó |
+| Bao lâu | 1 ngày | 1 ngày | 10 phút game |
+| Mở khi | Câu cá 4 | Câu cá 8 | Câu cá 6 |
+| Nguyên liệu | 15 Gỗ cứng + 1 Thỏi vàng + 1 Thỏi sắt + 50 Sợi | 1 Thùng Sâu + 30 Rêu | 3 Thỏi sắt + 3 San hô + 1 Nhím biển |
+| Dùng cho | **nguồn mồi thụ động** — nuôi **Bẫy cua** | như bên trái; mồi dư gắn cần câu vẫn đáng (thanh to hơn) | **săn một loài** cho bộ sưu tập/bundle |
+
+- Mồi thường của Thùng Sâu **vô dụng với cần câu** khi bật `InstantBite` — chỉ dành cho Bẫy cua.
+- Nối Thùng Sâu vào cụm Bẫy cua bằng [[Mods#Automate 2.6.1|Automate]] là có mồi mãi mãi, khỏi mua.
+
 ### Mẹo chung
 
 - Ăn món tăng **Câu cá** (vd: Súp Cá Hồi / Trout Soup) trước khi câu ở khu khó.
