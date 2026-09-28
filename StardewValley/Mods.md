@@ -963,7 +963,7 @@ Lưu game **giữa ngày** kiểu RPG — game gốc bắt phải **ngủ** mớ
 > [!info] Lưu ở đâu
 > `Quicksave` và `Quicksave_SaveGameInfo` nằm **bên trong thư mục save**, cạnh file save chính:
 >
-> `%AppData%\StardewValley\Saves\Wind_444616523\`
+> `%AppData%\StardewValley\Saves\Wind_448678493\`
 >
 > Xóa hai file này thì mất bản quicksave, file save chính không sao. Chúng cũng được [[An toàn save#💾 Save Backup — mod SMAPI tự cài kèm|Save Backup]] nén chung vào bản `.zip` hằng ngày.
 
@@ -1027,7 +1027,7 @@ Giữ **nhiều mốc lưu theo ngày trong game** để lùi lại khi lỡ tay
 > Chuyển sang một mốc khác thì mốc đó thành **bản mặc định** hiện ở danh sách Load chính, còn bản mặc định cũ **lùi vào danh sách mốc phụ** — đổi qua đổi lại thoải mái, không bản nào bị nuốt.
 
 > [!info]- Tên thư mục mốc, và vì sao có thể trùng ngày
-> Mốc nằm trong thư mục con của save, dạng `MultiSave_<năm>_<mùa>_<ngày>` — máy này đang có `MultiSave_1_spring_1` trong `%AppData%\StardewValley\Saves\Wind_444616523\`.
+> Mốc nằm trong thư mục con của save, dạng `MultiSave_<năm>_<mùa>_<ngày>` — máy này đang có `MultiSave_1_spring_11` … `MultiSave_1_spring_17` (và một bản `_15_1`) trong `%AppData%\StardewValley\Saves\Wind_448678493\`.
 >
 > Trùng tên thì mod thêm đuôi `_1`, `_2`… → **có nhiều mốc cùng một ngày trong game** là chuyện bình thường: khi bạn lùi về mốc cũ rồi chơi tiếp mà chưa xóa các mốc ngày sau. Ảnh 3 là ví dụ, Day 1/2/3 kèm **ngày giờ thực** để phân biệt.
 
