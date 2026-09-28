@@ -47,7 +47,7 @@
 | [ ] | **Cá huyền thoại (Legend)** | 06:00–20:00 | 🌧️ · **chỉ Xuân** · cần **cấp Câu cá 10** · quăng xa bờ **≥ 4 ô** · 1 con/save |
 
 > [!info] Cá huyền thoại với cấp 7
-> Game kiểm tra cấp Câu cá **gồm cả buff đồ ăn**, nên cấp 7 + món **+3 Câu cá** (vd Dish o' the Sea) là đủ 10. Còn thiếu một ngày mưa trước Xuân 28 — xem TV dự báo mỗi sáng. Độ khó 110 (khó nhất game); nếu `InstantCatch` ([[Mẹo#🎣 Câu cá (Fishing)|Mẹo]]) còn bật thì độ khó không còn là vấn đề.
+> Game kiểm tra cấp Câu cá **gồm cả buff đồ ăn**, nên cấp 7 + món **+3 Câu cá** (vd Dish o' the Sea) là đủ 10. Còn thiếu một ngày mưa trước Xuân 28 — xem TV dự báo mỗi sáng. Độ khó 110 (khó nhất game) và `InstantCatch` đã **tắt** — phải tự kéo, nên gắn phao giúp minigame (xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]]).
 
 ### ⛏️ Hầm mỏ (mọi mùa)
 

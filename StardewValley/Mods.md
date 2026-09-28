@@ -1050,21 +1050,19 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 
 **Nexus** — https://www.nexusmods.com/stardewvalley/mods/4
 
-> [!warning] Đang bật 6 cheat — hầu hết là cheat câu cá
+> [!warning] Đang bật 6 cheat — câu cá chỉ còn 2, minigame kéo cá vẫn tự đánh
 > `config.json` hiện tại (mọi thứ không liệt kê ở đây đều **tắt**):
 >
 > | Cheat | Tác dụng |
 > |---|---|
+> | `InfiniteHealth` | **Vô hạn máu** — không chết |
 > | `InfiniteStamina` | **Vô hạn năng lượng** — không bao giờ kiệt sức, không phải ăn |
 > | `InstantBite` | Cá **cắn câu ngay** khi vừa quăng |
-> | `InstantCatch` | **Câu được luôn**, bỏ qua minigame kéo cá |
 > | `ThrowBobberMax` | Luôn quăng cần **xa tối đa**, khỏi giữ nút canh lực |
-> | `AlwaysTreasure` | **Lần nào cũng có rương kho báu** |
-> | `DurableTackles` | **Phao/mồi không hao**, dùng mãi |
+> | `FreezeTime` | **Đứng giờ** trên mặt đất |
+> | `FreezeTimeCaves` | **Đứng giờ** trong hầm mỏ |
 >
-> 5 trong 6 cái là câu cá — tức là **phần câu cá đang được tự động gần như hoàn toàn**. Đáng biết khi nhìn số liệu ở [[#Perfection Stats 1.6.7|Perfection Stats]] hay [[#Visible Fish 0.4.2|Visible Fish]]: cá đủ loại vẫn vào bộ sưu tập bình thường, nhưng không còn là thành tích tay nghề.
->
-> Muốn lấy lại cảm giác câu cá thật thì tắt `InstantCatch` trước tiên, giữ `ThrowBobberMax` cũng đã đỡ mỏi tay rồi.
+> Câu cá chỉ còn **cắn ngay + quăng xa** — `InstantCatch`, `AlwaysTreasure`, `DurableTackles` đã **tắt**. Nghĩa là: vẫn phải **tự đánh minigame**, rương báu vật lại tuỳ may rủi, và **phao/mồi hao mòn** như bình thường. Chọn phao/mồi hợp với cấu hình này xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]].
 
 > [!vh] Menu ra **tiếng Việt** — một trong số ít mod có bản dịch thật
 > Thư mục `i18n` có `vi.json` **dịch đầy đủ** (không phải file rỗng như [[#Carry Chests 1.3.0|Carry Chests]]): "Vô hạn năng lượng", "Cắn câu ngay lập tức", "1 đập bể đá & chặt cây", "Hàng rào không bị hỏng"... Còn sót vài dòng mới của bản 1.6 chưa dịch (Green Rain, Auto-Water Pet Bowls) nên chỗ đó vẫn ra tiếng Anh.

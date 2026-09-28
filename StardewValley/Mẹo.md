@@ -125,8 +125,7 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 
 - ⚠️ **Thư chỉ là thông báo hàng về, không phải tặng cần.** Vẫn phải ra Tiệm Cá mua bằng tiền mặt.
 - 💸 **Đừng mua vội ở tuần đầu.** 1.800g ≈ **18 hạt Dâu tây** ở Lễ hội Trứng **Ngày 13** ([[Daily]]) — dâu tây sinh lời cả mùa, cần câu thì mua lúc nào cũng được. Ưu tiên hạt trước, cần sau.
-- Mua cần rồi nhớ mua kèm **Mồi (Bait)** chỗ Willy — không có mồi thì cần xịn cũng chỉ đỡ mỏi tay chút.
-- ⚙️ **Máy bạn đang bật `InstantCatch`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → cần xịn **gần như không còn tác dụng gì** (cá cắn là dính, khỏi đánh minigame). Cái duy nhất còn đáng tiền là **chỗ gắn mồi/phao**, mà mồi cũng chỉ để cá cắn nhanh hơn. Nghĩa là **1.800g này hoàn toàn có thể hoãn vô thời hạn** — trừ khi bạn định tắt cheat để chơi câu cá thật.
+- ⚙️ **Máy bạn đang bật `InstantBite`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → cá cắn ngay, nên **Mồi (Bait) thường không cần mua** — nó chỉ làm cá cắn nhanh hơn. Nhưng `InstantCatch` đã **tắt**, minigame vẫn phải tự kéo, nên cần xịn vẫn đáng tiền vì **chỗ gắn phao**.
 
 ### 🎣 Các loại cần câu
 
@@ -141,7 +140,7 @@ Mua ở Tiệm Cá của Willy. Điều kiện mở bán lấy từ file game 1.
 | **Cần Iridium nâng cao (Advanced Iridium Rod)** | 25.000g | đã mở **Mastery Câu cá** | 1 Mồi + 2 Phao | mới từ 1.6, cuối game |
 
 - ⚠️ **"Gốc" = không tính buff đồ ăn** — cửa hàng kiểm tra `PLAYER_BASE_FISHING_LEVEL`. Ngược với điều kiện câu Cá huyền thoại (có tính buff), xem [[Câu cá theo mùa]].
-- Đang bật `InstantCatch` thì **Phao gần như vô dụng** (phao chỉ giúp trong minigame) — trừ **Phao mồi kì lạ (Curiosity Lure)**, vì nó tăng tỉ lệ **cá hiếm cắn câu** chứ không dính tới minigame.
+- Đang bật `InstantBite` thì phao/mồi **chỉ làm cá cắn nhanh** là vô dụng: **Phao câu (Spinner)**, **Phao xoay có Trang trí (Dressed Spinner)**, **Mồi (Bait)**. Phao giúp minigame thì vẫn đáng gắn.
 
 ### Mẹo chung
 
