@@ -91,7 +91,7 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 
 **Lưu ý:**
 - ⚠️ Ngày mai phải vào Thị trấn từ Bến xe buýt, 08:00–13:00, **không mưa** mới mở được Trung tâm Cộng đồng — kiểm tra dự báo tối nay, mai mưa thì phải hoãn.
-- Kho cỏ chưa xây được hôm nay (5 Thỏi Đồng cần quặng đồng dưới mỏ, Ngày 5 mới mở). **Không gấp** — cỏ khô chỉ dùng để nuôi gia súc (Chuồng gà/Chuồng bò), mà Chuồng gà tốn tới 4.000g nên khó xây được sớm trong mùa Xuân năm đầu. Ưu tiên đào mỏ, gom quặng, đặt Lò luyện trước; xây Kho cỏ khi nào rảnh tay, khoảng Ngày 7–10 cũng không sao.
+- Kho cỏ chưa xây được hôm nay (5 Thỏi Đồng cần quặng đồng dưới mỏ, Ngày 5 mới mở). **Không gấp** — cỏ khô chỉ dùng để nuôi gia súc (Chuồng gà/Chuồng bò), mà Chuồng gà tốn tới 4.000g nên khó xây được sớm trong mùa Xuân năm đầu. Ưu tiên đào mỏ, gom quặng, đặt Lò nung trước; xây Kho cỏ khi nào rảnh tay, khoảng Ngày 7–10 cũng không sao.
 
 ---
 
@@ -131,7 +131,7 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 | Thư của | Điều kiện | Nội dung |
 |---|---|---|
 | 🧙 Pháp sư (Rasmodius) | Hôm qua đã vào hẳn trong CC | Nhiệm vụ "Gặp Pháp sư" → mở khóa cửa tháp |
-| Clint | Đã nhặt quặng Đồng đầu tiên | Bản vẽ Lò luyện (25 Đá + 20 Quặng Đồng) |
+| Clint | Đã nhặt quặng Đồng đầu tiên | Bản vẽ Lò nung (25 Đá + 20 Quặng Đồng) |
 
 Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bên trong CC, quay lại vào một lượt.
 
@@ -142,7 +142,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 ⚠️ **Từ hôm nay thời tiết hết cố định** (Năm 1 chỉ ép sẵn Ngày 1–4) — trừ ngày lễ hội (13, 24) luôn nắng, còn lại ngẫu nhiên hoàn toàn.
 
 **Việc cần làm:**
-- [x] Đặt Lò luyện (nếu có thư Clint), nấu Thỏi Đồng — 5 Quặng Đồng + 1 Than → 1 Thỏi, ~30 phút/mẻ, mỗi mẻ ăn 1 Than. Đồng nấu ra ưu tiên dùng nâng cấp Cuốc/Rìu trước, dư ra mới dành cho Kho cỏ (5 Thỏi)
+- [x] Đặt Lò nung (nếu có thư Clint), nấu Thỏi Đồng — 5 Quặng Đồng + 1 Than → 1 Thỏi, ~30 phút/mẻ, mỗi mẻ ăn 1 Than. Đồng nấu ra ưu tiên dùng nâng cấp Cuốc/Rìu trước, dư ra mới dành cho Kho cỏ (5 Thỏi)
 - [x] 🧙 Lên Tháp Pháp sư (Rừng Cindersap, tây hồ) **trước khi vào CC** — lấy khả năng đọc chữ Junimo (bắt buộc, chưa làm là chưa nộp gói được dù CC đã mở)
 - [x] Vào CC đọc bảng gói — 4 nhóm gói làm được trong Xuân: **Lượm Xuân** (4 món nhặt dọc đường, dễ nhất) · **Cây Xuân** (Củ cải vàng/Đậu xanh/Súp lơ/Khoai tây, phải trồng đủ) · **Xây dựng** (99 Gỗ, 99 Gỗ, 99 Đá, 10 Gỗ Cứng — cần Rìu Đồng) · **Cá** (giữ 1 con mỗi loại)
 - [x] Chế Rương (50 Gỗ) và Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) — từ 16 cây trở lên quạ bắt đầu phá ruộng
@@ -153,7 +153,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 **Lưu ý:**
 - Địa thạch (Geode) đừng đập bừa, mang Clint mở (25g/viên), ưu tiên quyên góp Bảo tàng trước khi bán.
 - Trại Marnie nghỉ Thứ Hai & Ba.
-- Việc hôm nay khá nhiều, khó làm hết trong 1 ngày — ưu tiên: tưới ruộng → Tháp Pháp sư → đặt Lò luyện/Rương/Bù nhìn → phần còn lại dồn sang Ngày 7–8.
+- Việc hôm nay khá nhiều, khó làm hết trong 1 ngày — ưu tiên: tưới ruộng → Tháp Pháp sư → đặt Lò nung/Rương/Bù nhìn → phần còn lại dồn sang Ngày 7–8.
 
 ---
 
@@ -194,7 +194,7 @@ Kho cỏ xong hôm nay nếu đã đặt Robin từ Ngày 6 (không đặt cũng
 **Việc cần làm:**
 - [x] Xuống mỏ, mục tiêu cắm mốc thang máy **tầng 20–30**, nhặt 2 rương ở tầng 10 & 20
 - [x] Diệt đủ 10 Slime → mở **Hội Phiêu lưu** ở Ngọn núi (14:00–22:00, bán kiếm/giày/nhẫn)
-- [x] *(Không gấp)* Nấu thêm Thỏi Đồng ở Lò luyện nếu dư quặng — ưu tiên vẫn là nâng cấp công cụ, Kho cỏ để sau
+- [x] *(Không gấp)* Nấu thêm Thỏi Đồng ở Lò nung nếu dư quặng — ưu tiên vẫn là nâng cấp công cụ, Kho cỏ để sau
 
 **🔨 Thứ tự nâng cấp công cụ** (Clint, 09:00–16:00, mỗi lần 2.000g + 5 Thỏi Đồng, khóa công cụ 2 ngày): **Cuốc chim** → **Rìu** → **Bình tưới** (nâng đúng lúc TV báo mai mưa để không lỡ tưới) → **Cuốc**. 2.000g = 20 hạt Dâu tây, nên ưu tiên gom vốn Ngày 13 trước, nâng sau lễ hội.
 
@@ -238,7 +238,7 @@ Mốc 1/3 mùa Xuân. Pierre nghỉ, Nữ hoàng Nước sốt chiếu lại (c�
 |---|---|
 | 💰 Tiền | ≥ 3.000g, đang tăng |
 | 🌾 Ruộng | Kín cây, có Bù nhìn nếu >16 cây |
-| 🏗️ Công trình | Lò luyện chạy · ≥2 Rương (Kho cỏ chưa cần, để sau khi có gia súc) |
+| 🏗️ Công trình | Lò nung chạy · ≥2 Rương (Kho cỏ chưa cần, để sau khi có gia súc) |
 | ⛏️ Mỏ | Thang máy tầng 20–30 |
 | 🎣 Câu cá | Cấp 2+ |
 | 🧩 Gói CĐ | Lượm Xuân gần đủ · giữ 1 Củ cải vàng cho Cây Xuân |

@@ -37,7 +37,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Vòi phun nước (Sprinkler) > tưới tay:** Vòi phun Chất lượng / Iridium giải phóng cả buổi sáng. Có Sprinkler sớm ngày nào lãi ngày đó.
 - **Bố trí máy theo cụm** để dùng chung 1 rương (kết hợp Automate — xem [[Mods]]).
 - **Phân bón (Fertilizer):** Đất Giữ Ẩm Cao Cấp (Deluxe Retaining Soil) để khỏi tưới, Phân Chất Lượng (Quality Fertilizer) để tăng phẩm cấp. **Phải bón trước khi cây lớn.**
-- **Hũ ngâm (Preserves Jar) vs Thùng ủ (Keg):** Hũ ngâm nhanh hơn cho rau củ; Thùng ủ lời hơn cho hoa quả (làm Rượu vang).
+- **Vại Bảo quản (Preserves Jar) vs Thùng chứa (Keg):** Vại Bảo quản nhanh hơn cho rau củ; Thùng chứa lời hơn cho hoa quả (làm Rượu vang).
 
 ### Cơ chế & lộ trình lên cấp (1.6)
 
@@ -47,7 +47,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Mùa vụ:** Mỗi mùa **28 ngày**. Trồng phải tính ngày chín — trồng muộn là mất trắng khi sang mùa. Ưu tiên cây tái thu hoạch nếu còn đủ ngày.
 - **Chất lượng nông sản (Thường → Bạc → Vàng → Iridium):** quyết định bởi **cấp kỹ năng** + **phân bón**. Chênh lệch giá rất lớn, nên bón phân từ đầu.
 - **3 nhóm phân bón:** tăng **chất lượng** · tăng **tốc độ lớn** · **giữ ẩm**. Chọn theo mục tiêu từng vụ, không rải bừa.
-- **Mốc cấp độ quan trọng:** mở khóa **Vòi phun nước** → **Thùng ủ (Keg)**. Hai thứ đổi đời, càng sớm càng tốt.
+- **Mốc cấp độ quan trọng:** mở khóa **Vòi phun nước** → **Thùng chứa (Keg)**. Hai thứ đổi đời, càng sớm càng tốt.
 - **Bậc thầy Trồng trọt (Mastery, 1.6):** thưởng **Lưỡi hái Iridium** và **Tượng Chúc Lành** — mục tiêu dài hạn đáng cày.
 
 > [!nghe] Chọn nhánh nghề Trồng trọt
@@ -108,7 +108,7 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 >
 > Tặng **cổ vật đầu tiên** cho Bảo tàng → nhận **1 gói hạt** + **công thức chế tác** `1 cổ vật → 1 gói hạt`. Nên công thức trông như "Hạt giống cổ đại → Hạt giống cổ đại" là **đúng**, không phải lỗi: cổ vật nhặt về sau cứ chế hết thành hạt.
 >
-> Trái cổ đại: Xuân–Thu, **28 ngày** lớn lần đầu rồi **7 ngày** ra trái lại, cây sống mãi; **không trồng được trong chậu** — hợp nhất là Nhà kính. Nhân giống bằng **Máy làm hạt giống (Seed Maker)** trước khi đem ủ rượu (xem [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền]]).
+> Trái cổ đại: Xuân–Thu, **28 ngày** lớn lần đầu rồi **7 ngày** ra trái lại, cây sống mãi; **không trồng được trong chậu** — hợp nhất là Nhà kính. Nhân giống bằng **Máy tạo Hạt giống (Seed Maker)** trước khi đem ủ rượu (xem [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền]]).
 
 > [!tien] Đất sét — gom từ Ngày 1, đừng đợi tới lúc cần
 > **Kho cỏ (Silo) cần 10 Đất sét.** Đất sét gần như chỉ ra từ điểm giun đất (cuốc đất thường cũng có tỉ lệ nhỏ). Đào tốn **2 năng lượng**/nhát, mà `InfiniteStamina` đang bật nên với máy này là **miễn phí** — thấy giun là đào, không có lý do bỏ qua.
@@ -244,11 +244,11 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 | **Hạ năm 1** | **Việt quất (Blueberry)** trồng dày | Cây tái thu hoạch, lãi cao nhất đầu game |
 | **Thu năm 1** | **Nam việt quất (Cranberry)** · **Hạt Giống Hiếm** | Hạt Giống Hiếm → **Quả Ngọc Ngọt (Sweet Gem Berry)** bán rất cao |
 | **Đông năm 1** | Đi mỏ, câu cá, kết bạn, xây dựng | Ngoài trời không trồng được (trừ Nhà kính) — dồn sức lên cấp |
-| **Từ năm 2** | **Trái cổ đại (Ancient Fruit)** + dàn **Thùng ủ → Rượu vang** | Hướng làm giàu bền vững nhất |
+| **Từ năm 2** | **Trái cổ đại (Ancient Fruit)** + dàn **Thùng chứa (Keg) → Rượu vang** | Hướng làm giàu bền vững nhất |
 | **Bất kỳ lúc nào** | **Heo (Pig) → Nấm cục (Truffle) → Dầu nấm cục** | Nuôi Hạ/Thu, dùng Máy ép dầu (Oil Maker) |
 
 > [!tien] Nguyên tắc chung — chế biến trước khi bán
-> Rượu vang (Wine) / Mứt (Jelly) / Bia Nhạt (Pale Ale) lời hơn bán thô rất nhiều — kết hợp nghề **Nghệ nhân (Artisan +40%)**. Dùng **Máy làm hạt giống (Seed Maker)** để nhân giống cây đắt thay vì mua hạt.
+> Rượu vang (Wine) / Mứt (Jelly) / Bia Nhạt (Pale Ale) lời hơn bán thô rất nhiều — kết hợp nghề **Nghệ nhân (Artisan +40%)**. Dùng **Máy tạo Hạt giống (Seed Maker)** để nhân giống cây đắt thay vì mua hạt.
 
 ## ❤️ Kết bạn & hẹn hò
 
@@ -341,12 +341,12 @@ Series **"Hiểu tất cả về nghề … Stardew Valley 1.6"** của **Duy Ha
 |---------------|----------|
 | 0:38 – 2:37 | Cơ chế cơ bản: mùa vụ 28 ngày, quy trình trồng, chọn cây phù hợp |
 | 2:38 – 4:33 | Chất lượng nông sản (Bạc/Vàng/Iridium) & 3 loại phân bón |
-| 4:34 – 7:26 | Cấp độ Trồng trọt: mở Vòi phun nước, Thùng ủ, chọn nhánh nghề |
+| 4:34 – 7:26 | Cấp độ Trồng trọt: mở Vòi phun nước, Thùng chứa (Keg), chọn nhánh nghề |
 | 7:27 – 8:33 | Chiến lược cây trồng: Cải xoăn → Khế, Quả Cổ Đại |
 | 8:34 – 10:39 | Chăn nuôi, hàng thủ công & Bậc thầy Trồng trọt |
 | 10:40 – 11:14 | Sai lầm phổ biến của người mới |
 
-_Chốt lại: nắm cơ chế ẩn + lên kế hoạch mùa vụ + đầu tư sớm vào Thùng ủ & Vòi phun nước = làm giàu nhanh._
+_Chốt lại: nắm cơ chế ẩn + lên kế hoạch mùa vụ + đầu tư sớm vào Thùng chứa & Vòi phun nước = làm giàu nhanh._
 
 ### ⚔️ [Nghề Chiến Đấu — 16 phút](https://www.youtube.com/watch?v=1Y8_09qM0zg&list=PLh3aAomQoagMCHQad6qA38wHQi5BLY3KE&index=1)
 

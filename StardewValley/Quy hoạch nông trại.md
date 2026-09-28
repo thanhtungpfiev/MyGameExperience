@@ -41,7 +41,7 @@
 ## 🧭 Nguyên tắc bố trí (áp dụng cho mọi mẫu)
 
 - **Vòi phun nước quyết định hình ruộng:** Vòi phun Chất lượng phủ **3×3**, Vòi phun Iridium phủ **5×5** — cày ruộng theo đúng khối đó, đừng cày tràn lan. Dùng mod **Range Highlight** để xem vùng phủ (xem [[Mods]]).
-- **Cụm máy phải chạm 1 rương** nếu dùng **Automate** — gom Thùng ủ/Hũ ngâm thành khối vuông quanh rương. Rương loại này để **màu riêng**, xem [[#📦 Kho & rương — bảng màu và cách đặt tên|mục Kho & rương]] bên dưới.
+- **Cụm máy phải chạm 1 rương** nếu dùng **Automate** — gom Thùng chứa (Keg)/Vại Bảo quản (Preserves Jar) thành khối vuông quanh rương. Rương loại này để **màu riêng**, xem [[#📦 Kho & rương — bảng màu và cách đặt tên|mục Kho & rương]] bên dưới.
 - **Chừa lối đi 1 ô** giữa các khối để không phải giẫm lên đất trồng.
 - **Đặt máy/chuồng gần thùng vận chuyển** để cuối ngày bán nhanh, đỡ tốn thời gian đi lại.
 - **Cây ăn quả** cần chừa trống **8 ô xung quanh** mới lớn được — trồng sát rìa hoặc thành hàng riêng.
@@ -104,7 +104,7 @@ Cặp **xanh lá nhạt → xanh lá đậm** cố ý đi liền nhau: hạt gi�
 > Nguồn: [Tailoring – Stardew Valley Wiki](https://stardewvalleywiki.com/Tailoring).
 
 > [!info] Nguồn danh sách vật phẩm
-> Chiến lợi phẩm quái vật tổng hợp từ [Monster Loot](https://stardewvalleywiki.com/Monster_Loot) và [Bat Wing](https://stardewvalleywiki.com/Bat_Wing) — riêng Cánh dơi **chỉ rơi khi đánh Dơi**, không liên quan tới việc chọn Hang Dơi/Nấm trên farm. Trứng cá muối/ướp xác nhận là **Hàng thủ công** (qua Hũ ngâm), Roe thô mới thuộc nhóm Cá — theo [Roe – Stardew Valley Wiki](https://stardewvalleywiki.com/Roe).
+> Chiến lợi phẩm quái vật tổng hợp từ [Monster Loot](https://stardewvalleywiki.com/Monster_Loot) và [Bat Wing](https://stardewvalleywiki.com/Bat_Wing) — riêng Cánh dơi **chỉ rơi khi đánh Dơi**, không liên quan tới việc chọn Hang Dơi/Nấm trên farm. Trứng cá muối/ướp xác nhận là **Hàng thủ công** (qua Vại Bảo quản), Roe thô mới thuộc nhóm Cá — theo [Roe – Stardew Valley Wiki](https://stardewvalleywiki.com/Roe).
 
 ### Tầng 3 — rương Automate, để riêng một màu
 
@@ -112,7 +112,7 @@ Cặp **xanh lá nhạt → xanh lá đậm** cố ý đi liền nhau: hạt gi�
 |---|---|---|
 | 🩵 **Xanh ngọc** (teal) | `A Thùng ủ` · `A Hũ ngâm` · `A Lò luyện` | Rương dính cụm máy, [[Mods#Automate 2.6.1\|Automate]] rút và trả đồ ở đây |
 
-- **Mỗi cụm máy một rương riêng.** Nguyên liệu của một mẻ phải nằm **cùng một rương** — than ở rương A, quặng ở rương B thì Lò luyện đứng im.
+- **Mỗi cụm máy một rương riêng.** Nguyên liệu của một mẻ phải nằm **cùng một rương** — than ở rương A, quặng ở rương B thì Lò nung đứng im.
 - Bật **`prefer this chest for output`** (icon bút chì của Chests Anywhere) trên rương xanh ngọc để thành phẩm luôn về đúng chỗ.
 - Để riêng một màu **không dùng cho việc gì khác** thì không bao giờ lỡ tay đổ rượu vào rương đầu vào của máy.
 
@@ -138,4 +138,4 @@ Cặp **xanh lá nhạt → xanh lá đậm** cố ý đi liền nhau: hạt gi�
 > _Mở planner, kéo thả theo ý rồi chụp màn hình lưu vào `assets/` với tên `my-farm-plan.png`, chèn vào đây bằng `![[assets/my-farm-plan.png|700]]`._
 
 - [ ] Vẽ bản quy hoạch năm 1
-- [ ] Vẽ bản quy hoạch dài hạn (có nhà kính + dàn Thùng ủ)
+- [ ] Vẽ bản quy hoạch dài hạn (có nhà kính + dàn Thùng chứa (Keg))

@@ -48,7 +48,7 @@
 | `F8` | MultiSave - Continued | Tạo bản lưu mốc thủ công |
 | `F10` | Stardew Dashboard | Mở bảng thống kê tổng hợp |
 | `Shift trái` (giữ) | Range Highlight | Hiện **tất cả** vùng tác dụng |
-| `J` / `H` / `R` / `O` (giữ) | Range Highlight | Vùng Chòi Junimo / Nhà ong / Vòi phun nước / Bù nhìn |
+| `J` / `H` / `R` / `O` (giữ) | Range Highlight | Vùng Lều Junimo / Nhà ong / Vòi phun nước / Bù nhìn |
 | `F` | Better Crafting | Đánh dấu ⭐ yêu thích công thức đang rê chuột |
 | `Shift trái` (giữ lúc mở) | Better Crafting | Mở **menu chế tạo gốc** thay vì menu mod |
 | `F6` | MouseMoveMode | Bật/tắt đi bằng chuột phải |
@@ -228,7 +228,7 @@ Thêm widget nâng cao cho GMCM, vốn chỉ có bật/tắt, ô số, ô chữ,
 >
 > | Tính năng trùng | Mod chuyên dụng | Vì sao giữ mod kia |
 > |---|---|---|
-> | Vùng Vòi phun nước / Bù nhìn / Nhà ong / Chòi Junimo | [[#Range Highlight 4.2.1\|Range Highlight]] | Có thêm bom (3 vòng), khúc gỗ nấm, đổi màu, phím giữ/toggle |
+> | Vùng Vòi phun nước / Bù nhìn / Nhà ong / Lều Junimo | [[#Range Highlight 4.2.1\|Range Highlight]] | Có thêm bom (3 vòng), khúc gỗ nấm, đổi màu, phím giữ/toggle |
 > | Vị trí dân làng trên bản đồ | [[#NPC Map Locations 3.5.2\|NPC Map Locations]] | Có minimap, lọc NPC, hiện quái/thú nuôi |
 > | Thanh XP | [[#Experience Bars 1.4.6\|Experience Bars]] | **Tùy ý:** Experience Bars hiện **cả 5 kỹ năng cùng lúc**; UI Info Suite 2 chỉ hiện thanh liên quan tới việc đang làm → gọn hơn |
 
@@ -300,11 +300,11 @@ Hiện **bong bóng suy nghĩ** trên đầu dân làng — báo món quà họ 
 
 ![[assets/range-highlight.png|600]]
 
-Tô sáng vùng tác dụng của Vòi phun nước, Bù nhìn, Nhà ong, Chòi Junimo, Khúc gỗ nấm, bom...
+Tô sáng vùng tác dụng của Vòi phun nước, Bù nhìn, Nhà ong, Lều Junimo, Khúc gỗ nấm, bom...
 
-**Cách dùng** — vùng **tự hiện** khi **cầm vật đó lên tay**, hoặc khi **rê chuột vào Chòi Junimo**. Muốn xem mà không cần cầm gì thì **giữ phím tắt**. Dùng để xếp Vòi phun nước phủ kín mà không chồng lấn.
+**Cách dùng** — vùng **tự hiện** khi **cầm vật đó lên tay**, hoặc khi **rê chuột vào Lều Junimo**. Muốn xem mà không cần cầm gì thì **giữ phím tắt**. Dùng để xếp Vòi phun nước phủ kín mà không chồng lấn.
 
-**Phím (giữ để hiện)** — `Shift trái` **tất cả** · `J` Chòi Junimo · `H` Nhà ong · `R` Vòi phun nước · `O` Bù nhìn. Đổi được sang kiểu **bấm bật/tắt (toggle)** thay vì phải giữ.
+**Phím (giữ để hiện)** — `Shift trái` **tất cả** · `J` Lều Junimo · `H` Nhà ong · `R` Vòi phun nước · `O` Bù nhìn. Đổi được sang kiểu **bấm bật/tắt (toggle)** thay vì phải giữ.
 
 **Cấu hình** — GMCM, cần cả **GMCMOptions** mới chỉnh được màu, và phải chỉnh từ **màn hình tiêu đề**. Không có GMCM thì sửa `config.json` trong thư mục mod.
 
@@ -626,7 +626,7 @@ Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Cla
 ![[assets/chests-anywhere-1.png|600]]
 ![[assets/chests-anywhere-2.png|600]]
 
-Mở **mọi rương, tủ quần áo, tủ lạnh, thùng ship và Chòi Junimo từ bất cứ đâu** — từ trên giường tới tầng mỏ sâu nhất, khỏi chạy về nhà. Tác giả **Pathoschild** (cùng nhà với Content Patcher, Lookup Anything, Automate). Đang cài **bản unlimited** (`Range: Unlimited` — với tay tới mọi rương, mọi nơi).
+Mở **mọi rương, tủ quần áo, tủ lạnh, thùng ship và Lều Junimo từ bất cứ đâu** — từ trên giường tới tầng mỏ sâu nhất, khỏi chạy về nhà. Tác giả **Pathoschild** (cùng nhà với Content Patcher, Lookup Anything, Automate). Đang cài **bản unlimited** (`Range: Unlimited` — với tay tới mọi rương, mọi nơi).
 
 **Cách dùng** — bấm `B` → hai ô chọn ở trên: **nhóm (category)** và **rương** trong nhóm đó. Bấm **icon bút chì** khi đang mở một rương để **đặt tên · gán nhóm · đổi thứ tự · ẩn rương** khỏi danh sách. Rê chuột vào rương ngoài đời thật cũng hiện tên của nó.
 
