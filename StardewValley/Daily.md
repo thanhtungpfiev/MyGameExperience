@@ -34,7 +34,7 @@
 **Lưu ý:**
 - Củ cải vàng chín sau 4 ngày → thu hoạch Ngày 5.
 - Giữ lại Gỗ/Đá, đừng bán — sau này xây/nâng cấp tốn nhiều.
-- ⚠️ Cắt cỏ ngày 1 KHÔNG ra cỏ khô — chưa có Silo (Kho cỏ) thì cắt cỏ = mất trắng.
+- ⚠️ Cắt cỏ ngày 1 KHÔNG ra cỏ khô — chưa có Silo (Kho chứa Cỏ) thì cắt cỏ = mất trắng.
 - ⚠️ Chưa xuống mỏ được (đá lở chặn tới Ngày 5), chưa câu cá được (chưa có cần).
 
 ---
@@ -86,12 +86,12 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 
 **Việc cần làm:**
 - [x] Tưới Củ cải vàng lần cuối (mai hái)
-- [x] Gom Gỗ, Đá, **Đất sét** (ra khi cuốc đất thường/điểm giun đất) cho: Rương (50 Gỗ) · Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) · Kho cỏ (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g)
+- [x] Gom Gỗ, Đá, **Đất sét** (ra khi cuốc đất thường/điểm giun đất) cho: Rương (50 Gỗ) · Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) · Kho chứa Cỏ (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g)
 - [x] Chuẩn bị đồ ăn hồi máu + chừa ô túi trống cho chuyến mỏ ngày mai
 
 **Lưu ý:**
 - ⚠️ Ngày mai phải vào Thị trấn từ Bến xe buýt, 08:00–13:00, **không mưa** mới mở được Trung tâm Cộng đồng — kiểm tra dự báo tối nay, mai mưa thì phải hoãn.
-- Kho cỏ chưa xây được hôm nay (5 Thỏi Đồng cần quặng đồng dưới mỏ, Ngày 5 mới mở). **Không gấp** — cỏ khô chỉ dùng để nuôi gia súc (Chuồng gà/Chuồng bò), mà Chuồng gà tốn tới 4.000g nên khó xây được sớm trong mùa Xuân năm đầu. Ưu tiên đào mỏ, gom quặng, đặt Lò nung trước; xây Kho cỏ khi nào rảnh tay, khoảng Ngày 7–10 cũng không sao.
+- Kho chứa Cỏ chưa xây được hôm nay (5 Thỏi Đồng cần quặng đồng dưới mỏ, Ngày 5 mới mở). **Không gấp** — cỏ khô chỉ dùng để nuôi gia súc (Chuồng gia cầm/Chuồng Gia súc), mà Chuồng gia cầm tốn tới 4.000g nên khó xây được sớm trong mùa Xuân năm đầu. Ưu tiên đào mỏ, gom quặng, đặt Lò nung trước; xây Kho cỏ khi nào rảnh tay, khoảng Ngày 7–10 cũng không sao.
 
 ---
 
@@ -142,11 +142,11 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 ⚠️ **Từ hôm nay thời tiết hết cố định** (Năm 1 chỉ ép sẵn Ngày 1–4) — trừ ngày lễ hội (13, 24) luôn nắng, còn lại ngẫu nhiên hoàn toàn.
 
 **Việc cần làm:**
-- [x] Đặt Lò nung (nếu có thư Clint), nấu Thỏi Đồng — 5 Quặng Đồng + 1 Than → 1 Thỏi, ~30 phút/mẻ, mỗi mẻ ăn 1 Than. Đồng nấu ra ưu tiên dùng nâng cấp Cuốc/Rìu trước, dư ra mới dành cho Kho cỏ (5 Thỏi)
+- [x] Đặt Lò nung (nếu có thư Clint), nấu Thỏi Đồng — 5 Quặng Đồng + 1 Than → 1 Thỏi, ~30 phút/mẻ, mỗi mẻ ăn 1 Than. Đồng nấu ra ưu tiên dùng nâng cấp Cuốc/Rìu trước, dư ra mới dành cho Kho chứa Cỏ (5 Thỏi)
 - [x] 🧙 Lên Tháp Pháp sư (Rừng Cindersap, tây hồ) **trước khi vào CC** — lấy khả năng đọc chữ Junimo (bắt buộc, chưa làm là chưa nộp gói được dù CC đã mở)
 - [x] Vào CC đọc bảng gói — 4 nhóm gói làm được trong Xuân: **Lượm Xuân** (4 món nhặt dọc đường, dễ nhất) · **Cây Xuân** (Củ cải vàng/Đậu xanh/Súp lơ/Khoai tây, phải trồng đủ) · **Xây dựng** (99 Gỗ, 99 Gỗ, 99 Đá, 10 Gỗ Cứng — cần Rìu Đồng) · **Cá** (giữ 1 con mỗi loại)
 - [x] Chế Rương (50 Gỗ) và Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) — từ 16 cây trở lên quạ bắt đầu phá ruộng
-- [ ] *(Không gấp)* Đặt Robin xây Kho cỏ nếu đã đủ nguyên liệu (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g — Xưởng Mộc mở 09:00–18:00, nghỉ Thứ Ba, xây mất 2 ngày) — chưa đủ thì để dành, xây trễ vài ngày không ảnh hưởng gì vì chưa có gia súc để ăn cỏ khô
+- [ ] *(Không gấp)* Đặt Robin xây Kho chứa Cỏ nếu đã đủ nguyên liệu (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g — Xưởng Mộc mở 09:00–18:00, nghỉ Thứ Ba, xây mất 2 ngày) — chưa đủ thì để dành, xây trễ vài ngày không ảnh hưởng gì vì chưa có gia súc để ăn cỏ khô
 - [x] Ghé Bảng tin nhiệm vụ cạnh Pierre — thường chỉ cần mang 1 món, thưởng tiền + tình cảm gần như miễn phí
 - [x] Xuống mỏ gom thêm quặng Đồng + đá nếu còn năng lượng
 
@@ -178,7 +178,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 
 ### ☀️ Ngày 8 (Thứ Hai) — ⛏️ ngày cày mỏ
 
-Kho cỏ xong hôm nay nếu đã đặt Robin từ Ngày 6 (không đặt cũng không sao, chưa cần gấp). Trại Marnie nghỉ Thứ Hai & Ba.
+Kho chứa Cỏ xong hôm nay nếu đã đặt Robin từ Ngày 6 (không đặt cũng không sao, chưa cần gấp). Trại Marnie nghỉ Thứ Hai & Ba.
 
 **⛏️ Mốc trong mỏ:**
 
@@ -194,7 +194,7 @@ Kho cỏ xong hôm nay nếu đã đặt Robin từ Ngày 6 (không đặt cũng
 **Việc cần làm:**
 - [x] Xuống mỏ, mục tiêu cắm mốc thang máy **tầng 20–30**, nhặt 2 rương ở tầng 10 & 20
 - [x] Diệt đủ 10 Slime → mở **Hội Phiêu lưu** ở Ngọn núi (14:00–22:00, bán kiếm/giày/nhẫn)
-- [x] *(Không gấp)* Nấu thêm Thỏi Đồng ở Lò nung nếu dư quặng — ưu tiên vẫn là nâng cấp công cụ, Kho cỏ để sau
+- [x] *(Không gấp)* Nấu thêm Thỏi Đồng ở Lò nung nếu dư quặng — ưu tiên vẫn là nâng cấp công cụ, Kho chứa Cỏ để sau
 
 **🔨 Thứ tự nâng cấp công cụ** (Clint, 09:00–16:00, mỗi lần 2.000g + 5 Thỏi Đồng, khóa công cụ 2 ngày): **Cuốc chim** → **Rìu** → **Bình tưới** (nâng đúng lúc TV báo mai mưa để không lỡ tưới) → **Cuốc**. 2.000g = 20 hạt Dâu tây, nên ưu tiên gom vốn Ngày 13 trước, nâng sau lễ hội.
 
@@ -238,7 +238,7 @@ Mốc 1/3 mùa Xuân. Pierre nghỉ, Nữ hoàng Nước sốt chiếu lại (c�
 |---|---|
 | 💰 Tiền | ≥ 3.000g, đang tăng |
 | 🌾 Ruộng | Kín cây, có Bù nhìn nếu >16 cây |
-| 🏗️ Công trình | Lò nung chạy · ≥2 Rương (Kho cỏ chưa cần, để sau khi có gia súc) |
+| 🏗️ Công trình | Lò nung chạy · ≥2 Rương (Kho chứa Cỏ chưa cần, để sau khi có gia súc) |
 | ⛏️ Mỏ | Thang máy tầng 20–30 |
 | 🎣 Câu cá | Cấp 2+ |
 | 🧩 Gói CĐ | Lượm Xuân gần đủ · giữ 1 Củ cải vàng cho Cây Xuân |
@@ -260,7 +260,7 @@ Thiếu mục nào thì 3 ngày tới ưu tiên bù mục đó.
 **Việc cần làm:**
 - [x] Tặng quà sinh nhật Vincent
 - [x] Đối chiếu bảng chốt, chọn 1–2 mục yếu nhất để cày tiếp
-- [x] *(Tùy chọn, không gấp)* Đặt Robin xây Kho cỏ nếu dư tiền/nguyên liệu và muốn xây trước — chưa có gia súc thì để hẳn sang khi định xây Chuồng gà/Chuồng bò cũng được
+- [x] *(Tùy chọn, không gấp)* Đặt Robin xây Kho chứa Cỏ nếu dư tiền/nguyên liệu và muốn xây trước — chưa có gia súc thì để hẳn sang khi định xây Chuồng gia cầm/Chuồng Gia súc cũng được
 - [x] Gieo nốt Súp lơ (hạn chót Xuân 16)
 
 > [!warning] Chuẩn bị Ngày 13 — Lễ hội Trứng (còn 3 ngày)

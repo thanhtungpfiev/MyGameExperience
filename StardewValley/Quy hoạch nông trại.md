@@ -26,7 +26,7 @@
 
 ![[assets/standard-farm-plan-hieu-qua.jpg|700]]
 
-- Chia khu rõ ràng: **nhà kính + chuồng/kho** trên cùng, **ruộng lớn bố trí vòi phun** ở giữa, **khu chăn nuôi** góc dưới trái.
+- Chia khu rõ ràng: **nhà kính + chuồng/kho** trên cùng, **ruộng lớn bố trí vòi tưới** ở giữa, **khu chăn nuôi** góc dưới trái.
 - Đường đi thẳng, dễ mở rộng; hợp để cày tiền & sản xuất.
 - _Nguồn: Let's You Farm (LYF), qua [Mom's Got the Stuff](https://momsgotthestuff.com/stardew-valley-farm-layout-ideas/)_
 
@@ -40,7 +40,7 @@
 
 ## 🧭 Nguyên tắc bố trí (áp dụng cho mọi mẫu)
 
-- **Vòi phun nước quyết định hình ruộng:** Vòi phun Chất lượng phủ **3×3**, Vòi phun Iridium phủ **5×5** — cày ruộng theo đúng khối đó, đừng cày tràn lan. Dùng mod **Range Highlight** để xem vùng phủ (xem [[Mods]]).
+- **Vòi tưới cây quyết định hình ruộng:** Vòi tưới cây xịn phủ **3×3**, Vòi phun nước Iridium phủ **5×5** — cày ruộng theo đúng khối đó, đừng cày tràn lan. Dùng mod **Range Highlight** để xem vùng phủ (xem [[Mods]]).
 - **Cụm máy phải chạm 1 rương** nếu dùng **Automate** — gom Thùng chứa (Keg)/Vại Bảo quản (Preserves Jar) thành khối vuông quanh rương. Rương loại này để **màu riêng**, xem [[#📦 Kho & rương — bảng màu và cách đặt tên|mục Kho & rương]] bên dưới.
 - **Chừa lối đi 1 ô** giữa các khối để không phải giẫm lên đất trồng.
 - **Đặt máy/chuồng gần thùng vận chuyển** để cuối ngày bán nhanh, đỡ tốn thời gian đi lại.

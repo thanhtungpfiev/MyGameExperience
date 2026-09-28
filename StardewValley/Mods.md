@@ -48,7 +48,7 @@
 | `F8` | MultiSave - Continued | Tạo bản lưu mốc thủ công |
 | `F10` | Stardew Dashboard | Mở bảng thống kê tổng hợp |
 | `Shift trái` (giữ) | Range Highlight | Hiện **tất cả** vùng tác dụng |
-| `J` / `H` / `R` / `O` (giữ) | Range Highlight | Vùng Lều Junimo / Nhà ong / Vòi phun nước / Bù nhìn |
+| `J` / `H` / `R` / `O` (giữ) | Range Highlight | Vùng Lều Junimo / Nhà Ong / Vòi tưới cây / Bù nhìn |
 | `F` | Better Crafting | Đánh dấu ⭐ yêu thích công thức đang rê chuột |
 | `Shift trái` (giữ lúc mở) | Better Crafting | Mở **menu chế tạo gốc** thay vì menu mod |
 | `F6` | MouseMoveMode | Bật/tắt đi bằng chuột phải |
@@ -228,7 +228,7 @@ Thêm widget nâng cao cho GMCM, vốn chỉ có bật/tắt, ô số, ô chữ,
 >
 > | Tính năng trùng | Mod chuyên dụng | Vì sao giữ mod kia |
 > |---|---|---|
-> | Vùng Vòi phun nước / Bù nhìn / Nhà ong / Lều Junimo | [[#Range Highlight 4.2.1\|Range Highlight]] | Có thêm bom (3 vòng), khúc gỗ nấm, đổi màu, phím giữ/toggle |
+> | Vùng Vòi tưới cây / Bù nhìn / Nhà Ong / Lều Junimo | [[#Range Highlight 4.2.1\|Range Highlight]] | Có thêm bom (3 vòng), khúc gỗ nấm, đổi màu, phím giữ/toggle |
 > | Vị trí dân làng trên bản đồ | [[#NPC Map Locations 3.5.2\|NPC Map Locations]] | Có minimap, lọc NPC, hiện quái/thú nuôi |
 > | Thanh XP | [[#Experience Bars 1.4.6\|Experience Bars]] | **Tùy ý:** Experience Bars hiện **cả 5 kỹ năng cùng lúc**; UI Info Suite 2 chỉ hiện thanh liên quan tới việc đang làm → gọn hơn |
 
@@ -300,11 +300,11 @@ Hiện **bong bóng suy nghĩ** trên đầu dân làng — báo món quà họ 
 
 ![[assets/range-highlight.png|600]]
 
-Tô sáng vùng tác dụng của Vòi phun nước, Bù nhìn, Nhà ong, Lều Junimo, Khúc gỗ nấm, bom...
+Tô sáng vùng tác dụng của Vòi tưới cây, Bù nhìn, Nhà Ong, Lều Junimo, Khúc gỗ nấm, bom...
 
-**Cách dùng** — vùng **tự hiện** khi **cầm vật đó lên tay**, hoặc khi **rê chuột vào Lều Junimo**. Muốn xem mà không cần cầm gì thì **giữ phím tắt**. Dùng để xếp Vòi phun nước phủ kín mà không chồng lấn.
+**Cách dùng** — vùng **tự hiện** khi **cầm vật đó lên tay**, hoặc khi **rê chuột vào Lều Junimo**. Muốn xem mà không cần cầm gì thì **giữ phím tắt**. Dùng để xếp Vòi tưới cây phủ kín mà không chồng lấn.
 
-**Phím (giữ để hiện)** — `Shift trái` **tất cả** · `J` Lều Junimo · `H` Nhà ong · `R` Vòi phun nước · `O` Bù nhìn. Đổi được sang kiểu **bấm bật/tắt (toggle)** thay vì phải giữ.
+**Phím (giữ để hiện)** — `Shift trái` **tất cả** · `J` Lều Junimo · `H` Nhà Ong · `R` Vòi tưới cây · `O` Bù nhìn. Đổi được sang kiểu **bấm bật/tắt (toggle)** thay vì phải giữ.
 
 **Cấu hình** — GMCM, cần cả **GMCMOptions** mới chỉnh được màu, và phải chỉnh từ **màn hình tiêu đề**. Không có GMCM thì sửa `config.json` trong thư mục mod.
 
@@ -313,7 +313,7 @@ Tô sáng vùng tác dụng của Vòi phun nước, Bù nhìn, Nhà ong, Lều 
 > [!phim] Trùng phím
 > `Shift trái` là phím đi bộ chậm của game, đồng thời là phần của `Shift trái`+`F1` (Lookup Anything). Đổi trong GMCM nếu thấy vướng.
 >
-> ✅ `H` (Nhà ong) giờ đã độc quyền cho mod này — UI Info Suite 2 đã đổi Bảng nhiệm vụ sang `Q`.
+> ✅ `H` (Nhà Ong) giờ đã độc quyền cho mod này — UI Info Suite 2 đã đổi Bảng nhiệm vụ sang `Q`.
 
 > [!bom]+ Bom có tận 3 vòng, không phải 1
 > | Vòng | Tác dụng trong vòng đó | Mặc định |
@@ -331,7 +331,7 @@ Tô sáng vùng tác dụng của Vòi phun nước, Bù nhìn, Nhà ong, Lều 
 >
 > Vùng **trong/ngoài của bom**, và có tô vùng bom **đang đếm giờ dưới đất** hay không.
 >
-> Khi đang **cầm** vòi/bù nhìn/nhà ong, có tô luôn vùng của những cái **đã đặt sẵn** cùng loại không — mặc định **bật** cho Vòi phun nước & Bù nhìn, **tắt** cho Nhà ong và Khúc gỗ nấm.
+> Khi đang **cầm** vòi/bù nhìn/nhà ong, có tô luôn vùng của những cái **đã đặt sẵn** cùng loại không — mặc định **bật** cho Vòi tưới cây & Bù nhìn, **tắt** cho Nhà Ong và Khúc gỗ nấm.
 
 ### Show Missing Collection Entries 0.2.0
 
@@ -574,7 +574,7 @@ Chuyên trị đúng một việc: làm **điểm giun đất và đốm hạt g
 
 ### ClayMap 1.1
 
-Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Clay)** — tô màu theo số nhát cuốc cần thêm trước khi ra sét, khỏi phải cuốc mò từng ô để tìm đủ sét xây Kho cỏ/Silo (xem [[Daily#☀️ Ngày 4 (Thứ Năm)|Daily — Ngày 4]]). Cần SMAPI, không cần Content Patcher.
+Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Clay)** — tô màu theo số nhát cuốc cần thêm trước khi ra sét, khỏi phải cuốc mò từng ô để tìm đủ sét xây Kho chứa Cỏ/Silo (xem [[Daily#☀️ Ngày 4 (Thứ Năm)|Daily — Ngày 4]]). Cần SMAPI, không cần Content Patcher.
 
 **Cách dùng** — mở cửa sổ console SMAPI (cửa sổ dòng lệnh chạy nền cùng lúc với game, không phải gõ trong game) rồi gõ lệnh:
 - `claymap_toggle` — bật/tắt overlay
@@ -643,7 +643,7 @@ Mở **mọi rương, tủ quần áo, tủ lạnh, thùng ship và Lều Junimo
 | `ReopenLastChest` | ✅ | Lần sau bấm `B` mở lại đúng rương vừa dùng |
 | `ShowHoverTooltips` | ✅ | Rê chuột vào rương ngoài map thì hiện tên |
 | `AddOrganizePlayerInventoryButton` | ✅ | Thêm nút sắp xếp túi đồ vào menu rương |
-| `EnableSprinklerAttachments` | ❌ | Cho gắn vật vào Vòi phun nước qua menu (tính năng phụ, đang tắt) |
+| `EnableSprinklerAttachments` | ❌ | Cho gắn vật vào Vòi tưới cây qua menu (tính năng phụ, đang tắt) |
 | `DisabledInLocations` | trống | Danh sách khu **cấm** dùng mod, ví dụ `["UndergroundMine"]` để không xài được trong mỏ |
 | `EditChest` / `SortItems` | chưa gán | Hai phím phụ dùng khi đang mở rương, gán thêm trong GMCM nếu hay dùng |
 
@@ -784,6 +784,8 @@ Nhấc **cả rương lẫn đồ bên trong** mang đi chỗ khác, khỏi ph�
 **Nexus** — https://www.nexusmods.com/stardewvalley/mods/1063 · **Sơ đồ mẫu:** https://smapi.io/automate (nhiều bố cục máy–rương dựng sẵn)
 
 > [!warning] Thùng ship **bán đồ tự động** — bẫy dễ dính nhất
+> ⚠️ Bản dịch ghi thùng ship là **"Thùng rác"** (dịch nhầm _Shipping Bin_, cùng lỗi với "Thùng rác Mini") — note này vẫn gọi là **thùng ship** cho khỏi lẫn với thùng rác thật ở thị trấn.
+>
 > Mặc định thùng ship cũng là một "rương" của mod → rương nào chạm thùng ship là **đồ bị bán khi qua đêm**. Hoặc dời rương ra xa thùng ship, hoặc vào GMCM → **Shipping Bin settings** tắt hẳn.
 
 > [!info] Nguyên liệu của một công thức phải nằm **chung một rương**
@@ -850,7 +852,7 @@ Thay **cả menu Chế tạo lẫn menu Nấu ăn** bằng giao diện mới: **
 | | `Use Low Quality First` | ✅ | **Xài đồ phẩm chất thấp trước**, để dành đồ vàng/iridi đem bán hoặc tặng |
 
 > [!tip] Ba thứ đáng dùng nhất
-> **Bulk Crafting** (chuột phải) — làm 50 Vòi phun nước một lần thay vì bấm 50 cái, lại thấy trước đủ nguyên liệu hay không.
+> **Bulk Crafting** (chuột phải) — làm 50 Vòi tưới cây một lần thay vì bấm 50 cái, lại thấy trước đủ nguyên liệu hay không.
 >
 > **⭐ Yêu thích** (`F`) — công thức hay dùng có **ngôi sao bạc** và nổi lên đầu, khỏi cuộn tìm.
 >
@@ -929,7 +931,7 @@ Thay **cả menu Chế tạo lẫn menu Nấu ăn** bằng giao diện mới: **
 > Nói ngắn: **đang đánh nhau trong mỏ mà muốn đỡ đòn thì bấm nút giữa chuột**, đừng bấm chuột phải.
 
 > [!tip] `Ctrl` + lăn chuột để zoom — tiện nhất lúc quy hoạch nông trại
-> Kéo ra `0.75` để nhìn bao quát cả trại khi xếp Vòi phun nước (rất hợp dùng chung với [[#Range Highlight 4.2.1|Range Highlight]] và [[Quy hoạch nông trại]]), phóng vào `2.0` khi cần đặt chính xác từng ô.
+> Kéo ra `0.75` để nhìn bao quát cả trại khi xếp Vòi tưới cây (rất hợp dùng chung với [[#Range Highlight 4.2.1|Range Highlight]] và [[Quy hoạch nông trại]]), phóng vào `2.0` khi cần đặt chính xác từng ô.
 
 > [!info]- Vài chỗ trang Nexus ghi khác với bản 1.4.4 đang cài
 > Trang Nexus viết phím bật/tắt là `G`, nhưng `config.json` bản này để **`F6`** — lấy file trên máy làm chuẩn.
@@ -1086,7 +1088,7 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 > | **Mở rộng** | Tiền, vật phẩm, mở khoá công thức, hoàn thành Trung tâm Cộng Đồng... |
 > | **Điều khiển** | Gán lại toàn bộ phím, kể cả phím tay cầm |
 
-> [!tip] `NumPad2` + Vòi phun nước — cặp đôi lợi hại
+> [!tip] `NumPad2` + Vòi tưới cây — cặp đôi lợi hại
 > `GrowRadius: 1` nghĩa là bấm `NumPad2` làm chín cây trong ô **3×3** quanh chỗ đứng. Tăng số này trong `config.json` nếu muốn quét cả luống một lần.
 
 > [!info]- Chơi mạng (co-op) — cheat nào ảnh hưởng người khác
