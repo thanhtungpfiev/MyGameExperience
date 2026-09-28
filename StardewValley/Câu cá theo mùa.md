@@ -96,8 +96,8 @@ Bạn đã xuống tới **tầng 70** → tầng 20 và 60 đều câu được
 - [x] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
 - [x] **Cá đá** (tầng 20)
 - [ ] **Cá băng** (tầng 60) — tiện ghé khi đi mỏ, dùng thang máy xuống thẳng; tỉ lệ thấp (~5%/lần cắn), xem khung Hầm mỏ ở trên.
-- [ ] **Cá huyền thoại** — cần ngày mưa + buff +3 Câu cá (xem khung trên).
-- Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại cứ dồn cho Cá huyền thoại.
+- ⏭️ **Cá huyền thoại — để sang Xuân năm 2**, không săn trong Năm 1. Năm sau vẫn cần ngày mưa + cấp Câu cá ≥ 10 (tính cả buff); cách làm Suất đồ biền khi chưa có bếp xem khung ở Hồ trên Núi.
+- Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại của Xuân năm nay không cần dồn cho câu cá.
 
 ---
 

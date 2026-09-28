@@ -374,12 +374,6 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 - [x] Tìm Pam tặng quà sinh nhật — hay ở quán Saloon (12:00–23:00) hoặc trạm xe buýt buổi sáng; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
 - [ ] Lượm nốt Dâu rừng — **ngày cuối cùng trong năm** bụi còn ra quả
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá kiếm vốn nâng cấp túi đồ/công cụ
-- [ ] 🎣 **Chuẩn bị câu Cá huyền thoại (Legend) ngày mai** — TV báo mai mưa. Cần món **Suất đồ biền** (Dish O' The Sea, +3 Câu cá) — chi tiết xem [[Câu cá theo mùa#⛰️ Hồ trên Núi|Câu cá theo mùa]]:
-  - [ ] Saloon: mua công thức **Khoai tây chiên** (Hashbrowns) — 50g
-  - [ ] Pierre: mua **Dầu ăn** (Oil)
-  - [ ] Câu thêm **1 Cá mòi** (Sardine) ở biển — rương đã có 1, món cần 2
-  - [ ] Chế **Bộ bếp cơ động** (Cookout Kit) — 15 Gỗ + 10 Sợi + 3 Than đá; nhà chưa nâng cấp nên chưa có bếp
-  - [ ] Nấu Khoai tây chiên (Khoai tây + Dầu ăn) → nấu Suất đồ biền (2 Cá mòi + Khoai tây chiên)
 - [ ] 📦 **Giao Rong biển cho Emily** — nhiệm vụ còn **2 ngày**; rương đã có 2 Rong biển
 - [ ] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Mẹo#🪱 Điểm giun đất (Artifact Spot)|Mẹo]])
 
@@ -388,10 +382,11 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 
 ---
 
-### 🌧️ Ngày 19 (Thứ Sáu) — 🎣 Cá huyền thoại · 🛒 Xe hàng rong
+### 🌧️ Ngày 19 (Thứ Sáu) — 🛒 Xe hàng rong
+
+Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để sang Xuân năm 2** (xem [[Câu cá theo mùa#🎯 Còn làm được trong Xuân này|Câu cá theo mùa]]).
 
 **Việc cần làm:**
-- [ ] 🎣 **Câu Cá huyền thoại (Legend)** ở Hồ trên Núi — mưa + chỉ Xuân + cấp Câu cá ≥ 10 tính cả buff: **ăn Suất đồ biền** (+3 → cấp 11) ngay khi tới hồ, quăng xa bờ ≥ 4 ô; gắn **Phao hút + Mồi cao cấp** vì độ khó 110 và phải tự kéo. 1 con/save
 - [ ] Giao Rong biển cho Emily nếu hôm qua chưa kịp — **hạn chót**
 - [ ] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt Giống Hiếm/Cổ Đại nếu tuần trước chưa mua đủ
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
