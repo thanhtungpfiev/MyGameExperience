@@ -99,6 +99,17 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 
 **Bảng cổ vật khác nhau theo từng khu**, nên muốn đủ bộ Bảo tàng thì phải đào **rải khắp các khu**, đào mãi một chỗ sẽ thiếu. Cổ vật đào được bỏ thẳng vào rương **`0 ĐỪNG BÁN`** (xem [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Kho & rương]]).
 
+> [!warning] "Hạt giống cổ đại" — bản dịch đặt **cùng một tên** cho hai món khác nhau
+> | | Cổ vật (Ancient Seed) | Gói hạt (Ancient Seeds) |
+> |---|---|---|
+> | Mã game | `(O)114` | `(O)499` |
+> | Mô tả khi rê chuột | _"Hạt giống đã khô kiệt… nhìn kiểu gì cũng thấy nó đã chết lâu rồi"_ | _"Liệu chúng có nảy mầm được nữa không?"_ |
+> | Trồng được? | ❌ | ✅ ra **Trái cổ đại (Ancient Fruit)** |
+>
+> Tặng **cổ vật đầu tiên** cho Bảo tàng → nhận **1 gói hạt** + **công thức chế tác** `1 cổ vật → 1 gói hạt`. Nên công thức trông như "Hạt giống cổ đại → Hạt giống cổ đại" là **đúng**, không phải lỗi: cổ vật nhặt về sau cứ chế hết thành hạt.
+>
+> Trái cổ đại: Xuân–Thu, **28 ngày** lớn lần đầu rồi **7 ngày** ra trái lại, cây sống mãi; **không trồng được trong chậu** — hợp nhất là Nhà kính. Nhân giống bằng **Máy làm hạt giống (Seed Maker)** trước khi đem ủ rượu (xem [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền]]).
+
 > [!tien] Đất sét — gom từ Ngày 1, đừng đợi tới lúc cần
 > **Kho cỏ (Silo) cần 10 Đất sét.** Đất sét gần như chỉ ra từ điểm giun đất (cuốc đất thường cũng có tỉ lệ nhỏ). Đào tốn **2 năng lượng**/nhát, mà `InfiniteStamina` đang bật nên với máy này là **miễn phí** — thấy giun là đào, không có lý do bỏ qua.
 
@@ -217,7 +228,7 @@ Cấp mở khoá và nguyên liệu lấy từ file game 1.6.15 (`Data/CraftingR
 | **Hạ năm 1** | **Việt quất (Blueberry)** trồng dày | Cây tái thu hoạch, lãi cao nhất đầu game |
 | **Thu năm 1** | **Nam việt quất (Cranberry)** · **Hạt Giống Hiếm** | Hạt Giống Hiếm → **Quả Ngọc Ngọt (Sweet Gem Berry)** bán rất cao |
 | **Đông năm 1** | Đi mỏ, câu cá, kết bạn, xây dựng | Ngoài trời không trồng được (trừ Nhà kính) — dồn sức lên cấp |
-| **Từ năm 2** | **Quả Cổ Đại (Ancient Fruit)** + dàn **Thùng ủ → Rượu vang** | Hướng làm giàu bền vững nhất |
+| **Từ năm 2** | **Trái cổ đại (Ancient Fruit)** + dàn **Thùng ủ → Rượu vang** | Hướng làm giàu bền vững nhất |
 | **Bất kỳ lúc nào** | **Heo (Pig) → Nấm cục (Truffle) → Dầu nấm cục** | Nuôi Hạ/Thu, dùng Máy ép dầu (Oil Maker) |
 
 > [!tien] Nguyên tắc chung — chế biến trước khi bán
