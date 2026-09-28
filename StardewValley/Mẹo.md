@@ -166,7 +166,7 @@ Cấp mở khoá và nguyên liệu lấy từ file game 1.6.15 (`Data/CraftingR
 | Phao câu tín hiệu (Sonar Bobber) | Câu cá 6 | 1 Thỏi sắt + 2 Thạch anh tinh luyện | Biết con nào cắn câu trước khi kéo — **thừa**, [[Mods#Fishing Info Overlays 1.3.2\|Fishing Info Overlays]] đã hiện sẵn |
 | ❌ Phao câu (Spinner) · Phao xoay có Trang trí (Dressed Spinner) | Câu cá 6 · 8 | — | Chỉ làm cá cắn nhanh — `InstantBite` đã lo |
 | **Mồi cao cấp (Deluxe Bait)** | Câu cá 4 | 5 Mồi + 2 Rêu → 5 cái | ⭐ Ngoài cắn nhanh còn **làm thanh câu to hơn** → vẫn đáng gắn |
-| **Mồi riêng loài** | Máy làm mồi (Bait Maker), Câu cá 6 | con cá cần săn | Tăng tỉ lệ đúng loài đó — săn cá cho bộ sưu tập |
+| **Mồi riêng loài** | Máy Làm Mồi Câu (Bait Maker), Câu cá 6 | con cá cần săn | Tăng tỉ lệ đúng loài đó — săn cá cho bộ sưu tập |
 | **Mồi dân dã (Wild Bait)** | công thức từ Linus | 10 Sợi + 5 Thịt côn trùng + 5 Slime → 5 cái | Có cơ hội ra 2 con một lần |
 | **Nam châm (Magnet)** | Câu cá 9 | 1 Thỏi sắt → 3 cái | Tăng tỉ lệ ra rương báu vật, đổi lại cá cắn chậm hơn — với `InstantBite` thì cái giá này gần như mất _(suy từ mô tả, chưa thử)_ |
 | ❌ Mồi (Bait) | Câu cá 2 | 1 Thịt côn trùng → 5 cái | Chỉ làm cá cắn nhanh |
