@@ -110,7 +110,7 @@ Cặp **xanh lá nhạt → xanh lá đậm** cố ý đi liền nhau: hạt gi�
 
 | Màu | Tên rương | Vai trò |
 |---|---|---|
-| 🩵 **Xanh ngọc** (teal) | `A Thùng ủ` · `A Hũ ngâm` · `A Lò luyện` | Rương dính cụm máy, [[Mods#Automate 2.6.1\|Automate]] rút và trả đồ ở đây |
+| 🩵 **Xanh ngọc** (teal) | `A Thùng chứa` · `A Vại Bảo quản` · `A Lò nung` | Rương dính cụm máy, [[Mods#Automate 2.6.1\|Automate]] rút và trả đồ ở đây |
 
 - **Mỗi cụm máy một rương riêng.** Nguyên liệu của một mẻ phải nằm **cùng một rương** — than ở rương A, quặng ở rương B thì Lò nung đứng im.
 - Bật **`prefer this chest for output`** (icon bút chì của Chests Anywhere) trên rương xanh ngọc để thành phẩm luôn về đúng chỗ.
