@@ -233,14 +233,13 @@ Phần "đồ phụ trợ" bắt đầu từ đây — đồ lấp vào các ô 
 
 ### 🦄 Vì sao Rampart thích bộ này nhất
 
-- **Rampart có Unicorn** ❓ *(video gọi là "con ngựa")* — quân này có kỹ năng **Aura of Magic Resistance**, cộng kháng phép cho **các quân đứng cạnh**.
-- Tác giả dựng ví dụ: tách **hai con Unicorn** đứng hai bên, cho quân chủ lực đứng giữa ⇒ quân đó được cộng kháng phép từ aura, **cộng thêm 30% từ bộ đồ**, tổng lên tới **70%**.
+- **Rampart có Unicorn** *(video gọi là "con ngựa")* — quân này có kỹ năng **Aura of Magic Resistance**, cộng kháng phép cho **các quân đứng cạnh**.
+- Tác giả dựng ví dụ: tách **hai con Unicorn** đứng hai bên, cho quân chủ lực đứng giữa ⇒ quân đó được cộng kháng phép từ aura, **cộng thêm 30% từ bộ đồ**, tổng lên tới **70%** ⚠️ *(wiki: hai aura không cộng dồn — xem khung dưới)*.
 - Vì thế **Rampart là thành thích ghép bộ này nhất**; các thành khác chỉ được **30%** từ bộ nên "không đáng kể".
 
-> [!info]- Ngoài nguồn — con số 70% khớp chính xác, và đây là bộ riêng của HotA
-> Wiki: **Pendant of Reflection** (bộ **riêng của Horn of the Abyss**) cộng **20%** kháng phép, **tổng 50%** khi tính cả ba món thành phần — và riêng các món thành phần cho **30% kháng phép trong trận**, đúng con số "30%" video đọc ra. Cộng thêm **Aura of Magic Resistance** của Unicorn thì ra đúng **70%** như video nói.
-> **Nhưng hai bên chia 70% đó khác nhau** — đây là chỗ đừng đọc lướt: video tách thành **~40% từ aura Unicorn + 30% từ đồ**, còn theo wiki thì phải là **50% từ bộ đồ (bộ + đồ thành phần) + 20% từ aura**. Tổng khớp, cách chia thì không. Con số **~40% cho aura** trong video **không khớp wiki** ❓ — nhiều khả năng tác giả gộp nhầm, nhưng chưa mở game đối chiếu nên không sửa.
-> Đáng chú ý: bộ này **chỉ có ở HotA**, nên đoạn này là bằng chứng video đang nói trên nền **HotA** chứ không phải SoD thuần.
+> [!info]- Ngoài nguồn — con số 70% của video là sai; ba món 30% là đồ SoD
+> **Ba món thành phần có sẵn từ SoD:** Garniture of Interference (cổ, **+5%**), Surcoat of Counterpoise (áo choàng), Boots of Polarity (giày) — trang wiki gộp ba món là **+30% kháng phép**, đúng con số "30% từ bộ đồ" video đọc ra. Ở SoD chúng là ba món rời; chỉ **HotA** mới ghép chúng thành **Pendant of Reflection**, cộng thêm **20%** ⇒ **tổng 50%**. Vì mô tả video nói rõ là nói trên nền SoD, "bộ kháng phép" ở đây nên hiểu là **ba món rời**, không phải bằng chứng video dùng HotA (bản trước của note từng suy như vậy).
+> **Chỗ sai là aura:** trang [Unicorn](https://heroes.v.thelazy.net/index.php/Unicorn) — aura cộng **20%**, và _"This effect does not stack with multiple units of Unicorns."_ Video đặt **hai** Unicorn hai bên để lấy ~40% aura, nhưng hai aura **không cộng dồn**: vẫn chỉ 20%. Tổng đúng là **30% + 20% = 50%** ở SoD, hoặc **50% + 20% = 70%** ở HotA khi đã ghép đủ Pendant — con số 70% trùng với HotA chỉ là **tình cờ**. Kiểm wiki 30/09/2026; wiki không nói rõ aura cộng với kháng phép của tướng theo kiểu cộng thẳng hay nhân ❓.
 
 ---
 
@@ -249,7 +248,7 @@ Phần "đồ phụ trợ" bắt đầu từ đây — đồ lấp vào các ô 
 > [!warning] Cả mục này phụ đề vỡ rất nặng
 > Từ **37:54 đến 40:46** là đoạn khó đọc nhất video — tên tướng, tên đồ, tên quân đều vỡ thành chuỗi vô nghĩa (`"Arena"`, `"Marina"`, `"Avira"`, `"Alila"`, `"nourish"`, `"olmec"`). Chỉ giữ lại những ý còn dựng được mạch; phần còn lại bỏ hẳn chứ không đoán.
 
-- Với **tướng thu phục** *(Diplomacy — cách gọi đã chốt ở [[Nam InCo - CÁCH CHƠI CƠ BẢN CÁC THÀNH]])*, món quan trọng nhất là **một dây chuyền cấp 3** ❓ — mất nó thì tướng gần như hết tác dụng.
+- Với **tướng thu phục** *(Diplomacy — cách gọi đã chốt ở [[Nam InCo - CÁCH CHƠI CƠ BẢN CÁC THÀNH]])*, món quan trọng nhất là **một dây chuyền cấp 3** — nhiều khả năng là **Statesman's Medal** (xem khung dưới) — mất nó thì tướng gần như hết tác dụng.
 - Ghép được **3 món đồ hỗ trợ** thì **giảm 30% chi phí** khi cho quái đầu hàng.
 - Tác giả nói tướng thu phục là **một dòng tướng đặc biệt**, và với dòng này thì **số ô đồ trống** mới là thứ đáng tranh.
 
@@ -277,6 +276,7 @@ Phần "đồ phụ trợ" bắt đầu từ đây — đồ lấp vào các ô 
 | **Cộng kiếm giáp** | Angelic Alliance → Power of the Dragon Father → Titan's Thunder → Armor of the Damned |
 | **Mạnh thật trong trận** | Angelic Alliance ≈ Armor of the Damned → Power of the Dragon Father → Titan's Thunder |
 
+> **"Dây chuyền cấp 3" khớp Statesman's Medal:** trang [Statesman's Medal](https://heroes.v.thelazy.net/index.php/Statesman%27s_Medal) ghi món này ở **ô cổ**, hạng **Major** (cấp 3 trong bốn cấp Treasure → Minor → Major → Relic), **−10% chi phí đầu hàng**, và **có từ game gốc**. Cả ba món thành phần đều hạng Major và đều có ở SoD — nên cũng như mục kháng phép, "3 món giảm 30%" chạy được cả ở SoD với ba món rời; chỉ phần **ghép thành áo choàng** mới là của HotA. Kiểm 30/09/2026.
 - Tác giả nói thêm: **Titan's Thunder có khi còn mạnh hơn Power of the Dragon Father**, vì Power of the Dragon Father **chỉ có mỗi kháng phép**, còn Titan's Thunder **có thêm hiệu ứng phép**.
 - Và Titan's Thunder **để lại nhiều ô trống** để lắp đồ phụ trợ, trong khi Power of the Dragon Father **chiếm hết 9 ô, không lắp thêm được gì**.
 - Một chi tiết nhỏ: **Power of the Dragon Father không dùng chung được với Elixir of Life**, còn **Titan's Thunder thì được** ❓.
@@ -350,10 +350,11 @@ Phần "đồ phụ trợ" bắt đầu từ đây — đồ lấp vào các ô 
 | "vụ tài nguyên" | **Cornucopia** | Đoán — chỉ khớp ở chữ "tài nguyên"; **ranh giới với mục trên không rõ** |
 | "Bộ Ly sâm" · "bộ đầu gạch" | **Statue of Legion** | **Xác nhận** — `"Ly sâm"` ≈ **Legion**, và "+50% quân trong thành" khớp wiki nguyên văn |
 | "bộ đi biển" | **Admiral's Hat** | **Xác nhận** — bộ duy nhất liên quan đường biển |
-| "bộ kháng phép" | **Pendant of Reflection** (riêng HotA) | **Xác nhận** — chỉ bộ này cho kháng phép, và con số **30%** của đồ thành phần khớp wiki. Theo wiki thì **50% (bộ + đồ thành phần) + 20% (aura Unicorn) = 70%**; video ra cùng tổng 70% nhưng **chia khác** ❓ |
+| "bộ kháng phép" | Ba món **Garniture of Interference + Surcoat of Counterpoise + Boots of Polarity** (HotA ghép thành **Pendant of Reflection**) | **Xác nhận** — con số **30%** của ba món khớp wiki. Video nói trên nền SoD nên đây là ba món rời. Tổng **70%** của video **sai**: aura Unicorn chỉ 20% và **không cộng dồn** giữa hai con |
 | "con ngựa" (ở mục kháng phép) | **Unicorn** của Rampart | **Xác nhận** — chỉ Unicorn có **Aura of Magic Resistance** |
 | "con ngựa" (ở mục Angelic Alliance / Statue of Legion) | Quân kỵ binh cấp cao của Castle (**Cavalier/Champion**) | Khá chắc — cách gọi đã chốt ở [[Nam InCo - CÁCH CHƠI CƠ BẢN CÁC THÀNH]] |
-| "3 món đồ hỗ trợ… giảm 30% mất tiền" | **Diplomat's Cloak** (riêng HotA) | Khá chắc — chốt bằng con số **30% giảm chi phí đầu hàng**, không phải bằng tên |
+| "3 món đồ hỗ trợ… giảm 30% mất tiền" | Ba món của **Diplomat's Cloak** (bộ ghép riêng HotA; ba món rời có từ SoD) | Khá chắc — chốt bằng con số **30% giảm chi phí đầu hàng**, không phải bằng tên |
+| "dây chuyền cấp 3" (mục thu phục) | **Statesman's Medal** | Khá chắc — món duy nhất trong ba món nằm ở ô cổ, hạng Major |
 | "cung vàng" · "cung đồng" (ở mục cuối) | **Golden Bow** | Khá chắc — "bản mini của bộ cung", gỡ phạt tầm xa nhưng không gỡ phạt áp sát, khớp wiki |
 | "ngọc đỏ" · "ngọc đen" · "hộp đen" · "học đỏ" | **Orb of Vulnerability** (theo chức năng) | **Chức năng xác nhận, màu thì không** — hiệu ứng "gỡ miễn nhiễm phép, Black Dragon cũng dính" chỉ đúng Orb of Vulnerability. Nhưng video **gọi màu lẫn lộn ngay trong cùng một đoạn**, nên đừng tin chữ đỏ/đen ❓ |
 | "rồng đen" | **Black Dragon** | **Xác nhận** — quân miễn nhiễm phép, đúng ngữ cảnh |
