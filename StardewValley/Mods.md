@@ -2,7 +2,7 @@
 
 > Về [[00 Home]] · Áp dụng theo [[Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]] · 🛟 [[An toàn save]] · 📦 [[Bản XNB và bản CP]]
 >
-> _31 mục trong `F:\Games\StardewValley Mods` — **30 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
+> _32 mục trong `F:\Games\StardewValley Mods` — **31 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
 >
 > _Mỗi mục mod: dòng đầu là **công dụng**, rồi các dòng **Cách dùng / Phím / Cấu hình / Nexus**. Cảnh báo và chi tiết dài nằm trong **khối callout** — khối có dấu `-` là mặc định gấp lại, bấm để mở. Phím ghi "GMCM" = mặc định trống, tự gán trong Cài đặt → GMCM._
 
@@ -10,7 +10,7 @@
 
 1. [[#1) Bộ nền & Việt hóa (bắt buộc, cài trước)|Bộ nền & Việt hóa]] (3)
 2. [[#2) Cấu hình mod trong game|Cấu hình trong game]] (2)
-3. [[#3) Giao diện & thông tin (UI/Info)|Giao diện & thông tin]] (15)
+3. [[#3) Giao diện & thông tin (UI/Info)|Giao diện & thông tin]] (16)
 4. [[#4) Kho đồ & rương|Kho đồ & rương]] (3)
 5. [[#5) Tự động hóa & năng suất|Tự động hóa & năng suất]] (2)
 6. [[#6) Tiện ích (QoL)|Tiện ích (QoL)]] (3)
@@ -47,6 +47,7 @@
 | `F5` / `F7` | QuickSave | Lưu nhanh giữa ngày / nạp lại bản lưu nhanh |
 | `F8` | MultiSave - Continued | Tạo bản lưu mốc thủ công |
 | `F10` | Stardew Dashboard | Mở bảng thống kê tổng hợp |
+| `` ` `` | Ladder Locator | Bật/tắt tô sáng thang & hố xuống (đang để **luôn hiện**) · thêm `Shift`/`Alt`/`Ctrl`/`Ctrl`+`Shift` cho kiểu tô · độ trong · màu đá · radar quặng |
 | `Shift trái` (giữ) | Range Highlight | Hiện **tất cả** vùng tác dụng |
 | `J` / `H` / `R` / `O` (giữ) | Range Highlight | Vùng Lều Junimo / Nhà Ong / Vòi tưới cây / Bù nhìn |
 | `F` | Better Crafting | Đánh dấu ⭐ yêu thích công thức đang rê chuột |
@@ -618,6 +619,33 @@ Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Cla
 > | **Điểm giun đất / đốm hạt giống** | Visible Artifact Spots | Forage Pointers cũng làm được → **tắt `ShowArtifactSpots` + `ShowSeedSpots`** nếu thấy vẽ đè hai lớp |
 >
 > Ba mod **không xung đột kỹ thuật**, chỉ chồng hình. Cứ chơi thử một hai ngày rồi tắt bớt cho vừa mắt.
+
+### Ladder Locator 1.5.2
+
+Trong mỏ, **tô sáng hòn đá đang giấu thang hoặc hố xuống tầng** — khỏi đập mò cả tầng mới thấy lối đi. Kèm **radar quặng**: chấm chỉ hướng các cục đá quý, geode, quặng trên tầng đang đứng. Tác giả **ChaosEnergy**.
+
+**Cách dùng** — không thao tác gì, vào mỏ là thấy ô viền sáng trên hòn đá có thang. Đập đúng hòn đó là thang/hố hiện ra.
+
+**Phím** — đều dùng phím `` ` `` (dấu huyền, cạnh số `1`): `` ` `` bật/tắt tô thang & hố · `Shift trái`+`` ` `` đổi **kiểu tô** · `Alt trái`+`` ` `` đổi **độ trong** · `Ctrl trái`+`` ` `` bật/tắt **tô theo màu đá** · `Ctrl trái`+`Shift trái`+`` ` `` bật/tắt **radar quặng**.
+
+**Cấu hình** — GMCM (log SMAPI xác nhận mod có nối API GMCM) hoặc `config.json`.
+
+**Nexus** — https://www.nexusmods.com/stardewvalley/mods/3094
+
+| Tùy chọn | Đang để | Tác dụng |
+|---|---|---|
+| `ForceShafts` | ✅ | **Luôn hiện** thang & hố, khỏi phải bấm `` ` `` mỗi tầng |
+| `HighlightTypes` | `Rectangle` | Kiểu tô: khung chữ nhật (còn `Image` dùng ảnh `cracked.png`, `Sprite` tô chính hình đá) |
+| `HighlightRectangleRGBA` | trắng, đục hẳn | Màu khung |
+| `HighlightUsesStoneTint` | ✅ | Khung ăn theo màu hòn đá |
+| `NodeRadar` | ✅ | Bật radar quặng |
+| `NodeTypes` | 19 loại | Đá quý (Topaz → Kim cương, Mystic), 4 loại geode, Cinder Shard, quặng Đồng/Sắt/Vàng/Iridium/Phóng xạ |
+
+> [!tip] Hợp với lối chơi đang dùng
+> Mẹo [[Mẹo#⛏️ Khai thác (Mining)|Khai thác]] khuyên "tìm thang nhanh bằng cách đập đá và diệt quái" — mod này bỏ hẳn phần đoán mò. Với `FreezeTimeCaves` của [[#CJB Cheats Menu 1.42.0|CJB Cheats]] đang bật thì thời gian trong mỏ vốn đã không trôi, nên lợi chủ yếu là **đỡ công đập đá**, không phải đỡ giờ.
+
+> [!info]- Log SMAPI có dòng "Rewrote LadderLocator.dll to fix 32-bit architecture"
+> SMAPI tự vá DLL build kiểu cũ cho chạy trên game 64-bit — thông báo mức TRACE, không phải lỗi. Mod vẫn nạp bình thường trong danh sách "Loaded mods".
 
 ## 4) Kho đồ & rương
 
