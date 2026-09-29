@@ -394,7 +394,7 @@ Bảng theo dõi **tiến độ Hoàn hảo (Perfection)** — mỗi hạng mụ
 | 🌾 **Nông & hái lượm** | Crops Grown · Forageables · Monoculture (ship đủ số mỗi loại cây) |
 | 💜 **Xã hội & việc vặt** | Friendship (**8+ tim**) · Help Wanted Requests |
 | ⚔️ **Chiến đấu** | Monster Eradication (Monster Hunter) |
-| 🏛️ **Công trình & Stardrop** | Arcane Infrastructure (4 Obelisk + Đồng hồ vàng) · Stardrops (7 nguồn: Gói Pantry, Rương kho báu khi câu, Mỏ tầng 120, Thưởng Bảo tàng, Công thức của Bếp trưởng, Đền Sao Mùa Đông, Krobus) |
+| 🏛️ **Công trình & Stardrop** | Arcane Infrastructure (4 Obelisk + Đồng hồ vàng) · Stardrops (7 quả — nguồn từng quả xem mục 2 của [[Bí mật & Sự kiện ẩn\|Bí mật & Sự kiện ẩn]]) |
 
 > [!tip] Chọn màu cho dễ nhìn — điểm mạnh riêng của mod
 > Màu **"đã hoàn thành" vs "còn thiếu"** chỉnh được rời nhau (mặc định xanh lá `G180` / đỏ `R255`), làm riêng cho người **mù màu**. Ruột thanh mặc định là **tím** (`R150 G80 B255`) như trong ảnh. Đổi ngay trong GMCM, không cần GMCMOptions.
