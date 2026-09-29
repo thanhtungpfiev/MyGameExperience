@@ -573,7 +573,7 @@ Chuyên trị đúng một việc: làm **điểm giun đất và đốm hạt g
 > [!tip] Chọn Border hay Bubble
 > **Border** bám sát ô, không che tầm nhìn — hợp khi trong mỏ nhiều đá. **Bubble** nổi cao hơn nên thấy được cả khi điểm đó bị cỏ/cây che, nhưng rối mắt hơn ở chỗ đông vật thể.
 
-### ClayMap 1.1
+### ClayMap 2.0.0 (bản alpha cho 1.6)
 
 Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Clay)** — tô màu theo số nhát cuốc cần thêm trước khi ra sét, khỏi phải cuốc mò từng ô để tìm đủ sét xây Kho chứa Cỏ/Silo (xem [[Daily#☀️ Ngày 4 (Thứ Năm)|Daily — Ngày 4]]). Cần SMAPI, không cần Content Patcher.
 
@@ -581,9 +581,9 @@ Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Cla
 - `claymap_toggle` — bật/tắt overlay
 - `claymap_setdepth <số>` — đổi xem theo độ sâu bao nhiêu nhát cuốc
 
-**Phím** — không có phím trong game, chỉ có lệnh console (xem trên).
+**Phím** — không có phím trong game; bật/tắt bằng lệnh console (xem trên) hoặc GMCM.
 
-**Cấu hình** — không có GMCM, không có `config.json` — chỉnh hoàn toàn qua console mỗi lần muốn đổi.
+**Cấu hình** — GMCM (log SMAPI xác nhận mod có nối API GMCM) hoặc `config.json`: `ClayMap_Visible` bật overlay sẵn khi vào game (đang `false` → phải gõ `claymap_toggle`) · `ClayMap_Depth` độ sâu mặc định (đang `1`).
 
 **Nexus** — https://www.nexusmods.com/stardewvalley/mods/11903
 
