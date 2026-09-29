@@ -397,7 +397,7 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 ### ☀️ Ngày 20 (Thứ Bảy) — 🎂 Sinh nhật Shane
 
 **Việc cần làm:**
-- [ ] Tìm Shane tặng quà — hay ở Trại Marnie (nơi anh làm việc) buổi sáng, hoặc Saloon tối muộn (sau 21:00, đứng ở quầy bar); chưa rõ món Yêu thích thì tặng món Thích bất kỳ, **tránh mang hoa quả gia vị (spicy) — Shane ghét**
+- [ ] Tìm Shane tặng quà — hay ở Trại Marnie (nơi anh làm việc) buổi sáng, hoặc Saloon tối muộn (sau 21:00, đứng ở quầy bar); chưa rõ món Yêu thích thì tặng món Thích bất kỳ, **Ớt hiểm (Hot Pepper) là món Yêu thích** của Shane, có sẵn trong Hạ nên Xuân thì tặng món Thích; tránh Dưa muối (Pickles) và Thạch anh (Quartz) — Shane ghét
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [ ] Kiểm tra Dâu tây — chuẩn bị thu hoạch lứa đầu ngày mai/kia (chín Ngày 21)
 
