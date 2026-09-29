@@ -115,7 +115,7 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 - [x] Mua hạt ở Pierre bằng tiền vừa bán — chừa vốn cho Ngày 13
 - [x] Xem Xe hàng rong ở Rừng Cindersap (Tháp Pháp sư hôm nay còn khóa, để Ngày 6)
 - [x] Cày & gieo lại ruộng vừa thu hoạch, tưới
-- [x] Xuống Hầm mỏ: nhặt rương **Kiếm Gỉ** ngay lối vào, đập đá lấy quặng Đồng, ưu tiên tìm thang xuống (cứ 5 tầng có thang máy)
+- [x] Xuống Hầm mỏ: nhặt rương **Kiếm Rỉ sét** ngay lối vào, đập đá lấy quặng Đồng, ưu tiên tìm thang xuống (cứ 5 tầng có thang máy)
 
 **Lưu ý:**
 - Dây chuyền Trung tâm Cộng đồng mất 2 ngày, không gấp được: Ngày 5 vào trong CC → Ngày 6 sáng nhận thư Pháp sư → lên Tháp đọc chữ Junimo → lúc đó mới nộp gói được. **Ngày 5 chưa nộp được gói nào cả.**
@@ -151,7 +151,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 - [x] Xuống mỏ gom thêm quặng Đồng + đá nếu còn năng lượng
 
 **Lưu ý:**
-- Địa thạch (Geode) đừng đập bừa, mang Clint mở (25g/viên), ưu tiên quyên góp Bảo tàng trước khi bán.
+- Hốc tinh (Geode) đừng đập bừa, mang Clint mở (25g/viên), ưu tiên quyên góp Bảo tàng trước khi bán.
 - Trại Marnie nghỉ Thứ Hai & Ba.
 - Việc hôm nay khá nhiều, khó làm hết trong 1 ngày — ưu tiên: tưới ruộng → Tháp Pháp sư → đặt Lò nung/Rương/Bù nhìn → phần còn lại dồn sang Ngày 7–8.
 
@@ -186,7 +186,7 @@ Kho chứa Cỏ xong hôm nay nếu đã đặt Robin từ Ngày 6 (không đặ
 |---|---|
 | 1–29 | Quặng Đồng, Slime xanh, dơi — dễ |
 | **10** | 🎁 Rương: Giày Da |
-| **20** | 🎁 Rương: Kiếm Ngắn Thép |
+| **20** | 🎁 Rương: Đoản kiếm Thép |
 | 30–39 | Vẫn Đồng, quái mạnh hơn |
 | 40+ | Tầng băng, ra quặng Sắt |
 | 120 | 🎁 Chìa khóa Đầu lâu (còn xa) |
@@ -583,7 +583,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **🧩 Gói Cộng đồng theo mùa:** Lượm Thu · Cây Thu.
 
-**🔮 Bí mật:** 16 Quần đùi tím ở gian Grange (750 Vé Sao) + mua Stardrop 2.000 Vé Sao · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#🍂 Thu|Bí mật — Thu]].
+**🔮 Bí mật:** 16 Quần đùi tím ở gian Grange (750 Vé Sao) + mua Sao sa 2.000 Vé Sao · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#🍂 Thu|Bí mật — Thu]].
 
 - ⚠️ Cuối Thu (26–28): dọn cây chết, mua đủ hạt cho vụ Đông/Nhà kính, ship hết nông sản trước khi đổi mùa.
 
@@ -593,7 +593,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - Vẫn lượm được — Quả pha lê, Nghệ tây, Nhựa ruồi mọc trên mặt đất; Rễ cây mùa đông, Khoai lang tuyết phải đào điểm giun đất — xem [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
 - Mùa tốt nhất để nâng cấp công cụ (không mất buổi tưới ruộng nào).
 - **🧩 Gói Cộng đồng theo mùa:** chỉ có Lượm Đông (phòng Thủ công) — Đông **không có** gói Cây trồng riêng.
-- **🔮 Bí mật:** ⭐ 06:00–16:00 đi từ Farm sang Bến xe buýt gặp bóng đen → **Kính lúp** (mở Ghi chú bí mật) · đêm 24 đặt Sữa/Bánh quy lên bàn → Hộp bí ẩn · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#❄️ Đông|Bí mật — Đông]].
+- **🔮 Bí mật:** ⭐ 06:00–16:00 đi từ Farm sang Bến xe buýt gặp bóng đen → **Kính lúp** (mở Ghi chú bí mật) · đêm 24 đặt Sữa/Bánh quy lên bàn → Chiếc hộp bí ẩn · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#❄️ Đông|Bí mật — Đông]].
 
 **🎉 Lễ hội:** Lễ hội Băng (8, câu cá dưới băng lấy vé) · Đại tiệc Sao Đông (25, tặng quà bí mật — người nhận báo trước qua thư Lewis ngày 18; quà được x5 điểm tình cảm).
 

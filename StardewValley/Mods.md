@@ -395,7 +395,7 @@ Bảng theo dõi **tiến độ Hoàn hảo (Perfection)** — mỗi hạng mụ
 | 🌾 **Nông & hái lượm** | Crops Grown · Forageables · Monoculture (ship đủ số mỗi loại cây) |
 | 💜 **Xã hội & việc vặt** | Friendship (**8+ tim**) · Help Wanted Requests |
 | ⚔️ **Chiến đấu** | Monster Eradication (Monster Hunter) |
-| 🏛️ **Công trình & Stardrop** | Arcane Infrastructure (4 Obelisk + Đồng hồ vàng) · Stardrops (7 quả — nguồn từng quả xem mục 2 của [[Bí mật & Sự kiện ẩn\|Bí mật & Sự kiện ẩn]]) |
+| 🏛️ **Công trình & Sao sa** | Arcane Infrastructure (4 Obelisk + Đồng hồ vàng) · Stardrops (7 quả — nguồn từng quả xem mục 2 của [[Bí mật & Sự kiện ẩn\|Bí mật & Sự kiện ẩn]]) |
 
 > [!tip] Chọn màu cho dễ nhìn — điểm mạnh riêng của mod
 > Màu **"đã hoàn thành" vs "còn thiếu"** chỉnh được rời nhau (mặc định xanh lá `G180` / đỏ `R255`), làm riêng cho người **mù màu**. Ruột thanh mặc định là **tím** (`R150 G80 B255`) như trong ảnh. Đổi ngay trong GMCM, không cần GMCMOptions.
@@ -855,9 +855,9 @@ Nhấc **cả rương lẫn đồ bên trong** mang đi chỗ khác, khỏi ph�
 ![[assets/better-crafting-1.png|600]]
 ![[assets/better-crafting-2.png|500]]
 
-Thay **cả menu Chế tạo lẫn menu Nấu ăn** bằng giao diện mới: **cột phân loại** bên trái, **đánh dấu yêu thích**, **chế hàng loạt** một phát, và **Bàn thợ (Workbench) với xa hơn** — không chỉ những rương dính sát bên. Tác giả **KhloeLeclair**.
+Thay **cả menu Chế tạo lẫn menu Nấu ăn** bằng giao diện mới: **cột phân loại** bên trái, **đánh dấu yêu thích**, **chế hàng loạt** một phát, và **Bàn Chế tác (Workbench) với xa hơn** — không chỉ những rương dính sát bên. Tác giả **KhloeLeclair**.
 
-**Cách dùng** — cứ mở menu chế tạo/nấu ăn như thường, mod tự thay giao diện. **Chuột phải vào công thức** → menu **Bulk Crafting**: gõ số lượng muốn làm, mod hiện luôn tốn bao nhiêu nguyên liệu. Ảnh 1 là menu Bàn thợ với cột phân loại bên trái.
+**Cách dùng** — cứ mở menu chế tạo/nấu ăn như thường, mod tự thay giao diện. **Chuột phải vào công thức** → menu **Bulk Crafting**: gõ số lượng muốn làm, mod hiện luôn tốn bao nhiêu nguyên liệu. Ảnh 1 là menu Bàn Chế tác với cột phân loại bên trái.
 
 **Phím** — `F` (rê chuột vào công thức) **đánh dấu ⭐ yêu thích** — tay cầm bấm **Back** · giữ `Shift trái` **trong lúc mở** menu chế tạo → ra **menu gốc của game**, không bị thay. Cả hai đổi được.
 
@@ -896,16 +896,16 @@ Thay **cả menu Chế tạo lẫn menu Nấu ăn** bằng giao diện mới: **
 >
 > Trong save co-op, phân loại là **riêng của từng người**, không đè lên nhau.
 
-> [!success] Bàn thợ (Workbench) — phần cải thiện âm thầm mà đáng giá
-> Bàn thợ gốc chỉ lấy nguyên liệu từ **rương dính sát ngay bên**; mod nới rộng phạm vi này ra **nhiều rương hơn** — dựng bàn thợ giữa dãy rương kho là chế được mọi thứ mà khỏi bốc nguyên liệu ra.
+> [!success] Bàn Chế tác (Workbench) — phần cải thiện âm thầm mà đáng giá
+> Bàn Chế tác gốc chỉ lấy nguyên liệu từ **rương dính sát ngay bên**; mod nới rộng phạm vi này ra **nhiều rương hơn** — dựng bàn chế tác giữa dãy rương kho là chế được mọi thứ mà khỏi bốc nguyên liệu ra.
 >
-> Chơi co-op: bàn thợ gốc **khóa rương** khiến người khác không mở được trong lúc mình đang chế; mod bỏ hẳn cái khóa đó.
+> Chơi co-op: bàn chế tác gốc **khóa rương** khiến người khác không mở được trong lúc mình đang chế; mod bỏ hẳn cái khóa đó.
 
 > [!warning] Công thức do mod khác thêm có thể không nghe phần Quality
 > Chính mod ghi rõ trong menu: công thức đến từ nguồn khác (**SpaceCore**...) **có thể bỏ qua** hai tùy chọn `Enable Quality Limit` / `Use Low Quality First` do giới hạn API. Bộ mod hiện tại không cài SpaceCore nên chưa gặp.
 
 > [!tip]- Không thích kiểu chia tab thì tắt đi
-> Tắt `Enable Categories` là menu trở về **y hệt giao diện gốc**, nhưng vẫn giữ được chế hàng loạt, yêu thích và phần bàn thợ mở rộng.
+> Tắt `Enable Categories` là menu trở về **y hệt giao diện gốc**, nhưng vẫn giữ được chế hàng loạt, yêu thích và phần bàn chế tác mở rộng.
 
 ## 6) Tiện ích (QoL)
 

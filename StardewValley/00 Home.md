@@ -10,7 +10,7 @@
 - [[Bản đồ khu vực]] — Ảnh bản đồ từng khu + sơ đồ kết nối + từ điển địa danh Anh–Việt.
 - [[Quy hoạch nông trại]] — Bản đồ farm ban đầu, mẫu bố cục tham khảo, nguyên tắc sắp xếp.
 - [[Câu cá theo mùa]] — Cá từng mùa: chỗ, giờ, thời tiết, và đã câu được con nào.
-- [[Bí mật & Sự kiện ẩn]] — Sự kiện game không báo trước theo ngày/mùa, Stardrop, khu vực ẩn, Ghi chú bí mật.
+- [[Bí mật & Sự kiện ẩn]] — Sự kiện game không báo trước theo ngày/mùa, Sao sa (Stardrop), khu vực ẩn, Ghi chú bí mật.
 
 **Ghi chú kỹ thuật (đọc khi cần):**
 

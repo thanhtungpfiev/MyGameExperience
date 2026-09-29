@@ -9,7 +9,7 @@
 > _Độ tin: mục có nhãn **✔️ code** đã soi thẳng code game 1.6.15 (dịch ngược `Stardew Valley.dll`); còn lại lấy theo wiki (xem Nguồn cuối note)._
 
 > [!tip] Đa số sự kiện theo ngày **lặp lại mỗi năm**
-> Lỡ ở Năm 1 thì cứ chờ năm sau, không mất hẳn. Chỉ có vài thứ **làm được đúng 1 lần** (Stardrop, Thú bông Junimo, tượng trong hộp bí ẩn…) — đã ghi rõ ở từng mục.
+> Lỡ ở Năm 1 thì cứ chờ năm sau, không mất hẳn. Chỉ có vài thứ **làm được đúng 1 lần** (Sao sa, Thú bông Junimo, tượng trong hộp bí ẩn…) — đã ghi rõ ở từng mục.
 
 ---
 
@@ -37,7 +37,7 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Daily]] thì có link 
   - **Thưởng:** bị loại khỏi cuộc thi, nhưng Lewis **đút lót 750 Star Token** để bạn im lặng.
   - _Đổi lại dùng quần đó cho Luau thì hết — nên chọn 1 trong 2 dịp, hoặc lấy lại quần sau khi xong._
 - [ ] **Thu 26 — Kênh TV "???"** · ✔️ code — ⚠️ **chỉ hiện nếu đã từng biến con thành chim bồ câu** (Đền Ích kỷ tối tăm trong Túp lều Phù thủy). Chơi bình thường thì **không bao giờ thấy kênh này**.
-  - **Thưởng:** một **Búp bê cổ (Ancient Doll)** + mấy búp bê bị nguyền xuất hiện trong nhà (chỉ để dọa). Mỗi save chỉ 1 lần.
+  - **Thưởng:** một **Búp bê cổ đại (Ancient Doll)** + mấy búp bê bị nguyền xuất hiện trong nhà (chỉ để dọa). Mỗi save chỉ 1 lần.
 
 ### ❄️ Đông
 
@@ -45,7 +45,7 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Daily]] thì có link 
   - Gặp **bóng đen (Shadow Guy)** chạy trốn → mở nhiệm vụ **"A Winter Mystery"** → nhận **Kính lúp (Magnifying Glass)**.
   - Có Kính lúp mới bắt đầu nhặt được **Ghi chú bí mật (Secret Notes)** — xem mục 5.
 - [ ] **Đêm Đông 24 (trước Đại tiệc Sao Đông) — Đặt Sữa và/hoặc Bánh quy lên bàn trong nhà** · ✔️ code
-  - **Thưởng:** sáng Đông 25 món đó biến thành **Hộp bí ẩn (Mystery Box)**. **Bánh quy và Sữa tính riêng** — đặt cả hai (2 bàn) là được 2 hộp; mỗi thứ 1 lần/năm.
+  - **Thưởng:** sáng Đông 25 món đó biến thành **Chiếc hộp bí ẩn (Mystery Box)**. **Bánh quy và Sữa tính riêng** — đặt cả hai (2 bàn) là được 2 hộp; mỗi thứ 1 lần/năm.
 
 ### 🔁 Mọi mùa
 
@@ -55,7 +55,7 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Daily]] thì có link 
 
 ---
 
-## ⭐ 2. Stardrop — 7 quả, mỗi quả **+34 năng lượng tối đa vĩnh viễn**
+## ⭐ 2. Sao sa (Stardrop) — 7 quả, mỗi quả **+34 năng lượng tối đa vĩnh viễn**
 
 Không game nào báo bạn có 7 quả này. Mỗi quả **chỉ nhận được 1 lần**.
 
@@ -73,14 +73,14 @@ Không game nào báo bạn có 7 quả này. Mỗi quả **chỉ nhận đượ
 
 - [ ] **Rừng Bí mật (Secret Woods)** — góc tây bắc Rừng Cindersap, bị chặn bởi **khúc gỗ lớn**
   - **Cần:** **Rìu Thép (Steel Axe)** để chặt khúc gỗ.
-  - **Bên trong:** **6 gốc cây lớn** cho **12 Gỗ cứng (Hardwood)/ngày** (mọc lại hằng ngày) · **tượng Old Master Cannoli** (Stardrop ở trên) · ao câu cá **Woodskip**.
+  - **Bên trong:** **6 gốc cây lớn** cho **12 Gỗ cứng (Hardwood)/ngày** (mọc lại hằng ngày) · **tượng Old Master Cannoli** (Sao sa ở trên) · ao câu cá **Woodskip**.
   - > [!warning] Mẹo lách luật đặt ghế
     > Đặt ghế 2 bên khúc gỗ rồi ngồi lên để "nhảy" qua — vào được **trước khi có Rìu Thép**. Đây là mẹo có thật trên wiki, nhưng dùng hay không tùy bạn.
 - [ ] **Chìa khóa Gỉ sét (Rusty Key) → Cống ngầm (Sewers)**
   - **Cần:** quyên góp đủ **60 món** cho Bảo tàng → sáng hôm sau Gunther tới tận nhà đưa chìa.
-  - **Mở ra:** Cống ngầm — nơi có **Krobus** (bán Stardrop 20.000g) và các món hiếm.
+  - **Mở ra:** Cống ngầm — nơi có **Krobus** (bán Sao sa 20.000g) và các món hiếm.
 - [ ] **Hiểu biết của Gấu (Bear's Knowledge)** — _cần Ghi chú bí mật #23_
-  - Mang **Siro phong (Maple Syrup)** vào Rừng Bí mật, **6:00–19:00** → gặp gấu.
+  - Mang **Nhựa phong (Maple Syrup)** vào Rừng Bí mật, **6:00–19:00** → gặp gấu.
   - **Thưởng:** **giá bán Mâm xôi đen (Blackberry) và Dâu cá hồi (Salmonberry) x3 vĩnh viễn** — cực đáng tiền cho mùa hái lượm.
 
 ---
@@ -89,9 +89,9 @@ Không game nào báo bạn có 7 quả này. Mỗi quả **chỉ nhận đượ
 
 Ba cái hộp nằm sẵn trong thị trấn, trông như đồ trang trí nhưng **bỏ đúng món vào là ra tượng**. Mỗi tượng lấy **1 lần**.
 
-- [ ] **Hộp gỗ nâu phía bắc Lò rèn (Clint)** — bỏ vào **Super Cucumber** (cá, câu ở biển mùa Hạ/Thu) → tượng **??HMTGF??**
-- [ ] **Hộp kim loại phòng sau Quán rượu Stardrop** — bỏ vào **Mayonnaise vịt (Duck Mayonnaise)** → tượng **??Pinky Lemon??**
-- [ ] **Rương trong phòng Vincent (1 Willow Lane)** — bỏ vào **Bánh bao lạ (Strange Bun)** (nấu ăn) → tượng **??Foroguemon??**
+- [ ] **Hộp gỗ nâu phía bắc Lò rèn (Clint)** — bỏ vào **Siêu Hải sâm (Super Cucumber)** (cá, câu ở biển mùa Hạ/Thu) → tượng **??HMTGF??**
+- [ ] **Hộp kim loại phòng sau Quán rượu Stardrop** — bỏ vào **Sốt Mayonnaise Vịt (Duck Mayonnaise)** → tượng **??Pinky Lemon??**
+- [ ] **Rương trong phòng Vincent (1 Willow Lane)** — bỏ vào **Bánh bao kỳ lạ (Strange Bun)** (nấu ăn) → tượng **??Foroguemon??**
 
 ---
 
@@ -114,8 +114,8 @@ Ba cái hộp nằm sẵn trong thị trấn, trông như đồ trang trí nhưn
 | **#19** | Đi theo mũi tên | Bắt đầu từ 1 Willow Lane | Tượng Lewis bằng vàng | ☐ |
 | **#20** | Nói chuyện với tài xế xe tải | Xe tải JojaMart | **Bùa đặc biệt (Special Charm, +may mắn vĩnh viễn)** | ☐ |
 | **#21** | Tương tác bụi cây lúc **0:40 sáng** | Cầu xuống Bãi biển | Cảnh Marnie & Lewis hẹn hò lén | ☐ |
-| **#22** | Đặt **Pin (Battery Pack)** vào hộp | Đường hầm (The Tunnel, sau Bến xe buýt) | Mở nhiệm vụ **Mr. Qi bí ẩn** | ☐ |
-| **#23** | Mang **Siro phong** tới | Rừng Bí mật, 6:00–19:00 | **Hiểu biết của Gấu** (xem mục 3) | ☐ |
+| **#22** | Đặt **Cục pin (Battery Pack)** vào hộp | Đường hầm (The Tunnel, sau Bến xe buýt) | Mở nhiệm vụ **Mr. Qi bí ẩn** | ☐ |
+| **#23** | Mang **Nhựa phong** tới | Rừng Bí mật, 6:00–19:00 | **Hiểu biết của Gấu** (xem mục 3) | ☐ |
 | **#27** | Lên cấp 10 **cả 5 kỹ năng** | Hang Mastery, Rừng Cindersap | Mở hang Mastery | ☐ |
 
 ---
@@ -142,11 +142,11 @@ Không phải cá — quăng cần ở **đúng chỗ này** sẽ có tỉ lệ 
 
 ## ⚔️ 7. Vũ khí ẩn
 
-- [ ] **Kiếm Thiên hà (Galaxy Sword)**
-  - **Cần:** chỉ **1 Mảnh Lăng kính (Prismatic Shard)** trên tay — không cần điều kiện gì khác. Mảnh bị tiêu khi nhận kiếm; lỡ bán/mất kiếm thì Marlon bán lại 50.000g.
-  - **Làm:** đứng giữa **3 cột đá ở Sa mạc Calico**, cầm Mảnh Lăng kính trên tay.
+- [ ] **Kiếm Ngân hà (Galaxy Sword)**
+  - **Cần:** chỉ **1 Mảnh tán sắc (Prismatic Shard)** trên tay — không cần điều kiện gì khác. Mảnh bị tiêu khi nhận kiếm; lỡ bán/mất kiếm thì Marlon bán lại 50.000g.
+  - **Làm:** đứng giữa **3 cột đá ở Sa mạc Calico**, cầm Mảnh tán sắc trên tay.
 - [ ] **Meowmere** _(cuối game)_
-  - Ném **Búp bê cổ (Ancient Doll)** vào dung nham (tầng 100 Hầm mỏ hoặc Lò rèn trên Đảo Ginger) → nhận **Far Away Stone** → đặt lên bệ cây ở tầng hầm Tháp Phù thủy → bước vào cổng.
+  - Ném **Búp bê cổ đại (Ancient Doll)** vào dung nham (tầng 100 Hầm mỏ hoặc Lò rèn trên Đảo Ginger) → nhận **Far Away Stone** → đặt lên bệ cây ở tầng hầm Tháp Phù thủy → bước vào cổng.
 
 ---
 

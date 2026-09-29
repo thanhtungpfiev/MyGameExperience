@@ -48,7 +48,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Chất lượng nông sản (Thường → Bạc → Vàng → Iridium):** quyết định bởi **cấp kỹ năng** + **phân bón**. Chênh lệch giá rất lớn, nên bón phân từ đầu.
 - **3 nhóm phân bón:** tăng **chất lượng** · tăng **tốc độ lớn** · **giữ ẩm**. Chọn theo mục tiêu từng vụ, không rải bừa.
 - **Mốc cấp độ quan trọng:** mở khóa **Vòi tưới cây** → **Thùng chứa (Keg)**. Hai thứ đổi đời, càng sớm càng tốt.
-- **Bậc thầy Trồng trọt (Mastery, 1.6):** thưởng **Lưỡi hái Iridium** và **Tượng Chúc Lành** — mục tiêu dài hạn đáng cày.
+- **Bậc thầy Trồng trọt (Mastery, 1.6):** thưởng **Liềm Iridium** và **Tượng Phước Lành** — mục tiêu dài hạn đáng cày.
 
 > [!nghe] Chọn nhánh nghề Trồng trọt
 > Cấp 5 chọn **Nông sản (Tiller)** hay **Chăn nuôi (Rancher)**; cấp 10 theo Tiller → **Nghệ nhân (Artisan) +40%** — hướng kiếm tiền mạnh nhất game.
@@ -64,7 +64,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - Ăn no trước khi xuống mỏ; mang theo **món hồi sức** và bom.
 - **Thang máy 5 tầng/lần** — luôn xuống sâu nhất có thể trong 1 chuyến để cắm mốc mới.
 - Tìm thang nhanh: ưu tiên **đập đá và diệt quái** để rơi thang/hố.
-- **Hang Đầu Lâu (Skull Cavern):** chỉ đi vào **ngày may mắn cao** mới hiệu quả. Mang **Bom/Siêu Bom (Mega Bomb)** phá đá hàng loạt và **Cầu thang (Staircase)** (chế từ 99 đá) để tụt tầng nhanh; uống **Cà phê** + ăn **Súp Lươn Cay (Spicy Eel)** để tăng tốc & may mắn.
+- **Hang Đầu Lâu (Skull Cavern):** chỉ đi vào **ngày may mắn cao** mới hiệu quả. Mang **Bom/Bom tấn (Mega Bomb)** phá đá hàng loạt và **Cầu thang (Staircase)** (chế từ 99 đá) để tụt tầng nhanh; uống **Cà phê** + ăn **Lươn cay (Spicy Eel)** để tăng tốc & may mắn.
 - Đá quý/quặng để dành: quyên góp Bảo tàng trước, phần thừa mới bán hoặc nấu thỏi.
 
 ## 🌰 Lượm (Foraging)
@@ -72,7 +72,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Quét đồ lượm mỗi ngày** ở Rừng Cindersap → Bãi biển → Núi (xem [[Bản đồ khu vực]], mấy bản đồ có ô màu chính là **điểm mọc đồ lượm**).
 - **Rừng Bí Mật:** 6 gốc cây cứng hồi lại **mỗi ngày** → nguồn **Gỗ Cứng (Hardwood)** ổn định nhất, cần rìu Thép trở lên.
 - **Mùa Đông** vẫn lượm được: trên mặt đất mọc **Quả pha lê (Crystal Fruit)**, **Nghệ tây (Crocus)**, **Nhựa ruồi (Holly)**; còn **Rễ cây mùa đông** và **Khoai lang tuyết** thì không mọc trên mặt đất, chỉ ra khi đào điểm giun đất hoặc cuốc đất — xem mục dưới.
-- **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên (có cả Tinh Thể Lăng Trụ).
+- **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên (có cả Mảnh tán sắc).
 - Giữ lại **Nhựa cây (Sap)** để làm phân bón, đừng bán.
 
 > [!nghe] Chọn nhánh nghề Lượm — perk mạnh nhất game về lâu dài
@@ -88,7 +88,7 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 |---|---|---|
 | 🧱 **Nguyên liệu** | **Đất sét (Clay)** — hay ra nhất · Đá · Than · Quặng | Đất sét là lý do chính phải đào mỗi ngày |
 | 🏺 **Cổ vật (Artifacts)** | Mỗi khu một bảng riêng | Quyên góp **Bảo tàng** cho Gunther |
-| 📖 **Sách Thất Lạc (Lost Book)** | **21 cuốn** cả game | Tự bay vào **Thư viện**, mở kiến thức ẩn |
+| 📖 **Cuốn sách thất lạc (Lost Book)** | **21 cuốn** cả game | Tự bay vào **Thư viện**, mở kiến thức ẩn |
 | ❄️ **Mùa Đông** | **Rễ cây mùa đông (Winter Root)** · **Khoai lang tuyết (Snow Yam)** | Chỉ ra khi đào/cuốc đất, không mọc trên mặt đất |
 
 **Ba luật phải nhớ:**
@@ -195,7 +195,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 ### Mẹo chung
 
-- Ăn món tăng **Câu cá** (vd: Súp Cá Hồi / Trout Soup) trước khi câu ở khu khó.
+- Ăn món tăng **Câu cá** (vd: Súp cá hồi / Trout Soup) trước khi câu ở khu khó.
 - Gắn **Phao hút (Trap Bobber)** để cá ít tụt, **Phao nút chai (Cork Bobber)** để thanh câu dài hơn.
 - **Câu lúc mưa** để bắt cá đặc biệt; cá theo mùa/khung giờ/khu vực và danh sách còn thiếu xem [[Câu cá theo mùa]].
 - **Bẫy Cua (Crab Pot)** + mồi cho hải sản thụ động — kết hợp nghề **Thủy thủ (Mariner)** để bẫy không dính rác.
@@ -213,28 +213,28 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 | **Kiếm (Sword)** | Cân bằng, chém quét | Mặc định, hợp mọi tình huống |
 | **Búa (Club/Hammer)** | Sát thương lớn, đánh diện rộng, chậm | Dọn đám đông, quái trâu |
 | **Dao găm (Dagger)** | Tốc độ cao, tỉ lệ chí mạng tốt | Kết hợp nhẫn chí mạng, đánh boss |
-| **Ná cao su (Slingshot)** | Bắn xa, tốn đạn | Tình huống đặc biệt |
+| **Súng Cao su (Slingshot)** | Bắn xa, tốn đạn | Tình huống đặc biệt |
 
-- **Kiếm Thiên Hà (Galaxy Sword)** là mốc vũ khí nổi tiếng nhất — đổi ở Sa mạc bằng Tinh Thể Lăng Trụ (Prismatic Shard).
+- **Kiếm Ngân hà (Galaxy Sword)** là mốc vũ khí nổi tiếng nhất — đổi ở Sa mạc bằng Mảnh tán sắc (Prismatic Shard).
 
 ### Trang bị
 
 - **Giày (Boots):** tăng **phòng thủ** và **miễn dịch (immunity)** — đừng bán giày tốt.
 - **Nhẫn (Rings):** hiệu ứng thụ động mạnh; từ 1.6 có thể **hợp nhất 2 nhẫn** (ở Lò rèn Đảo Gừng) thành 1 nhẫn gộp hiệu ứng.
-- Nhẫn nên có: **Nhẫn Đào tặc (Burglar's Ring)** (quái rơi đồ x2) · **Nhẫn Cà phê (Coffee Ring)** (tăng tốc di chuyển) · **Nhẫn Yoba** (khiên đỡ sát thương).
+- Nhẫn nên có: **Nhẫn đạo tặc (Burglar's Ring)** (quái rơi đồ x2) · **Nhẫn Cà phê (Coffee Ring)** (tăng tốc di chuyển) · **Nhẫn Yoba** (khiên đỡ sát thương).
 
 ### Chỉ số, cấp độ & nâng cấp
 
 - Chỉ số chính: **tấn công · phòng thủ · tốc độ · chí mạng**.
-- Mỗi cấp Chiến đấu tăng **máu tối đa** và mở công thức hữu ích (**Dầu Tỏi / Oil of Garlic** — quái không tự sinh quanh bạn; **Nhẫn Yoba**…).
+- Mỗi cấp Chiến đấu tăng **máu tối đa** và mở công thức hữu ích (**Dầu tỏi / Oil of Garlic** — quái không tự sinh quanh bạn; **Nhẫn Yoba**…).
 - Chọn nghề ở **cấp 5** và **cấp 10** theo lối chơi (thiên sát thương hay thiên máu/phòng thủ).
 - **Lò rèn ở Đảo Gừng (Forge):** khảm ngọc tăng chỉ số · **phù phép (enchantment)** cơ bản/cao cấp · nâng lên **vũ khí Vô Cực (Infinity)**.
-- **Bậc thầy Chiến đấu (Mastery, 1.6):** mở **Cái Đe (Anvil)** — roll lại chỉ số **Bùa hộ mệnh (Trinket)** — và **Lò rèn Mini (Mini-Forge)**. Trinket đáng chú ý: **Hộp Tiên (Fairy Box)** gọi tiên hồi máu · **Trứng Vẹt (Parrot Egg)** cho vẹt nhặt vàng từ quái bị hạ.
+- **Bậc thầy Chiến đấu (Mastery, 1.6):** mở **Đe (Anvil)** — roll lại chỉ số **Bùa hộ mệnh (Trinket)** — và **Lò rèn mini (Mini-Forge)**. Trinket đáng chú ý: **Hộp Tiên (Fairy Box)** gọi tiên hồi máu · **Trứng Vẹt (Parrot Egg)** cho vẹt nhặt vàng từ quái bị hạ.
 
 ### Mẹo thực chiến
 
 - Mang **phô mai (Cheese)** làm đồ hồi máu rẻ, ăn nhanh khi ở tầng sâu.
-- **Nhẫn Đào tặc + diệt Tinh linh bụi (Dust Sprite)** ở tầng **60–79** là cách farm **than (Coal)** hiệu quả nhất.
+- **Nhẫn đạo tặc + diệt Tinh linh bụi (Dust Sprite)** ở tầng **60–79** là cách farm **Than đá (Coal)** hiệu quả nhất.
 - **Nhẫn Cà phê** để chạy nhanh, tiết kiệm thời gian mỗi chuyến hầm.
 - Đi Hang Đầu Lâu xem thêm [[#⛏️ Khai thác (Mining)|mục Khai thác]] ở trên.
 
@@ -269,7 +269,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 ### Quà tặng
 
 - Tặng **quà Yêu thích (Loved)** 2 lần/tuần cho mỗi dân làng (tra sở thích bằng Lookup Anything — xem [[Mods]]).
-- Quà "an toàn" cho hầu hết mọi người: **Chân Thỏ (Rabbit's Foot)**, các loại **hoa lượm**.
+- Quà "an toàn" cho hầu hết mọi người: **Chân thỏ (Rabbit's Foot)**, các loại **hoa lượm**.
 - **Sinh nhật: tặng đúng ngày = x8 điểm tình cảm** — hiệu quả nhất, đừng bỏ lỡ. Quà sinh nhật **vẫn được đếm** vào 2 lần/tuần, nhưng **không bị chặn** bởi nó: đúng ngày sinh nhật thì luôn tặng được dù tuần đó đã đủ 2 quà (vẫn giới hạn 1 quà/ngày).
 - **Đại tiệc Sao Đông (25 Đông):** chọn quà xịn cho người được bốc thăm.
 
@@ -277,7 +277,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 - Dân làng thường trần **10 tim**. Người hẹn hò được cũng **kẹt trần 8 tim** cho tới khi tặng bó hoa.
 - **8 tim** → mua **Bó hoa (Bouquet)** ở tiệm Pierre (200g) để chính thức hẹn hò, mở trần lên 10 tim.
-- **10 tim** + đã **nâng cấp nhà ít nhất 1 lần** → mua **Vòng cổ Người cá (Mermaid's Pendant)** 5.000g từ ông lão ở mép phải **Bãi biển vào ngày mưa** (riêng mùa Đông thì ngày **15–17** dù thời tiết nào) để cầu hôn. Cưới xong trần lên **14 tim**.
+- **10 tim** + đã **nâng cấp nhà ít nhất 1 lần** → mua **Dây chuyền tiên cá (Mermaid's Pendant)** 5.000g từ ông lão ở mép phải **Bãi biển vào ngày mưa** (riêng mùa Đông thì ngày **15–17** dù thời tiết nào) để cầu hôn. Cưới xong trần lên **14 tim**.
 
 ## 🧩 Trung tâm Cộng đồng
 
@@ -356,11 +356,11 @@ _Chốt lại: nắm cơ chế ẩn + lên kế hoạch mùa vụ + đầu tư s
 
 | Mốc thời gian | Nội dung |
 |---------------|----------|
-| 1:00 – 2:50 | 4 loại vũ khí & Kiếm Thiên Hà |
+| 1:00 – 2:50 | 4 loại vũ khí & Kiếm Ngân hà |
 | 2:50 – 4:22 | Trang bị: Giày, Nhẫn, hợp nhất nhẫn |
 | 4:22 – 9:18 | Chỉ số, cấp độ, chọn nghề cấp 5 & 10 |
 | 9:18 – 11:20 | Lò rèn Đảo Gừng: khảm ngọc, phù phép, vũ khí Vô Cực |
 | 11:20 – 13:58 | Bậc thầy Chiến đấu (1.6) |
-| 13:58 – 16:38 | Mẹo thực chiến: phô mai, Nhẫn Đào tặc, Nhẫn Cà phê, farm than |
+| 13:58 – 16:38 | Mẹo thực chiến: phô mai, Nhẫn đạo tặc, Nhẫn Cà phê, farm than |
 
 > _Còn thiếu 3 nghề (Khai thác · Lượm · Câu cá) trong playlist — xem xong thì tóm ý vào đúng mục ở trên theo cùng cách này._
