@@ -12,7 +12,7 @@
 
 ## 🌸 Xuân
 
-**Đã câu 18 / 21 loại** câu được mùa Xuân ở những chỗ đã vào được (không tính rong, tảo, sứa và mục 🔒).
+**Đã câu 16 / 17 loại** câu được mùa Xuân ở biển, sông và hồ (không tính rong, tảo, sứa). Cá mỏ và cá ở khu chưa vào được thì không theo mùa — xem [[#🔁 Quanh năm|Quanh năm]].
 
 ### 🌊 Biển (Bãi biển)
 
@@ -56,9 +56,29 @@
 >
 > Món mạnh hơn (**Bánh pudding bọt biển**/Seafoam Pudding +4, mở ở Câu cá 9) thì chưa với tới. Còn thiếu một ngày mưa trước Xuân 28 — xem TV dự báo mỗi sáng. Độ khó 110 (khó nhất game) và `InstantCatch` đã **tắt** — phải tự kéo, nên gắn phao giúp minigame (xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]]).
 
-### ⛏️ Hầm mỏ (mọi mùa)
+### 🎯 Còn làm được trong Xuân này
 
-Bạn đã xuống tới **tầng 70** → tầng 20 và 60 đều câu được.
+- [x] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
+- [x] **Cá đá** (tầng 20)
+- [ ] **Cá băng** (tầng 60) — tiện ghé khi đi mỏ, dùng thang máy xuống thẳng; tỉ lệ thấp (~5%/lần cắn), xem [[#⛏️ Hầm mỏ|Hầm mỏ]].
+- ⏭️ **Cá huyền thoại — để sang Xuân năm 2**, không săn trong Năm 1. Năm sau vẫn cần ngày mưa + cấp Câu cá ≥ 10 (tính cả buff); cách làm Suất đồ biền khi chưa có bếp xem khung ở Hồ trên Núi.
+- Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại của Xuân năm nay không cần dồn cho câu cá.
+
+---
+
+## ☀️ Hạ · 🍂 Thu · ❄️ Đông
+
+_Chưa ghi — thêm khi tới mùa, cùng khuôn bảng như Xuân._
+
+---
+
+## 🔁 Quanh năm
+
+Cá ở mấy chỗ dưới đây **không đổi theo mùa** — mùa nào cũng câu được, nên để riêng một chỗ thay vì chép lại vào từng mùa.
+
+### ⛏️ Hầm mỏ
+
+Đã xuống tới **tầng 76** (save Xuân 18) → tầng 20 và 60 đều câu được.
 
 | ✅ | Cá | Nơi | Cấp tối thiểu |
 |---|---|---|---|
@@ -90,17 +110,3 @@ Bạn đã xuống tới **tầng 70** → tầng 20 và 60 đều câu được
 | [ ] | Cá nhảy (Woodskip) 🧩 | Rừng Bí mật — **Rìu Thép** để chặt khúc gỗ |
 | [ ] | Cá chép biến dị (Mutant Carp) | Cống ngầm — **Chìa khóa Gỉ** (quyên góp 60 món Bảo tàng) |
 | [ ] | Cá cát (Sandfish) · Cá chép bò cạp (Scorpion Carp) | Sa mạc — sửa xe buýt, thường chưa kịp Năm 1 |
-
-### 🎯 Còn làm được trong Xuân này
-
-- [x] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
-- [x] **Cá đá** (tầng 20)
-- [ ] **Cá băng** (tầng 60) — tiện ghé khi đi mỏ, dùng thang máy xuống thẳng; tỉ lệ thấp (~5%/lần cắn), xem khung Hầm mỏ ở trên.
-- ⏭️ **Cá huyền thoại — để sang Xuân năm 2**, không săn trong Năm 1. Năm sau vẫn cần ngày mưa + cấp Câu cá ≥ 10 (tính cả buff); cách làm Suất đồ biền khi chưa có bếp xem khung ở Hồ trên Núi.
-- Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại của Xuân năm nay không cần dồn cho câu cá.
-
----
-
-## ☀️ Hạ · 🍂 Thu · ❄️ Đông
-
-_Chưa ghi — thêm khi tới mùa, cùng khuôn bảng như Xuân._
