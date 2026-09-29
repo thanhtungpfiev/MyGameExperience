@@ -5,9 +5,10 @@
 > _Video nói tiếng Việt nhưng tên đồ, tên quân, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
 > [!video] Nguồn
-> **Nam InCo** — [HEROES 3 | Giới thiệu về các bộ đồ ghép thường gặp trong Heroes 3, công dụng và hiệu quả.](https://www.youtube.com/watch?v=T-xaJ8GkprM) · dài **45:51** (mốc cuối trong bản phụ đề) · chắt lọc 25/09/2026.
-> Tên video và tên kênh **xác nhận qua YouTube oEmbed 25/09/2026**, không phải chép lại từ bản dán.
-> **Video này KHÔNG nằm trong playlist [[Nam InCo - CÁCH CHƠI CƠ BẢN CÁC THÀNH|CÁCH CHƠI CƠ BẢN CÁC THÀNH]]** (25 video, đã kiểm 09/09/2026) — nên tách thành note riêng. Nó thuộc playlist nào thì **chưa tra được** ❓: trang playlist lẫn trang kênh đều đá sang `consent.youtube.com`. **Ngày đăng cũng chưa lấy được** ❓ vì lý do tương tự.
+> **Nam InCo** — [HEROES 3 | Giới thiệu về các bộ đồ ghép thường gặp trong Heroes 3, công dụng và hiệu quả.](https://www.youtube.com/watch?v=T-xaJ8GkprM) · đăng **03/02/2022** · dài **45:58** (mốc cuối trong bản phụ đề là 45:51) · chắt lọc 25/09/2026.
+> Tên video và tên kênh **xác nhận qua YouTube oEmbed 25/09/2026**, không phải chép lại từ bản dán. Ngày đăng và độ dài (`uploadDate`, `lengthSeconds` = 2758) **đọc từ trang video 30/09/2026**.
+> **Mô tả video tự khoanh phạm vi:** _"một số bộ đồ truyền thống từ bản gốc SoD, bản mới HotA có thêm sự đa dạng mới và mình chưa hiểu hết tính năng nên sẽ không bàn đến ở đây"_ — tức video nói trên nền **SoD**. Nhớ điều này khi đọc hai mục [[#🛡️ Pendant of Reflection — kháng phép, và cặp đôi với Unicorn của Rampart|kháng phép]] và [[#🤝 Đồ cho tướng thu phục — Diplomat's Cloak|thu phục]].
+> **Video này KHÔNG nằm trong playlist [[Nam InCo - CÁCH CHƠI CƠ BẢN CÁC THÀNH|CÁCH CHƠI CƠ BẢN CÁC THÀNH]]** (25 video, đã kiểm 09/09/2026) — nên tách thành note riêng. Nó thuộc playlist nào thì **chưa tra được** ❓: trang playlist lẫn trang kênh đều đá sang `consent.youtube.com`, còn trang video không ghi playlist.
 > **Phụ đề tự động méo rất nặng** — nặng hơn hẳn các video trong playlist kia. Gần như mọi tên đồ đều vỡ, phải dựa vào con số và mô tả hiệu ứng mới nhận ra. Bảng giải mã ở [[#❓ Bảng giải mã phụ đề|cuối note]].
 > **Mốc thời gian lấy theo dòng trong bản dán**, sai số khoảng một dòng (~7 giây) — bản dán thiếu dòng 0:00 đầu tiên nên không chốt được mốc nào là đầu, mốc nào là cuối của một câu.
 
