@@ -83,7 +83,7 @@
 >
 > ✅ `C` đã hết trùng: đổi phím **"Dùng công cụ" (Use Tool)** của game từ `C`/chuột trái sang **`G`** (Tùy chọn → Điều khiển) — `C` giờ chỉ còn **UI Info Suite 2** dùng để mở Lịch, không còn tranh chấp với thao tác dùng công cụ (câu cá, cuốc, tưới...) nữa.
 >
-> **Còn `X` thì sao?** Vẫn để mặc định — phím phụ "kiểm tra" của game trùng ký tự với Experience Bars (ẩn/hiện thanh XP), nhưng hai thao tác này gần như không bao giờ cần bấm cùng lúc nên chưa cấp thiết phải đổi. Muốn đổi thì làm tương tự: chọn 1 trong các phím còn trống (`L`, `N`, `Z`) và gán trong GMCM cho Experience Bars.
+> **Còn `X` thì sao?** Vẫn để mặc định — phím phụ "kiểm tra" của game trùng ký tự với Experience Bars (ẩn/hiện thanh XP), nhưng hai thao tác này gần như không bao giờ cần bấm cùng lúc nên chưa cấp thiết phải đổi. Muốn đổi thì làm tương tự: chọn 1 trong các phím còn trống (`L`, `Z`) và gán trong GMCM cho Experience Bars.
 >
 > ✅ **`K` đã được gán:** Perfection Stats mặc định không có phím mở (`OpenMenuKey: "None"`), tab cúp trong menu bị lỗi vùng click (xem [[#Perfection Stats 1.6.7|mục Perfection Stats]]) nên đã gán phím **`K`** để mở thẳng, tránh dùng `O` (đang bị Range Highlight chiếm cho vùng Bù nhìn).
 >
