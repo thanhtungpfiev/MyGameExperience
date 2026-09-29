@@ -531,7 +531,7 @@ Bảng thống kê tổng hợp **ngay trong game** — gom thứ vốn nằm r�
 
 ### Forage Pointers 1.2.0
 
-Vẽ **mũi tên nhỏ nhấp nháy trên đầu đồ lượm** đang nằm trong tầm — thứ bình thường lẫn vào cỏ, vào bụi cây, đi ngang là bỏ sót. Từ bản 1.2.0 chỉ luôn **điểm giun đất** (artifact spot) và **đốm hạt giống** (seed spot của 1.6). Tác giả **Bpendragon**. Trên cạn nó đóng đúng vai [[#Visible Fish 0.4.2|Visible Fish]] làm dưới nước.
+Vẽ **mũi tên nhỏ nhấp nháy trên đầu đồ lượm** đang nằm trong tầm — thứ bình thường lẫn vào cỏ, vào bụi cây, đi ngang là bỏ sót. Từ bản 1.2.0 chỉ luôn **điểm cổ vật** (artifact spot) và **đốm hạt giống** (seed spot của 1.6). Tác giả **Bpendragon**. Trên cạn nó đóng đúng vai [[#Visible Fish 0.4.2|Visible Fish]] làm dưới nước.
 
 **Cách dùng** — không thao tác gì, mũi tên tự hiện khi tới gần. **Tầm nhìn nới rộng theo cấp Hái lượm**, nên đầu game thấy ít là đúng chứ không phải mod lỗi.
 
@@ -549,8 +549,8 @@ Vẽ **mũi tên nhỏ nhấp nháy trên đầu đồ lượm** đang nằm tro
 | `AlwaysShow` | ❌ | Bật = thấy **toàn màn hình** như đã có nghề Tracker |
 | `BlinkPointers` | ✅ | Mũi tên nhấp nháy |
 | `NumFramesArrowsOn` / `Off` | `50` / `20` | Số khung hình hiện / tắt của một nhịp nháy |
-| `ShowArtifactSpots` | ✅ | Chỉ **điểm giun đất** |
-| `ShowSeedSpots` | ✅ | Chỉ **đốm hạt giống** (bản 1.6, màu xanh, còn khó thấy hơn giun đất) |
+| `ShowArtifactSpots` | ✅ | Chỉ **điểm cổ vật** |
+| `ShowSeedSpots` | ✅ | Chỉ **đốm hạt giống** (bản 1.6, màu xanh, còn khó thấy hơn điểm cổ vật) |
 
 > [!info] Cấu hình hiện tại thấy xa bao nhiêu
 > `3 + 1 ô mỗi 2 cấp` → Hái lượm **cấp 0 = 3 ô**, **cấp 10 = 8 ô**. Có nghề **Tracker** (nhánh Hái lượm cấp 5) thì mod hiện **mọi món trên màn hình**, khỏi tính bán kính; chưa lấy Tracker mà vẫn muốn vậy thì bật `AlwaysShow`.
@@ -560,7 +560,7 @@ Vẽ **mũi tên nhỏ nhấp nháy trên đầu đồ lượm** đang nằm tro
 
 ### Visible Artifact Spots 1.2.0
 
-Chuyên trị đúng một việc: làm **điểm giun đất và đốm hạt giống nổi hẳn lên** thay vì phải soi từng con giun ngọ nguậy. Tác giả **Zamiel**. Cần SMAPI 4.0.0 trở lên.
+Chuyên trị đúng một việc: làm **điểm cổ vật và đốm hạt giống nổi hẳn lên** thay vì phải soi từng con giun ngọ nguậy. Tác giả **Zamiel**. Cần SMAPI 4.0.0 trở lên.
 
 **Cách dùng** — tự động, đi ngang là thấy. Hợp nhất lúc cày mỏ, đi Rừng bí mật hay quét bãi biển tìm cổ vật cho [[#Show Missing Collection Entries 0.2.0|Bảo tàng]].
 
@@ -616,7 +616,7 @@ Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Cla
 > | Việc | Mod lo | Ghi chú |
 > |---|---|---|
 > | **Đồ lượm** | Forage Pointers (mũi tên) **hoặc** Forage Markers (khung đỏ) | Giữ cả hai thì một món có cả mũi tên lẫn khung đỏ. Muốn gọn thì bỏ Forage Markers — nó còn dính khung đỏ trong túi đồ |
-> | **Điểm giun đất / đốm hạt giống** | Visible Artifact Spots | Forage Pointers cũng làm được → **tắt `ShowArtifactSpots` + `ShowSeedSpots`** nếu thấy vẽ đè hai lớp |
+> | **Điểm cổ vật / đốm hạt giống** | Visible Artifact Spots | Forage Pointers cũng làm được → **tắt `ShowArtifactSpots` + `ShowSeedSpots`** nếu thấy vẽ đè hai lớp |
 >
 > Ba mod **không xung đột kỹ thuật**, chỉ chồng hình. Cứ chơi thử một hai ngày rồi tắt bớt cho vừa mắt.
 

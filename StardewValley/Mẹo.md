@@ -71,16 +71,16 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 - **Quét đồ lượm mỗi ngày** ở Rừng Cindersap → Bãi biển → Núi (xem [[Bản đồ khu vực]], mấy bản đồ có ô màu chính là **điểm mọc đồ lượm**).
 - **Rừng Bí Mật:** 6 gốc cây cứng hồi lại **mỗi ngày** → nguồn **Gỗ Cứng (Hardwood)** ổn định nhất, cần rìu Thép trở lên.
-- **Mùa Đông** vẫn lượm được: trên mặt đất mọc **Quả pha lê (Crystal Fruit)**, **Nghệ tây (Crocus)**, **Nhựa ruồi (Holly)**; còn **Rễ cây mùa đông** và **Khoai lang tuyết** thì không mọc trên mặt đất, chỉ ra khi đào điểm giun đất hoặc cuốc đất — xem mục dưới.
+- **Mùa Đông** vẫn lượm được: trên mặt đất mọc **Quả pha lê (Crystal Fruit)**, **Nghệ tây (Crocus)**, **Nhựa ruồi (Holly)**; còn **Rễ cây mùa đông** và **Khoai lang tuyết** thì không mọc trên mặt đất, chỉ ra khi đào điểm cổ vật hoặc cuốc đất — xem mục dưới.
 - **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên (có cả Mảnh tán sắc).
 - Giữ lại **Nhựa cây (Sap)** để làm phân bón, đừng bán.
 
 > [!nghe] Chọn nhánh nghề Lượm — perk mạnh nhất game về lâu dài
 > Cấp 5 chọn **Người Tụ Tập (Gatherer)**: tỉ lệ **x2 sản lượng** khi lượm. Cấp 10 chọn **Nhà Thực Vật (Botanist)**: **mọi đồ lượm luôn ở phẩm cấp Iridium**.
 
-### 🪱 Điểm giun đất (Artifact Spot)
+### 🪱 Điểm cổ vật (Artifact Spot)
 
-Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lên. Đào bằng **Cuốc (Hoe)**, một nhát là xong.
+Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lên — nên hay được gọi là "điểm giun đất", nhưng bản dịch trong game gọi là **Điểm cổ vật**. Đào bằng **Cuốc (Hoe)**, một nhát là xong.
 
 ⚠️ **Cuốc chim (Pickaxe) không ăn** — chỉ Cuốc mới đào được. Đây là chỗ hay bấm nhầm rồi tưởng nó hỏng.
 
@@ -113,11 +113,11 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 > ⚠️ **Gieo gói hạt ngay, đừng để dành chờ máy.** Máy tạo Hạt giống nhận **trái** (1 Trái cổ đại → 1–3 gói hạt _— số lượng do code game tính, chưa kiểm chứng_), không nhận hạt — gói hạt để trong túi thì chẳng nhân được gì, chỉ mất trắng một mùa sinh trưởng. Máy lại mở ở **Trồng trọt cấp 9** (25 Gỗ + 10 Than đá + 1 Thỏi vàng), còn xa. Lộ trình: gieo ngay → trái ra thì **cất vào rương `3 Nông sản`**, đừng bán/ủ → có máy rồi đem nhân → cổ vật đào thêm cứ chế thành hạt gieo luôn.
 
 > [!tien] Đất sét — gom từ Ngày 1, đừng đợi tới lúc cần
-> **Kho chứa Cỏ (Silo) cần 10 Đất sét.** Đất sét gần như chỉ ra từ điểm giun đất (cuốc đất thường cũng có tỉ lệ nhỏ). Đào tốn **2 năng lượng**/nhát, mà `InfiniteStamina` đang bật nên với máy này là **miễn phí** — thấy giun là đào, không có lý do bỏ qua.
+> **Kho chứa Cỏ (Silo) cần 10 Đất sét.** Đất sét gần như chỉ ra từ điểm cổ vật (cuốc đất thường cũng có tỉ lệ nhỏ). Đào tốn **2 năng lượng**/nhát, mà `InfiniteStamina` đang bật nên với máy này là **miễn phí** — thấy giun là đào, không có lý do bỏ qua.
 
 ### 🌸 Vì sao có hôm đi cả ngày không thấy gì
 
-- **Đồ lượm KHÔNG dính dáng tới may mắn.** Ngày xui vẫn mọc bình thường. Riêng **điểm giun đất** thì may mắn có ảnh hưởng tới **số lượng**, nhưng không phải điều kiện bắt buộc — ngày xui vẫn có, chỉ ít hơn.
+- **Đồ lượm KHÔNG dính dáng tới may mắn.** Ngày xui vẫn mọc bình thường. Riêng **điểm cổ vật** thì may mắn có ảnh hưởng tới **số lượng**, nhưng không phải điều kiện bắt buộc — ngày xui vẫn có, chỉ ít hơn.
 - ⚠️ **Nông trại Tiêu chuẩn không mọc đồ lượm.** Chỉ **Nông trại Rừng (Forest Farm)** mới có. Đứng trong trại cả ngày thì không bao giờ thấy cây lượm nào, dù may cỡ nào — phải ra ngoài.
 - **Đồ lượm nằm nguyên tại chỗ tới khi có người nhặt**, mỗi ngày chỉ mọc thêm **nhỏ giọt**. Vét sạch một lượt thì phải 2–3 hôm bản đồ mới đầy lại.
 - **Ô đất bị chiếm thì không mọc** — chỗ có đá, cành cây, cỏ dại đều bị loại khỏi danh sách ô mọc được.

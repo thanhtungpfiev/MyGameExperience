@@ -48,7 +48,7 @@
 > - [Category:Locations](https://stardewvalleywiki.com/Category:Locations) — wiki chính thức, mỗi trang khu ghi rõ lối ra vào. Link từng trang có sẵn ở mỗi mục bên dưới.
 > - [Modding:Location data](https://stardewvalleywiki.com/Modding:Location_data) — dữ liệu warp gốc của game, chính xác tuyệt đối nhưng khô như tài liệu kỹ thuật.
 >
-> **Bản đồ tương tác** (điểm câu cá · đồ lượm theo mùa · điểm giun đất · thư bí mật):
+> **Bản đồ tương tác** (điểm câu cá · đồ lượm theo mùa · điểm cổ vật · thư bí mật):
 > - [GameMappers](http://gamemappers.com/stardew-valley-map/) · [Wand](https://wand.com/maps/stardew-valley) · [FrontierNav](https://frontiernav.net/wiki/stardew-valley/visualisations/maps)
 >
 > ⚠️ **Bẫy:** trang `stardewvalleywiki.com/World_Map` là **món đồ nội thất treo tường**, không phải bản đồ thung lũng. Wiki **không có** trang bản đồ tổng thể nào — bố cục thật thì lấy **ảnh bản đồ trong game** làm chuẩn.

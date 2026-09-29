@@ -96,7 +96,7 @@ Cặp **xanh lá nhạt → xanh lá đậm** cố ý đi liền nhau: hạt gi�
 > Cuốc, Cuốc chim, Rìu, Bình tưới, Liềm **mỗi loại chỉ có đúng 1 cái/người chơi** (nâng cấp là đổi thẳng, không tạo bản sao) — nên không cần rương cất, chúng luôn nằm trong túi đồ. Rương `9 Công cụ & Vũ khí` chỉ dùng cho thứ **có thể có nhiều bản/không mặc thường xuyên**: nhẫn, giày, vũ khí đổi qua lại tuỳ tình huống (kiếm nhanh vs búa AoE), đạn dược.
 
 > [!info] Cổ vật vs Khoáng vật — dễ gộp nhầm
-> Game chia 2 nhóm khác nhau trong tab Thu thập (Collections): **Khoáng vật** (Minerals — Quặng, Đá quý, Hốc tinh...) và **Cổ vật** (Artifacts — đồ khảo cổ, thường đào từ điểm giun đất màu nâu hoặc rương kho báu). Cả hai đều cần cho gói Bảo tàng nhưng là 2 danh sách donate riêng — để chung 1 rương dễ lẫn lúc kiểm tra còn thiếu món nào.
+> Game chia 2 nhóm khác nhau trong tab Thu thập (Collections): **Khoáng vật** (Minerals — Quặng, Đá quý, Hốc tinh...) và **Cổ vật** (Artifacts — đồ khảo cổ, thường đào từ điểm cổ vật màu nâu hoặc rương kho báu). Cả hai đều cần cho gói Bảo tàng nhưng là 2 danh sách donate riêng — để chung 1 rương dễ lẫn lúc kiểm tra còn thiếu món nào.
 > Cổ vật **chưa quyên góp** nên mang thẳng đi donate Gunther trong ngày (giữ trong túi đồ), tránh lỡ tay bán; chỉ khi chưa kịp mang đi mới tạm bỏ vào rương `10 Cổ vật` này — rê chuột vào món đó (kể cả đang nằm trong rương) là [[Mods#UI Info Suite 2 (v2.3.7, bản VH)|UI Info Suite 2]] tự hiện icon Gunther báo chưa donate, khỏi cần sắp xếp thủ công. Cổ vật **đã quyên góp rồi mà đào trùng lại** thì cứ bỏ chung rương bình thường (để bán hoặc tặng).
 
 > [!warning]- Trang phục — chưa cần gấp trong Xuân Năm 1

@@ -86,7 +86,7 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 
 **Việc cần làm:**
 - [x] Tưới Cải vàng lần cuối (mai hái)
-- [x] Gom Gỗ, Đá, **Đất sét** (ra khi cuốc đất thường/điểm giun đất) cho: Rương (50 Gỗ) · Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) · Kho chứa Cỏ (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g)
+- [x] Gom Gỗ, Đá, **Đất sét** (ra khi cuốc đất thường/điểm cổ vật) cho: Rương (50 Gỗ) · Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) · Kho chứa Cỏ (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g)
 - [x] Chuẩn bị đồ ăn hồi máu + chừa ô túi trống cho chuyến mỏ ngày mai
 
 **Lưu ý:**
@@ -375,7 +375,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 - [ ] Lượm nốt Mâm xôi cá hồi — **ngày cuối cùng trong năm** bụi còn ra quả
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá kiếm vốn nâng cấp túi đồ/công cụ
 - [ ] 📦 **Giao Rong biển cho Emily** — nhiệm vụ còn **2 ngày**; rương đã có 2 Rong biển
-- [ ] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Mẹo#🪱 Điểm giun đất (Artifact Spot)|Mẹo]])
+- [ ] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Mẹo#🪱 Điểm cổ vật (Artifact Spot)|Mẹo]])
 
 > [!info] Tình trạng đọc từ quicksave Xuân 18
 > Câu cá cấp 8 · 5.031g · mỏ sâu nhất tầng 76 · ruộng có **71 cây**: 49 Dâu tây · 15 Súp lơ · 3 Cải vàng · 2 Khoai tây · 1 Đậu xanh · 1 Hạt cà phê.
@@ -590,7 +590,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 ### ❄️ Đông
 
 - Không trồng ngoài trời (chỉ Nhà kính, cần hoàn thành hết gói Cộng đồng hoặc mua qua Joja mới có) → dồn thời gian cho: mỏ, câu cá, kết bạn, xây/nâng cấp, quyên góp Bảo tàng.
-- Vẫn lượm được — Quả pha lê, Nghệ tây, Nhựa ruồi mọc trên mặt đất; Rễ cây mùa đông, Khoai lang tuyết phải đào điểm giun đất — xem [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
+- Vẫn lượm được — Quả pha lê, Nghệ tây, Nhựa ruồi mọc trên mặt đất; Rễ cây mùa đông, Khoai lang tuyết phải đào điểm cổ vật — xem [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
 - Mùa tốt nhất để nâng cấp công cụ (không mất buổi tưới ruộng nào).
 - **🧩 Gói Cộng đồng theo mùa:** chỉ có Lượm Đông (phòng Thủ công) — Đông **không có** gói Cây trồng riêng.
 - **🔮 Bí mật:** ⭐ 06:00–16:00 đi từ Farm sang Bến xe buýt gặp bóng đen → **Kính lúp** (mở Ghi chú bí mật) · đêm 24 đặt Sữa/Bánh quy lên bàn → Chiếc hộp bí ẩn · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#❄️ Đông|Bí mật — Đông]].
