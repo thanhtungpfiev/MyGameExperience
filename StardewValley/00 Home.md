@@ -4,7 +4,7 @@
 
 ## 📚 Mục lục
 
-- [[Mods]] — Bộ mod đang dùng, cách dùng chi tiết, phím tắt, thứ tự cài và an toàn save.
+- [[Mods]] — Bộ mod đang dùng, cách dùng chi tiết, phím tắt (kèm lý do đổi phím), thứ tự cài.
 - [[Daily]] — Lịch trình một ngày tối ưu + việc cần làm theo mùa.
 - [[Mẹo]] — Nguyên tắc nền tảng, 5 nghề, kiếm tiền theo giai đoạn, kết bạn, Trung tâm Cộng đồng.
 - [[Bản đồ khu vực]] — Ảnh bản đồ từng khu + sơ đồ kết nối + từ điển địa danh Anh–Việt.
@@ -23,14 +23,25 @@
 |-----|---------|
 | Phiên bản game | 1.6.15 (bản Việt hóa) |
 | Loại farm | **Nông trại Tiêu chuẩn (Standard Farm)** — xem [[Quy hoạch nông trại]] |
-| Mùa / Năm | **Xuân, Năm 1** _(cập nhật mỗi khi chơi)_ |
-| Mục tiêu gần | _(vd: hoàn thành Gói Cây Xuân ở Trung tâm Cộng đồng)_ |
+| Mùa / Năm | **Xuân 18, Năm 1** — theo save `Wind` ngày 28/9 _(cập nhật mỗi khi chơi)_ |
+| Mục tiêu gần | Xem danh sách **Trước khi hết Xuân** ngay dưới |
 
 ## ⚡ Việc ưu tiên
 
+**Trước khi hết Xuân Năm 1** (chi tiết theo ngày ở [[Daily]]):
+
+- [ ] Giao Rong biển cho Emily — hạn chót **Xuân 19**, rương đã có 2 Rong biển
+- [ ] Gieo gói **Hạt giống cổ đại** đang trong túi — gieo Xuân 18 thì Hạ 18 ra trái
+- [ ] Gói **Sản phẩm Hái lượm Ngoại cảnh** (4/5) — thiếu **Nhựa phong**, Chén hứng Nhựa cây ra khoảng Xuân 25
+- [ ] Gói **Khoáng Sản** — thiếu **Thạch anh Lửa**, ra từ tầng 80 (đang ở 76)
+- [ ] Gói **Bẫy Cua** (3/5) — nạp mồi đều cho 3 bẫy đang đặt
+- [ ] **Cá băng** ở ao tầng 60 — xem [[Câu cá theo mùa#⛏️ Hầm mỏ|Câu cá — Hầm mỏ]]
+- [ ] Xuân 28, 12:00 — rung bụi cây lấy **Thú bông Junimo** ([[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật]])
+
+**Việc ngoài game:**
+
 - [ ] Kiểm tra mod tương thích 1.6.15 tại `smapi.io/mods`
-- [ ] Rà thư mục `Mods`: mỗi mod chỉ giữ **1 bản**, ưu tiên bản VH (xem [[Mods#9) Ghi chú bản VH & file trùng|Mods mục 9]])
-- [ ] Cập nhật mục tiêu mùa hiện tại (xem [[Daily]])
+- [x] Rà thư mục `Mods`: mỗi mod chỉ giữ **1 bản**, ưu tiên bản VH (xem [[Mods#9) Ghi chú bản VH & file trùng|Mods mục 9]]) — đã rà 29/9: mỗi mod một thư mục, 3 mod VH đều có `i18n/vi.json`
 
 ## 🔗 Liên kết nhanh
 
