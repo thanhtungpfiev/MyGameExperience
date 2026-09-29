@@ -81,7 +81,7 @@ Không game nào báo bạn có 7 quả này. Mỗi quả **chỉ nhận đượ
   - **Mở ra:** Cống ngầm — nơi có **Krobus** (bán Sao sa 20.000g) và các món hiếm.
 - [ ] **Hiểu biết của Gấu (Bear's Knowledge)** — _cần Ghi chú bí mật #23_
   - Mang **Nhựa phong (Maple Syrup)** vào Rừng Bí mật, **6:00–19:00** → gặp gấu.
-  - **Thưởng:** **giá bán Mâm xôi đen (Blackberry) và Dâu cá hồi (Salmonberry) x3 vĩnh viễn** — cực đáng tiền cho mùa hái lượm.
+  - **Thưởng:** **giá bán Mâm xôi đen (Blackberry) và Mâm xôi cá hồi (Salmonberry) x3 vĩnh viễn** — cực đáng tiền cho mùa hái lượm.
 
 ---
 
