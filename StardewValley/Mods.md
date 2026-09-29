@@ -26,8 +26,8 @@
 
 | Phím | Mod | Tác dụng |
 |------|-----|----------|
-| `G` | _(phím gốc game, tự đổi)_ | **Dùng công cụ** (Use Tool) — đã đổi từ `C`/chuột trái sang `G` trong Tùy chọn → Điều khiển, cho hết trùng với UI Info Suite 2 |
-| `K` | Perfection Stats | Mở thẳng bảng % Hoàn hảo (`OpenMenuKey`, mặc định trống, tự gán) — chọn `K` để tránh trùng `O` (đã bị Range Highlight dùng cho vùng Bù nhìn) |
+| `G` | _(phím gốc game, tự đổi)_ | **Dùng công cụ** (Use Tool) — [[#🔧 Phím đã tự đổi\|lý do]] |
+| `K` | Perfection Stats | Mở thẳng bảng % Hoàn hảo — tự gán, [[#🔧 Phím đã tự đổi\|lý do]] |
 | `F1` | Lookup Anything | Tra cứu vật/dân làng/cây dưới con trỏ (laptop: `Fn`+`F1`) |
 | `Shift trái`+`F1` | Lookup Anything | Mở ô tìm kiếm để tra bất kỳ thứ gì |
 | `M` | NPC Map Locations | Mở bản đồ (phím gốc game) |
@@ -36,8 +36,8 @@
 | `Tab` | NPC Map Locations | Mở menu tùy chọn mod (khi đang mở bản đồ) |
 | `B` | Chests Anywhere | Mở mọi rương từ xa |
 | `Ctrl trái`+`F` | Chests Anywhere | Mở ô tìm kiếm vật phẩm trong các rương |
-| `C` | UI Info Suite 2 | Mở Lịch (đã đổi từ `B` để hết trùng phím) |
-| `Q` | UI Info Suite 2 | Mở Bảng nhiệm vụ (đã đổi từ `H` để hết trùng phím) |
+| `C` | UI Info Suite 2 | Mở Lịch — tự gán, [[#🔧 Phím đã tự đổi\|lý do]] |
+| `Q` | UI Info Suite 2 | Mở Bảng nhiệm vụ — tự gán, [[#🔧 Phím đã tự đổi\|lý do]] |
 | `F2` | All Chests Menu | Xem tất cả rương trong 1 menu (đang tắt yêu cầu giữ `Shift`) |
 | `U` | Automate | Bật/tắt lớp phủ sơ đồ máy–rương |
 | `X` | Experience Bars | Ẩn/hiện thanh XP (`Shift`+`X` để di chuyển vị trí) |
@@ -57,12 +57,13 @@
 | `Ctrl` + lăn chuột | MouseMoveMode | Phóng to / thu nhỏ khung nhìn |
 | `RightAlt`+`Enter` | MouseMoveMode | Đổi toàn màn hình ↔ cửa sổ |
 | Nút giữa chuột | MouseMoveMode | Đòn đặc biệt của vũ khí (đã dời khỏi chuột phải) |
-| `V` | _(phím gốc game, tự đổi)_ | **Kiểm tra/tương tác** — gán thêm làm phím phụ cho "Action Button" (Tùy chọn → Điều khiển), dùng để **đỡ đòn/đòn đặc biệt vũ khí** bằng bàn phím thay vì nút giữa chuột. MouseMoveMode chỉ chặn đúng chuột phải vật lý nên phím này chạy y như game gốc, không đụng gì tới đi chuyển |
+| `V` | _(phím gốc game, tự đổi)_ | **Kiểm tra/tương tác**, gồm cả **đỡ đòn/đòn đặc biệt vũ khí** — [[#🔧 Phím đã tự đổi\|lý do]] |
+| `N` | _(phím gốc game, tự đổi)_ | **Đổi hàng thanh công cụ** — [[#🔧 Phím đã tự đổi\|lý do]] |
 
 > [!phim] Đối chiếu phím gốc của game trước khi gán
 > Bảng phím gốc đầy đủ ở [[Mẹo#⌨️ Phím tắt gốc của game (để tránh gán trùng khi cài mod)|Mẹo]].
 >
-> **Trùng thật, dùng chung một ngữ cảnh:**
+> **Trùng thật, dùng chung một ngữ cảnh** (còn để nguyên, xem vì sao ở mục dưới):
 >
 > | Phím | Đụng nhau ở đâu |
 > |---|---|
@@ -76,23 +77,26 @@
 > | `Shift trái` | Đi bộ chậm (gốc) · Range Highlight (giữ) · Lookup Anything (`Shift`+`F1`) · All Chests Menu (chuyển đồ) · Better Crafting (mở menu gốc) |
 > | `Space` | NPC Map Locations (chỉ khi **đang mở bản đồ**) · MouseMoveMode (ép đi) |
 > | `F` | Nhật ký nhiệm vụ (gốc) · Better Crafting (chỉ **trong menu chế tạo**) |
-> | ~~`Tab`~~ → **`N`** (mới đổi) | Đổi hàng thanh công cụ (gốc) · NPC Map Locations (chỉ khi đang mở bản đồ) |
->
-> ✅ `H` đã hết trùng: Bảng nhiệm vụ đổi sang `Q`, giờ `H` chỉ còn **Range Highlight** dùng.
->
-> ✅ **`Tab` đã đổi sang `N`:** phím "Đổi hàng thanh công cụ" (Change Toolbar Row) tưởng như không hoạt động, nhưng thật ra là **vô hiệu đúng theo thiết kế** chứ không phải lỗi hay xung đột — phím này chỉ có tác dụng khi túi đồ có **từ 2 hàng trở lên**. Túi đồ khởi đầu chỉ có **1 hàng 12 ô**; phải mua nâng cấp **Túi lớn (Large Pack, 2.000g ở Pierre)** lên 24 ô (2 hàng) trở lên thì `Tab` mới có gì để đảo. Do bấm không ra tác dụng nên đã đổi hẳn sang phím **`N`** (Tùy chọn → Điều khiển) cho chắc, không liên quan gì tới việc `Tab` trùng ký tự với NPC Map Locations ở trên (mod đó chỉ chiếm `Tab` khi đang mở bản đồ, không đụng lúc chơi bình thường).
->
-> ✅ `C` đã hết trùng: đổi phím **"Dùng công cụ" (Use Tool)** của game từ `C`/chuột trái sang **`G`** (Tùy chọn → Điều khiển) — `C` giờ chỉ còn **UI Info Suite 2** dùng để mở Lịch, không còn tranh chấp với thao tác dùng công cụ (câu cá, cuốc, tưới...) nữa.
->
-> **Còn `X` thì sao?** Vẫn để mặc định — phím phụ "kiểm tra" của game trùng ký tự với Experience Bars (ẩn/hiện thanh XP), nhưng hai thao tác này gần như không bao giờ cần bấm cùng lúc nên chưa cấp thiết phải đổi. Muốn đổi thì làm tương tự: chọn 1 trong các phím còn trống (`L`, `Z`) và gán trong GMCM cho Experience Bars.
->
-> ✅ **`K` đã được gán:** Perfection Stats mặc định không có phím mở (`OpenMenuKey: "None"`), tab cúp trong menu bị lỗi vùng click (xem [[#Perfection Stats 1.6.7|mục Perfection Stats]]) nên đã gán phím **`K`** để mở thẳng, tránh dùng `O` (đang bị Range Highlight chiếm cho vùng Bù nhìn).
->
-> ✅ **`V` đã được gán:** thêm làm phím phụ bàn phím cho "Action Button" gốc của game (Tùy chọn → Điều khiển, giữ nguyên chuột phải) — để đỡ đòn/đòn đặc biệt vũ khí trong mỏ bằng phím thay vì nút giữa chuột, vì chuột phải đang bận cho [[#MouseMoveMode 1.4.4|MouseMoveMode]] di chuyển. Đây là rebind **của chính game**, không phải của mod nào, nên không chiếm phím nào của mod khác.
->
-> **Phím trống còn lại sau khi trừ `K` (Perfection Stats), `V` (đỡ đòn), `N` (Đổi hàng thanh công cụ):** `L`, `Z`.
+> | `Tab` | NPC Map Locations (chỉ khi **đang mở bản đồ**) — phím gốc đổi hàng thanh công cụ đã chuyển sang `N` |
 >
 > `M` là **phím gốc**: NPC Map Locations chỉ mở rộng chức năng bản đồ chứ không chiếm thêm phím.
+
+### 🔧 Phím đã tự đổi
+
+Chỗ **duy nhất** ghi lý do đổi phím — mục mod và bảng phím gốc ở [[Mẹo#⌨️ Phím tắt gốc của game (để tránh gán trùng khi cài mod)|Mẹo]] chỉ ghi phím đang dùng rồi trỏ về đây. Phím gốc game đổi ở **Tùy chọn → Điều khiển**; phím mod đổi trong **GMCM**.
+
+| Phím mới | Việc | Trước là | Vì sao đổi |
+|---|---|---|---|
+| **`G`** | Dùng công cụ _(game)_ | `C` (chuột trái giữ nguyên) | Nhường `C` cho Lịch của UI Info Suite 2 |
+| **`C`** | Mở Lịch _(UI Info Suite 2)_ | `B` | Nhường `B` cho Chests Anywhere |
+| **`Q`** | Mở Bảng nhiệm vụ _(UI Info Suite 2)_ | `H` | Nhường `H` cho vùng Nhà Ong của Range Highlight |
+| **`V`** _(thêm, không thay)_ | Kiểm tra / tương tác, đỡ đòn _(game)_ | chỉ chuột phải + `X` | Chuột phải đang dùng để đi ([[#MouseMoveMode 1.4.4\|MouseMoveMode]]); mod chỉ chặn chuột phải vật lý nên `V` chạy y như game gốc — đỡ đòn trong mỏ bằng phím thay vì nút giữa chuột |
+| **`N`** | Đổi hàng thanh công cụ _(game)_ | `Tab` | Không phải vì trùng mod: túi khởi đầu chỉ **1 hàng 12 ô** nên `Tab` không có gì để đảo, tưởng hỏng. Có Túi lớn (2.000g ở Pierre) mới có hàng thứ hai |
+| **`K`** | Mở bảng Perfection Stats | _(trống)_ | Tab cúp trong menu `Esc` hay bấm trượt ([[#Perfection Stats 1.6.7\|lỗi vùng click]]). `O` định dùng trước nhưng đã là vùng Bù nhìn của Range Highlight |
+
+**Còn để nguyên:** `X` — trùng giữa phím phụ "kiểm tra" của game và ẩn/hiện thanh XP của Experience Bars, nhưng hai việc gần như không bao giờ cần cùng lúc. Muốn đổi thì gán Experience Bars sang một phím trống.
+
+**Phím trống còn lại:** `L`, `Z`.
 
 ---
 
@@ -194,7 +198,7 @@ Thêm widget nâng cao cho GMCM, vốn chỉ có bật/tắt, ô số, ô chữ,
 
 **Cách dùng** — icon xếp thành cột cạnh đồng hồ/tiền, **rê chuột** vào icon (hoặc vào vật phẩm) để xem chi tiết.
 
-**Phím** — `C` mở **Lịch** · `Q` mở **Bảng nhiệm vụ**, từ bất cứ đâu (mặc định trống, đã tự gán) · `Esc` **bỏ qua intro** lúc mở game. Lịch đã đổi `B` → `C` để nhường `B` cho Chests Anywhere; Bảng nhiệm vụ đổi `H` → `Q` để nhường `H` cho Range Highlight.
+**Phím** — `C` mở **Lịch** · `Q` mở **Bảng nhiệm vụ**, từ bất cứ đâu (mặc định trống, đã tự gán) · `Esc` **bỏ qua intro** lúc mở game. Vì sao là `C`/`Q`: [[#🔧 Phím đã tự đổi|lý do]].
 
 **Cấu hình** — bật/tắt **từng tính năng một** cho gọn màn hình, ở **tab riêng của mod** trong menu Tùy chọn hoặc trong **GMCM** (kèm gán phím).
 
@@ -313,8 +317,6 @@ Tô sáng vùng tác dụng của Vòi tưới cây, Bù nhìn, Nhà Ong, Lều 
 
 > [!phim] Trùng phím
 > `Shift trái` là phím đi bộ chậm của game, đồng thời là phần của `Shift trái`+`F1` (Lookup Anything). Đổi trong GMCM nếu thấy vướng.
->
-> ✅ `H` (Nhà Ong) giờ đã độc quyền cho mod này — UI Info Suite 2 đã đổi Bảng nhiệm vụ sang `Q`.
 
 > [!bom]+ Bom có tận 3 vòng, không phải 1
 > | Vòng | Tác dụng trong vòng đó | Mặc định |
@@ -375,14 +377,12 @@ Hiện **icon + tên** của những mục **còn thiếu** trong Bộ sưu tậ
 
 Bảng theo dõi **tiến độ Hoàn hảo (Perfection)** — mỗi hạng mục một thanh %, kèm nút **xem danh sách còn thiếu**. Tác giả **ReichelHz**. Tự nhận diện nội dung của các mod mở rộng lớn (**SVE**, **Ridgeside Village**) nếu có cài.
 
-**Cách dùng** — bấm phím **`K`** (đã tự gán, xem lý do bên dưới) để mở thẳng bảng, hoặc `Esc` → **tab hình cúp 🏆 "Perfection Stats"** (tab cuối cùng, sau tab Tùy chọn). Cuộn để xem hết các thanh; bấm **kính lúp 🔍** cạnh thanh nào để bung ra **đúng những món / NPC / quái còn thiếu** của mục đó. Thanh **PERFECTION** ở dưới cùng là tổng.
+**Cách dùng** — bấm phím **`K`** (đã tự gán) để mở thẳng bảng, hoặc `Esc` → **tab hình cúp 🏆 "Perfection Stats"** (tab cuối cùng, sau tab Tùy chọn). Cuộn để xem hết các thanh; bấm **kính lúp 🔍** cạnh thanh nào để bung ra **đúng những món / NPC / quái còn thiếu** của mục đó. Thanh **PERFECTION** ở dưới cùng là tổng.
 
-**Phím** — mặc định **trống** (`OpenMenuKey: "None"`) — đã tự gán thành **`K`** trong GMCM để mở thẳng bảng khỏi phải qua menu.
+**Phím** — mặc định **trống** (`OpenMenuKey: "None"`) — đã tự gán thành **`K`** trong GMCM để mở thẳng bảng khỏi phải qua menu ([[#🔧 Phím đã tự đổi|lý do]]).
 
 > [!warning] Tab cúp trong menu Esc từng bấm không ra gì — đã có cách né
 > Vùng bấm được của tab cúp bị lệch so với hình vẽ (lỗi ghi nhận trên trang thảo luận Nexus của mod) — bấm giữa icon nhiều khi không ăn. Cách né chắc ăn nhất là **dùng phím tắt `K`** thay vì bấm tab. Muốn vẫn bấm tab thì thử bấm lệch sang rìa phải/rìa trên icon.
->
-> Lúc đầu định gán `O` (đang trống theo hình dung ban đầu), nhưng rà lại bảng phím thì `O` đã bị [[#Range Highlight 4.2.1|Range Highlight]] dùng để hiện vùng Bù nhìn — nên đổi sang `K` cho sạch, không đụng gì trong bảng phím tắt ở đầu note.
 
 **Cấu hình** — **GMCM**: `ShowTab` ẩn/hiện tab cúp · phím mở · mục **Colors & Accessibility** đổi 6 màu (đã hoàn thành / còn thiếu / ruột thanh / nền thanh / tiêu đề / chữ). Trong `config.json` còn phần **tổng số từng hạng mục** (vanilla + SVE + Ridgeside).
 
@@ -658,7 +658,7 @@ Mở **mọi rương, tủ quần áo, tủ lạnh, thùng ship và Lều Junimo
 
 **Cách dùng** — bấm `B` → hai ô chọn ở trên: **nhóm (category)** và **rương** trong nhóm đó. Bấm **icon bút chì** khi đang mở một rương để **đặt tên · gán nhóm · đổi thứ tự · ẩn rương** khỏi danh sách. Rê chuột vào rương ngoài đời thật cũng hiện tên của nó.
 
-**Phím** — `B` mở/đóng (không còn trùng vì Lịch của UI Info Suite 2 đã đổi sang `C`) · `←` `→` đổi rương · `↑` `↓` đổi nhóm · `Ctrl trái`+`F` **ô tìm kiếm** (trong đó `Tab` xem trước rương) · giữ `Ctrl trái` + lăn chuột đổi rương, giữ `Alt trái` + lăn chuột đổi nhóm.
+**Phím** — `B` mở/đóng · `←` `→` đổi rương · `↑` `↓` đổi nhóm · `Ctrl trái`+`F` **ô tìm kiếm** (trong đó `Tab` xem trước rương) · giữ `Ctrl trái` + lăn chuột đổi rương, giữ `Alt trái` + lăn chuột đổi nhóm.
 
 **Cấu hình** — GMCM (hoặc `config.json`). Xem bảng dưới.
 

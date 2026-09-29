@@ -300,15 +300,15 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 ### ⌨️ Phím tắt gốc của game (để tránh gán trùng khi cài mod)
 
 > [!phim] Xem/đổi ở Tùy chọn → phần Điều khiển
-> Đây là bảng mặc định — nếu bạn từng đổi thì lấy trong game làm chuẩn.
+> Bảng mặc định của game, trừ 3 phím đánh dấu 🔧 đã tự đổi. Lệch với trong game thì lấy trong game làm chuẩn.
 
 | Phím | Tác dụng |
 |------|----------|
 | `W` `A` `S` `D` | Di chuyển |
-| **Chuột trái** / ~~`C`~~ → **`G`** | **Dùng công cụ** — 🔧 đã tự đổi từ `C` sang `G` (xem lý do ở [[Mods#🎹 Bảng phím tắt nhanh|Mods — Bảng phím tắt nhanh]]) |
-| **Chuột phải** / `X` / **`V`** (mới thêm) | **Kiểm tra / tương tác** (nói chuyện, mở cửa, thu hoạch) — cầm vũ khí thì đây cũng là nút **đỡ đòn/đòn đặc biệt**. Đã gán thêm `V` làm phím phụ ở Tùy chọn → Điều khiển (giữ nguyên chuột phải, không xoá) vì chuột phải đang bị [[Mods#MouseMoveMode 1.4.4\|MouseMoveMode]] chiếm để di chuyển |
+| **Chuột trái** / ~~`C`~~ → **`G`** 🔧 | **Dùng công cụ** |
+| **Chuột phải** / `X` / **`V`** 🔧 | **Kiểm tra / tương tác** (nói chuyện, mở cửa, thu hoạch) — cầm vũ khí thì đây cũng là nút **đỡ đòn/đòn đặc biệt** |
 | `1`…`9` `0` `-` `=` | Chọn ô đồ trên thanh công cụ |
-| ~~`Tab`~~ → **`N`** (đã đổi) | Đổi hàng thanh công cụ — chỉ có tác dụng khi túi đồ có **từ 2 hàng trở lên** (mua Túi lớn 2.000g ở Pierre); túi khởi đầu 1 hàng 12 ô nên bấm `Tab` tưởng như không hoạt động, thật ra không phải lỗi. Đã đổi hẳn sang `N` ở Tùy chọn → Điều khiển cho chắc, xem thêm ở [[Mods#🎹 Bảng phím tắt nhanh\|Mods — Bảng phím tắt nhanh]] |
+| ~~`Tab`~~ → **`N`** 🔧 | Đổi hàng thanh công cụ — chỉ có tác dụng khi túi đồ có **từ 2 hàng trở lên** |
 | `E` hoặc `Esc` | Mở túi đồ / menu · `Esc` cũng để tạm dừng, đóng menu |
 | `F` | Mở nhật ký nhiệm vụ (Journal) |
 | `M` | Mở bản đồ |
@@ -316,10 +316,8 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 | `Y` | Menu biểu cảm (emote) |
 | `Shift` (giữ) | Đi bộ chậm khi đang bật Chạy tự động |
 
-> [!phim] Phím nào đụng với mod thì xem ở [[Mods]]
-> Bảng trên là **phím gốc của game**. Phần đối chiếu — phím nào **thật sự đụng nhau** (`X`, chuột phải — `C` đã hết đụng sau khi đổi sang `G`) và phím nào chỉ trùng ký tự nhưng **khác ngữ cảnh** nên không sao (`Shift trái`, `Space`, `F`) — nằm ngay dưới bảng phím mod ở [[Mods#🎹 Bảng phím tắt nhanh|Mods — Bảng phím tắt nhanh]]. Riêng `Tab` đã đổi hẳn sang `N` (không phải vì đụng mod, mà vì túi đồ còn 1 hàng nên bấm không ra tác dụng — xem chi tiết ở Mods).
->
-> Để ở một chỗ duy nhất cho khỏi sửa bên này quên bên kia.
+> [!phim] 🔧 = phím đã tự đổi — lý do nằm ở Mods
+> Bảng trên là **phím gốc của game** đang dùng trên máy này. Vì sao đổi `G`/`V`/`N` ghi ở [[Mods#🔧 Phím đã tự đổi|Mods — Phím đã tự đổi]]; phím nào đụng với mod ghi ngay dưới bảng phím ở [[Mods#🎹 Bảng phím tắt nhanh|Mods — Bảng phím tắt nhanh]]. Để một chỗ duy nhất cho khỏi sửa bên này quên bên kia.
 
 ---
 
