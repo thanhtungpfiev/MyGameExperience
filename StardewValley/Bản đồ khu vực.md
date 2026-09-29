@@ -16,9 +16,9 @@
 
 | Khu | Đi bộ sang | Lối riêng trong khu |
 |---|---|---|
-| 🌾 **Nông trại** | Backwoods (bắc) · Rừng Cindersap (nam) | Hang trên farm (Nấm/Dơi) |
+| 🌾 **Nông trại** | Backwoods (bắc) · **Bến xe buýt (đông)** · Rừng Cindersap (nam) | Hang trên farm (Nấm/Dơi) |
 | 🌳 **Backwoods** | Nông trại (tây) · Ngọn núi (đông) · Bến xe buýt (nam) | — |
-| 🚌 **Bến xe buýt** | Backwoods (tây bắc) · Thị trấn (đông) | 🚌 **Xe buýt → Sa mạc Calico** |
+| 🚌 **Bến xe buýt** | **Nông trại (tây)** · Backwoods (tây bắc) · Thị trấn (đông) | 🚌 **Xe buýt → Sa mạc Calico** |
 | 🏘️ **Thị trấn Pelican** | Bến xe buýt (tây) · Ngọn núi (đông bắc) · Rừng Cindersap (nam) · Bãi biển (nam) | — |
 | ⛰️ **Ngọn núi** | Backwoods (tây) · Thị trấn (nam) · Đường ray (bắc) | ⛏️ **Hầm mỏ** · Mỏ đá |
 | 🌲 **Rừng Cindersap** | Nông trại (bắc) · Thị trấn (đông bắc) | 🌿 **Rừng Bí Mật** (rìu Thép) · Cống ngầm |
@@ -30,7 +30,7 @@
 **Hai chỗ trực giác hay đánh lừa:**
 
 - **Rừng Cindersap ✗ Bãi biển** — nhìn bản đồ tưởng sát nhau, thực tế **không có lối**. Ra biển bắt buộc vòng qua Thị trấn.
-- **Nông trại ✗ Thị trấn** — cũng không nối thẳng. Phải qua Rừng Cindersap (nam) hoặc Backwoods → Bến xe buýt (bắc).
+- **Nông trại ✗ Thị trấn** — cũng không nối thẳng. Đường ngắn nhất là ra **lối phía đông farm sang Bến xe buýt** rồi đi tiếp về phía đông; vòng qua Rừng Cindersap (nam) cũng tới nhưng xa hơn.
 
 **Mở khóa khi nào:**
 
@@ -56,7 +56,7 @@
 ## 🌾 Nông trại (The Farm) — Tiêu chuẩn
 
 - **Bản đồ wiki:** https://stardewvalleywiki.com/The_Farm
-- **Nối tới:** Backwoods (phía bắc) → đi Núi/Bus Stop · Rừng Cindersap (phía nam).
+- **Nối tới:** Backwoods (phía bắc) → đi Núi · Bus Stop (phía đông) → đi Thị trấn · Rừng Cindersap (phía nam).
 - **Ảnh farm, mẫu bố cục, công cụ planner và nguyên tắc sắp xếp:** đều nằm ở [[Quy hoạch nông trại]] — note đó lo trọn phần quy hoạch, ở đây không chép lại.
 
 ## 🌳 Backwoods (Rừng sau nhà)
@@ -72,7 +72,7 @@
 ![[assets/map-busstop.png|500]]
 
 - **Bản đồ wiki:** https://stardewvalleywiki.com/Bus_Stop
-- **Nối tới:** Backwoods (tây bắc) · Thị trấn Pelican (đông).
+- **Nối tới:** Nông trại (tây) · Backwoods (tây bắc) · Thị trấn Pelican (đông).
 - **Có gì:** **Xe buýt đi Sa mạc Calico** (sửa xong xe mới đi được), một ít đồ lượm.
 
 ## 🏘️ Thị trấn Pelican (Pelican Town)

@@ -44,7 +44,7 @@
 **Sự kiện:** Willy gửi thư mời ra bãi biển → nhận **Cần tre (Bamboo Pole)** miễn phí, từ đây câu cá được.
 
 **Việc cần làm:**
-- [x] Ra bãi biển nhận Cần tre: Farm → **Backwoods không có đường tắt** — phải vòng qua **Rừng Cindersap → Thị trấn → qua cầu xuống Bãi biển**. Vào Tiệm Cá Willy (9:00–17:00)
+- [x] Ra bãi biển nhận Cần tre: Farm → **lối phía đông sang Bến xe buýt → Thị trấn → qua cầu xuống Bãi biển**. Vào Tiệm Cá Willy (9:00–17:00)
 - [x] Tập câu ngay tại bãi biển/sông: quăng cần → chờ `!` → bấm dính → giữ/nhả chuột cho ô xanh bám theo cá
 - [x] Lượm đồ dọc đường (bãi biển có thêm san hô, ốc, sò)
 
@@ -110,7 +110,7 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 **Việc cần làm:**
 - [x] Ra khỏi nhà gặp Marnie, nhận thú cưng, đặt tên
 - [x] Thu hoạch 15 Củ cải vàng (~35g/củ) — **giữ lại 1 củ** cho gói Cộng đồng
-- [x] Đi Thị trấn đúng đường (Backwoods → Bến xe buýt → rẽ đông), xong **trước 13:00** → Lewis mở Trung tâm Cộng đồng
+- [x] Đi Thị trấn đúng đường (lối phía đông farm → Bến xe buýt → rẽ đông), xong **trước 13:00** → Lewis mở Trung tâm Cộng đồng
 - [x] ⭐ **Vào hẳn bên trong** Trung tâm Cộng đồng (bảng gói còn là chữ Junimo, chưa đọc được — không sao, nhưng bước chân vào trong mới kích hoạt thư Pháp sư sáng mai; đứng ngoài xem cutscene rồi bỏ đi là kẹt cả dây chuyền)
 - [x] Mua hạt ở Pierre bằng tiền vừa bán — chừa vốn cho Ngày 13
 - [x] Xem Xe hàng rong ở Rừng Cindersap (Tháp Pháp sư hôm nay còn khóa, để Ngày 6)
