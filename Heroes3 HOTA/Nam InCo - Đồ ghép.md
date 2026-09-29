@@ -47,12 +47,13 @@
 - Người ta hay **cười chê** chuyện vừa cầm bộ này vừa cầm quả cầu ❓ — theo logic thường thì hai thứ đó "không dùng được với nhau".
 - Nhưng **Angelic Alliance và [[#💀 Armor of the Damned — cộng kiếm giáp yếu nhất mà nguy hiểm nhất|Armor of the Damned]] là hai bộ duy nhất** mà hiệu ứng **tác dụng trực tiếp lên quân bằng phép**, chứ không phải cộng chỉ số suông.
 - Vì là phép, nên nó **không ăn vào quân miễn nhiễm phép** — ví dụ **Black Dragon** (rồng đen). Đeo thêm quả cầu gỡ miễn nhiễm thì **cả Black Dragon cũng dính**.
-- Không chỉ rồng đen: tác giả mở game demo cả **quân Necropolis** — quân xương bình thường **kháng được một số phép, trong đó có Curse** ❓, nên không dính hiệu ứng; có quả cầu thì **dính bình thường**.
+- Không chỉ rồng đen: tác giả mở game demo cả **quân Necropolis** — quân xương bình thường **kháng được một số phép, trong đó có Curse**, nên không dính hiệu ứng; có quả cầu thì **dính bình thường** ⚠️ *(vế sau lệch wiki — xem khung dưới)*.
 - Tác giả nhấn: chỉ nên làm vậy **trong một số tình huống**, và chỉ khi đã sở hữu **một trong hai bộ** đó.
 
 > [!info]- Ngoài nguồn — cơ chế này khớp wiki, nhưng tên màu quả cầu thì không chốt được
 > Wiki xác nhận **Angelic Alliance** cast **Expert Prayer** đầu trận và **Armor of the Damned** cast **Expert Slow + Curse + Weakness + Misfortune** (50 lượt) đầu trận — đúng là hai bộ duy nhất trong danh sách có hiệu ứng dạng **phép đánh lên quân**, nên lập luận của video đứng vững.
-> **Orb of Vulnerability** đúng là gỡ "natural magic resistance, magic immunity và cơ hội kháng phép của **mọi** quân trên sân" → đây chính là món làm Black Dragon dính phép.
+> **Orb of Vulnerability** đúng là gỡ "natural magic resistance, magic immunity và cơ hội kháng phép của **mọi** quân trên sân" → đây chính là món làm Black Dragon dính phép (bảng trên trang Orb: miễn nhiễm "All spells" của Black Dragon thành "–", tức gỡ sạch).
+> **Nhưng với undead thì video nói quá:** trang [Orb of Vulnerability](https://heroes.v.thelazy.net/index.php/Orb_of_Vulnerability) ghi quả cầu **không gỡ miễn nhiễm theo loại quân** (Undead, Elemental…). Hàng Undead trong bảng, *có* quả cầu, vẫn giữ miễn nhiễm "Resurrection, Sacrifice, Blind, Mirth, Sorrow, Bless, **Curse**, Death Ripple". Trang [Curse](https://heroes.v.thelazy.net/index.php/Curse) cũng liệt kê **mọi undead** miễn nhiễm Curse. ⇒ Armor of the Damned đánh lên quân Necropolis thì **Curse vẫn trượt dù có quả cầu**; Slow, Weakness, Misfortune thì không nằm trong danh sách miễn nhiễm đó. Không rõ trong demo tác giả thấy phép nào dính ❓ (kiểm wiki 30/09/2026).
 > Nhưng **video gọi màu không nhất quán**: cùng một đoạn lúc thì "ngọc đỏ", lúc "ngọc đen", lúc "hộp đen" (2:14 → 3:28), và về cuối lại "kết hợp với ngọc đen" (44:00). **Chức năng thì rõ ràng là Orb of Vulnerability**, còn chữ đỏ/đen trong phụ đề thì không tin được — xem [[#❓ Bảng giải mã phụ đề|bảng giải mã]].
 
 ### ⚠️ Nhược điểm — gần như không bao giờ ghép được
@@ -102,24 +103,38 @@
 ### 🐢 Slow — chia đôi tốc độ, làm tàn cả Angelic Alliance
 
 - Tác giả lấy ví dụ: Angelic Alliance có thể đẩy tốc độ quân lên **19** ❓, thậm chí cao hơn.
-- Nhưng **Slow chia đôi tốc độ, làm tròn xuống**: từ **23 xuống còn 11** ❓. Con ngựa (quân cấp cao) đang nhanh nhất bỗng **đi sau** quân địch.
+- Nhưng **Slow chia đôi tốc độ, làm tròn xuống**: từ **23 xuống còn 11**. Con ngựa (quân cấp cao) đang nhanh nhất bỗng **đi sau** quân địch.
 - Vì thế người ta **chỉ cần cast Slow** lên con ngựa là đã lật được thế trận.
+
+> [!info]- Ngoài nguồn — 23 → 11 là phép tính SoD; HotA ra 12
+> Trang [Slow](https://heroes.v.thelazy.net/index.php/Slow): Advanced/Expert Slow hạ tốc độ còn **50%, làm tròn xuống** — 23 × 0,5 = 11,5 → **11**, khớp video. Nhưng _"In Horn of the Abyss, Advanced and Expert Slow's effect is reduced: the enemy's speed is lowered to 50% of normal +1"_ ⇒ ở HotA ra **12**. Video tính theo SoD, đúng như phần mô tả video tự nhận. Con số 19 phía trên thì vẫn ❓ — bộ Angelic Alliance không cộng tốc độ, nên nhiều khả năng đó là tốc độ đã cộng từ nguồn khác trong màn demo.
 
 ### 📉 Vì sao lợi thế kiếm giáp của Angelic Alliance "bão hoà"
 
 Đoạn tính toán dài nhất video — phụ đề vỡ nhiều nhưng mạch lập luận còn đọc được:
 
 - **Curse** kéo damage đối phương xuống **mức tối thiểu** của khoảng damage. Với phần lớn quân, khoảng cách min–max rơi vào tầm **15–20%** ❓.
-- Mỗi điểm chênh lệch công/thủ chỉ đổi được khoảng **5%** ❓ damage, nên để gỡ lại **20%** đó cần tới **khoảng 8 điểm kiếm** ❓.
-- **Weakness** trừ tiếp **3 điểm Attack** ❓.
+- Mỗi điểm chênh lệch công/thủ chỉ đổi được khoảng **5%** damage, nên để gỡ lại **20%** đó cần tới **khoảng 8 điểm kiếm** ❓ *(theo đúng 5%/điểm thì 20% là 4 điểm — con số 8 có thể đã tính cả phía thủ, mỗi điểm chỉ 2,5%)*.
+- **Weakness** trừ tiếp **3 điểm Attack** ⚠️ *(wiki: bản Expert mà bộ này cast trừ **6**)*.
 - Cộng dồn lại: **khoảng cách kiếm giáp giữa Angelic Alliance và Armor of the Damned gần như biến mất**. Bộ này "cộng ít" nhưng **trừ của đối phương rất nhiều**.
-- Video còn nhắc **Misfortune** ❓ và một con số giảm "75 / 50 phần trăm" ❓ — đoạn này phụ đề vỡ hẳn, không dựng lại được.
+- Video còn nhắc **Misfortune** và một con số giảm "75 / 50 phần trăm" ❓ — đoạn này phụ đề vỡ hẳn, không dựng lại được.
+
+> [!info]- Ngoài nguồn — các con số của đoạn tính toán, kiểm wiki 30/09/2026
+> - **5%/điểm — đúng:** trang [Damage](https://heroes.v.thelazy.net/index.php/Damage) ghi công hơn thủ thì **+5% damage gốc mỗi điểm** (trần +300% ở mức chênh 60 điểm); thủ hơn công thì **−2,5% mỗi điểm** (sàn −70% ở mức chênh 28 điểm).
+> - **Weakness — video nói thiếu:** Armor of the Damned cast cả bốn phép ở bậc **Expert**, 50 lượt. Trang [Weakness](https://heroes.v.thelazy.net/index.php/Weakness): Basic −3, Advanced/Expert **−6** công. "Trừ 3" là con số của bản Basic, nên lập luận "bão hoà" của video còn **mạnh hơn** chính video nói.
+> - **Curse — gần đúng:** Expert Curse không chỉ ép về damage tối thiểu mà còn **trừ thêm 1** (_"minimum damage −1"_, sàn 1). Nhớ là **undead và các loại rồng miễn nhiễm Curse** (xem khung Orb ở phần Angelic Alliance).
+> - **Misfortune:** Expert trừ **2 may mắn** cho toàn quân địch. Ở SoD may mắn không xuống âm nên phép này gần như vô dụng; **HotA có may mắn âm** — đòn xui chỉ gây **50% damage** (hệ số 0,50 trên trang Damage). Con số "50 phần trăm" trong cụm vỡ **có thể** là cái này, nhưng video nói trên nền SoD nên không chốt ❓.
 - Kết: đây là lý do **suốt nhiều năm cộng đồng tranh cãi** bộ nào mạnh hơn mà **chưa ai dám khẳng định**.
 
 ### 🧲 Ghép chồng, và map cấm phép
 
-- Armor of the Damned **ghép chồng được** với [[#🩸 Elixir of Life — cộng máu, dễ kiếm, ghép chồng được|Elixir of Life]] — tác giả nói có thể đeo **ba bộ cùng lúc** ❓.
-- **Trên map chặn phép** ❓ *(nghe ra "anti-magic", không chốt được là công trình nào)*: vì hiệu ứng của bộ này **không phải do tướng cast** mà tự bung đầu trận, nên nó **vẫn chạy**. Tác giả nói đây là **cách duy nhất** để thắng những đạo quân **đông gấp 10, có khi hàng trăm lần**.
+- Armor of the Damned **ghép chồng được** với [[#🩸 Elixir of Life — cộng máu, dễ kiếm, ghép chồng được|Elixir of Life]] — tác giả nói có thể đeo **ba bộ cùng lúc**; bộ thứ ba là bộ nào thì phụ đề không cho biết ❓.
+- **Trong Anti-Magic Garrison** *(nghe ra "anti-magic" / "axit position")*: vì hiệu ứng của bộ này **không phải do tướng cast** mà tự bung đầu trận, nên nó **vẫn chạy**. Tác giả nói đây là **cách duy nhất** để thắng những đạo quân **đông gấp 10, có khi hàng trăm lần**.
+
+> [!info]- Ngoài nguồn — đúng ở Anti-Magic Garrison, SAI ở Cursed Ground; và ô đồ cho phép ba bộ
+> Trang [Armor of the Damned](https://heroes.v.thelazy.net/index.php/Armor_of_the_Damned): hiệu ứng **bị chặn** bởi miễn nhiễm của quân địch, **Cursed Ground** và đồ chống phép — **trừ Anti-Magic Garrison, nơi nó chạy bình thường**. Đây là lý do chốt chữ "anti-magic" thành **Anti-Magic Garrison** chứ không phải đất cấm phép: đừng mang bộ này đi đánh trên **Cursed Ground** với hi vọng như video.
+> Wiki còn nói phép chỉ bung **khi quân mình được đi lượt đầu tiên** — nếu địch đi trước và cast Haste/Slow thì có thể lật trước.
+> **Ba bộ cùng lúc — ô đồ cho phép:** Armor of the Damned chiếm **mũ, giáp, vũ khí, khiên**; Elixir of Life chiếm **hai nhẫn + một ô misc**. Còn trống **cổ, áo choàng, giày** và 4 ô misc — vừa đủ cho một bộ thứ ba như Cloak of the Undead King (cổ/choàng/giày) hay Bow of the Sharpshooter (3 ô misc). Tức "ba bộ" là khả thi; chỉ không biết tác giả muốn nói bộ nào. Kiểm 30/09/2026.
 
 ---
 
@@ -145,7 +160,9 @@
 
 > [!info]- Ngoài nguồn — HotA mặc định CẤM bộ này
 > Wiki ghi hiệu ứng chính xác: dựng lại **30%** quân chết thành **Skeleton**; nếu tướng có kỹ năng **Necromancy** thì **% cộng dồn** và **bậc kỹ năng quyết định loại quân dựng lên** (Walking Dead → Wight → **Lich** ở bậc Expert).
-> Quan trọng cho note nằm trong thư mục HotA này: **HotA 1.7.2 mặc định cấm ghép bộ này** — đã ghi ở [[Game9x - Hero3 Tập chơi]]. Video **không nhắc** chuyện đó, nên nếu bạn chơi HotA thì **phần lớn đoạn này không áp dụng được**. ❓ chưa kiểm lại xem bản HotA hiện hành có còn cấm không.
+> Quan trọng cho note nằm trong thư mục HotA này: **từ HotA 1.7.2, bộ này mặc định không ghép được** — đã ghi ở [[Game9x - Hero3 Tập chơi]]. Video **không nhắc** chuyện đó (vì video nói trên nền SoD), nên nếu bạn chơi HotA thì **phần lớn đoạn này không áp dụng được**.
+> Trang [Cloak of the Undead King](https://heroes.v.thelazy.net/index.php/Cloak_of_the_Undead_King) kiểm 30/09/2026 **vẫn ghi lệnh cấm này**, kèm ngoại lệ: vẫn ghép được trên các template **Anarchy**, **Clash of Dragons**, **Default Random Map (Legacy)** và một số map đơn. Bật **tournament rules** thì bộ ghép được nhưng **không có tác dụng**.
+> "Toàn đồ cấp thấp" cũng hơi quá: ba món là **Amulet of the Undertaker** (Treasure), **Vampire's Cowl** (Minor), **Dead Man's Boots** (**Major**) — hai món đầu dễ, món giày thì không.
 
 ---
 
@@ -161,6 +178,9 @@ Tác giả gọi đây là bộ **cực kỳ quan trọng**, đặc biệt ở c
 - Titan vốn damage đã **cực to**, và damage đó **còn tăng theo level tướng**.
 - Cộng thêm bộ cung này, tác giả đọc ra các con số **30% / 50% / 65%** ❓ — dãy số này vỡ, không dựng lại được mạch tính.
 - Kết luận của tác giả: Titan đánh **hơn hẳn các quân bắn khác**, và khi đã có bộ cung thì **gần như vô đối** ❓.
+
+> [!info]- Ngoài nguồn — bộ cung trên wiki, và con số 30%
+> Trang [Bow of the Sharpshooter](https://heroes.v.thelazy.net/index.php/Bow_of_the_Sharpshooter): _"Shooters may shoot while adjacent to enemy creatures. No range penalty. No obstacle penalty."_ — chiếm một ô misc và khoá thêm hai ô misc. Ba món thành phần (Bow of Elven Cherrywood, Bowstring of the Unicorn's Mane, Angel Feather Arrows) cộng dồn **+30% Archery** — trùng số đầu của dãy "30% / 50% / 65%", nhưng hai số sau vẫn không dựng lại được ❓.
 
 ---
 
@@ -204,14 +224,15 @@ Tác giả xếp bộ này ngang **Cloak of the Undead King** về độ mạnh,
 
 - Tức là **tăng khoảng gấp rưỡi**.
 - **Kể cả khi tướng không đứng trong thành**, bộ vẫn cộng — tác giả nhấn đi nhấn lại chi tiết này.
-- Nếu **cuối tuần về đứng trong thành** (thứ Bảy ngủ tới sáng thứ Hai) thì còn cộng thêm nữa ❓.
+- Nếu **cuối tuần về đứng trong thành** (thứ Bảy ngủ tới sáng thứ Hai) thì còn cộng thêm nữa — đây là phần cộng của **các món thành phần**, xem khung dưới.
 - Quân cấp cao thì lợi ít hơn: **rồng tăng rất ít**, còn **con ngựa cộng 12 con một tuần — gấp 3 lần các quân khác** ❓.
-- **Mẹo dùng:** ghép xong rồi thì **đưa phần đồ còn lại cho một tướng khác** giữ, hoặc để chính tướng đó cuối tuần về thành ❓.
+- **Mẹo dùng:** ghép xong rồi thì **đưa phần đồ còn lại cho một tướng khác** giữ, hoặc để chính tướng đó cuối tuần về thành.
 - Tác giả tính: từ **cuối tháng 2 đến tháng 3–4**, quân bạn có thể **gấp 3–4 lần** đối phương — lúc đó "kiếm giáp bằng nhau cũng chả được".
 
 > [!info]- Ngoài nguồn — wiki xác nhận, và nói rõ hơn một chi tiết video bỏ qua
 > Wiki: **"All creature production increases by 50%, in all towns"** — đúng **mọi thành**, không phải chỉ thành đang đứng. Nhưng wiki thêm một vế video không nói: mức tăng tính **theo bậc công trình sinh quân của thành** (*based off of the castle creature generation level*).
 > Dãy số **21 → 37 → 43** trong video là **đọc từ màn hình demo**, không phải công thức — và **phụ đề không cho biết đó là quân gì của thành nào** ❓, nên đừng dùng dãy này làm mốc tính.
+> **Vì sao về thành lại cộng thêm** — trang [Statue of Legion](https://heroes.v.thelazy.net/index.php/Statue_of_Legion) kiểm 30/09/2026: bộ hoàn chỉnh cộng +50% ở mọi thành bất kể tướng ở đâu, còn **năm món thành phần** chỉ có tác dụng khi tướng cầm chúng **đóng trong thành**: Legs +5 quân cấp 2, Loins +4 cấp 3, Torso +3 cấp 4, Arms +2 cấp 5, Head +1 cấp 6 mỗi tuần. Mỗi người chơi chỉ **một Statue có hiệu lực**; Statue thứ hai chỉ cho phần cộng của món thành phần. Hai món giống nhau không cộng dồn trên một tướng, nhưng **cộng dồn được giữa tướng đồn trú và tướng ghé thăm** — đó là cơ sở cho mẹo "đưa đồ còn lại cho tướng khác".
 
 ---
 
@@ -255,6 +276,7 @@ Phần "đồ phụ trợ" bắt đầu từ đây — đồ lấp vào các ô 
 > [!info]- Ngoài nguồn — con số 30% khớp Diplomat's Cloak của HotA
 > Wiki: **Diplomat's Cloak** (bộ **riêng của HotA**, ghép từ Statesman's Medal + Diplomat's Ring + Ambassador's Sash) — **ba món thành phần giảm 30% chi phí đầu hàng**, đúng con số video đọc ra; bản thân bộ hoàn chỉnh cho phép **rút lui/đầu hàng trước quái trung lập và thành đang thủ**, và **nhân 3 lần sức mạnh quân** khi tính quái trung lập.
 > Đây là **suy ra từ con số 30%**, không phải từ tên đồ — phụ đề **không đọc ra được tên nào** trong đoạn này ❓.
+> **"Dây chuyền cấp 3" khớp Statesman's Medal:** trang [Statesman's Medal](https://heroes.v.thelazy.net/index.php/Statesman%27s_Medal) ghi món này ở **ô cổ**, hạng **Major** (cấp 3 trong bốn cấp Treasure → Minor → Major → Relic), **−10% chi phí đầu hàng**, và **có từ game gốc**. Cả ba món thành phần đều hạng Major và đều có ở SoD — nên cũng như mục kháng phép, "3 món giảm 30%" chạy được cả ở SoD với ba món rời; chỉ phần **ghép thành áo choàng** mới là của HotA. Kiểm 30/09/2026.
 
 ---
 
@@ -276,10 +298,9 @@ Phần "đồ phụ trợ" bắt đầu từ đây — đồ lấp vào các ô 
 | **Cộng kiếm giáp** | Angelic Alliance → Power of the Dragon Father → Titan's Thunder → Armor of the Damned |
 | **Mạnh thật trong trận** | Angelic Alliance ≈ Armor of the Damned → Power of the Dragon Father → Titan's Thunder |
 
-> **"Dây chuyền cấp 3" khớp Statesman's Medal:** trang [Statesman's Medal](https://heroes.v.thelazy.net/index.php/Statesman%27s_Medal) ghi món này ở **ô cổ**, hạng **Major** (cấp 3 trong bốn cấp Treasure → Minor → Major → Relic), **−10% chi phí đầu hàng**, và **có từ game gốc**. Cả ba món thành phần đều hạng Major và đều có ở SoD — nên cũng như mục kháng phép, "3 món giảm 30%" chạy được cả ở SoD với ba món rời; chỉ phần **ghép thành áo choàng** mới là của HotA. Kiểm 30/09/2026.
 - Tác giả nói thêm: **Titan's Thunder có khi còn mạnh hơn Power of the Dragon Father**, vì Power of the Dragon Father **chỉ có mỗi kháng phép**, còn Titan's Thunder **có thêm hiệu ứng phép**.
 - Và Titan's Thunder **để lại nhiều ô trống** để lắp đồ phụ trợ, trong khi Power of the Dragon Father **chiếm hết 9 ô, không lắp thêm được gì**.
-- Một chi tiết nhỏ: **Power of the Dragon Father không dùng chung được với Elixir of Life**, còn **Titan's Thunder thì được** ❓.
+- Một chi tiết nhỏ: **Power of the Dragon Father không dùng chung được với Elixir of Life**, còn **Titan's Thunder thì được**. Lý do là ô đồ: Power of the Dragon Father có **hai món nhẫn** (Quiet Eye, Still Eye of the Dragon) nên khoá cả hai ô nhẫn, mà Elixir of Life cũng cần đúng **hai ô nhẫn**; Titan's Thunder chỉ chiếm mũ/giáp/vũ khí/khiên (wiki, kiểm 30/09/2026).
 
 ### 🥇 Ba bộ tác giả thích nhất
 
@@ -312,7 +333,7 @@ Phần "đồ phụ trợ" bắt đầu từ đây — đồ lấp vào các ô 
 | 13:36 | **Armor of the Damned** — cộng ít nhất mà nguy hiểm nhất |
 | 14:06 | Slow chia đôi tốc độ |
 | 16:48 | Vì sao lợi thế kiếm giáp bị bão hoà |
-| 21:03 | Map chặn phép — chỗ bộ này là lối thắng duy nhất |
+| 21:03 | Anti-Magic Garrison — chỗ bộ này là lối thắng duy nhất |
 | 21:45 | **Elixir of Life** — cộng máu |
 | 22:38 | **Cloak of the Undead King** — bộ mạnh nhất game mà dễ kiếm nhất |
 | 23:50 | **Bow of the Sharpshooter** |
@@ -364,9 +385,9 @@ Phần "đồ phụ trợ" bắt đầu từ đây — đồ lấp vào các ô 
 | "sữa hót" · "sẽ non" | **slot** (ô đồ) | Khá chắc — mạch câu đang đếm số ô |
 | "kiếm giáp" · "kiếm sát" · "kiểm soát" | **công/thủ** (Attack/Defense) | **Xác nhận** — dùng nhất quán cả video |
 | "cát" · "cắt" · "cá tép" · "cấm phép" | **cast** (niệm phép) | **Xác nhận** |
-| "anti-magic" / "Magic ăn thêm axit position" | Map hoặc công trình **chặn phép** | **Không rõ** là thứ gì cụ thể ❓ |
+| "anti-magic" / "Magic ăn thêm axit position" | **Anti-Magic Garrison** | Khá chắc — wiki ghi riêng Anti-Magic Garrison là nơi Armor of the Damned **vẫn chạy**, còn Cursed Ground thì chặn; "axit position" nghe gần "garrison" |
 | Dãy "92 → 31 / 30 / 33" (chỉ số Angelic Alliance) | Không rõ | **Không rõ** — dãy vỡ, không dựng lại được |
-| Dãy "30% / 50% / 65%" (combo Titan + bộ cung) | Không rõ | **Không rõ** |
+| Dãy "30% / 50% / 65%" (combo Titan + bộ cung) | Số đầu có thể là **+30% Archery** của ba món bộ cung | **Không rõ** — hai số sau không dựng lại được |
 | Dãy "75 / 50 phần trăm" (mục Misfortune) | Không rõ | **Không rõ** |
 | Dãy "21 → 37 → 43" (Statue of Legion) | Số quân/tuần đọc từ màn hình demo | Khá chắc là số quân, nhưng **không rõ quân gì, thành nào** ❓ |
 
