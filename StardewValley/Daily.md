@@ -361,7 +361,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 **Việc cần làm:**
 - [x] Ghé chân cầu vồng cạnh Nhà hoang, bấm chum vàng lấy mũ + 200g — **chỉ cần đúng ngày Xuân 17, không cần mưa**; chum chỉ có hôm nay, sang Ngày 18 là mất
 - [x] Pierre nghỉ Thứ Tư — đừng định mua hạt hôm nay
-- [x] Ngày cuối mùa Dâu rừng — lượm nốt nếu còn thời gian
+- [x] Lượm Dâu rừng nếu còn thời gian — còn tới hết mai (Ngày 18)
 - [x] Việc thường ngày: tưới ruộng, mỏ/câu cá
 
 **Lưu ý:** không bắt buộc — lỡ thì chờ Xuân 17 năm sau (lặp mỗi năm, năm nào cũng rơi lại mũ). Không ảnh hưởng tiến trình chính.
