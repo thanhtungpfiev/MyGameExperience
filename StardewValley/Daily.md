@@ -159,7 +159,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 
 ### ☀️ Ngày 7 (Chủ Nhật) — 📺 buổi Nữ hoàng Nước sốt đầu tiên
 
-**3 sự kiện:** Nữ hoàng Nước sốt chiếu công thức MỚI lần đầu (Trứng ốp la) · Sinh nhật Lewis · Xe hàng rong về lại.
+**3 sự kiện:** Nữ hoàng Nước sốt chiếu công thức MỚI lần đầu (Rau củ xào / Stir Fry) · Sinh nhật Lewis · Xe hàng rong về lại.
 
 > Chủ Nhật = công thức mới, Thứ Tư = chiếu lại. Bỏ lỡ Chủ Nhật thì phải chờ công thức đó quay lại ngẫu nhiên vào 1 Thứ Tư nào đó, có thể vài mùa sau. Kênh chiếu cả ngày, bật trước khi ngủ vẫn kịp.
 
