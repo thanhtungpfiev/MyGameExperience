@@ -276,7 +276,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 ### Mốc hẹn hò & cưới
 
 - Dân làng thường trần **10 tim**. Người hẹn hò được cũng **kẹt trần 8 tim** cho tới khi tặng bó hoa.
-- **8 tim** → mua **Bó hoa (Bouquet)** ở tiệm Pierre (800g) để chính thức hẹn hò, mở trần lên 10 tim.
+- **8 tim** → mua **Bó hoa (Bouquet)** ở tiệm Pierre (200g) để chính thức hẹn hò, mở trần lên 10 tim.
 - **10 tim** + đã **nâng cấp nhà ít nhất 1 lần** → mua **Vòng cổ Người cá (Mermaid's Pendant)** 5.000g từ ông lão ở mép phải **Bãi biển vào ngày mưa** (riêng mùa Đông thì ngày **15–17** dù thời tiết nào) để cầu hôn. Cưới xong trần lên **14 tim**.
 
 ## 🧩 Trung tâm Cộng đồng
