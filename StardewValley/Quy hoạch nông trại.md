@@ -63,7 +63,7 @@
 > [!info] Không làm rương riêng cho "Đừng bán" — thay bằng 3 cách có thật
 > Cân nhắc rồi bỏ, giống lý do bỏ rương Quà tặng: đồ cần giữ (cổ vật/khoáng vật chưa donate, nông sản/cá phẩm cấp cao cho gói Cộng đồng) nằm sẵn trong đúng rương của nó (`10 Cổ vật`, `2 Quặng & Đá quý`, `3 Nông sản`...), không cần tách riêng. Để khỏi lỡ tay bán nhầm, dùng 3 cách **có thật trong mod đang cài**, không phải rương phụ:
 > - **Rê chuột vào vật phẩm — kể cả đang mở rương** — [[Mods#UI Info Suite 2 (v2.3.7, bản VH)|UI Info Suite 2]] tự hiện **icon Gunther** (chưa donate Bảo tàng), **icon thùng ship** (chưa ship lần nào) và **icon + tên gói** (còn thiếu gói Cộng đồng) ngay trên tooltip — không cần nhớ đã cất đâu, cứ rê chuột là biết. Đây là cách chính, gần như thay thế hẳn nhu cầu có rương riêng.
-> - **Giữ trong túi đồ tới khi donate/nộp gói xong** — đa số trường hợp trong ngày là mang đi nộp luôn (xem thói quen ở [[Daily#🔁 Routine mỗi ngày|Daily]]), chỉ bỏ vào rương khi túi đầy hoặc chưa kịp mang đi.
+> - **Giữ trong túi đồ tới khi donate/nộp gói xong** — đa số trường hợp trong ngày là mang đi nộp luôn (xem thói quen ở [[Daily#🔁 Routine mỗi ngày (áp dụng từ khi mở khóa, không ghi lại từng ngày)|Daily]]), chỉ bỏ vào rương khi túi đầy hoặc chưa kịp mang đi.
 > - **Bật `FilterItems`/`Description` trong [[Mods#All Chests Menu 0.4.2|All Chests Menu]]** rồi gõ tên món vào ô Filter khi mở `F2` — tìm ra món đó đang nằm ở đúng rương nào trong tích tắc.
 
 ### Tầng 2 — thêm khi kho phình (giữa Xuân → Hạ)
