@@ -372,13 +372,14 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 
 **Việc cần làm:**
 - [x] Tìm Pam tặng quà sinh nhật — hay ở quán Saloon (12:00–23:00) hoặc trạm xe buýt buổi sáng; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
-- [ ] Lượm nốt Mâm xôi cá hồi — **ngày cuối cùng trong năm** bụi còn ra quả
-- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá kiếm vốn nâng cấp túi đồ/công cụ
-- [ ] 📦 **Giao Rong biển cho Emily** — nhiệm vụ còn **2 ngày**; rương đã có 2 Rong biển
-- [ ] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Mẹo#🪱 Điểm cổ vật (Artifact Spot)|Mẹo]])
+- [x] Lượm nốt Mâm xôi cá hồi — **ngày cuối cùng trong năm** bụi còn ra quả
+- [x] Việc thường ngày: tưới ruộng, mỏ/câu cá kiếm vốn nâng cấp túi đồ/công cụ
+- [x] 📦 **Giao Rong biển cho Emily** — nhiệm vụ còn **2 ngày**; rương đã có 2 Rong biển
+- [x] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Mẹo#🪱 Điểm cổ vật (Artifact Spot)|Mẹo]])
 
 > [!info] Tình trạng đọc từ quicksave Xuân 18
-> Câu cá cấp 8 · 5.031g · mỏ sâu nhất tầng 76 · ruộng có **71 cây**: 49 Dâu tây · 15 Súp lơ · 3 Cải vàng · 2 Khoai tây · 1 Đậu xanh · 1 Hạt cà phê.
+> Câu cá cấp 8 · 5.091g · mỏ sâu nhất tầng 76 · ruộng có **72 cây**: 49 Dâu tây · 15 Súp lơ · 3 Cải vàng · 2 Khoai tây · 1 Đậu xanh · 1 Hạt cà phê · 1 Hạt giống cổ đại.
+> Cuốc chim đang ở chỗ Clint nâng lên Đồng — còn 2 ngày, lấy **Ngày 20**.
 
 ---
 
@@ -387,7 +388,6 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để sang Xuân năm 2** (xem [[Câu cá theo mùa#🎯 Còn làm được trong Xuân này|Câu cá theo mùa]]).
 
 **Việc cần làm:**
-- [ ] Giao Rong biển cho Emily nếu hôm qua chưa kịp — **hạn chót**
 - [ ] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt giống hiếm/Hạt giống cổ đại nếu tuần trước chưa mua đủ
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [ ] Kiểm tra túi đồ — nếu đầy và dư tiền, cân nhắc nâng 24 ô ở Pierre (2.000g)
@@ -397,6 +397,7 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 ### ☀️ Ngày 20 (Thứ Bảy) — 🎂 Sinh nhật Shane
 
 **Việc cần làm:**
+- [ ] ⛏️ **Lấy Cuốc chim Đồng ở Clint** (Lò rèn mở 09:00–16:00) — gửi Ngày 18, xong hôm nay
 - [ ] Tìm Shane tặng quà — hay ở Trại Marnie (nơi anh làm việc) buổi sáng, hoặc Saloon tối muộn (sau 21:00, đứng ở quầy bar); chưa rõ món Yêu thích thì tặng món Thích bất kỳ, **Ớt hiểm (Hot Pepper) là món Yêu thích** của Shane, có sẵn trong Hạ nên Xuân thì tặng món Thích; tránh Dưa muối (Pickles) và Thạch anh (Quartz) — Shane ghét
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [ ] Kiểm tra Dâu tây — chuẩn bị thu hoạch lứa đầu ngày mai/kia (chín Ngày 21)
