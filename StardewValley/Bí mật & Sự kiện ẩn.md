@@ -19,7 +19,7 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Daily]] thì có link 
 
 ### 🌸 Xuân
 
-- [ ] **Xuân 17 — Chum vàng cuối cầu vồng** (từ bản 1.6) · ✔️ code · Daily [[Daily#☀️ Ngày 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)|Ngày 17]]
+- [x] **Xuân 17 — Chum vàng cuối cầu vồng** (từ bản 1.6) · ✔️ code · Daily [[Daily#☀️ Ngày 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)|Ngày 17]]
   - **Ở đâu:** phía nam **Rừng Cindersap**, gần thác nước cạnh **Nhà hoang (Abandoned House** — nhà Chuột bán mũ); chum nằm ở ô **(52, 98)**, cầu vồng vẽ ngay phía trên.
   - **Điều kiện:** chỉ cần **đúng ngày Xuân 17** — **không phụ thuộc thời tiết, không cần mưa hôm trước**. Chum chỉ có đúng 1 ngày: sang Xuân 18 game tự dọn nếu chưa ai bấm.
   - **Thưởng:** **Mũ Leprechaun (Leprechaun Hat)** + **(7 + số năm) đồng xu vàng, mỗi đồng 25g** → Năm 1 = 8 × 25 = **200g**, mỗi năm sau thêm 1 đồng. Lặp mỗi năm (mũ cũng rơi lại mỗi năm).
