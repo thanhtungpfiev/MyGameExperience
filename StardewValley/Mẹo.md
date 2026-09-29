@@ -221,7 +221,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 - **Giày (Boots):** tăng **phòng thủ** và **miễn dịch (immunity)** — đừng bán giày tốt.
 - **Nhẫn (Rings):** hiệu ứng thụ động mạnh; từ 1.6 có thể **hợp nhất 2 nhẫn** (ở Lò rèn Đảo Gừng) thành 1 nhẫn gộp hiệu ứng.
-- Nhẫn nên có: **Nhẫn đạo tặc (Burglar's Ring)** (quái rơi đồ x2) · **Nhẫn Cà phê (Coffee Ring)** (tăng tốc di chuyển) · **Nhẫn Yoba** (khiên đỡ sát thương).
+- Nhẫn nên có: **Nhẫn đạo tặc (Burglar's Ring)** (quái rơi đồ x2) · **Nhẫn hoang dã (Savage Ring)** (hạ quái xong được +2 tốc độ trong 3 giây) · **Nhẫn Java nóng bỏng (Hot Java Ring)** (quái hay rơi Cà phê — uống vào tăng tốc) · **Nhẫn Yoba** (khiên đỡ sát thương).
 
 ### Chỉ số, cấp độ & nâng cấp
 
@@ -235,7 +235,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 - Mang **phô mai (Cheese)** làm đồ hồi máu rẻ, ăn nhanh khi ở tầng sâu.
 - **Nhẫn đạo tặc + diệt Tinh linh bụi (Dust Sprite)** ở tầng **60–79** là cách farm **Than đá (Coal)** hiệu quả nhất.
-- **Nhẫn Cà phê** để chạy nhanh, tiết kiệm thời gian mỗi chuyến hầm.
+- **Nhẫn hoang dã** hoặc **Nhẫn Java nóng bỏng** để chạy nhanh, tiết kiệm thời gian mỗi chuyến hầm — game **không có "Nhẫn Cà phê"** như video gọi.
 - Đi Hang Đầu Lâu xem thêm [[#⛏️ Khai thác (Mining)|mục Khai thác]] ở trên.
 
 ## 💰 Kiếm tiền theo giai đoạn
@@ -359,6 +359,6 @@ _Chốt lại: nắm cơ chế ẩn + lên kế hoạch mùa vụ + đầu tư s
 | 4:22 – 9:18 | Chỉ số, cấp độ, chọn nghề cấp 5 & 10 |
 | 9:18 – 11:20 | Lò rèn Đảo Gừng: khảm ngọc, phù phép, vũ khí Vô Cực |
 | 11:20 – 13:58 | Bậc thầy Chiến đấu (1.6) |
-| 13:58 – 16:38 | Mẹo thực chiến: phô mai, Nhẫn đạo tặc, Nhẫn Cà phê, farm than |
+| 13:58 – 16:38 | Mẹo thực chiến: phô mai, Nhẫn đạo tặc, nhẫn tăng tốc (video gọi "Nhẫn Cà phê"), farm than |
 
 > _Còn thiếu 3 nghề (Khai thác · Lượm · Câu cá) trong playlist — xem xong thì tóm ý vào đúng mục ở trên theo cùng cách này._
