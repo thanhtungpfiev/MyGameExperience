@@ -1101,7 +1101,7 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 > Farmhand **không** đổi được thời gian. Tác giả ghi **không có xung đột mod nào đã biết**.
 
 > [!warning] Ảnh trên là ảnh Nexus, không phải máy này
-> Ảnh chụp `Infinite Health`, `Increased Movement Speed`, `One Hit Kill`, `Max Daily Luck`, `One Hit Break` đang **bật** — máy này **tắt hết** mấy cái đó. Lấy bảng "Đang bật 6 cheat" ở trên làm chuẩn.
+> Ảnh chụp `Infinite Health`, `Increased Movement Speed`, `One Hit Kill`, `Max Daily Luck`, `One Hit Break` đang **bật** — máy này chỉ trùng `Infinite Health`, còn lại đều **tắt**. Lấy bảng "Đang bật 6 cheat" ở trên làm chuẩn.
 
 > [!success] Mã nguồn mở, có bằng chứng dựng bản
 > Toàn bộ mã công khai, và **mỗi bản phát hành kèm một attestation** — bản ghi không giả mạo được, chứng minh file tải về đúng là dựng từ mã nguồn công khai chứ không bị nhét thêm gì. Hiếm mod nào làm tới mức này.

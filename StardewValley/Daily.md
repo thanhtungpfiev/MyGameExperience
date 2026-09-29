@@ -13,7 +13,7 @@
 - **Từ Ngày 5:** vuốt thú cưng 1 lần + đổ nước vào bát bằng Bình tưới.
 - **Cuối ngày:** bỏ nông sản/cá/đồ lượm vào thùng vận chuyển trước nửa đêm, về ngủ **trước 24:00**. Quá **02:00** là ngất — mất tiền, có thể mất đồ.
 - **Trước mỗi chuyến xuống mỏ:** bấm `F5` lưu nhanh ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_|QuickSave]]), lỡ chết/mất đồ thì `F7` làm lại.
-- **Năng lượng không cộng dồn qua đêm và có giới hạn thật** (chơi không cheat) — canh thanh năng lượng khi cày/tưới/câu cá/đào mỏ; hết sạch sẽ bắt đầu trừ vào máu.
+- **Năng lượng & máu đang vô hạn** — [[Mods#CJB Cheats Menu 1.42.0|CJB Cheats]] bật `InfiniteStamina` + `InfiniteHealth`, nên mấy lời dặn "mang đồ ăn hồi năng lượng/máu" bên dưới chỉ cần khi tắt hai cheat này.
 - **Chào dân làng** mỗi lần gặp đều +tình cảm (tối đa hiệu quả 2 lần/ngày/người), không tốn gì — tranh thủ khi đi ngang qua.
 
 ---
