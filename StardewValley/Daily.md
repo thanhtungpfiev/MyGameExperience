@@ -243,7 +243,7 @@ Mốc 1/3 mùa Xuân. Pierre nghỉ, Nữ hoàng Nước sốt chiếu lại (c�
 | 🎣 Câu cá | Cấp 2+ |
 | 🧩 Gói CĐ | Lượm Xuân gần đủ · giữ 1 Củ cải vàng cho Cây Xuân |
 | 🏛️ Bảo tàng | Đã quyên góp vài món |
-| ❤️ Dân làng | Xong nhiệm vụ Làm quen (500g) |
+| ❤️ Dân làng | Xong nhiệm vụ Làm quen (thưởng +100 tình cảm với mọi người đã gặp, không có tiền) |
 
 Thiếu mục nào thì 3 ngày tới ưu tiên bù mục đó.
 
