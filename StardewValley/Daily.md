@@ -552,7 +552,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 | **Việt quất** 🔁 | 80g | 13 (rồi 4/lứa, ra 3 quả/lần) | 50g/quả | 4 ngày | ~30g/ngày từ lứa 2 (×3 quả) — lãi cao nhất đầu game |
 | Cà chua 🔁 | 50g | 11 | 60g | 4 ngày | ~15g/ngày từ lứa 2 |
 | Hoa bia 🔁 | 60g | 11 | 25g | 1 ngày | ~25g/ngày — hái mỗi ngày, ủ Bia Nhạt rất lời |
-| Bắp cải tím | 100g | 10 | 260g | — | ~16,0g |
+| Bắp cải đỏ | 100g — **Pierre chỉ bán từ Năm 2** | 9 | 260g | — | ~17,8g |
 | Dưa lưới | 80g | 12 | 250g | — | ~14,2g — dễ ra "khổng lồ" khi trồng khối 3×3 |
 | Quả sao | 400g — mua ở Ốc đảo sa mạc | 13 | 750g | — | ~26,9g — lời nhất Hạ, nhưng cần đi được Sa mạc (thường chưa kịp Năm 1) |
 
@@ -569,12 +569,12 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 | Cây trồng | Giá hạt | Ngày lớn | Giá bán | Tái thu hoạch | Lời/ngày (thô) |
 |---|---|---|---|---|---|
 | Bok Choy | 50g | 4 | 80g | — | ~7,5g |
-| Atiso | 30g | 8 | 160g | — | ~16,3g |
+| A-ti-sô | 30g — **Pierre chỉ bán từ Năm 2** | 8 | 160g | — | ~16,3g |
 | Rau dền (Amaranth) | 70g | 7 | 150g | — | ~11,4g |
-| Cà tím 🔁 | 20g | 10 (rồi 3/lứa) | 60g | 3 ngày | ~13,3g/ngày từ lứa 2 |
+| Cà tím 🔁 | 20g | 5 (rồi 5/lứa) | 60g | 5 ngày | ~12g/ngày từ lứa 2 |
 | Nho 🔁 | 60g | 10 (rồi 3/lứa) | 80g | 3 ngày | ~26,7g/ngày từ lứa 2 — cần giàn |
 | **Nam việt quất** 🔁 | 240g | 7 (rồi 5/lứa) | 75g | 5 ngày | ~15g/ngày từ lứa 2 — cây chủ lực mùa Thu |
-| Bí ngô | 100g | 13 | 320g | — | ~16,9g — dễ ra "khổng lồ", cần cho gói Xây dựng/Hầm rượu |
+| Bí ngô | 100g | 13 | 320g | — | ~16,9g — dễ ra "khổng lồ", cần cho gói Cây Thu (1 quả) và gói Nông sản chất lượng (5 quả phẩm cấp vàng) |
 | **Quả Ngọc Ngọt** | Hạt Giống Hiếm (~600–1.000g, chỉ mua ở Xe hàng rong) | 24 | 3.000g | — | ~83,3g — lời nhất cả năm, nhưng nguồn hạt cực khan hiếm; nhân giống về sau bằng Máy làm hạt |
 
 **🎉 Lễ hội:** Hội chợ Thung lũng (16, minigame ăn Vé Sao + thi trưng bày Grange) · Đêm Linh Hồn (27, mê cung — năm lẻ ra Bí ngô vàng, năm chẵn ra Vé Thưởng).
