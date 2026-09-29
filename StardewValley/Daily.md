@@ -22,17 +22,17 @@
 
 ### ☀️ Ngày 1 (Thứ Hai)
 
-**Khởi đầu:** 15 hạt Củ cải vàng (Parsnip), 500g, 5 công cụ cơ bản (Cuốc · Cuốc chim · Rìu · Bình tưới · Liềm). Lewis & Robin ghé chào tại farm.
+**Khởi đầu:** 15 hạt Cải vàng (Parsnip), 500g, 5 công cụ cơ bản (Cuốc · Cuốc chim · Rìu · Bình tưới · Liềm). Lewis & Robin ghé chào tại farm.
 
 **Việc cần làm:**
 - [x] Xem hết hội thoại mở đầu
 - [x] Dọn đất đủ 15 ô gần nhà/thùng vận chuyển/hồ nước (xem [[Quy hoạch nông trại]]) — đừng dọn quá sức, để dành năng lượng cày & tưới
-- [x] Cày (bố trí 3×5), gieo và tưới cả 15 hạt Củ cải vàng
+- [x] Cày (bố trí 3×5), gieo và tưới cả 15 hạt Cải vàng
 - [x] Vào Thị trấn Pelican chào dân làng, ghé xem cửa hàng Pierre (9:00–17:00, nghỉ Thứ Tư) — chưa cần mua gì
-- [x] Lượm đồ mùa Xuân dọc đường (Hành mùa Xuân, Củ cải ngựa dại, Bồ công anh, Tỏi tây, Thủy tiên)
+- [x] Lượm đồ mùa Xuân dọc đường (Hành lá, Cải ngựa dại, Bồ công anh, Tỏi tây, Thủy tiên)
 
 **Lưu ý:**
-- Củ cải vàng chín sau 4 ngày → thu hoạch Ngày 5.
+- Cải vàng chín sau 4 ngày → thu hoạch Ngày 5.
 - Giữ lại Gỗ/Đá, đừng bán — sau này xây/nâng cấp tốn nhiều.
 - ⚠️ Cắt cỏ ngày 1 KHÔNG ra cỏ khô — chưa có Silo (Kho chứa Cỏ) thì cắt cỏ = mất trắng.
 - ⚠️ Chưa xuống mỏ được (đá lở chặn tới Ngày 5), chưa câu cá được (chưa có cần).
@@ -69,7 +69,7 @@ Mưa cả ngày (Năm 1 luôn mưa hôm nay) → khỏi tưới ruộng. **Pierr
 |---|---|---|---|---|
 | **Cá trê** (đắt nhất, ưu tiên số 1) | Sông (Thị trấn/Rừng) | 06:00–24:00 | ~200g | Cá Sông |
 | Cá trích dày mình | Sông | 09:00–02:00 | ~60g | Cá Sông |
-| Lươn (giữ vài con nấu Súp Lươn Cay) | Biển | **từ 16:00** | ~85g | Câu Đêm |
+| Lươn (giữ vài con nấu Lươn cay) | Biển | **từ 16:00** | ~85g | Câu Đêm |
 
 **Lộ trình:** sáng ở sông bắt Cá trê + Cá trích dày mình → từ 16:00 chuyển ra biển bắt Lươn (trước giờ đó ra biển sẽ không có).
 
@@ -85,7 +85,7 @@ Mưa cả ngày (Năm 1 luôn mưa hôm nay) → khỏi tưới ruộng. **Pierr
 Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng mở — dùng để gom nguyên liệu.
 
 **Việc cần làm:**
-- [x] Tưới Củ cải vàng lần cuối (mai hái)
+- [x] Tưới Cải vàng lần cuối (mai hái)
 - [x] Gom Gỗ, Đá, **Đất sét** (ra khi cuốc đất thường/điểm giun đất) cho: Rương (50 Gỗ) · Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) · Kho chứa Cỏ (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g)
 - [x] Chuẩn bị đồ ăn hồi máu + chừa ô túi trống cho chuyến mỏ ngày mai
 
@@ -109,7 +109,7 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 
 **Việc cần làm:**
 - [x] Ra khỏi nhà gặp Marnie, nhận thú cưng, đặt tên
-- [x] Thu hoạch 15 Củ cải vàng (~35g/củ) — **giữ lại 1 củ** cho gói Cộng đồng
+- [x] Thu hoạch 15 Cải vàng (~35g/củ) — **giữ lại 1 củ** cho gói Cộng đồng
 - [x] Đi Thị trấn đúng đường (lối phía đông farm → Bến xe buýt → rẽ đông), xong **trước 13:00** → Lewis mở Trung tâm Cộng đồng
 - [x] ⭐ **Vào hẳn bên trong** Trung tâm Cộng đồng (bảng gói còn là chữ Junimo, chưa đọc được — không sao, nhưng bước chân vào trong mới kích hoạt thư Pháp sư sáng mai; đứng ngoài xem cutscene rồi bỏ đi là kẹt cả dây chuyền)
 - [x] Mua hạt ở Pierre bằng tiền vừa bán — chừa vốn cho Ngày 13
@@ -144,7 +144,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 **Việc cần làm:**
 - [x] Đặt Lò nung (nếu có thư Clint), nấu Thỏi Đồng — 5 Quặng Đồng + 1 Than → 1 Thỏi, ~30 phút/mẻ, mỗi mẻ ăn 1 Than. Đồng nấu ra ưu tiên dùng nâng cấp Cuốc/Rìu trước, dư ra mới dành cho Kho chứa Cỏ (5 Thỏi)
 - [x] 🧙 Lên Tháp Pháp sư (Rừng Cindersap, tây hồ) **trước khi vào CC** — lấy khả năng đọc chữ Junimo (bắt buộc, chưa làm là chưa nộp gói được dù CC đã mở)
-- [x] Vào CC đọc bảng gói — 4 nhóm gói làm được trong Xuân: **Lượm Xuân** (4 món nhặt dọc đường, dễ nhất) · **Cây Xuân** (Củ cải vàng/Đậu xanh/Súp lơ/Khoai tây, phải trồng đủ) · **Xây dựng** (99 Gỗ, 99 Gỗ, 99 Đá, 10 Gỗ Cứng — cần Rìu Đồng) · **Cá** (giữ 1 con mỗi loại)
+- [x] Vào CC đọc bảng gói — 4 nhóm gói làm được trong Xuân: **Lượm Xuân** (4 món nhặt dọc đường, dễ nhất) · **Cây Xuân** (Cải vàng/Đậu xanh/Súp lơ/Khoai tây, phải trồng đủ) · **Xây dựng** (99 Gỗ, 99 Gỗ, 99 Đá, 10 Gỗ Cứng — cần Rìu Đồng) · **Cá** (giữ 1 con mỗi loại)
 - [x] Chế Rương (50 Gỗ) và Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) — từ 16 cây trở lên quạ bắt đầu phá ruộng
 - [ ] *(Không gấp)* Đặt Robin xây Kho chứa Cỏ nếu đã đủ nguyên liệu (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g — Xưởng Mộc mở 09:00–18:00, nghỉ Thứ Ba, xây mất 2 ngày) — chưa đủ thì để dành, xây trễ vài ngày không ảnh hưởng gì vì chưa có gia súc để ăn cỏ khô
 - [x] Ghé Bảng tin nhiệm vụ cạnh Pierre — thường chỉ cần mang 1 món, thưởng tiền + tình cảm gần như miễn phí
@@ -166,7 +166,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 **Việc cần làm:**
 - [x] Bật TV sớm (công thức mới)
 - [x] Tìm Lewis tặng quà sinh nhật — ưu tiên làm sớm, ông đi lung tung cả ngày. Món Yêu thích chưa làm được trong Xuân Năm 1, cứ tặng món **Thích** bất kỳ (vẫn x8 điểm)
-- [x] Xem Xe hàng rong (06:00–20:00): mua **Hạt Giống Hiếm** (~600–1.000g, ra Quả Ngọc Ngọt, chỉ trồng mùa Thu) và **Hạt Cổ Đại** nếu thấy — mua bằng mọi giá, cực hiếm. Xe chỉ bán không mua đồ của bạn, giá thường hét gấp 2–5 lần Pierre
+- [x] Xem Xe hàng rong (06:00–20:00): mua **Hạt giống hiếm** (~600–1.000g, ra Dâu ngọc ngọt ngào, chỉ trồng mùa Thu) và **Hạt giống cổ đại** nếu thấy — mua bằng mọi giá, cực hiếm. Xe chỉ bán không mua đồ của bạn, giá thường hét gấp 2–5 lần Pierre
 - [x] Quyên góp Bảo tàng (Gunther) nếu chưa vào lần nào — mang theo cổ vật/khoáng vật rồi bước vào là gặp ngay, không cần chờ thư
 - [x] Mua nốt hạt Khoai tây/Súp lơ/Đậu xanh ở Pierre cho gói Cây Xuân — càng sớm càng tốt vì Súp lơ mất 12 ngày mới chín
 
@@ -214,7 +214,7 @@ Robin và Marnie cùng nghỉ Thứ Ba → không tiêu tiền được mấy, d
 | **3.000–5.000g** | **30–50 hạt** | ✅ Hợp lý cho tưới tay |
 | 10.000g+ | 100 hạt | Chỉ nên nếu chịu nổi công tưới |
 
-Gieo Ngày 13 → chín Ngày 21 → tái thu hoạch 4 ngày/lứa → 2 lứa trước hết mùa, lời ~2,4 lần. Bón **Speed-Gro** (~100g, bón lúc gieo) rút còn 7 ngày → ăn thêm 1 lứa (3 lứa).
+Gieo Ngày 13 → chín Ngày 21 → tái thu hoạch 4 ngày/lứa → 2 lứa trước hết mùa, lời ~2,4 lần. Bón **Phân bón Thúc (Speed-Gro)** (~100g, bón lúc gieo) rút còn 7 ngày → ăn thêm 1 lứa (3 lứa).
 
 **Việc cần làm:**
 - [x] Quét đồ lượm 1 vòng: Rừng Cindersap → Thị trấn → Bãi biển → Ngọn núi — gom đủ 4 món cho gói **Lượm Xuân** (hết mùa là hết cơ hội tới Xuân sang năm)
@@ -241,7 +241,7 @@ Mốc 1/3 mùa Xuân. Pierre nghỉ, Nữ hoàng Nước sốt chiếu lại (c�
 | 🏗️ Công trình | Lò nung chạy · ≥2 Rương (Kho chứa Cỏ chưa cần, để sau khi có gia súc) |
 | ⛏️ Mỏ | Thang máy tầng 20–30 |
 | 🎣 Câu cá | Cấp 2+ |
-| 🧩 Gói CĐ | Lượm Xuân gần đủ · giữ 1 Củ cải vàng cho Cây Xuân |
+| 🧩 Gói CĐ | Lượm Xuân gần đủ · giữ 1 Cải vàng cho Cây Xuân |
 | 🏛️ Bảo tàng | Đã quyên góp vài món |
 | ❤️ Dân làng | Xong nhiệm vụ Làm quen (thưởng +100 tình cảm với mọi người đã gặp, không có tiền) |
 
@@ -251,7 +251,7 @@ Thiếu mục nào thì 3 ngày tới ưu tiên bù mục đó.
 
 | Cây | Ngày lớn | Gieo muộn nhất | Tái thu hoạch |
 |---|---|---|---|
-| Củ cải vàng | 4 | Xuân 24 | — |
+| Cải vàng | 4 | Xuân 24 | — |
 | Khoai tây / Cải xoăn | 6 | Xuân 22 | — |
 | Dâu tây | 8 | Xuân 20 | 🔁 4 ngày |
 | Đậu xanh | 10 | Xuân 18 | 🔁 3 ngày |
@@ -291,7 +291,7 @@ Ngày trống — dồn sức cho Lễ hội Trứng còn 2 ngày nữa.
 Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm) — cứ **Thứ Sáu & Chủ Nhật** xe mới về, không phải ngày nào cũng có.
 
 **Việc cần làm:**
-- [x] Ghé xe hàng rong: ưu tiên mua **Hạt Giống Hiếm** (~1.000g, chắc chắn có hàng Xuân/Hạ) và **Hạt Cổ Đại** nếu thấy — hàng ngẫu nhiên, hết là hết, giá hét gấp 2–5 lần Pierre nên cân nhắc túi tiền
+- [x] Ghé xe hàng rong: ưu tiên mua **Hạt giống hiếm** (~1.000g, chắc chắn có hàng Xuân/Hạ) và **Hạt giống cổ đại** nếu thấy — hàng ngẫu nhiên, hết là hết, giá hét gấp 2–5 lần Pierre nên cân nhắc túi tiền
 - [x] Chốt lại vốn cho ngày mai — kiểm tra đã đạt 3.000–5.000g chưa
 - [x] Tưới ruộng, thu hoạch nếu có nông sản chín
 
@@ -313,7 +313,7 @@ Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm)
 
 **Lưu ý:**
 - Dâu tây gieo hôm nay → chín **Ngày 21** → tái thu hoạch mỗi 4 ngày → hái thêm lứa 2 khoảng **Ngày 25** trước khi hết mùa.
-- Nếu bón **Speed-Gro** (~100g/gói, bón lúc gieo) thì rút còn 7 ngày chín → kịp ăn 3 lứa thay vì 2.
+- Nếu bón **Phân bón Thúc** (~100g/gói, bón lúc gieo) thì rút còn 7 ngày chín → kịp ăn 3 lứa thay vì 2.
 - Đây cũng là cơ hội cuối gom nốt 4 món cho gói **Lượm Xuân** nếu còn thiếu — nhiều dân làng bán dạo gần lễ hội.
 
 ---
@@ -325,19 +325,19 @@ Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm)
 **Việc cần làm:**
 - [x] Bật TV sớm xem công thức mới
 - [x] Tìm Haley tặng quà sinh nhật — hay lang thang quanh nhà cô (phía bắc Thị trấn) hoặc Bãi biển buổi chiều nắng đẹp; chưa biết món Yêu thích thì tặng món **Thích** bất kỳ (vẫn x8 điểm). Haley đầu game khó tính, đồ trang trí/hoa dễ trúng gu hơn nông sản
-- [x] Ghé xe hàng rong nếu còn Hạt Giống Hiếm/Cổ Đại chưa mua
+- [x] Ghé xe hàng rong nếu còn Hạt giống hiếm/Hạt giống cổ đại chưa mua
 - [x] Tưới ruộng, kiểm tra Dâu tây (còn 7 ngày mới chín)
 
 **Lưu ý:** mỗi người nhận tối đa **2 quà/tuần** (tuần tính từ Chủ Nhật) và **1 quà/ngày** — quá hạn thì họ **từ chối, không nhận** chứ không phải nhận mà không cộng điểm. **Ngoại lệ: đúng ngày sinh nhật thì luôn tặng được**, kể cả đã đủ 2 quà trong tuần (vẫn chỉ 1 quà/ngày) — nên cứ tặng quà thường mấy hôm trước, không cần "để dành lượt" cho sinh nhật.
 
 ---
 
-### ☀️ Ngày 15 (Thứ Hai) — 🍓 Bắt đầu mùa Dâu rừng (Salmonberry)
+### ☀️ Ngày 15 (Thứ Hai) — 🍓 Bắt đầu mùa Mâm xôi cá hồi (Salmonberry)
 
-Dâu rừng (Salmonberry) chỉ mọc trên bụi cây quanh Rừng Cindersap/Thị trấn đúng **4 ngày: 15–18** — qua ngày 19 là hết cả năm.
+Mâm xôi cá hồi (Salmonberry) chỉ mọc trên bụi cây quanh Rừng Cindersap/Thị trấn đúng **4 ngày: 15–18** — qua ngày 19 là hết cả năm.
 
 **Việc cần làm:**
-- [x] Quét bụi Dâu rừng dọc Rừng Cindersap khi có thời gian rảnh — vừa lượm free vừa ra kinh nghiệm Lượm, có thể góp gói Cộng đồng liên quan
+- [x] Quét bụi Mâm xôi cá hồi dọc Rừng Cindersap khi có thời gian rảnh — vừa lượm free vừa ra kinh nghiệm Lượm, có thể góp gói Cộng đồng liên quan
 - [x] Việc thường ngày: tưới ruộng, câu cá/xuống mỏ tùy năng lượng còn lại
 - [x] Kiểm tra lại 2 hạn gieo sắp tới: Đậu xanh (hạn 18, đã trễ nếu chưa gieo) và Khoai tây/Cải xoăn (hạn 22)
 
@@ -348,7 +348,7 @@ Dâu rừng (Salmonberry) chỉ mọc trên bụi cây quanh Rừng Cindersap/Th
 Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đặt xây/mua thú cưng được hôm nay.
 
 **Việc cần làm:**
-- [x] Dồn hẳn qua mỏ/câu cá/lượm Dâu rừng (còn 2 ngày cuối)
+- [x] Dồn hẳn qua mỏ/câu cá/lượm Mâm xôi cá hồi (còn 2 ngày cuối)
 - [x] Nếu chưa nâng cấp công cụ, đây là ngày rảnh hợp lý để mang tới Clint (Thứ Ba anh vẫn mở, 09:00–16:00) — nhớ 2.000g + 5 Thỏi Đồng, khóa công cụ 2 ngày
 - [x] Quyên góp Bảo tàng nốt số đang giữ
 
@@ -361,7 +361,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 **Việc cần làm:**
 - [x] Ghé chân cầu vồng cạnh Nhà hoang, bấm chum vàng lấy mũ + 200g — **chỉ cần đúng ngày Xuân 17, không cần mưa**; chum chỉ có hôm nay, sang Ngày 18 là mất
 - [x] Pierre nghỉ Thứ Tư — đừng định mua hạt hôm nay
-- [x] Lượm Dâu rừng nếu còn thời gian — còn tới hết mai (Ngày 18)
+- [x] Lượm Mâm xôi cá hồi nếu còn thời gian — còn tới hết mai (Ngày 18)
 - [x] Việc thường ngày: tưới ruộng, mỏ/câu cá
 
 **Lưu ý:** không bắt buộc — lỡ thì chờ Xuân 17 năm sau (lặp mỗi năm, năm nào cũng rơi lại mũ). Không ảnh hưởng tiến trình chính.
@@ -372,7 +372,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 
 **Việc cần làm:**
 - [x] Tìm Pam tặng quà sinh nhật — hay ở quán Saloon (12:00–23:00) hoặc trạm xe buýt buổi sáng; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
-- [ ] Lượm nốt Dâu rừng — **ngày cuối cùng trong năm** bụi còn ra quả
+- [ ] Lượm nốt Mâm xôi cá hồi — **ngày cuối cùng trong năm** bụi còn ra quả
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá kiếm vốn nâng cấp túi đồ/công cụ
 - [ ] 📦 **Giao Rong biển cho Emily** — nhiệm vụ còn **2 ngày**; rương đã có 2 Rong biển
 - [ ] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Mẹo#🪱 Điểm giun đất (Artifact Spot)|Mẹo]])
@@ -388,7 +388,7 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 
 **Việc cần làm:**
 - [ ] Giao Rong biển cho Emily nếu hôm qua chưa kịp — **hạn chót**
-- [ ] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt Giống Hiếm/Cổ Đại nếu tuần trước chưa mua đủ
+- [ ] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt giống hiếm/Hạt giống cổ đại nếu tuần trước chưa mua đủ
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [ ] Kiểm tra túi đồ — nếu đầy và dư tiền, cân nhắc nâng 24 ô ở Pierre (2.000g)
 
@@ -408,7 +408,7 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 **Việc cần làm:**
 - [ ] Bật TV xem công thức mới
 - [ ] **Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp
-- [ ] Ghé xe hàng rong nếu còn thiếu Hạt Giống Hiếm
+- [ ] Ghé xe hàng rong nếu còn thiếu Hạt giống hiếm
 - [ ] Đây cũng là **hạn chót gieo Đậu xanh đã qua từ Ngày 18** — nếu lỡ thì bỏ qua, dồn sang Hạ
 
 **Lưu ý:** Dâu tây phẩm cấp cao (vàng/tím) giữ lại vài quả cho gói Cộng đồng/Bảo tàng nếu chưa có, còn lại ship hết.
@@ -460,9 +460,9 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 ### ☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2
 
 **Việc cần làm:**
-- [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Speed-Gro)
+- [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Phân bón Thúc)
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
-- [x] Rà lại gói Cộng đồng **Cây Xuân** — còn thiếu Củ cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Củ cải vàng hết hạn gieo từ hôm qua – Ngày 24) _(save Xuân 18: gói đã xong)_
+- [x] Rà lại gói Cộng đồng **Cây Xuân** — còn thiếu Cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Cải vàng hết hạn gieo từ hôm qua – Ngày 24) _(save Xuân 18: gói đã xong)_
 - [ ] Lấy **Nhựa phong** (Maple Syrup) ở Chén hứng Nhựa cây trên cây phong — save Xuân 18 báo còn khoảng 6 ngày, tức quanh hôm nay → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
 
 ---
@@ -471,7 +471,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **Việc cần làm:**
 - [ ] Tìm Pierre tặng quà sinh nhật — cửa hàng của ông đóng cửa hôm nay (nghỉ sinh nhật), thường thấy ông đi dạo quanh Thị trấn hoặc ở nhà; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
-- [ ] Ghé xe hàng rong lần cuối trong mùa Xuân nếu còn thiếu Hạt Giống Hiếm
+- [ ] Ghé xe hàng rong lần cuối trong mùa Xuân nếu còn thiếu Hạt giống hiếm
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 
 ---
@@ -481,7 +481,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **Việc cần làm:**
 - [ ] Tìm Emily tặng quà — hay ở nhà (chung nhà với Haley, phía bắc Thị trấn) hoặc Saloon tối thứ Bảy; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
 - [ ] Bắt đầu dọn dẹp: thu hoạch/bán nốt nông sản sắp hết mùa, cây trồng ngoài trời sẽ **chết hết khi sang Hạ** (trừ có Nhà kính, chưa mở được trong Xuân Năm 1)
-- [ ] Kiểm tra ví — chuẩn bị ngân sách mua hạt giống Hạ ngày mai (Việt quất, Hoa bia... xem mục Tham khảo theo mùa cuối note)
+- [ ] Kiểm tra ví — chuẩn bị ngân sách mua hạt giống Hạ ngày mai (Hạt việt quất, Hạt hoa bia... xem mục Tham khảo theo mùa cuối note)
 
 ---
 
@@ -490,11 +490,11 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **Việc cần làm:**
 - [ ] Bật TV xem công thức mới lần cuối trong mùa
 - [ ] Thu hoạch/bán **toàn bộ** nông sản còn lại trên ruộng — qua đêm nay mọi cây ngoài trời sẽ chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất, phải trồng lại mùa sau)
-- [ ] Ghé xe hàng rong lần cuối (Rare Seed gần như chắc chắn còn hàng) nếu còn dư tiền
+- [ ] Ghé xe hàng rong lần cuối (Hạt giống hiếm Xuân/Hạ luôn có hàng) nếu còn dư tiền
 - [ ] 🔮 **Đúng 12:00 trưa** (12:00–12:09) ra rung **bụi cây phía trên sân chơi** (góc tây bắc Thị trấn) → **Thú bông Junimo**, chỉ 1 lần/save; lỡ thì chờ ngày 28 mùa sau — xem [[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật — Mọi mùa]]
 - [ ] Không cần dọn đất trước — đất tự "cày lại" khi bước sang mùa mới, cây chết sẽ biến mất
 - [ ] Đối chiếu lại toàn bộ gói Cộng đồng mùa Xuân (**Lượm Xuân, Cây Xuân, Cá, Xây dựng**) — cái nào dở dang thì phải chờ... một số gói không giới hạn theo mùa (Cá/Xây dựng vẫn nộp được quanh năm), riêng **Cây Xuân** lỡ là phải chờ Xuân năm sau
-- [ ] Chuẩn bị hạt giống Hạ cần mua ngay sáng mai ở Pierre: ưu tiên **Việt quất** (lãi cao) và **Hoa bia** (nếu định ủ Bia Nhạt)
+- [ ] Chuẩn bị hạt giống Hạ cần mua ngay sáng mai ở Pierre: ưu tiên **Hạt việt quất** (lãi cao) và **Hạt hoa bia** (nếu định ủ Bia nhẹ)
 
 **Lưu ý:** đêm nay ngủ vẫn tính là "Ngày 28 Xuân" như bình thường — sang ngày mới mới chính thức là Ngày 1 Hạ, không có gì đặc biệt phải làm gấp trước 24:00 ngoài ship nông sản.
 
@@ -528,7 +528,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 | Cây trồng | Giá hạt | Ngày lớn | Giá bán | Tái thu hoạch | Lời/ngày (thô) |
 |---|---|---|---|---|---|
-| Củ cải vàng | 20g | 4 | 35g | — | ~3,8g |
+| Cải vàng | 20g | 4 | 35g | — | ~3,8g |
 | Khoai tây | 50g | 6 | 80g | — | ~5,0g (thêm tỉ lệ ra 2 củ) |
 | Súp lơ | 80g | 12 | 175g | — | ~7,9g — dễ ra "khổng lồ" khi trồng khối 3×3 |
 | Đậu xanh 🔁 | 60g | 10 (rồi 3/lứa) | 40g | 3 ngày | ~13,3g/ngày từ lứa 2 — cần giàn (trellis) |
@@ -548,13 +548,13 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 | Cây trồng | Giá hạt | Ngày lớn | Giá bán | Tái thu hoạch | Lời/ngày (thô) |
 |---|---|---|---|---|---|
-| Củ cải đỏ | 40g | 6 | 90g | — | ~8,3g |
-| **Việt quất** 🔁 | 80g | 13 (rồi 4/lứa, ra 3 quả/lần) | 50g/quả | 4 ngày | ~30g/ngày từ lứa 2 (×3 quả) — lãi cao nhất đầu game |
+| Củ cải | 40g | 6 | 90g | — | ~8,3g |
+| **Trái việt quất** 🔁 | 80g | 13 (rồi 4/lứa, ra 3 quả/lần) | 50g/quả | 4 ngày | ~30g/ngày từ lứa 2 (×3 quả) — lãi cao nhất đầu game |
 | Cà chua 🔁 | 50g | 11 | 60g | 4 ngày | ~15g/ngày từ lứa 2 |
-| Hoa bia 🔁 | 60g | 11 | 25g | 1 ngày | ~25g/ngày — hái mỗi ngày, ủ Bia Nhạt rất lời |
+| Hoa bia 🔁 | 60g | 11 | 25g | 1 ngày | ~25g/ngày — hái mỗi ngày, ủ Bia nhẹ rất lời |
 | Bắp cải đỏ | 100g — **Pierre chỉ bán từ Năm 2** | 9 | 260g | — | ~17,8g |
-| Dưa lưới | 80g | 12 | 250g | — | ~14,2g — dễ ra "khổng lồ" khi trồng khối 3×3 |
-| Quả sao | 400g — mua ở Ốc đảo sa mạc | 13 | 750g | — | ~26,9g — lời nhất Hạ, nhưng cần đi được Sa mạc (thường chưa kịp Năm 1) |
+| Dưa | 80g | 12 | 250g | — | ~14,2g — dễ ra "khổng lồ" khi trồng khối 3×3 |
+| Khế | 400g — mua ở Ốc đảo sa mạc | 13 | 750g | — | ~26,9g — lời nhất Hạ, nhưng cần đi được Sa mạc (thường chưa kịp Năm 1) |
 
 **🎉 Lễ hội:** Lễ hội Luau (11, 09:00–14:00, nộp súp chung) · Giải câu Cá hồi vân (20–21, thi câu ở Rừng Cindersap) · Vũ điệu Sứa Trăng (28, tối, ra bến tàu ngắm sứa).
 
@@ -568,14 +568,14 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 | Cây trồng | Giá hạt | Ngày lớn | Giá bán | Tái thu hoạch | Lời/ngày (thô) |
 |---|---|---|---|---|---|
-| Bok Choy | 50g | 4 | 80g | — | ~7,5g |
+| Cải thìa | 50g | 4 | 80g | — | ~7,5g |
 | A-ti-sô | 30g — **Pierre chỉ bán từ Năm 2** | 8 | 160g | — | ~16,3g |
 | Rau dền (Amaranth) | 70g | 7 | 150g | — | ~11,4g |
 | Cà tím 🔁 | 20g | 5 (rồi 5/lứa) | 60g | 5 ngày | ~12g/ngày từ lứa 2 |
 | Nho 🔁 | 60g | 10 (rồi 3/lứa) | 80g | 3 ngày | ~26,7g/ngày từ lứa 2 — cần giàn |
 | **Nam việt quất** 🔁 | 240g | 7 (rồi 5/lứa) | 75g | 5 ngày | ~15g/ngày từ lứa 2 — cây chủ lực mùa Thu |
 | Bí ngô | 100g | 13 | 320g | — | ~16,9g — dễ ra "khổng lồ", cần cho gói Cây Thu (1 quả) và gói Nông sản chất lượng (5 quả phẩm cấp vàng) |
-| **Quả Ngọc Ngọt** | Hạt Giống Hiếm (~600–1.000g, chỉ mua ở Xe hàng rong) | 24 | 3.000g | — | ~83,3g — lời nhất cả năm, nhưng nguồn hạt cực khan hiếm; nhân giống về sau bằng Máy làm hạt |
+| **Dâu ngọc ngọt ngào** | Hạt giống hiếm (~600–1.000g, chỉ mua ở Xe hàng rong) | 24 | 3.000g | — | ~83,3g — lời nhất cả năm, nhưng nguồn hạt cực khan hiếm; nhân giống về sau bằng Máy làm hạt |
 
 **🎉 Lễ hội:** Hội chợ Thung lũng (16, minigame ăn Vé Sao + thi trưng bày Grange) · Đêm Linh Hồn (27, mê cung — năm lẻ ra Bí ngô vàng, năm chẵn ra Vé Thưởng).
 

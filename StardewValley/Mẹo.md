@@ -26,7 +26,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Nâng cấp công cụ mất 2 ngày** ở Lò rèn Clint — canh thời điểm:
   - Đưa **Bình tưới (Watering Can)** vào **đêm trước ngày mưa** hoặc lúc vừa thu hoạch xong cả ruộng.
   - Đưa **Cuốc/Rìu/Búa** vào ngày không có việc gấp.
-- **Xe hàng rong (Traveling Cart)** — Thứ 6 & CN ở Rừng Cindersap: ghé **mỗi tuần**, đây là chỗ duy nhất mua được hạt trái mùa và đôi khi có **Quả Cổ Đại / Hạt Giống Hiếm**.
+- **Xe hàng rong (Traveling Cart)** — Thứ 6 & CN ở Rừng Cindersap: ghé **mỗi tuần**, đây là chỗ duy nhất mua được hạt trái mùa và đôi khi có **Trái cổ đại / Hạt giống hiếm**.
 - **Trước khi xuống mỏ:** chừa vài ô túi trống, mang đồ ăn hồi máu, và bỏ đồ giá trị vào rương ở nhà.
 - **Thùng vận chuyển:** bỏ đồ vào trước 12h đêm mới được tính tiền hôm đó.
 
@@ -36,8 +36,8 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 - **Vòi tưới cây (Sprinkler) > tưới tay:** Vòi tưới cây xịn / Iridium giải phóng cả buổi sáng. Có Sprinkler sớm ngày nào lãi ngày đó.
 - **Bố trí máy theo cụm** để dùng chung 1 rương (kết hợp Automate — xem [[Mods]]).
-- **Phân bón (Fertilizer):** Đất Giữ Ẩm Cao Cấp (Deluxe Retaining Soil) để khỏi tưới, Phân Chất Lượng (Quality Fertilizer) để tăng phẩm cấp. **Phải bón trước khi cây lớn.**
-- **Vại Bảo quản (Preserves Jar) vs Thùng chứa (Keg):** Vại Bảo quản nhanh hơn cho rau củ; Thùng chứa lời hơn cho hoa quả (làm Rượu vang).
+- **Phân bón (Fertilizer):** Phân bón giữ nước cao cấp (Deluxe Retaining Soil) để khỏi tưới, Phân bón chất lượng (Quality Fertilizer) để tăng phẩm cấp. **Phải bón trước khi cây lớn.**
+- **Vại Bảo quản (Preserves Jar) vs Thùng chứa (Keg):** Vại Bảo quản nhanh hơn cho rau củ; Thùng chứa lời hơn cho hoa quả (làm Rượu).
 
 ### Cơ chế & lộ trình lên cấp (1.6)
 
@@ -89,7 +89,7 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 | 🧱 **Nguyên liệu** | **Đất sét (Clay)** — hay ra nhất · Đá · Than · Quặng | Đất sét là lý do chính phải đào mỗi ngày |
 | 🏺 **Cổ vật (Artifacts)** | Mỗi khu một bảng riêng | Quyên góp **Bảo tàng** cho Gunther |
 | 📖 **Sách Thất Lạc (Lost Book)** | **21 cuốn** cả game | Tự bay vào **Thư viện**, mở kiến thức ẩn |
-| ❄️ **Mùa Đông** | **Củ Mùa Đông (Winter Root)** · **Khoai Tuyết (Snow Yam)** | Chỉ ra khi đào/cuốc đất, không mọc trên mặt đất |
+| ❄️ **Mùa Đông** | **Rễ cây mùa đông (Winter Root)** · **Khoai lang tuyết (Snow Yam)** | Chỉ ra khi đào/cuốc đất, không mọc trên mặt đất |
 
 **Ba luật phải nhớ:**
 
@@ -242,15 +242,15 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 | Giai đoạn | Nguồn thu chính | Ghi chú |
 |-----------|-----------------|---------|
-| **Xuân năm 1** | Củ cải/Cải xoăn trồng vừa sức · nhặt đồ lượm · câu cá | Đừng trồng quá tay; tiền câu cá đầu game rất khá |
-| **Hạ năm 1** | **Việt quất (Blueberry)** trồng dày | Cây tái thu hoạch, lãi cao nhất đầu game |
-| **Thu năm 1** | **Nam việt quất (Cranberry)** · **Hạt Giống Hiếm** | Hạt Giống Hiếm → **Quả Ngọc Ngọt (Sweet Gem Berry)** bán rất cao |
+| **Xuân năm 1** | Cải vàng/Cải xoăn trồng vừa sức · nhặt đồ lượm · câu cá | Đừng trồng quá tay; tiền câu cá đầu game rất khá |
+| **Hạ năm 1** | **Trái việt quất (Blueberry)** trồng dày | Cây tái thu hoạch, lãi cao nhất đầu game |
+| **Thu năm 1** | **Nam việt quất (Cranberry)** · **Hạt giống hiếm** | Hạt giống hiếm → **Dâu ngọc ngọt ngào (Sweet Gem Berry)** bán rất cao |
 | **Đông năm 1** | Đi mỏ, câu cá, kết bạn, xây dựng | Ngoài trời không trồng được (trừ Nhà kính) — dồn sức lên cấp |
-| **Từ năm 2** | **Trái cổ đại (Ancient Fruit)** + dàn **Thùng chứa (Keg) → Rượu vang** | Hướng làm giàu bền vững nhất |
-| **Bất kỳ lúc nào** | **Heo (Pig) → Nấm cục (Truffle) → Dầu nấm cục** | Nuôi Hạ/Thu, dùng Máy ép dầu (Oil Maker) |
+| **Từ năm 2** | **Trái cổ đại (Ancient Fruit)** + dàn **Thùng chứa (Keg) → Rượu** | Hướng làm giàu bền vững nhất |
+| **Bất kỳ lúc nào** | **Heo (Pig) → Nấm cục (Truffle) → Dầu nấm** | Nuôi Hạ/Thu, dùng Máy ép dầu (Oil Maker) |
 
 > [!tien] Nguyên tắc chung — chế biến trước khi bán
-> Rượu vang (Wine) / Mứt (Jelly) / Bia Nhạt (Pale Ale) lời hơn bán thô rất nhiều — kết hợp nghề **Nghệ nhân (Artisan +40%)**. Dùng **Máy tạo Hạt giống (Seed Maker)** để nhân giống cây đắt thay vì mua hạt.
+> Rượu (Wine) / Thạch (Jelly) / Bia nhẹ (Pale Ale) lời hơn bán thô rất nhiều — kết hợp nghề **Nghệ nhân (Artisan +40%)**. Dùng **Máy tạo Hạt giống (Seed Maker)** để nhân giống cây đắt thay vì mua hạt.
 
 ## ❤️ Kết bạn & hẹn hò
 
@@ -344,7 +344,7 @@ Series **"Hiểu tất cả về nghề … Stardew Valley 1.6"** của **Duy Ha
 | 0:38 – 2:37 | Cơ chế cơ bản: mùa vụ 28 ngày, quy trình trồng, chọn cây phù hợp |
 | 2:38 – 4:33 | Chất lượng nông sản (Bạc/Vàng/Iridium) & 3 loại phân bón |
 | 4:34 – 7:26 | Cấp độ Trồng trọt: mở Vòi tưới cây, Thùng chứa (Keg), chọn nhánh nghề |
-| 7:27 – 8:33 | Chiến lược cây trồng: Cải xoăn → Khế, Quả Cổ Đại |
+| 7:27 – 8:33 | Chiến lược cây trồng: Cải xoăn → Khế, Trái cổ đại |
 | 8:34 – 10:39 | Chăn nuôi, hàng thủ công & Bậc thầy Trồng trọt |
 | 10:40 – 11:14 | Sai lầm phổ biến của người mới |
 
