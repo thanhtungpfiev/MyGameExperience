@@ -79,7 +79,7 @@
 
 ## ⚡ Titan's Thunder — thêm một phép 600 sát thương vào sách
 
-- Cộng kiếm giáp **thấp nhất trong nhóm bốn bộ lớn**.
+- Cộng kiếm giáp **thấp hơn Angelic Alliance và Power of the Dragon Father** — chỉ hơn [[#💀 Armor of the Damned — cộng kiếm giáp yếu nhất mà nguy hiểm nhất|Armor of the Damned]], đúng thứ tự ở [[#📊 Hai bảng xếp hạng ngược nhau|bảng xếp hạng cuối video]]. Wiki: Titan's Thunder **+9 công / +9 thủ / +8 / +8**, Armor of the Damned chỉ **+3 / +3 / +2 / +2**.
 - Hiệu ứng duy nhất: **thêm một phép vào sách phép** — phép sét, sát thương **600**. Đây là một trong số ít con số phụ đề đọc ra được nguyên vẹn, và **khớp đúng wiki** (Titan's Lightning Bolt, sát thương cố định 600).
 - Bù lại, bộ này chỉ cần **4 món**, nên **dễ ghép hơn hẳn** ba bộ kia.
 
