@@ -390,7 +390,7 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 **Việc cần làm:**
 - [ ] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt giống hiếm/Hạt giống cổ đại nếu tuần trước chưa mua đủ
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
-- [ ] Kiểm tra túi đồ — nếu đầy và dư tiền, cân nhắc nâng 24 ô ở Pierre (2.000g)
+- [ ] Túi đồ đã **24 ô** (save Xuân 18) — nấc tiếp theo là 36 ô ở Pierre giá **10.000g**; đang có 5.091g nên chưa với tới, túi đầy thì dồn đồ vào rương thay vì nâng
 
 ---
 
