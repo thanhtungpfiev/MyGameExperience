@@ -1136,7 +1136,7 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 
 ## 8) Hình ảnh / nhân vật
 
-### Seasonal Cute Characters 6.1.2
+### Seasonal Cute Characters 6.1.3
 
 Tên trên Nexus là **Seasonal Outfits - Slightly Cuter Aesthetic**. Vẽ lại **toàn bộ sprite lẫn chân dung** của dân làng theo phong cách dễ thương hơn, và cho **mỗi người một bộ đồ riêng theo từng mùa** — cộng thêm đồ **ấm khi ra ngoài trời mùa đông**, đồ **Vũ hội Hoa** và đồ **Đêm Linh Hồn**. Vợ/chồng còn có đồ riêng cho mọi lễ hội khác. Tác giả **Poltergeister**.
 
