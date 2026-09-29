@@ -143,7 +143,7 @@ Không phải cá — quăng cần ở **đúng chỗ này** sẽ có tỉ lệ 
 ## ⚔️ 7. Vũ khí ẩn
 
 - [ ] **Kiếm Thiên hà (Galaxy Sword)**
-  - **Cần:** đã quyên góp đủ **4 Cuộn giấy Người lùn (Dwarf Scroll)** + cầm **1 Mảnh Lăng kính (Prismatic Shard)**.
+  - **Cần:** chỉ **1 Mảnh Lăng kính (Prismatic Shard)** trên tay — không cần điều kiện gì khác. Mảnh bị tiêu khi nhận kiếm; lỡ bán/mất kiếm thì Marlon bán lại 50.000g.
   - **Làm:** đứng giữa **3 cột đá ở Sa mạc Calico**, cầm Mảnh Lăng kính trên tay.
 - [ ] **Meowmere** _(cuối game)_
   - Ném **Búp bê cổ (Ancient Doll)** vào dung nham (tầng 100 Hầm mỏ hoặc Lò rèn trên Đảo Ginger) → nhận **Far Away Stone** → đặt lên bệ cây ở tầng hầm Tháp Phù thủy → bước vào cổng.
