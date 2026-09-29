@@ -14,7 +14,7 @@
 - **Cuối ngày:** bỏ nông sản/cá/đồ lượm vào thùng vận chuyển trước nửa đêm, về ngủ **trước 24:00**. Quá **02:00** là ngất — mất tiền, có thể mất đồ.
 - **Trước mỗi chuyến xuống mỏ:** bấm `F5` lưu nhanh ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_|QuickSave]]), lỡ chết/mất đồ thì `F7` làm lại.
 - **Năng lượng & máu đang vô hạn** — [[Mods#CJB Cheats Menu 1.42.0|CJB Cheats]] bật `InfiniteStamina` + `InfiniteHealth`, nên mấy lời dặn "mang đồ ăn hồi năng lượng/máu" bên dưới chỉ cần khi tắt hai cheat này.
-- **Chào dân làng** mỗi lần gặp đều +tình cảm (tối đa hiệu quả 2 lần/ngày/người), không tốn gì — tranh thủ khi đi ngang qua.
+- **Chào dân làng** mỗi người một lần mỗi ngày: lần nói chuyện đầu tiên được +20 tình cảm, nói thêm trong ngày không cộng gì (xem [[Mẹo#❤️ Kết bạn & hẹn hò|Mẹo — Kết bạn]]).
 
 ---
 
