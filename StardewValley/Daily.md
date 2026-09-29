@@ -595,6 +595,6 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - **🧩 Gói Cộng đồng theo mùa:** chỉ có Lượm Đông (phòng Thủ công) — Đông **không có** gói Cây trồng riêng.
 - **🔮 Bí mật:** ⭐ 06:00–16:00 đi từ Farm sang Bến xe buýt gặp bóng đen → **Kính lúp** (mở Ghi chú bí mật) · đêm 24 đặt Sữa/Bánh quy lên bàn → Hộp bí ẩn · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#❄️ Đông|Bí mật — Đông]].
 
-**🎉 Lễ hội:** Lễ hội Băng (8, câu cá dưới băng lấy vé) · Đại tiệc Sao Đông (25, tặng quà bí mật + đấu giá đêm khuya).
+**🎉 Lễ hội:** Lễ hội Băng (8, câu cá dưới băng lấy vé) · Đại tiệc Sao Đông (25, tặng quà bí mật — người nhận báo trước qua thư Lewis ngày 18; quà được x5 điểm tình cảm).
 
 **🎂 Sinh nhật:** 1 Krobus (⚠️ sống dưới Cống, cần Chìa khóa Gỉ từ Gunther — quyên góp đủ 60 món Bảo tàng mới mở) · 3 Linus · 7 Caroline · 10 Sebastian · 14 Harvey · 17 Pháp sư (⚠️ cần làm xong nhiệm vụ mở khóa Tháp mới tặng quà được) · 20 Evelyn · 23 Leah · 26 Clint.
