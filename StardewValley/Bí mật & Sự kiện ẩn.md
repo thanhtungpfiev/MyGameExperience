@@ -43,7 +43,7 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Daily]] thì có link 
 
 - [ ] **Mùa Đông, 6:00–16:00 — Đi từ Nông trại sang Bến xe buýt** ⭐ _quan trọng_
   - Gặp **bóng đen (Shadow Guy)** chạy trốn → mở nhiệm vụ **"A Winter Mystery"** → nhận **Kính lúp (Magnifying Glass)**.
-  - Có Kính lúp mới bắt đầu nhặt được **Ghi chú bí mật (Secret Notes)** — xem mục 4.
+  - Có Kính lúp mới bắt đầu nhặt được **Ghi chú bí mật (Secret Notes)** — xem mục 5.
 - [ ] **Đêm Đông 24 (trước Đại tiệc Sao Đông) — Đặt Sữa và/hoặc Bánh quy lên bàn trong nhà** · ✔️ code
   - **Thưởng:** sáng Đông 25 món đó biến thành **Hộp bí ẩn (Mystery Box)**. **Bánh quy và Sữa tính riêng** — đặt cả hai (2 bàn) là được 2 hộp; mỗi thứ 1 lần/năm.
 
