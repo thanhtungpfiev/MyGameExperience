@@ -590,7 +590,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 ### ❄️ Đông
 
 - Không trồng ngoài trời (chỉ Nhà kính, cần hoàn thành hết gói Cộng đồng hoặc mua qua Joja mới có) → dồn thời gian cho: mỏ, câu cá, kết bạn, xây/nâng cấp, quyên góp Bảo tàng.
-- Vẫn lượm được — đào điểm giun đất, xem [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
+- Vẫn lượm được — Quả pha lê, Nghệ tây, Nhựa ruồi mọc trên mặt đất; Rễ cây mùa đông, Khoai lang tuyết phải đào điểm giun đất — xem [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
 - Mùa tốt nhất để nâng cấp công cụ (không mất buổi tưới ruộng nào).
 - **🧩 Gói Cộng đồng theo mùa:** chỉ có Lượm Đông (phòng Thủ công) — Đông **không có** gói Cây trồng riêng.
 - **🔮 Bí mật:** ⭐ 06:00–16:00 đi từ Farm sang Bến xe buýt gặp bóng đen → **Kính lúp** (mở Ghi chú bí mật) · đêm 24 đặt Sữa/Bánh quy lên bàn → Hộp bí ẩn · 28 lúc 12:00 Thú bông Junimo (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#❄️ Đông|Bí mật — Đông]].

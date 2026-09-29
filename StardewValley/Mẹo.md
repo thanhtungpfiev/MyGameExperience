@@ -71,7 +71,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 - **Quét đồ lượm mỗi ngày** ở Rừng Cindersap → Bãi biển → Núi (xem [[Bản đồ khu vực]], mấy bản đồ có ô màu chính là **điểm mọc đồ lượm**).
 - **Rừng Bí Mật:** 6 gốc cây cứng hồi lại **mỗi ngày** → nguồn **Gỗ Cứng (Hardwood)** ổn định nhất, cần rìu Thép trở lên.
-- **Mùa Đông** vẫn lượm được — nguồn duy nhất là **điểm giun đất**, xem mục dưới.
+- **Mùa Đông** vẫn lượm được: trên mặt đất mọc **Quả pha lê (Crystal Fruit)**, **Nghệ tây (Crocus)**, **Nhựa ruồi (Holly)**; còn **Rễ cây mùa đông** và **Khoai lang tuyết** thì không mọc trên mặt đất, chỉ ra khi đào điểm giun đất hoặc cuốc đất — xem mục dưới.
 - **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên (có cả Tinh Thể Lăng Trụ).
 - Giữ lại **Nhựa cây (Sap)** để làm phân bón, đừng bán.
 
@@ -89,7 +89,7 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 | 🧱 **Nguyên liệu** | **Đất sét (Clay)** — hay ra nhất · Đá · Than · Quặng | Đất sét là lý do chính phải đào mỗi ngày |
 | 🏺 **Cổ vật (Artifacts)** | Mỗi khu một bảng riêng | Quyên góp **Bảo tàng** cho Gunther |
 | 📖 **Sách Thất Lạc (Lost Book)** | **21 cuốn** cả game | Tự bay vào **Thư viện**, mở kiến thức ẩn |
-| ❄️ **Mùa Đông** | **Củ Mùa Đông (Winter Root)** · **Khoai Tuyết (Snow Yam)** | Nguồn lượm chính của mùa Đông |
+| ❄️ **Mùa Đông** | **Củ Mùa Đông (Winter Root)** · **Khoai Tuyết (Snow Yam)** | Chỉ ra khi đào/cuốc đất, không mọc trên mặt đất |
 
 **Ba luật phải nhớ:**
 
