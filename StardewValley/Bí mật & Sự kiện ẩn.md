@@ -9,7 +9,7 @@
 > _Độ tin: mục có nhãn **✔️ code** đã soi thẳng code game 1.6.15 (dịch ngược `Stardew Valley.dll`); còn lại lấy theo wiki (xem Nguồn cuối note)._
 
 > [!tip] Đa số sự kiện theo ngày **lặp lại mỗi năm**
-> Lỡ ở Năm 1 thì cứ chờ năm sau, không mất hẳn. Chỉ có vài thứ **làm được đúng 1 lần** (Sao sa, Thú bông Junimo, tượng trong hộp bí ẩn…) — đã ghi rõ ở từng mục.
+> Lỡ ở Năm 1 thì cứ chờ năm sau, không mất hẳn. Chỉ có vài thứ **làm được đúng 1 lần** (Sao sa, Junimo Nhồi bông, tượng trong hộp bí ẩn…) — đã ghi rõ ở từng mục.
 
 ---
 
@@ -22,7 +22,7 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Daily]] thì có link 
 - [x] **Xuân 17 — Chum vàng cuối cầu vồng** (từ bản 1.6) · ✔️ code · Daily [[Daily#☀️ Ngày 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)|Ngày 17]]
   - **Ở đâu:** phía nam **Rừng Cindersap**, gần thác nước cạnh **Nhà hoang (Abandoned House** — nhà Chuột bán mũ); chum nằm ở ô **(52, 98)**, cầu vồng vẽ ngay phía trên.
   - **Điều kiện:** chỉ cần **đúng ngày Xuân 17** — **không phụ thuộc thời tiết, không cần mưa hôm trước**. Chum chỉ có đúng 1 ngày: sang Xuân 18 game tự dọn nếu chưa ai bấm.
-  - **Thưởng:** **Mũ Leprechaun (Leprechaun Hat)** + **(7 + số năm) đồng xu vàng, mỗi đồng 25g** → Năm 1 = 8 × 25 = **200g**, mỗi năm sau thêm 1 đồng. Lặp mỗi năm (mũ cũng rơi lại mỗi năm).
+  - **Thưởng:** **Mũ yêu tinh (Leprechaun Hat)** + **(7 + số năm) đồng xu vàng, mỗi đồng 25g** → Năm 1 = 8 × 25 = **200g**, mỗi năm sau thêm 1 đồng. Lặp mỗi năm (mũ cũng rơi lại mỗi năm).
   - _Lấy cảm hứng ngày Thánh Patrick (17/3 ngoài đời)._
 
 ### ☀️ Hạ
@@ -50,7 +50,7 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Daily]] thì có link 
 ### 🔁 Mọi mùa
 
 - [ ] **Ngày 28 của mùa bất kỳ, 12:00–12:09 trưa — Rung bụi cây phía trên sân chơi** (góc tây bắc Thị trấn Pelican, ô 20, 8) · ✔️ code · Daily [[Daily#🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong|Xuân 28]]
-  - **Thưởng:** **Thú bông Junimo (Junimo Plush)** — đồ trang trí, cất rương `14 Trang trí` ([[Quy hoạch nông trại]]). **Chỉ nhận 1 lần mỗi save** — lỡ 12:00 thì chờ ngày 28 mùa sau.
+  - **Thưởng:** **Junimo Nhồi bông (Junimo Plush)** — đồ trang trí, cất rương `14 Trang trí` ([[Quy hoạch nông trại]]). **Chỉ nhận 1 lần mỗi save** — lỡ 12:00 thì chờ ngày 28 mùa sau.
   - _Ghi chú bí mật #13 là gợi ý cho bí mật này._
 
 ---
@@ -105,12 +105,12 @@ Ba cái hộp nằm sẵn trong thị trấn, trông như đồ trang trí nhưn
 | Ghi chú | Làm gì | Ở đâu | Thưởng | ✅ |
 |---|---|---|---|---|
 | **#10** | Xuống tới tầng 100 | Hang Đầu lâu (Skull Cavern) | Sữa rắn Iridium (+25 máu tối đa) | ☐ |
-| **#13** | Rung bụi cây lúc **12:00** ngày 28 | Phía trên sân chơi | Thú bông Junimo | ☐ |
-| **#14** | Đập/cuốc ô đằng sau | Sau Trung tâm Cộng đồng | Tượng Junimo bằng đá | ☐ |
+| **#13** | Rung bụi cây lúc **12:00** ngày 28 | Phía trên sân chơi | Junimo Nhồi bông | ☐ |
+| **#14** | Đập/cuốc ô đằng sau | Sau Trung tâm Cộng đồng | Junimo Đá (Stone Junimo) | ☐ |
 | **#15** | Bấm các vỏ sò theo thứ tự **1-5-4-2-3** | Thuyền nàng tiên cá — Chợ đêm (Đông 15–17) | Ngọc trai (Pearl) | ☐ |
 | **#16** | Đào ngay bên phải tảng đá | Phía bắc Đường ray (Railroad) | Rương kho báu | ☐ |
-| **#17** | Đào ở khu phía bắc | Gần JojaMart / sông | Búp bê lạ (xanh lá) | ☐ |
-| **#18** | Cuốc ô góc tây nam khu đông nam | Sa mạc Calico | Búp bê lạ (vàng) | ☐ |
+| **#17** | Đào ở khu phía bắc | Gần JojaMart / sông | Búp bê kỳ lạ (xanh lá) | ☐ |
+| **#18** | Cuốc ô góc tây nam khu đông nam | Sa mạc Calico | Búp bê kỳ lạ (vàng) | ☐ |
 | **#19** | Đi theo mũi tên | Bắt đầu từ 1 Willow Lane | Tượng Lewis bằng vàng | ☐ |
 | **#20** | Nói chuyện với tài xế xe tải | Xe tải JojaMart | **Bùa đặc biệt (Special Charm, +may mắn vĩnh viễn)** | ☐ |
 | **#21** | Tương tác bụi cây lúc **0:40 sáng** | Cầu xuống Bãi biển | Cảnh Marnie & Lewis hẹn hò lén | ☐ |
@@ -128,15 +128,15 @@ Không phải cá — quăng cần ở **đúng chỗ này** sẽ có tỉ lệ 
 
 - [ ] **Đài phun nước trước Trung tâm Cộng đồng** → **Thùng rác trang trí (Decorative Trash Can)**
 - [ ] **Phòng sau tiệm Willy** → **Phao cứu sinh (Lifesaver)**
-- [ ] **Ao ngoài Spa** (mọi mùa trừ Đông) → **Tranh 'Vista'**
-- [ ] **Ao Rừng Bí mật** → **Giỏ treo tường (Wall Basket)**
+- [ ] **Ao ngoài Spa** (mọi mùa trừ Đông) → **'Phong cảnh' ('Vista')**
+- [ ] **Ao Rừng Bí mật** → **Giỏ cây treo tường (Wall Basket)**
 
 **Muộn hơn:**
 
-- [ ] **Ao phía nam Sa mạc Calico** → **Decal Kim tự tháp (Pyramid Decal)**
-- [ ] **Nông trại Bãi biển, góc tây nam** → **'Boat'** _(chỉ có nếu chọn bản đồ Beach Farm)_
-- [ ] **Đảo Ginger** — **Foliage Print** (sông phía bắc, bờ tây) · **Squirrel Figurine** (sông phía tây) · **Frog Hat** (hang ếch Gourmand) · **Gourmand Statue** (Hang Cướp biển) · **'Physics 101'** (miệng núi lửa)
-- [ ] **Rừng Cindersap, mũi cực nam gần Cống ngầm** — **Iridium Krobus** _(cần kỹ năng Câu cá cấp 15 trở lên, tức có buff)_
+- [ ] **Ao phía nam Sa mạc Calico** → **Đề-can Kim tự tháp (Pyramid Decal)**
+- [ ] **Nông trại Bãi biển, góc tây nam** → **'Con Thuyền' ('Boat')** _(chỉ có nếu chọn bản đồ Beach Farm)_
+- [ ] **Đảo Ginger** — **Biểu đồ thảm thực vật (Foliage Print)** (sông phía bắc, bờ tây) · **Tượng Sóc (Squirrel Figurine)** (sông phía tây) · **Mũ Ếch (Frog Hat)** (hang ếch Gourmand) · **Tượng Ếch Sành ăn (Gourmand Statue)** (Hang Cướp biển) · **'Vật lý 101' ('Physics 101')** (miệng núi lửa)
+- [ ] **Rừng Cindersap, mũi cực nam gần Cống ngầm** — **Tượng Krobus Iridium (Iridium Krobus)** _(cần kỹ năng Câu cá cấp 15 trở lên, tức có buff)_
 
 ---
 
@@ -146,7 +146,7 @@ Không phải cá — quăng cần ở **đúng chỗ này** sẽ có tỉ lệ 
   - **Cần:** chỉ **1 Mảnh tán sắc (Prismatic Shard)** trên tay — không cần điều kiện gì khác. Mảnh bị tiêu khi nhận kiếm; lỡ bán/mất kiếm thì Marlon bán lại 50.000g.
   - **Làm:** đứng giữa **3 cột đá ở Sa mạc Calico**, cầm Mảnh tán sắc trên tay.
 - [ ] **Meowmere** _(cuối game)_
-  - Ném **Búp bê cổ đại (Ancient Doll)** vào dung nham (tầng 100 Hầm mỏ hoặc Lò rèn trên Đảo Ginger) → nhận **Far Away Stone** → đặt lên bệ cây ở tầng hầm Tháp Phù thủy → bước vào cổng.
+  - Ném **Búp bê cổ đại (Ancient Doll)** vào dung nham (tầng 100 Hầm mỏ hoặc Lò rèn trên Đảo Ginger) → nhận **Đá xưa (Far Away Stone)** → đặt lên bệ cây ở tầng hầm Tháp Phù thủy → bước vào cổng.
 
 ---
 

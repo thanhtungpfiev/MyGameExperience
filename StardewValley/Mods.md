@@ -453,8 +453,8 @@ Vẽ **đúng những con đang câu được ngay lúc này** bơi lượn dư�
 > | Núi | **Legend** (+ Legend II) |
 > | Rừng (Forest) | **Glacierfish** (+ Glacierfish Jr) · tượng **Krobus Iridium** |
 > | Cống ngầm | **Mutant Carp** |
-> | Rừng bí mật | **Giỏ treo tường** (Wall Basket) |
-> | Đảo Ginger | Bắc: Fossilized Spine, Foliage Print, Squirrel Figurine · Tây: Snake Skull · hang Đông Nam: tượng **Gourmand** |
+> | Rừng bí mật | **Giỏ cây treo tường** (Wall Basket) |
+> | Đảo Ginger | Bắc: Cột sống hóa thạch (Fossilized Spine), Biểu đồ thảm thực vật (Foliage Print), Tượng Sóc (Squirrel Figurine) · Tây: Sọ rắn (Snake Skull) · hang Đông Nam: **Tượng Ếch Sành ăn** (Gourmand Statue) |
 >
 > Rất hợp để đối chiếu với [[#Show Missing Collection Entries 0.2.0|Show Missing Collection Entries]]: mod kia bảo còn thiếu con gì, mod này chỉ luôn nó nằm ở ô nào.
 

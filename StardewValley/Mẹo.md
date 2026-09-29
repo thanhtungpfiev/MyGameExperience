@@ -221,15 +221,15 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 - **Giày (Boots):** tăng **phòng thủ** và **miễn dịch (immunity)** — đừng bán giày tốt.
 - **Nhẫn (Rings):** hiệu ứng thụ động mạnh; từ 1.6 có thể **hợp nhất 2 nhẫn** (ở Lò rèn Đảo Gừng) thành 1 nhẫn gộp hiệu ứng.
-- Nhẫn nên có: **Nhẫn đạo tặc (Burglar's Ring)** (quái rơi đồ x2) · **Nhẫn hoang dã (Savage Ring)** (hạ quái xong được +2 tốc độ trong 3 giây) · **Nhẫn Java nóng bỏng (Hot Java Ring)** (quái hay rơi Cà phê — uống vào tăng tốc) · **Nhẫn Yoba** (khiên đỡ sát thương).
+- Nhẫn nên có: **Nhẫn đạo tặc (Burglar's Ring)** (quái rơi đồ x2) · **Nhẫn hoang dã (Savage Ring)** (hạ quái xong được +2 tốc độ trong 3 giây) · **Nhẫn Java nóng bỏng (Hot Java Ring)** (quái hay rơi Cà phê — uống vào tăng tốc) · **Nhẫn của Yoba (Ring of Yoba)** (khiên đỡ sát thương).
 
 ### Chỉ số, cấp độ & nâng cấp
 
 - Chỉ số chính: **tấn công · phòng thủ · tốc độ · chí mạng**.
-- Mỗi cấp Chiến đấu tăng **máu tối đa** và mở công thức hữu ích (**Dầu tỏi / Oil of Garlic** — quái không tự sinh quanh bạn; **Nhẫn Yoba**…).
+- Mỗi cấp Chiến đấu tăng **máu tối đa** và mở công thức hữu ích (**Dầu tỏi / Oil of Garlic** — quái không tự sinh quanh bạn; **Nhẫn của Yoba**…).
 - Chọn nghề ở **cấp 5** và **cấp 10** theo lối chơi (thiên sát thương hay thiên máu/phòng thủ).
 - **Lò rèn ở Đảo Gừng (Forge):** khảm ngọc tăng chỉ số · **phù phép (enchantment)** cơ bản/cao cấp · nâng lên **vũ khí Vô Cực (Infinity)**.
-- **Bậc thầy Chiến đấu (Mastery, 1.6):** mở **Đe (Anvil)** — roll lại chỉ số **Bùa hộ mệnh (Trinket)** — và **Lò rèn mini (Mini-Forge)**. Trinket đáng chú ý: **Hộp Tiên (Fairy Box)** gọi tiên hồi máu · **Trứng Vẹt (Parrot Egg)** cho vẹt nhặt vàng từ quái bị hạ.
+- **Bậc thầy Chiến đấu (Mastery, 1.6):** mở **Đe (Anvil)** — roll lại chỉ số **Đồ trang sức (Trinket)** — và **Lò rèn mini (Mini-Forge)**. Đồ trang sức đáng chú ý: **Hộp Cổ Tích (Fairy Box)** gọi tiên hồi máu · **Trứng Vẹt (Parrot Egg)** cho vẹt nhặt vàng từ quái bị hạ.
 
 ### Mẹo thực chiến
 
