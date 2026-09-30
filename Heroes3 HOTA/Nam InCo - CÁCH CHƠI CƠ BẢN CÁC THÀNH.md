@@ -1,6 +1,6 @@
 # 🏰 Heroes 3 HotA — Cách chơi cơ bản các thành (Nam InCo)
 
-> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **5/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
+> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **6/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
 >
 > _Video nói tiếng Việt nhưng tên thành, tên lính, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
@@ -19,7 +19,7 @@
 | 4 | [Cách tìm và đào GRAIL nhanh chóng!](https://www.youtube.com/watch?v=rHbFAqtj-_g) | 01/02/2022 | ⬜ chưa xem |
 | 5 | [Chia sẻ kinh nghiệm bản thân về cách chơi cơ bản dành cho thành Devil INFERNO.](https://www.youtube.com/watch?v=Hkv7AxOiFKY) | 22/02/2022 | ✅ [[#5️⃣ Inferno (Devil) — quân đông, Magog mở đường, lối chơi đòi sự đa dạng\|đã chắt lọc]] |
 | 6 | [Giới thiệu về SPELLS và cách sử dụng cơ bản !](https://www.youtube.com/watch?v=onhhdAZMYLA) | 27/02/2022 | ✅ [[#6️⃣ Spells (phép) — công thức sát thương, và phép nào thật sự đáng lên\|đã chắt lọc]] |
-| 7 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Xương NECROPOLIS.](https://www.youtube.com/watch?v=vm2PVn17vmA) | 05/03/2022 | ⬜ chưa xem |
+| 7 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Xương NECROPOLIS.](https://www.youtube.com/watch?v=vm2PVn17vmA) | 05/03/2022 | ✅ [[#7️⃣ Necropolis (thành Xương) — Skeleton mới là quân chủ lực, không phải Lich\|đã chắt lọc]] |
 | 8 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Rồng Đen DUNGEON](https://www.youtube.com/watch?v=hXkO43OuJkc) | 12/04/2022 | ⬜ chưa xem |
 | 9 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Gấu STRONGHOLD.](https://www.youtube.com/watch?v=frwS3OhHHxg) | 12/11/2022 | ⬜ chưa xem |
 | 10 | [Cách chỉnh lỗi template 8XM8: Thành không có đường đi - Không tạo được map size G !](https://www.youtube.com/watch?v=A9zkjSXFbs8) | 03/12/2022 | ⬜ chưa xem |
@@ -51,6 +51,8 @@
 **Bên trong video 5** — [[#🌋 Nhược điểm của Inferno — kiếm giáp thấp, Devil khó lên, nhà lính không "một nâng cấp là xong"|Nhược điểm]] · [[#💥 Magog bắn trúng quân nhà — tiếng xấu của Inferno mà HotA đã sửa|Magog và HotA]] · [[#⚡ Quân cấp 7 chỉ để giành lượt đi trước — không phải để gánh trận|Quân cấp 7 để làm gì]] · [[#🐕 Magog + Ammo Cart — bộ đôi mở đường thật sự của Inferno|Mở đường]] · [[#🏰 Castle Gate, Mage Guild 5, và chuyện Inferno không bắt buộc phải lên Devil|Castle Gate, không bắt buộc lên Devil]] · [[#🩸 Đừng tiếc quân — luật mở đường của Inferno|Đừng tiếc quân]] · [[#🎭 Vì sao Inferno đòi người chơi "đa dạng" hơn các thành khác|Vì sao đòi đa dạng]] · [[#⚔️ Vì sao Inferno nên mua thêm tướng phụ đi dò đường|Tướng phụ dò đường]] · [[#🗡️ Tướng chiến Inferno — Rashka và Octavia đứng đầu|Tướng chiến]] · [[#🔮 Tướng phép Inferno — Axsis, Zydar và cái giá của phép sát thương|Tướng phép]] · [[#🏁 Tóm lại cách chơi Inferno|Tóm lại]] · [[#🎥 Mốc thời gian — video 5|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 5 (Inferno)|Bảng giải mã]]
 
 **Bên trong video 6** — [[#🗺️ Phép đi trên bản đồ — và hai phép mà video nói "kể cả không dùng cũng phải lên"|Phép bản đồ]] · [[#👁️ View Air và View Earth — cặp phép mà video coi là lý do để lên Air và Earth|View Air & View Earth]] · [[#⚡ Ba loại "sét" của hệ Air — và vì sao Magic Arrow ăn theo hệ mạnh nhất|Ba loại sét]] · [[#🎯 Disrupting Ray và Precision — hai phép làm cung bắn chết được Dendroid tuần 1|Disrupting Ray & Precision]] · [[#🛡️ Bốn lớp giảm sát thương — và một cái bẫy chỉ có ở bản cũ|Bốn lớp giảm sát thương]] · [[#🦴 Destroy Undead — mẹo tách quân làm sát thương nhân lên bảy lần|Destroy Undead]] · [[#🌀 Hypnotize, Counterstrike, Magic Mirror — và hai phép bị xếp sai hệ|Hypnotize & hai phép sai hệ]] · [[#💧 Bless — phép hệ Water mà Conflux cần hơn mọi thành khác|Bless & Conflux]] · [[#❄️ Ice Bolt và Frost Ring — và cái ô ở giữa không dính sát thương|Frost Ring]] · [[#🧼 Cure và Dispel — và ba thứ không phép nào rửa được|Cure & Dispel]] · [[#🚧 Remove Obstacle, Weakness, Forgetfulness|Weakness & Forgetfulness]] · [[#🌊 Teleport, Clone, Prayer và bốn con thần|Clone & bốn con thần]] · [[#🔥 Fireball, Inferno, Fire Wall — và một sự thật ngược trực giác về diện đánh|Fireball & Inferno]] · [[#☄️ Armageddon — phép mạnh nhất game, và ba thành duy nhất học được nó|Armageddon]] · [[#🩸 Curse và Blind — hai phép Fire cấp thấp mà video coi là đáng nhất|Curse & Blind]] · [[#💣 Misfortune, Berserk, Fire Shield, Frenzy, Slayer, Sacrifice|Berserk, Frenzy, Slayer]] · [[#🪨 Slow — phép hệ Earth mà HotA đã sửa công thức|Slow]] · [[#🕳️ Quicksand — cái bẫy làm Cavalier không bao giờ đánh được quân bạn|Quicksand khoá Cavalier]] · [[#🧱 Death Ripple, Animate Dead, Anti-Magic, Earthquake, Force Field|Anti-Magic & Earthquake]] · [[#🕯️ Meteor Shower, Sorrow, Implosion — và vì sao Implosion là phép đau nhất|Implosion]] · [[#🧭 Tóm lại — phép nào thật sự đáng lên và đáng dùng|Tóm lại]] · [[#❓ Bảng giải mã phụ đề — video 6 (Spells)|Bảng giải mã]]
+
+**Bên trong video 7** — [[#💀 Ba nhược điểm của Necropolis — quân chậm, không quân bắn, và thiệt kép khi thành nằm dưới lòng đất|Ba nhược điểm]] · [[#🧟 Zombie, Black Knight và Bone Dragon — ba chỗ tốn kém và yếu của Necropolis|Zombie & rồng xương]] · [[#🌑 Cover of Darkness — công trình mà video gọi thẳng là phế nhất game|Cover of Darkness]] · [[#🦴 Skeleton Transformer — công trình mạnh nhất, và vì sao chỉ Necropolis không sợ mua tướng thành khác|Skeleton Transformer]] · [[#📉 Necromancy Amplifier — đúng là mạnh, nhưng đừng xây tuần đầu|Đừng xây Amplifier sớm]] · [[#⚔️ Skeleton Warrior — tổng kiếm giáp cao nhất trong các quân cấp 1|Skeleton Warrior]] · [[#🩸 "Necropolis mạnh nhất vì Lich" là hiểu sai — và Cloak of the Undead King không phải đồ riêng của nó|Hiểu sai về Lich]] · [[#👻 Wight — mẹo mang đúng 8–9 con để cày sạch quái lót mà không mất quân|Mẹo 8–9 Wight]] · [[#🧛 Vampire Lord — và vì sao bản chưa nâng cấp thì đừng mang theo|Vampire Lord]] · [[#🐉 Ghost Dragon, Lich và Dread Knight — ba kỹ năng "ăn may" của Necropolis|Aging, phím G, Death Blow]] · [[#🧭 Tóm lại cách chơi Necropolis theo video|Tóm lại]] · [[#👑 Vì sao tướng nào của Necropolis cũng mạnh|Vì sao tướng nào cũng mạnh]] · [[#🗡️ Tướng chiến Necropolis — và phép tính "Galthran phải lên level 100"|Tướng chiến & phép tính level 100]] · [[#🎁 Sự thiên vị của Necropolis — tướng chiến mà vẫn có sách phép|Thiên vị sách phép]] · [[#🔮 Tướng phép Necropolis — Septienna và ba tướng cuối game|Tướng phép]] · [[#🏁 Chốt — Logistics, và vì sao Necropolis vô địch ở map lớn|Chốt]] · [[#🎥 Mốc thời gian — video 7|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 7 (Necropolis)|Bảng giải mã]]
 
 ---
 
@@ -1492,6 +1494,315 @@ Một ý nhỏ nhưng đáng giữ: video nói **các phép thường đi thành
 > **Chỉ mở thêm wiki mới chốt được:** bảng xác suất phép của Mage Guild cho **Bless** (để kiểm chuyện Conflux không học được Bless trong thành) · tên từng **quả cầu tăng 50% sát thương phép** · sát thương dao động của Water Elemental (3–7) và Fire Elemental (4–6) · sát thương Phoenix (30–40) · Behemoth (25–52) · Naga (35) · chuyện **quân undead miễn nhiễm Curse**.
 > **Chưa đối chiếu, video nói sao ghi vậy:** Clone sao chép được cả khả năng hồi sinh của Archangel · tướng phải lên hệ nào mới gọi được thần hệ đó · Cavalier *luôn* vòng ra sau lưng để đánh (chính tác giả nói HotA đã làm AI khác đi) · Water Elemental chắn kín ô để một con lính lẻ thủ thành · vùng hoang mạc và ven nước nhiều đồ hơn đất Stronghold và đất Fortress.
 > **Sáu chỗ đã sửa theo wiki, đừng tin lại theo video:** Haste bậc Advanced là **+5** không phải +4 · Clone nhân bản được quân **cấp 1–5 / 1–6 / 1–7** · Berserk Expert bán kính **3 ô** · Counterstrike chỉ cho **+1/+2 đòn phản**, không phải vô hạn · **Anti-Magic là Earth**, **Fortune là Air** · Conflux **xây được Mage Guild 5**, nó không học được Armageddon vì **xác suất 0%**.
+
+## 7️⃣ Necropolis (thành Xương) — Skeleton mới là quân chủ lực, không phải Lich
+
+> [!video] Nguồn
+> **Nam InCo** — [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Xương NECROPOLIS.](https://www.youtube.com/watch?v=vm2PVn17vmA) · đăng 05/03/2022 · video 7/25 · dài **57:13** (mốc cuối trong bản dán) · chắt lọc 29/09/2026.
+> **Khớp đúng vị trí trong playlist:** bản dán mở đầu bằng "quay trở lại… như lời đã hứa" (video 6 là bài về Spells, không phải về thành) và kết bằng "video tiếp theo chính là **thành rồng đen**" — đúng bằng video 8 trong bảng mục lục. Đây là bằng chứng duy nhất chốt được danh tính video mà không cần mở mạng.
+
+> [!warning] Cả mục này **chưa đối chiếu wiki một dòng nào** — khác hẳn video 1–6
+> Các mục trước đều được kiểm lại trên `heroes.v.thelazy.net`. Phiên chắt lọc video 7 (29/09/2026) **không ra được mạng**: WebFetch và WebSearch đều bị chặn ngay từ đầu, `curl` thì các phiên trước đã biết là không ra. Nên **mọi con số và mọi tên riêng trong mục này đều là phụ đề tự động đọc ra**, không có gì được xác nhận.
+> Phụ đề video này **méo nặng ngang video 6**: không một tên quân, tên tướng, tên công trình nào đọc ra nguyên dạng. Cách chốt danh tính duy nhất dùng được là **khớp vai trò + khớp con số**, ghi hết ở [[#❓ Bảng giải mã phụ đề — video 7 (Necropolis)|bảng giải mã cuối mục]].
+> **Việc cần làm ở phiên có mạng:** dò lại toàn bộ dòng có `❓` trong mục này.
+
+### 💀 Ba nhược điểm của Necropolis — quân chậm, không quân bắn, và thiệt kép khi thành nằm dưới lòng đất
+
+Video mở bằng nhược điểm trước, ưu điểm sau — và mở bằng một nghịch lý: ai cũng nghe nói thành Xương mạnh nhất game, nhưng **với người mới thì nó khó chơi hơn hẳn**. Tác giả nói thẳng là khó hơn Castle, Rampart, Tower, thậm chí **Inferno còn dễ hơn thành Xương một chút**.
+
+- **Không có quân bắn ở cấp thấp.** Ba quân cấp 1–3 đều là quân chạy bộ và đều chậm. Hệ quả trực tiếp: mở đường **mất rất nhiều quân**, vì không có gì bắn đỡ.
+- **Thành Xương nằm được cả trên mặt đất lẫn dưới lòng đất**, giống Dungeon. Đây là chỗ video dành nhiều thời gian nhất trong phần nhược điểm, vì nó đổi hẳn sức mạnh của thành:
+    - **Trên mặt đất** quân được cộng thêm chỉ số của đất nhà ❓ — Skeleton cần **tối thiểu 3 lượt** để băng từ đầu này sang chỗ quân đối phương ở đầu kia sân.
+    - **Dưới lòng đất** không được cộng — cần **ít nhất 4 lượt**.
+    - Gặp quân bắn thì chênh lệch một lượt đó thành chênh lệch số lần ăn đạn: trên mặt đất Skeleton còn kịp chọn ô **ngoài tầm bắn gần**, chỉ chịu ít đòn; dưới lòng đất thì phải **chịu ít nhất 2 lần bắn xa và 2 lần bắn thẳng** ❓.
+    - Tác giả chốt: quân thành Xương ở dưới lòng đất **yếu đi gần gấp đôi** so với ở trên mặt đất.
+
+> [!info]- Ngoài nguồn — **chưa kiểm được**, đây chỉ là cách đọc con số
+> Con số "3 lượt / 4 lượt" chỉ ráp được nếu quân đang nói tới có tốc độ **5 khi ở đất nhà** và **4 khi không** ❓ — sân đánh rộng 15 cột nên 3 × 5 đủ băng sân, còn 4 thì phải 4 lượt. Cách đọc này **chưa đối chiếu với bảng chỉ số nào**; ghi ra đây để phiên sau có cái mà bác bỏ, không phải để tin.
+
+### 🧟 Zombie, Black Knight và Bone Dragon — ba chỗ tốn kém và yếu của Necropolis
+
+- **Zombie là quân tệ nhất thành.** Tác giả gọi thẳng là "rất phế", gần như không ai mang theo. Nó chậm tới mức **kéo cả tướng đi với tốc độ chậm nhất có thể** ❓. Video so sánh với người lùn (Dwarf) của Rampart: người lùn lên mặt đất còn được cộng, Zombie thì không.
+    - Bản nâng cấp có một kỹ năng hay: đánh vào thì đối phương **bị trừ 2 công / 2 thủ** ❓ ("bị -2012 thụ" — nghe ra như vậy).
+- **Xây để có quân chủ lực sớm thì tốn tài nguyên hiếm.** Phương án hay được chọn nhất là lên thẳng Vampire, tốn **10 gỗ 10 đá** ❓; lựa chọn rẻ hơn là lên Lich, chỉ tốn **4** ❓ đơn vị tài nguyên. Cả đoạn này méo rất nặng, giữ lại được đúng ý "có hai đường, một đắt một rẻ".
+- **Black Knight là quân cấp 6 đắt nhất game** ❓ với **6.000 vàng** ❓ cho nhà lính. Video tự chữa lại ngay: tính cả công trình bắt buộc phải xây trước (**gần 3.000 vàng** ❓) thì **con ngựa của Castle vẫn đắt hơn một chút**.
+- **Quân cấp 7 thì ngược lại — không đắt, mà cùi.** Nhà lính cấp 7 chỉ **10.000 vàng + 5 loại tài nguyên hiếm** ❓, rẻ hơn hẳn Castle (**20.000** ❓ cho Angel). Nhưng Bone Dragon là **con cấp 7 cùi nhất game** theo tác giả:
+    - Máu thấp — **nâng cấp lên mới được 200 máu** ❓, chỉ ngang Phoenix.
+    - **Kiếm giáp thuộc hàng bết bát nhất** trong các quân cấp 7.
+    - Số lượng sinh ra cũng ít nhất: Necropolis **2 con** so với **3–4 con** ❓ của mấy thành khác.
+    - Bù lại nó có một kỹ năng rất mạnh — để dành nói ở [[#🐉 Ghost Dragon, Lich và Dread Knight — ba kỹ năng "ăn may" của Necropolis|phần ưu điểm]].
+
+### 🌑 Cover of Darkness — công trình mà video gọi thẳng là phế nhất game
+
+- Tác dụng: dựng một **màn đen bao phủ quanh thành**, đối phương không nhìn được thành ở đâu, cũng không thấy tướng nào đang đứng trong thành.
+- Nhưng tác giả nói nó **tự tố cáo chính nó**: bạn đang đi qua vùng chưa mở, hôm sau ngủ dậy thấy một mảng đen xuất hiện trên bản đồ thì **biết chắc có thành Xương ở gần đấy**. Che đi mà thành ra chỉ điểm.
+- Về sau (17:11) video có nói lại cho công bằng: đánh với **người** thì nó vô giá trị, đánh với **máy** thì vẫn còn chút tác dụng ❓ — nhưng chỉ là **công trình hỗ trợ**, không phải thứ đáng ưu tiên.
+
+### 🦴 Skeleton Transformer — công trình mạnh nhất, và vì sao chỉ Necropolis không sợ mua tướng thành khác
+
+Đây là ý lớn nhất của cả video: thứ làm Necropolis mạnh **không phải quân của nó**, mà là công trình biến quân thành khác thành quân của nó.
+
+- **Ngay ngày đầu tiên** đã có thể đổ quân vào và ra Skeleton với số lượng rất lớn.
+- Để thấy nó đáng giá tới đâu, video vòng qua **chuyện mua tướng thứ ba**:
+    - Tướng thứ nhất có sẵn, tướng thứ hai ở quán rượu, **tướng thứ ba đa số là tướng của một thành khác**.
+    - Mua tướng thành khác thì **quân của nó kéo morale xuống**. Game chia hai phe: **phe thiện** gồm Castle, Rampart, Tower ❓ và **phe ác** gồm Inferno, Necropolis, Dungeon. Cùng phe thì không sao; **hai thành đối nghịch nhau thì trừ morale rất nặng** — ví dụ Castle cầm thêm quân Inferno, hay Castle cầm thêm quân Necropolis.
+    - Vì vậy nhiều thành **không dám mua tướng thứ ba**. Tower và Fortress ❓ còn thêm một lý do nữa: bị **trừ nước đi rất nặng** khi quân thành khác đi trên đất của chúng ❓.
+- **Necropolis thì không quan tâm tướng thứ ba là thành nào** — vì tướng nào mua về cũng chỉ là nguyên liệu. Thậm chí **rất thích** tướng Dungeon, Fortress và Inferno, vì đó là các thành có **lượng quân khởi điểm đông nhất**: Imp của Inferno tối đa **90 con** (**94** ở bản mới) ❓, Gnoll của Fortress tối đa **90** ❓, Troglodyte của Dungeon **90** ở bản gốc và **120** ở bản HotA ❓.
+- Vứt hết đám đó vào Transformer → **tuần đầu tiên đã có hàng trăm Skeleton**.
+- Hệ quả mà tác giả nhấn mạnh nhất: với ~**200 Skeleton** trong tuần 1, Necropolis **đánh được mỏ vịt và "mỏ thiên thần"** ❓ ngay tuần thứ nhất — trong khi các thành khác, trong điều kiện bình thường, **không thành nào làm được**.
+- Công trình này còn giải quyết một chuyện vặt mà rất tốn quân: **gộp quân mua lẻ nhiều ngày về một cụm**. Ba cụm 10 / 8 / 16 con đánh yếu hơn hẳn một cụm 34, lại dễ bị phản đòn chết sạch từng cụm.
+
+### 📉 Necromancy Amplifier — đúng là mạnh, nhưng đừng xây tuần đầu
+
+Đây là chỗ video đi ngược lời khuyên thường gặp, và lập luận bằng số:
+
+- Amplifier cộng **5%** vào kỹ năng Necromancy ❓ (video có lúc đọc thành 10% ❓ — hai con số này đá nhau ngay trong cùng một đoạn).
+- Thời kỳ đầu, đánh một cụm quái lót chỉ hồi được **3–4 Skeleton**. Cộng thêm 10% của 4 con là **0,4 con** — tức là **không được gì**.
+- Cụ thể hơn: cụm **20 con** quái lót hồi được **1–2 Skeleton**; cụm **40 con** hồi **2 con**; 5% của 2 con thì bằng không.
+- Phải tới khi tướng lên **Expert Necromancy (30%** ❓**)** và đánh được cụm quái to, hồi tới **10 con**, thì mấy phần trăm đó mới bắt đầu có nghĩa → **thường tuần 2, tuần 3 mới xây**.
+- Tiền tuần đầu **để dành mua tướng** ❓ thì lời hơn nhiều.
+- Video cũng nói HotA đã hạ sức mạnh cả hệ này: Amplifier **chỉ còn 5%**, và Cloak of the Undead King từ **30%** (bản cũ) xuống **15%** ❓. Cộng 5% lên nền 15% thì ra **15,3%** ❓ — con số này không ráp được với phép tính nào, giữ nguyên `❓`.
+
+### ⚔️ Skeleton Warrior — tổng kiếm giáp cao nhất trong các quân cấp 1
+
+- Ngoài Transformer, Necropolis còn có **công trình cộng thêm quân cấp 1**. Nhiều thành có công trình này, nhưng ở Necropolis nó **giá trị hơn hẳn** — vì quân cấp 1 ở đây chính là quân chủ lực.
+- Skeleton nâng cấp có **tổng công + thủ cao nhất trong tất cả quân cấp 1**. Video đọc ra ba cặp số: quân cấp 1 nâng cấp của Rampart **6/4**, của Castle **6/5**, còn Skeleton Warrior **6/6 — tổng 12** ❓.
+- **Zombie đổ vào Transformer cũng thành Skeleton** — đó mới là công dụng thật của Zombie. Tác giả lấy ví dụ 8 Zombie đứng riêng thì gần như vô dụng, đổi thành Skeleton thì lượng sát thương chém ra tăng lên hẳn ❓ (con số "80 xương", "chém thêm 16" nghe không ráp được).
+
+### 🩸 "Necropolis mạnh nhất vì Lich" là hiểu sai — và Cloak of the Undead King không phải đồ riêng của nó
+
+Đoạn này tác giả nói đi nói lại, rõ ràng là ý ông muốn người xem mang về:
+
+- **Con mạnh nhất của Necropolis là Skeleton, không phải Lich.** Nếu không có Cloak of the Undead King thì Lich chẳng là gì.
+- **Cloak of the Undead King không phải đồ riêng của thành Xương.** Bất kỳ thành nào **chỉ cần mua được một tướng Necropolis** là dùng được bộ đó. Bản thân tác giả kể: tuần 1, tuần 2 cứ thấy tướng Necropolis trong quán là **mua sẵn để ghép bộ**, dù đang chơi thành khác.
+- Bộ đó **không có sẵn trong thành** — phải ra ngoài đánh mà tìm, tức là **ăn may**.
+- Tệ hơn: các thành **mua được đồ** (video nhắc Tower) còn **săn xong bộ Cloak sớm hơn cả Necropolis**.
+- Ví dụ so sánh video đưa ra — một bên hàng nghìn Skeleton, một bên **500 Lich** ❓ — thì bên Skeleton **chắc chắn thua**. Cả dãy số trong ví dụ này vỡ hết ❓, chỉ giữ được chiều của kết luận.
+
+### 👻 Wight — mẹo mang đúng 8–9 con để cày sạch quái lót mà không mất quân
+
+Phần dài nhất của video (21:18–29:28) và là mẹo cụ thể nhất trong cả bài.
+
+- Quân cấp 3 của Necropolis có **Regeneration — hồi trọn vẹn máu sau mỗi lần bị đánh** ❓, và có **từ bản chưa nâng cấp**.
+- Cách dùng: chọn vị trí đứng sao cho **chỉ một cụm quái đánh tới được mình**, rồi **đánh xong chạy**. Hồi máu đầy nên gần như **không thể chết**.
+- Video giải thích bằng số vì sao ngưỡng là 8–9 con:
+    - Wight có **18 máu** ❓ và kiếm giáp **7/7** ❓.
+    - Quân cấp 1 của các thành khác gây trung bình **2–3 sát thương** ❓, mà công chỉ **4–6** nên còn bị trừ tiếp.
+    - Một cụm quái cấp 1 gây khoảng **2 sát thương** → cần **ít nhất 8 con** mới hạ nổi **1** Wight.
+    - Mang **9 Wight** thì quái lót chia ra **6–7 cụm, mỗi cụm 7 con** — 7 con không giết nổi 1 Wight. Tổng **49 con** vẫn không lấy được con nào, miễn là đánh-rồi-chạy chứ không đứng lại ăn đòn.
+- **Và đây mới là chỗ ngược trực giác: mang nhiều hơn thì mất quân.**
+    - Mang **11–12 con trở lên**, quái lót không chia 6–7 cụm nữa mà **dồn lại còn 3 cụm, mỗi cụm mười mấy con** → đủ sức giết ngay.
+    - Video demo mang **16 con**: quái gộp thành cụm **40 con**, mất quân thật.
+- Ngoại lệ tác giả tự nêu: **Skeleton là quân chém mạnh nhất trong các quân cấp 1**, nên gặp cụm Skeleton thì vẫn có khả năng mất Wight — sát thương Skeleton dao động **1–3** ❓, gặp đúng lúc nó ra 3 thì mất.
+
+### 🧛 Vampire Lord — và vì sao bản chưa nâng cấp thì đừng mang theo
+
+- **Chỉ bản nâng cấp mới có hút máu.** Bản chưa nâng cấp **gần như vô dụng khi mở đường**, chỉ dùng đánh vài cụm tài nguyên nhỏ.
+- Lý do phải giữ cho Vampire đừng chết: **Vampire chết thì Necromancy không hồi lại được** ❓ — Necromancy chỉ ra Skeleton. Mất là mất luôn, nên người ta cố đi hết đường mà **không mất con nào**; **8 con là đã đủ dùng** ❓.
+- Khi đánh bằng Vampire Lord thì **vẫn phải mang Skeleton theo làm mồi** để nó có chỗ mà hút máu.
+- Sức mạnh thật: Vampire Lord **đánh được đạo quân đông gấp 4–5 lần** ❓. Cơ chế theo lời video: phải **gây đủ sát thương** thì mới hút lại được đúng số quân đã chết; nếu quái đông gấp đôi thì sát thương phản về nhiều hơn phần hút lại, hút không kịp ❓.
+
+### 🐉 Ghost Dragon, Lich và Dread Knight — ba kỹ năng "ăn may" của Necropolis
+
+- **Ghost Dragon — Aging:** làm đối phương **mất 50% máu** ❓. Video gọi đây là kỹ năng mạnh nhất game nếu nó lên. Vấn đề là **tỉ lệ lên rất thấp** — tác giả kể đánh 3 lần liền mà không lên lần nào. "Thiên hạ đồn rồng xương đánh vào là mất 50%" thì đúng, nhưng **lên được hay không là chuyện hên xui**.
+- **Lich — bắn lan, và một tính năng HotA thêm mới:**
+    - Lich bắn lan trúng nhiều cụm cùng lúc.
+    - **Ở bản cũ đây là con dao hai lưỡi**: quân mình đứng cạnh mục tiêu thì **ăn luôn đòn của mình**; mà hai cụm quái đứng cách nhau thì không trúng được cả hai.
+    - **HotA thêm phím `G`** ❓: ấn `G` rồi bắn **vào khoảng giữa hai cụm** thay vì nhắm vào một cụm — tránh được quân nhà, và với tay tới cả hai cụm cách xa nhau.
+- **Dread Knight — Death Blow:** đánh đôi sát thương, tỉ lệ **20%** ❓ giống Aging, nhưng tác giả nói **nó lên gần như liên tục** nên dùng để **diệt quân cấp 7** rất được.
+
+### 🧭 Tóm lại cách chơi Necropolis theo video
+
+1. **Tuần 1, dồn hết vào Skeleton.** Mua thêm tướng bất kể thành nào, đổ quân của chúng vào **Skeleton Transformer**. Đây là việc quan trọng nhất, không phải việc lên nhà lính cao.
+2. **Chia hai đường ngay tuần đầu.** Có hàng trăm Skeleton thì một tướng cầm ~90 con đi một hướng, tướng kia cầm phần còn lại đi hướng khác — mở đường nhanh gấp đôi các thành khác.
+3. **Cày quái lót bằng 8–9 Wight, đánh rồi chạy** — không mất quân, không tốn Skeleton.
+4. **Đừng xây Necromancy Amplifier tuần 1**; để tiền mua tướng. Tuần 2–3 mới xây.
+5. **Đừng đặt mục tiêu lên Lich hay lên rồng.** Skeleton mới là quân chủ lực; Cloak of the Undead King là chuyện may rủi, không phải kế hoạch.
+
+### 👑 Vì sao tướng nào của Necropolis cũng mạnh
+
+- Lý do gốc là **Necromancy**. Thành khác cũng học được, nhưng **chỉ mạnh khi cầm quân Necropolis** ❓; và ngoài thành thì chỉ có **hai chỗ** học được nó ❓ (video kể ra hai nơi, cả hai đều nghe không rõ).
+- Vì vậy các thành như Castle, Rampart, Tower chỉ có **một hai tướng thật sự mạnh**, còn Necropolis thì **tướng nào cũng dùng được** — kể cả tướng luyện Zombie, con bị coi là yếu nhất, cũng mạnh hơn tướng trung bình của thành khác.
+- Video cũng thừa nhận **HotA đã làm Necromancy yếu đi** ❓ so với bản cũ.
+- Điểm chung cuối cùng: Necropolis có thêm **công trình khuếch đại Necromancy**, thứ mà các thành khác không có.
+
+### 🗡️ Tướng chiến Necropolis — và phép tính "Galthran phải lên level 100"
+
+Đoạn hay nhất của nửa sau video: tác giả so hai tướng bằng một phép tính chứ không bằng cảm giác.
+
+- **Isra và Vidomina** có đặc trưng **Necromancy**, tăng **5% mỗi level** ❓. Lên **level 20** là **+100%** → Expert Necromancy **30%** thành **60%**, tức **gấp đôi mọi tướng khác**.
+- **Galthran** có đặc trưng **Skeleton**, cộng **1 công / 1 thủ mỗi 5 level** ❓ — video gọi là "kinh tởm bậc nhất game".
+- Nhưng đặt cạnh nhau thì Galthran thua rõ:
+    - Isra cho Skeleton **gấp đôi số lượng** → gấp đôi sát thương, tức **+100%**.
+    - Muốn Galthran bù lại 100% đó thì Skeleton phải **+20 điểm công** (mỗi điểm công ≈ **+5%** sát thương).
+    - Galthran **5 level mới được 1 công** → cần **level 100**.
+    - Thực tế tướng chạm trần ở khoảng **level 30–45** ❓ → **Isra hơn hẳn, và càng về sau càng hơn**.
+- Phân vai theo giai đoạn: **Galthran mạnh hơn ở thời kỳ đầu** (đã có sẵn hàng trăm Skeleton), **từ tuần 2 trở đi là Isra**.
+- **Isra so với Vidomina:** cùng đặc trưng nhưng Vidomina **thiên về phép**, Isra **thiên về chiến** → mở đường thì Isra hơn.
+- **Galthran bị bỏ / bị thay ra** ❓ — theo video là vì người ta sợ cảnh Galthran gom được cả Isra lẫn Vidomina dưới quyền. Cả đoạn này vỡ nặng, **không chốt được là bị cấm ở template nào hay bị gỡ khỏi bản nào**.
+- Các tướng chiến khác video có nhắc:
+    - **Straker** — tướng luyện Zombie, bị coi là **yếu nhất thành**: khởi điểm chỉ **18 Zombie** ❓, trong khi tướng khác đã có sẵn 20–30 Skeleton.
+    - **Vokial** — tướng luyện Vampire duy nhất, cộng **1 công / 1 thủ** cho Vampire ngay từ đầu.
+    - **Charna** ❓ — tướng luyện Wight. Có Charna thì Wight **cày sạch quái lót mà không cần về thành**.
+    - **Tamika** ❓ — luyện quân cấp 6, nhưng **quân cấp 6 ít khi được dùng** nên giá trị hạn chế.
+    - **Tướng cộng 350 vàng/ngày** ❓ — ngày 1 không đủ tiền mua tướng thì **ngày 2 đã đủ**. Trên map 8XM8 chế độ 200% ❓ thì ai cũng muốn lấy ngay ngày đầu.
+    - **Tướng đặc trưng Ballista** ❓ — chính là thứ bù cho nhược điểm "không có quân bắn": Ballista **250 máu** ❓ và bắn được, đứng bắn tỉa hộ cả đạo quân chạy bộ.
+
+> [!info]- Ngoài nguồn — vì sao mục này để Tower đứng cạnh Necropolis
+> Đây là **liên hệ tự rút ra khi chắt lọc, không phải lời video**: [[#⚔️ Tướng chiến của Tower — lớp Alchemist lai tạp|video 3]] đã ghi Tower có lớp tướng "lai tạp" vừa chiến vừa phép, và video 7 nói Necropolis cũng vậy. Hai video nói về hai thành khác nhau nhưng mô tả cùng một sự bất đối xứng; chưa có nguồn nào ngoài hai video này xác nhận.
+
+### 🎁 Sự thiên vị của Necropolis — tướng chiến mà vẫn có sách phép
+
+- Video nhắc lại cách phân loại của người chơi Việt: **tướng chiến** và **tướng phép**, phân biệt ở chỗ **tướng phép có Spell Power / Knowledge và có sách phép**, tướng chiến không có.
+- Nhưng tác giả nói với **Tower và Necropolis** thì cách chia đó **vô nghĩa** — vì **tướng chiến của hai thành này vẫn có sách phép và vẫn có Spell Power**.
+- Video điểm danh cho thấy mức độ đặc biệt: Castle không có · Rampart không có · Inferno không có · Dungeon không có · Stronghold không có · Fortress không có · **Conflux là thành phép chính cống cũng không có**. Chỉ Tower và Necropolis có.
+- Kết: đây là **thiên vị rõ ràng**, và là lý do thật sự làm Necropolis mạnh hơn mặt bằng chung.
+
+### 🔮 Tướng phép Necropolis — Septienna và ba tướng cuối game
+
+- **Septienna** ❓ — đặc trưng **Death Ripple** ❓, và là **tướng phép mạnh nhất đầu game** theo video:
+    - Death Ripple **giết mọi quân không phải undead**, nên Septienna **chỉ cần mang đúng 1 Skeleton** là quét được cả cụm quái lót.
+    - Thời kỳ đầu có **13 mana** ❓ → **dùng được 2 lần ngay ngày đầu tiên**.
+    - Demo trong video: một đòn gây **40 sát thương** ❓, giết **11 con** ❓ trong một cụm; lên **Expert Earth** ❓ thì còn mạnh hơn.
+    - Hết mana thì cắm trại nghỉ rồi đánh tiếp ❓.
+- **Aislinn** ❓ — đặc trưng **Meteor Shower** ❓, video so thẳng với **Deemer của Dungeon**: mạnh **giữa đến cuối game**, **không mạnh đầu game** vì tốn quá nhiều mana, ngày đầu chỉ dùng nổi **1 lần** trong khi Septienna dùng được **2 lần**.
+- **Sandro** ❓ — tướng chuyên **Sorcery** ❓. Với một thành mà quân chủ lực là Skeleton thì thêm Sorcery là "rất kinh khủng".
+- **Nimbus** ❓ — tướng chuyên **Armorer** ❓, giảm thiệt hại nhận vào; đáng giá đúng ở thời kỳ đầu.
+- **Xsi** ❓ — **không mạnh đầu game, chỉ mạnh cuối game**.
+- **Vidomina** — thiên về phép; kỹ năng cuối của cô ❓ gần như kiểm soát được thế trận, nhưng **mở đường vẫn kém Isra**.
+
+### 🏁 Chốt — Logistics, và vì sao Necropolis vô địch ở map lớn
+
+- Một phát hiện riêng của tác giả, ông nói rõ là **tự để ý ra chứ không đọc ở đâu**: **tướng Necropolis lên Logistics với tỉ lệ rất cao** ❓. Chỉ có **Inferno** và **Necropolis** là hai thành như vậy.
+- Dàn tướng Necropolis **mạnh ngang Stronghold và Fortress** ❓, cộng thêm khoản thiên vị sách phép ở trên → **thành được ưu ái rõ ràng nhất game**.
+- Ở Necropolis **chọn tướng nào cũng có cửa thắng** — kể cả Isra hay Vidomina, hai tướng thiên phép.
+- Đó là lý do tác giả gọi Necropolis là **đạo quân vô địch ở các map 8XM8 trở lên** ❓.
+- Video khép lại bằng lời mời cao thủ chia sẻ thêm ở phần bình luận, và hẹn **video sau là thành Rồng Đen (Dungeon)**.
+
+### 🎥 Mốc thời gian — video 7
+
+| Mốc | Nội dung |
+|---|---|
+| 0:00 | Mở đầu — như đã hứa, lần này là thành Xương, "thành mạnh nhất game" |
+| 0:29 | Nhược điểm 1 — không có quân bắn cấp thấp, mở đường mất quân |
+| 1:29 | Thành trên mặt đất và thành dưới lòng đất, chênh nhau một lượt đi |
+| 3:08 | Zombie — quân tệ nhất thành |
+| 3:38 | Nhược điểm 3 — tốn tài nguyên để có quân chủ lực sớm |
+| 4:24 | Black Knight đắt, và so với con ngựa của Castle |
+| 4:49 | Cover of Darkness — công trình phế nhất game |
+| 5:38 | Nhà lính cấp 7 lại không đắt |
+| 6:07 | Bone Dragon — con cấp 7 cùi nhất game |
+| 6:51 | Mặt bằng quân yếu; Vampire chưa nâng cấp thì vô dụng |
+| 8:05 | Chốt nhược điểm — speed là điểm yếu gần như duy nhất |
+| 8:48 | Bắt đầu phần ưu điểm — xây dựng |
+| 8:56 | Skeleton Transformer |
+| 9:28 | Chuyện tướng thứ ba và morale hai phe thiện/ác |
+| 11:17 | Vì sao Necropolis thích tướng Dungeon, Fortress, Inferno |
+| 12:04 | Hàng trăm Skeleton ngay tuần đầu; đánh được mỏ vịt tuần 1 |
+| 13:20 | Transformer còn gộp quân mua lẻ về một cụm |
+| 14:09 | Necromancy Amplifier — và vì sao đừng xây sớm |
+| 15:39 | HotA hạ sức mạnh Amplifier và Cloak of the Undead King |
+| 17:11 | Nói lại cho công bằng về Cover of Darkness |
+| 17:41 | Công trình cộng quân cấp 1 |
+| 18:03 | "Mạnh nhất vì Lich" là hiểu sai |
+| 19:23 | Cloak of the Undead King thành nào cũng ghép được |
+| 20:09 | Skeleton Warrior — tổng kiếm giáp cao nhất trong quân cấp 1 |
+| 20:38 | Zombie đổ vào Transformer thành Skeleton |
+| 21:18 | Wight — Regeneration và lối đánh rồi chạy |
+| 23:18 | Phép tính vì sao 7 con quái không giết nổi 1 Wight |
+| 24:29 | Ngưỡng 8–9 con, và vì sao mang nhiều hơn lại mất quân |
+| 25:20 | Demo mang 16 con — quái dồn cụm, mất quân |
+| 26:59 | Ngoại lệ: gặp cụm Skeleton thì vẫn có thể mất |
+| 29:28 | Vampire Lord — đánh được đạo quân đông gấp 4–5 lần |
+| 30:17 | Ghost Dragon — Aging, và chuyện hên xui |
+| 31:04 | Lich bắn lan, và phím `G` mà HotA thêm vào |
+| 33:02 | Dread Knight — Death Blow, dùng diệt quân cấp 7 |
+| 33:42 | Chốt ưu điểm — chia hai đường ngay tuần đầu |
+| 34:14 | Bắt đầu phần tướng — vì sao tướng nào cũng mạnh |
+| 36:39 | Straker — tướng yếu nhất thành |
+| 37:20 | Vokial — tướng luyện Vampire |
+| 38:19 | Learning, và vì sao nó chỉ đáng với tướng luyện quân |
+| 40:26 | Charna — tướng luyện Wight |
+| 40:51 | Tamika, và tướng cộng 350 vàng/ngày |
+| 41:32 | Galthran và phép tính "phải lên level 100" |
+| 42:10 | Isra — Necromancy tăng theo từng level |
+| 45:19 | Chuyện Galthran bị thay ra |
+| 46:06 | Tướng đặc trưng Ballista — bù cho việc thiếu quân bắn |
+| 46:47 | Sự thiên vị: tướng chiến Necropolis vẫn có sách phép |
+| 48:51 | Septienna — Death Ripple, chỉ cần mang 1 Skeleton |
+| 52:59 | Aislinn — mạnh cuối game, so với Deemer của Dungeon |
+| 53:32 | Sandro, Nimbus, Xsi, Vidomina |
+| 55:32 | Tướng Necropolis hay lên Logistics |
+| 56:34 | Kết — hẹn video sau là thành Rồng Đen |
+
+### ❓ Bảng giải mã phụ đề — video 7 (Necropolis)
+
+> [!warning]- Cột "Chắc tới đâu" ở bảng này **không có dòng nào là "Xác nhận"** — và đó là cố ý
+> Ở video 1–6, "Xác nhận" nghĩa là đã mở wiki ra đối chiếu. Phiên này không mở được mạng (xem callout đầu mục), nên mức cao nhất ở đây chỉ là **"khớp vai trò"** — tức là suy ra từ chỗ video mô tả nó làm gì, chứ chưa đối chiếu với bất kỳ bảng chỉ số hay hồ sơ tướng nào.
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "tình xương" · "thành sương" · "thằng xương" · "hình xưng" | **Necropolis** (thành Xương) | **Khớp vai trò** — cả video nói về một thành, quân chủ lực là Skeleton |
+| "con xương" · "con sư" · "cục xương" | **Skeleton / Skeleton Warrior** | **Khớp vai trò** |
+| "con lùn" · "con Zoombie" · "con dao dùng bia" | **Zombie / Walking Dead** | **Khớp vai trò** — video tự gọi tên "Zombie" một lần, và so sánh với người lùn của Rampart |
+| "con ma" · "con la" · "con loa" · "con qua loa" · "con Hoa" | **Quân cấp 3 của Necropolis — Wight / Wraith** ❓ | **Khớp vai trò** — con có Regeneration, dùng để cày quái lót. Chưa đối chiếu tên |
+| "con vay" · "vân tay" · "bàn tay" · "văn tay" · "mang vai" | **Vampire / Vampire Lord** | **Khớp vai trò + khớp âm** ("vam-pai") — và video phân biệt rõ bản thường không hút máu, bản nâng cấp có |
+| "con nít" · "con like" · "con ĐT" · "con lít" | **Lich / Power Lich** | **Khớp vai trò** — con bắn lan, và là con mà bộ Cloak of the Undead King phục vụ |
+| "con ngựa" (trong mục Necropolis) | **Black Knight / Dread Knight** | **Khớp vai trò** ❓ — quân cấp 6 cưỡi ngựa. Lưu ý "con ngựa" ở video 1 là Cavalier của Castle, **không cùng con** |
+| "rồng xương" · "con rồng xương" | **Bone Dragon / Ghost Dragon** | **Khớp vai trò** |
+| "kagura skater Transformers" · "skeletor Transformer" · "quê tôi trên forbes" · "chị kêu tôi chapman" | **Skeleton Transformer** | **Khớp vai trò + khớp âm** — công trình biến quân thành Skeleton |
+| "nick Romance amplifiers" · "Lego machine ampe kế" · "courvoisier emperor" · "nick Rocher pure" | **Necromancy Amplifier** | **Khớp vai trò + khớp âm** |
+| "cô vừa nước nát" · "cô vợ các" · "cô vừa bát ngát" | **Cover of Darkness** | **Khớp vai trò + khớp âm** — công trình phủ màn đen quanh thành |
+| "bộ nick" · "nick full skin" · "bộ ít" · "bộ bếp" | **Cloak of the Undead King** | **Khớp vai trò** — bộ đồ ghép làm mạnh Lich và Necromancy. Xem thêm [[Nam InCo - Đồ ghép#🦴 Cloak of the Undead King — bộ rẻ tiền mà video gọi là mạnh nhất game\|note Đồ ghép]] |
+| "canxi" · "nick Romance" · "key necromancy" · "nokomis" | **Necromancy** (kỹ năng) | **Khớp vai trò** |
+| "lấy ghe nước tương Sinh" | **Regeneration** | **Khớp vai trò** — "hồi phục máu trọn vẹn sau khi bị đánh" |
+| "lão hóa" | **Aging** | **Khớp vai trò** — "làm mất 50% máu" |
+| "kế Milan" · "bà đàn" | **Death Blow** ❓ | **Đoán** — video chỉ mô tả "đánh quân cấp 7 rất hay", tỉ lệ 20% giống Aging |
+| "gan than" · "can than" · "Irina" · "con gà thân" | **Galthran** | **Khớp vai trò + khớp âm** — tướng luyện Skeleton, +1 công/thủ mỗi 5 level |
+| "ít ra" · "istar" · "Nissan" · "nghĩ ra" · "Lisa" · "esta" | **Isra** | **Khớp vai trò + khớp âm** — tướng đặc trưng Necromancy |
+| "Vitamin A" · "video Vina" · "Vinamilk" · "Lumina" | **Vidomina** | **Khớp vai trò + khớp âm** |
+| "con sticker" · "con Soccer" | **Straker** ❓ | **Khớp vai trò + khớp âm** — tướng luyện Zombie |
+| "anh vô kia" | **Vokial** ❓ | **Khớp vai trò + khớp âm** — tướng luyện Vampire |
+| "con tính China" · "con Channel" | **Charna** ❓ | **Khớp vai trò + khớp âm** — tướng luyện Wight |
+| "ta mica" | **Tamika** ❓ | **Khớp âm** — video nói luyện quân cấp 6 |
+| "sẽ tiên A" · "sếp viên an" · "Tân An" · "Stella" | **Septienna** ❓ | **Khớp vai trò + khớp âm** — tướng đặc trưng Death Ripple. "Stella" ở 52:10 có thể là cùng tên nghe méo, **chưa chắc** |
+| "con cứng Asian" | **Aislinn** ❓ | **Khớp vai trò + khớp âm** — video so thẳng với Deemer của Dungeon, cùng đặc trưng Meteor Shower |
+| "con đi mia" | **Deemer** (tướng Dungeon) ❓ | **Khớp vai trò + khớp âm** |
+| "con Sanyo" | **Sandro** ❓ | **Khớp âm** — video nói "chuyên luyện vào skin", đọc là Sorcery ❓ |
+| "ninh bước" | **Nimbus** ❓ | **Khớp âm** — video nói chuyên "Amly", đọc là Armorer ❓ |
+| "sexy" | **Xsi** ❓ | **Khớp âm** — video nói mạnh cuối game |
+| "con ten ten" | Một tướng rất mạnh ở thành khác | **Chưa chốt** — nằm trong câu "Galthran còn kinh tởm hơn cả con ten ten" |
+| "harmonic viết típ" | **Death Ripple** ❓ | **Đoán theo mô tả** — "dứt tất cả quân không phải xương" |
+| "Palestine" · "con Paris ta" | **Ballista** | **Khớp vai trò + khớp âm** — "250 máu", "khả năng bắn" |
+| "mỏ vịt" | **Wyvern Nest** | **Xác nhận từ trước** — xem [[#❓ Bảng giải mã phụ đề — video 1 (Castle)\|bảng giải mã video 1]] |
+| "mỏ thiên thần" · "mỏ đến Thần" | Một nhà lính cấp 7 ngoài bản đồ, canh rất nặng | **Chưa chốt** ❓ — video đặt nó cạnh "mỏ vịt" như mốc khó hơn |
+| "quái lót" · "quân lót" · "cả lót" | Cụm quái canh đường, loại dễ nhất | **Khớp vai trò** — dùng xuyên suốt cả playlist |
+| "8x 18x" · "mát 8x 18" | **8XM8** — template bản đồ | **Khớp vai trò** — playlist có hẳn [video 12 về 8XM8](https://www.youtube.com/watch?v=oZotpPb5Gl0) |
+| "trứng gà" · "phím g" | Phím tắt **`G`** trong trận | **Khớp vai trò** ❓ — video demo ấn phím này để Lich bắn vào giữa hai cụm. Playlist có [video 15 về phím tắt](https://www.youtube.com/watch?v=Dllj-Eq8T7o), tra lại ở đó |
+| "thành David" · "thành D viên" | **Inferno** (thành Devil) | **Khớp vai trò** — đã dùng nhất quán từ video 5 |
+| "thành đầm lầy" · "thành đầm lệch" | **Fortress** | **Khớp vai trò** |
+| "thành Sunhouse" · "thành gấu" | **Stronghold** | **Khớp vai trò** |
+| "thành chim lửa" | **Conflux** | **Khớp vai trò** |
+| "thành Raven" · "thành Dal" · "thành làm lệch" | Chưa chốt | **Chưa chốt** ❓ — nằm trong đoạn liệt kê thành nào mua được tướng thứ ba |
+| "Con im" | **Imp** (quân cấp 1 Inferno) | **Khớp vai trò + khớp âm** |
+| "con chó" · "con jacking" | **Gnoll** (quân cấp 1 Fortress) ❓ | **Đoán** — video gọi "con chó của thành đầm lầy" |
+| "ra chốt" · "con đặc biệt của sting" | **Troglodyte** (quân cấp 1 Dungeon) ❓ | **Đoán** |
+| "inter Brazil" · "interface in" · "intervals" · "intervision" | Một kỹ năng phụ, có thể là **Interference** ❓ | **Chưa chốt** — xuất hiện ở cả đoạn Straker lẫn đoạn Vidomina |
+| "Komasu" | Một kỹ năng của Xsi | **Chưa chốt** ❓ |
+| "nên Zotac" | **Logistics** ❓ | **Khớp vai trò** — video nói tướng Necropolis hay lên kỹ năng này |
+| "Excel" · "ích vơ" · "ba Xích" | **Expert / Basic** (bậc kỹ năng) | **Khớp vai trò** — đã có trong bảng giải mã video 6 |
+
+> [!video] Còn treo sau video 7
+> **Cả mục này treo cho tới khi mở được wiki.** Phiên 29/09/2026 không ra được mạng, nên khác với video 1–6, ở đây **chưa một con số nào được đối chiếu**. Việc cần làm:
+> - **Chỉ số quân** — Skeleton Warrior có đúng 6/6 không · Wight 18 máu và 7/7 không · Bone Dragon nâng cấp có đúng 200 máu không · tốc độ Zombie · tốc độ Skeleton ở đất nhà và ngoài đất nhà (phép tính "3 lượt / 4 lượt").
+> - **Giá công trình** — nhà lính cấp 6 (6.000 vàng?) · nhà lính cấp 7 (10.000 vàng + 5 tài nguyên hiếm?) · công trình bắt buộc trước nhà ngựa của Castle (gần 3.000?).
+> - **Con số Necromancy** — Amplifier 5% hay 10% · Cloak of the Undead King 30% (SoD) xuống 15% (HotA) · Expert Necromancy 30% · phép tính "15,3%" ráp lại kiểu gì.
+> - **Đặc trưng tướng** — Isra và Vidomina có đúng +5%/level không · Galthran +1 công/thủ mỗi 5 level không · Septienna có đúng là Death Ripple không · Aislinn có đúng là Meteor Shower không · Sandro (Sorcery?) · Nimbus (Armorer?) · Xsi · tướng nào là Ballista · tướng nào cộng 350 vàng/ngày.
+> - **Chuyện Galthran bị thay ra** — bị cấm ở template, hay bị đổi trong bản HotA? Đối chiếu với cách HotA thay Sir Mullich bằng Lord Haart ([[#⚔️ Tướng — chọn theo "luyện quân" và theo Diplomacy|xem video 1]]).
+> - **Phím `G` của Lich** — có thật trong HotA không, và có đúng là phím `G` không. Tra ở video 15 (phím tắt).
+> - **Chỉ nghe lại video mới chốt được:** "con ten ten" · "thành Raven" · "thành Dal" · "Komasu" · "mỏ thiên thần" · "Stella" ở 52:10 có phải Septienna không.
+
+---
 
 ## 🔗 Liên quan
 
