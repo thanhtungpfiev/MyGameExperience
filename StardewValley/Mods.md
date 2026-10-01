@@ -388,6 +388,13 @@ Bảng theo dõi **tiến độ Hoàn hảo (Perfection)** — mỗi hạng mụ
 
 **Nexus** — https://www.nexusmods.com/stardewvalley/mods/41495
 
+> [!info]- Log SMAPI có cảnh báo GMCM "deprecated code" — vô hại, hiện tại
+> Mỗi lần mở game, GMCM ghi: _"ModAuthor.PerfectionStats … is using deprecated code (AddNumberOption(…)) that will break in a future version of GMCM"_. Tức là mod gọi một **kiểu hàm cũ** của GMCM để tạo ô nhập số. Với GMCM **1.16.0** đang cài thì menu vẫn chạy bình thường.
+>
+> Rủi ro chỉ đến khi **cập nhật GMCM** lên bản bỏ hẳn hàm này: lúc đó trang cấu hình Perfection Stats có thể mất ô số hoặc không mở được — nhưng **phím `K` và bảng % vẫn chạy**, vì chúng không phụ thuộc GMCM. Cập nhật GMCM xong thì vào thử trang cấu hình của mod này.
+>
+> Manifest cũng còn sót đồ của bản mẫu: `UniqueID` là `ModAuthor.PerfectionStats`, mô tả là `"Mod Template"` — nên log và GMCM gọi nó bằng tên đó. Không ảnh hưởng gì.
+
 | Nhóm | Thanh trong bảng |
 |---|---|
 | 🐟 **Sưu tầm** | Fish Species (loài cá) · Museum Items (Bảo tàng) |
