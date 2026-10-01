@@ -388,9 +388,9 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để sang Xuân năm 2** (xem [[Câu cá theo mùa#🎯 Còn làm được trong Xuân này|Câu cá theo mùa]]).
 
 **Việc cần làm:**
-- [ ] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt giống hiếm/Hạt giống cổ đại nếu tuần trước chưa mua đủ
-- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
-- [ ] Túi đồ đã **24 ô** (save Xuân 18) — nấc tiếp theo là 36 ô ở Pierre giá **10.000g**; đang có 5.091g nên chưa với tới, túi đầy thì dồn đồ vào rương thay vì nâng
+- [x] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt giống hiếm/Hạt giống cổ đại nếu tuần trước chưa mua đủ
+- [x] Việc thường ngày: tưới ruộng, mỏ/câu cá
+- [x] Túi đồ đã **24 ô** (save Xuân 18) — nấc tiếp theo là 36 ô ở Pierre giá **10.000g**; đang có 5.091g nên chưa với tới, túi đầy thì dồn đồ vào rương thay vì nâng
 
 ---
 
