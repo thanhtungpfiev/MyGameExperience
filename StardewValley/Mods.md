@@ -619,6 +619,11 @@ Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Cla
 >
 > Tên trong manifest cũng gõ thiếu chữ — SMAPI liệt kê là **"Forage Makers"**, tìm trong log thì tìm theo tên đó.
 
+> [!info] Content Patcher báo "chưa cập nhật cho 1.6.0" — pack vẫn chạy nhờ tự chuyển đổi
+> Log SMAPI có dòng _"Some content packs haven't been updated for Stardew Valley 1.6.0 … Affected content packs: Forage Makers"_. Lý do: `content.json` khai `"Format": "1.29.0"` — định dạng Content Patcher **đời game 1.5**. Content Patcher tự chuyển đổi (auto-migrate) khi nạp nhưng **không cam kết tương thích**.
+>
+> Với pack này rủi ro thấp: nó chỉ có một lệnh `EditImage` đè lên `Maps/springobjects`, mà bảng sprite đó **vẫn còn trong 1.6** cho vật phẩm đời cũ. Dấu hiệu hỏng nếu có: khung đỏ lệch sang món khác, hoặc log báo lỗi `EditImage`. Khi đó **xóa thư mục** là xong — Forage Pointers vẫn lo phần đồ lượm.
+
 > [!tip] Ba mod này chồng vai nhau — nên giữ thế nào
 > | Việc | Mod lo | Ghi chú |
 > |---|---|---|
