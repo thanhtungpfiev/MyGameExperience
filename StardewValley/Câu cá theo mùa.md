@@ -4,7 +4,7 @@
 >
 > _Note này trả lời **"mùa này câu được cá gì, ở đâu, lúc nào — và mình còn thiếu con nào"**. Cách câu, cần câu, thư Willy thì xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]]._
 >
-> _Tên cá theo **bản Việt hóa đang cài** (tên tiếng Anh trong ngoặc để tra wiki). Giờ, thời tiết, cấp tối thiểu và chỗ câu lấy thẳng từ file game 1.6.15 (`Data/Fish`, `Data/Locations`); tầng mỏ theo wiki. Cột ✅ đối chiếu với save **Wind** (mục `fishCaught`) ngày **Xuân 17, Năm 1** — cập nhật lại khi câu thêm._
+> _Tên cá theo **bản Việt hóa đang cài** (tên tiếng Anh trong ngoặc để tra wiki). Giờ, thời tiết, cấp tối thiểu và chỗ câu lấy thẳng từ file game 1.6.15 (`Data/Fish`, `Data/Locations`); tầng mỏ theo wiki. Cột ✅ đối chiếu với save **Wind** (mục `fishCaught`, bản quicksave) ngày **Xuân 19, Năm 1** — cập nhật lại khi câu thêm._
 
 **Chú thích:** 🧩 = cần cho gói Trung tâm Cộng đồng · 🌧️ = chỉ ra khi mưa · ☀️ = chỉ ra khi nắng · "cả ngày" = 06:00–02:00.
 
@@ -47,7 +47,7 @@
 | [ ] | **Cá huyền thoại (Legend)** | 06:00–20:00 | 🌧️ · **chỉ Xuân** · cần **cấp Câu cá 10** · quăng xa bờ **≥ 4 ô** · 1 con/save |
 
 > [!info] Cá huyền thoại khi chưa tới cấp 10
-> Game kiểm tra cấp Câu cá **gồm cả buff đồ ăn**, nên cấp 7–8 + món **+3 Câu cá** là đủ 10. Đang cấp 8 (save Xuân 18) nên cần ít nhất **+2** — **Súp cá hồi** (Trout Soup, Willy bán 250g) hay **Thạch Biển** (Sea Jelly) chỉ +1, không đủ; hai món ăn cũng không cộng dồn vì cùng loại buff "đồ ăn".
+> Game kiểm tra cấp Câu cá **gồm cả buff đồ ăn**, nên cấp 7–8 + món **+3 Câu cá** là đủ 10. Đang cấp 8 (save Xuân 19, còn 767 XP nữa lên cấp 9) nên cần ít nhất **+2** — **Súp cá hồi** (Trout Soup, Willy bán 250g) hay **Thạch Biển** (Sea Jelly) chỉ +1, không đủ; hai món ăn cũng không cộng dồn vì cùng loại buff "đồ ăn".
 >
 > **Suất đồ biền** (Dish O' The Sea, +3) — _tên đúng như bản dịch ghi, có vẻ gõ nhầm "biển"_. Công thức: 2 **Cá mòi** + 1 **Khoai tây chiên** (Hashbrowns). Chưa nâng cấp nhà thì chưa có bếp, làm theo chuỗi:
 > 1. Saloon bán **công thức Khoai tây chiên** — 50g. Khoai tây chiên = 1 **Khoai tây** + 1 **Dầu ăn** (Oil, Pierre bán).
@@ -60,7 +60,7 @@
 
 - [x] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
 - [x] **Cá đá** (tầng 20)
-- [ ] **Cá băng** (tầng 60) — tiện ghé khi đi mỏ, dùng thang máy xuống thẳng; tỉ lệ thấp (~5%/lần cắn), xem [[#⛏️ Hầm mỏ|Hầm mỏ]].
+- [x] **Cá băng** (tầng 60)
 - ⏭️ **Cá huyền thoại — để sang Xuân năm 2**, không săn trong Năm 1. Năm sau vẫn cần ngày mưa + cấp Câu cá ≥ 10 (tính cả buff); cách làm Suất đồ biền khi chưa có bếp xem khung ở Hồ trên Núi.
 - Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại của Xuân năm nay không cần dồn cho câu cá.
 
@@ -78,13 +78,13 @@ Cá ở mấy chỗ dưới đây **không đổi theo mùa** — mùa nào cũn
 
 ### ⛏️ Hầm mỏ
 
-Đã xuống tới **tầng 76** (save Xuân 18) → tầng 20 và 60 đều câu được.
+Đã xuống tới **tầng 76** (save Xuân 19) → tầng 20 và 60 đều câu được.
 
 | ✅ | Cá | Nơi | Cấp tối thiểu |
 |---|---|---|---|
 | [x] | Cá ma (Ghostfish) 🧩 | ao tầng 20 · 60 | — |
 | [x] | Cá đá (Stonefish) | ao tầng 20 | 3 |
-| [ ] | **Cá băng (Ice Pip)** | ao tầng 60 | 5 |
+| [x] | Cá băng (Ice Pip) | ao tầng 60 | 5 |
 | [ ] | Lươn dung nham (Lava Eel) | ao tầng 100 — _chưa tới_ | 7 |
 | [x] | Thạch Hang Động (Cave Jelly) — _sứa, mới từ 1.6_ | ao tầng 20 · 60 (rất hiếm) · dung nham tầng 100 (dễ hơn) | — |
 

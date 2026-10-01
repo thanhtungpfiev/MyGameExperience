@@ -35,7 +35,7 @@
 - [ ] Gói **Sản phẩm Hái lượm Ngoại cảnh** (4/5) — thiếu **Nhựa phong**, Chén hứng Nhựa cây ra khoảng Xuân 25
 - [ ] Gói **Khoáng Sản** — thiếu **Thạch anh Lửa**, ra từ tầng 80 (đang ở 76)
 - [ ] Gói **Bẫy Cua** (3/5) — nạp mồi đều cho 3 bẫy đang đặt
-- [ ] **Cá băng** ở ao tầng 60 — xem [[Câu cá theo mùa#⛏️ Hầm mỏ|Câu cá — Hầm mỏ]]
+- [x] **Cá băng** ở ao tầng 60 — xem [[Câu cá theo mùa#⛏️ Hầm mỏ|Câu cá — Hầm mỏ]]
 - [ ] Xuân 28, 12:00 — rung bụi cây lấy **Junimo Nhồi bông** ([[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật]])
 
 **Việc ngoài game:**
