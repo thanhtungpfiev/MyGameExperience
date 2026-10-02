@@ -1,6 +1,6 @@
 # 🏰 Heroes 3 HotA — Cách chơi cơ bản các thành (Nam InCo)
 
-> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **6/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
+> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **7/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
 >
 > _Video nói tiếng Việt nhưng tên thành, tên lính, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
@@ -20,7 +20,7 @@
 | 5 | [Chia sẻ kinh nghiệm bản thân về cách chơi cơ bản dành cho thành Devil INFERNO.](https://www.youtube.com/watch?v=Hkv7AxOiFKY) | 22/02/2022 | ✅ [[#5️⃣ Inferno (Devil) — quân đông, Magog mở đường, lối chơi đòi sự đa dạng\|đã chắt lọc]] |
 | 6 | [Giới thiệu về SPELLS và cách sử dụng cơ bản !](https://www.youtube.com/watch?v=onhhdAZMYLA) | 27/02/2022 | ✅ [[#6️⃣ Spells (phép) — công thức sát thương, và phép nào thật sự đáng lên\|đã chắt lọc]] |
 | 7 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Xương NECROPOLIS.](https://www.youtube.com/watch?v=vm2PVn17vmA) | 05/03/2022 | ✅ [[#7️⃣ Necropolis (thành Xương) — Skeleton mới là quân chủ lực, không phải Lich\|đã chắt lọc]] |
-| 8 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Rồng Đen DUNGEON](https://www.youtube.com/watch?v=hXkO43OuJkc) | 12/04/2022 | ⬜ chưa xem |
+| 8 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Rồng Đen DUNGEON](https://www.youtube.com/watch?v=hXkO43OuJkc) | 12/04/2022 | ✅ [[#8️⃣ Dungeon (Rồng Đen) — Troglodyte với Harpy gánh cả giai đoạn mở đường, dàn tướng mới là chỗ mạnh thật\|đã chắt lọc]] |
 | 9 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Gấu STRONGHOLD.](https://www.youtube.com/watch?v=frwS3OhHHxg) | 12/11/2022 | ⬜ chưa xem |
 | 10 | [Cách chỉnh lỗi template 8XM8: Thành không có đường đi - Không tạo được map size G !](https://www.youtube.com/watch?v=A9zkjSXFbs8) | 03/12/2022 | ⬜ chưa xem |
 | 11 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Đầm Lầy FORTRESS.](https://www.youtube.com/watch?v=ylEF4scll9c) | 13/12/2022 | ⬜ chưa xem |
@@ -54,6 +54,8 @@
 
 **Bên trong video 7** — [[#💀 Ba nhược điểm của Necropolis — quân chậm, không quân bắn, và thiệt kép khi thành nằm dưới lòng đất|Ba nhược điểm]] · [[#🧟 Zombie, Black Knight và Bone Dragon — ba chỗ tốn kém và yếu của Necropolis|Zombie & rồng xương]] · [[#🌑 Cover of Darkness — công trình mà video gọi thẳng là phế nhất game|Cover of Darkness]] · [[#🦴 Skeleton Transformer — công trình mạnh nhất, và vì sao chỉ Necropolis không sợ mua tướng thành khác|Skeleton Transformer]] · [[#📉 Necromancy Amplifier — đúng là mạnh, nhưng đừng xây tuần đầu|Đừng xây Amplifier sớm]] · [[#⚔️ Skeleton Warrior — tổng kiếm giáp cao nhất trong các quân cấp 1|Skeleton Warrior]] · [[#🩸 "Necropolis mạnh nhất vì Lich" là hiểu sai — và Cloak of the Undead King không phải đồ riêng của nó|Hiểu sai về Lich]] · [[#👻 Wight — mẹo mang đúng 8–9 con để cày sạch quái lót mà không mất quân|Mẹo 8–9 Wight]] · [[#🧛 Vampire Lord — và vì sao bản chưa nâng cấp thì đừng mang theo|Vampire Lord]] · [[#🐉 Ghost Dragon, Lich và Dread Knight — ba kỹ năng "ăn may" của Necropolis|Aging, phím G, Death Blow]] · [[#🧭 Tóm lại cách chơi Necropolis theo video|Tóm lại]] · [[#👑 Vì sao tướng nào của Necropolis cũng mạnh|Vì sao tướng nào cũng mạnh]] · [[#🗡️ Tướng chiến Necropolis — và phép tính "Galthran phải lên level 100"|Tướng chiến & phép tính level 100]] · [[#🎁 Sự thiên vị của Necropolis — tướng chiến mà vẫn có sách phép|Thiên vị sách phép]] · [[#🔮 Tướng phép Necropolis — Septienna và ba tướng cuối game|Tướng phép]] · [[#🏁 Chốt — Logistics, và vì sao Necropolis vô địch ở map lớn|Chốt]] · [[#🎥 Mốc thời gian — video 7|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 7 (Necropolis)|Bảng giải mã]]
 
+
+**Bên trong video 8** — [[#🐉 Vì sao Dungeon khó với người mới nhưng mạnh ở trình cao|Vì sao khó mà vẫn mạnh]] · [[#💸 Nhược điểm của Dungeon — xây đắt, và quân chủ lực không kịp tuần 1|Nhược điểm]] · [[#🏗️ Năm công trình riêng của Dungeon|Năm công trình]] · [[#🦎 Troglodyte — quân chốt của Dungeon, yếu từng con nhưng đông và miễn nhiễm Blind|Troglodyte]] · [[#🦅 Harpy Hag — con mà video coi là "quân bắn với mũi tên vô hạn"|Harpy Hag]] · [[#🏔️ Chọn địa hình trước khi đánh — kỹ thuật mà Dungeon bắt buộc phải biết|Chọn địa hình]] · [[#👁️ Beholder và Medusa — quân bắn của Dungeon đến muộn, và cái bẫy Stone Gaze|Beholder & Medusa]] · [[#⚡ Vì sao vẫn phải nâng lên Black Dragon — chuyện speed, và cái bẫy Hill Fort|Nâng Black Dragon & Hill Fort]] · [[#🐂 Minotaur — quân cấp 5 đánh đau nhất, và lý do đối phương sợ Dungeon|Minotaur]] · [[#🦂 Scorpicore và Black Dragon — trói quân, và con duy nhất miễn nhiễm Implosion|Scorpicore & kháng Implosion]] · [[#📊 Tổng kết chất lượng quân Dungeon theo video|Tổng kết quân]] · [[#⚔️ Tướng chiến Dungeon — Tactics cộng luyện quân là chỗ mạnh thật của thành|Tướng chiến]] · [[#🔮 Tướng phép Dungeon — Alamar, Jeddite và phép hồi sinh nhân theo level|Tướng phép]] · [[#📈 Darkstorn và Learning — vì sao Dungeon cần lên level nhanh hơn các thành khác|Learning]] · [[#🏁 Chốt — Dungeon gần như không có điểm yếu với người chơi có kinh nghiệm|Chốt]] · [[#🎥 Mốc thời gian — video 8|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 8 (Dungeon)|Bảng giải mã]]
 ---
 
 ## 1️⃣ Castle (Thiên Thần) — tuần đầu và dàn tướng
@@ -1801,6 +1803,363 @@ Phần dài nhất của video (21:18–29:28) và là mẹo cụ thể nhất t
 > - **Chuyện Galthran bị thay ra** — bị cấm ở template, hay bị đổi trong bản HotA? Đối chiếu với cách HotA thay Sir Mullich bằng Lord Haart ([[#⚔️ Tướng — chọn theo "luyện quân" và theo Diplomacy|xem video 1]]).
 > - **Phím `G` của Lich** — có thật trong HotA không, và có đúng là phím `G` không. Tra ở video 15 (phím tắt).
 > - **Chỉ nghe lại video mới chốt được:** "con ten ten" · "thành Raven" · "thành Dal" · "Komasu" · "mỏ thiên thần" · "Stella" ở 52:10 có phải Septienna không.
+
+---
+
+## 8️⃣ Dungeon (Rồng Đen) — Troglodyte với Harpy gánh cả giai đoạn mở đường, dàn tướng mới là chỗ mạnh thật
+
+> [!video] Nguồn
+> [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Rồng Đen DUNGEON](https://www.youtube.com/watch?v=hXkO43OuJkc) · đăng 12/04/2022 · video 8/25 · dài **52:39**
+>
+> Chắt lọc từ phụ đề tự động tiếng Việt. Phụ đề video này **vỡ nặng ở đúng chỗ quan trọng nhất là tên tướng** — cả 13 tướng đều nghe ra sai. Phiên này **mở được wiki**, nên phần lớn tên và chỉ số đã đối chiếu `heroes.v.thelazy.net` ngày **01/10/2026**; xem [[#❓ Bảng giải mã phụ đề — video 8 (Dungeon)|bảng giải mã]] để biết chỗ nào xác nhận, chỗ nào còn đoán.
+
+### 🐉 Vì sao Dungeon khó với người mới nhưng mạnh ở trình cao
+
+Video mở đầu bằng một nghịch lý và giữ nó đến cuối clip: Dungeon bị coi là thành khó chơi với người mới, nhưng tác giả xếp nó vào **một trong những thành mạnh nhất game** — chỉ chưa bằng Necropolis và Conflux (0:09–0:31, nhắc lại ở 52:16).
+
+Chỗ khó không nằm ở chất lượng quân mà ở **quân bắn đến muộn**. Castle và Rampart có cung ngay từ cấp thấp, và có cung thì trận đầu hạn chế được mất quân — mà không mất quân mới đánh được nhiều trận liên tiếp, đó là lợi thế không hề nhỏ (1:17–1:33). Quân bắn đầu tiên của Dungeon là **Beholder cấp 3**, mỗi tuần chỉ thêm vài con, nên giai đoạn mở đường gần như chỉ còn Troglodyte với Harpy — toàn quân cận chiến (1:42–2:04).
+
+Quân cận chiến thì buộc phải lao vào đánh. Người mới chưa có nhiều chiến thuật nên rơi rụng quân liên tục, mà mất quân thì đứt chuỗi trận. Video chốt rằng đó đúng là tồn đọng của Necropolis và Dungeon **với người mới** — còn khi đã quen thành, có sẵn cách điều quân trong đầu, thì cũng chính thành này lại rất dễ chơi (2:12–2:31).
+
+### 💸 Nhược điểm của Dungeon — xây đắt, và quân chủ lực không kịp tuần 1
+
+Về công trình, video nói Dungeon có **rất ít nhược điểm**, và nhược điểm duy nhất là chi phí: thuộc hàng đắt, dù không phải đắt nhất game (0:45–1:02).
+
+Chỗ nghẽn thật là quân chủ lực mở đường. Các thành khác đều có một con lên được trong tuần 1 rồi đầu tuần 2 đã gây được uy: Castle có Cavalier · Tower có Genie · Rampart có Dendroid · Fortress có Wyvern (2:47–3:02). Dungeon thì cả Minotaur lẫn Manticore đều quá đắt để kịp, nên thành này **chủ yếu dựa vào quân cấp 1–2**, có khi cấp 3 (4:16–4:23).
+
+> [!bom] Số tiền nhà lính trong video lệch với wiki — lấy số của wiki
+> Video nói nhà Minotaur "4.000 tiền, ngoài ra cần thêm 10 ❓" và nhà Manticore "5 ❓ 5 ❓ với 5.000 tiền" (3:20–3:43). Đối chiếu wiki **01/10/2026 thì không khớp**:
+>
+> - **Labyrinth** (Minotaur, cấp 5) — 5.000 vàng + 5 gỗ + 5 đá + 5 thuỷ ngân + 5 lưu huỳnh; nâng cấp thêm 3.000 vàng + 5 mỗi loại.
+> - **Manticore Lair** (cấp 6) — 15.000 vàng + 15 gỗ + 15 đá + 20 lưu huỳnh.
+> - **Dragon Cave** (cấp 7) — 15.000 vàng + 15 gỗ + 15 đá + 20 lưu huỳnh.
+>
+> Phụ đề chỗ này vỡ tới mức không biết video đọc sai hay máy nghe sai, nên **không sửa lời video, chỉ ghi số đã kiểm**. Kết luận của video thì vẫn đứng: hai nhà lính cấp 6–7 đắt tới mức tuần đầu không có cách nào lên.
+
+Phần so sánh với thành khác — rằng tính riêng tiền thì quân cấp cao của Dungeon chỉ thua Cavalier của Castle (5.000 cộng thêm Stables 3.000) và Dread Knight của Necropolis (6.000) — dựa trên những con số **chưa kiểm được** ❓ (3:43–4:07).
+
+### 🏗️ Năm công trình riêng của Dungeon
+
+Đây là phần video dành nhiều thời gian nhất cho ưu điểm, và cả năm cái đều đã đối chiếu wiki 01/10/2026.
+
+| Công trình | Giá | Tác dụng (đã kiểm) | Video nói gì |
+|---|---|---|---|
+| **Battle Scholar Academy** | 1.000 vàng | +1.000 kinh nghiệm cho tướng ghé thăm | Xây ngay thì tướng **qua level 2 trong ngày đầu tiên** (4:47–5:02) |
+| **Mushroom Rings** | 1.000 vàng | Nhà horde — **+7 Troglodyte/tuần** (từ 14 lên 21) | Bù lại cho việc không lên nổi quân cấp 5–6: không có quân chất thì có quân đông (5:02–5:37) |
+| **Artifact Merchants** | 10.000 vàng | Cho tướng ghé thăm mua bán đồ | Ở bản **SoD** đây là chỗ sinh ra lối chơi mua rẻ bán đắt, có map còn kiếm được tiền khi không cần đồ — tới mức công trình này **từng bị cấm** một thời gian (5:45–6:10) |
+| **Portal of Summoning** | 2.500 vàng | Tuyển quân từ nhà lính ngoài thành đã cắm cờ | Công trình video khen nhiều nhất sau Mana Vortex — xem ngay dưới (6:10–7:48) |
+| **Mana Vortex** | 1.000 vàng | Hồi rồi **nhân đôi** mana của tướng ghé thăm, một lần mỗi tuần | Video gọi thẳng là **công trình mạnh nhất của Dungeon** (7:48–9:07) |
+
+**Portal of Summoning cộng quân ngay trong tuần xây** — đó là chỗ nó khác nhà lính thường. Nhà lính xây tuần 1 thì phải sang tuần 2 mới cộng quân; Portal of Summoning xây là có quân luôn trong tuần đó (7:01–7:17). Ví dụ video đưa: cắm được mỏ rồng ngoài bản đồ ở tuần 2 thì **tuần 2 đã có xác suất cầm 2 con rồng đi đánh**, trong khi tự lên Dragon Cave trong thành thì nhanh nhất cũng phải tuần 3 (6:19–6:51). Với mỏ quân cấp thấp hơn thì nó tương đương việc có thêm cả một tuần tăng quân (7:17–7:33).
+
+**Mana Vortex mạnh ngang Expert Intelligence** — vì nhân đôi mana chính là tác dụng của Expert Intelligence ở bản SoD, nên tướng phép Dungeon **bớt được một ô kỹ năng** để học thứ khác (8:28–8:44). Video nói thêm là tướng Warlock của Dungeon thiên về Spell Power nên Knowledge lên chậm hơn các thành khác, càng cần Mana Vortex ❓ (8:44–9:00).
+
+> [!info]- Ngoài nguồn — chỗ "+1 kiếm +1 giáp" không phải tác dụng của Battle Scholar Academy
+> Video nói xây công trình này thì tướng lên level 2 và "cộng một kiếm một giáp" (4:55). Theo wiki thì Battle Scholar Academy chỉ cho **+1.000 kinh nghiệm**; cái +1 chỉ số là **phần thưởng của việc lên level**, đúng như mọi lần lên level khác, không phải thứ công trình này cho thêm. Kết quả thực tế thì vẫn như video nói, chỉ là cơ chế khác.
+
+### 🦎 Troglodyte — quân chốt của Dungeon, yếu từng con nhưng đông và miễn nhiễm Blind
+
+Video thừa nhận Troglodyte thua mặt bằng quân cấp 1: speed 4, máu mỏng, kém hơn quân cấp 1 của Castle và kém Centaur của Rampart (10:18–10:40). Bù lại là **kỹ năng miễn nhiễm Blind** — video gọi đây là kỹ năng "rất hay" và là lý do con này vẫn có giá (10:40–10:47).
+
+Số lượng thì rất đông, video xếp chỉ thua quân cấp 1 của Castle ❓ (10:47–10:55). Và đông là một mối nguy thật với đối phương: không đánh thì nó tách nhỏ ra chặn chỗ, làm việc hồi sinh những quân mạnh như Angel trở nên khó ❓, lại còn lao lên áp sát quân bắn (11:04–11:20).
+
+| Chỉ số (kiểm 01/10/2026) | Troglodyte | Infernal Troglodyte |
+|---|---|---|
+| Kiếm / giáp | 4 / 3 | 5 / 4 |
+| Sát thương · máu | 1–3 · 5 | 1–3 · 6 |
+| Speed | **4** | **5** |
+| Tăng quân / tuần | 14 (21 khi có Mushroom Rings) | 14 (21 khi có Mushroom Rings) |
+| Giá | 50 vàng | 65 vàng |
+
+> [!info]- Ngoài nguồn — Troglodyte còn miễn nhiễm cả Stone Gaze, nhưng không miễn trói của Scorpicore
+> Video chỉ nói tới Blind. Wiki ghi kỹ năng là **"Immune to Blind and Stone Gaze"**: nó miễn luôn đòn hoá đá của Medusa và Basilisk — đúng chỗ [[#👁️ Beholder và Medusa — quân bắn của Dungeon đến muộn, và cái bẫy Stone Gaze|video cảnh báo là cái bẫy lớn nhất khi cày mỏ Medusa]]. Nhưng nó **không** miễn Paralyzing Venom của Scorpicore.
+
+### 🦅 Harpy Hag — con mà video coi là "quân bắn với mũi tên vô hạn"
+
+Đây là quân video đánh giá cao nhất của thành: gần như không có nhược điểm nào đáng kể (11:27–11:35).
+
+Cơ chế gốc là **đánh rồi tự bay về chỗ cũ**. Bản thường vẫn bị phản đòn trước khi về; bản nâng cấp **Harpy Hag thì không bị phản đòn** — nên nó đánh xong là về chỗ an toàn, không mất máu, và lặp lại vô hạn lượt. Video nói thẳng là với người có kinh nghiệm thì nó "không khác gì quân bắn với mũi tên vô hạn", mà còn hơn quân bắn thật vì **quân bắn còn hết tên** (12:22–12:46).
+
+**HotA thêm quyền chọn không bay về.** Bản cũ buộc phải quay lại; HotA cho chọn đứng lại tại chỗ, nên khi cần áp sát chặn quân bắn của đối phương thì đứng luôn ở đó (11:57–12:22). Hai lối dùng mà video tách rõ:
+
+- **Trận đánh quái cận chiến** — Harpy là quân chủ lực, đánh và chạy.
+- **Trận đánh có quân bắn** — Harpy bay lên áp sát để chặn, cho quân khác tiến lên.
+
+Dùng Harpy để cày những cụm quái rất đông — video lấy ví dụ hàng trăm Dendroid (12:46–13:02). Và nó kết hợp với Troglodyte ra nhiều chiến thuật: tách một tốp Troglodyte nhỏ làm mồi nhử cho quái đánh, hoặc dùng Harpy bay chặn (13:02–13:16).
+
+| Chỉ số (kiểm 01/10/2026) | Harpy | Harpy Hag |
+|---|---|---|
+| Kiếm / giáp | 6 / 5 | 6 / 6 |
+| Sát thương · máu | 1–4 · 14 | 1–4 · 14 |
+| Speed | 6 | **9** |
+| Kỹ năng | Bay · đánh rồi về · **vẫn bị phản đòn** | Bay · đánh rồi về · **không bị phản đòn** |
+| Giá | 130 vàng | 170 vàng |
+
+### 🏔️ Chọn địa hình trước khi đánh — kỹ thuật mà Dungeon bắt buộc phải biết
+
+Gần chín phút giữa clip (13:32–22:10) là một màn demo trong game về đúng một chuyện: **bãi chiến trường ra địa hình gì quyết định trận đánh**. Video nói Castle hay Rampart đôi khi không cần quan tâm, nhưng thành nhiều quân cận chiến như Necropolis và Dungeon thì buộc phải để ý (13:39–13:47, 21:46–22:02).
+
+Luật mà video rút ra ngược với trực giác — **bãi "xấu" nhiều vật cản mới là bãi tốt cho Dungeon**:
+
+- **Quái đứng giữa đồng trống** → bãi gần như luôn ra trống trải → Harpy không còn chỗ đứng ngoài tầm với, quân địch đuổi tới được. **Tránh những cụm này.**
+- **Quái đứng sát núi, sát vật cản** → tỉ lệ ra bãi nhiều vật cản cao → đúng bãi để Harpy đánh và chạy. **Ưu tiên đánh những cụm này** để lấy kinh nghiệm, kiếm giáp, đồ và tài nguyên (14:12–15:09, 19:09–19:26).
+
+Vì sao vật cản lại có lợi: vật cản chặn đường đi trên mặt đất, nên quân địch speed cao phải chạy vòng — chỗ lẽ ra bốn ô thì thành rất xa. Harpy bay qua được nên không bị chặn, còn quân đuổi theo thì bị (15:09–15:26).
+
+Cơ chế cụ thể thì phụ đề vỡ: video nói Harpy phải đứng ngoài khoảng hai lượt di chuyển của quân địch ❓, nhưng quân speed cao vẫn đuổi chéo tới được nên trên bãi trống là hết chỗ đứng (15:58–16:21, 20:44–21:16). Có một chi tiết nữa video nói mà **chưa kiểm được**: quân di chuyển thì "luôn ưu tiên theo chiều kim đồng hồ" ❓ (20:29–20:44).
+
+Kết luận thực hành của cả đoạn: với Dungeon thì **quan sát địa hình trước khi quyết có đánh hay không** là một phần của trận đánh, không phải việc làm thêm — nó vừa nâng tỉ lệ thắng vừa giảm mất quân (21:46–22:10).
+
+### 👁️ Beholder và Medusa — quân bắn của Dungeon đến muộn, và cái bẫy Stone Gaze
+
+Lên Beholder rất tốn tài nguyên, nên thường để **tuần 2**; tuần 1 dồn cho Harpy (23:13–23:28). Với người chơi kỳ cựu thì Dungeon **không phụ thuộc vào quân bắn nữa** — chủ yếu vẫn là Troglodyte với Harpy, còn Beholder chỉ để hút sát thương (37:34–37:57).
+
+Cả Beholder và Medusa đều **không bị giảm sát thương khi đánh cận chiến**, nên bị áp sát cũng không sao (25:30–25:37) — đã kiểm, cả hai đúng là có "No melee penalty".
+
+**Stone Gaze của Medusa là chỗ video cảnh báo nặng nhất.** Mỏ Medusa thường là mỏ phải đánh sớm để lấy tài nguyên mua quân, mà nếu quân chủ lực bị hoá đá thì mất quân rất nhiều — và tệ hơn, chính quân chủ lực của bạn có thể bị hoá đá nếu không đánh chết Medusa ngay lượt đó (26:02–27:06).
+
+> [!bom] Hoá đá thì quái có phản đòn không — video nói không, wiki chưa chốt
+> Video nói quân bị hoá đá thì **không phản đòn được** (25:45–25:52). Wiki 01/10/2026 ghi Stone Gaze là **20% hoá đá trong 3 lượt**, quân bị hoá đá **không di chuyển được, chỉ nhận 50% sát thương, và hết hoá đá ngay khi bị đánh** — nhưng *không* nói rõ chuyện phản đòn. Giữ ❓: đây là điểm phải mở game ra thử mới chốt được.
+
+Một chỗ nữa video **tự nhận là không nhớ**, và đó là thông tin đáng giữ nguyên: liệu "ngọc đỏ" ❓ có chặn được Stone Gaze không. Video đoán là không, vì theo tác giả nó chỉ chặn phép chứ không chặn kỹ năng hay aura (26:10–26:41).
+
+### ⚡ Vì sao vẫn phải nâng lên Black Dragon — chuyện speed, và cái bẫy Hill Fort
+
+Black Dragon **speed 15**, Red Dragon chỉ 11. Video nói đó mới là lý do thật để nâng cấp: nó bảo đảm Dungeon giành được lượt đi trước Angel (speed 12) và trước quân cấp 7 của Fortress, Stronghold (24:13–24:55).
+
+Lý do đằng sau là **không nâng cấp quân cấp cao ở ngoài thành được**, nên muốn có speed thì phải xây nhà nâng cấp trong thành (24:05–24:13).
+
+> [!bom] Video nói Hill Fort của HotA chỉ nâng tới cấp 4 — wiki ghi cấp 1–5
+> Đối chiếu 01/10/2026: **New Hill Fort** của HotA nâng được quân **cấp 1–5** với giá gấp đôi, và **cấp 6–7 thì không nâng được**. Video nói "bốn thôi" (24:10) — lệch một cấp. Nhưng **kết luận của video vẫn đúng y nguyên, và còn đúng mạnh hơn**: Manticore (cấp 6) với Dragon (cấp 7) của Dungeon rơi đúng vào khoảng không nâng được, nên bắt buộc phải xây trong thành.
+
+> [!info]- Ngoài nguồn — Black Dragon không phải con cấp 7 nhanh nhất
+> Video chỉ so với Angel 12 và với Fortress, Stronghold, và ở phạm vi đó thì đúng. Nhưng Archangel **speed 18** — nhanh hơn Black Dragon 15. Nghe video dễ hiểu thành "lên rồng là luôn đi trước", không phải vậy.
+
+### 🐂 Minotaur — quân cấp 5 đánh đau nhất, và lý do đối phương sợ Dungeon
+
+Video gọi Minotaur là con mà **người đánh với Dungeon phải sợ**: sát thương cao nhất trong các quân cấp 5, speed cao, và **luôn có morale dương** (27:06–27:38). Gặp Minotaur khi đang mở đường là rất mạo hiểm vì nó lao thẳng tới quân bắn của bạn, chiến thuật nào cũng khó (27:53–28:17).
+
+| Chỉ số (kiểm 01/10/2026) | Minotaur | Minotaur King |
+|---|---|---|
+| Kiếm / giáp | 14 / 12 | 15 / 15 |
+| Sát thương · máu | 12–20 · 50 | 12–20 · 50 |
+| Speed | 6 | **8** |
+| Kỹ năng | Morale luôn ≥ +1, miễn gần hết các đòn hạ morale | Như trên |
+| Giá · tăng quân | 500 vàng · 3/tuần | 575 vàng · 3/tuần |
+
+Đoạn so sánh với Dendroid thì có một ý hay: Dendroid có **chỉ số trên giấy cao hơn** (video xếp hạng hai trong quân cấp 5), nhưng **trong trận thực tế lại không đáng sợ bằng Minotaur** — vì Dendroid chậm, mà Harpy thì ngay lượt đầu đã xử được nó (28:25–28:57). Con mà video xếp trên cả Minotaur và Dendroid là "con bò của Fortress" ❓ — chưa giải mã được là Basilisk hay Gorgon (28:17–28:33).
+
+### 🦂 Scorpicore và Black Dragon — trói quân, và con duy nhất miễn nhiễm Implosion
+
+**Scorpicore là con video đánh giá thấp nhất thành.** Máu yếu, và kỹ năng trói chỉ theo tỉ lệ nên không bao giờ chắc (28:57–29:14, 31:25–31:42). Nhưng video đưa ra một cách dùng rất cụ thể: đừng dùng nó để đánh, hãy **mang nó đi để trói quân chủ lực của đối phương** — chỉ cần trói trúng một lượt là khoá được vài lượt, còn để nó xông vào đánh quân yếu thì vừa không ăn thua gì vừa dễ mất quân (31:42–32:20). Đã kiểm: Paralyzing Venom là **20%, khoá tới 3 lượt**, Scorpicore speed 11.
+
+**Black Dragon miễn nhiễm mọi phép** — video nói "kháng phép đến cấp 5", mà game chỉ có 5 cấp phép, nên ý là toàn bộ (29:14–29:23). Đây là chỗ lập luận hay nhất của cả clip, và nó khớp đúng với [[#⚠️ Nhược điểm của Rampart — quân cấp 6–7 đắt, quân chậm, rồng hớ phép cấp 5|chỗ video 2 nói Gold Dragon hớ phép cấp 5]]:
+
+- Trong PvP, phép dùng nhiều nhất lên quân chủ lực là **Implosion** (video gọi là "đổ dầu" — [[#🕯️ Meteor Shower, Sorrow, Implosion — và vì sao Implosion là phép đau nhất|đã xác nhận bằng công thức ở video 6]]), vì nó dồn sát thương vào một mục tiêu.
+- Gold Dragon của Rampart miễn phép cấp 1–4 nên **vẫn chết vì Implosion**. Black Dragon miễn tất, nên là **con cấp 7 duy nhất Implosion không chạm được** (29:23–29:47).
+- Đổi lại, miễn mọi phép nghĩa là **không hồi sinh được** — video nhận đó là nhược điểm thật của nó (30:03–30:11).
+
+Và video so thẳng hai lựa chọn: nếu đã có Implosion thì thường **nên đánh Implosion hơn là hồi sinh**, vì hồi sinh hai con Angel không bù lại được lượng sát thương Implosion gây ra cho năm con rồng hay năm con Scorpicore đối phương (30:19–30:44).
+
+> [!warning] Lợi thế này tắt sạch khi có "ngọc đỏ" ❓
+> Video nói rõ: trong trận mà tướng cầm "ngọc đỏ" ❓ thì **không ai dùng phép được**, nên ưu thế kháng phép của Black Dragon biến mất — chỉ còn lại một con 300 máu đánh 40–50, vẫn khoẻ nhưng không còn đặc biệt (30:44–31:09). Chưa chốt được "ngọc đỏ" là đồ gì, xem bảng giải mã.
+
+### 📊 Tổng kết chất lượng quân Dungeon theo video
+
+Video tự chốt: xét riêng mặt bằng chỉ số thì Dungeon hay bị xếp vào hàng yếu, nhưng **xét cả kỹ năng đặc biệt thì chất lượng quân khá tốt** — mỗi con có ưu nhược riêng và con nào cũng có việc của nó (22:50–23:04, 31:09–31:25). Con yếu nhất thành là Manticore (31:25–31:33).
+
+Nhưng điểm quan trọng nhất của cả clip là câu ngay sau đó: **những ưu điểm về quân này vẫn chưa phải chỗ làm Dungeon mạnh** (32:20–32:36). Chỗ đó là dàn tướng.
+
+### ⚔️ Tướng chiến Dungeon — Tactics cộng luyện quân là chỗ mạnh thật của thành
+
+Video trả lời trực tiếp câu "vì sao Dungeon mạnh dù quân cấp 1 yếu": vì **chưa thành nào có dàn tướng hỗ trợ quân nhiều như Dungeon**, và đa số tướng chiến của thành đều có **Tactics** (32:43–33:08).
+
+Vì sao Tactics ăn khớp với Dungeon: Expert Tactics cho dàn quân tiến lên **7 ô** trước khi trận bắt đầu, nên quân cận chiến chậm của Dungeon không còn bị quân bắn cắt tiết lượt đầu. Video nói thực tế chỉ cần **5 ô là đã tránh được loạt bắn đầu tiên** (33:38–33:52).
+
+| Tướng | Chuyên | Kỹ năng đầu | Video nói gì |
+|---|---|---|---|
+| **Shakti** | Troglodytes | Offense · **Tactics** | Tướng video gọi là **huyền thoại và mạnh nhất thành**. Chuyên Troglodyte cho **+1 speed**, đẩy Infernal Troglodyte từ 5 lên 6 — đủ để nhường lượt đi sau quân bắn rồi áp vào (33:52–34:48). Ở bản gốc một mình nó gom được ~120 quân ngay ngày đầu, mua thêm tướng trong thành thì lên hơn 150 Troglodyte ❓ (35:05–35:22) |
+| **Gunnar** | Logistics | **Tactics** · Logistics | Video xếp cùng hàng Dessa và Kyrre — **một trong những tướng mở đường nhanh nhất game**, chỉ thua dòng tướng Necropolis (35:29–35:44, 39:46–39:54). Mở đường nhanh thì có tài nguyên mua Troglodyte với Harpy sớm (35:44–35:58) |
+| **Lorelei** | Harpies | Leadership · Scouting | Cộng kiếm giáp cho Harpy và **+1 speed, đẩy Harpy Hag từ 9 lên 10** (36:07–36:23). Video xếp vào hàng mạnh nhất thành, dù không nổi tiếng bằng Shakti |
+| **Arlach** | Ballista | Offense · **Artillery** | Có Ballista ngay từ đầu để hỗ trợ đánh. Mẹo video đưa: dùng **Ballista làm mồi nhử** hút quái lao vào, để Harpy với Troglodyte tự chọn đánh con nào (36:32–36:55) |
+| **Dace** | Minotaurs | **Tactics** · Offense | Nếu tuần 1 gặp được mỏ Minotaur ngoài bản đồ thì Dace rất mạnh: Minotaur vốn đã khoẻ, cộng thêm kiếm giáp và Tactics (37:02–37:27) |
+| **Ajit** | Beholders | Leadership · **Interference** (HotA) | Ở bản cũ được ưu ái hơn; bản này Beholder ít được dùng nên Ajit mất giá. Nhưng HotA **đổi kỹ năng đầu của nó từ Resistance sang Interference** — Expert Interference hạ **30% power của tướng đối phương**, làm chênh lệch phép gần như mất, lúc đó ai nhiều kiếm giáp hơn thì người đó lợi (37:34–38:43). Đã kiểm cả hai: đúng là thay đổi riêng của HotA, và đúng 30% |
+| **Damacon** | Gold | Advanced Offense | **+350 vàng mỗi ngày** — video nói ngày đầu tiên thì không gì quan trọng bằng tiền, vì có tiền là mua quân và mua thêm tướng đi đánh sớm (39:06–39:29). Đã kiểm: 350 đúng |
+| **Synca** | Manticores | Leadership · **Scholar** | Video xếp thấp: Manticore không phải quân chủ lực nên Synca **chỉ còn vai chở quân** (40:48–41:05) |
+
+**Chỗ Scholar của Synca là một lập luận đáng giữ.** Với Tower thì Scholar có ích, vì ngày đầu mua một tướng phép có sẵn phép quan trọng rồi cho đứng ở thành để mọi tướng khác học lại. Với Dungeon thì gần như vô dụng: tướng Overlord **không có sách phép**, phải mua thêm **500 vàng** mới có sách rồi mới nhận truyền phép được — quá đắt trong những ngày đầu (41:12–41:42).
+
+> [!tip] Chỗ video tự nhận là suy đoán, chưa test — về Gunnar
+> Video kể hai trận tự chơi thì **Gunnar đều lên kỹ năng xấu**, và điểm chung là cả hai lần đều cố ép nó lên Archery để đánh Cyclops với Titan. Tác giả **suy đoán** rằng Gunnar không nên lên Archery vì có thể vì thế mà mất cơ hội học kỹ năng tốt, nhưng nói rõ là **chưa test**, và mời người xem có kinh nghiệm chia sẻ ở phần bình luận (40:02–40:48). Giữ nguyên dạng giả thuyết, đừng ghi thành luật.
+
+### 🔮 Tướng phép Dungeon — Alamar, Jeddite và phép hồi sinh nhân theo level
+
+Dungeon có **hai tướng chuyên Resurrection: Alamar và Jeddite** (43:01–43:18) — đã kiểm, đúng là cả hai.
+
+Vì sao chuyên hồi sinh lại mạnh đến thế: hiệu ứng chuyên cộng **3% cho mỗi đơn vị của tỉ lệ (level tướng ÷ level quân được hồi)**. Video tính ra hai ví dụ, và hai ví dụ này nói hết câu chuyện:
+
+- **Hồi sinh quân cấp 1** — Alamar level 30, tỉ lệ 30 ÷ 1 = 30, nên cộng 3 × 30 = **90%**. Phép hồi ~500 máu thành ~950 máu, **gần gấp đôi** (43:33–44:05).
+- **Hồi sinh quân cấp 7** — 30 ÷ 7 ≈ 4 (lấy tròn), nên chỉ cộng 3 × 4 = **12%**, từ ~500 lên ~560 (44:05–44:21).
+
+Tức là chuyên hồi sinh **càng mạnh với quân cấp thấp** — mà quân chủ lực của Dungeon đúng là Troglodyte cấp 1. Hai thứ ăn khớp nhau rất gọn.
+
+> [!info]- Ngoài nguồn — con số 500 máu của video khớp với Expert Resurrection
+> Wiki 01/10/2026: Resurrection là phép **Earth cấp 4**, mana 20/16, hồi **160 + (spell power × 50)** ở bậc Expert. Với spell power 7 thì ra 510 — đúng con số tròn 500 mà video dùng làm ví dụ. Còn **công thức 3% theo tỉ lệ level thì chưa đối chiếu được** ❓, chỉ biết hai ví dụ video tính ra là nhất quán với nhau.
+
+| Tướng phép | Chuyên | Video nói gì |
+|---|---|---|
+| **Alamar** · **Jeddite** | Resurrection | Hai tướng mạnh nhất nhóm phép, càng lên level càng khoẻ. Hồi sinh là phép rất hay dùng cả ở PvP lẫn map lớn (44:21–44:38) |
+| **Jaegar** | Mysticism | Ở bản cũ ít dùng, nhưng video nói Mysticism **rất cần cho giai đoạn đầu**: đánh quái mở đường thì hết mana, không có giếng là phải về thành hoặc đổi tướng. Video nói Expert hồi **15 mana/ngày**, Jaegar chuyên thì lên **33 mana/ngày** ❓ (44:38–45:18) |
+| **Geon** | Eagle Eye | Video gọi Eagle Eye là **kỹ năng phí nhất**, và nhắc rằng ở gần như mọi map campaign nó bị gạt ra ❓ (45:43–46:31) |
+| **Deemer** | Meteor Shower | Ngày đầu **không dùng được vì chưa đủ mana** — nên Mana Vortex quan trọng với Deemer hơn mọi tướng khác (46:40–46:57). Nhưng về sau rất mạnh: cũng cộng **3%/level** như hồi sinh, nên ở level 30 thì +90% sát thương, biến Meteor Shower thành "Implosion nhưng lan 7 ô" (46:57–48:13) |
+| **Sephinroth** | Crystal | Video không nói tới |
+| **Darkstorn** | Stone Skin | Video chỉ nói về **Learning** — xem mục ngay dưới |
+| **Malekith** | Sorcery | Video không nói tới |
+
+**Vì sao Deemer ăn khớp riêng với Dungeon:** Meteor Shower lan ra ô đích cộng các ô quanh nó, tổng 7 ô. Nếu Dungeon có một tướng Tactics cao để đi trước, thì ngay lượt đầu quân đã tiến sâu tới ô thứ ba, thứ tư, lúc đó đội hình đối phương thường có 3 cụm quân đứng sát nhau — một phát Meteor Shower ăn cả ba (48:13–48:38). Đã kiểm: Meteor Shower là **Earth cấp 4, mana 16/12, lan ô đích cộng các ô kề, đúng 7 ô**; riêng con số **"24 mana" mà video nói thì không khớp** ❓.
+
+Video cũng tự nhận giới hạn của Deemer: trong công thành thì thường **không kịp dùng hết tiềm năng**, vì PvP hay kết thúc quanh level 30 và không có thời gian nuôi tướng phép đến mức đó (48:38–49:02).
+
+### 📈 Darkstorn và Learning — vì sao Dungeon cần lên level nhanh hơn các thành khác
+
+Đoạn cuối là lập luận riêng của video, và nó móc ngược về toàn bộ phần tướng chiến: với Dungeon thì **Learning mạnh hơn ở các thành khác**.
+
+Lý do: tướng Dungeon chuyên luyện quân, mà **mỗi điểm kiếm giáp của tướng đều chảy thẳng vào quân** qua hiệu ứng chuyên. Lên level nhanh hơn nghĩa là chỉ số tăng nhanh hơn, nghĩa là Troglodyte với Harpy khoẻ hơn — trong khi ở thành chỉ cộng kiếm giáp suông thì Learning chỉ là cộng kiếm giáp suông (49:44–50:41).
+
+Video lấy ví dụ bằng Shakti: thay vì level 30 thì nhờ Learning lên được level 40–50, kiếm giáp cộng cho **lượng Troglodyte rất đông** tăng lên rất nhiều. Và vì Dungeon **dễ gặp nhiều mỏ Troglodyte ngoài bản đồ**, lượng quân đó lại càng lớn (50:41–51:18). Tác giả còn so: mức tăng đó "khác gì có thêm một món đồ" ❓ (51:18–51:35).
+
+Chốt của đoạn: Dungeon là thành **mạnh về Spell Power** ❓ (51:35–51:42).
+
+### 🏁 Chốt — Dungeon gần như không có điểm yếu với người chơi có kinh nghiệm
+
+Video tự tổng kết: xét cả quân và tướng thì Dungeon **gần như không có nhiều điểm yếu, mà có rất nhiều điểm mạnh**. Người mới thấy khó vì quen phụ thuộc vào cung và vào một con quân chủ lực mở đường; người chơi lâu năm thì thấy thành này có quá nhiều ưu điểm để không nằm trong nhóm mạnh nhất game (51:42–52:08).
+
+Tác giả cũng nói rõ giới hạn của chính clip: vì không có nhiều thời gian nên **đây chỉ là phần chia sẻ cơ bản**, chưa đào sâu về thành này, và mời người xem có kinh nghiệm bổ sung ở phần bình luận (52:08–52:39).
+
+### 🎥 Mốc thời gian — video 8
+
+| Mốc | Nội dung |
+|---|---|
+| 0:00 | Mở đầu — Dungeon khó với người mới nhưng là một trong những thành mạnh nhất |
+| 0:45 | Bắt đầu phần công trình — nhược điểm duy nhất là xây đắt |
+| 1:10 | Vì sao Castle và Rampart dễ chơi: có cung từ cấp thấp |
+| 1:42 | Dungeon chỉ có quân bắn từ cấp 3, giai đoạn đầu toàn cận chiến |
+| 2:47 | Các thành khác đều có quân chủ lực lên được tuần 1 — Dungeon thì không |
+| 3:20 | Tiền nhà Minotaur và nhà Manticore (số liệu lệch, xem callout) |
+| 4:39 | Bắt đầu phần ưu điểm công trình |
+| 4:47 | Battle Scholar Academy — tướng qua level 2 ngày đầu |
+| 5:02 | Mushroom Rings — bù quân đông cho việc thiếu quân chất |
+| 5:45 | Artifact Merchants — và chuyện từng bị cấm ở bản SoD |
+| 6:10 | Portal of Summoning — cộng quân ngay trong tuần xây |
+| 7:48 | Mana Vortex — công trình mạnh nhất của thành |
+| 9:30 | Bắt đầu phần phân tích từng quân |
+| 10:18 | Troglodyte — speed 4, máu mỏng, nhưng miễn nhiễm Blind |
+| 11:27 | Harpy — con gần như không có nhược điểm |
+| 11:57 | HotA cho Harpy chọn không bay về |
+| 12:30 | Harpy như "quân bắn với mũi tên vô hạn" |
+| 13:32 | Mở màn demo địa hình |
+| 14:12 | Luật địa hình — quái đứng sát núi mới là quái nên đánh |
+| 15:09 | Vì sao vật cản có lợi cho Harpy |
+| 20:29 | Chuyện quân đi theo chiều kim đồng hồ ❓ |
+| 21:46 | Chốt đoạn địa hình |
+| 22:33 | Chuyện speed và lượt đi trước |
+| 23:13 | Beholder — để tuần 2, tuần 1 dồn cho Harpy |
+| 24:05 | Hill Fort và chuyện không nâng được quân cấp cao |
+| 24:13 | Vì sao vẫn phải nâng lên Black Dragon — speed 15 |
+| 25:30 | Beholder và Medusa không bị giảm sát thương cận chiến |
+| 25:45 | Stone Gaze — và chuyện phản đòn |
+| 26:10 | "Ngọc đỏ" ❓ có chặn được Stone Gaze không — video không nhớ |
+| 26:41 | Cái bẫy khi đánh mỏ Medusa sớm |
+| 27:06 | Minotaur — quân đáng sợ nhất của Dungeon |
+| 28:25 | So Minotaur với Dendroid — chỉ số trên giấy và thực tế |
+| 28:57 | Scorpicore — con yếu nhất thành, dùng để trói |
+| 29:14 | Black Dragon miễn nhiễm mọi phép |
+| 30:19 | Chọn Implosion hay hồi sinh |
+| 30:44 | "Ngọc đỏ" ❓ tắt sạch lợi thế kháng phép |
+| 31:09 | Tổng kết chất lượng quân |
+| 31:42 | Cách dùng Scorpicore đúng — trói, không đánh |
+| 32:36 | Chuyển sang phần tướng |
+| 32:43 | Vì sao Dungeon mạnh: dàn tướng hỗ trợ quân |
+| 33:38 | Tactics — 7 ô, mà chỉ cần 5 ô là đủ |
+| 33:52 | Shakti — tướng huyền thoại của thành |
+| 35:29 | Gunnar — Logistics, cùng hàng Dessa và Kyrre |
+| 36:07 | Lorelei — Harpy Hag speed 9 lên 10 |
+| 36:32 | Arlach — Ballista làm mồi nhử |
+| 37:02 | Dace — mạnh nếu tuần 1 gặp mỏ Minotaur |
+| 37:34 | Ajit — mất giá ở bản này, nhưng có Interference |
+| 38:30 | Interference Expert hạ 30% power tướng địch |
+| 39:06 | Damacon — +350 vàng/ngày |
+| 40:02 | Chuyện Gunnar lên kỹ năng xấu — tác giả tự nhận là suy đoán |
+| 40:48 | Synca — chỉ còn vai chở quân |
+| 41:12 | Vì sao Scholar vô dụng với Dungeon |
+| 43:01 | Chuyển sang tướng phép |
+| 43:18 | Công thức chuyên hồi sinh — 3% theo tỉ lệ level |
+| 44:38 | Jaegar — Mysticism cho giai đoạn mở đường |
+| 45:43 | Geon — Eagle Eye, kỹ năng phí nhất |
+| 46:40 | Deemer — ngày đầu thiếu mana, về sau rất mạnh |
+| 48:13 | Vì sao Meteor Shower ăn khớp với Tactics của Dungeon |
+| 49:36 | Darkstorn và Learning |
+| 49:44 | Vì sao Learning mạnh riêng với Dungeon |
+| 51:42 | Chốt — Dungeon gần như không có điểm yếu |
+| 52:08 | Tác giả nói rõ clip chỉ ở mức cơ bản |
+
+### ❓ Bảng giải mã phụ đề — video 8 (Dungeon)
+
+> [!tip] Phiên này mở được wiki, nên bảng này có cột "Xác nhận" thật
+> Khác [[#❓ Bảng giải mã phụ đề — video 7 (Necropolis)|bảng của video 7]] (phiên đó không ra được mạng), lần này **13 tên tướng và toàn bộ tên quân, tên công trình đã đối chiếu `heroes.v.thelazy.net` ngày 01/10/2026**. Chỗ nào còn ❓ là chỗ thật sự chưa kiểm được, không phải chỗ chưa kịp kiểm.
+
+**Tên tướng — phần phụ đề vỡ nặng nhất của video này.** Cả 13 tên đều nghe ra sai, nhưng **chuyên môn mà video mô tả thì khớp một-một với hồ sơ tướng trên wiki**, nên gần như tên nào cũng chốt được:
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "sắc tim" · "sắc teen" · "sexy" · "shopee" · "sắp tin" | **Shakti** | **Xác nhận** — chuyên Troglodytes, có Offense + Tactics, khớp đúng mô tả "+1 speed cho con chốt" |
+| "tu na" · "Yoona" · "choona" · "cún An" | **Gunnar** | **Xác nhận** — chuyên Logistics, có Tactics + Logistics; video xếp cạnh Dessa và Kyrre, đúng ba tướng chuyên Logistics |
+| "con dasa" | **Dessa** (Stronghold) | **Xác nhận** — tướng chuyên Logistics, không thuộc Dungeon |
+| "con kia Lê" | **Kyrre** (Rampart) | **Xác nhận** — tướng chuyên Logistics của Rampart |
+| "Alex" · "Alice" (chỗ nói về Ballista) | **Arlach** | **Xác nhận** — chuyên Ballista, có Offense + Artillery |
+| "đang C" · "Honda C" · "đa C" · "tu ne sais" | **Dace** | **Xác nhận** — chuyên Minotaurs, có Tactics + Offense |
+| "Tự Nguyện mắt" · "ấn tượng Alice" · "axit" | **Ajit** | **Xác nhận** — chuyên Beholders; và HotA đúng là đổi kỹ năng đầu của Ajit từ Resistance sang **Interference**, khớp đúng chỗ video nói |
+| "cộng 350 tiền" (không nêu tên) | **Damacon** | **Xác nhận** — chuyên Gold, đúng +350 vàng/ngày |
+| "sinh ca" | **Synca** | **Xác nhận** — chuyên Manticores, và có **Basic Scholar**, khớp đúng đoạn video bàn về Scholar |
+| "Sola" | **Scholar** (kỹ năng, không phải tên tướng) | **Xác nhận** — Synca có Basic Scholar, và cả đoạn 41:12 nói về chuyện truyền phép, đúng tác dụng của Scholar |
+| "enim A" · "con enema" · "con từ arama" | **Alamar** | **Xác nhận** — chuyên Resurrection |
+| "Credit" | **Jeddite** | **Xác nhận** — tướng Dungeon thứ hai chuyên Resurrection, khớp chỗ video nói "hai con chuyên hồi sinh" |
+| "có DK" · "bikini Kasim" · "vào SIM" | **Jaegar** / **Mysticism** | **Xác nhận** — Jaegar chuyên Mysticism và có Basic Mysticism |
+| "con ghi âm" | **Geon** | **Xác nhận** — chuyên Eagle Eye, có Basic Eagle Eye |
+| "đi mia" · "mê đi mia" · "Metal show" · "Mitsu" | **Deemer** / **Meteor Shower** | **Xác nhận** — Deemer chuyên Meteor Shower |
+| "Doctor làm chứng" | **Darkstorn** | **Xác nhận tên, lệch phần chuyên** — Darkstorn có **Basic Learning** (khớp cả đoạn video bàn về Learning) nhưng chuyên của nó là **Stone Skin**, không phải Learning. Video chỉ nói về Learning |
+
+**Tên quân, công trình và cơ chế:**
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "thành rồng đen" · "thành dùng đen" · "thành gấu đen" · "thằng bóng đen" | **Dungeon** | **Xác nhận** — cả clip nói về một thành, lineup khớp đúng Dungeon |
+| "con chốt" · "con chút" · "con lợn chút" | **Troglodyte / Infernal Troglodyte** | **Xác nhận** — speed 4, miễn nhiễm Blind, nhà horde cộng quân |
+| "con gà" · "con gà hấp" | **Harpy / Harpy Hag** | **Xác nhận** — bay, đánh rồi về, bản nâng cấp không bị phản đòn, HotA cho chọn không về |
+| "con mắt" | **Beholder / Evil Eye** | **Xác nhận** — quân bắn cấp 3, no melee penalty |
+| "Misa" · "marisa" · "mỏ Lisa" · "con presides" | **Medusa / Medusa Queen** | **Xác nhận** — quân bắn cấp 4 có Stone Gaze |
+| "con trâu" · "con Châu" | **Minotaur / Minotaur King** | **Xác nhận** — cấp 5, morale luôn dương, sát thương 12–20 |
+| "con sư tử" | **Manticore / Scorpicore** | **Xác nhận** — cấp 6, bay, có Paralyzing Venom ("skin trói") |
+| "con rồng" · "rồng đen" | **Red Dragon / Black Dragon** | **Xác nhận** — Black Dragon speed 15, 300 máu, 40–50 sát thương, miễn nhiễm mọi phép |
+| "con bò Về của Thành đầm lầy" · "Kino bò bigsize" | **Quân cấp 5–6 của Fortress** ❓ | **Đoán** — không chốt được là Greater Basilisk (cấp 5) hay Mighty Gorgon (cấp 6). Video dùng nó làm mốc "con cấp 5 đáng sợ nhất" |
+| "con ma cây" | **Dendroid Guard** (Rampart) | **Xác nhận** — cấp 5, chậm, chỉ số trên giấy cao |
+| "battling cadivi" · "gọi C ngày" | **Battle Scholar Academy** | **Xác nhận** — 1.000 vàng, +1.000 kinh nghiệm |
+| "mushroom Vinh" | **Mushroom Rings** | **Xác nhận** — 1.000 vàng, +7 Troglodyte/tuần |
+| "elf Amazon" · "chợ bán đồ" | **Artifact Merchants** | **Xác nhận** — 10.000 vàng |
+| "vô thân sum an ninh" · "form of some Linh" · "phốt lung linh" | **Portal of Summoning** | **Xác nhận** — 2.500 vàng, tuyển quân từ nhà lính ngoài thành |
+| "marabunta" · "Monaco Attack" · "dromark" | **Mana Vortex** | **Xác nhận** — 1.000 vàng, hồi rồi nhân đôi mana, một lần mỗi tuần |
+| "ta tích" · "thật tích" · "taxi" | **Tactics** | **Xác nhận** — Expert cho tiến 7 ô |
+| "intervene sim" · "interferes" | **Interference** | **Xác nhận** — kỹ năng riêng của HotA, Expert hạ 30% power tướng địch |
+| "đổ dầu" · "đầu dầu" | **Implosion** | **Xác nhận** — đã chốt bằng công thức ở [[#❓ Bảng giải mã phụ đề — video 6 (Spells)\|bảng giải mã video 6]] |
+| "numerous panty" | **No melee penalty** | **Xác nhận** — Beholder và Medusa đều có |
+| "nhà ấp quân" · "nhà gỗ" | **Hill Fort / New Hill Fort** | **Xác nhận công trình, lệch con số** — HotA nâng được cấp 1–5, không phải cấp 1–4 như video nói; cấp 6–7 thì không nâng được |
+| "bản sao đâu ghét" · "bản Shinzo két" · "bản sau động đất" · "bản sẽ lép" | **Shadow of Death** (bản gốc) | **Xác nhận** — khớp âm "Shadow of Death", và khớp mọi chỗ video đối lập nó với "bản hot / Honda / bảng hoa" (HotA) |
+| "ngọc đỏ" | **Một món đồ chặn toàn bộ việc dùng phép** ❓ — có thể là **Orb of Inhibition** | **Đoán** — khớp vai trò (video nói nó làm cả hai bên không dùng được phép) và Orb of Inhibition đúng là đồ chặn phép của HotA, nhưng **chưa mở trang đồ ra đối chiếu**. Video cũng tự không chắc nó có chặn được Stone Gaze không |
+| "15 mana/ngày" · "33 mana/ngày" (Mysticism) | Số liệu **Mysticism bản SoD** ❓ | **Lệch với HotA** — SoD: Expert hồi 30% mana, tối thiểu 15/ngày (khớp số video nói). **HotA đã sửa thành 2/3/4 mana/ngày**, nên con số của video chỉ đúng với bản gốc. Riêng mốc 33/ngày của Jaegar thì chưa kiểm được |
+| "mana của Master quá đắt 24" (Meteor Shower) | Giá mana Meteor Shower ❓ | **Lệch** — wiki ghi **16/12 mana**, không phải 24. Nhưng diện đánh "lan 6–7 ô" mà video nói thì **xác nhận**: ô đích cộng các ô kề, đúng 7 ô |
+| "cự ly hai tên" · "phải năm chân trên nam mô" | Khoảng cách an toàn cho Harpy ❓ | **Đoán** — ý là đứng ngoài tầm với hai lượt di chuyển của quân địch, nhưng phụ đề vỡ hẳn, không chốt được con số |
+| "quân đi ưu tiên theo chiều kim đồng hồ" | Luật tìm đường của quân trên bãi chiến ❓ | **Chưa kiểm** — video khẳng định như một luật, nhưng đây là chi tiết phải mở game ra thử |
+| "sở Yến 120 cos ai" · "hơn 150 con trâu" (Shakti) | Lượng quân Shakti gom được ngày đầu ❓ | **Chưa kiểm** — con số không đối chiếu được, và video nói đây là chuyện ở "bản gốc" |
 
 ---
 
