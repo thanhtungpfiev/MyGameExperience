@@ -118,7 +118,7 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 2. **Mọc lại mỗi ngày**, vị trí ngẫu nhiên.
 3. ⚠️ **Hết ngày là biến mất** — thấy hôm nào phải đào hôm đó.
 
-**Bảng cổ vật khác nhau theo từng khu**, nên muốn đủ bộ Bảo tàng thì phải đào **rải khắp các khu**, đào mãi một chỗ sẽ thiếu. Cổ vật chưa quyên góp thì mang đi donate trong ngày, chưa kịp thì tạm cất rương **`Cổ Vật, Đồ Trang Trí`** (xem [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Kho & rương]]).
+**Bảng cổ vật khác nhau theo từng khu**, nên muốn đủ bộ Bảo tàng thì phải đào **rải khắp các khu**, đào mãi một chỗ sẽ thiếu. Cổ vật chưa quyên góp thì mang đi donate trong ngày, chưa kịp thì tạm cất rương **`Cổ Vật, Đồ Trang Trí, Trang Phục`** (xem [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Kho & rương]]).
 
 > [!warning] "Hạt giống cổ đại" — bản dịch đặt **cùng một tên** cho hai món khác nhau
 > | | Cổ vật (Ancient Seed) | Gói hạt (Ancient Seeds) |

@@ -51,7 +51,7 @@
 
 > _Hai lớp khác nhau, cần cả hai: **màu** để nhìn từ xa lúc đứng trên farm, **tên** để tìm trong menu [[Mods#Chests Anywhere 1.30.1|Chests Anywhere]] / [[Mods#All Chests Menu 0.4.2|All Chests Menu]]._
 >
-> _Bảng dưới chép đúng **tên, màu, chỗ đặt** từ quicksave Xuân 20 (08:19) — đổi trong game thì cập nhật lại ở đây._
+> _Bảng dưới chép đúng **tên, màu, chỗ đặt** từ quicksave Xuân 20 (08:20) — đổi trong game thì cập nhật lại ở đây._
 
 ### Kho chính — 12 rương cạnh nhà
 
@@ -63,7 +63,7 @@
 | 🟧 **Cam** | `Hái Lượm` | Đồ lượm không phải trái: Hành lá, Tỏi tây, Cải ngựa dại, Bồ công anh, Thủy tiên, Rễ cây mùa đông · Cà rốt hang · Nhựa cây |
 | 🟦 **Xanh dương** | `Cá` | Cá các loại · Trai/Sò/Hàu · San hô |
 | ⬜ **Xám nhạt** | `Khoáng Sản, Đá Quý` | Đá quý (Thạch anh Tím, Hoàng ngọc, Ngọc bích…) · Thạch anh · khoáng vật mở từ Hốc tinh — đồ để quyên góp Bảo tàng · Hốc tinh chưa đập, Chiếc hộp bí ẩn chưa mở |
-| 🟥 **Đỏ đậm** | `Cổ Vật, Đồ Trang Trí` | Cổ vật · Đường lát gỗ · mũ · đồ nội thất nhặt được |
+| 🟥 **Đỏ đậm** | `Cổ Vật, Đồ Trang Trí, Trang Phục` | Cổ vật · Đường lát gỗ · đồ nội thất nhặt được · mũ, áo, quần (sau này cả Vải từ Khung dệt) |
 | 🟨 **Vàng cam** | `Công Cụ, Vũ Khí` | Công cụ thay thế (Cần Trúc, Cần Sợi Thủy Tinh, Rìu/Cuốc/Bình tưới đồng, Liềm) · Súng Cao su Xịn · Phao câu tín hiệu · Cột thu lôi |
 | ⬛ **Xám đậm** | `Chiến Lợi Phẩm` | Slime · Cánh dơi (Bat Wing) · Tinh chất mặt trời · Mảnh xương vụn — rơi ra khi **đánh quái** |
 | 🟥 **Đỏ** | `Đồ ăn` | Món nấu/mua sẵn (Bánh mì, Bánh sô-cô-la…) · thứ ăn được nhặt khi câu: Lục tảo, Bạch tảo, Rong biển, Thạch sông/biển/hang động · Trứng cá (Roe) |
@@ -73,7 +73,7 @@
 
 | | Cột 55 | Cột 56 | Cột 57 | Cột 58 |
 |---|---|---|---|---|
-| **Hàng 14** | _(trống)_ | `Chiến Lợi Phẩm` | `Cổ Vật, Đồ Trang Trí` | `Công Cụ, Vũ Khí` |
+| **Hàng 14** | _(trống)_ | `Chiến Lợi Phẩm` | `Cổ Vật, Đồ Trang Trí, Trang Phục` | `Công Cụ, Vũ Khí` |
 | **Hàng 15** | `Đồ ăn` | `Hàng Thủ Công` | `Hái Lượm` | `Hạt Giống, Phân Bón` |
 | **Hàng 16** | `Cá` | `Rau, Hoa, Trái Cây` | `Khoáng Sản, Đá Quý` | `Tài Nguyên` |
 
@@ -88,9 +88,9 @@ Màu nào cũng gắn với **thứ trong rương**: xanh lá là cây, cam là 
 > - **Bật `FilterItems`/`Description` trong [[Mods#All Chests Menu 0.4.2|All Chests Menu]]** rồi gõ tên món vào ô Filter khi mở `F2` — ra ngay món đó nằm ở rương nào.
 
 > [!info] Cổ vật và Khoáng vật — hai rương khác nhau dù hay đào ra cùng lúc
-> Tab Thu thập (Collections) chia hai danh sách donate riêng: **Khoáng vật** (đá quý, khoáng mở từ Hốc tinh) → `Khoáng Sản, Đá Quý`; **Cổ vật** (đồ khảo cổ từ điểm cổ vật, rương kho báu) → `Cổ Vật, Đồ Trang Trí`. Cổ vật chưa quyên góp thì mang đi Gunther trong ngày; cổ vật trùng xử lý theo [[Mẹo#🪱 Điểm cổ vật (Artifact Spot)|Mẹo]].
+> Tab Thu thập (Collections) chia hai danh sách donate riêng: **Khoáng vật** (đá quý, khoáng mở từ Hốc tinh) → `Khoáng Sản, Đá Quý`; **Cổ vật** (đồ khảo cổ từ điểm cổ vật, rương kho báu) → `Cổ Vật, Đồ Trang Trí, Trang Phục`. Cổ vật chưa quyên góp thì mang đi Gunther trong ngày; cổ vật trùng xử lý theo [[Mẹo#🪱 Điểm cổ vật (Artifact Spot)|Mẹo]].
 >
-> Cổ vật gộp chung rương với đồ trang trí vì cả hai đều **ít, không stack** và hiếm khi phải lôi ra — gộp lại đỡ một rương lưng lửng.
+> Cổ vật, đồ trang trí và trang phục gộp chung một rương vì cả ba đều **ít, không stack** và hiếm khi phải lôi ra — gộp lại đỡ hai rương lưng lửng. Máy may mở khá muộn ([Tailoring](https://stardewvalleywiki.com/Tailoring)), khi nào quần áo nhiều tới mức chật rương mới cần tách.
 
 > [!info] Công cụ cũng có chỗ trong rương
 > Cuốc, Cuốc chim, Rìu, Bình tưới, Liềm mỗi loại chỉ có một cái đang dùng, nhưng **cần câu thì có nhiều**, và công cụ đem đi nâng cấp ở Clint để lại chỗ trống trong túi. `Công Cụ, Vũ Khí` giữ bản dự phòng/chưa dùng (cần câu cũ, súng cao su, phao) cùng vũ khí đổi qua lại theo tình huống.
@@ -100,9 +100,8 @@ Màu nào cũng gắn với **thứ trong rương**: xanh lá là cây, cam là 
 | Màu dự kiến | Tên dự kiến | Chứa gì | Khi nào cần |
 |---|---|---|---|
 | ⬜ **Trắng** | `Chăn Nuôi` | Trứng, Trứng vịt, Sữa, Sữa dê, Len, Nấm cục, Chân thỏ | Khi có Chuồng gia cầm / Chuồng gia súc |
-| 🩷 **Hồng** | `Trang Phục` | Mũ, Áo, Quần/Váy, Vải | Khi có Máy may — mở khá muộn ([Tailoring](https://stardewvalleywiki.com/Tailoring)) |
 
-Hai màu này còn trống trong bảng hiện tại. **Xanh lơ nhạt** đã thuộc về rương Automate nên không dùng cho Trang phục nữa.
+Trắng còn trống trong bảng hiện tại, cũng như Hồng và Vàng nếu sau này cần tách thêm. **Xanh lơ nhạt** đã thuộc về rương Automate, đừng dùng cho rương kho.
 
 ### Rương Automate — xanh lơ nhạt, tên mở đầu bằng `A`
 
