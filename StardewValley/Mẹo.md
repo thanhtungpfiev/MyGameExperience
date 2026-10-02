@@ -136,6 +136,19 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 > [!tien] Đất sét — gom từ Ngày 1, đừng đợi tới lúc cần
 > **Kho chứa Cỏ (Silo) cần 10 Đất sét.** Đất sét gần như chỉ ra từ điểm cổ vật (cuốc đất thường cũng có tỉ lệ nhỏ). Đào tốn **2 năng lượng**/nhát, mà `InfiniteStamina` đang bật nên với máy này là **miễn phí** — thấy giun là đào, không có lý do bỏ qua.
 
+> [!tien] Cổ vật trùng — đã quyên góp rồi, nhặt thêm thì làm gì?
+> Bảo tàng chỉ đếm **mỗi món một lần**, món trùng không đẩy mốc thưởng nào lên. Biết món nào trùng: rê chuột lên — **UI Info Suite 2** còn hiện **icon đầu Gunther** là **chưa** quyên góp, hết icon là trùng.
+>
+> | Món trùng | Làm gì |
+> |---|---|
+> | **Hạt giống cổ đại** (cổ vật) | Chế thành gói hạt rồi gieo — xem khối ngay trên |
+> | **Trứng khủng long** | Ấp trong **Lò ấp trứng** ở **Chuồng gia cầm lớn** → khủng long đẻ thêm trứng |
+> | Còn lại | **Tặng Penny hoặc Dwarf** — cả hai đều **Thích** mọi cổ vật · hoặc bỏ thùng giao hàng |
+>
+> Giá gốc vài món: **Búp bê kỳ lạ** 1.000g · **Mặt nạ hoàng kim** 500g · **Trứng khủng long** 350g · **Tượng gà**, **Rìu đá tiền sử** 50g · **Thìa rỉ sét** 25g · **Cuộn giấy Người lùn I–IV** 1g. Đọc sách **Treasure Appraisal Guide** (bản dịch để nguyên tiếng Anh) thì giá bán cổ vật **×3**. Món rẻ như Thìa rỉ sét đem tặng Penny còn được hơn bán.
+>
+> _Giá, sở thích quà theo [Artifacts](https://stardewvalleywiki.com/Artifacts) và [Penny](https://stardewvalleywiki.com/Penny) trên wiki 1.6; tên món theo file bản Việt hoá đang cài._
+
 ### 🌸 Vì sao có hôm đi cả ngày không thấy gì
 
 - **Đồ lượm KHÔNG dính dáng tới may mắn.** Ngày xui vẫn mọc bình thường. Riêng **điểm cổ vật** thì may mắn có ảnh hưởng tới **số lượng**, nhưng không phải điều kiện bắt buộc — ngày xui vẫn có, chỉ ít hơn.
