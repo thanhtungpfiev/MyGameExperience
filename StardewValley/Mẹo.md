@@ -59,6 +59,27 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 2. Trì hoãn làm Vòi tưới cây → mất cả buổi sáng mỗi ngày chỉ để tưới.
 3. Bỏ qua phân bón → nông sản toàn phẩm cấp Thường, bán rẻ mạt.
 
+### 🎃 Bù nhìn Hiếm (Rarecrow)
+
+Dùng **y như Bù nhìn thường**, có ngay khi nhận, không cần mở khoá: đặt giữa ruộng là canh quạ vùng **17×17 bỏ góc** (~8 ô mỗi phía, 249 ô — Range Highlight hiện vùng khi cầm trên tay). Gỡ ra bằng cuốc chim hoặc rìu, rơi lại nguyên món. Khác Bù nhìn thường ở **hình dáng** — và ở thưởng khi gom đủ bộ.
+
+**Đủ 8 con, cả 8 cùng nằm trên nông trại** → thư **Cộng đồng Bù nhìn Hiếm** gửi công thức **Bù nhìn Cao cấp** (50 Gỗ + 1 Quặng Iridium + 40 Sợi), phủ ~**16 ô**, 888 ô. Chỉ giữ trong rương là **không** nhận được thư — nên nhận con nào cứ cắm ra ruộng luôn.
+
+| # | Nguồn |
+|---|---|
+| 1 | **Hội chợ Thung lũng Stardew** — 800 sao |
+| 2 | **Đêm hội Linh hồn** — 5.000g |
+| 3 | Casino — 10.000 **Xèng** |
+| 4 | **Lễ hội Băng** — 5.000g · hoặc Xe hàng rong (Traveling Cart) mùa Thu/Đông — 4.000g |
+| 5 | **Vũ hội Hoa** — 2.500g |
+| 6 | **Dwarf** trong mỏ — 2.500g |
+| 7 | Bảo tàng — quyên góp **20 cổ vật** (khoáng vật không tính) |
+| 8 | Bảo tàng — quyên góp **40 món** bất kỳ |
+
+Con 7 và 8 nhận từ Bảo tàng rồi thì **Chợ Đêm** bán lại thêm. Cổ vật trùng không đẩy mốc 7/8 lên — Bảo tàng chỉ đếm món khác nhau.
+
+_Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Scarecrow](https://stardewvalleywiki.com/Deluxe_Scarecrow) trên wiki 1.6; tên lễ hội, món và thư theo file bản Việt hoá đang cài (`Data/Festivals`, `Data/mail`)._
+
 ## ⛏️ Khai thác (Mining)
 
 - Ăn no trước khi xuống mỏ; mang theo **món hồi sức** và bom.
