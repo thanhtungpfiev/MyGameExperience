@@ -409,7 +409,7 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 **Việc cần làm:**
 - [x] Bật TV xem công thức mới
 - [x] **Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp
-- [x] Ghé xe hàng rong nếu còn thiếu Hạt giống hiếm
+- [x] Ghé xe hàng rong nếu còn thiếu Hạt giống hiếm _(mua thêm 1 → **tổng 2 hạt**, ví còn **8.600g**)_
 - [x] Đây cũng là **hạn chót gieo Đậu xanh đã qua từ Ngày 18** — nếu lỡ thì bỏ qua, dồn sang Hạ
 
 **Lưu ý:** Dâu tây phẩm cấp cao (vàng/tím) giữ lại vài quả cho gói Cộng đồng/Bảo tàng nếu chưa có, còn lại ship hết.
@@ -472,7 +472,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **Việc cần làm:**
 - [ ] Tìm Pierre tặng quà sinh nhật — cửa hàng của ông đóng cửa hôm nay (nghỉ sinh nhật), thường thấy ông đi dạo quanh Thị trấn hoặc ở nhà; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
-- [ ] Ghé xe hàng rong lần cuối trong mùa Xuân nếu còn thiếu Hạt giống hiếm
+- [ ] Ghé xe hàng rong: mua thêm **tối đa 1 Hạt giống hiếm** (1.000g), và chỉ mua nếu sau khi trả tiền ví vẫn còn **≥ 6.000g** cho vốn hạt Hạ 1 — đang có 2 hạt, mốc cần trước hết Hạ là **10–15 hạt** (xem [[#☀️ Hạ|lịch mua ở mục Hạ]])
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 
 ---
@@ -491,7 +491,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **Việc cần làm:**
 - [ ] Bật TV xem công thức mới lần cuối trong mùa
 - [ ] Thu hoạch/bán **toàn bộ** nông sản còn lại trên ruộng — qua đêm nay mọi cây ngoài trời sẽ chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất, phải trồng lại mùa sau)
-- [ ] Ghé xe hàng rong lần cuối (Hạt giống hiếm Xuân/Hạ luôn có hàng) nếu còn dư tiền
+- [ ] Ghé xe hàng rong: cùng luật như Ngày 26 — **tối đa 1 Hạt giống hiếm**, chỉ khi ví vẫn còn **≥ 6.000g** sau khi mua; còn thiếu thì để dồn sang nửa sau mùa Hạ
 - [ ] 🔮 **Đúng 12:00 trưa** (12:00–12:09) ra rung **bụi cây phía trên sân chơi** (góc tây bắc Thị trấn) → **Junimo Nhồi bông**, chỉ 1 lần/save; lỡ thì chờ ngày 28 mùa sau — xem [[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật — Mọi mùa]]
 - [ ] Không cần dọn đất trước — đất tự "cày lại" khi bước sang mùa mới, cây chết sẽ biến mất
 - [ ] Đối chiếu lại toàn bộ gói Cộng đồng mùa Xuân (**Lượm Xuân, Cây Xuân, Cá, Xây dựng**) — cái nào dở dang thì phải chờ... một số gói không giới hạn theo mùa (Cá/Xây dựng vẫn nộp được quanh năm), riêng **Cây Xuân** lỡ là phải chờ Xuân năm sau
@@ -556,6 +556,12 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 | Bắp cải đỏ | 100g — **Pierre chỉ bán từ Năm 2** | 9 | 260g | — | ~17,8g |
 | Dưa | 80g | 12 | 250g | — | ~14,2g — dễ ra "khổng lồ" khi trồng khối 3×3 |
 | Khế | 400g — mua ở Ốc đảo sa mạc | 13 | 750g | — | ~26,9g — lời nhất Hạ, nhưng cần đi được Sa mạc (thường chưa kịp Năm 1) |
+
+**🛒 Lịch gom Hạt giống hiếm** (Xe hàng rong luôn bán **1–5 hạt × 1.000g** suốt Xuân/Hạ; mục tiêu **10–15 hạt** trước Hạ 28 để gieo **Thu 1–4**):
+- **Hạ 5 · 7 · 12** — tối đa 1 hạt/lần: ví đang mỏng vì vừa mua hạt Hạ, mà Hạt việt quất quay vòng vốn nhanh hơn nhiều (1.000g bỏ vào Hạt giống hiếm phải nằm im tới khoảng Thu 25).
+- **Hạ 14 · 19 · 21 · 26 · 28** — Việt quất đã ra tiền → **vét hết hàng** mỗi lần ghé, đến khi đủ mốc.
+- Chừa tiền **Nam việt quất (240g/hạt) cho Thu 1** trước khi vét lần cuối ở Hạ 28.
+- Túi 36 ô (10.000g) để sau khi Việt quất ra tiền — mua bây giờ là hết vốn vụ Hạ.
 
 **🎉 Lễ hội:** Lễ hội Luau (11, 09:00–14:00, nộp súp chung) · Giải câu Cá hồi vân (20–21, thi câu ở Rừng Cindersap) · Vũ điệu Sứa Trăng (28, tối, ra bến tàu ngắm sứa).
 
