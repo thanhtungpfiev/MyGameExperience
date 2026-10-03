@@ -335,6 +335,10 @@ Tô sáng vùng tác dụng của Vòi tưới cây, Bù nhìn, Nhà Ong, Lều 
 > Vùng **trong/ngoài của bom**, và có tô vùng bom **đang đếm giờ dưới đất** hay không.
 >
 > Khi đang **cầm** vòi/bù nhìn/nhà ong, có tô luôn vùng của những cái **đã đặt sẵn** cùng loại không — mặc định **bật** cho Vòi tưới cây & Bù nhìn, **tắt** cho Nhà Ong và Khúc gỗ nấm.
+>
+> `ShowOverlaps` — **đang tắt** (mặc định bật). Bật thì chỗ hai vùng chồng nhau bị tô 2 lần nên đậm gấp đôi, đè mất vật bên dưới; tắt thì mọi chỗ nhạt đều như nhau. Đây là cách làm nhạt đã chọn, đủ thấy vật bên dưới mà không cần đổi màu.
+>
+> Vẫn thấy đậm thì giảm màu `…RangeTint` — **phải giảm cả 4 số R, G, B, A theo cùng tỉ lệ** (ví dụ chia đôi). Chỉ giảm `A` thì vùng tô bị **trắng bệch, phát sáng** chứ không trong hơn: mod đưa màu thẳng vào kiểu vẽ coi R/G/B là đã nhân sẵn với độ trong suốt.
 
 ### Show Missing Collection Entries 0.2.0
 
