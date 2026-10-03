@@ -427,9 +427,9 @@ Hạn gieo cuối cùng trong mùa cho **Khoai tây** và **Cải xoăn** (xem b
 🌧️ Quicksave Xuân 21 báo **mai (hôm nay) mưa** — không phải tưới ruộng; xem TV sáng nay cho chắc.
 
 **Việc cần làm:**
-- [ ] Nếu còn đất trống và còn hạt Khoai tây/Cải xoăn, gieo nốt ngay hôm nay
-- [ ] Việc thường ngày: tưới ruộng (bỏ qua nếu mưa thật), mỏ/câu cá
-- [ ] Đối chiếu lại bảng chốt Ngày 10 — còn 6 ngày nữa hết mùa, bù nốt mục nào đang thiếu (Bảo tàng, gói Cộng đồng, cấp Câu cá...)
+- [x] Nếu còn đất trống và còn hạt Khoai tây/Cải xoăn, gieo nốt ngay hôm nay
+- [x] Việc thường ngày: tưới ruộng (bỏ qua nếu mưa thật), mỏ/câu cá
+- [x] Đối chiếu lại bảng chốt Ngày 10 — còn 6 ngày nữa hết mùa, bù nốt mục nào đang thiếu (Bảo tàng, gói Cộng đồng, cấp Câu cá...)
 - [x] Gói Cộng đồng gần xong — _(Quicksave Xuân 21: **Bẫy Cua** xong; **Khoáng Sản** xong (đã xuống tới tầng 90) → **Phòng Lò hơi hoàn thành cả 3 gói**)_
 - Bể cá còn thiếu — **không con nào câu được trong Xuân này**, để dành theo [[Câu cá theo mùa]]:
   - **Cá Sông** 3/4 — Cá hồi hổ
@@ -448,6 +448,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - [ ] (Tuỳ chọn) Nếu đã đủ **8 tim** với 1 NPC và muốn xác nhận làm người yêu, mua **Bó hoa (Bouquet)** ở Pierre — 200g _(Quicksave Xuân 21: chưa ai tới 8 tim, cao nhất Haley 4 tim → **chưa cần mua**)_
 - [ ] Tưới ruộng **kỹ** — mai đi lễ hội cả buổi chiều
 - [ ] Việc thường ngày: mỏ/câu cá, quyên góp Bảo tàng
+- [ ] 🍄 Xuống mỏ **tầng 81 trở xuống** tìm **Nấm tím** — chỉ mọc ở **tầng nấm** (tầng tối có nấm to phát sáng), không phải tầng nào cũng có. 1 cây là xong luôn gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5) và thêm 1 món cho **Nghiên Cứu Thực Địa** (đang 2/4); được 2 cây thì nộp cả hai. Quicksave Xuân 22: đã xuống tới tầng 90, trong túi/rương **chưa có món nào nộp được ngay** cho Trung tâm Cộng đồng
 
 **Lưu ý:** Bó hoa **không bắt buộc** để tham dự hay nhảy ở Vũ hội Hoa — chỉ cần để chính thức hoá quan hệ yêu đương (mở khóa mốc tình cảm > 8 tim). Muốn nhảy cùng ai chỉ cần người đó đạt **4 tim** trở lên (xem Ngày 24).
 
@@ -478,7 +479,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - [ ] 🚧 **Không cần xây hàng rào** — gà không ăn cây trồng và tối tự về chuồng. Chỉ cần **lối ra cửa chuồng thông thoáng**: gà bị kẹt ngoài (vướng hàng rào, rương, máy) mà cửa đã đóng thì đêm có thể bị **thú hoang tấn công và mất hẳn con đó**. Hàng rào chỉ đáng làm về sau, nếu muốn quây gà lại quanh bãi Cỏ giống gần chuồng
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [x] Rà lại gói Cộng đồng **Cây Xuân** — còn thiếu Cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Cải vàng hết hạn gieo từ hôm qua – Ngày 24) _(save Xuân 18: gói đã xong)_
-- [ ] Lấy **Nhựa phong** (Maple Syrup) ở Chén hứng Nhựa cây trên cây phong — Quicksave Xuân 21 báo còn **4.150 phút ≈ 2,9 ngày** → chín khoảng Ngày 24 (ngày lễ hội), lấy hôm nay → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
+- [ ] Lấy **Nhựa phong** (Maple Syrup) ở Chén hứng Nhựa cây trên cây phong — Quicksave Xuân 21 báo còn **4.150 phút ≈ 2,9 ngày** → chín khoảng Ngày 24 (ngày lễ hội), lấy hôm nay → (nếu Ngày 23 đã nộp Nấm tím cho gói này thì Nhựa phong không cần nữa, giữ lại hoặc bán) → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
 
 ---
 
@@ -577,6 +578,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - Chừa tiền **Nam việt quất (240g/hạt) cho Thu 1** trước khi vét lần cuối ở Hạ 28.
 - Túi 36 ô (10.000g) để sau khi Việt quất ra tiền — mua bây giờ là hết vốn vụ Hạ.
 - 🐔 Gà mua cho đủ **4 con** (800g/con) cũng chờ tới đợt này, cùng lúc với lúc vét Hạt giống hiếm.
+- 💰 Gói **5.000g** của Kho bạc (Trung tâm Cộng đồng) cũng trả ở đợt này — không có hạn chót, còn tiền đầu Hạ thì bỏ vào hạt quay vòng lời hơn. Quicksave Xuân 22: ví 11.831g, trả ngay thì còn 6.831g, chỉ dư ~800g trên mốc 6.000g.
 
 **🌱 Trái cổ đại** — cây ở ô (72, 27) chín lứa đầu **quanh Hạ 15**, sau đó cứ 7 ngày 1 quả (khoảng Hạ 22 · Thu 1 · 8 · 15 · 22). Bán 550g/quả thường; **nên giữ lại vài quả** — sau này có Máy làm hạt thì đổi ra Hạt giống cổ đại để trồng trong Nhà kính, nơi cây sống quanh năm.
 
