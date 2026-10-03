@@ -416,6 +416,8 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 
 **Lưu ý:** Dâu tây phẩm cấp cao (vàng/tím) giữ lại vài quả cho gói Cộng đồng/Bảo tàng nếu chưa có, còn lại ship hết.
 
+**🌱 Trái cổ đại đang trồng** (Quicksave Xuân 21): **1 cây** ở ô (72, 27), đã bón Phân bón Thúc nên cần 25 ngày thay vì 28. Đang ở ngày thứ 3, tức còn **khoảng 22 ngày → chín quanh Hạ 15**, rồi cứ **7 ngày ra 1 quả** tới hết Thu. Cây sống qua Xuân → Hạ → Thu nên **không chết khi đổi mùa**, chỉ chết khi sang Đông. Nhớ tưới mỗi ngày như ruộng thường.
+
 ---
 
 ### ☀️ Ngày 22 (Thứ Hai) — ⏳ Hạn chót gieo Khoai tây / Cải xoăn
@@ -502,7 +504,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **Việc cần làm:**
 - [ ] Bật TV xem công thức mới lần cuối trong mùa
-- [ ] Thu hoạch/bán **toàn bộ** nông sản còn lại trên ruộng — qua đêm nay mọi cây ngoài trời sẽ chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất, phải trồng lại mùa sau)
+- [ ] Thu hoạch/bán **toàn bộ** nông sản còn lại trên ruộng — qua đêm nay mọi cây ngoài trời sẽ chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất, phải trồng lại mùa sau). **Ngoại lệ: cây Trái cổ đại ở ô (72, 27) sống tiếp qua Hạ** — đừng nhổ, xem [[#☀️ Ngày 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong|Ngày 21]]
 - [ ] Ghé xe hàng rong: cùng luật như Ngày 26 — **tối đa 1 Hạt giống hiếm**, chỉ khi ví vẫn còn **≥ 6.000g** sau khi mua; còn thiếu thì để dồn sang nửa sau mùa Hạ
 - [ ] 🔮 **Đúng 12:00 trưa** (12:00–12:09) ra rung **bụi cây phía trên sân chơi** (góc tây bắc Thị trấn) → **Junimo Nhồi bông**, chỉ 1 lần/save; lỡ thì chờ ngày 28 mùa sau — xem [[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật — Mọi mùa]]
 - [ ] Không cần dọn đất trước — đất tự "cày lại" khi bước sang mùa mới, cây chết sẽ biến mất
@@ -576,6 +578,8 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - Túi 36 ô (10.000g) để sau khi Việt quất ra tiền — mua bây giờ là hết vốn vụ Hạ.
 - 🐔 Gà mua cho đủ **4 con** (800g/con) cũng chờ tới đợt này, cùng lúc với lúc vét Hạt giống hiếm.
 
+**🌱 Trái cổ đại** — cây ở ô (72, 27) chín lứa đầu **quanh Hạ 15**, sau đó cứ 7 ngày 1 quả (khoảng Hạ 22 · Thu 1 · 8 · 15 · 22). Bán 550g/quả thường; **nên giữ lại vài quả** — sau này có Máy làm hạt thì đổi ra Hạt giống cổ đại để trồng trong Nhà kính, nơi cây sống quanh năm.
+
 **🎉 Lễ hội:** Lễ hội Luau (11, 09:00–14:00, nộp súp chung) · Giải câu Cá hồi vân (20–21, thi câu ở Rừng Cindersap) · Vũ điệu Sứa Trăng (28, tối, ra bến tàu ngắm sứa).
 
 **🎂 Sinh nhật:** 4 Jas · 8 Gus · 10 Maru · 13 Alex · 17 Sam · 19 Demetrius · 22 Chú lùn (Dwarf, ⚠️ phải giải cứu dưới mỏ + học tiếng Lùn mới tặng quà được) · 24 Willy · 26 Leo (⚠️ sống ở Đảo Gừng, cần thân với 3 chim vẹt + 6 tim mới dọn vào đất liền — khó gặp sớm).
@@ -606,6 +610,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **🔮 Bí mật:** 16 Quần đùi tím ở gian Grange (750 Vé Sao) + mua Sao sa 2.000 Vé Sao · 28 lúc 12:00 Junimo Nhồi bông (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#🍂 Thu|Bí mật — Thu]].
 
 - ⚠️ Cuối Thu (26–28): dọn cây chết, mua đủ hạt cho vụ Đông/Nhà kính, ship hết nông sản trước khi đổi mùa.
+- 🌱 Cây **Trái cổ đại** ngoài trời **chết khi sang Đông** — hái quả cuối (khoảng Thu 22) là hết.
 - 🐔 **Dự trữ cỏ khô cho mùa Đông:** gà không ra ngoài cả 28 ngày → 4 con × 28 = **112 cỏ khô**. Cắt cỏ bằng Liềm cho đầy Kho chứa Cỏ từ giữa Thu, đỡ phải mua ở Marnie (50g/phần).
 
 ### ❄️ Đông
