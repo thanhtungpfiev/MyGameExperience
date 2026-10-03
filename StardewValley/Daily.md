@@ -448,7 +448,11 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - [ ] (Tuỳ chọn) Nếu đã đủ **8 tim** với 1 NPC và muốn xác nhận làm người yêu, mua **Bó hoa (Bouquet)** ở Pierre — 200g _(Quicksave Xuân 21: chưa ai tới 8 tim, cao nhất Haley 4 tim → **chưa cần mua**)_
 - [ ] Tưới ruộng **kỹ** — mai đi lễ hội cả buổi chiều
 - [ ] Việc thường ngày: mỏ/câu cá, quyên góp Bảo tàng
-- [ ] 🍄 Xuống mỏ **tầng 81 trở xuống** tìm **Nấm tím** — chỉ mọc ở **tầng nấm** (tầng tối có nấm to phát sáng), không phải tầng nào cũng có. 1 cây là xong luôn gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5) và thêm 1 món cho **Nghiên Cứu Thực Địa** (đang 2/4); được 2 cây thì nộp cả hai. Quicksave Xuân 22: đã xuống tới tầng 90, trong túi/rương **chưa có món nào nộp được ngay** cho Trung tâm Cộng đồng
+- [ ] 🍄 Xuống mỏ **tầng 81 trở xuống** tìm **Nấm tím** — chỉ mọc ở **tầng nấm** (tầng tối có nấm to phát sáng), không phải tầng nào cũng có. 1 cây là xong luôn gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5) và thêm 1 món cho **Nghiên Cứu Thực Địa** (đang 2/4); được 2 cây thì nộp cả hai. Quicksave Xuân 22: đã xuống tới tầng 90, trong túi/rương **chưa có món nào nộp được ngay** cho Trung tâm Cộng đồng _(save đầu Xuân 23: đã tới **tầng 110**, vẫn chưa có Nấm tím — thang máy xuống 80/90/100/110 rồi tìm tầng nấm)_
+- [ ] ⚒️ Đem **18 Hốc tinh** tới **Clint** (09:00–16:00, 25g/cái ≈ 450g): 6 Hốc tinh · 5 Hốc tinh dung nham · 7 Hốc tinh toàn năng — đi **trước** Bảo tàng để quyên góp một lượt
+- [ ] 🏛️ Quyên góp Bảo tàng **Búp bê cổ đại** + **Đĩa quý hiếm** (đang trong rương) → **45 món**, kèm món mới nào đập từ Hốc tinh ra còn icon Gunther
+- [ ] 💰 **Chưa trả** gói 5.000g Kho bạc dù ví đang **13.052g** — mấy ngày tới còn Kho chứa Cỏ + 2 gà + cỏ khô (~1.900g) và tối đa 2 Hạt giống hiếm (2.000g), trả thêm 5.000g là tụt dưới mốc 6.000g cho hạt Hạ 1
+- [ ] 💬 Nói chuyện với **Haley** (1.234 điểm, gần 5 tim) — mai mời nhảy được. Nhựa phong chín khoảng **08:40 sáng mai** → lấy trước khi đi lễ hội
 
 **Lưu ý:** Bó hoa **không bắt buộc** để tham dự hay nhảy ở Vũ hội Hoa — chỉ cần để chính thức hoá quan hệ yêu đương (mở khóa mốc tình cảm > 8 tim). Muốn nhảy cùng ai chỉ cần người đó đạt **4 tim** trở lên (xem Ngày 24).
 
