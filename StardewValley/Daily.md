@@ -11,6 +11,7 @@
 - **Sáng:** mở hộp thư cạnh nhà, bật TV xem **dự báo thời tiết ngày mai** + **thầy bói** trước khi ra ngoài.
 - **Tưới ruộng đang trồng** (bỏ qua nếu trời mưa — mưa tự tưới ruộng ngoài trời).
 - **Từ Ngày 5:** vuốt thú cưng 1 lần + đổ nước vào bát bằng Bình tưới.
+- **Từ khi có gà:** vuốt **từng con** (+15 tình cảm, bỏ một ngày là tụt) · nhặt trứng · ngày nắng ngoài mùa Đông thì **mở cửa nhỏ** cho gà ra ăn cỏ (miễn phí — đừng cắt sạch cỏ quanh chuồng), ngày mưa/mùa Đông thì lấy **cỏ khô** từ phễu cạnh cửa rải vào máng, mỗi con 1 phần · **tối kiểm gà đã vào chuồng hết** (ở ngoài qua đêm −20 tình cảm). `CJB Cheats` đang **tắt** tự cho ăn/tự vuốt/vô hạn cỏ khô nên việc này phải tự làm. Tình cảm **≥ 200** mới ra **Trứng lớn** — cần cả trắng lẫn nâu cho gói **Chăn nuôi**.
 - **Cuối ngày:** bỏ nông sản/cá/đồ lượm vào thùng vận chuyển trước nửa đêm, về ngủ **trước 24:00**. Quá **02:00** là ngất — mất tiền, có thể mất đồ.
 - **Trước mỗi chuyến xuống mỏ:** bấm `F5` lưu nhanh ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_|QuickSave]]), lỡ chết/mất đồ thì `F7` làm lại.
 - **Năng lượng & máu đang vô hạn** — [[Mods#CJB Cheats Menu 1.42.0|CJB Cheats]] bật `InfiniteStamina` + `InfiniteHealth`, nên mấy lời dặn "mang đồ ăn hồi năng lượng/máu" bên dưới chỉ cần khi tắt hai cheat này.
@@ -410,6 +411,7 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 - [x] Bật TV xem công thức mới
 - [x] **Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp
 - [x] Ghé xe hàng rong nếu còn thiếu Hạt giống hiếm _(mua thêm 1 → **tổng 2 hạt**, ví còn **8.600g**)_
+- [x] 🐔 **Đặt Robin xây Chuồng gia cầm** (4.000g + gỗ + đá; chứa tối đa 4 con) — xây 3 ngày, **xong sáng Ngày 24**. Quicksave sau đó: ví còn **4.298g**, và nông trại **chưa có Kho chứa Cỏ** → đặt xây ở Ngày 25
 - [x] Đây cũng là **hạn chót gieo Đậu xanh đã qua từ Ngày 18** — nếu lỡ thì bỏ qua, dồn sang Hạ
 
 **Lưu ý:** Dâu tây phẩm cấp cao (vàng/tím) giữ lại vài quả cho gói Cộng đồng/Bảo tàng nếu chưa có, còn lại ship hết.
@@ -462,6 +464,10 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **Việc cần làm:**
 - [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Phân bón Thúc)
+- [ ] 🏗️ **Đặt Robin xây Kho chứa Cỏ (Silo)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả (Quicksave Xuân 21: 15 Đất sét, 14 Thỏi Đồng, 1.719 Đá). Robin chỉ xây một công trình một lúc, Chuồng gia cầm xong Ngày 24 mới đặt được. Chưa có Kho thì **cắt cỏ không ra cỏ khô** — ngày mưa gà phải ăn cỏ khô mua ở Marnie (50g/phần)
+- [ ] 🐔 Mua **1–2 gà** ở Trại Marnie (**800g/con**) — chỉ mua khi sau khi trả tiền ví vẫn còn **≥ 6.000g** cho hạt Hạ 1 (cùng mốc với Hạt giống hiếm). Ví đang **4.298g**, nên nếu bán Dâu tây lứa 2 xong vẫn chưa vượt mốc thì **dời gà sang Hạ** — chuồng để trống không mất gì. Gà mua về mất **3 ngày** mới lớn, rồi đẻ trứng mỗi ngày
+- [ ] 🌾 Mua gà thì mua luôn **cỏ khô ở Marnie** cho ngày 25–27 (Kho chứa Cỏ xong Ngày 28): mỗi con 1 phần/ngày, 2 con ≈ **6 phần = 300g**. Cầm cỏ khô bấm vào **máng ăn trong chuồng** là đặt thẳng được, không cần kho. Ngày nắng vẫn mở cửa cho gà ra ăn cỏ, nhưng quanh chuồng gần như hết cỏ (Quicksave Xuân 21: 102 bụi trên cả nông trại, chỉ 2 bụi gần chuồng) nên **vẫn rải cỏ khô vào máng** làm dự phòng. **Đừng cắt cỏ trước Ngày 28** — chưa có kho thì cắt là mất trắng
+- [ ] 🚧 **Không cần xây hàng rào** — gà không ăn cây trồng và tối tự về chuồng. Chỉ cần **lối ra cửa chuồng thông thoáng**: gà bị kẹt ngoài (vướng hàng rào, rương, máy) mà cửa đã đóng thì đêm có thể bị **thú hoang tấn công và mất hẳn con đó**. Hàng rào chỉ đáng làm về sau, nếu muốn quây gà lại quanh bãi Cỏ giống gần chuồng
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [x] Rà lại gói Cộng đồng **Cây Xuân** — còn thiếu Cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Cải vàng hết hạn gieo từ hôm qua – Ngày 24) _(save Xuân 18: gói đã xong)_
 - [ ] Lấy **Nhựa phong** (Maple Syrup) ở Chén hứng Nhựa cây trên cây phong — save Xuân 18 báo còn khoảng 6 ngày, tức quanh hôm nay → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
@@ -562,6 +568,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - **Hạ 14 · 19 · 21 · 26 · 28** — Việt quất đã ra tiền → **vét hết hàng** mỗi lần ghé, đến khi đủ mốc.
 - Chừa tiền **Nam việt quất (240g/hạt) cho Thu 1** trước khi vét lần cuối ở Hạ 28.
 - Túi 36 ô (10.000g) để sau khi Việt quất ra tiền — mua bây giờ là hết vốn vụ Hạ.
+- 🐔 Gà mua cho đủ **4 con** (800g/con) cũng chờ tới đợt này, cùng lúc với lúc vét Hạt giống hiếm.
 
 **🎉 Lễ hội:** Lễ hội Luau (11, 09:00–14:00, nộp súp chung) · Giải câu Cá hồi vân (20–21, thi câu ở Rừng Cindersap) · Vũ điệu Sứa Trăng (28, tối, ra bến tàu ngắm sứa).
 
@@ -593,6 +600,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **🔮 Bí mật:** 16 Quần đùi tím ở gian Grange (750 Vé Sao) + mua Sao sa 2.000 Vé Sao · 28 lúc 12:00 Junimo Nhồi bông (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#🍂 Thu|Bí mật — Thu]].
 
 - ⚠️ Cuối Thu (26–28): dọn cây chết, mua đủ hạt cho vụ Đông/Nhà kính, ship hết nông sản trước khi đổi mùa.
+- 🐔 **Dự trữ cỏ khô cho mùa Đông:** gà không ra ngoài cả 28 ngày → 4 con × 28 = **112 cỏ khô**. Cắt cỏ bằng Liềm cho đầy Kho chứa Cỏ từ giữa Thu, đỡ phải mua ở Marnie (50g/phần).
 
 ### ❄️ Đông
 
