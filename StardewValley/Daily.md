@@ -422,13 +422,19 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 
 Hạn gieo cuối cùng trong mùa cho **Khoai tây** và **Cải xoăn** (xem bảng "Hạn gieo cuối mùa" ở Ngày 10) — qua hôm nay coi như hết cơ hội trồng 2 loại này trong Xuân Năm 1.
 
+🌧️ Quicksave Xuân 21 báo **mai (hôm nay) mưa** — không phải tưới ruộng; xem TV sáng nay cho chắc.
+
 **Việc cần làm:**
 - [ ] Nếu còn đất trống và còn hạt Khoai tây/Cải xoăn, gieo nốt ngay hôm nay
-- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
+- [ ] Việc thường ngày: tưới ruộng (bỏ qua nếu mưa thật), mỏ/câu cá
 - [ ] Đối chiếu lại bảng chốt Ngày 10 — còn 6 ngày nữa hết mùa, bù nốt mục nào đang thiếu (Bảo tàng, gói Cộng đồng, cấp Câu cá...)
-- [ ] Gói Cộng đồng gần xong (save Xuân 18) — không giới hạn mùa nhưng tiện làm luôn:
-  - **Bẫy Cua** 3/5 — 3 Bẫy cua đang đặt ở Thị trấn, Bãi biển, Núi; nạp mồi đều là đủ
-  - **Khoáng Sản** — thiếu **Thạch anh Lửa**, ra từ tầng 80 (đang ở tầng 76)
+- [x] Gói Cộng đồng gần xong — _(Quicksave Xuân 21: **Bẫy Cua** xong; **Khoáng Sản** xong (đã xuống tới tầng 90) → **Phòng Lò hơi hoàn thành cả 3 gói**)_
+- Bể cá còn thiếu — **không con nào câu được trong Xuân này**, để dành theo [[Câu cá theo mùa]]:
+  - **Cá Sông** 3/4 — Cá hồi hổ
+  - **Cá Hồ** 3/4 — Cá tầm
+  - **Cá Biển** 1/4 — Cá ngừ · Cá hồng · Cá rô phi
+  - **Cá Đêm** 2/3 — Cá mắt to
+  - **Cá Đặc Biệt** 1/4 — Cá nóc · Cá cát (Sa mạc) · Cá nhảy (Rừng Bí mật)
 
 ---
 
@@ -437,7 +443,7 @@ Hạn gieo cuối cùng trong mùa cho **Khoai tây** và **Cải xoăn** (xem b
 Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh thủ mua sắm trước khi lễ hội đóng cửa toàn thị trấn ngày mai.
 
 **Việc cần làm:**
-- [ ] (Tuỳ chọn) Nếu đã đủ **8 tim** với 1 NPC và muốn xác nhận làm người yêu, mua **Bó hoa (Bouquet)** ở Pierre — 200g
+- [ ] (Tuỳ chọn) Nếu đã đủ **8 tim** với 1 NPC và muốn xác nhận làm người yêu, mua **Bó hoa (Bouquet)** ở Pierre — 200g _(Quicksave Xuân 21: chưa ai tới 8 tim, cao nhất Haley 4 tim → **chưa cần mua**)_
 - [ ] Tưới ruộng **kỹ** — mai đi lễ hội cả buổi chiều
 - [ ] Việc thường ngày: mỏ/câu cá, quyên góp Bảo tàng
 
@@ -452,7 +458,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **Việc cần làm:**
 - [ ] Vào Rừng Cindersap trong khung 09:00–14:00 (trước 09:00 rừng chưa mở)
 - [ ] Đi về phía tây khu rừng, qua cây cầu phía nam Tháp Pháp sư — nơi diễn ra vũ hội chỉ mở đúng hôm nay
-- [ ] Nếu muốn mời ai nhảy cùng: người đó cần **≥ 4 tim** tình cảm mới nhận lời (không liên quan Bó hoa) — nhảy xong +1 tim (250 điểm tình cảm) với người đó
+- [ ] Nếu muốn mời ai nhảy cùng: người đó cần **≥ 4 tim** tình cảm mới nhận lời (không liên quan Bó hoa) — nhảy xong +1 tim (250 điểm tình cảm) với người đó. _Quicksave Xuân 21: **Haley vừa đủ 4 tim** (1.158 điểm) → mời được Haley_
 - [ ] Không mời ai / bị từ chối vẫn không sao — 6 cặp NPC mặc định sẽ tự nhảy, bạn chỉ cần dự khán là đủ, không mất gì
 - [ ] Tưới ruộng trước khi đi — 14:00 mới được rời lễ hội, về tới nhà đã trễ
 
@@ -463,14 +469,14 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 ### ☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2
 
 **Việc cần làm:**
-- [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Phân bón Thúc)
+- [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Phân bón Thúc) _(Quicksave Xuân 21: **40 bụi** vừa hái lứa 1, đếm ngược 4 ngày → chín đúng hôm nay)_
 - [ ] 🏗️ **Đặt Robin xây Kho chứa Cỏ (Silo)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả (Quicksave Xuân 21: 15 Đất sét, 14 Thỏi Đồng, 1.719 Đá). Robin chỉ xây một công trình một lúc, Chuồng gia cầm xong Ngày 24 mới đặt được. Chưa có Kho thì **cắt cỏ không ra cỏ khô** — ngày mưa gà phải ăn cỏ khô mua ở Marnie (50g/phần)
 - [ ] 🐔 Mua **1–2 gà** ở Trại Marnie (**800g/con**) — chỉ mua khi sau khi trả tiền ví vẫn còn **≥ 6.000g** cho hạt Hạ 1 (cùng mốc với Hạt giống hiếm). Ví đang **4.298g**, nên nếu bán Dâu tây lứa 2 xong vẫn chưa vượt mốc thì **dời gà sang Hạ** — chuồng để trống không mất gì. Gà mua về mất **3 ngày** mới lớn, rồi đẻ trứng mỗi ngày
 - [ ] 🌾 Mua gà thì mua luôn **cỏ khô ở Marnie** cho ngày 25–26 (Kho chứa Cỏ xây 2 ngày → xong sáng **Ngày 27**): mỗi con 1 phần/ngày, 2 con ≈ **4 phần = 200g**. Mua dư cũng không phí — có kho rồi thì cầm cỏ khô bấm vào phễu là cất vào kho. Cầm cỏ khô bấm vào **máng ăn trong chuồng** là đặt thẳng được, không cần kho. Ngày nắng vẫn mở cửa cho gà ra ăn cỏ, nhưng quanh chuồng gần như hết cỏ (Quicksave Xuân 21: 102 bụi trên cả nông trại, chỉ 2 bụi gần chuồng) nên **vẫn rải cỏ khô vào máng** làm dự phòng. **Đừng cắt cỏ trước Ngày 27** — chưa có kho thì cắt là mất trắng; có kho rồi mỗi nhát Liềm có **50%** ra 1 cỏ khô (kho chứa tối đa 240)
 - [ ] 🚧 **Không cần xây hàng rào** — gà không ăn cây trồng và tối tự về chuồng. Chỉ cần **lối ra cửa chuồng thông thoáng**: gà bị kẹt ngoài (vướng hàng rào, rương, máy) mà cửa đã đóng thì đêm có thể bị **thú hoang tấn công và mất hẳn con đó**. Hàng rào chỉ đáng làm về sau, nếu muốn quây gà lại quanh bãi Cỏ giống gần chuồng
 - [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [x] Rà lại gói Cộng đồng **Cây Xuân** — còn thiếu Cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Cải vàng hết hạn gieo từ hôm qua – Ngày 24) _(save Xuân 18: gói đã xong)_
-- [ ] Lấy **Nhựa phong** (Maple Syrup) ở Chén hứng Nhựa cây trên cây phong — save Xuân 18 báo còn khoảng 6 ngày, tức quanh hôm nay → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
+- [ ] Lấy **Nhựa phong** (Maple Syrup) ở Chén hứng Nhựa cây trên cây phong — Quicksave Xuân 21 báo còn **4.150 phút ≈ 2,9 ngày** → chín khoảng Ngày 24 (ngày lễ hội), lấy hôm nay → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
 
 ---
 
