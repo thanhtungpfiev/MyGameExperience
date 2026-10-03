@@ -261,7 +261,7 @@ Thiếu mục nào thì 3 ngày tới ưu tiên bù mục đó.
 **Việc cần làm:**
 - [x] Tặng quà sinh nhật Vincent
 - [x] Đối chiếu bảng chốt, chọn 1–2 mục yếu nhất để cày tiếp
-- [x] *(Tùy chọn, không gấp)* Đặt Robin xây Kho chứa Cỏ nếu dư tiền/nguyên liệu và muốn xây trước — chưa có gia súc thì để hẳn sang khi định xây Chuồng gia cầm/Chuồng Gia súc cũng được
+- [ ] *(Tùy chọn, không gấp)* Đặt Robin xây Kho chứa Cỏ nếu dư tiền/nguyên liệu và muốn xây trước — chưa có gia súc thì để hẳn sang khi định xây Chuồng gia cầm/Chuồng Gia súc cũng được _(chưa xây — Quicksave Xuân 21 không có Kho chứa Cỏ; dời sang [[#☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2|Ngày 25]])_
 - [x] Gieo nốt Súp lơ (hạn chót Xuân 16)
 
 > [!warning] Chuẩn bị Ngày 13 — Lễ hội Trứng (còn 3 ngày)
