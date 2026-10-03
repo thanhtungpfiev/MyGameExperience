@@ -407,10 +407,10 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 ### ☀️ Ngày 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong
 
 **Việc cần làm:**
-- [ ] Bật TV xem công thức mới
-- [ ] **Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp
-- [ ] Ghé xe hàng rong nếu còn thiếu Hạt giống hiếm
-- [ ] Đây cũng là **hạn chót gieo Đậu xanh đã qua từ Ngày 18** — nếu lỡ thì bỏ qua, dồn sang Hạ
+- [x] Bật TV xem công thức mới
+- [x] **Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp
+- [x] Ghé xe hàng rong nếu còn thiếu Hạt giống hiếm
+- [x] Đây cũng là **hạn chót gieo Đậu xanh đã qua từ Ngày 18** — nếu lỡ thì bỏ qua, dồn sang Hạ
 
 **Lưu ý:** Dâu tây phẩm cấp cao (vàng/tím) giữ lại vài quả cho gói Cộng đồng/Bảo tàng nếu chưa có, còn lại ship hết.
 
