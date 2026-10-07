@@ -136,7 +136,57 @@ Trắng còn trống trong bảng hiện tại, cũng như Hồng và Vàng nế
 
 ## ✏️ Bản quy hoạch của tôi
 
-> _Mở planner, kéo thả theo ý rồi chụp màn hình lưu vào `assets/` với tên `my-farm-plan.png`, chèn vào đây bằng `![[assets/my-farm-plan.png|700]]`._
+### Bản dựng lại Mẫu 1 trên planner
+
+![[assets/my-farm-plan.jpg|700]]
+
+**Link planner:** https://stardew.info/planner/10-short-pheasants-snuggled-merrily — mở ra chỉnh tiếp được; bấm **Save** sẽ ra **link mới**, link này vẫn giữ nguyên bản gốc.
+
+Dựng lại từ ảnh [[#Mẫu 1 — Thiên về hiệu quả (khuyến nghị)|Mẫu 1]] bằng cách đo vị trí trên ảnh (ảnh khớp đúng khung trại 80 × 65 ô), nên là **bản gần đúng**: công trình lớn đặt khá sát, đồ nhỏ thì xếp theo quy luật chứ không chép từng chấm.
+
+> [!tip] Bắt chước trong game — đặt theo toạ độ
+> Toạ độ dưới đây là **toạ độ ô của game**, trùng với lưới planner. Bấm `Z` bật [[Mods#Debug Mode 1.17.4|Debug Mode]], rê chuột tới ô cần đặt, đọc dòng `tile: X, Y`. X tăng sang phải, Y tăng xuống dưới. Công trình ghi theo **ô góc trên–trái của nền** (phần chiếm đất, không tính mái nhô lên).
+
+**Công trình** (rộng × cao tính theo ô nền):
+
+| Công trình | Góc trên–trái | Cỡ nền |
+|---|---|---|
+| Cối xay (Mill) | (4, 10) | 4 × 2 |
+| Cabin | (5, 15) | 5 × 3 |
+| Chuồng gia cầm lớn (Big Coop) 1 · 2 · 3 | (9, 9) · (15, 8) · (18, 11) | 6 × 3 |
+| Kho chứa Cỏ (Silo) 1 | (21, 8) | 3 × 3 |
+| Nhà Kho lớn (Big Shed) 1 · 2 · 3 | (34, 15) · (44, 15) · (52, 15) | 7 × 3 |
+| Thùng ship | (71, 14) — chỗ mặc định | 2 × 1 |
+| Chuồng ngựa (Stable) | (73, 19) | 4 × 2 |
+| Nhà Kho (Shed) giữa trại | (36, 31) | 7 × 3 |
+| Chuồng gia cầm lớn 4 | (6, 42) | 6 × 3 |
+| Kho chứa Cỏ 2 · 3 | (3, 45) · (6, 45) | 3 × 3 |
+| Chuồng Gia súc (Barn) 1 · 2 · 3 | (3, 51) · (13, 51) · (20, 51) | 7 × 4 |
+| Giếng (Well) | (50, 52) | 3 × 3 |
+| Chòi nuôi Slime (Slime Hutch) | (54, 51) | xem lưu ý |
+
+**Ruộng & vòi tưới** — toàn bộ là **Vòi phun nước Iridium** (phủ 5 × 5):
+
+| Khu | Đất trồng | Vòi phun nước Iridium |
+|---|---|---|
+| Ruộng trên | x 40–75, y 21–28 | hàng y = 23 và y = 28, tại x = 41 · 46 · 51 · 56 · 60 · 64 · 69 · 74 |
+| Ruộng A | x 14–28, y 35–49 | (16, 37) (16, 42) (16, 47) · (26, 37) (26, 42) (26, 47) · (21, 36) (21, 45) |
+| Ruộng B | x 32–46, y 35–49 | như A, dời sang phải 18 ô: x = 34 · 44, giữa x = 39 |
+| Ruộng C | x 50–64, y 35–49 | như A, dời sang phải 36 ô: x = 52 · 62, giữa x = 57 |
+| Hoa bia giữa các ruộng | cột x = 30 và x = 48, y 35–46 | (31, 38) (31, 44) · (49, 38) (49, 44) |
+
+Giữa mỗi ruộng A/B/C chừa một khoảng 3 × 4 không cày, đặt **Bù nhìn Cao cấp** ở (21, 41) · (39, 41) · (57, 41).
+
+**Phần còn lại:** 11 Nhà Ong quanh luống Hành lam cầu ở x 31–35, y 21–27 · dãy cây ăn quả và cây thông ở y = 31 · Thùng chứa ở x 3–5 và 8–12, y 34–39 · 5 khối Cây chè ở x 69–74, từ y = 35 xuống tới y = 53 · Bù nhìn ở (75, 24), (68, 38), (68, 46) · hàng rào gỗ quanh hai bãi thả thú (trên–trái và dưới–trái).
+
+> [!warning] Mấy chỗ planner khác ảnh gốc
+> **Chòi nuôi Slime** trên planner vẽ cỡ nhỏ (planner ghi nền 7 × 4), còn trong ảnh gốc to gần gấp rưỡi (khoảng 11 ô ngang). Đặt trong game thì theo khung xây của Robin, đừng dựa vào cỡ trên planner.
+>
+> **Ba Nhà Kho lớn** trên planner trông thấp hơn ảnh gốc — chỉ khác hình vẽ, nền 7 × 3 vẫn đúng.
+>
+> **Đường lát** trên planner là sỏi (Gravel Path) cho dễ thấy lối; ảnh gốc dùng nhiều loại nền khác nhau. **Cây trồng** chỉ để minh hoạ (Cải vàng, Súp lơ), chọn thật theo mùa.
+>
+> **Hai ao** (góc trên–phải, dưới–giữa) là ao có sẵn của bản đồ, không phải Hồ Cá xây thêm.
 
 - [ ] Vẽ bản quy hoạch năm 1
 - [ ] Vẽ bản quy hoạch dài hạn (có nhà kính + dàn Thùng chứa (Keg))
