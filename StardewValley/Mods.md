@@ -2,7 +2,7 @@
 
 > Về [[00 Home]] · Áp dụng theo [[Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]] · 🛟 [[An toàn save]] · 📦 [[Bản XNB và bản CP]]
 >
-> _34 mục trong `F:\Games\StardewValley Mods` — **33 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
+> _34 mục trong `F:\Games\StardewValley Mods` — **33 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Ngoài ra còn **1 mod tải về để dành, chưa cài** (OhoDavi Anime Portraits, cuối mục 8). Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
 >
 > _Mỗi mục mod: dòng đầu là **công dụng**, rồi các dòng **Cách dùng / Phím / Cấu hình / Nexus**. Cảnh báo và chi tiết dài nằm trong **khối callout** — khối có dấu `-` là mặc định gấp lại, bấm để mở. Phím ghi "GMCM" = mặc định trống, tự gán trong Cài đặt → GMCM._
 
@@ -15,7 +15,7 @@
 5. [[#5) Tự động hóa & năng suất|Tự động hóa & năng suất]] (2)
 6. [[#6) Tiện ích (QoL)|Tiện ích (QoL)]] (3)
 7. [[#7) Cheat & Debug|Cheat & Debug]] (2)
-8. [[#8) Hình ảnh / nhân vật|Hình ảnh / nhân vật]] (1)
+8. [[#8) Hình ảnh / nhân vật|Hình ảnh / nhân vật]] (1) + 1 để dành chưa cài
 9. [[#9) Ghi chú bản VH & file trùng|Ghi chú bản VH & file trùng]]
 10. [[#10) Thứ tự cài & vận hành ổn định (1.6.15)|Thứ tự cài & vận hành ổn định]]
 11. [[#🧰 Công cụ ngoài game|Công cụ ngoài game]] (1) — Farm Foundry ❌ _chưa hỗ trợ 1.6_
@@ -1286,6 +1286,24 @@ Tên trên Nexus là **Seasonal Outfits - Slightly Cuter Aesthetic**. Vẽ lại
 > Riêng mod sửa **hình nhân vật của mình** (Get Glam, Soft Farmer...) thì phải tắt `SlightlyCuterFarmer`.
 >
 > Manifest có sẵn 6 phụ thuộc **tùy chọn** (Rustic Countryside, Vanilla Interiors, Starblue Valley, SVE, Cute Sprites) — **không cài cái nào**, nên phần tương thích đó đang nằm im.
+
+### OhoDavi's Anime Portraits 1.6.7 — 💤 _tải về để dành, chưa cài_
+
+Thay **chân dung hội thoại** của dân làng bằng nét vẽ kiểu **anime**, kèm bản **đi biển** và **mùa đông** cho nhiều người. Tác giả **OhoDavi**. Là **content pack của [[#Content Patcher 2.9.1|Content Patcher]]** — thư mục `[CP] Portrait Anime Mods OhoDavi`.
+
+**Tình trạng** — chỉ có file `.rar` trong `F:\Games\StardewValley Mods`, **chưa** bỏ vào `Mods` của game. Giữ lại để sau này thích thì cài.
+
+**Cấu hình** — `config.json`: bật/tắt **từng người một** (`enabled` / `disabled`), vài người có **kiểu thay thế**: `Abigail_Style` (`Glasses` — đeo kính) · `Emily_Style` / `Emily_Beach_Style` / `Emily_Winter_Style`, `Maru_Style`, `Evelyn_Style`, `Leah_Winter_Style`, `Penny_Winter_Style` (`Alter`). Không có GMCM thì sửa `config.json` rồi mở lại game.
+
+**Nexus** — https://www.nexusmods.com/stardewvalley/mods/1839
+
+> [!warning] Cài vào là đụng ngay [[#Seasonal Cute Characters 6.1.3|Seasonal Cute Characters]]
+> Pack này chỉ có **108 lệnh `EditImage`, tất cả nhắm vào `Portraits/…`** — tức chỉ thay chân dung, không đụng sprite đi lại. Seasonal Cute Characters thì vẽ lại **cả sprite lẫn chân dung** và đang bật cho mọi người, nên hai bên **đè chân dung của nhau**.
+>
+> Muốn dùng chân dung anime thì tắt `SlightlyCuter<Tên>` của người đó bên Seasonal Cute — nhưng mục đó tắt cả sprite. Kết quả là nhân vật mất bộ đồ theo mùa của Seasonal Cute, chân dung anime lại chỉ có bản thường / đi biển / mùa đông. Nên cân nhắc **chọn một trong hai** chứ đừng trộn.
+
+> [!info]- Tên file ghi 1.6.6, bên trong là 1.6.7
+> Tên file tải về có `1.6.6`, nhưng `manifest.json` bên trong ghi **`1.6.7`** — lấy manifest làm chuẩn. `content.json` khai `"Format": "1.20.0"` (đời game 1.5), nên lúc cài Content Patcher sẽ báo "chưa cập nhật cho 1.6" và tự chuyển đổi, giống [[#Forage Markers – Stardew Visual Enhancer 1.0.0|Forage Markers]]. NPC mới của 1.6 có ảnh `Bear`, `Birdie` trong pack.
 
 ---
 
