@@ -420,7 +420,7 @@ Bảng theo dõi **tiến độ Hoàn hảo (Perfection)** — mỗi hạng mụ
 > Hai mục `SVECategories` và `RidgesideCategories` **chưa dùng tới** — bộ mod hiện tại không có SVE lẫn Ridgeside Village.
 
 > [!vh] Menu ra tiếng Anh
-> Mod có 10 bản dịch (de/es/fr/it/ja/ko/pt-BR/ru/zh) nhưng **chưa có tiếng Việt**, nên các thanh giữ nguyên tên tiếng Anh như bảng trên.
+> Mod có 9 bản dịch (de/es/fr/it/ja/ko/pt-BR/ru/zh) nhưng **chưa có tiếng Việt**, nên các thanh giữ nguyên tên tiếng Anh như bảng trên.
 
 ### Visible Fish 0.4.2
 
@@ -526,7 +526,7 @@ Bảng thống kê tổng hợp **ngay trong game** — gom thứ vốn nằm r�
 > Gõ ở console SMAPI: `dashboard_status` khi thấy số liệu lạ · `dashboard_reset confirm` để xóa sạch bộ đếm nội bộ.
 
 > [!vh] Menu ra tiếng Anh
-> Mod dịch sẵn 11 thứ tiếng (DE, ES, FR, IT, JA, KO, PT-BR, RU, TR, ZH) nhưng **không có tiếng Việt**.
+> Mod dịch sẵn 10 thứ tiếng (DE, ES, FR, IT, JA, KO, PT-BR, RU, TR, ZH) nhưng **không có tiếng Việt**.
 
 > [!warning]- Nút HUD đang tắt, và vài lưu ý nhỏ
 > `ShowHudButton` trong `config.json` đang để `false` → **không có icon trên màn hình**, mở bảng bằng `F10`. Ảnh GMCM ở trên chụp lúc đang tick thử, chưa bấm **Save**.
