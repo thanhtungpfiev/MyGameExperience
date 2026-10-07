@@ -188,5 +188,51 @@ Giữa mỗi ruộng A/B/C chừa một khoảng 3 × 4 không cày, đặt **B�
 >
 > **Hai ao** (góc trên–phải, dưới–giữa) là ao có sẵn của bản đồ, không phải Hồ Cá xây thêm.
 
+### Bản dựng lại Mẫu 2 trên planner
+
+![[assets/my-farm-plan-2.jpg|700]]
+
+**Link planner:** https://stardew.info/planner/17-fine-chickens-sat-easily
+
+Dựng lại [[#Mẫu 2 — Cân bằng gọn & đẹp|Mẫu 2]] theo cùng cách với Mẫu 1. Mẫu này trang trí dày (hàng rào nhỏ, đèn, bụi cây, cây quanh từng ô vườn), nên bản dựng giữ **khung bố cục**: lưới đường gỗ, các ô vườn, công trình và 4 trụ dịch chuyển. Phần trang trí lặt vặt thì bỏ bớt — thêm dần trên planner hoặc ngay trong game.
+
+**Lưới đường** — Sàn gỗ (Wood Floor) rộng 2 ô:
+- Trục dọc chính ở x 40–41, chạy từ lối vào trại (y = 0) xuống tận đáy.
+- Đường ngang ở y 16–17 (tới x = 78, ngang trước nhà), y 32–33, y 46–47, y 59–60.
+- Đường dọc ở x 16–17, 28–29, 52–53, 64–65, từ y = 16 xuống y = 60.
+
+**Công trình:**
+
+| Công trình | Góc trên–trái | Cỡ nền |
+|---|---|---|
+| Giếng (Well) | (13, 10) | 3 × 3 |
+| Hồ Cá (Fish Pond) | (18, 10) | 5 × 5 |
+| Cabin (bản đá) | (35, 11) | 5 × 3 |
+| Chuồng gia cầm lớn (Big Coop) 1 · 2 | (44, 12) · (68, 21) | 6 × 3 |
+| Kho chứa Cỏ (Silo) | (55, 11) | 3 × 3 |
+| Chuồng ngựa (Stable) | (74, 13) | 4 × 2 |
+| Thùng ship | (71, 14) — chỗ mặc định | 2 × 1 |
+| Chuồng Gia súc (Barn) | (69, 34) | 7 × 4 |
+| Đồng hồ Hoàng kim (Gold Clock) | (69, 44) | 3 × 2 |
+| Cabin (bản gỗ súc) | (4, 36) | 5 × 3 |
+| Cabin (bản ván) | (10, 53) | 5 × 3 |
+| Trụ đảo · Trụ cát (Island · Desert Obelisk) | (20, 50) · (25, 50) | 3 × 2 |
+| Trụ đất · Trụ Nước (Earth · Water Obelisk) | (54, 50) · (59, 50) | 3 × 2 |
+| Cối xay (Mill) | (47, 52) | 4 × 2 |
+
+**Ô vườn** — mỗi ô rộng 10: cây trồng 4 cột bên trái + 4 cột bên phải, giữa là lối **Đường đá dậm bước** (Stepping Stone Path) rộng 2. **Vòi phun nước Iridium** đặt ở cột thứ 2 và cột thứ 9 của ô (x0 + 1 và x0 + 8). **Bù nhìn** ở cột thứ 4, sát lối giữa.
+
+| Ô | Vị trí | Vòi phun nước Iridium (hàng y) | Cây minh hoạ trái · phải |
+|---|---|---|---|
+| Vườn 1–4 (hàng trên) | x0 = 18 · 30 · 42 · 54, y 18–31 | y = 20 · 25 · 30 | Súp lơ · Trái việt quất — Dưa · Bí ngô — Dâu tây · Cà chua — Ớt hiểm · Nam việt quất |
+| Vườn 5 | x 18–27, y 34–45 | y = 36 · 41 · 44 | Trái việt quất · Dưa |
+| Vườn 6 | x 54–63, y 34–45 | y = 36 · 41 · 44 | Bí ngô · Súp lơ |
+| Vườn hoa 1 · 2 | x 30–39 · 42–51, y 34–45 | — | Hành lam cầu · Tulip, viền ngoài toàn **Nhà Ong** (40 cái mỗi ô) |
+
+**Phần còn lại:** luống Hướng dương ở x 4–8, y 12–19 (vòi ở (6, 14), (6, 18)) · Thùng chứa ở x 7–13, hàng y 25–26 và 28–29 · luống Cà chua ở x 3–9, y 45–50 (vòi ở (6, 47)) · vườn cây ăn quả bên phải quanh Đồng hồ Hoàng kim, lối Đường đá dậm bước ở x = 71 · hai ao (góc trên–phải, dưới–giữa) là ao có sẵn của bản đồ.
+
+> [!warning] Cây minh hoạ trộn nhiều mùa
+> Súp lơ, Dâu tây là cây mùa xuân; Dưa, Bí ngô… là cây mùa hè/thu — chỉ để từng ô có màu khác nhau trên planner. Khi trồng thật thì chọn theo mùa. Ô Vườn hoa trong ảnh gốc nhỏ hơn và xen bụi cây; bản dựng làm kín cả ô cho dễ nhìn.
+
 - [ ] Vẽ bản quy hoạch năm 1
 - [ ] Vẽ bản quy hoạch dài hạn (có nhà kính + dàn Thùng chứa (Keg))
