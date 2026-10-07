@@ -47,7 +47,7 @@
 | `F5` / `F7` | QuickSave | Lưu nhanh giữa ngày / nạp lại bản lưu nhanh |
 | `F8` | MultiSave - Continued | Tạo bản lưu mốc thủ công |
 | `F10` | Stardew Dashboard | Mở bảng thống kê tổng hợp |
-| `` ` `` | Ladder Locator | Bật/tắt tô sáng thang & hố xuống (đang để **luôn hiện**) · thêm `Shift`/`Alt`/`Ctrl`/`Ctrl`+`Shift` cho kiểu tô · độ trong · màu đá · radar quặng |
+| `` ` `` | Ladder Locator | Bật/tắt `ForceShafts` — **luôn hiện hố** (đang bật) · thêm `Shift`/`Alt`/`Ctrl`/`Ctrl`+`Shift` cho kiểu tô · độ trong · màu đá · radar quặng |
 | `Shift trái` (giữ) | Range Highlight | Hiện **tất cả** vùng tác dụng |
 | `J` / `H` / `R` / `O` (giữ) | Range Highlight | Vùng Lều Junimo / Nhà Ong / Vòi tưới cây / Bù nhìn |
 | `F` | Better Crafting | Đánh dấu ⭐ yêu thích công thức đang rê chuột |
@@ -642,7 +642,7 @@ Trong mỏ, **tô sáng hòn đá đang giấu thang hoặc hố xuống tầng*
 
 **Cách dùng** — không thao tác gì, vào mỏ là thấy ô viền sáng trên hòn đá có thang. Đập đúng hòn đó là thang/hố hiện ra.
 
-**Phím** — đều dùng phím `` ` `` (dấu huyền, cạnh số `1`): `` ` `` bật/tắt tô thang & hố · `Shift trái`+`` ` `` đổi **kiểu tô** · `Alt trái`+`` ` `` đổi **độ trong** · `Ctrl trái`+`` ` `` bật/tắt **tô theo màu đá** · `Ctrl trái`+`Shift trái`+`` ` `` bật/tắt **radar quặng**.
+**Phím** — đều dùng phím `` ` `` (dấu huyền, cạnh số `1`): `` ` `` bật/tắt **luôn hiện hố** (`ForceShafts`) · `Shift trái`+`` ` `` đổi **kiểu tô** · `Alt trái`+`` ` `` đổi **độ trong** · `Ctrl trái`+`` ` `` bật/tắt **tô theo màu đá** · `Ctrl trái`+`Shift trái`+`` ` `` bật/tắt **radar quặng**.
 
 **Cấu hình** — GMCM (log SMAPI xác nhận mod có nối API GMCM) hoặc `config.json`.
 
@@ -650,7 +650,7 @@ Trong mỏ, **tô sáng hòn đá đang giấu thang hoặc hố xuống tầng*
 
 | Tùy chọn | Đang để | Tác dụng |
 |---|---|---|
-| `ForceShafts` | ✅ | **Luôn hiện** thang & hố, khỏi phải bấm `` ` `` mỗi tầng |
+| `ForceShafts` | ✅ | **Luôn hiện hố** (shaft — lỗ nhảy nhiều tầng, chỉ có ở Hang Đầu Lâu). Tooltip mod: _"Force shafts to be always visible"_; phím `` ` `` chính là công tắc của dòng này |
 | `HighlightTypes` | `Rectangle` | Kiểu tô: khung chữ nhật (còn `Image` dùng ảnh `cracked.png`, `Sprite` tô chính hình đá) |
 | `HighlightRectangleRGBA` | trắng, đục hẳn | Màu khung |
 | `HighlightUsesStoneTint` | ✅ | Khung ăn theo màu hòn đá |
