@@ -184,7 +184,7 @@ Giữa mỗi ruộng A/B/C chừa một khoảng 3 × 4 không cày, đặt **B�
 >
 > **Ba Nhà Kho lớn** trên planner trông thấp hơn ảnh gốc — chỉ khác hình vẽ, nền 7 × 3 vẫn đúng.
 >
-> **Đường lát** trên planner là sỏi (Gravel Path) cho dễ thấy lối; ảnh gốc dùng nhiều loại nền khác nhau. **Cây trồng** chỉ để minh hoạ (Cải vàng, Súp lơ), chọn thật theo mùa.
+> **Đường lát** trên planner là **Đường rải sỏi** (Gravel Path) cho dễ thấy lối; ảnh gốc dùng nhiều loại nền khác nhau. **Cây trồng** chỉ để minh hoạ (Cải vàng, Súp lơ), chọn thật theo mùa.
 >
 > **Hai ao** (góc trên–phải, dưới–giữa) là ao có sẵn của bản đồ, không phải Hồ Cá xây thêm.
 
