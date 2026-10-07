@@ -2,7 +2,7 @@
 
 > Về [[00 Home]] · Áp dụng theo [[Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]] · 🛟 [[An toàn save]] · 📦 [[Bản XNB và bản CP]]
 >
-> _32 mục trong `F:\Games\StardewValley Mods` — **31 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
+> _34 mục trong `F:\Games\StardewValley Mods` — **33 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
 >
 > _Mỗi mục mod: dòng đầu là **công dụng**, rồi các dòng **Cách dùng / Phím / Cấu hình / Nexus**. Cảnh báo và chi tiết dài nằm trong **khối callout** — khối có dấu `-` là mặc định gấp lại, bấm để mở. Phím ghi "GMCM" = mặc định trống, tự gán trong Cài đặt → GMCM._
 
@@ -10,11 +10,11 @@
 
 1. [[#1) Bộ nền & Việt hóa (bắt buộc, cài trước)|Bộ nền & Việt hóa]] (3)
 2. [[#2) Cấu hình mod trong game|Cấu hình trong game]] (2)
-3. [[#3) Giao diện & thông tin (UI/Info)|Giao diện & thông tin]] (16)
+3. [[#3) Giao diện & thông tin (UI/Info)|Giao diện & thông tin]] (17)
 4. [[#4) Kho đồ & rương|Kho đồ & rương]] (3)
 5. [[#5) Tự động hóa & năng suất|Tự động hóa & năng suất]] (2)
 6. [[#6) Tiện ích (QoL)|Tiện ích (QoL)]] (3)
-7. [[#7) Cheat & Debug|Cheat & Debug]] (1)
+7. [[#7) Cheat & Debug|Cheat & Debug]] (2)
 8. [[#8) Hình ảnh / nhân vật|Hình ảnh / nhân vật]] (1)
 9. [[#9) Ghi chú bản VH & file trùng|Ghi chú bản VH & file trùng]]
 10. [[#10) Thứ tự cài & vận hành ổn định (1.6.15)|Thứ tự cài & vận hành ổn định]]
@@ -39,6 +39,8 @@
 | `C` | UI Info Suite 2 | Mở Lịch — tự gán, [[#🔧 Phím đã tự đổi\|lý do]] |
 | `Q` | UI Info Suite 2 | Mở Bảng nhiệm vụ — tự gán, [[#🔧 Phím đã tự đổi\|lý do]] |
 | `F2` | All Chests Menu | Xem tất cả rương trong 1 menu (đang tắt yêu cầu giữ `Shift`) |
+| `L` | Data Layers | Bật/tắt lớp phủ dữ liệu — tự đổi, [[#🔧 Phím đã tự đổi\|lý do]] |
+| `Ctrl trái` / `Ctrl phải` | Data Layers | Lớp trước / lớp sau (khi lớp phủ **đang mở**) |
 | `U` | Automate | Bật/tắt lớp phủ sơ đồ máy–rương |
 | `X` | Experience Bars | Ẩn/hiện thanh XP (`Shift`+`X` để di chuyển vị trí) |
 | `P` | CJB Cheats Menu | Mở menu cheat |
@@ -48,6 +50,7 @@
 | `F8` | MultiSave - Continued | Tạo bản lưu mốc thủ công |
 | `F10` | Stardew Dashboard | Mở bảng thống kê tổng hợp |
 | `` ` `` | Ladder Locator | Bật/tắt `ForceShafts` — **luôn hiện hố** (đang bật) · thêm `Shift`/`Alt`/`Ctrl`/`Ctrl`+`Shift` cho kiểu tô · độ trong · màu đá · radar quặng |
+| `Z` | Debug Mode | Bật/tắt bảng thông tin debug — tự đổi, [[#🔧 Phím đã tự đổi\|lý do]] |
 | `Shift trái` (giữ) | Range Highlight | Hiện **tất cả** vùng tác dụng |
 | `J` / `H` / `R` / `O` (giữ) | Range Highlight | Vùng Lều Junimo / Nhà Ong / Vòi tưới cây / Bù nhìn |
 | `F` | Better Crafting | Đánh dấu ⭐ yêu thích công thức đang rê chuột |
@@ -78,6 +81,7 @@
 > | `Space` | NPC Map Locations (chỉ khi **đang mở bản đồ**) · MouseMoveMode (ép đi) |
 > | `F` | Nhật ký nhiệm vụ (gốc) · Better Crafting (chỉ **trong menu chế tạo**) |
 > | `Tab` | NPC Map Locations (chỉ khi **đang mở bản đồ**) — phím gốc đổi hàng thanh công cụ đã chuyển sang `N` |
+> | `Ctrl` | Data Layers đổi lớp (chỉ khi **lớp phủ đang mở**) · MouseMoveMode (`Ctrl`+lăn zoom) · Chests Anywhere (`Ctrl`+`F`) · Ladder Locator (`Ctrl`+`` ` ``) — Data Layers gán đổi lớp vào `Ctrl` trơn, nên đang mở lớp phủ mà giữ `Ctrl` để zoom thì lớp **có thể** nhảy theo (suy từ config, chưa thử trong game) |
 >
 > `M` là **phím gốc**: NPC Map Locations chỉ mở rộng chức năng bản đồ chứ không chiếm thêm phím.
 
@@ -92,11 +96,13 @@ Chỗ **duy nhất** ghi lý do đổi phím — mục mod và bảng phím gố
 | **`Q`** | Mở Bảng nhiệm vụ _(UI Info Suite 2)_ | `H` | Nhường `H` cho vùng Nhà Ong của Range Highlight |
 | **`V`** _(thêm, không thay)_ | Kiểm tra / tương tác, đỡ đòn _(game)_ | chỉ chuột phải + `X` | Chuột phải đang dùng để đi ([[#MouseMoveMode 1.4.4\|MouseMoveMode]]); mod chỉ chặn chuột phải vật lý nên `V` chạy y như game gốc — đỡ đòn trong mỏ bằng phím thay vì nút giữa chuột |
 | **`N`** | Đổi hàng thanh công cụ _(game)_ | `Tab` | Không phải vì trùng mod: túi khởi đầu chỉ **1 hàng 12 ô** nên `Tab` không có gì để đảo, tưởng hỏng. Có Túi lớn (2.000g ở Pierre) mới có hàng thứ hai |
+| **`L`** | Bật/tắt lớp phủ _(Data Layers)_ | `F2` | Trùng `F2` của [[#All Chests Menu 0.4.2\|All Chests Menu]] — bên đó để `ModToOpen: false` nên bấm `F2` trơn là mở, hai mod cùng bắt một phím |
+| **`Z`** | Bật/tắt bảng debug _(Debug Mode)_ | `` ` `` | Trùng `` ` `` của [[#Ladder Locator 1.5.2\|Ladder Locator]], mà phím đó đảo thẳng `ForceShafts` → mỗi lần bật debug là **hố thôi luôn hiện** (thang không ảnh hưởng; hố chỉ có ở Hang Đầu Lâu) |
 | **`K`** | Mở bảng Perfection Stats | _(trống)_ | Tab cúp trong menu `Esc` hay bấm trượt ([[#Perfection Stats 1.6.7\|lỗi vùng click]]). `O` định dùng trước nhưng đã là vùng Bù nhìn của Range Highlight |
 
 **Còn để nguyên:** `X` — trùng giữa phím phụ "kiểm tra" của game và ẩn/hiện thanh XP của Experience Bars, nhưng hai việc gần như không bao giờ cần cùng lúc. Muốn đổi thì gán Experience Bars sang một phím trống.
 
-**Phím trống còn lại:** `L`, `Z`.
+**Phím trống còn lại:** hết — `L` đã cho Data Layers, `Z` cho Debug Mode. Gán thêm thì đối chiếu [[Mẹo#⌨️ Phím tắt gốc của game (để tránh gán trùng khi cài mod)|phím gốc]] trước.
 
 ---
 
@@ -485,6 +491,66 @@ Hiện lớp thông tin ngay trên màn hình khi đang cầm cần câu (hoặc
 
 > [!warning] Chỉ là hình vẽ, không đổi tỉ lệ ra cá hay độ khó minigame
 > Giống [[#Visible Fish 0.4.2|Visible Fish]] — chỉ hiển thị thông tin, không thay đổi cơ chế câu cá thật, tỉ lệ cắn câu hay độ khó ô xanh khi bắt. Hai mod dùng chung mục đích (biết trước có gì để câu) nhưng khác cách trình bày — Visible Fish vẽ cá bơi dưới nước, mod này liệt kê dạng danh sách/bảng trên overlay. Giữ cả hai không xung đột, chỉ trùng thông tin.
+
+### Data Layers 1.23.0
+
+Phủ lên bản đồ **lớp màu theo từng loại dữ liệu**: ô nào đi được, xây được, cày được · vùng phủ Nhà Ong / bom / Lều Junimo / Bù nhìn / Vòi tưới cây · cây **đã tưới**, **đã bón phân**, **chín chưa** · độ sâu câu cá · máy đang chạy hay rảnh. Tác giả **Pathoschild** (cùng tác giả Automate, Lookup Anything, Chests Anywhere).
+
+**Cách dùng** — bấm `L` mở lớp phủ, `Ctrl trái` / `Ctrl phải` đổi sang lớp trước / sau, bấm `L` lần nữa để tắt. Góc màn hình có bảng chú thích màu; rê chuột vào thì bảng mờ đi (`LegendAlphaOnHover: 0.2`) cho khỏi che.
+
+**Phím** — `L` bật/tắt (mặc định `F2`, [[#🔧 Phím đã tự đổi|lý do]]) · `Ctrl trái` / `Ctrl phải` lớp trước / sau · tay cầm dùng `LB` / `RB`. Từng lớp có ô `ShortcutKey` để gán phím nhảy thẳng tới lớp đó — đang để trống hết.
+
+**Cấu hình** — GMCM hoặc `config.json`. Đang để: `ShowGrid` ✅ (kẻ lưới ô) · `CombineOverlappingBorders` ✅ (vùng chồng nhau vẽ chung một viền) · `ColorScheme: Default` · **cả 16 lớp đều bật**.
+
+**Nexus** — https://www.nexusmods.com/stardewvalley/mods/1691
+
+> [!tip] Lớp "Auto" — tự đổi theo vật đang cầm
+> Lớp đầu tiên là **Auto**: cầm Vòi tưới cây thì hiện vùng tưới, cầm Nhà Ong thì hiện vùng Nhà Ong... Lớp nào có `EnabledForAutoLayer: true` mới được Auto chọn — đang có 11 lớp; **Accessible, Machines, Paddy Water, Tile Grid** thì không, phải bấm `Ctrl` đổi tay.
+
+> [!info]- 16 lớp đang có — đọc màu thế nào
+> Màu lấy từ `assets/colors.json` (bảng `Default`), tên chú thích lấy từ `i18n/default.json` — đúng chữ hiện trên bảng chú thích trong game.
+>
+> **Mặt đất — chỗ này làm được gì**
+>
+> | Lớp | Màu → nghĩa | Dùng khi |
+> |---|---|---|
+> | **Accessible** | 🟩 Clear đi được · 🟧 Occupied có vật đặt lên · 🟥 Impassable không đi được · 🟦 Warp ô chuyển khu | Kiểm tra hàng rào/đồ đặt có bịt mất lối đi không |
+> | **Buildable** | 🟩 Can Build here · 🟧 Occupied · 🟥 Can't Build Here | Trước khi gọi Robin xây — thấy ngay chỗ nào đặt vừa chuồng/silo |
+> | **Tillable** | 🟩 Tillable cày được · 🟪 Tilled đã cày · 🟧 Occupied · 🟥 Not Tillable | Quy hoạch luống mới, nhất là đất có đá/cỏ lẫn |
+> | **Tile Grid** | chỉ kẻ lưới, không tô màu | Đếm ô khi xếp đồ thẳng hàng |
+>
+> **Vùng phủ — đặt đồ chỗ nào** (🟦 xanh dương là vùng của đúng cái đang rê chuột vào)
+>
+> | Lớp | Màu → nghĩa | Ghi chú |
+> |---|---|---|
+> | **Bee Houses** | 🟩 Flower Range | Vùng hoa ảnh hưởng tới mật của Nhà Ong (Bee House) |
+> | **Bombs** | 🟥 Dig Radius · 🟪 Destroy Object Radius · ⬛ Shockwave Radius | Đúng 3 vòng bom như [[#Range Highlight 4.2.1\|Range Highlight]]: cày đất · phá vật · sóng nổ (phá cây, gây sát thương) |
+> | **Junimo Huts** | 🟩 Can Harvest · 🟥 Can't Harvest | Cây nằm ngoài vùng Lều Junimo (Junimo Hut) là đỏ |
+> | **Scarecrows** | 🟩 Protected · 🟥 Exposed | Cây đỏ là quạ ăn được |
+> | **Sprinklers** | 🟩 Covered · 🟥 Dry Crops | Đỏ = cây **không** nằm trong vùng Vòi tưới cây (Sprinkler) nào → phải tưới tay |
+>
+> **Cây trồng — tình trạng hôm nay**
+>
+> | Lớp | Màu → nghĩa | Ghi chú |
+> |---|---|---|
+> | **Watered** | 🟩 Watered Crop · 🟥 Dry Crop | Soát sót trước khi đi ngủ |
+> | **Fertilized** | 🟩 Fertilizer · 🟦 Retaining Soil · 🟪 Speed-Gro · 🟥 Multiple | Xanh lá = các loại **Phân bón cơ bản / chất lượng**; xanh dương = **Phân bón giữ nước**; tím = **Phân bón Thúc (Speed-Gro)** |
+> | **Ready to Harvest** | 🟩 Ready · ⬛ Not Ready · 🟥 Not Enough Time (or Dead) | **Đỏ là lớp đáng xem nhất**: cây **không kịp chín trước khi hết mùa**, hoặc đã chết |
+> | **Water for Paddy Crops** | 🟩 Near Water · 🟥 Dry Land | Chỗ trồng **Mạ (Rice Shoot)** / **Gốc khoai môn (Taro Tuber)** được tính là "gần nguồn nước" — mô tả hạt trong game: _"Lớn nhanh hơn nếu trồng gần nguồn nước"_ |
+>
+> **Khác**
+>
+> | Lớp | Màu → nghĩa | Ghi chú |
+> |---|---|---|
+> | **Fishing Depth** | 🟥 Next to shore → Two → Three → Four → 🟩 Max depth | Phao rơi càng xa bờ (càng xanh) thì cá càng tốt — chỗ đứng câu nên chọn sao cho tầm quăng chạm vùng xanh. `ThrowBobberMax` của [[#CJB Cheats Menu 1.42.0\|CJB]] đang bật nên luôn quăng xa tối đa |
+> | **Machine Processing** | 🟥 Empty · 🟧 Processing · 🟩 Finished | Đi một vòng xưởng: đỏ = máy rảnh cần bỏ nguyên liệu, xanh = có hàng để lấy |
+> | **Auto** | tuỳ vật đang cầm | Xem khối "Lớp Auto" ở trên |
+
+> [!warning] Trùng việc với Range Highlight — không phải xung đột
+> Phần **vùng phủ** làm lại đúng việc của [[#Range Highlight 4.2.1|Range Highlight]]. Hai mod không đè nhau vì Data Layers chỉ vẽ khi bấm `L`, còn Range Highlight vẽ khi cầm vật hoặc giữ phím. Giữ cả hai: Range Highlight tiện khi đang đặt đồ, Data Layers mạnh ở mấy lớp Range Highlight không có — **cây chưa tưới, chưa bón, đã chín** và **ô nào còn xây/cày được**.
+
+> [!vh] Không có tiếng Việt
+> Thư mục `i18n` không có `vi.json` → tên lớp và bảng chú thích ra **tiếng Anh**.
 
 ### Stardew Dashboard 2.1.6 — ✅ _đã cài (manifest bên trong vẫn ghi 2.1.5)_
 
@@ -1149,6 +1215,24 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 
 > [!success] Mã nguồn mở, có bằng chứng dựng bản
 > Toàn bộ mã công khai, và **mỗi bản phát hành kèm một attestation** — bản ghi không giả mạo được, chứng minh file tải về đúng là dựng từ mã nguồn công khai chứ không bị nhét thêm gì. Hiếm mod nào làm tới mức này.
+
+### Debug Mode 1.17.4
+
+Bảng thông tin **debug** góc màn hình: toạ độ **ô dưới con trỏ**, **tên khu** đang đứng, tên **menu / submenu / minigame** đang mở, hội thoại, **ID sự kiện** và kịch bản sự kiện đang chạy, tên lễ hội, **ID cửa hàng**, bài nhạc đang phát. Tác giả **Pathoschild**.
+
+**Cách dùng** — bấm `Z` bật/tắt bảng. Hợp nhất khi đối chiếu wiki hay sửa note: tra đúng toạ độ ô cho [[Quy hoạch nông trại]], đúng tên khu cho [[Bản đồ khu vực]], hay ID sự kiện đang xem cho [[Bí mật & Sự kiện ẩn]].
+
+**Phím** — `Z` (mặc định `` ` ``, [[#🔧 Phím đã tự đổi|lý do]]).
+
+**Cấu hình** — GMCM hoặc `config.json`. `AllowGameDebug: false` · `AllowDangerousCommands: false` — **đều đang tắt, nên để nguyên**.
+
+**Nexus** — https://www.nexusmods.com/stardewvalley/mods/679
+
+> [!danger] Đừng bật `AllowGameDebug` khi đang chơi save thật
+> Bật lên thì bảng debug kéo theo **phím debug gốc của game** — kiểu bấm `5` là dịch chuyển ra bãi biển — trùng hẳn với phím số chọn ô thanh công cụ. Bật thêm `AllowDangerousCommands` còn mở những phím **kết thúc ngày ngay lập tức, xáo ngẫu nhiên nhân vật / nội thất nhà, hoặc làm sập game**. Để cả hai `false` thì mod chỉ **hiển thị**, không đổi gì trong save.
+
+> [!vh] Không có tiếng Việt
+> Thư mục `i18n` không có `vi.json` → nhãn trên bảng ra **tiếng Anh** (`tile`, `location`, `event ID`...).
 
 ## 8) Hình ảnh / nhân vật
 
