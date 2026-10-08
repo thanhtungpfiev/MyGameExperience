@@ -534,7 +534,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 ## 🏗️ Lộ trình xây trang trại theo năm
 
-> _Xây dần theo [[Quy hoạch nông trại#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]] — toạ độ từng món, ảnh và link planner ở bên đó; đứng ngoài trại bấm `Z` ([[Mods#Debug Mode 1.17.4|Debug Mode]]) để đọc toạ độ ô. Chi phí và công thức dưới đây đọc từ file game 1.6.15 (`Data/Buildings`, `Data/CraftingRecipes`, `Data/Shops`), không phải trí nhớ._
+> _Xây dần theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]] — toạ độ từng món, ảnh và link planner ở bên đó; đứng ngoài trại bấm `Z` ([[Mods#Debug Mode 1.17.4|Debug Mode]]) để đọc toạ độ ô. Chi phí và công thức dưới đây đọc từ file game 1.6.15 (`Data/Buildings`, `Data/CraftingRecipes`, `Data/Shops`), không phải trí nhớ._
 >
 > _**Hiện trạng (Quicksave Xuân 23, Năm 1):** Nông nghiệp cấp 4 · ví 13.902g · Chuồng gia cầm đang xây ở **(45, 14)**, xong sáng Xuân 24 · chưa có Kho chứa Cỏ._
 

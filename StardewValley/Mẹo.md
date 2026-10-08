@@ -362,7 +362,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 ## 🏗️ Xây dựng theo giai đoạn
 
-> _Thứ tự xây chung cho trang trại. Bản áp dụng cho nông trại này — toạ độ từng món, chi phí đủ, mốc theo mùa — nằm ở [[Wind - Daily#🏗️ Lộ trình xây trang trại theo năm|Daily — Lộ trình xây]], theo [[Quy hoạch nông trại#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]]. Chi phí đọc từ file game 1.6.15._
+> _Thứ tự xây chung cho trang trại. Bản áp dụng cho save Wind — toạ độ từng món, chi phí đủ, mốc theo mùa — nằm ở [[Wind - Daily#🏗️ Lộ trình xây trang trại theo năm|Daily — Lộ trình xây]], theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]]. Chi phí đọc từ file game 1.6.15._
 
 | Giai đoạn | Xây gì | Vì sao · chi phí chính |
 |---|---|---|

@@ -22,7 +22,7 @@ Note ở mục lục trên đúng cho **mọi save**. Thứ gắn với một sa
 
 | Save | Loại farm | Note |
 |------|-----------|------|
-| **Wind** | Nông trại Tiêu chuẩn (Standard Farm) | [[Wind - Daily]] — nhật ký theo ngày, mốc Quicksave mới nhất |
+| **Wind** | Nông trại Tiêu chuẩn (Standard Farm) | [[Wind - Daily]] — nhật ký theo ngày, mốc Quicksave mới nhất<br>[[Wind - Quy hoạch]] — bản quy hoạch riêng, toạ độ từng món |
 
 ## 🔗 Liên kết nhanh
 
