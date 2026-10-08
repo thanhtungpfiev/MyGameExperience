@@ -18,10 +18,14 @@ message đã push) nằm ở skill `commit`. Đây chỉ là phần riêng của
     Ranh giới `fix` và `docs` là chỗ hay lẫn: **`fix` khi thông tin cũ sai**, `docs` khi
     thông tin cũ đúng nhưng thiếu.
   - **Scope** — tên note **bỏ dấu**, viết hoa như tên note: `Meo` (Mẹo.md), `Ban do`
-    (Bản đồ khu vực.md), `Quy hoach` (Quy hoạch nông trại.md), `Daily`, `Mods`. Cấu hình
+    (Bản đồ khu vực.md), `Quy hoach` (Quy hoạch nông trại.md), `Mods`. Cấu hình
     vault dùng `Obsidian`, cấu hình Claude Code dùng `Claude`. Chạm nhiều note cùng lúc thì
     bỏ scope hẳn, đừng liệt kê.
-- **Scope chính là cái chuông báo tách commit.** Phải bỏ scope đi vì commit chạm cả `Daily`
+  - **Note theo save** (`StardewValley/Saves/<save>/<save> - <note>.md`) cũng theo luật
+    đó, giữ cả tên save: `Wind Daily`, `Wind Quy hoach`, `Wind Tien do`. Bỏ tên save thì
+    `Quy hoach` không còn phân biệt được note chung với note của save. Commit cũ ghi
+    `Daily` là note `Wind - Daily` trước khi đổi tên.
+- **Scope chính là cái chuông báo tách commit.** Phải bỏ scope đi vì commit chạm cả `Wind Daily`
   lẫn `Mods` mà hai thứ chẳng liên quan gì nhau, thì đó không phải lý do để bỏ scope — đó
   là dấu hiệu phải tách thành hai commit. Chỉ bỏ scope khi một ý duy nhất thật sự trải ra
   nhiều note.
