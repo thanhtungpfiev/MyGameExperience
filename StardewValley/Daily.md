@@ -477,7 +477,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **Việc cần làm:**
 - [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Phân bón Thúc) _(Quicksave Xuân 21: **40 bụi** vừa hái lứa 1, đếm ngược 4 ngày → chín đúng hôm nay)_
-- [ ] 🏗️ **Đặt Robin xây Kho chứa Cỏ (Silo)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả (Quicksave Xuân 21: 15 Đất sét, 14 Thỏi Đồng, 1.719 Đá). Robin chỉ xây một công trình một lúc, Chuồng gia cầm xong Ngày 24 mới đặt được. Chưa có Kho thì **cắt cỏ không ra cỏ khô** — ngày mưa gà phải ăn cỏ khô mua ở Marnie (50g/phần)
+- [ ] 🏗️ **Đặt Robin xây Kho chứa Cỏ (Silo)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả (Quicksave Xuân 21: 15 Đất sét, 14 Thỏi Đồng, 1.719 Đá). Robin chỉ xây một công trình một lúc, Chuồng gia cầm xong Ngày 24 mới đặt được. Chưa có Kho thì **cắt cỏ không ra cỏ khô** — ngày mưa gà phải ăn cỏ khô mua ở Marnie (50g/phần). **Đặt luôn với ô góc trên–trái của nền ở (72, 22)** — đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]], khỏi phải dời về sau
 - [ ] 🐔 Mua **1–2 gà** ở Trại Marnie (**800g/con**) — chỉ mua khi sau khi trả tiền ví vẫn còn **≥ 6.000g** cho hạt Hạ 1 (cùng mốc với Hạt giống hiếm). Ví đang **4.298g**, nên nếu bán Dâu tây lứa 2 xong vẫn chưa vượt mốc thì **dời gà sang Hạ** — chuồng để trống không mất gì. Gà mua về mất **3 ngày** mới lớn, rồi đẻ trứng mỗi ngày
 - [ ] 🌾 Mua gà thì mua luôn **cỏ khô ở Marnie** cho ngày 25–26 (Kho chứa Cỏ xây 2 ngày → xong sáng **Ngày 27**): mỗi con 1 phần/ngày, 2 con ≈ **4 phần = 200g**. Mua dư cũng không phí — có kho rồi thì cầm cỏ khô bấm vào phễu là cất vào kho. Cầm cỏ khô bấm vào **máng ăn trong chuồng** là đặt thẳng được, không cần kho. Ngày nắng vẫn mở cửa cho gà ra ăn cỏ, nhưng quanh chuồng gần như hết cỏ (Quicksave Xuân 21: 102 bụi trên cả nông trại, chỉ 2 bụi gần chuồng) nên **vẫn rải cỏ khô vào máng** làm dự phòng. **Đừng cắt cỏ trước Ngày 27** — chưa có kho thì cắt là mất trắng; có kho rồi mỗi nhát Liềm có **50%** ra 1 cỏ khô (kho chứa tối đa 240)
 - [ ] 🚧 **Không cần xây hàng rào** — gà không ăn cây trồng và tối tự về chuồng. Chỉ cần **lối ra cửa chuồng thông thoáng**: gà bị kẹt ngoài (vướng hàng rào, rương, máy) mà cửa đã đóng thì đêm có thể bị **thú hoang tấn công và mất hẳn con đó**. Hàng rào chỉ đáng làm về sau, nếu muốn quây gà lại quanh bãi Cỏ giống gần chuồng
@@ -519,6 +519,61 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **Lưu ý:** đêm nay ngủ vẫn tính là "Ngày 28 Xuân" như bình thường — sang ngày mới mới chính thức là Ngày 1 Hạ, không có gì đặc biệt phải làm gấp trước 24:00 ngoài ship nông sản.
 
 ---
+
+## 🏗️ Lộ trình xây trang trại theo năm
+
+> _Xây dần theo [[Quy hoạch nông trại#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]] — toạ độ từng món, ảnh và link planner ở bên đó; đứng ngoài trại bấm `Z` ([[Mods#Debug Mode 1.17.4|Debug Mode]]) để đọc toạ độ ô. Chi phí và công thức dưới đây đọc từ file game 1.6.15 (`Data/Buildings`, `Data/CraftingRecipes`, `Data/Shops`), không phải trí nhớ._
+>
+> _**Hiện trạng (Quicksave Xuân 23, Năm 1):** Nông nghiệp cấp 4 · ví 13.902g · Chuồng gia cầm đang xây ở **(45, 14)**, xong sáng Xuân 24 · chưa có Kho chứa Cỏ._
+
+> [!tip] Hai luật giúp xây dần không phải phá đi làm lại
+> **Robin dời công trình miễn phí** (Xưởng Mộc → di chuyển công trình), nên công trình đặt tạm chỗ khác thì về sau dời về đúng toạ độ cũng chẳng mất gì. **Robin chỉ xây một công trình một lúc**, mỗi cái 2–3 ngày, nên các công trình cùng mùa phải xếp nối nhau.
+
+### Năm 1 — đường chính, ruộng đầu tiên, bãi chăn nuôi
+
+| Khi nào | Việc | Chi phí / điều kiện |
+|---|---|---|
+| **Xuân 25** | Đặt **Kho chứa Cỏ** ở **(72, 22)** (xem [[#☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2\|Ngày 25]]) | 100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng |
+| **Xuân, ngày rảnh** | Lát **Đường lát đá**: trục ngang y 18–19 (trước nhà) rồi trục dọc x 40–41 và đoạn vòng qua ao | 1 Đá/ô, cả hai trục **≈ 307 ô** — công thức đã có, Quicksave Xuân 21 còn 1.719 Đá |
+| **Xuân–Hạ** | Mở **Ruộng 3** ở góc (30, 22) — ô sát trục dọc, gần nhà nhất | Tưới tay, hoặc **Vòi tưới cây** (đã có công thức, 1 Thỏi đồng + 1 Thỏi sắt) |
+| **Khi lên Nông nghiệp 6** (thường giữa Hạ) | Thay bằng **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9, hàng/cột cuối của ô để làm lối · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
+| **Thu** | Mở thêm **Ruộng 2** (19, 22) cho vụ Thu | 9 Vòi tưới cây xịn |
+| **Cuối Thu / Đông** | Rào **bãi chăn nuôi** x 54–76, y 21–46 (92 ô rào + cổng đôi ở (63, 21) (64, 21)) | **Hàng rào gỗ cứng** 1 Gỗ cứng/ô; thiếu Gỗ cứng thì dựng tạm **Hàng rào gỗ** (2 Gỗ/ô) rồi thay sau · **Cổng** 10 Gỗ |
+| **Đông** | Nhờ Robin **dời Chuồng gia cầm** từ (45, 14) sang **(65, 22)** — chỗ cũ là lối đi và Đồng hồ Hoàng kim của khu nhà | Miễn phí |
+| **Đông** | Xây **Chuồng Gia súc** ở **(56, 22)** | 6.000g + 350 Gỗ + 150 Đá, xây 3 ngày |
+| **Đông** | Trồng **cây chắn gió** (Hạt sồi, Hạt phong, Quả thông) theo vị trí bên quy hoạch · dọn **góc mộ ông nội** (sân Đường lát đá x 7–9, y 9–10, không trồng cây ở x ≤ 12) | 6 Đá cho sân · hạt cây nhặt khi chặt cây |
+
+### Năm 2 — đủ 6 ô ruộng, xưởng máy, vườn cây ăn quả
+
+| Khi nào | Việc | Chi phí / điều kiện |
+|---|---|---|
+| **Xuân** | Mở **Ruộng 1, 4, 5, 6** (mỗi ô 9 Vòi tưới cây xịn + 1 Bù nhìn) · dựng **Hàng rào gỗ cứng** quanh khu ruộng (87 ô, 4 Cổng) | 36 Vòi tưới cây xịn · 83 Gỗ cứng + 40 Gỗ |
+| **Xuân** | **Nhà Kho** ở **(43, 11)** → về sau nâng **Nhà Kho lớn** — xưởng **Thùng chứa / Vại Bảo quản**, rương đặt sát máy để [[Mods#Automate 2.6.1\|Automate]] tự chạy | Nhà Kho 15.000g + 300 Gỗ · Nhà Kho lớn 20.000g + 550 Gỗ + 300 Đá · Thùng chứa cần Nông nghiệp 8 |
+| **Xuân–Hạ** | **Vườn cây ăn quả** (đông nam, 24 cây) — mua dần ở Pierre, mỗi cột một loại | Táo 4.000g · Mơ 2.000g · Anh đào 3.400g · Đào 6.000g · Cam 4.000g · Lựu 6.000g mỗi cây giống — đủ 24 cây ≈ **98.400g** |
+| **Cả năm** | Nâng **Chuồng gia cầm lớn**, **Chuồng Gia súc lớn** | 10.000g + 400 Gỗ + 150 Đá · 12.000g + 450 Gỗ + 200 Đá |
+| **Hạ–Thu** | **Hai vườn hoa có Nhà Ong** ở tây nam (Hoa hồng tiên x 11–17 và Hành lam cầu x 21–27, y 50–54), 28 Nhà Ong mỗi vườn | Mỗi Nhà Ong 40 Gỗ + 8 Than đá + 1 Thỏi sắt + 1 Nhựa phong — làm dần, cứ đủ Nhựa phong thì đặt |
+| **Bất kỳ lúc nào dư tiền** | **Cối xay** ở (3, 46) · **Giếng** ở (34, 13) | 2.500g + 150 Gỗ + 50 Đá + 4 Vải · 1.000g + 75 Đá |
+
+### Năm 3 — ông chấm điểm, Iridium, chuồng cao cấp
+
+| Khi nào | Việc | Chi phí / điều kiện |
+|---|---|---|
+| **Xuân 1** | **Ông nội chấm điểm** ở mộ — góc mộ phải thoáng, đứng trước bậc đá (y = 8) mới tương tác được | — |
+| **Khi lên Nông nghiệp 9** | Thay toàn bộ bằng **Vòi phun nước Iridium**: 4 cái mỗi ô ở góc + (2, 2) (7, 2) (2, 7) (7, 7), phủ vừa khít 10 × 10 — cả 6 ô là **24 cái** | Mỗi cái 1 Thỏi vàng + 1 Thỏi Iridium + 1 Cục pin |
+| **Cả năm** | Nâng **Chuồng Gia cầm cao cấp**, **Chuồng Gia súc cao cấp** | 20.000g + 500 Gỗ + 200 Đá · 25.000g + 550 Gỗ + 300 Đá |
+
+### Cuối game — vườn trụ dịch chuyển (Pháp sư xây, không phải Robin)
+
+| Món | Vị trí | Chi phí |
+|---|---|---|
+| Trụ đất | (44, 26) | 500.000g + 10 Thỏi Iridium + 10 Tinh thể đất |
+| Trụ Nước | (49, 26) | 500.000g + 5 Thỏi Iridium + 10 Nghêu + 10 San hô |
+| Trụ cát | (44, 36) | 1.000.000g + 20 Thỏi Iridium + 10 Dừa + 10 Quả xương rồng |
+| Trụ đảo | (49, 36) | 1.000.000g + 10 Thỏi Iridium + 10 Răng rồng + 10 Chuối — chỉ mở sau khi **đã tới Đảo Gừng** |
+| Đồng hồ Hoàng kim | (50, 14) | 10.000.000g |
+
+> [!warning] Chưa kiểm chứng được
+> **Cột đèn sắt** (1 Thỏi sắt + 1 Cục pin) không có sẵn công thức, và cũng không tìm thấy trong cửa hàng hay thư nào của file game — chưa rõ học ở đâu, nên để cuối cùng. **Đường đá dậm bước** (1 Đá) cũng **chưa có trong save**; trong lúc chờ, các lối nhỏ lát tạm bằng **Đường lát đá** hoặc **Đường rải sỏi** (đều đã có công thức).
 
 ---
 
