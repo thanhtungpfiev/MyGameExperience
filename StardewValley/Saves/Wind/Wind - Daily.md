@@ -202,7 +202,7 @@ Robin và Marnie cùng nghỉ Thứ Ba → không tiêu tiền được mấy, d
 | **3.000–5.000g** | **30–50 hạt** | ✅ Hợp lý cho tưới tay |
 | 10.000g+ | 100 hạt | Chỉ nên nếu chịu nổi công tưới |
 
-Gieo Ngày 13 → chín Ngày 21 → tái thu hoạch 4 ngày/lứa → 2 lứa trước hết mùa, lời ~2,4 lần. Bón **Phân bón Thúc (Speed-Gro)** lúc gieo thì rút còn 7 ngày → ăn thêm 1 lứa (3 lứa). Nhưng **năm 1 gần như không kịp có Phân bón Thúc**: Pierre chỉ bán từ **Xuân 15** (100g/gói), còn tự chế cần Trồng trọt cấp 3 + Nhựa thông + 5 Rêu. Mẹo này để dành cho năm 2 — xem [[Mẹo#🧪 Phân bón|mục Phân bón]].
+Gieo Ngày 13 → chín Ngày 21 → tái thu hoạch 4 ngày/lứa → 2 lứa trước hết mùa, lời ~2,4 lần. Bón **Phân bón Thúc (Speed-Gro)** lúc gieo thì rút còn 7 ngày → ăn thêm 1 lứa (3 lứa). Nhưng **năm 1 gần như không kịp có Phân bón Thúc**: Pierre chỉ bán từ **Xuân 15** (100g/gói), còn tự chế cần Trồng trọt cấp 3 + Nhựa thông + 5 Rêu. Mẹo này để dành cho năm 2 — xem [[Phân bón]].
 
 **Việc cần làm:**
 - [x] Quét đồ lượm 1 vòng: Rừng Cindersap → Thị trấn → Bãi biển → Dãy Núi — gom đủ 4 món cho gói **Lượm Xuân** (hết mùa là hết cơ hội tới Xuân sang năm)
@@ -363,7 +363,7 @@ Cửa hàng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không �
 - [x] Lượm nốt Mâm xôi cá hồi — **ngày cuối cùng trong năm** bụi còn ra quả
 - [x] Việc thường ngày: tưới ruộng, mỏ/câu cá kiếm vốn nâng cấp túi đồ/công cụ
 - [x] 📦 **Giao Rong biển cho Emily** — nhiệm vụ còn **2 ngày**; rương đã có 2 Rong biển
-- [x] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Mẹo#🪱 Điểm cổ vật (Artifact Spot)|Mẹo]])
+- [x] 🌱 **Gieo gói Hạt giống cổ đại** đang trong túi — gieo hôm nay thì Hạ 18 ra trái; đừng để dành chờ máy (xem [[Điểm cổ vật]])
 
 > [!info] Tình trạng đọc từ quicksave Xuân 18
 > Câu cá cấp 8 · 5.091g · mỏ sâu nhất tầng 76 · ruộng có **72 cây**: 49 Dâu tây · 15 Súp lơ · 3 Cải vàng · 2 Khoai tây · 1 Đậu xanh · 1 Hạt cà phê · 1 Hạt giống cổ đại.

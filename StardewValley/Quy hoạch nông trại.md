@@ -88,7 +88,7 @@ Màu nào cũng gắn với **thứ trong rương**: xanh lá là cây, cam là 
 > - **Bật `FilterItems`/`Description` trong [[Mods#All Chests Menu 0.4.2|All Chests Menu]]** rồi gõ tên món vào ô Filter khi mở `F2` — ra ngay món đó nằm ở rương nào.
 
 > [!info] Cổ vật và Khoáng vật — hai rương khác nhau dù hay đào ra cùng lúc
-> Tab Thu thập (Collections) chia hai danh sách donate riêng: **Khoáng vật** (đá quý, khoáng mở từ Hốc tinh) → `Khoáng Sản, Đá Quý`; **Cổ vật** (đồ khảo cổ từ điểm cổ vật, rương kho báu) → `Cổ Vật, Đồ Trang Trí, Trang Phục`. Cổ vật chưa quyên góp thì mang đi Gunther trong ngày; cổ vật trùng xử lý theo [[Mẹo#🪱 Điểm cổ vật (Artifact Spot)|Mẹo]].
+> Tab Thu thập (Collections) chia hai danh sách donate riêng: **Khoáng vật** (đá quý, khoáng mở từ Hốc tinh) → `Khoáng Sản, Đá Quý`; **Cổ vật** (đồ khảo cổ từ điểm cổ vật, rương kho báu) → `Cổ Vật, Đồ Trang Trí, Trang Phục`. Cổ vật chưa quyên góp thì mang đi Gunther trong ngày; cổ vật trùng xử lý theo [[Điểm cổ vật]].
 >
 > Cổ vật, đồ trang trí và trang phục gộp chung một rương vì cả ba đều **ít, không stack** và hiếm khi phải lôi ra — gộp lại đỡ hai rương lưng lửng. Máy may mở khá muộn ([Tailoring](https://stardewvalleywiki.com/Tailoring)), khi nào quần áo nhiều tới mức chật rương mới cần tách.
 

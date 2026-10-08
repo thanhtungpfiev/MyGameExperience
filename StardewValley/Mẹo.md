@@ -10,6 +10,7 @@
 - **5 nghề:** [[#🌾 Trồng trọt (Farming)|Trồng trọt]] · [[#⛏️ Khai thác (Mining)|Khai thác]] · [[#🌰 Lượm (Foraging)|Lượm]] · [[#🎣 Câu cá (Fishing)|Câu cá]] · [[#⚔️ Chiến đấu (Combat)|Chiến đấu]]
 - [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền theo giai đoạn]] · [[#🏗️ Xây dựng theo giai đoạn|Xây dựng theo giai đoạn]] · [[#❤️ Kết bạn & hẹn hò|Kết bạn]] · [[#🧩 Nhà Văn hóa|Nhà Văn hóa]]
 - [[#🎛️ Tùy chọn game gốc nên bật|Tùy chọn game gốc]] · [[#⚙️ Mẹo liên quan mod|Mẹo mod]] · [[#🎥 Video hướng dẫn (tiếng Việt)|Video hướng dẫn]]
+- **Note tra cứu tách riêng:** [[Phân bón]] · [[Điểm cổ vật]] · [[Đồ câu cá]]
 
 ---
 
@@ -32,11 +33,13 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 ## 🌾 Trồng trọt (Farming)
 
+> _Tra cứu chi tiết: [[Phân bón]] — công thức, nơi bán, số ngày rút được, luật bón._
+
 ### Vận hành hằng ngày
 
 - **Vòi tưới cây (Sprinkler) > tưới tay:** Vòi tưới cây xịn / Iridium giải phóng cả buổi sáng. Có Sprinkler sớm ngày nào lãi ngày đó.
 - **Bố trí máy theo cụm** để dùng chung 1 rương (kết hợp Automate — xem [[Mods]]).
-- **Phân bón (Fertilizer):** Phân bón giữ nước cao cấp (Deluxe Retaining Soil) để khỏi tưới, Phân bón chất lượng (Quality Fertilizer) để tăng phẩm cấp. **Bón cùng ngày gieo**: Phân bón cơ bản và chất lượng bị chặn khi cây đã nảy mầm, còn Phân bón Thúc bón muộn thì phí — xem [[#🧪 Phân bón|mục Phân bón]].
+- **Phân bón (Fertilizer):** 3 nhóm — tăng **chất lượng** · tăng **tốc độ lớn** · **giữ ẩm**; mỗi ô chỉ nhận **một** loại, nên chọn theo mục tiêu từng vụ, không rải bừa. Phân bón giữ nước cao cấp (Deluxe Retaining Soil) để khỏi tưới, Phân bón chất lượng (Quality Fertilizer) để tăng phẩm cấp. **Bón cùng ngày gieo**: Phân bón cơ bản và chất lượng bị chặn khi cây đã nảy mầm, còn Phân bón Thúc bón muộn thì phí — bảng đủ loại, số ngày và ví dụ ở [[Phân bón]].
 - **Vại Bảo quản (Preserves Jar) vs Thùng chứa (Keg):** Vại Bảo quản nhanh hơn cho rau củ; Thùng chứa lời hơn cho hoa quả (làm Rượu).
 
 ### Cơ chế & lộ trình lên cấp (1.6)
@@ -46,7 +49,6 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 - **Mùa vụ:** Mỗi mùa **28 ngày**. Trồng phải tính ngày chín — trồng muộn là mất trắng khi sang mùa. Ưu tiên cây tái thu hoạch nếu còn đủ ngày.
 - **Chất lượng nông sản (Thường → Bạc → Vàng → Iridium):** quyết định bởi **cấp kỹ năng** + **phân bón**. Chênh lệch giá rất lớn, nên bón phân từ đầu.
-- **3 nhóm phân bón:** tăng **chất lượng** · tăng **tốc độ lớn** · **giữ ẩm**. Chọn theo mục tiêu từng vụ, không rải bừa. Bảng chi tiết và ví dụ ở [[#🧪 Phân bón|mục Phân bón]].
 - **Mốc cấp độ quan trọng:** mở khóa **Vòi tưới cây** → **Thùng chứa (Keg)**. Hai thứ đổi đời, càng sớm càng tốt.
 - **Bậc thầy Trồng trọt (Mastery, 1.6):** thưởng **Liềm Iridium** và **Tượng Phước Lành** — mục tiêu dài hạn đáng cày.
 
@@ -58,80 +60,6 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 1. Trồng quá nhiều ngay đầu game → không tưới xuể, kiệt năng lượng, cây héo.
 2. Trì hoãn làm Vòi tưới cây → mất cả buổi sáng mỗi ngày chỉ để tưới.
 3. Bỏ qua phân bón → nông sản toàn phẩm cấp Thường, bán rẻ mạt.
-
-### 🧪 Phân bón
-
-**Mỗi ô đất chỉ nhận một loại phân** — chọn giữa lên phẩm cấp, lớn nhanh, hay khỏi tưới. Phân nằm lại trên ô tới khi ô trở về đất thường, nên:
-
-- Cây **tái thu hoạch** (Dâu tây, Trái việt quất…) bón **một lần cho cả mùa**.
-- Cây **thu một lần** (Dưa, Súp lơ…) hái xong **gieo lại ngay trên ô cũ** là ăn tiếp phân cũ, kể cả Phân bón Thúc.
-- **Nhà kính** và **chậu cây** không bao giờ về đất thường → bón một lần dùng mãi, chỗ đáng bỏ loại xịn nhất.
-
-#### Tăng chất lượng (Thường → Bạc → Vàng → Iridium)
-
-| Loại | Tự chế | Mua |
-|---|---|---|
-| **Phân bón cơ bản** (Basic Fertilizer) | Trồng trọt 1 · 2 Nhựa cây | Pierre 100g, từ Xuân 15 năm 1 |
-| **Phân bón chất lượng** (Quality Fertilizer) | Trồng trọt 9 · 4 Nhựa cây + 1 cá bất kỳ (ra 2) | Pierre 150g, từ năm 2 |
-| **Phân bón cao cấp** (Deluxe Fertilizer) | 1 Thỏi Iridium + 40 Nhựa cây (ra 5) | Công thức: Qi's Walnut Room, 20 Ngọc kỳ bí |
-
-Chỉ **Phân bón cao cấp** mới cho ra phẩm Iridium. Hợp với cây bán giá cao hoặc cây mang đi ủ: Dưa, Bí ngô, Trái cổ đại, Khế.
-
-#### Tăng tốc độ lớn (Speed-Gro)
-
-| Loại | Tăng tốc | Tự chế (ra 5 gói) | Mua |
-|---|---|---|---|
-| **Phân bón Thúc** (Speed-Gro) | ≥10% | Trồng trọt 3 · 1 Nhựa thông + 5 Rêu | Pierre 100g, từ Xuân 15 năm 1 |
-| **Phân bón thúc cao cấp** (Deluxe Speed-Gro) | ≥25% | Trồng trọt 8 · 1 Nhựa sồi + 5 Mảnh xương vụn | Pierre 150g từ năm 2 · Ốc đảo (Sandy) Thứ Năm |
-| **Phân bón thúc siêu cấp** (Hyper Speed-Gro) | ≥33% | 1 Quặng phóng xạ + 3 Mảnh xương vụn + 1 Tinh chất mặt trời (ra 1) | Công thức: Qi's Walnut Room, 30 Ngọc kỳ bí |
-
-Nghề **Nhà nông học (Agriculturist)** cộng thêm 10% tốc độ, kể cả ô không bón. Phân bón Thúc **chỉ rút lứa đầu**: các lứa tái thu hoạch sau vẫn giữ nguyên số ngày (Dâu tây vẫn 4 ngày/lứa).
-
-**Số ngày tới lứa đầu** (trong ngoặc: khi đã có Nhà nông học):
-
-| Cây | Không bón | Thúc | Thúc cao cấp | Thúc siêu cấp |
-|---|---|---|---|---|
-| Cải vàng | 4 (3) | 3 (3) | 3 (2) | 2 (2) |
-| Dâu tây | 8 (7) | 7 (6) | 6 (5) | 5 (4) |
-| Súp lơ · Dưa | 12 (10) | 10 (9) | 9 (7) | 8 (6) |
-| Trái việt quất | 13 (11) | 11 (10) | 9 (8) | 8 (7) |
-| Trái cổ đại | 28 (25) | 25 (22) | 21 (18) | 18 (15) |
-
-Phân bón Thúc chỉ đáng tiền khi số ngày rút được **đổi ra thêm một lứa hoặc một vụ**:
-
-- **Dâu tây gieo Xuân 13** (hạt mua ở Lễ hội Trứng): không bón thì chín Xuân 21 → 25, được **2 lứa**. Bón Phân bón Thúc thì chín Xuân 20 → 24 → 28, được **3 lứa**. Một gói 100g đổi lấy cả một lứa Dâu tây.
-- **Dưa gieo Hạ 1, hái xong gieo lại liền:**
-
-  | Phân bón | Mỗi vụ | Các ngày thu | Số vụ |
-  |---|---|---|---|
-  | Không bón | 12 ngày | Hạ 13 · 25 | 2 |
-  | Thúc | 10 ngày | Hạ 11 · 21 | 2, vẫn không kịp vụ thứ 3 |
-  | Thúc cao cấp | 9 ngày | Hạ 10 · 19 · 28 | **3** |
-
-  Phân bón Thúc thường không thêm được vụ nào, nên ô đó để Phân bón chất lượng lời hơn.
-
-#### Bón kèm và bón muộn
-
-- **Ô đã bón phân khác (kể cả Phân bón cơ bản) thì không bón thêm Phân bón Thúc được.** Game báo _"Vị trí này đã được bón phân rồi"_. Không có cách vừa lên phẩm cấp vừa lớn nhanh trên cùng một ô, nên phải chọn theo từng cây.
-- **Ô chưa bón thì lúc nào cũng bón Phân bón Thúc được, kể cả khi cây đã nảy mầm**, nhưng bón muộn là phí. Game tính lại toàn bộ số ngày rồi trừ dần **từ các giai đoạn đầu**, mà giai đoạn nào cây đã qua rồi thì phần trừ vào đó mất luôn. Ví dụ Dâu tây: ngày được rút nằm ở giai đoạn mầm đầu tiên, nên khi cây đã qua giai đoạn đó thì Phân bón Thúc hết tác dụng.
-- **Phân bón cơ bản và Phân bón chất lượng thì game chặn hẳn khi cây đã nảy mầm.** Câu báo dịch là _"Phải được thêm vào trước khi gieo"_, nhưng thật ra hạn chót là **trước lúc nảy mầm**: gieo rồi mà hạt chưa lên mầm thì vẫn bón được.
-- **Cách an toàn:** cuốc đất → bón phân → gieo hạt, tất cả trong cùng một ngày.
-
-#### Giữ nước (Retaining Soil)
-
-| Loại | Giữ ẩm qua đêm | Tự chế | Mua |
-|---|---|---|---|
-| **Phân bón giữ nước cơ bản** | có khả năng | Trồng trọt 4 · 2 Đá | Pierre 100g, từ Xuân 15 năm 1 |
-| **Phân bón giữ nước chất lượng** | khả năng cao | Trồng trọt 7 · 3 Đá + 1 Đất sét (ra 2) | Pierre 150g từ năm 2 · Ốc đảo (Sandy) Thứ Bảy 200g |
-| **Phân bón giữ nước cao cấp** | 100% | 5 Đá + 3 Sợi + 1 Đất sét | Công thức: Island Trader trên Đảo Gừng, 50 Mảnh nham thạch |
-
-Chỉ đáng dùng **trước khi có Vòi tưới cây**, hoặc ở ruộng chưa đặt vòi. Ô có vòi rồi thì nên dùng phân chất lượng hoặc phân thúc.
-
-#### Phân bón cây (Tree Fertilizer)
-
-Mở khoá ở **Lượm cấp 7**, công thức 5 Sợi + 5 Đá. Rắc lên **cây dại** (sồi, phong, thông…) để cây lớn nhanh, kể cả mùa đông. Không có tác dụng với cây ăn quả.
-
-_Đã kiểm trong file game 1.6.15: công thức ở `Data/CraftingRecipes`, giá và nơi bán ở `Data/Shops`, số ngày từng giai đoạn ở `Data/Crops`, luật bón ở `HoeDirt.CheckApplyFertilizerRules` và cách tính ngày ở `HoeDirt.applySpeedIncreases`. Tên tiếng Việt theo bản Việt hoá đang cài. Riêng "Qi's Walnut Room" và "Island Trader" thì bản dịch không có tên nên giữ tiếng Anh._
 
 ### 🎃 Bù nhìn Hiếm (Rarecrow)
 
@@ -164,64 +92,16 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 
 ## 🌰 Lượm (Foraging)
 
+> _Tra cứu chi tiết: [[Điểm cổ vật]] — đào bằng gì, ra món gì, "Hạt giống cổ đại", Đất sét, cổ vật trùng._
+
 - **Quét đồ lượm mỗi ngày** ở Rừng Cindersap → Bãi biển → Núi (xem [[Bản đồ khu vực]], mấy bản đồ có ô màu chính là **điểm mọc đồ lượm**).
 - **Khu rừng Bí mật:** 6 gốc cây cứng hồi lại **mỗi ngày** → nguồn **Gỗ Cứng (Hardwood)** ổn định nhất, cần rìu Thép trở lên.
-- **Mùa Đông** vẫn lượm được: trên mặt đất mọc **Quả pha lê (Crystal Fruit)**, **Nghệ tây (Crocus)**, **Nhựa ruồi (Holly)**; còn **Rễ cây mùa đông** và **Khoai lang tuyết** thì không mọc trên mặt đất, chỉ ra khi đào điểm cổ vật hoặc cuốc đất — xem mục dưới.
+- **Mùa Đông** vẫn lượm được: trên mặt đất mọc **Quả pha lê (Crystal Fruit)**, **Nghệ tây (Crocus)**, **Nhựa ruồi (Holly)**; còn **Rễ cây mùa đông** và **Khoai lang tuyết** thì không mọc trên mặt đất, chỉ ra khi đào điểm cổ vật hoặc cuốc đất — xem [[Điểm cổ vật]].
 - **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên (có cả Mảnh tán sắc).
 - Giữ lại **Nhựa cây (Sap)** để làm phân bón, đừng bán.
 
 > [!nghe] Chọn nhánh nghề Lượm — perk mạnh nhất game về lâu dài
 > Cấp 5 chọn **Người Tụ Tập (Gatherer)**: tỉ lệ **x2 sản lượng** khi lượm. Cấp 10 chọn **Nhà Thực Vật (Botanist)**: **mọi đồ lượm luôn ở phẩm cấp Iridium**.
-
-### 🪱 Điểm cổ vật (Artifact Spot)
-
-Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lên — nên hay được gọi là "điểm giun đất", nhưng bản dịch trong game gọi là **Điểm cổ vật**. Đào bằng **Cuốc (Hoe)**, một nhát là xong.
-
-⚠️ **Cuốc chim (Pickaxe) không ăn** — chỉ Cuốc mới đào được. Đây là chỗ hay bấm nhầm rồi tưởng nó hỏng.
-
-| Nhóm | Món ra | Dùng làm gì |
-|---|---|---|
-| 🧱 **Nguyên liệu** | **Đất sét (Clay)** — hay ra nhất · Đá · Than · Quặng | Đất sét là lý do chính phải đào mỗi ngày |
-| 🏺 **Cổ vật (Artifacts)** | Mỗi khu một bảng riêng | Quyên góp **Bảo tàng** cho Gunther |
-| 📖 **Cuốn sách thất lạc (Lost Book)** | **21 cuốn** cả game | Tự bay vào **Thư viện**, mở kiến thức ẩn |
-| ❄️ **Mùa Đông** | **Rễ cây mùa đông (Winter Root)** · **Khoai lang tuyết (Snow Yam)** | Chỉ ra khi đào/cuốc đất, không mọc trên mặt đất |
-
-**Ba luật phải nhớ:**
-
-1. **Chỉ mọc ngoài trời** — Thị trấn, Rừng, Núi, Bãi biển, Bến Xe, và cả trên nông trại.
-2. **Mọc lại mỗi ngày**, vị trí ngẫu nhiên.
-3. ⚠️ **Hết ngày là biến mất** — thấy hôm nào phải đào hôm đó.
-
-**Bảng cổ vật khác nhau theo từng khu**, nên muốn đủ bộ Bảo tàng thì phải đào **rải khắp các khu**, đào mãi một chỗ sẽ thiếu. Cổ vật chưa quyên góp thì mang đi donate trong ngày, chưa kịp thì tạm cất rương **`Cổ Vật, Đồ Trang Trí, Trang Phục`** (xem [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Kho & rương]]).
-
-> [!warning] "Hạt giống cổ đại" — bản dịch đặt **cùng một tên** cho hai món khác nhau
-> | | Cổ vật (Ancient Seed) | Gói hạt (Ancient Seeds) |
-> |---|---|---|
-> | Mã game | `(O)114` | `(O)499` |
-> | Mô tả khi rê chuột | _"Hạt giống đã khô kiệt… nhìn kiểu gì cũng thấy nó đã chết lâu rồi"_ | _"Liệu chúng có nảy mầm được nữa không?"_ |
-> | Trồng được? | ❌ | ✅ ra **Trái cổ đại (Ancient Fruit)** |
->
-> Tặng **cổ vật đầu tiên** cho Bảo tàng → nhận **1 gói hạt** + **công thức chế tác** `1 cổ vật → 1 gói hạt`. Nên công thức trông như "Hạt giống cổ đại → Hạt giống cổ đại" là **đúng**, không phải lỗi: cổ vật nhặt về sau cứ chế hết thành hạt.
->
-> Trái cổ đại: Xuân–Thu, **28 ngày** lớn lần đầu rồi **7 ngày** ra trái lại, cây sống mãi; **không trồng được trong chậu** — hợp nhất là Nhà kính. Nhân giống bằng **Máy tạo Hạt giống (Seed Maker)** trước khi đem ủ rượu (xem [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền]]).
->
-> ⚠️ **Gieo gói hạt ngay, đừng để dành chờ máy.** Máy tạo Hạt giống nhận **trái** (1 Trái cổ đại → 1–3 gói hạt _— số lượng do code game tính, chưa kiểm chứng_), không nhận hạt — gói hạt để trong túi thì chẳng nhân được gì, chỉ mất trắng một mùa sinh trưởng. Máy lại mở ở **Trồng trọt cấp 9** (25 Gỗ + 10 Than đá + 1 Thỏi vàng), còn xa. Lộ trình: gieo ngay → trái ra thì **cất vào rương `Rau, Hoa, Trái Cây`**, đừng bán/ủ → có máy rồi đem nhân → cổ vật đào thêm cứ chế thành hạt gieo luôn.
-
-> [!tien] Đất sét — gom từ Ngày 1, đừng đợi tới lúc cần
-> **Kho chứa Cỏ (Silo) cần 10 Đất sét.** Đất sét gần như chỉ ra từ điểm cổ vật (cuốc đất thường cũng có tỉ lệ nhỏ). Đào tốn **2 năng lượng**/nhát, mà `InfiniteStamina` đang bật nên với máy này là **miễn phí** — thấy giun là đào, không có lý do bỏ qua.
-
-> [!tien] Cổ vật trùng — đã quyên góp rồi, nhặt thêm thì làm gì?
-> Bảo tàng chỉ đếm **mỗi món một lần**, món trùng không đẩy mốc thưởng nào lên. Biết món nào trùng: rê chuột lên — **UI Info Suite 2** còn hiện **icon đầu Gunther** là **chưa** quyên góp, hết icon là trùng.
->
-> | Món trùng | Làm gì |
-> |---|---|
-> | **Hạt giống cổ đại** (cổ vật) | Chế thành gói hạt rồi gieo — xem khối ngay trên |
-> | **Trứng khủng long** | Ấp trong **Lò ấp trứng** ở **Chuồng gia cầm lớn** → khủng long đẻ thêm trứng |
-> | Còn lại | **Tặng Penny hoặc Dwarf** — cả hai đều **Thích** mọi cổ vật · hoặc bỏ thùng giao hàng |
->
-> Giá gốc vài món: **Búp bê kỳ lạ** 1.000g · **Mặt nạ hoàng kim** 500g · **Trứng khủng long** 350g · **Tượng gà**, **Rìu đá tiền sử** 50g · **Thìa rỉ sét** 25g · **Cuộn giấy Người lùn I–IV** 1g. Đọc sách **Treasure Appraisal Guide** (bản dịch để nguyên tiếng Anh) thì giá bán cổ vật **×3**. Món rẻ như Thìa rỉ sét đem tặng Penny còn được hơn bán.
->
-> _Giá, sở thích quà theo [Artifacts](https://stardewvalleywiki.com/Artifacts) và [Penny](https://stardewvalleywiki.com/Penny) trên wiki 1.6; tên món theo file bản Việt hoá đang cài._
 
 ### 🌸 Vì sao có hôm đi cả ngày không thấy gì
 
@@ -234,77 +114,12 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 
 ## 🎣 Câu cá (Fishing)
 
-### 📬 Thư của Willy (theo cấp Câu cá)
-
-Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau khi bạn lên cấp**, nên đừng chờ theo lịch: cứ câu đủ là thư tự đến.
-
-| Mốc | Thư báo gì | Giá |
-|---|---|---|
-| **Câu cá cấp 2** | **Cần Sợi Thủy Tinh (Fiberglass Rod)** về tiệm — cần này mới **gắn được mồi & phao** | **1.800g** |
-| **Câu cá cấp 3** | Mở khoá chế **Bẫy Cua (Crab Pot)** _(⚠️ 1.6 hình như Willy gửi tặng luôn 1 cái qua thư — chưa kiểm chứng, mở thư ra xem có kèm đồ không)_ | tự chế / Willy bán 1.500g |
-| **Câu cá cấp 6** | **Cần Iridium (Iridium Rod)** về tiệm — gắn được cả **mồi + phao cùng lúc** | **7.500g** |
-
-- ⚠️ **Thư chỉ là thông báo hàng về, không phải tặng cần.** Vẫn phải ra Hàng Cá mua bằng tiền mặt.
-- 💸 **Đừng mua vội ở tuần đầu.** 1.800g ≈ **18 hạt Dâu tây** ở Lễ hội Trứng **Ngày 13** ([[Wind - Daily]]) — dâu tây sinh lời cả mùa, cần câu thì mua lúc nào cũng được. Ưu tiên hạt trước, cần sau.
-- ⚙️ **Máy bạn đang bật `InstantBite`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → cá cắn ngay, nên **Mồi (Bait) thường không cần mua** — nó chỉ làm cá cắn nhanh hơn. Nhưng `InstantCatch` đã **tắt**, minigame vẫn phải tự kéo, nên cần xịn vẫn đáng tiền vì **chỗ gắn phao**.
-
-### 🎣 Các loại cần câu
-
-Mua ở Hàng Cá của Willy. Điều kiện mở bán lấy từ file game 1.6.15 (`Data/Shops`); giá theo wiki.
-
-| Cần | Giá | Mở bán khi | Gắn được | Ghi chú |
-|---|---|---|---|---|
-| **Cần tre (Bamboo Pole)** | Willy tặng đầu game · 500g nếu mua lại | có sẵn | — | cần khởi đầu |
-| **Cần tập (Training Rod)** | 25g | có sẵn | — | **chỉ câu được cá độ khó < 50** (code game) — dễ, nhưng không ra cá khó; dưới mỏ chỉ câu ra rác |
-| **Cần Sợi Thủy Tinh (Fiberglass Rod)** | 1.800g | cấp Câu cá **gốc** ≥ 2 | 1 Mồi | |
-| **Cần Iridium (Iridium Rod)** | 7.500g | cấp Câu cá **gốc** ≥ 6 | 1 Mồi + 1 Phao | phao: Phao hút (Trap Bobber — cá tụt chậm), Phao nút chai (Cork Bobber — thanh to), Phao mồi kì lạ (Curiosity Lure — tăng cá hiếm)… |
-| **Cần Iridium nâng cao (Advanced Iridium Rod)** | 25.000g | đã mở **Mastery Câu cá** | 1 Mồi + 2 Phao | mới từ 1.6, cuối game |
-
-- ⚠️ **"Gốc" = không tính buff đồ ăn** — cửa hàng kiểm tra `PLAYER_BASE_FISHING_LEVEL`. Ngược với điều kiện câu Cá huyền thoại (có tính buff), xem [[Câu cá theo mùa]].
-- Đang bật `InstantBite` thì phao/mồi **chỉ làm cá cắn nhanh** là vô dụng: **Phao câu (Spinner)**, **Phao xoay có Trang trí (Dressed Spinner)**, **Mồi (Bait)**. Phao giúp minigame thì vẫn đáng gắn.
-
-### 🪝 Phao & mồi tự chế
-
-Cấp mở khoá và nguyên liệu lấy từ file game 1.6.15 (`Data/CraftingRecipes`); tên theo bản dịch đang cài.
-
-| Món | Mở khi | Nguyên liệu | Với cấu hình cheat hiện tại |
-|---|---|---|---|
-| **Phao hút (Trap Bobber)** | Câu cá 6 | 1 Thỏi đồng + 10 Nhựa cây | ⭐ **Phao mặc định** — thanh lệch khỏi cá thì tiến độ tụt chậm; rẻ, hợp mọi loại cá |
-| **Phao nút chai (Cork Bobber)** | Câu cá 7 | 10 Gỗ + 5 Gỗ cứng + 10 Slime | Thanh câu to hơn một chút |
-| **Lưỡi câu có ngạnh (Barbed Hook)** | Câu cá 8 | 1 Thỏi đồng + 1 Thỏi sắt + 1 Thỏi vàng | Thanh tự bám theo cá — tốt với cá chậm, yếu; kém với cá nhảy loạn |
-| **Phao hút báu vật (Treasure Hunter)** | Câu cá 7 | 2 Thỏi vàng | Cá không thoát khi đang gom rương; tăng nhẹ tỉ lệ ra rương |
-| Phao câu tín hiệu (Sonar Bobber) | Câu cá 6 | 1 Thỏi sắt + 2 Thạch anh tinh luyện | Biết con nào cắn câu trước khi kéo — **thừa**, [[Mods#Fishing Info Overlays 1.3.2\|Fishing Info Overlays]] đã hiện sẵn |
-| ❌ Phao câu (Spinner) · Phao xoay có Trang trí (Dressed Spinner) | Câu cá 6 · 8 | — | Chỉ làm cá cắn nhanh — `InstantBite` đã lo |
-| **Mồi cao cấp (Deluxe Bait)** | Câu cá 4 | 5 Mồi + 2 Rêu → 5 cái | ⭐ Ngoài cắn nhanh còn **làm thanh câu to hơn** → vẫn đáng gắn |
-| **Mồi riêng loài** | Máy Làm Mồi Câu (Bait Maker), Câu cá 6 | con cá cần săn | Tăng tỉ lệ đúng loài đó — săn cá cho bộ sưu tập |
-| **Mồi dân dã (Wild Bait)** | công thức từ Linus | 10 Sợi + 5 Thịt côn trùng + 5 Slime → 5 cái | Có cơ hội ra 2 con một lần |
-| **Nam châm (Magnet)** | Câu cá 9 | 1 Thỏi sắt → 3 cái | Tăng tỉ lệ ra rương báu vật, đổi lại cá cắn chậm hơn — với `InstantBite` thì cái giá này gần như mất _(suy từ mô tả, chưa thử)_ |
-| ❌ Mồi (Bait) | Câu cá 2 | 1 Thịt côn trùng → 5 cái | Chỉ làm cá cắn nhanh |
-
-- **Câu thường ngày:** Mồi cao cấp + Phao hút.
-- **Săn một loài:** Mồi riêng loài + Phao hút (cá hiếm thì Phao mồi kì lạ).
-- **Săn rương:** Nam châm + Phao hút báu vật.
-
-### 🪱 Thùng Sâu hay Máy Làm Mồi Câu?
-
-Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game 1.6.15 (`Data/Machines`, `Data/CraftingRecipes`).
-
-| | **Thùng Sâu (Worm Bin)** | **Thùng sâu Cao cấp (Deluxe Worm Bin)** | **Máy Làm Mồi Câu (Bait Maker)** |
-|---|---|---|---|
-| Bỏ vào | **không cần gì** — tự sinh | **không cần gì** — tự sinh | **1 con cá bất kỳ** |
-| Ra | 4–5 **Mồi** | 4–5 **Mồi cao cấp** | 5–10 **Mồi riêng loài** của đúng con cá đó |
-| Bao lâu | 1 ngày | 1 ngày | 10 phút game |
-| Mở khi | Câu cá 4 | Câu cá 8 | Câu cá 6 |
-| Nguyên liệu | 15 Gỗ cứng + 1 Thỏi vàng + 1 Thỏi sắt + 50 Sợi | 1 Thùng Sâu + 30 Rêu | 3 Thỏi sắt + 3 San hô + 1 Nhím biển |
-| Dùng cho | **nguồn mồi thụ động** — nuôi **Bẫy cua** | như bên trái; mồi dư gắn cần câu vẫn đáng (thanh to hơn) | **săn một loài** cho bộ sưu tập/bundle |
-
-- Mồi thường của Thùng Sâu **vô dụng với cần câu** khi bật `InstantBite` — chỉ dành cho Bẫy cua.
-- Nối Thùng Sâu vào cụm Bẫy cua bằng [[Mods#Automate 2.6.1|Automate]] là có mồi mãi mãi, khỏi mua.
+> _Tra cứu chi tiết: [[Đồ câu cá]] — thư Willy theo cấp, cần, phao, mồi, Thùng Sâu / Máy Làm Mồi Câu. Cá nào ở đâu, lúc nào: [[Câu cá theo mùa]]._
 
 ### Mẹo chung
 
 - Ăn món tăng **Câu cá** (vd: Súp cá hồi / Trout Soup) trước khi câu ở khu khó.
-- Gắn **Phao hút (Trap Bobber)** để cá ít tụt, **Phao nút chai (Cork Bobber)** để thanh câu dài hơn.
+- Gắn gì lên cần theo mục đích (câu thường · săn một loài · săn rương): xem combo cuối mục [[Đồ câu cá#🪝 Phao & mồi tự chế|Phao & mồi tự chế]].
 - **Câu lúc mưa** để bắt cá đặc biệt; cá theo mùa/khung giờ/khu vực và danh sách còn thiếu xem [[Câu cá theo mùa]].
 - **Bẫy Cua (Crab Pot)** + mồi cho hải sản thụ động — kết hợp nghề **Thủy thủ (Mariner)** để bẫy không dính rác.
 - Cá phẩm cấp cao đem **ủ thành cá muối / nấu ăn** thường lời hơn bán thô.
@@ -459,32 +274,30 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 Series **"Hiểu tất cả về nghề … Stardew Valley 1.6"** của **Duy Haruno** — [xem cả playlist](https://www.youtube.com/playlist?list=PLh3aAomQoagMCHQad6qA38wHQi5BLY3KE).
 
-### 🌾 [Nghề Trồng Trọt — 11 phút](https://www.youtube.com/watch?v=DPS_FRvnrCg&list=PLh3aAomQoagMCHQad6qA38wHQi5BLY3KE&index=3)
+> [!video]- 🌾 [Nghề Trồng Trọt — 11 phút](https://www.youtube.com/watch?v=DPS_FRvnrCg&list=PLh3aAomQoagMCHQad6qA38wHQi5BLY3KE&index=3)
+> _Ý chính đã gom vào [[#🌾 Trồng trọt (Farming)|mục Trồng trọt]] ở trên._
+>
+> | Mốc thời gian | Nội dung |
+> |---------------|----------|
+> | 0:38 – 2:37 | Cơ chế cơ bản: mùa vụ 28 ngày, quy trình trồng, chọn cây phù hợp |
+> | 2:38 – 4:33 | Chất lượng nông sản (Bạc/Vàng/Iridium) & 3 loại phân bón |
+> | 4:34 – 7:26 | Cấp độ Trồng trọt: mở Vòi tưới cây, Thùng chứa (Keg), chọn nhánh nghề |
+> | 7:27 – 8:33 | Chiến lược cây trồng: Cải xoăn → Khế, Trái cổ đại |
+> | 8:34 – 10:39 | Chăn nuôi, hàng thủ công & Bậc thầy Trồng trọt |
+> | 10:40 – 11:14 | Sai lầm phổ biến của người mới |
+>
+> _Chốt lại: nắm cơ chế ẩn + lên kế hoạch mùa vụ + đầu tư sớm vào Thùng chứa & Vòi tưới cây = làm giàu nhanh._
 
-> Ý chính đã gom vào [[#🌾 Trồng trọt (Farming)|mục Trồng trọt]] ở trên.
-
-| Mốc thời gian | Nội dung |
-|---------------|----------|
-| 0:38 – 2:37 | Cơ chế cơ bản: mùa vụ 28 ngày, quy trình trồng, chọn cây phù hợp |
-| 2:38 – 4:33 | Chất lượng nông sản (Bạc/Vàng/Iridium) & 3 loại phân bón |
-| 4:34 – 7:26 | Cấp độ Trồng trọt: mở Vòi tưới cây, Thùng chứa (Keg), chọn nhánh nghề |
-| 7:27 – 8:33 | Chiến lược cây trồng: Cải xoăn → Khế, Trái cổ đại |
-| 8:34 – 10:39 | Chăn nuôi, hàng thủ công & Bậc thầy Trồng trọt |
-| 10:40 – 11:14 | Sai lầm phổ biến của người mới |
-
-_Chốt lại: nắm cơ chế ẩn + lên kế hoạch mùa vụ + đầu tư sớm vào Thùng chứa & Vòi tưới cây = làm giàu nhanh._
-
-### ⚔️ [Nghề Chiến Đấu — 16 phút](https://www.youtube.com/watch?v=1Y8_09qM0zg&list=PLh3aAomQoagMCHQad6qA38wHQi5BLY3KE&index=1)
-
-> Ý chính đã gom vào [[#⚔️ Chiến đấu (Combat)|mục Chiến đấu]] ở trên.
-
-| Mốc thời gian | Nội dung |
-|---------------|----------|
-| 1:00 – 2:50 | 4 loại vũ khí & Kiếm Ngân hà |
-| 2:50 – 4:22 | Trang bị: Giày, Nhẫn, hợp nhất nhẫn |
-| 4:22 – 9:18 | Chỉ số, cấp độ, chọn nghề cấp 5 & 10 |
-| 9:18 – 11:20 | Lò rèn Đảo Gừng: khảm ngọc, phù phép, vũ khí Vô Cực |
-| 11:20 – 13:58 | Bậc thầy Chiến đấu (1.6) |
-| 13:58 – 16:38 | Mẹo thực chiến: phô mai, Nhẫn đạo tặc, nhẫn tăng tốc (video gọi "Nhẫn Cà phê"), farm than |
+> [!video]- ⚔️ [Nghề Chiến Đấu — 16 phút](https://www.youtube.com/watch?v=1Y8_09qM0zg&list=PLh3aAomQoagMCHQad6qA38wHQi5BLY3KE&index=1)
+> _Ý chính đã gom vào [[#⚔️ Chiến đấu (Combat)|mục Chiến đấu]] ở trên._
+>
+> | Mốc thời gian | Nội dung |
+> |---------------|----------|
+> | 1:00 – 2:50 | 4 loại vũ khí & Kiếm Ngân hà |
+> | 2:50 – 4:22 | Trang bị: Giày, Nhẫn, hợp nhất nhẫn |
+> | 4:22 – 9:18 | Chỉ số, cấp độ, chọn nghề cấp 5 & 10 |
+> | 9:18 – 11:20 | Lò rèn Đảo Gừng: khảm ngọc, phù phép, vũ khí Vô Cực |
+> | 11:20 – 13:58 | Bậc thầy Chiến đấu (1.6) |
+> | 13:58 – 16:38 | Mẹo thực chiến: phô mai, Nhẫn đạo tặc, nhẫn tăng tốc (video gọi "Nhẫn Cà phê"), farm than |
 
 > _Còn thiếu 3 nghề (Khai thác · Lượm · Câu cá) trong playlist — xem xong thì tóm ý vào đúng mục ở trên theo cùng cách này._

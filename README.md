@@ -12,7 +12,8 @@ Mở `StardewValley/00 Home.md` làm điểm bắt đầu — đây là mục l�
 | **00 Home** | Trang chủ: mục lục, danh sách save, link nhanh |
 | **Mods** | 25 mod SMAPI + 1 công cụ ngoài game — công dụng, phím tắt, cấu hình GMCM, thứ tự cài |
 | **Lịch theo mùa** | Việc lặp mỗi ngày + cây trồng, lễ hội, sinh nhật, gói Cộng đồng theo từng mùa |
-| **Mẹo** | Nguyên tắc nền tảng, 5 nghề, kiếm tiền theo giai đoạn, kết bạn, Trung tâm Cộng đồng |
+| **Mẹo** | Nguyên tắc nền tảng, 5 nghề, kiếm tiền theo giai đoạn, kết bạn, Nhà Văn hóa |
+| **Phân bón** · **Điểm cổ vật** · **Đồ câu cá** | Tra cứu tách từ Mẹo: các loại phân và luật bón · đào điểm cổ vật, cổ vật trùng · cần, phao, mồi |
 | **Bản đồ khu vực** | Ảnh bản đồ từng khu (từ wiki), sơ đồ kết nối, từ điển địa danh Anh–Việt |
 | **Quy hoạch nông trại** | Bản đồ farm ban đầu, mẫu bố cục tham khảo, nguyên tắc sắp xếp |
 | **An toàn save** | 2 mod đổi save serializer, 3 lớp lưu, cách khôi phục khi hỏng save |
