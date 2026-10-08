@@ -8,7 +8,7 @@
 
 - [[#🧭 Nguyên tắc nền tảng|Nguyên tắc nền tảng]] — đọc trước, ăn tiền nhất cho người mới
 - **5 nghề:** [[#🌾 Trồng trọt (Farming)|Trồng trọt]] · [[#⛏️ Khai thác (Mining)|Khai thác]] · [[#🌰 Lượm (Foraging)|Lượm]] · [[#🎣 Câu cá (Fishing)|Câu cá]] · [[#⚔️ Chiến đấu (Combat)|Chiến đấu]]
-- [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền theo giai đoạn]] · [[#❤️ Kết bạn & hẹn hò|Kết bạn]] · [[#🧩 Trung tâm Cộng đồng|Trung tâm Cộng đồng]]
+- [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền theo giai đoạn]] · [[#🏗️ Xây dựng theo giai đoạn|Xây dựng theo giai đoạn]] · [[#❤️ Kết bạn & hẹn hò|Kết bạn]] · [[#🧩 Trung tâm Cộng đồng|Trung tâm Cộng đồng]]
 - [[#🎛️ Tùy chọn game gốc nên bật|Tùy chọn game gốc]] · [[#⚙️ Mẹo liên quan mod|Mẹo mod]] · [[#🎥 Video hướng dẫn (tiếng Việt)|Video hướng dẫn]]
 
 ---
@@ -285,6 +285,24 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 > [!tien] Nguyên tắc chung — chế biến trước khi bán
 > Rượu (Wine) / Thạch (Jelly) / Bia nhẹ (Pale Ale) lời hơn bán thô rất nhiều — kết hợp nghề **Nghệ nhân (Artisan +40%)**. Dùng **Máy tạo Hạt giống (Seed Maker)** để nhân giống cây đắt thay vì mua hạt.
+
+## 🏗️ Xây dựng theo giai đoạn
+
+> _Thứ tự xây chung cho trang trại. Bản áp dụng cho nông trại này — toạ độ từng món, chi phí đủ, mốc theo mùa — nằm ở [[Daily#🏗️ Lộ trình xây trang trại theo năm|Daily — Lộ trình xây]], theo [[Quy hoạch nông trại#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]]. Chi phí đọc từ file game 1.6.15._
+
+| Giai đoạn | Xây gì | Vì sao · chi phí chính |
+|---|---|---|
+| **Xuân năm 1** | **Chuồng gia cầm (Coop)** · **Kho chứa Cỏ (Silo)** · lát **Đường lát đá (Cobblestone Path)** cho đường chính | Chuồng 4.000g + 300 Gỗ + 100 Đá. Kho chỉ 100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng — **xây trước khi cắt cỏ**, chưa có kho thì cắt cỏ không ra cỏ khô. Đường lát tốn 1 Đá/ô, công thức có sẵn từ đầu |
+| **Hạ năm 1** (Nông nghiệp 6) | **Vòi tưới cây xịn (Quality Sprinkler)** · mở khoá **Hàng rào gỗ cứng (Hardwood Fence)** | Vòi phủ 3 × 3 — 9 cái tưới kín một khối 9 × 9. Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện |
+| **Đông năm 1** | **Chuồng Gia súc (Barn)** · rào bãi chăn nuôi · dời công trình về đúng chỗ | Không phải tưới ruộng nên rảnh tay nhất năm. Chuồng 6.000g + 350 Gỗ + 150 Đá |
+| **Năm 2** | **Nhà Kho → Nhà Kho lớn (Shed → Big Shed)** làm xưởng Thùng chứa · cây ăn quả · nâng chuồng lên bản lớn | Nhà Kho 15.000g + 300 Gỗ, nâng lên Nhà Kho lớn thêm 20.000g + 550 Gỗ + 300 Đá. Thùng chứa cần Nông nghiệp 8. Cây giống ở Pierre 2.000–6.000g mỗi cây |
+| **Năm 3** (Nông nghiệp 9) | **Vòi phun nước Iridium (Iridium Sprinkler)** · chuồng cao cấp | Vòi phủ 5 × 5 — 4 cái tưới vừa khít một ô 10 × 10. Mỗi cái 1 Thỏi vàng + 1 Thỏi Iridium + 1 Cục pin. **Xuân 1 năm 3 ông nội chấm điểm** ở mộ — để quanh mộ thoáng |
+| **Cuối game** | **Trụ dịch chuyển (Obelisk)** · **Đồng hồ Hoàng kim (Gold Clock)** | Do **Pháp sư** xây, không phải Robin. Trụ 500.000–1.000.000g + 5–20 Thỏi Iridium; Đồng hồ 10.000.000g |
+
+> [!tip] Ba luật giúp xây dần không phí công
+> - **Robin chỉ xây một công trình một lúc** (2–3 ngày mỗi cái) → các công trình cùng mùa phải xếp nối nhau.
+> - **Robin dời công trình miễn phí** → đặt tạm sai chỗ cũng không sao, nhưng tốt nhất **đặt ngay đúng chỗ cuối** cho đỡ một lượt.
+> - **Chừa chỗ cho bản nâng cấp**: Chuồng gia cầm lớn/cao cấp giữ nguyên nền 6 × 3, Chuồng Gia súc giữ 7 × 4, Nhà Kho lớn giữ 7 × 3 — nâng cấp không cần thêm đất.
 
 ## ❤️ Kết bạn & hẹn hò
 
