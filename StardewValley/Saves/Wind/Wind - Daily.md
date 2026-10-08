@@ -1,6 +1,6 @@
 # 📅 Nhật ký theo ngày — save Wind (Nông trại Tiêu chuẩn)
 
-> Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Mods [[Mods]] · Bản đồ [[Bản đồ khu vực]] · Bố cục farm [[Quy hoạch nông trại]] · Bí mật theo ngày [[Bí mật & Sự kiện ẩn]] · Cá theo mùa [[Câu cá theo mùa]]
+> Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Mods [[Mods]] · Bản đồ [[Bản đồ khu vực]] · Bố cục farm [[Quy hoạch nông trại]] · Bí mật theo ngày [[Bí mật & Sự kiện ẩn]] · Cá theo mùa [[Câu cá theo mùa]] · Đã làm được gì [[Wind - Tiến độ]]
 >
 > _Ghi chi tiết mỗi ngày làm gì. Bắt đầu từ Ngày 1, Năm 1, mùa Xuân. Bản rút gọn — đã gộp phần "Việc cần làm" và "Checklist" cũ thành một, bỏ các ý lặp lại mỗi ngày (xem mục Routine bên dưới)._
 >
@@ -386,7 +386,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 
 ### 🌧️ Ngày 19 (Thứ Sáu) — 🛒 Xe hàng rong
 
-Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để sang Xuân năm 2** (xem [[Câu cá theo mùa#🎯 Còn làm được trong Xuân này|Câu cá theo mùa]]).
+Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để sang Xuân năm 2** (xem [[Wind - Tiến độ#🎯 Còn làm được trong Xuân này|Tiến độ — Câu cá]]).
 
 **Việc cần làm:**
 - [x] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt giống hiếm/Hạt giống cổ đại nếu tuần trước chưa mua đủ
@@ -627,7 +627,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **🧩 Gói Cộng đồng theo mùa:** Lượm Xuân (phòng Thủ công) · Cây Xuân (phòng Đựng thức ăn) — lỡ mùa nào phải chờ đúng mùa đó năm sau.
 
-**🎣 Cá:** ngày mưa ưu tiên Cá trê · Cá trích dày mình · Lươn; Cá huyền thoại (Legend) chỉ có ở Xuân — bảng đầy đủ & con còn thiếu ở [[Câu cá theo mùa#🌸 Xuân|Câu cá — Xuân]].
+**🎣 Cá:** ngày mưa ưu tiên Cá trê · Cá trích dày mình · Lươn; Cá huyền thoại (Legend) chỉ có ở Xuân — bảng đầy đủ ở [[Câu cá theo mùa#🌸 Xuân|Câu cá — Xuân]], con còn thiếu ở [[Wind - Tiến độ#🎣 Câu cá|Tiến độ — Câu cá]].
 
 **🔮 Bí mật:** 17 Chum vàng cuối cầu vồng · 28 lúc 12:00 Junimo Nhồi bông — xem [[Bí mật & Sự kiện ẩn#🌸 Xuân|Bí mật — Xuân]].
 

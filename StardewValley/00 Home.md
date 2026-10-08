@@ -8,7 +8,7 @@
 - [[Mẹo]] — Nguyên tắc nền tảng, 5 nghề, kiếm tiền theo giai đoạn, kết bạn, Trung tâm Cộng đồng.
 - [[Bản đồ khu vực]] — Ảnh bản đồ từng khu + sơ đồ kết nối + từ điển địa danh Anh–Việt.
 - [[Quy hoạch nông trại]] — Bản đồ farm ban đầu, mẫu bố cục tham khảo, nguyên tắc sắp xếp.
-- [[Câu cá theo mùa]] — Cá từng mùa: chỗ, giờ, thời tiết, và đã câu được con nào.
+- [[Câu cá theo mùa]] — Cá từng mùa: chỗ, giờ, thời tiết.
 - [[Bí mật & Sự kiện ẩn]] — Sự kiện game không báo trước theo ngày/mùa, Sao sa (Stardrop), khu vực ẩn, Ghi chú bí mật.
 
 **Ghi chú kỹ thuật (đọc khi cần):**
@@ -22,7 +22,7 @@ Note ở mục lục trên đúng cho **mọi save**. Thứ gắn với một sa
 
 | Save | Loại farm | Note |
 |------|-----------|------|
-| **Wind** | Nông trại Tiêu chuẩn (Standard Farm) | [[Wind - Daily]] — nhật ký theo ngày, mốc Quicksave mới nhất<br>[[Wind - Quy hoạch]] — bản quy hoạch riêng, toạ độ từng món |
+| **Wind** | Nông trại Tiêu chuẩn (Standard Farm) | [[Wind - Daily]] — nhật ký theo ngày, mốc Quicksave mới nhất<br>[[Wind - Quy hoạch]] — bản quy hoạch riêng, toạ độ từng món<br>[[Wind - Tiến độ]] — cá đã câu, bí mật đã làm |
 
 ## 🔗 Liên kết nhanh
 
