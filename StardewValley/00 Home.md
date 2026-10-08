@@ -38,17 +38,9 @@
 - [x] **Cá băng** ở ao tầng 60 — xem [[Câu cá theo mùa#⛏️ Hầm mỏ|Câu cá — Hầm mỏ]]
 - [ ] Xuân 28, 12:00 — rung bụi cây lấy **Junimo Nhồi bông** ([[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật]])
 
-**Việc ngoài game:**
-
-- [x] Kiểm tra mod tương thích 1.6.15 tại `smapi.io/mods` — đã kiểm 29/9 qua API của smapi.io (cùng nguồn SMAPI dùng để báo cập nhật), SMAPI 4.5.2 là bản mới nhất:
-  - **28 mod `Ok`**, không mod nào hỏng hay cần bản mới — trừ [[Mods#Stardew Dashboard 2.1.6 — ✅ _đã cài (manifest bên trong vẫn ghi 2.1.5)_|Stardew Dashboard]] báo 2.1.6, là báo nhầm đã biết.
-  - **4 mục không có trong danh sách** (bản Việt hóa, Seasonal Cute Characters, Forage Markers, Show Missing Collection Entries) — 3 cái đầu là content pack, smapi.io không chấm điểm loại này; cái cuối là mod code nhưng smapi.io chưa có mục cho nó. Cả 4 đều nạp bình thường trong log SMAPI.
-  - Kiểm lại khi game hoặc SMAPI lên bản mới.
-- [x] Rà thư mục `Mods`: mỗi mod chỉ giữ **1 bản**, ưu tiên bản VH (xem [[Mods#9) Ghi chú bản VH & file trùng|Mods mục 9]]) — đã rà 29/9: mỗi mod một thư mục, 3 mod VH đều có `i18n/vi.json`
-
 ## 🔗 Liên kết nhanh
 
 > [!nexus] Trang ngoài hay dùng
 > **Nexus Mods** — https://www.nexusmods.com/stardewvalley/mods
-> **Tra tương thích mod** — https://smapi.io/mods
+> **Tra tương thích mod** — https://smapi.io/mods _(kết quả lần kiểm gần nhất: [[Mods#10) Thứ tự cài & vận hành ổn định (1.6.15)|Mods mục 10]])_
 > **Wiki** — https://stardewvalleywiki.com

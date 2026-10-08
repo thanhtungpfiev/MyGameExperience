@@ -1316,9 +1316,11 @@ Thay **chân dung hội thoại** của dân làng bằng nét vẽ kiểu **ani
 ## 10) Thứ tự cài & vận hành ổn định (1.6.15)
 
 1. **SMAPI** → **Content Patcher / GMCM / GMCMOptions** → **bản VH** → **UI/Info** → **kho & tự động hóa** → **tiện ích/cheat/hình ảnh**.
-2. Mỗi mod chỉ giữ **1 bản** trong `Mods`, ưu tiên bản VH.
+2. Mỗi mod chỉ giữ **1 bản** trong `Mods`, ưu tiên bản VH. _(Rà lần cuối 29/9: mỗi mod một thư mục, 3 mod VH đều có `i18n/vi.json`.)_
 3. Thêm mod mới → vào game ngủ 1 đêm để chắc không lỗi sự kiện/máy móc.
-4. Khi game hoặc mod cập nhật, kiểm tra tương thích tại `smapi.io/mods`.
+4. Khi game hoặc mod cập nhật, kiểm tra tương thích tại `smapi.io/mods`. Lần kiểm gần nhất — **29/9**, qua API của smapi.io (cùng nguồn SMAPI dùng để báo cập nhật), SMAPI 4.5.2 là bản mới nhất:
+   - **28 mod `Ok`**, không mod nào hỏng hay cần bản mới — trừ [[#Stardew Dashboard 2.1.6 — ✅ _đã cài (manifest bên trong vẫn ghi 2.1.5)_|Stardew Dashboard]] báo 2.1.6, là báo nhầm đã biết.
+   - **4 mục không có trong danh sách** (bản Việt hóa, Seasonal Cute Characters, Forage Markers, Show Missing Collection Entries) — 3 cái đầu là content pack, smapi.io không chấm điểm loại này; cái cuối là mod code nhưng smapi.io chưa có mục cho nó. Cả 4 đều nạp bình thường trong log SMAPI.
 5. Lỗi → đọc log SMAPI để biết mod nào thiếu phụ thuộc hoặc sai version.
 6. Mod đồ họa cho tải 2 bản thì **luôn lấy bản CP**, không lấy bản XNB — [[Bản XNB và bản CP]].
 
