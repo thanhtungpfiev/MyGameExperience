@@ -1,11 +1,10 @@
 # 🌱 Stardew Valley 1.6.15 — Trang chủ
 
-> Vault ghi chú cá nhân cho save Stardew Valley. Đây là mục lục trung tâm, bấm vào link để mở từng note.
+> Vault ghi chú cá nhân cho Stardew Valley 1.6.15 (bản Việt hóa). Đây là mục lục trung tâm, bấm vào link để mở từng note.
 
 ## 📚 Mục lục
 
 - [[Mods]] — Bộ mod đang dùng, cách dùng chi tiết, phím tắt (kèm lý do đổi phím), thứ tự cài.
-- [[Daily]] — Lịch trình một ngày tối ưu + việc cần làm theo mùa.
 - [[Mẹo]] — Nguyên tắc nền tảng, 5 nghề, kiếm tiền theo giai đoạn, kết bạn, Trung tâm Cộng đồng.
 - [[Bản đồ khu vực]] — Ảnh bản đồ từng khu + sơ đồ kết nối + từ điển địa danh Anh–Việt.
 - [[Quy hoạch nông trại]] — Bản đồ farm ban đầu, mẫu bố cục tham khảo, nguyên tắc sắp xếp.
@@ -17,13 +16,13 @@
 - [[An toàn save]] — 2 mod đổi save serializer, 3 lớp lưu, cách khôi phục khi hỏng save.
 - [[Bản XNB và bản CP]] — mod đồ họa cho tải 2 bản thì lấy bản nào.
 
-## 🎯 Trạng thái hiện tại
+## 🎮 Các save
 
-| Mục | Ghi chú |
-|-----|---------|
-| Phiên bản game | 1.6.15 (bản Việt hóa) |
-| Loại farm | **Nông trại Tiêu chuẩn (Standard Farm)** — xem [[Quy hoạch nông trại]] |
-| Đang chơi tới đâu, việc sắp tới | Theo dõi ở [[Daily]] — mốc Quicksave mới nhất và checklist từng ngày nằm hết bên đó |
+Note ở mục lục trên đúng cho **mọi save**. Thứ gắn với một save — nhật ký từng ngày, tiến độ — nằm trong `Saves/<tên save>/`, tên file mở đầu bằng tên save (`Wind - Daily`) để link không bị trùng giữa các save. Tên save là phần trước dấu `_` của thư mục save trong `%AppData%\StardewValley\Saves\` (save `Wind` nằm ở `Wind_448678493`).
+
+| Save | Loại farm | Note |
+|------|-----------|------|
+| **Wind** | Nông trại Tiêu chuẩn (Standard Farm) | [[Wind - Daily]] — nhật ký theo ngày, mốc Quicksave mới nhất |
 
 ## 🔗 Liên kết nhanh
 

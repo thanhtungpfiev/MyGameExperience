@@ -1,8 +1,8 @@
 # 🏡 Quy hoạch nông trại — Standard Farm
 
-> Về [[00 Home]] · Nhật ký [[Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]]
+> Về [[00 Home]] · Nhật ký [[Wind - Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]]
 >
-> _Bản đồ farm lúc mới bắt đầu + các mẫu bố cục tham khảo. Ghi việc hằng ngày thì sang [[Daily]]._
+> _Bản đồ farm lúc mới bắt đầu + các mẫu bố cục tham khảo. Ghi việc hằng ngày thì sang [[Wind - Daily]]._
 
 ## 🗺️ Hiện trạng lúc mới bắt đầu
 
@@ -84,7 +84,7 @@ Màu nào cũng gắn với **thứ trong rương**: xanh lá là cây, cam là 
 > [!info] Không làm rương riêng cho "Đừng bán" — thay bằng 3 cách có thật
 > Đồ cần giữ (cổ vật/khoáng vật chưa donate, nông sản/cá phẩm cấp cao cho gói Cộng đồng) nằm sẵn trong đúng rương của nó, không cần tách riêng. Để khỏi lỡ tay bán nhầm, dùng 3 cách **có thật trong mod đang cài**:
 > - **Rê chuột vào vật phẩm — kể cả đang mở rương** — [[Mods#UI Info Suite 2 (v2.3.7, bản VH)|UI Info Suite 2]] tự hiện **icon Gunther** (chưa donate Bảo tàng), **icon thùng ship** (chưa ship lần nào) và **icon + tên gói** (còn thiếu gói Cộng đồng) ngay trên tooltip. Đây là cách chính.
-> - **Giữ trong túi đồ tới khi donate/nộp gói xong** — đa số là mang đi nộp luôn trong ngày (xem [[Daily#🔁 Routine mỗi ngày (áp dụng từ khi mở khóa, không ghi lại từng ngày)|Daily]]).
+> - **Giữ trong túi đồ tới khi donate/nộp gói xong** — đa số là mang đi nộp luôn trong ngày (xem [[Wind - Daily#🔁 Routine mỗi ngày (áp dụng từ khi mở khóa, không ghi lại từng ngày)|Daily]]).
 > - **Bật `FilterItems`/`Description` trong [[Mods#All Chests Menu 0.4.2|All Chests Menu]]** rồi gõ tên món vào ô Filter khi mở `F2` — ra ngay món đó nằm ở rương nào.
 
 > [!info] Cổ vật và Khoáng vật — hai rương khác nhau dù hay đào ra cùng lúc

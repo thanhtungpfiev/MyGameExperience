@@ -1,6 +1,6 @@
 # 🧩 Mods đang dùng — Stardew Valley 1.6.15
 
-> Về [[00 Home]] · Áp dụng theo [[Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]] · 🛟 [[An toàn save]] · 📦 [[Bản XNB và bản CP]]
+> Về [[00 Home]] · Áp dụng theo [[Wind - Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]] · 🛟 [[An toàn save]] · 📦 [[Bản XNB và bản CP]]
 >
 > _34 mục trong `F:\Games\StardewValley Mods` — **33 mod SMAPI** + **1 công cụ ngoài game** (Farm Foundry), nhóm theo chức năng. Ngoài ra còn **1 mod tải về để dành, chưa cài** (OhoDavi Anime Portraits, cuối mục 8). Bản `- VH` = Việt hóa → mình dùng bản VH vì đang chơi Việt hóa._
 >
@@ -652,7 +652,7 @@ Chuyên trị đúng một việc: làm **điểm cổ vật và đốm hạt gi
 
 ### ClayMap 2.0.0 (bản alpha cho 1.6)
 
-Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Clay)** — tô màu theo số nhát cuốc cần thêm trước khi ra sét, khỏi phải cuốc mò từng ô để tìm đủ sét xây Kho chứa Cỏ/Silo (xem [[Daily#☀️ Ngày 4 (Thứ Năm)|Daily — Ngày 4]]). Cần SMAPI, không cần Content Patcher.
+Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Clay)** — tô màu theo số nhát cuốc cần thêm trước khi ra sét, khỏi phải cuốc mò từng ô để tìm đủ sét xây Kho chứa Cỏ/Silo (xem [[Wind - Daily#☀️ Ngày 4 (Thứ Năm)|Daily — Ngày 4]]). Cần SMAPI, không cần Content Patcher.
 
 **Cách dùng** — mở cửa sổ console SMAPI (cửa sổ dòng lệnh chạy nền cùng lúc với game, không phải gõ trong game) rồi gõ lệnh:
 - `claymap_toggle` — bật/tắt overlay

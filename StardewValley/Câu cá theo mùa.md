@@ -1,6 +1,6 @@
 # 🎣 Câu cá theo mùa
 
-> Về [[00 Home]] · Nhật ký [[Daily]] · Mẹo câu cá [[Mẹo#🎣 Câu cá (Fishing)|Mẹo — Câu cá]] · Bản đồ [[Bản đồ khu vực]]
+> Về [[00 Home]] · Nhật ký [[Wind - Daily]] · Mẹo câu cá [[Mẹo#🎣 Câu cá (Fishing)|Mẹo — Câu cá]] · Bản đồ [[Bản đồ khu vực]]
 >
 > _Note này trả lời **"mùa này câu được cá gì, ở đâu, lúc nào — và mình còn thiếu con nào"**. Cách câu, cần câu, thư Willy thì xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]]._
 >

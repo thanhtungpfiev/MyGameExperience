@@ -1,6 +1,6 @@
 # 🔮 Bí mật & Sự kiện ẩn
 
-> Về [[00 Home]] · Nhật ký [[Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]]
+> Về [[00 Home]] · Nhật ký [[Wind - Daily]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]]
 >
 > _Những thứ game **không hề báo trước** — không có trong lịch, không có thư, không có nhiệm vụ. Lỡ ngày là phải chờ sang năm. Đánh dấu `[x]` khi đã làm xong._
 >
@@ -15,11 +15,11 @@
 
 ## 📅 1. Sự kiện theo ngày cố định
 
-Xếp theo lịch trong năm. Ngày nào đã có trong [[Daily]] thì có link sang thẳng ngày đó; mùa chưa viết Daily thì mục **🔮 Bí mật** ở cuối từng mùa trong [[Daily#🌸 Tham khảo nhanh việc theo mùa|Tham khảo theo mùa]] trỏ về đây.
+Xếp theo lịch trong năm. Ngày nào đã có trong [[Wind - Daily]] thì có link sang thẳng ngày đó; mùa chưa viết Daily thì mục **🔮 Bí mật** ở cuối từng mùa trong [[Wind - Daily#🌸 Tham khảo nhanh việc theo mùa|Tham khảo theo mùa]] trỏ về đây.
 
 ### 🌸 Xuân
 
-- [x] **Xuân 17 — Chum vàng cuối cầu vồng** (từ bản 1.6) · ✔️ code · Daily [[Daily#☀️ Ngày 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)|Ngày 17]]
+- [x] **Xuân 17 — Chum vàng cuối cầu vồng** (từ bản 1.6) · ✔️ code · Daily [[Wind - Daily#☀️ Ngày 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)|Ngày 17]]
   - **Ở đâu:** phía nam **Rừng Cindersap**, gần thác nước cạnh **Nhà hoang (Abandoned House** — nhà Chuột bán mũ); chum nằm ở ô **(52, 98)**, cầu vồng vẽ ngay phía trên.
   - **Điều kiện:** chỉ cần **đúng ngày Xuân 17** — **không phụ thuộc thời tiết, không cần mưa hôm trước**. Chum chỉ có đúng 1 ngày: sang Xuân 18 game tự dọn nếu chưa ai bấm.
   - **Thưởng:** **Mũ yêu tinh (Leprechaun Hat)** + **(7 + số năm) đồng xu vàng, mỗi đồng 25g** → Năm 1 = 8 × 25 = **200g**, mỗi năm sau thêm 1 đồng. Lặp mỗi năm (mũ cũng rơi lại mỗi năm).
@@ -49,7 +49,7 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Daily]] thì có link 
 
 ### 🔁 Mọi mùa
 
-- [ ] **Ngày 28 của mùa bất kỳ, 12:00–12:09 trưa — Rung bụi cây phía trên sân chơi** (góc tây bắc Thị trấn Pelican, ô 20, 8) · ✔️ code · Daily [[Daily#🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong|Xuân 28]]
+- [ ] **Ngày 28 của mùa bất kỳ, 12:00–12:09 trưa — Rung bụi cây phía trên sân chơi** (góc tây bắc Thị trấn Pelican, ô 20, 8) · ✔️ code · Daily [[Wind - Daily#🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong|Xuân 28]]
   - **Thưởng:** **Junimo Nhồi bông (Junimo Plush)** — đồ trang trí, cất rương `Cổ Vật, Đồ Trang Trí, Trang Phục` ([[Quy hoạch nông trại]]). **Chỉ nhận 1 lần mỗi save** — lỡ 12:00 thì chờ ngày 28 mùa sau.
   - _Ghi chú bí mật #13 là gợi ý cho bí mật này._
 

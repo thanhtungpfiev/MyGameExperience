@@ -1,4 +1,4 @@
-# 📅 Nhật ký theo ngày — Nông trại Tiêu chuẩn (Standard Farm)
+# 📅 Nhật ký theo ngày — save Wind (Nông trại Tiêu chuẩn)
 
 > Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Mods [[Mods]] · Bản đồ [[Bản đồ khu vực]] · Bố cục farm [[Quy hoạch nông trại]] · Bí mật theo ngày [[Bí mật & Sự kiện ẩn]] · Cá theo mùa [[Câu cá theo mùa]]
 >

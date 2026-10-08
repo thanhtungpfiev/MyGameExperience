@@ -1,6 +1,6 @@
 # 💡 Mẹo chơi Stardew Valley
 
-> Về [[00 Home]] · Áp dụng theo lịch [[Daily]] · Mod hỗ trợ [[Mods]] · Bản đồ từng khu [[Bản đồ khu vực]]
+> Về [[00 Home]] · Áp dụng theo lịch [[Wind - Daily]] · Mod hỗ trợ [[Mods]] · Bản đồ từng khu [[Bản đồ khu vực]]
 >
 > _Thuật ngữ để tiếng Việt theo bản Việt hóa; tên tiếng Anh trong ngoặc để tra wiki. Từ điển địa danh Anh–Việt nằm ở [[Bản đồ khu vực#📖 Từ điển công trình & địa điểm (Anh–Việt)|cuối note Bản đồ khu vực]]._
 
@@ -245,7 +245,7 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 | **Câu cá cấp 6** | **Cần Iridium (Iridium Rod)** về tiệm — gắn được cả **mồi + phao cùng lúc** | **7.500g** |
 
 - ⚠️ **Thư chỉ là thông báo hàng về, không phải tặng cần.** Vẫn phải ra Tiệm Cá mua bằng tiền mặt.
-- 💸 **Đừng mua vội ở tuần đầu.** 1.800g ≈ **18 hạt Dâu tây** ở Lễ hội Trứng **Ngày 13** ([[Daily]]) — dâu tây sinh lời cả mùa, cần câu thì mua lúc nào cũng được. Ưu tiên hạt trước, cần sau.
+- 💸 **Đừng mua vội ở tuần đầu.** 1.800g ≈ **18 hạt Dâu tây** ở Lễ hội Trứng **Ngày 13** ([[Wind - Daily]]) — dâu tây sinh lời cả mùa, cần câu thì mua lúc nào cũng được. Ưu tiên hạt trước, cần sau.
 - ⚙️ **Máy bạn đang bật `InstantBite`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → cá cắn ngay, nên **Mồi (Bait) thường không cần mua** — nó chỉ làm cá cắn nhanh hơn. Nhưng `InstantCatch` đã **tắt**, minigame vẫn phải tự kéo, nên cần xịn vẫn đáng tiền vì **chỗ gắn phao**.
 
 ### 🎣 Các loại cần câu
@@ -362,7 +362,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 
 ## 🏗️ Xây dựng theo giai đoạn
 
-> _Thứ tự xây chung cho trang trại. Bản áp dụng cho nông trại này — toạ độ từng món, chi phí đủ, mốc theo mùa — nằm ở [[Daily#🏗️ Lộ trình xây trang trại theo năm|Daily — Lộ trình xây]], theo [[Quy hoạch nông trại#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]]. Chi phí đọc từ file game 1.6.15._
+> _Thứ tự xây chung cho trang trại. Bản áp dụng cho nông trại này — toạ độ từng món, chi phí đủ, mốc theo mùa — nằm ở [[Wind - Daily#🏗️ Lộ trình xây trang trại theo năm|Daily — Lộ trình xây]], theo [[Quy hoạch nông trại#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]]. Chi phí đọc từ file game 1.6.15._
 
 | Giai đoạn | Xây gì | Vì sao · chi phí chính |
 |---|---|---|

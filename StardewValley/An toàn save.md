@@ -1,6 +1,6 @@
 # 🛟 An toàn save — Stardew Valley 1.6.15
 
-> Về [[00 Home]] · Mods [[Mods]] · Nhật ký [[Daily]]
+> Về [[00 Home]] · Mods [[Mods]] · Nhật ký [[Wind - Daily]]
 >
 > _Đọc note này **trước khi thêm/bớt mod giữa chừng**. Hai mod đang dùng có đụng vào save serializer, và có 3 lớp lưu chồng nhau cần hiểu rõ vai trò._
 

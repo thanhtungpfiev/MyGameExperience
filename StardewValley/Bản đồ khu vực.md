@@ -1,6 +1,6 @@
 # 🗺️ Bản đồ khu vực — Stardew Valley
 
-> Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Nhật ký [[Daily]] · Mods [[Mods]]
+> Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Nhật ký [[Wind - Daily]] · Mods [[Mods]]
 >
 > _Ảnh bản đồ từng khu (lấy từ Stardew Valley Wiki) + sơ đồ kết nối. Tên Anh–Việt của công trình & NPC xem [[#📖 Từ điển công trình & địa điểm (Anh–Việt)|từ điển ở cuối note]]._
 
@@ -102,7 +102,7 @@
 - **Bản đồ wiki:** https://stardewvalleywiki.com/Cindersap_Forest
 - **Nối tới:** Nông trại (bắc) · Thị trấn (đông bắc). **Không** có lối đi thẳng sang Bãi biển — muốn ra biển phải vòng qua Thị trấn.
 - **Có gì:** Trang trại Marnie (vật nuôi) · Nhà Leah · Tháp Pháp sư (Rasmodius, **phía tây cái hồ**) · **Rừng Bí Mật** (chặt gốc cây cứng mới vào) · **Xe hàng rong** (Thứ 6 & CN) · cửa vào Cống ngầm.
-- 🔒 **Tháp Pháp sư khoá tới khi có thư mời** — thư tới **sáng hôm sau ngày bạn bước vào Trung tâm Cộng đồng** (tức Ngày 6 nếu đi đúng lịch [[Daily]]). Trước đó bấm cửa chỉ ra _"Nó bị khoá. Nhưng bạn có thể nghe thấy tiếng ai đó bên trong."_
+- 🔒 **Tháp Pháp sư khoá tới khi có thư mời** — thư tới **sáng hôm sau ngày bạn bước vào Trung tâm Cộng đồng** (tức Ngày 6 nếu đi đúng lịch [[Wind - Daily]]). Trước đó bấm cửa chỉ ra _"Nó bị khoá. Nhưng bạn có thể nghe thấy tiếng ai đó bên trong."_
 
 ## 🏖️ Bãi biển (The Beach)
 
