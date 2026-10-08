@@ -140,7 +140,7 @@ Trắng còn trống trong bảng hiện tại, cũng như Hồng và Vàng nế
 
 ![[assets/my-farm-plan-rieng.jpg|700]]
 
-**Link planner:** https://stardew.info/planner/18-near-newts-hid-easily
+**Link planner:** https://stardew.info/planner/10-sour-chickens-hid-cordially
 
 Tự thiết kế, không chép mẫu nào, theo tiêu chí **đẹp · đơn giản · gọn gàng · tiện dùng** và có đủ đồ trang trí, cây cối, đường lát, tường rào. Đã chốt trước khi dựng:
 - **Dài hạn nhưng xây dần:** năm 1 chỉ làm đường chính và ô ruộng sát trục dọc, các khu khác để trống chờ.
@@ -168,6 +168,12 @@ Cố ý **không** có Chòi nuôi Slime, Hồ Cá, Lều Junimo hay dãy máy n
 | Giếng cạnh nhà kính | (34, 13), nền 3 × 3 |
 | Bồn Tulip hai bên cửa nhà | x 59–62 và 66–69, y = 17 (lối x 63–65 để trống) |
 | Ghế băng Gỗ sồi | (33, 17) (36, 17) cạnh giếng · (52, 17) cạnh xưởng |
+
+**Mộ ông nội** (có sẵn trên bản đồ, x 7–9, y 5–8, bậc đá ở y = 8) — giữ **thoáng** vì đầu năm 3 ông về chấm điểm và phải đứng trước bậc đá mới tương tác được:
+- Sân **Đường lát đá** ngay trước bậc: x 7–9, y 9–10.
+- Lối **Đường đá dậm bước** thẳng xuống đường chính: x = 8, y 11–17.
+- Hai bồn **Hoa hồng tiên** hai bên sân (x 5–6 và x 10–11, y 9–10) cùng hai **Cột đèn sắt** ở (6, 11) và (10, 11).
+- Không trồng cây trong góc x ≤ 12 phía trên đường chính.
 
 **3 · Ruộng phía tây** — 6 ô 10 × 10, mỗi ô **4 Vòi phun nước Iridium** tưới vừa khít 100 ô, **Bù nhìn** ở giữa ô:
 
@@ -207,7 +213,7 @@ Cửa chuồng quay xuống bãi cỏ, nên thả thú ra là chúng ăn cỏ ng
 Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42–52). Có thêm vài cây phong quanh vườn trụ, và hai ghế băng cạnh ao phía nam ở (36, 47) và (43, 44).
 
 **8 · Cây cối:**
-- Rừng nhỏ gồm phong, sồi, thông ở phía tây nhà kính (x 5–22, y 9–15).
+- Rừng nhỏ gồm phong, sồi, thông ở phía tây nhà kính (x 13–22, y 9–15), chừa trống góc mộ ông nội.
 - Hàng thông dọc mép tây (x = 4).
 - Hàng sồi dọc mép nam (y = 60, x 8–28).
 
