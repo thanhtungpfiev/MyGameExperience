@@ -471,6 +471,18 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **Lưu ý:** đừng nhầm điều kiện — **4 tim** là để được mời nhảy, **8 tim + Bó hoa** (mua Ngày 23) là để chính thức thành người yêu, hai mốc khác nhau và không phụ thuộc nhau.
 
+**🥕 Cải vàng cho gói Nông sản Chất lượng cao: năm 1 không kịp nữa.** Hôm nay là ngày cuối gieo được Cải vàng (4 ngày, chín đúng Ngày 28), nhưng **không mua được hạt**. Ngày có lễ hội bắt đầu trước 19:00 thì game khoá cửa **mọi tiệm** trong thung lũng, kể cả JojaMart. Rời lễ hội thì đồng hồ đã sang 22:00. _(Save Xuân 24: không có hạt Cải vàng, chỉ 3 Hạt giống tổng hợp, mỗi hạt có 1/4 khả năng ra Cải vàng.)_ Không sao, vì gói chỉ cần **3 trong 4 loại**, mỗi loại 5 củ chất lượng vàng:
+
+| Loại | Mùa | Đang có |
+|---|---|---|
+| Dưa | Hạ | 9 Hạt giống dưa |
+| Ngô | Hạ – Thu | — |
+| Bí ngô | Thu | 9 Hạt giống bí ngô |
+
+- Bón **Phân bón cơ bản** cho cả ba (còn 398 Nhựa cây, chế thoải mái). Phân bón chất lượng thì phải tới năm 2 Pierre mới bán, hoặc chờ Trồng trọt cấp 9 mới tự chế được.
+- Mỗi cây có Phân bón cơ bản có khoảng **23% (cấp 5) – 30% (cấp 7)** khả năng ra chất lượng vàng. Muốn chắc ~90% có đủ 5 củ thì gieo **khoảng 30 cây mỗi loại**. Chỉ gieo 9 hạt đang có thì xác suất dưới 10%.
+- Năm 2 vẫn còn Cải vàng (Xuân) nếu một trong ba loại trên trượt.
+
 ---
 
 ### ☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2
