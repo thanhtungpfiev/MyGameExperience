@@ -23,20 +23,7 @@
 |-----|---------|
 | Phiên bản game | 1.6.15 (bản Việt hóa) |
 | Loại farm | **Nông trại Tiêu chuẩn (Standard Farm)** — xem [[Quy hoạch nông trại]] |
-| Mùa / Năm | **Xuân 18, Năm 1** — theo save `Wind` ngày 28/9 _(cập nhật mỗi khi chơi)_ |
-| Mục tiêu gần | Xem danh sách **Trước khi hết Xuân** ngay dưới |
-
-## ⚡ Việc ưu tiên
-
-**Trước khi hết Xuân Năm 1** (chi tiết theo ngày ở [[Daily]]):
-
-- [ ] Giao Rong biển cho Emily — hạn chót **Xuân 19**, rương đã có 2 Rong biển
-- [ ] Gieo gói **Hạt giống cổ đại** đang trong túi — gieo Xuân 18 thì Hạ 18 ra trái
-- [ ] Gói **Sản phẩm Hái lượm Ngoại cảnh** (4/5) — thiếu **Nhựa phong**, Chén hứng Nhựa cây ra khoảng Xuân 25
-- [ ] Gói **Khoáng Sản** — thiếu **Thạch anh Lửa**, ra từ tầng 80 (đang ở 76)
-- [ ] Gói **Bẫy Cua** (3/5) — nạp mồi đều cho 3 bẫy đang đặt
-- [x] **Cá băng** ở ao tầng 60 — xem [[Câu cá theo mùa#⛏️ Hầm mỏ|Câu cá — Hầm mỏ]]
-- [ ] Xuân 28, 12:00 — rung bụi cây lấy **Junimo Nhồi bông** ([[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật]])
+| Đang chơi tới đâu, việc sắp tới | Theo dõi ở [[Daily]] — mốc Quicksave mới nhất và checklist từng ngày nằm hết bên đó |
 
 ## 🔗 Liên kết nhanh
 
