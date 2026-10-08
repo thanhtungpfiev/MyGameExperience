@@ -136,6 +136,21 @@ Trắng còn trống trong bảng hiện tại, cũng như Hồng và Vàng nế
 
 ## ✏️ Bản quy hoạch của tôi
 
+> [!save]- Sao lưu 3 bản quy hoạch — phòng khi link planner mất
+> Link stardew.info không gắn với tài khoản nào: lịch sử bản lưu cần đăng nhập Patreon gói Copper trở lên. Vì vậy dữ liệu của cả 3 bản được tải nguyên từ máy chủ planner (`/api/<mã link>`) về repo — đúng thứ planner nạp mỗi khi mở link:
+>
+> | File | Bản | Link gốc |
+> |---|---|---|
+> | `assets/planner/rieng.json` | [[#Bản quy hoạch riêng — thôn quê, xây dần\|Bản riêng]] | `10-sour-chickens-hid-cordially` |
+> | `assets/planner/mau-1.json` | [[#Bản dựng lại Mẫu 1 trên planner\|Mẫu 1]] | `10-short-pheasants-snuggled-merrily` |
+> | `assets/planner/mau-2.json` | [[#Bản dựng lại Mẫu 2 trên planner\|Mẫu 2]] | `17-fine-chickens-sat-easily` |
+>
+> **Khôi phục:**
+> 1. Mở https://stardew.info/planner/, chọn bản đồ Standard, bấm **Start planning!**.
+> 2. Bấm `F12` → tab **Console**.
+> 3. Gõ `planner.clearTiles(); planner.importData(` rồi dán **toàn bộ nội dung** file `.json`, đóng ngoặc `)` và Enter. Lần đầu dán, Chrome có thể đòi gõ `allow pasting` trước.
+> 4. Bấm **Save** trên thanh công cụ → planner cấp một link mới.
+
 ### Bản quy hoạch riêng — thôn quê, xây dần
 
 ![[assets/my-farm-plan-rieng.jpg|700]]
