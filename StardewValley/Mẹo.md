@@ -36,7 +36,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 - **Vòi tưới cây (Sprinkler) > tưới tay:** Vòi tưới cây xịn / Iridium giải phóng cả buổi sáng. Có Sprinkler sớm ngày nào lãi ngày đó.
 - **Bố trí máy theo cụm** để dùng chung 1 rương (kết hợp Automate — xem [[Mods]]).
-- **Phân bón (Fertilizer):** Phân bón giữ nước cao cấp (Deluxe Retaining Soil) để khỏi tưới, Phân bón chất lượng (Quality Fertilizer) để tăng phẩm cấp. **Phải bón trước khi cây lớn.**
+- **Phân bón (Fertilizer):** Phân bón giữ nước cao cấp (Deluxe Retaining Soil) để khỏi tưới, Phân bón chất lượng (Quality Fertilizer) để tăng phẩm cấp. **Bón cùng ngày gieo**: Phân bón cơ bản và chất lượng bị chặn khi cây đã nảy mầm, còn Phân bón Thúc bón muộn thì phí — xem [[#🧪 Phân bón|mục Phân bón]].
 - **Vại Bảo quản (Preserves Jar) vs Thùng chứa (Keg):** Vại Bảo quản nhanh hơn cho rau củ; Thùng chứa lời hơn cho hoa quả (làm Rượu).
 
 ### Cơ chế & lộ trình lên cấp (1.6)
