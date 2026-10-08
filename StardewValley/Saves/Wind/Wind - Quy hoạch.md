@@ -28,7 +28,7 @@ Cố ý **không** có Chòi nuôi Slime, Hồ Cá, Lều Junimo hay dãy máy n
 
 **1 · Đường chính** (làm đầu tiên) — **Đường lát đá**, rộng 2 ô:
 - **Trục dọc** x 40–41, từ lối vào phía bắc xuống tới y = 47. Ao phía nam **không đi xuyên được**, nên đường vòng sang phải: y 46–47 sang x 48 → xuống x 47–48 tới y = 60 → y 59–60 quay về x 40 → x 40–41 ra lối phía nam.
-- **Trục ngang** y 18–19, từ x = 6 sang tận lối Trạm xe buýt (x = 79, thêm hàng y = 17 ở x 72–79). Trục này chạy ngay trước cửa nhà và cửa nhà kính.
+- **Trục ngang** y 18–19, từ x = 6 sang tận lối Bến Xe (x = 79, thêm hàng y = 17 ở x 72–79). Trục này chạy ngay trước cửa nhà và cửa nhà kính.
 - **Cột đèn sắt** dọc hai trục: (10, 20) (24, 20) (36, 20) (45, 20) (53, 20) (70, 20) (75, 20) · (39, 9) (42, 9) · (42, 25) (42, 33) (42, 41) · (39, 46) (49, 45).
 
 **2 · Khu nhà**:

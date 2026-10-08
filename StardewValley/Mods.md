@@ -97,7 +97,7 @@ Chỗ **duy nhất** ghi lý do đổi phím — mục mod và bảng phím gố
 | **`V`** _(thêm, không thay)_ | Kiểm tra / tương tác, đỡ đòn _(game)_ | chỉ chuột phải + `X` | Chuột phải đang dùng để đi ([[#MouseMoveMode 1.4.4\|MouseMoveMode]]); mod chỉ chặn chuột phải vật lý nên `V` chạy y như game gốc — đỡ đòn trong mỏ bằng phím thay vì nút giữa chuột |
 | **`N`** | Đổi hàng thanh công cụ _(game)_ | `Tab` | Không phải vì trùng mod: túi khởi đầu chỉ **1 hàng 12 ô** nên `Tab` không có gì để đảo, tưởng hỏng. Có Túi lớn (2.000g ở Pierre) mới có hàng thứ hai |
 | **`L`** | Bật/tắt lớp phủ _(Data Layers)_ | `F2` | Trùng `F2` của [[#All Chests Menu 0.4.2\|All Chests Menu]] — bên đó để `ModToOpen: false` nên bấm `F2` trơn là mở, hai mod cùng bắt một phím |
-| **`Z`** | Bật/tắt bảng debug _(Debug Mode)_ | `` ` `` | Trùng `` ` `` của [[#Ladder Locator 1.5.2\|Ladder Locator]], mà phím đó đảo thẳng `ForceShafts` → mỗi lần bật debug là **hố thôi luôn hiện** (thang không ảnh hưởng; hố chỉ có ở Hang Đầu Lâu) |
+| **`Z`** | Bật/tắt bảng debug _(Debug Mode)_ | `` ` `` | Trùng `` ` `` của [[#Ladder Locator 1.5.2\|Ladder Locator]], mà phím đó đảo thẳng `ForceShafts` → mỗi lần bật debug là **hố thôi luôn hiện** (thang không ảnh hưởng; hố chỉ có ở Hang Đầu lâu) |
 | **`K`** | Mở bảng Perfection Stats | _(trống)_ | Tab cúp trong menu `Esc` hay bấm trượt ([[#Perfection Stats 1.6.7\|lỗi vùng click]]). `O` định dùng trước nhưng đã là vùng Bù nhìn của Range Highlight |
 
 **Còn để nguyên:** `X` — trùng giữa phím phụ "kiểm tra" của game và ẩn/hiện thanh XP của Experience Bars, nhưng hai việc gần như không bao giờ cần cùng lúc. Muốn đổi thì gán Experience Bars sang một phím trống.
@@ -225,7 +225,7 @@ Thêm widget nâng cao cho GMCM, vốn chỉ có bật/tắt, ô số, ô chữ,
 > - Giá bán (và tổng giá nếu trỏ vào cả chồng)
 > - **Icon đầu Gunther** nếu món đó **chưa quyên góp Bảo tàng**
 > - **Icon thùng ship** nếu món đó **chưa từng ship lần nào** (tính cho Full Shipment)
-> - **Icon + tên gói** (màu theo phòng Trung tâm Cộng đồng) nếu món đó **còn cần cho 1 gói chưa nộp**
+> - **Icon + tên gói** (màu theo phòng Nhà Văn hóa) nếu món đó **còn cần cho 1 gói chưa nộp**
 >
 > Nhờ hoạt động cả trong menu rương nên **không cần rương "Đừng bán" riêng** — rê chuột vào bất kỳ món nào ở bất kỳ rương nào là biết ngay còn thiếu Bảo tàng/gói CĐ/Full Shipment hay không, xem thêm ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]].
 > Nguồn: [ShowItemHoverInformation.cs](https://github.com/Annosz/UIInfoSuite2/blob/master/UIInfoSuite2/UIElements/ShowItemHoverInformation.cs) — xác nhận hoạt động trong `ItemGrabMenu` (class game dùng cho mọi loại rương).
@@ -470,7 +470,7 @@ Vẽ **đúng những con đang câu được ngay lúc này** bơi lượn dư�
 > | Núi | **Legend** (+ Legend II) |
 > | Rừng (Forest) | **Glacierfish** (+ Glacierfish Jr) · tượng **Krobus Iridium** |
 > | Cống ngầm | **Mutant Carp** |
-> | Rừng bí mật | **Giỏ cây treo tường** (Wall Basket) |
+> | Khu rừng Bí mật | **Giỏ cây treo tường** (Wall Basket) |
 > | Đảo Ginger | Bắc: Cột sống hóa thạch (Fossilized Spine), Biểu đồ thảm thực vật (Foliage Print), Tượng Sóc (Squirrel Figurine) · Tây: Sọ rắn (Snake Skull) · hang Đông Nam: **Tượng Ếch Sành ăn** (Gourmand Statue) |
 >
 > Rất hợp để đối chiếu với [[#Show Missing Collection Entries 0.2.0|Show Missing Collection Entries]]: mod kia bảo còn thiếu con gì, mod này chỉ luôn nó nằm ở ô nào.
@@ -557,7 +557,7 @@ Phủ lên bản đồ **lớp màu theo từng loại dữ liệu**: ô nào đ
 ![[assets/stardew-dashboard-1.png|600]]
 ![[assets/stardew-dashboard-2.png|600]]
 
-Bảng thống kê tổng hợp **ngay trong game** — gom thứ vốn nằm rải rác qua cả chục menu về **một phím**: kỹ năng & XP, tình cảm (kèm chân dung + sở thích quà), nhiệm vụ, Trung tâm Cộng Đồng, Bảo tàng, Full Shipment, Polyculture, thời tiết, vật nuôi, đồ thủ công, nông/ngư/mỏ/chiến đấu. Tác giả **RuthlessTex**. **Chỉ đọc, không đụng vào file save**, an toàn cho co-op.
+Bảng thống kê tổng hợp **ngay trong game** — gom thứ vốn nằm rải rác qua cả chục menu về **một phím**: kỹ năng & XP, tình cảm (kèm chân dung + sở thích quà), nhiệm vụ, Nhà Văn hóa, Bảo tàng, Full Shipment, Polyculture, thời tiết, vật nuôi, đồ thủ công, nông/ngư/mỏ/chiến đấu. Tác giả **RuthlessTex**. **Chỉ đọc, không đụng vào file save**, an toàn cho co-op.
 
 **Cách dùng** — `F10` mở bảng → gõ vào **ô tìm kiếm** để lọc nhanh, **bấm tiêu đề mục** để gấp/mở, **chuột phải vào dòng bất kỳ để ghim (pin)** dòng đó lên **Live HUD** theo dõi liên tục khi đang làm việc. Bảo tàng / Shipping / Polyculture ghim chung vào **một thẻ** cho gọn màn hình.
 
@@ -639,7 +639,7 @@ Vẽ **mũi tên nhỏ nhấp nháy trên đầu đồ lượm** đang nằm tro
 
 Chuyên trị đúng một việc: làm **điểm cổ vật và đốm hạt giống nổi hẳn lên** thay vì phải soi từng con giun ngọ nguậy. Tác giả **Zamiel**. Cần SMAPI 4.0.0 trở lên.
 
-**Cách dùng** — tự động, đi ngang là thấy. Hợp nhất lúc cày mỏ, đi Rừng bí mật hay quét bãi biển tìm cổ vật cho [[#Show Missing Collection Entries 0.2.0|Bảo tàng]].
+**Cách dùng** — tự động, đi ngang là thấy. Hợp nhất lúc cày mỏ, đi Khu rừng Bí mật hay quét bãi biển tìm cổ vật cho [[#Show Missing Collection Entries 0.2.0|Bảo tàng]].
 
 **Phím** — không có.
 
@@ -716,7 +716,7 @@ Trong mỏ, **tô sáng hòn đá đang giấu thang hoặc hố xuống tầng*
 
 | Tùy chọn | Đang để | Tác dụng |
 |---|---|---|
-| `ForceShafts` | ✅ | **Luôn hiện hố** (shaft — lỗ nhảy nhiều tầng, chỉ có ở Hang Đầu Lâu). Tooltip mod: _"Force shafts to be always visible"_; phím `` ` `` chính là công tắc của dòng này |
+| `ForceShafts` | ✅ | **Luôn hiện hố** (shaft — lỗ nhảy nhiều tầng, chỉ có ở Hang Đầu lâu). Tooltip mod: _"Force shafts to be always visible"_; phím `` ` `` chính là công tắc của dòng này |
 | `HighlightTypes` | `Rectangle` | Kiểu tô: khung chữ nhật (còn `Image` dùng ảnh `cracked.png`, `Sprite` tô chính hình đá) |
 | `HighlightRectangleRGBA` | trắng, đục hẳn | Màu khung |
 | `HighlightUsesStoneTint` | ✅ | Khung ăn theo màu hòn đá |
@@ -1195,7 +1195,7 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 > | **Mối quan hệ** | Chỉnh tim từng người · **tặng quà mọi lúc** (bỏ giới hạn 2 quà/tuần) · tình bạn không tụt |
 > | **Dịch chuyển** | Nhảy thẳng tới mọi khu; thêm/ẩn điểm đến qua `AddWarps` / `HideWarps` |
 > | **Thời gian** | Đóng băng thời gian (mọi nơi / trong nhà / trong hang) · chỉnh giờ · đổi ngày |
-> | **Mở rộng** | Tiền, vật phẩm, mở khoá công thức, hoàn thành Trung tâm Cộng Đồng... |
+> | **Mở rộng** | Tiền, vật phẩm, mở khoá công thức, hoàn thành Nhà Văn hóa... |
 > | **Điều khiển** | Gán lại toàn bộ phím, kể cả phím tay cầm |
 
 > [!tip] `NumPad2` + Vòi tưới cây — cặp đôi lợi hại
@@ -1204,7 +1204,7 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 > [!info]- Chơi mạng (co-op) — cheat nào ảnh hưởng người khác
 > Mod chạy **cục bộ**, chỉ ai cài mới có, và người khác **thường không thấy** mình đang cheat.
 >
-> **Ảnh hưởng cả server:** đổi ngày/giờ, thời tiết ngày mai, hoàn thành Trung tâm Cộng Đồng, xây nhanh, máy chạy nhanh, thu hoạch bằng lưỡi hái, thêm tiền (nếu chung ví), hàng rào bền, tự cho ăn, tự vuốt ve, vô hạn cỏ khô.
+> **Ảnh hưởng cả server:** đổi ngày/giờ, thời tiết ngày mai, hoàn thành Nhà Văn hóa, xây nhanh, máy chạy nhanh, thu hoạch bằng lưỡi hái, thêm tiền (nếu chung ví), hàng rào bền, tự cho ăn, tự vuốt ve, vô hạn cỏ khô.
 >
 > **Ảnh hưởng ai đứng cùng khu:** 1 phát chết, 1 đập bể.
 >
@@ -1252,7 +1252,7 @@ Tên trên Nexus là **Seasonal Outfits - Slightly Cuter Aesthetic**. Vẽ lại
 > Pack này có tới **~70 tuỳ chọn**. Từ bản 6.1.0, **mỗi mục trong GMCM đều có dòng mô tả** ghi rõ tác dụng, các lựa chọn và giá trị mặc định — dễ hơn hẳn so với sửa `config.json` (dễ gõ sai chuỗi là hỏng).
 
 > [!success]- Đang bật gần như toàn bộ — 45+ nhân vật đều dùng bản dễ thương
-> Tất cả `SlightlyCuter…` đều `true`, gồm cả **NPC của bản 1.6** (Bear, Birdie, Fizz, Mr. Qi, Professor Snail) lẫn phần **chân dung vợ/chồng**, **biểu tượng cảm xúc (emoji)** và **hình gói Trung tâm Cộng Đồng**.
+> Tất cả `SlightlyCuter…` đều `true`, gồm cả **NPC của bản 1.6** (Bear, Birdie, Fizz, Mr. Qi, Professor Snail) lẫn phần **chân dung vợ/chồng**, **biểu tượng cảm xúc (emoji)** và **hình gói Nhà Văn hóa**.
 >
 > | Mục | Đang để | Ý nghĩa |
 > |---|---|---|

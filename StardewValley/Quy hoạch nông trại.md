@@ -11,7 +11,7 @@
 - Trạng thái ban đầu: đầy **cỏ, đá, cành cây, gốc cây, cây to** cần dọn dần.
 - Góc trên có **nhà** + **thùng vận chuyển (shipping bin)** ngay cạnh — trồng cây gần đây cho tiện tưới & bán.
 - Vùng đất trống lớn nhất khoảng **63 × 31 ô** — để dành làm ruộng chính về sau.
-- Có 1 **nhà kho bỏ hoang** — sau này sửa thành **Nhà kính (Greenhouse)** qua gói Trung tâm Cộng đồng.
+- Có 1 **nhà kho bỏ hoang** — sau này sửa thành **Nhà kính (Greenhouse)** qua gói Nhà Văn hóa.
 - 2 hồ nước trên farm để đổ bình tưới; 1 **hang** (chọn Nấm hoặc Dơi — xem [[Mẹo#🌰 Lượm (Foraging)|mục Lượm]]).
 
 **Công cụ quy hoạch:**

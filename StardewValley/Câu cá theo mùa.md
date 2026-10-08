@@ -6,7 +6,7 @@
 >
 > _Tên cá theo **bản Việt hóa đang cài** (tên tiếng Anh trong ngoặc để tra wiki). Giờ, thời tiết, cấp tối thiểu và chỗ câu lấy thẳng từ file game 1.6.15 (`Data/Fish`, `Data/Locations`); tầng mỏ theo wiki._
 
-**Chú thích:** 🧩 = cần cho gói Trung tâm Cộng đồng · 🌧️ = chỉ ra khi mưa · ☀️ = chỉ ra khi nắng · "cả ngày" = 06:00–02:00.
+**Chú thích:** 🧩 = cần cho gói Nhà Văn hóa · 🌧️ = chỉ ra khi mưa · ☀️ = chỉ ra khi nắng · "cả ngày" = 06:00–02:00.
 
 ---
 
@@ -37,7 +37,7 @@ Có **17 loại** câu được mùa Xuân ở biển, sông và hồ (không t�
 | Cá vền (Bream) 🧩 | 18:00–02:00 | bất kỳ |
 | Cá bống tượng (Goby) — _mới từ 1.6, khác Cá bống (Chub) ở trên_ | 08:00–18:00 · trừ Đông | bất kỳ — **phao phải rơi đúng vũng nước dưới chân thác phía nam Rừng Cindersap** (ngay dưới chỗ cầu vồng Xuân 17, ô X 51–65, Y ≥ 100); câu chỗ khác của sông **không bao giờ ra** |
 
-### ⛰️ Hồ trên Núi
+### ⛰️ Hồ Trên Núi
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
@@ -68,7 +68,7 @@ _Chưa ghi — thêm khi tới mùa, cùng khuôn bảng như Xuân._
 
 Cá ở mấy chỗ dưới đây **không đổi theo mùa** — mùa nào cũng câu được, nên để riêng một chỗ thay vì chép lại vào từng mùa.
 
-### ⛏️ Hầm mỏ
+### ⛏️ Hầm Mỏ
 
 | Cá | Nơi | Cấp tối thiểu |
 |---|---|---|
@@ -97,6 +97,6 @@ Cá ở mấy chỗ dưới đây **không đổi theo mùa** — mùa nào cũn
 
 | Cá | Cần gì |
 |---|---|
-| Cá nhảy (Woodskip) 🧩 | Rừng Bí mật — **Rìu Thép** để chặt khúc gỗ |
-| Cá chép biến dị (Mutant Carp) | Cống ngầm — **Chìa khóa Gỉ** (quyên góp 60 món Bảo tàng) |
+| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật — **Rìu Thép** để chặt khúc gỗ |
+| Cá chép biến dị (Mutant Carp) | Cống ngầm — **Chìa khóa Rỉ sét** (quyên góp 60 món Bảo tàng) |
 | Cá cát (Sandfish) · Cá chép bò cạp (Scorpion Carp) | Sa mạc — sửa xe buýt, thường chưa kịp Năm 1 |

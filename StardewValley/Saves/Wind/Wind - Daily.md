@@ -32,14 +32,14 @@
 **Sự kiện:** Willy gửi thư mời ra bãi biển → nhận **Cần tre (Bamboo Pole)** miễn phí, từ đây câu cá được.
 
 **Việc cần làm:**
-- [x] Ra bãi biển nhận Cần tre: Farm → **lối phía đông sang Bến xe buýt → Thị trấn → qua cầu xuống Bãi biển**. Vào Tiệm Cá Willy (9:00–17:00)
+- [x] Ra bãi biển nhận Cần tre: Farm → **lối phía đông sang Bến Xe → Thị trấn → qua cầu xuống Bãi biển**. Vào Hàng Cá Willy (9:00–17:00)
 - [x] Tập câu ngay tại bãi biển/sông: quăng cần → chờ `!` → bấm dính → giữ/nhả chuột cho ô xanh bám theo cá
 - [x] Lượm đồ dọc đường (bãi biển có thêm san hô, ốc, sò)
 
 **Lưu ý:**
 - Câu cá cấp 0 rất khó, ô xanh nhỏ, dính rác là thường — đừng nản, mỗi lần câu (kể cả hụt) vẫn cộng kinh nghiệm. [[Mods#Visible Fish 0.4.2|Visible Fish]] chỉ hiển thị con cá đang câu được, không đổi độ khó minigame.
 - Cần tre không gắn được mồi/phao — lên **Cần Sợi Thủy Tinh** (Willy bán 1.800g, cần cấp 2) mới gắn được.
-- Cá không cần bán ngay: giữ 1 con phẩm cấp cao mỗi loại cho Trung tâm Cộng đồng + Bảo tàng.
+- Cá không cần bán ngay: giữ 1 con phẩm cấp cao mỗi loại cho Nhà Văn hóa + Bảo tàng.
 - Cây không tưới thì không chết, chỉ chậm lớn 1 ngày.
 - Chưa xuống mỏ được (đá lở tới Ngày 5). Chưa cần mua hạt — để dành tiền cho **Lễ hội Trứng Ngày 13** (hạt Dâu tây 100g/hạt).
 
@@ -63,14 +63,14 @@ Mưa cả ngày (Năm 1 luôn mưa hôm nay) → khỏi tưới ruộng. **Pierr
 
 **Việc cần làm:**
 - [x] Câu Cá trê + Cá trích dày mình ở sông, Lươn ở biển từ 16:00
-- [x] Ghé hồ Ngọn núi xem chỗ đứng câu **Legend** (con cá ~5.000g, chỉ ra Xuân + mưa, đòi cấp 10 — chưa câu được, chỉ xem chỗ)
+- [x] Ghé hồ Dãy Núi xem chỗ đứng câu **Legend** (con cá ~5.000g, chỉ ra Xuân + mưa, đòi cấp 10 — chưa câu được, chỉ xem chỗ)
 - [x] Dọn thêm đất / chặt cây lấy gỗ
 
 ---
 
 ### ☀️ Ngày 4 (Thứ Năm)
 
-Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng mở — dùng để gom nguyên liệu.
+Ngày trống cuối cùng trước khi Hầm Mỏ và Nhà Văn hóa mở — dùng để gom nguyên liệu.
 
 **Việc cần làm:**
 - [x] Tưới Cải vàng lần cuối (mai hái)
@@ -78,35 +78,35 @@ Ngày trống cuối cùng trước khi Hầm mỏ và Trung tâm Cộng đồng
 - [x] Chuẩn bị đồ ăn hồi máu + chừa ô túi trống cho chuyến mỏ ngày mai
 
 **Lưu ý:**
-- ⚠️ Ngày mai phải vào Thị trấn từ Bến xe buýt, 08:00–13:00, **không mưa** mới mở được Trung tâm Cộng đồng — kiểm tra dự báo tối nay, mai mưa thì phải hoãn.
+- ⚠️ Ngày mai phải vào Thị trấn từ Bến Xe, 08:00–13:00, **không mưa** mới mở được Nhà Văn hóa — kiểm tra dự báo tối nay, mai mưa thì phải hoãn.
 - Kho chứa Cỏ chưa xây được hôm nay (5 Thỏi Đồng cần quặng đồng dưới mỏ, Ngày 5 mới mở). **Không gấp** — cỏ khô chỉ dùng để nuôi gia súc (Chuồng gia cầm/Chuồng Gia súc), mà Chuồng gia cầm tốn tới 4.000g nên khó xây được sớm trong mùa Xuân năm đầu. Ưu tiên đào mỏ, gom quặng, đặt Lò nung trước; xây Kho cỏ khi nào rảnh tay, khoảng Ngày 7–10 cũng không sao.
 
 ---
 
 ### ☀️ Ngày 5 (Thứ Sáu) — 🔓 ngày mở khóa lớn
 
-**4 sự kiện:** Marnie mang thú cưng tới (đặt tên, không đổi lại được) · Hầm mỏ mở · Trung tâm Cộng đồng (cutscene, điều kiện khó) · Xe hàng rong ở Rừng Cindersap.
+**4 sự kiện:** Marnie mang thú cưng tới (đặt tên, không đổi lại được) · Hầm Mỏ mở · Nhà Văn hóa (cutscene, điều kiện khó) · Xe hàng rong ở Rừng Cindersap.
 
-**⚠️ Điều kiện mở Trung tâm Cộng đồng — sai 1 trong 3 là hỏng, phải chờ hôm sau:**
+**⚠️ Điều kiện mở Nhà Văn hóa — sai 1 trong 3 là hỏng, phải chờ hôm sau:**
 
 | Điều kiện | Chi tiết |
 |---|---|
-| Hướng vào | Từ **Bến xe buýt** |
+| Hướng vào | Từ **Bến Xe** |
 | Thời tiết | Không mưa |
 | Khung giờ | 08:00–13:00 |
 
 **Việc cần làm:**
 - [x] Ra khỏi nhà gặp Marnie, nhận thú cưng, đặt tên
 - [x] Thu hoạch 15 Cải vàng (~35g/củ) — **giữ lại 1 củ** cho gói Cộng đồng
-- [x] Đi Thị trấn đúng đường (lối phía đông farm → Bến xe buýt → rẽ đông), xong **trước 13:00** → Lewis mở Trung tâm Cộng đồng
-- [x] ⭐ **Vào hẳn bên trong** Trung tâm Cộng đồng (bảng gói còn là chữ Junimo, chưa đọc được — không sao, nhưng bước chân vào trong mới kích hoạt thư Pháp sư sáng mai; đứng ngoài xem cutscene rồi bỏ đi là kẹt cả dây chuyền)
+- [x] Đi Thị trấn đúng đường (lối phía đông farm → Bến Xe → rẽ đông), xong **trước 13:00** → Lewis mở Nhà Văn hóa
+- [x] ⭐ **Vào hẳn bên trong** Nhà Văn hóa (bảng gói còn là chữ Junimo, chưa đọc được — không sao, nhưng bước chân vào trong mới kích hoạt thư Pháp sư sáng mai; đứng ngoài xem cutscene rồi bỏ đi là kẹt cả dây chuyền)
 - [x] Mua hạt ở Pierre bằng tiền vừa bán — chừa vốn cho Ngày 13
-- [x] Xem Xe hàng rong ở Rừng Cindersap (Tháp Pháp sư hôm nay còn khóa, để Ngày 6)
+- [x] Xem Xe hàng rong ở Rừng Cindersap (Tháp Phù thủy hôm nay còn khóa, để Ngày 6)
 - [x] Cày & gieo lại ruộng vừa thu hoạch, tưới
-- [x] Xuống Hầm mỏ: nhặt rương **Kiếm Rỉ sét** ngay lối vào, đập đá lấy quặng Đồng, ưu tiên tìm thang xuống (cứ 5 tầng có thang máy)
+- [x] Xuống Hầm Mỏ: nhặt rương **Kiếm Rỉ sét** ngay lối vào, đập đá lấy quặng Đồng, ưu tiên tìm thang xuống (cứ 5 tầng có thang máy)
 
 **Lưu ý:**
-- Dây chuyền Trung tâm Cộng đồng mất 2 ngày, không gấp được: Ngày 5 vào trong CC → Ngày 6 sáng nhận thư Pháp sư → lên Tháp đọc chữ Junimo → lúc đó mới nộp gói được. **Ngày 5 chưa nộp được gói nào cả.**
+- Dây chuyền Nhà Văn hóa mất 2 ngày, không gấp được: Ngày 5 vào trong CC → Ngày 6 sáng nhận thư Pháp sư → lên Tháp đọc chữ Junimo → lúc đó mới nộp gói được. **Ngày 5 chưa nộp được gói nào cả.**
 - Giữ lại quặng & đá quý để quyên góp Bảo tàng trước, dư mới bán/nấu thỏi.
 - Mang đồ ăn hồi năng lượng khi xuống mỏ — hết năng lượng gần cạn thì lên mặt đất trước khi hết sạch.
 
@@ -131,17 +131,17 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 
 **Việc cần làm:**
 - [x] Đặt Lò nung (nếu có thư Clint), nấu Thỏi Đồng — 5 Quặng Đồng + 1 Than → 1 Thỏi, ~30 phút/mẻ, mỗi mẻ ăn 1 Than. Đồng nấu ra ưu tiên dùng nâng cấp Cuốc/Rìu trước, dư ra mới dành cho Kho chứa Cỏ (5 Thỏi)
-- [x] 🧙 Lên Tháp Pháp sư (Rừng Cindersap, tây hồ) **trước khi vào CC** — lấy khả năng đọc chữ Junimo (bắt buộc, chưa làm là chưa nộp gói được dù CC đã mở)
+- [x] 🧙 Lên Tháp Phù thủy (Rừng Cindersap, tây hồ) **trước khi vào CC** — lấy khả năng đọc chữ Junimo (bắt buộc, chưa làm là chưa nộp gói được dù CC đã mở)
 - [x] Vào CC đọc bảng gói — 4 nhóm gói làm được trong Xuân: **Lượm Xuân** (4 món nhặt dọc đường, dễ nhất) · **Cây Xuân** (Cải vàng/Đậu xanh/Súp lơ/Khoai tây, phải trồng đủ) · **Xây dựng** (99 Gỗ, 99 Gỗ, 99 Đá, 10 Gỗ Cứng — cần Rìu Đồng) · **Cá** (giữ 1 con mỗi loại)
 - [x] Chế Rương (50 Gỗ) và Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) — từ 16 cây trở lên quạ bắt đầu phá ruộng
-- [ ] *(Không gấp)* Đặt Robin xây Kho chứa Cỏ nếu đã đủ nguyên liệu (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g — Xưởng Mộc mở 09:00–18:00, nghỉ Thứ Ba, xây mất 2 ngày) — chưa đủ thì để dành, xây trễ vài ngày không ảnh hưởng gì vì chưa có gia súc để ăn cỏ khô
+- [ ] *(Không gấp)* Đặt Robin xây Kho chứa Cỏ nếu đã đủ nguyên liệu (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g — Cửa hàng Mộc mở 09:00–18:00, nghỉ Thứ Ba, xây mất 2 ngày) — chưa đủ thì để dành, xây trễ vài ngày không ảnh hưởng gì vì chưa có gia súc để ăn cỏ khô
 - [x] Ghé Bảng tin nhiệm vụ cạnh Pierre — thường chỉ cần mang 1 món, thưởng tiền + tình cảm gần như miễn phí
 - [x] Xuống mỏ gom thêm quặng Đồng + đá nếu còn năng lượng
 
 **Lưu ý:**
 - Hốc tinh (Geode) đừng đập bừa, mang Clint mở (25g/viên), ưu tiên quyên góp Bảo tàng trước khi bán.
 - Trại Marnie nghỉ Thứ Hai & Ba.
-- Việc hôm nay khá nhiều, khó làm hết trong 1 ngày — ưu tiên: tưới ruộng → Tháp Pháp sư → đặt Lò nung/Rương/Bù nhìn → phần còn lại dồn sang Ngày 7–8.
+- Việc hôm nay khá nhiều, khó làm hết trong 1 ngày — ưu tiên: tưới ruộng → Tháp Phù thủy → đặt Lò nung/Rương/Bù nhìn → phần còn lại dồn sang Ngày 7–8.
 
 ---
 
@@ -181,7 +181,7 @@ Kho chứa Cỏ xong hôm nay nếu đã đặt Robin từ Ngày 6 (không đặ
 
 **Việc cần làm:**
 - [x] Xuống mỏ, mục tiêu cắm mốc thang máy **tầng 20–30**, nhặt 2 rương ở tầng 10 & 20
-- [x] Diệt đủ 10 Slime → mở **Hội Phiêu lưu** ở Ngọn núi (14:00–22:00, bán kiếm/giày/nhẫn)
+- [x] Diệt đủ 10 Slime → mở **Hội Thám hiểm** ở Dãy Núi (14:00–22:00, bán kiếm/giày/nhẫn)
 - [x] *(Không gấp)* Nấu thêm Thỏi Đồng ở Lò nung nếu dư quặng — ưu tiên vẫn là nâng cấp công cụ, Kho chứa Cỏ để sau
 
 **🔨 Thứ tự nâng cấp công cụ** (Clint, 09:00–16:00, mỗi lần 2.000g + 5 Thỏi Đồng, khóa công cụ 2 ngày): **Cuốc chim** → **Rìu** → **Bình tưới** (nâng đúng lúc TV báo mai mưa để không lỡ tưới) → **Cuốc**. 2.000g = 20 hạt Dâu tây, nên ưu tiên gom vốn Ngày 13 trước, nâng sau lễ hội.
@@ -205,7 +205,7 @@ Robin và Marnie cùng nghỉ Thứ Ba → không tiêu tiền được mấy, d
 Gieo Ngày 13 → chín Ngày 21 → tái thu hoạch 4 ngày/lứa → 2 lứa trước hết mùa, lời ~2,4 lần. Bón **Phân bón Thúc (Speed-Gro)** lúc gieo thì rút còn 7 ngày → ăn thêm 1 lứa (3 lứa). Nhưng **năm 1 gần như không kịp có Phân bón Thúc**: Pierre chỉ bán từ **Xuân 15** (100g/gói), còn tự chế cần Trồng trọt cấp 3 + Nhựa thông + 5 Rêu. Mẹo này để dành cho năm 2 — xem [[Mẹo#🧪 Phân bón|mục Phân bón]].
 
 **Việc cần làm:**
-- [x] Quét đồ lượm 1 vòng: Rừng Cindersap → Thị trấn → Bãi biển → Ngọn núi — gom đủ 4 món cho gói **Lượm Xuân** (hết mùa là hết cơ hội tới Xuân sang năm)
+- [x] Quét đồ lượm 1 vòng: Rừng Cindersap → Thị trấn → Bãi biển → Dãy Núi — gom đủ 4 món cho gói **Lượm Xuân** (hết mùa là hết cơ hội tới Xuân sang năm)
 - [x] Câu cá / xuống mỏ kiếm vốn — mục tiêu **3.000–5.000g** trước tối Ngày 12
 - [x] Ghé Bảng tin nhiệm vụ
 - [x] Trước khi ship, lọc giữ 1 con cá phẩm cấp cao nhất mỗi loại cho gói Cộng đồng + Bảo tàng
@@ -333,7 +333,7 @@ Mâm xôi cá hồi (Salmonberry) chỉ mọc trên bụi cây quanh Rừng Cind
 
 ### ☀️ Ngày 16 (Thứ Ba) — Robin & Marnie đóng cửa
 
-Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đặt xây/mua thú cưng được hôm nay.
+Cửa hàng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đặt xây/mua thú cưng được hôm nay.
 
 **Việc cần làm:**
 - [x] Dồn hẳn qua mỏ/câu cá/lượm Mâm xôi cá hồi (còn 2 ngày cuối)
@@ -344,10 +344,10 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 
 ### ☀️ Ngày 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)
 
-**Sự kiện ẩn (từ bản 1.6), game không báo trước:** cầu vồng hiện ở **phía nam Rừng Cindersap, gần thác nước cạnh Nhà hoang (Abandoned House** — nhà Chuột bán mũ). Bấm vào **chum vàng** ở chân cầu vồng → rơi ra **Mũ yêu tinh (Leprechaun Hat)** + **8 đồng xu vàng × 25g = 200g** (Năm 1; mỗi năm sau thêm 1 đồng). Chi tiết & các bí mật khác: [[Bí mật & Sự kiện ẩn#🌸 Xuân|Bí mật — Xuân]].
+**Sự kiện ẩn (từ bản 1.6), game không báo trước:** cầu vồng hiện ở **phía nam Rừng Cindersap, gần thác nước cạnh Căn nhà Đổ nát (Abandoned House** — nhà Chuột bán mũ). Bấm vào **chum vàng** ở chân cầu vồng → rơi ra **Mũ yêu tinh (Leprechaun Hat)** + **8 đồng xu vàng × 25g = 200g** (Năm 1; mỗi năm sau thêm 1 đồng). Chi tiết & các bí mật khác: [[Bí mật & Sự kiện ẩn#🌸 Xuân|Bí mật — Xuân]].
 
 **Việc cần làm:**
-- [x] Ghé chân cầu vồng cạnh Nhà hoang, bấm chum vàng lấy mũ + 200g — **chỉ cần đúng ngày Xuân 17, không cần mưa**; chum chỉ có hôm nay, sang Ngày 18 là mất
+- [x] Ghé chân cầu vồng cạnh Căn nhà Đổ nát, bấm chum vàng lấy mũ + 200g — **chỉ cần đúng ngày Xuân 17, không cần mưa**; chum chỉ có hôm nay, sang Ngày 18 là mất
 - [x] Pierre nghỉ Thứ Tư — đừng định mua hạt hôm nay
 - [x] Lượm Mâm xôi cá hồi nếu còn thời gian — còn tới hết mai (Ngày 18)
 - [x] Việc thường ngày: tưới ruộng, mỏ/câu cá
@@ -359,7 +359,7 @@ Xưởng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không đ�
 ### ☀️ Ngày 18 (Thứ Năm) — 🎂 Sinh nhật Pam
 
 **Việc cần làm:**
-- [x] Tìm Pam tặng quà sinh nhật — hay ở quán Saloon (12:00–23:00) hoặc trạm xe buýt buổi sáng; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
+- [x] Tìm Pam tặng quà sinh nhật — hay ở quán Saloon (12:00–23:00) hoặc Bến Xe buổi sáng; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
 - [x] Lượm nốt Mâm xôi cá hồi — **ngày cuối cùng trong năm** bụi còn ra quả
 - [x] Việc thường ngày: tưới ruộng, mỏ/câu cá kiếm vốn nâng cấp túi đồ/công cụ
 - [x] 📦 **Giao Rong biển cho Emily** — nhiệm vụ còn **2 ngày**; rương đã có 2 Rong biển
@@ -423,7 +423,7 @@ Hạn gieo cuối cùng trong mùa cho **Khoai tây** và **Cải xoăn** (xem b
   - **Cá Hồ** 3/4 — Cá tầm
   - **Cá Biển** 1/4 — Cá ngừ · Cá hồng · Cá rô phi
   - **Cá Đêm** 2/3 — Cá mắt to
-  - **Cá Đặc Biệt** 1/4 — Cá nóc · Cá cát (Sa mạc) · Cá nhảy (Rừng Bí mật)
+  - **Cá Đặc Biệt** 1/4 — Cá nóc · Cá cát (Sa mạc) · Cá nhảy (Khu rừng Bí mật)
 
 ---
 
@@ -435,7 +435,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - [x] (Tuỳ chọn) Nếu đã đủ **8 tim** với 1 NPC và muốn xác nhận làm người yêu, mua **Bó hoa (Bouquet)** ở Pierre — 200g _(Quicksave Xuân 21: chưa ai tới 8 tim, cao nhất Haley 4 tim → **chưa cần mua**)_
 - [x] Tưới ruộng **kỹ** — mai đi lễ hội cả buổi chiều
 - [x] Việc thường ngày: mỏ/câu cá, quyên góp Bảo tàng
-- [x] 🍄 Xuống mỏ **tầng 81 trở xuống** tìm **Nấm tím** — chỉ mọc ở **tầng nấm** (tầng tối có nấm to phát sáng), không phải tầng nào cũng có. 1 cây là xong luôn gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5) và thêm 1 món cho **Nghiên Cứu Thực Địa** (đang 2/4); được 2 cây thì nộp cả hai. Quicksave Xuân 22: đã xuống tới tầng 90, trong túi/rương **chưa có món nào nộp được ngay** cho Trung tâm Cộng đồng _(save đầu Xuân 23: đã tới **tầng 110**, vẫn chưa có Nấm tím — thang máy xuống 80/90/100/110 rồi tìm tầng nấm)_
+- [x] 🍄 Xuống mỏ **tầng 81 trở xuống** tìm **Nấm tím** — chỉ mọc ở **tầng nấm** (tầng tối có nấm to phát sáng), không phải tầng nào cũng có. 1 cây là xong luôn gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5) và thêm 1 món cho **Nghiên Cứu Thực Địa** (đang 2/4); được 2 cây thì nộp cả hai. Quicksave Xuân 22: đã xuống tới tầng 90, trong túi/rương **chưa có món nào nộp được ngay** cho Nhà Văn hóa _(save đầu Xuân 23: đã tới **tầng 110**, vẫn chưa có Nấm tím — thang máy xuống 80/90/100/110 rồi tìm tầng nấm)_
 - [x] ⚒️ Đem **18 Hốc tinh** tới **Clint** (09:00–16:00, 25g/cái ≈ 450g): 6 Hốc tinh · 5 Hốc tinh dung nham · 7 Hốc tinh toàn năng — đi **trước** Bảo tàng để quyên góp một lượt
 - [x] 🏛️ Quyên góp Bảo tàng **Búp bê cổ đại** + **Đĩa quý hiếm** (đang trong rương) → **45 món**, kèm món mới nào đập từ Hốc tinh ra còn icon Gunther
 - [x] 💰 **Chưa trả** gói 5.000g Kho bạc dù ví đang **13.052g** — mấy ngày tới còn Kho chứa Cỏ + 2 gà + cỏ khô (~1.900g) và tối đa 2 Hạt giống hiếm (2.000g), trả thêm 5.000g là tụt dưới mốc 6.000g cho hạt Hạ 1
@@ -451,7 +451,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 **Việc cần làm:**
 - [ ] Vào Rừng Cindersap trong khung 09:00–14:00 (trước 09:00 rừng chưa mở)
-- [ ] Đi về phía tây khu rừng, qua cây cầu phía nam Tháp Pháp sư — nơi diễn ra vũ hội chỉ mở đúng hôm nay
+- [ ] Đi về phía tây khu rừng, qua cây cầu phía nam Tháp Phù thủy — nơi diễn ra vũ hội chỉ mở đúng hôm nay
 - [ ] Nếu muốn mời ai nhảy cùng: người đó cần **≥ 4 tim** tình cảm mới nhận lời (không liên quan Bó hoa) — nhảy xong +1 tim (250 điểm tình cảm) với người đó. _Quicksave Xuân 21: **Haley vừa đủ 4 tim** (1.158 điểm) → mời được Haley_
 - [ ] Không mời ai / bị từ chối vẫn không sao — 6 cặp NPC mặc định sẽ tự nhảy, bạn chỉ cần dự khán là đủ, không mất gì
 - [ ] Tưới ruộng trước khi đi — rời lễ hội lúc nào thì đồng hồ cũng **nhảy thẳng tới 22:00** và bạn về lại nông trại, coi như hết ngày
@@ -526,7 +526,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 > _**Hiện trạng (Quicksave Xuân 23, Năm 1):** Nông nghiệp cấp 4 · ví 13.902g · Chuồng gia cầm đang xây ở **(45, 14)**, xong sáng Xuân 24 · chưa có Kho chứa Cỏ._
 
 > [!tip] Hai luật giúp xây dần không phải phá đi làm lại
-> **Robin dời công trình miễn phí** (Xưởng Mộc → di chuyển công trình), nên công trình đặt tạm chỗ khác thì về sau dời về đúng toạ độ cũng chẳng mất gì. **Robin chỉ xây một công trình một lúc**, mỗi cái 2–3 ngày, nên các công trình cùng mùa phải xếp nối nhau.
+> **Robin dời công trình miễn phí** (Cửa hàng Mộc → di chuyển công trình), nên công trình đặt tạm chỗ khác thì về sau dời về đúng toạ độ cũng chẳng mất gì. **Robin chỉ xây một công trình một lúc**, mỗi cái 2–3 ngày, nên các công trình cùng mùa phải xếp nối nhau.
 
 ### Năm 1 — đường chính, ruộng đầu tiên, bãi chăn nuôi
 
@@ -588,7 +588,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - Chừa tiền **Nam việt quất (240g/hạt) cho Thu 1** trước khi vét lần cuối ở Hạ 28.
 - Túi 36 ô (10.000g) để sau khi Việt quất ra tiền — mua bây giờ là hết vốn vụ Hạ.
 - 🐔 Gà mua cho đủ **4 con** (800g/con) cũng chờ tới đợt này, cùng lúc với lúc vét Hạt giống hiếm.
-- 💰 Gói **5.000g** của Kho bạc (Trung tâm Cộng đồng) cũng trả ở đợt này — không có hạn chót, còn tiền đầu Hạ thì bỏ vào hạt quay vòng lời hơn. Quicksave Xuân 22: ví 11.831g, trả ngay thì còn 6.831g, chỉ dư ~800g trên mốc 6.000g.
+- 💰 Gói **5.000g** của Kho bạc (Nhà Văn hóa) cũng trả ở đợt này — không có hạn chót, còn tiền đầu Hạ thì bỏ vào hạt quay vòng lời hơn. Quicksave Xuân 22: ví 11.831g, trả ngay thì còn 6.831g, chỉ dư ~800g trên mốc 6.000g.
 
 **🌱 Trái cổ đại** — cây ở ô (72, 27) chín lứa đầu **quanh Hạ 15**, sau đó cứ 7 ngày 1 quả (khoảng Hạ 22 · Thu 1 · 8 · 15 · 22). Bán 550g/quả thường; **nên giữ lại vài quả** — sau này có Máy làm hạt thì đổi ra Hạt giống cổ đại để trồng trong Nhà kính, nơi cây sống quanh năm.
 

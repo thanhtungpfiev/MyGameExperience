@@ -8,7 +8,7 @@
 
 - [[#🧭 Nguyên tắc nền tảng|Nguyên tắc nền tảng]] — đọc trước, ăn tiền nhất cho người mới
 - **5 nghề:** [[#🌾 Trồng trọt (Farming)|Trồng trọt]] · [[#⛏️ Khai thác (Mining)|Khai thác]] · [[#🌰 Lượm (Foraging)|Lượm]] · [[#🎣 Câu cá (Fishing)|Câu cá]] · [[#⚔️ Chiến đấu (Combat)|Chiến đấu]]
-- [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền theo giai đoạn]] · [[#🏗️ Xây dựng theo giai đoạn|Xây dựng theo giai đoạn]] · [[#❤️ Kết bạn & hẹn hò|Kết bạn]] · [[#🧩 Trung tâm Cộng đồng|Trung tâm Cộng đồng]]
+- [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền theo giai đoạn]] · [[#🏗️ Xây dựng theo giai đoạn|Xây dựng theo giai đoạn]] · [[#❤️ Kết bạn & hẹn hò|Kết bạn]] · [[#🧩 Nhà Văn hóa|Nhà Văn hóa]]
 - [[#🎛️ Tùy chọn game gốc nên bật|Tùy chọn game gốc]] · [[#⚙️ Mẹo liên quan mod|Mẹo mod]] · [[#🎥 Video hướng dẫn (tiếng Việt)|Video hướng dẫn]]
 
 ---
@@ -159,13 +159,13 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 - Ăn no trước khi xuống mỏ; mang theo **món hồi sức** và bom.
 - **Thang máy 5 tầng/lần** — luôn xuống sâu nhất có thể trong 1 chuyến để cắm mốc mới.
 - Tìm thang nhanh: ưu tiên **đập đá và diệt quái** để rơi thang/hố.
-- **Hang Đầu Lâu (Skull Cavern):** chỉ đi vào **ngày may mắn cao** mới hiệu quả. Mang **Bom/Bom tấn (Mega Bomb)** phá đá hàng loạt và **Cầu thang (Staircase)** (chế từ 99 đá) để tụt tầng nhanh; uống **Cà phê** + ăn **Lươn cay (Spicy Eel)** để tăng tốc & may mắn.
+- **Hang Đầu lâu (Skull Cavern):** chỉ đi vào **ngày may mắn cao** mới hiệu quả. Mang **Bom/Bom tấn (Mega Bomb)** phá đá hàng loạt và **Cầu thang (Staircase)** (chế từ 99 đá) để tụt tầng nhanh; uống **Cà phê** + ăn **Lươn cay (Spicy Eel)** để tăng tốc & may mắn.
 - Đá quý/quặng để dành: quyên góp Bảo tàng trước, phần thừa mới bán hoặc nấu thỏi.
 
 ## 🌰 Lượm (Foraging)
 
 - **Quét đồ lượm mỗi ngày** ở Rừng Cindersap → Bãi biển → Núi (xem [[Bản đồ khu vực]], mấy bản đồ có ô màu chính là **điểm mọc đồ lượm**).
-- **Rừng Bí Mật:** 6 gốc cây cứng hồi lại **mỗi ngày** → nguồn **Gỗ Cứng (Hardwood)** ổn định nhất, cần rìu Thép trở lên.
+- **Khu rừng Bí mật:** 6 gốc cây cứng hồi lại **mỗi ngày** → nguồn **Gỗ Cứng (Hardwood)** ổn định nhất, cần rìu Thép trở lên.
 - **Mùa Đông** vẫn lượm được: trên mặt đất mọc **Quả pha lê (Crystal Fruit)**, **Nghệ tây (Crocus)**, **Nhựa ruồi (Holly)**; còn **Rễ cây mùa đông** và **Khoai lang tuyết** thì không mọc trên mặt đất, chỉ ra khi đào điểm cổ vật hoặc cuốc đất — xem mục dưới.
 - **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên (có cả Mảnh tán sắc).
 - Giữ lại **Nhựa cây (Sap)** để làm phân bón, đừng bán.
@@ -188,7 +188,7 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 
 **Ba luật phải nhớ:**
 
-1. **Chỉ mọc ngoài trời** — Thị trấn, Rừng, Núi, Bãi biển, Bến xe buýt, và cả trên nông trại.
+1. **Chỉ mọc ngoài trời** — Thị trấn, Rừng, Núi, Bãi biển, Bến Xe, và cả trên nông trại.
 2. **Mọc lại mỗi ngày**, vị trí ngẫu nhiên.
 3. ⚠️ **Hết ngày là biến mất** — thấy hôm nào phải đào hôm đó.
 
@@ -244,13 +244,13 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 | **Câu cá cấp 3** | Mở khoá chế **Bẫy Cua (Crab Pot)** _(⚠️ 1.6 hình như Willy gửi tặng luôn 1 cái qua thư — chưa kiểm chứng, mở thư ra xem có kèm đồ không)_ | tự chế / Willy bán 1.500g |
 | **Câu cá cấp 6** | **Cần Iridium (Iridium Rod)** về tiệm — gắn được cả **mồi + phao cùng lúc** | **7.500g** |
 
-- ⚠️ **Thư chỉ là thông báo hàng về, không phải tặng cần.** Vẫn phải ra Tiệm Cá mua bằng tiền mặt.
+- ⚠️ **Thư chỉ là thông báo hàng về, không phải tặng cần.** Vẫn phải ra Hàng Cá mua bằng tiền mặt.
 - 💸 **Đừng mua vội ở tuần đầu.** 1.800g ≈ **18 hạt Dâu tây** ở Lễ hội Trứng **Ngày 13** ([[Wind - Daily]]) — dâu tây sinh lời cả mùa, cần câu thì mua lúc nào cũng được. Ưu tiên hạt trước, cần sau.
 - ⚙️ **Máy bạn đang bật `InstantBite`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → cá cắn ngay, nên **Mồi (Bait) thường không cần mua** — nó chỉ làm cá cắn nhanh hơn. Nhưng `InstantCatch` đã **tắt**, minigame vẫn phải tự kéo, nên cần xịn vẫn đáng tiền vì **chỗ gắn phao**.
 
 ### 🎣 Các loại cần câu
 
-Mua ở Tiệm Cá của Willy. Điều kiện mở bán lấy từ file game 1.6.15 (`Data/Shops`); giá theo wiki.
+Mua ở Hàng Cá của Willy. Điều kiện mở bán lấy từ file game 1.6.15 (`Data/Shops`); giá theo wiki.
 
 | Cần | Giá | Mở bán khi | Gắn được | Ghi chú |
 |---|---|---|---|---|
@@ -344,7 +344,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 - Mang **phô mai (Cheese)** làm đồ hồi máu rẻ, ăn nhanh khi ở tầng sâu.
 - **Nhẫn đạo tặc + diệt Tinh linh bụi (Dust Sprite)** ở tầng **60–79** là cách farm **Than đá (Coal)** hiệu quả nhất.
 - **Nhẫn hoang dã** hoặc **Nhẫn Java nóng bỏng** để chạy nhanh, tiết kiệm thời gian mỗi chuyến hầm — game **không có "Nhẫn Cà phê"** như video gọi.
-- Đi Hang Đầu Lâu xem thêm [[#⛏️ Khai thác (Mining)|mục Khai thác]] ở trên.
+- Đi Hang Đầu lâu xem thêm [[#⛏️ Khai thác (Mining)|mục Khai thác]] ở trên.
 
 ## 💰 Kiếm tiền theo giai đoạn
 
@@ -405,7 +405,7 @@ Hai máy đều ra mồi nhưng khác hẳn vai trò. Số liệu từ file game
 - **8 tim** → mua **Bó hoa (Bouquet)** ở tiệm Pierre (200g) để chính thức hẹn hò, mở trần lên 10 tim.
 - **10 tim** + đã **nâng cấp nhà ít nhất 1 lần** → mua **Dây chuyền tiên cá (Mermaid's Pendant)** 5.000g từ ông lão ở mép phải **Bãi biển vào ngày mưa** (riêng mùa Đông thì ngày **15–17** dù thời tiết nào) để cầu hôn. Cưới xong trần lên **14 tim**.
 
-## 🧩 Trung tâm Cộng đồng
+## 🧩 Nhà Văn hóa
 
 - Ưu tiên gói dễ trước: **Gói Cây Xuân (Spring Crops)**, **Gói Cây Thu (Fall Crops)** để mở phần thưởng sớm.
 - **Giữ lại 1 phần mỗi loại** nông/thủy/khoáng sản phẩm cấp cao để nộp gói — bán hết rồi mới phát hiện thiếu là rất mệt.

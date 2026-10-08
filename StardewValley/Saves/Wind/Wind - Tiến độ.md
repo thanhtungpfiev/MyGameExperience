@@ -31,7 +31,7 @@
 - [x] Cá vền (Bream) 🧩
 - [x] Cá bống tượng (Goby)
 
-**⛰️ Hồ trên Núi:**
+**⛰️ Hồ Trên Núi:**
 
 - [x] Cá vược miệng rộng (Largemouth Bass) 🧩
 - [x] Cá chép (Carp) 🧩
@@ -43,14 +43,14 @@
 - [x] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
 - [x] **Cá đá** (tầng 20)
 - [x] **Cá băng** (tầng 60)
-- ⏭️ **Cá huyền thoại — để sang Xuân năm 2**, không săn trong Năm 1. Năm sau vẫn cần ngày mưa + cấp Câu cá ≥ 10 (tính cả buff). Save Xuân 19 đang **cấp 8, còn 767 XP nữa lên cấp 9**, nên cần món **+2** trở lên — Suất đồ biền (+3); cách nấu khi chưa có bếp xem [[Câu cá theo mùa#⛰️ Hồ trên Núi|Câu cá — Hồ trên Núi]].
+- ⏭️ **Cá huyền thoại — để sang Xuân năm 2**, không săn trong Năm 1. Năm sau vẫn cần ngày mưa + cấp Câu cá ≥ 10 (tính cả buff). Save Xuân 19 đang **cấp 8, còn 767 XP nữa lên cấp 9**, nên cần món **+2** trở lên — Suất đồ biền (+3); cách nấu khi chưa có bếp xem [[Câu cá theo mùa#⛰️ Hồ Trên Núi|Câu cá — Hồ Trên Núi]].
 - Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại của Xuân năm nay không cần dồn cho câu cá.
 
 ### ☀️ Hạ · 🍂 Thu · ❄️ Đông
 
 _Chưa ghi — thêm khi tới mùa._
 
-### ⛏️ Hầm mỏ
+### ⛏️ Hầm Mỏ
 
 Save Xuân 19 đã xuống tới **tầng 76**, nên tầng 20 và 60 đều câu được.
 
@@ -62,7 +62,7 @@ Save Xuân 19 đã xuống tới **tầng 76**, nên tầng 20 và 60 đều câ
 
 ### 🔒 Khu chưa vào được
 
-- [ ] Cá nhảy (Woodskip) 🧩 — Rừng Bí mật
+- [ ] Cá nhảy (Woodskip) 🧩 — Khu rừng Bí mật
 - [ ] Cá chép biến dị (Mutant Carp) — Cống ngầm
 - [ ] Cá cát (Sandfish) — Sa mạc
 - [ ] Cá chép bò cạp (Scorpion Carp) — Sa mạc
@@ -79,14 +79,14 @@ Save Xuân 19 đã xuống tới **tầng 76**, nên tầng 20 và 60 đều câ
 - [ ] **Hạ 11 — Quần đùi tím may mắn vào nồi súp Luau**
 - [ ] **Thu 16 — Quần đùi tím ở gian Hội chợ** (750 Star Token)
 - [ ] **Thu 26 — Kênh TV "???"** — chỉ khi đã biến con thành chim bồ câu
-- [ ] **Mùa Đông — bóng đen ở Bến xe buýt → Kính lúp** ⭐
+- [ ] **Mùa Đông — bóng đen ở Bến Xe → Kính lúp** ⭐
 - [ ] **Đêm Đông 24 — Sữa / Bánh quy lên bàn → Chiếc hộp bí ẩn** · lặp mỗi năm
 - [ ] **Ngày 28, 12:00 — Junimo Nhồi bông** · 1 lần/save
 
 ### ⭐ Sao sa — 0 / 7
 
 - [ ] Hội chợ Stardew Valley (Thu 16) — 2.000 Star Token
-- [ ] Hầm mỏ tầng 100
+- [ ] Hầm Mỏ tầng 100
 - [ ] Vợ/chồng hoặc bạn cùng nhà — 12,5 tim
 - [ ] Krobus — 20.000g
 - [ ] Tượng Old Master Cannoli — Sweet Gem Berry
@@ -95,8 +95,8 @@ Save Xuân 19 đã xuống tới **tầng 76**, nên tầng 20 và 60 đều câ
 
 ### 🗝️ Khu vực ẩn & chìa khóa
 
-- [ ] Rừng Bí mật (Secret Woods)
-- [ ] Chìa khóa Gỉ sét (Rusty Key) → Cống ngầm
+- [ ] Khu rừng Bí mật (Secret Woods)
+- [ ] Chìa khóa Rỉ sét (Rusty Key) → Cống ngầm
 - [ ] Hiểu biết của Gấu (Bear's Knowledge)
 
 ### 📦 Hộp bí ẩn — 3 tượng "???"
@@ -123,10 +123,10 @@ Save Xuân 19 đã xuống tới **tầng 76**, nên tầng 20 và 60 đều câ
 
 ### 🎣 Đồ trang trí câu ở chỗ lạ
 
-- [ ] Thùng rác trang trí — đài phun nước trước Trung tâm Cộng đồng
+- [ ] Thùng rác trang trí — đài phun nước trước Nhà Văn hóa
 - [ ] Phao cứu sinh — phòng sau tiệm Willy
-- [ ] 'Phong cảnh' — ao ngoài Spa
-- [ ] Giỏ cây treo tường — ao Rừng Bí mật
+- [ ] 'Phong cảnh' — ao ngoài Suối nước nóng
+- [ ] Giỏ cây treo tường — ao Khu rừng Bí mật
 - [ ] Đề-can Kim tự tháp — Sa mạc Calico
 - [ ] 'Con Thuyền' — _chỉ Nông trại Bãi biển, save này không có_
 - [ ] Đảo Ginger — Biểu đồ thảm thực vật · Tượng Sóc · Mũ Ếch · Tượng Ếch Sành ăn · 'Vật lý 101'
