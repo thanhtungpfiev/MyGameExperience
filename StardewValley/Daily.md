@@ -467,7 +467,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - [ ] Đi về phía tây khu rừng, qua cây cầu phía nam Tháp Pháp sư — nơi diễn ra vũ hội chỉ mở đúng hôm nay
 - [ ] Nếu muốn mời ai nhảy cùng: người đó cần **≥ 4 tim** tình cảm mới nhận lời (không liên quan Bó hoa) — nhảy xong +1 tim (250 điểm tình cảm) với người đó. _Quicksave Xuân 21: **Haley vừa đủ 4 tim** (1.158 điểm) → mời được Haley_
 - [ ] Không mời ai / bị từ chối vẫn không sao — 6 cặp NPC mặc định sẽ tự nhảy, bạn chỉ cần dự khán là đủ, không mất gì
-- [ ] Tưới ruộng trước khi đi — 14:00 mới được rời lễ hội, về tới nhà đã trễ
+- [ ] Tưới ruộng trước khi đi — rời lễ hội lúc nào thì đồng hồ cũng **nhảy thẳng tới 22:00** và bạn về lại nông trại, coi như hết ngày
 
 **Lưu ý:** đừng nhầm điều kiện — **4 tim** là để được mời nhảy, **8 tim + Bó hoa** (mua Ngày 23) là để chính thức thành người yêu, hai mốc khác nhau và không phụ thuộc nhau.
 
