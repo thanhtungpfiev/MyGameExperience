@@ -5,6 +5,7 @@
 ## 📚 Mục lục
 
 - [[Mods]] — Bộ mod đang dùng, cách dùng chi tiết, phím tắt (kèm lý do đổi phím), thứ tự cài.
+- [[Lịch theo mùa]] — Việc lặp mỗi ngày + cây trồng, lễ hội, sinh nhật, gói Cộng đồng theo từng mùa.
 - [[Mẹo]] — Nguyên tắc nền tảng, 5 nghề, kiếm tiền theo giai đoạn, kết bạn, Trung tâm Cộng đồng.
 - [[Bản đồ khu vực]] — Ảnh bản đồ từng khu + sơ đồ kết nối + từ điển địa danh Anh–Việt.
 - [[Quy hoạch nông trại]] — Bản đồ farm ban đầu, mẫu bố cục tham khảo, nguyên tắc sắp xếp.

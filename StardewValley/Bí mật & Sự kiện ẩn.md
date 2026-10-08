@@ -17,7 +17,7 @@
 
 ## 📅 1. Sự kiện theo ngày cố định
 
-Xếp theo lịch trong năm. Ngày nào đã có trong [[Wind - Daily]] thì có link sang thẳng ngày đó; mùa chưa viết Daily thì mục **🔮 Bí mật** ở cuối từng mùa trong [[Wind - Daily#🌸 Tham khảo nhanh việc theo mùa|Tham khảo theo mùa]] trỏ về đây.
+Xếp theo lịch trong năm. Ngày nào đã có trong [[Wind - Daily]] thì có link sang thẳng ngày đó; mùa chưa viết Daily thì mục **🔮 Bí mật** ở cuối từng mùa trong [[Lịch theo mùa#🌸 Tham khảo nhanh việc theo mùa|Lịch theo mùa]] trỏ về đây.
 
 ### 🌸 Xuân
 
