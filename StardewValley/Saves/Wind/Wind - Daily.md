@@ -2,7 +2,7 @@
 
 > Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Mods [[Mods]] · Bản đồ [[Bản đồ khu vực]] · Bố cục farm [[Quy hoạch nông trại]] · Bí mật theo ngày [[Bí mật & Sự kiện ẩn]] · Cá theo mùa [[Câu cá theo mùa]] · Đã làm được gì [[Wind - Tiến độ]]
 >
-> _Ghi chi tiết mỗi ngày làm gì. Bắt đầu từ Ngày 1, Năm 1, mùa Xuân. Bản rút gọn — đã gộp phần "Việc cần làm" và "Checklist" cũ thành một, bỏ các ý lặp lại mỗi ngày (xem mục Routine bên dưới)._
+> _Ghi chi tiết mỗi ngày làm gì. Bắt đầu từ Ngày 1, Năm 1, mùa Xuân. Bản rút gọn — đã gộp phần "Việc cần làm" và "Checklist" cũ thành một, bỏ các ý lặp lại mỗi ngày (xem mục Routine bên dưới). Ghi ngày mới thì chèn mẫu `Stardew — ngày mới` (Templates)._
 >
 > _Note này trả lời **"hôm nay/mùa này trồng gì, làm gì"**. Còn **"bán thế nào cho lời"** thì xem [[Mẹo#💰 Kiếm tiền theo giai đoạn|Mẹo — Kiếm tiền theo giai đoạn]]._
 
@@ -586,23 +586,6 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 > [!warning] Chưa kiểm chứng được
 > **Cột đèn sắt** (1 Thỏi sắt + 1 Cục pin) không có sẵn công thức, và cũng không tìm thấy trong cửa hàng hay thư nào của file game — chưa rõ học ở đâu, nên để cuối cùng. **Đường đá dậm bước** (1 Đá) cũng **chưa có trong save**; trong lúc chờ, các lối nhỏ lát tạm bằng **Đường lát đá** hoặc **Đường rải sỏi** (đều đã có công thức).
-
----
-
-## 🧩 Mẫu ghi cho ngày mới (copy để dùng)
-
-```
-### ☀️ Ngày X (Mùa, Năm)
-**Sự kiện / mục tiêu hôm nay:**
-1.
-2.
-
-**Việc cần làm:**
-- [ ]
-- [ ]
-
-**Ghi chú / tiền kiếm được:**
-```
 
 ---
 
