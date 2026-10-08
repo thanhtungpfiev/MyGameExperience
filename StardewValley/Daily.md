@@ -215,7 +215,7 @@ Robin và Marnie cùng nghỉ Thứ Ba → không tiêu tiền được mấy, d
 | **3.000–5.000g** | **30–50 hạt** | ✅ Hợp lý cho tưới tay |
 | 10.000g+ | 100 hạt | Chỉ nên nếu chịu nổi công tưới |
 
-Gieo Ngày 13 → chín Ngày 21 → tái thu hoạch 4 ngày/lứa → 2 lứa trước hết mùa, lời ~2,4 lần. Bón **Phân bón Thúc (Speed-Gro)** (~100g, bón lúc gieo) rút còn 7 ngày → ăn thêm 1 lứa (3 lứa).
+Gieo Ngày 13 → chín Ngày 21 → tái thu hoạch 4 ngày/lứa → 2 lứa trước hết mùa, lời ~2,4 lần. Bón **Phân bón Thúc (Speed-Gro)** lúc gieo thì rút còn 7 ngày → ăn thêm 1 lứa (3 lứa). Nhưng **năm 1 gần như không kịp có Phân bón Thúc**: Pierre chỉ bán từ **Xuân 15** (100g/gói), còn tự chế cần Trồng trọt cấp 3 + Nhựa thông + 5 Rêu. Mẹo này để dành cho năm 2 — xem [[Mẹo#🧪 Phân bón|mục Phân bón]].
 
 **Việc cần làm:**
 - [x] Quét đồ lượm 1 vòng: Rừng Cindersap → Thị trấn → Bãi biển → Ngọn núi — gom đủ 4 món cho gói **Lượm Xuân** (hết mùa là hết cơ hội tới Xuân sang năm)
@@ -314,7 +314,7 @@ Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm)
 
 **Lưu ý:**
 - Dâu tây gieo hôm nay → chín **Ngày 21** → tái thu hoạch mỗi 4 ngày → hái thêm lứa 2 khoảng **Ngày 25** trước khi hết mùa.
-- Nếu bón **Phân bón Thúc** (~100g/gói, bón lúc gieo) thì rút còn 7 ngày chín → kịp ăn 3 lứa thay vì 2.
+- Nếu **đã có sẵn** Phân bón Thúc trong túi (tự chế từ Trồng trọt cấp 3) thì bón lúc gieo, rút còn 7 ngày chín → kịp ăn 3 lứa thay vì 2. Đừng định mua hôm nay: Pierre chỉ bán từ **Xuân 15**, quầy của ông ở lễ hội cũng không có.
 - Đây cũng là cơ hội cuối gom nốt 4 món cho gói **Lượm Xuân** nếu còn thiếu — nhiều dân làng bán dạo gần lễ hội.
 
 ---
