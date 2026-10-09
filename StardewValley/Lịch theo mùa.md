@@ -73,7 +73,7 @@
 | Nho 🔁 | 60g | 10 (rồi 3/lứa) | 80g | 3 ngày | ~26,7g/ngày từ lứa 2 — cần giàn |
 | **Nam việt quất** 🔁 | 240g | 7 (rồi 5/lứa) | 75g | 5 ngày | ~15g/ngày từ lứa 2 — cây chủ lực mùa Thu |
 | Bí ngô | 100g | 13 | 320g | — | ~16,9g — dễ ra "khổng lồ", cần cho gói Cây Thu (1 quả) và gói Nông sản chất lượng (5 quả phẩm cấp vàng) |
-| **Dâu ngọc ngọt ngào** | Hạt giống hiếm (~600–1.000g, chỉ mua ở Xe hàng rong) | 24 | 3.000g | — | ~83,3g — lời nhất cả năm, nhưng nguồn hạt cực khan hiếm; nhân giống về sau bằng Máy làm hạt |
+| **Dâu ngọc ngọt ngào** | Hạt giống hiếm (1.000g, chỉ mua ở Xe hàng rong, Xuân–Hạ) | 24 | 3.000g | — | ~83,3g — lời nhất cả năm, nhưng nguồn hạt cực khan hiếm; nhân giống về sau bằng Máy làm hạt |
 
 **🎉 Lễ hội:** Hội chợ Thung lũng (16, minigame ăn Vé Sao + thi trưng bày Grange) · Đêm Linh Hồn (27, mê cung — năm lẻ ra Bí ngô hoàng kim, năm chẵn ra Vé Thưởng).
 

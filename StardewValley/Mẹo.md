@@ -27,7 +27,8 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Nâng cấp công cụ mất 2 ngày** ở Lò rèn Clint — canh thời điểm:
   - Đưa **Bình tưới (Watering Can)** vào **đêm trước ngày mưa** hoặc lúc vừa thu hoạch xong cả ruộng.
   - Đưa **Cuốc/Rìu/Búa** vào ngày không có việc gấp.
-- **Xe hàng rong (Traveling Cart)** — Thứ 6 & CN ở Rừng Cindersap: ghé **mỗi tuần**, đây là chỗ duy nhất mua được hạt trái mùa và đôi khi có **Trái cổ đại / Hạt giống hiếm**.
+- **Xe hàng rong (Traveling Cart)** — Thứ 6 & CN ở Rừng Cindersap: ghé **mỗi tuần**. Hàng ngẫu nhiên có cả hạt **của mùa khác**, và **Hạt giống hiếm** luôn có suốt Xuân–Hạ (1.000g). Xe **không bao giờ** bán Hạt giống cổ đại hay Trái cổ đại (game loại hai món này khỏi hàng ngẫu nhiên).
+  - Hạt trái mùa còn mua được **quanh năm ở Ốc đảo (Sandy)**: Hạt giống đại hoàng · Hạt giống khế · Hạt củ cải đường · Hạt giống xương rồng.
 - **Trước khi xuống mỏ:** chừa vài ô túi trống, mang đồ ăn hồi máu, và bỏ đồ giá trị vào rương ở nhà.
 - **Thùng vận chuyển:** bỏ đồ vào trước 12h đêm mới được tính tiền hôm đó.
 

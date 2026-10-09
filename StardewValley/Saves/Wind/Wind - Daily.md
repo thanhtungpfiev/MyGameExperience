@@ -154,7 +154,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 **Việc cần làm:**
 - [x] Bật TV sớm (công thức mới)
 - [x] Tìm Lewis tặng quà sinh nhật — ưu tiên làm sớm, ông đi lung tung cả ngày. Món Yêu thích chưa làm được trong Xuân Năm 1, cứ tặng món **Thích** bất kỳ (vẫn x8 điểm)
-- [x] Xem Xe hàng rong (06:00–20:00): mua **Hạt giống hiếm** (~600–1.000g, ra Dâu ngọc ngọt ngào, chỉ trồng mùa Thu) và **Hạt giống cổ đại** nếu thấy — mua bằng mọi giá, cực hiếm. Xe chỉ bán không mua đồ của bạn, giá thường hét gấp 2–5 lần Pierre
+- [x] Xem Xe hàng rong (06:00–20:00): mua **Hạt giống hiếm** (1.000g, ra Dâu ngọc ngọt ngào, chỉ trồng mùa Thu) — mua bằng mọi giá. _(Xe không bao giờ bán Hạt giống cổ đại — game loại món này khỏi hàng ngẫu nhiên.)_ Xe chỉ bán không mua đồ của bạn, giá thường hét gấp 2–5 lần Pierre
 - [x] Quyên góp Bảo tàng (Gunther) nếu chưa vào lần nào — mang theo cổ vật/khoáng vật rồi bước vào là gặp ngay, không cần chờ thư
 - [x] Mua nốt hạt Khoai tây/Súp lơ/Đậu xanh ở Pierre cho gói Cây Xuân — càng sớm càng tốt vì Súp lơ mất 12 ngày mới chín
 
@@ -279,7 +279,7 @@ Ngày trống — dồn sức cho Lễ hội Trứng còn 2 ngày nữa.
 Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm) — cứ **Thứ Sáu & Chủ Nhật** xe mới về, không phải ngày nào cũng có.
 
 **Việc cần làm:**
-- [x] Ghé xe hàng rong: ưu tiên mua **Hạt giống hiếm** (~1.000g, chắc chắn có hàng Xuân/Hạ) và **Hạt giống cổ đại** nếu thấy — hàng ngẫu nhiên, hết là hết, giá hét gấp 2–5 lần Pierre nên cân nhắc túi tiền
+- [x] Ghé xe hàng rong: ưu tiên mua **Hạt giống hiếm** (1.000g, chắc chắn có hàng Xuân/Hạ) — các món khác là hàng ngẫu nhiên, hết là hết, giá hét gấp 2–5 lần Pierre nên cân nhắc túi tiền
 - [x] Chốt lại vốn cho ngày mai — kiểm tra đã đạt 3.000–5.000g chưa
 - [x] Tưới ruộng, thu hoạch nếu có nông sản chín
 
@@ -313,7 +313,7 @@ Xe hàng rong về Rừng Cindersap (06:00–20:00, đứng ngay phía nam Farm)
 **Việc cần làm:**
 - [x] Bật TV sớm xem công thức mới
 - [x] Tìm Haley tặng quà sinh nhật — hay lang thang quanh nhà cô (phía bắc Thị trấn) hoặc Bãi biển buổi chiều nắng đẹp; chưa biết món Yêu thích thì tặng món **Thích** bất kỳ (vẫn x8 điểm). Haley đầu game khó tính, đồ trang trí/hoa dễ trúng gu hơn nông sản
-- [x] Ghé xe hàng rong nếu còn Hạt giống hiếm/Hạt giống cổ đại chưa mua
+- [x] Ghé xe hàng rong nếu còn Hạt giống hiếm chưa mua
 - [x] Tưới ruộng, kiểm tra Dâu tây (còn 7 ngày mới chín)
 
 **Lưu ý:** mỗi người nhận tối đa **2 quà/tuần** (tuần tính từ Chủ Nhật) và **1 quà/ngày** — quá hạn thì họ **từ chối, không nhận** chứ không phải nhận mà không cộng điểm. **Ngoại lệ: đúng ngày sinh nhật thì luôn tặng được**, kể cả đã đủ 2 quà trong tuần (vẫn chỉ 1 quà/ngày) — nên cứ tặng quà thường mấy hôm trước, không cần "để dành lượt" cho sinh nhật.
@@ -376,7 +376,7 @@ Cửa hàng Mộc (Robin) và Trại (Marnie) cùng nghỉ Thứ Ba — không �
 Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để sang Xuân năm 2** (xem [[Wind - Tiến độ#🎯 Còn làm được trong Xuân này|Tiến độ — Câu cá]]).
 
 **Việc cần làm:**
-- [x] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt giống hiếm/Hạt giống cổ đại nếu tuần trước chưa mua đủ
+- [x] Ghé xe hàng rong (06:00–20:00) — vét nốt Hạt giống hiếm nếu tuần trước chưa mua đủ
 - [x] Việc thường ngày: tưới ruộng, mỏ/câu cá
 - [x] Túi đồ đã **24 ô** (save Xuân 18) — nấc tiếp theo là 36 ô ở Pierre giá **10.000g**; đang có 5.091g nên chưa với tới, túi đầy thì dồn đồ vào rương thay vì nâng
 
