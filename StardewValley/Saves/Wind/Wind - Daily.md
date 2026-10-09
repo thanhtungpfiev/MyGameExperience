@@ -44,16 +44,57 @@
 
 | Nhịp | Bạn làm | Claude làm |
 |---|---|---|
-| **① Đầu ngày** | Bấm `F5` ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_\|QuickSave]]) rồi nói _"đọc save"_ | Đọc 6 số liệu → ghi vào khối **📋 Thực tế** của ngày → chốt **🌦️ Nhánh** và **✅ Việc hôm nay** trong quota |
+| **① Đầu ngày** | Bấm `F5` ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_\|QuickSave]]) rồi nói _"đọc save"_ | Đọc [[#📖 Đọc gì ở nhịp ①|12 mục]] → ghi vào khối **📋 Thực tế** của ngày → chốt **🌦️ Nhánh** và **✅ Việc hôm nay** trong quota |
 | **② Trong ngày** | Chơi theo danh sách | — |
 | **③ Cuối ngày** | Bấm `F5` lần nữa rồi nói _"chốt ngày"_ | Tick việc đã xong · ghi cái gì lệch · **sửa việc của 1–3 ngày kế tiếp** cho khớp thực tế |
 
-**6 số liệu của nhịp ①:** ① ngày · mùa · năm — ② thời tiết **hôm nay và mai** — ③ may mắn (`dailyLuck`, hoặc câu Tiên tri trên TV) — ④ ví — ⑤ cấp 5 kỹ năng — ⑥ tồn kho đáng chú ý (hạt giống, nguyên liệu xây, quà chưa tặng).
+### 📖 Đọc gì ở nhịp ①
+
+**Nhóm A — bắt buộc.** Thiếu một mục là không chốt được nhánh hay quota.
+
+| # | Đọc gì | Quyết định điều gì |
+|---|---|---|
+| ① | Ngày · mùa · năm | Mốc cứng của hôm nay, hạn gieo còn lại |
+| ② | **Thời tiết hôm nay và mai** | [[#🌦️ Playbook theo nhánh\|Trục thời tiết]] · mai mưa thì hôm nay khỏi cần tưới lần cuối |
+| ③ | May mắn — `dailyLuck`, hoặc câu Tiên tri trên TV | [[#🍀 Đọc mức may mắn\|Trục may mắn]] |
+| ④ | Ví | Mua được gì, còn giữ được mốc 6.000g không |
+| ⑤ | Cấp 5 kỹ năng | Công thức và công trình nào vừa mở |
+| ⑥ | Tồn kho đáng chú ý | Hạt giống · nguyên liệu xây · quà chưa tặng |
+
+**Nhóm B — trạng thái dài hạn.** Không đổi nhánh, nhưng đây là nơi việc bị **lỡ mất lặng lẽ**: cái gì nộp được ngay mà không biết thì dễ bị bán đi, cái gì có hạn mà không biết thì hết hạn không ai báo.
+
+| # | Đọc gì | Vì sao phải đọc mỗi ngày |
+|---|---|---|
+| ⑦ | **Công trình Robin đang xây** — còn mấy ngày | Robin mỗi lúc một công trình. Không biết còn mấy ngày là xếp sai cả chuỗi công trình trong mùa |
+| ⑧ | **Gói Cộng đồng** — gói nào thiếu món nào | Đối chiếu thẳng với ⑥: món đang nằm trong kho mà nộp được ngay thì nộp, đừng ship đi |
+| ⑨ | **Bảo tàng** — đã quyên góp những gì | Cổ vật/khoáng vừa đào lên có trùng món đã nộp hay không, trước khi bán hay nấu thỏi |
+| ⑩ | **Quest** — đang nhận (còn mấy ngày) và bảng Help Wanted hôm nay | Quest có hạn, hết hạn thì mất, mà game không nhắc. Help Wanted đổi mỗi ngày |
+| ⑪ | **Thư** — trong hộp hôm nay, và **thư sẽ tới mai** | Thư là cách game mở khoá (thư Pháp sư, công thức, mời sự kiện). Biết trước thư mai thì xếp được việc ngày mai ngay từ hôm nay |
+| ⑫ | **Công cụ** — tier từng cái, cái nào **đang ở chỗ Clint** và còn mấy ngày, túi đồ còn mấy ô | Công cụ gửi Clint bị **khoá 2 ngày**. Gửi Bình tưới trước một chuỗi ngày nắng, hay gửi Rìu đúng hôm định dọn cây, là tự chặn mình |
+
+> [!important] Cheat đổi hẳn thứ tự nâng cấp công cụ
+> Thứ tự cũ của note — **Cuốc chim → Rìu → Bình tưới → Cuốc** ([[#☀️ Ngày 9 (Thứ Ba) — 💰 gom vốn cho Lễ hội Trứng|Ngày 9]]) — chọn theo mức **năng lượng tiết kiệm được mỗi nhát**, thứ mà `InfiniteStamina` vừa xoá sạch. Giờ chỉ còn hai lý do thật để nâng, và chúng xếp lại thứ tự:
+>
+> | Lý do còn lại | Công cụ | Thứ tự mới |
+> |---|---|---|
+> | 🚧 **Cửa chặn cứng** — không đủ tier là không làm được, bao nhiêu thể lực cũng vô ích | **Rìu** (Đồng → gốc cây lớn · Thép → khúc gỗ lớn) · **Cần câu** (Sợi thuỷ tinh → dùng mồi · Iridium → thêm phao) | **1** |
+> | 🖱️ **Diện tích mỗi nhát** — đổi lấy việc khỏi phải click, có giá trị thật khi lên 6 ô ruộng | **Bình tưới** · **Cuốc** | **2** |
+> | _(hết lý do)_ | **Cuốc chim** — tier gần như chỉ là năng lượng và tốc độ | **3** |
+>
+> **Túi đồ không phải việc của Clint mà của Pierre**, và nó là giới hạn cheat không chạm tới: 24 ô **2.000g**, 36 ô **10.000g**. Save Xuân 18 đã có 24 ô.
+>
+> Và luật canh thời điểm vẫn nguyên giá trị, chỉ đổi lý do: **nâng Bình tưới đúng hôm ② báo mai mưa** — không phải để tiết kiệm năng lượng nữa, mà vì hai ngày không có bình là hai ngày ruộng khô.
+
+> [!warning] Chưa kiểm chứng — đọc được tới đâu trong save
+> Cả 12 mục trên **được cho là** nằm trong file Quicksave, nhưng máy đang ngồi chưa cài game và không có thư mục save, nên **chưa mở file nào ra xác nhận**. Mục ⑩ đáng ngờ nhất: quest đang nhận thì chắc, còn **bảng Help Wanted của hôm nay có nằm trong save hay chỉ sinh ra lúc chạy game thì chưa rõ** — nếu không có thì mục đó phải đọc trong game rồi dán tay. Thứ tự tier ở callout trên (Rìu Đồng → gốc cây lớn, Rìu Thép → khúc gỗ lớn, Cần câu Sợi thuỷ tinh → mồi) cũng theo hiểu biết chung, chưa soi `Data/Tools`. Lần đầu đọc save thật trên máy chơi game thì chốt lại cả hai chỗ rồi xoá cảnh báo này.
+
+> [!info] Nhóm B ghi ở đâu
+> Trạng thái dài hạn của ⑧ ⑨ ⑩ **vẫn thuộc về** [[Wind - Tiến độ]] — note đó trả lời "save này đã làm được gì, còn thiếu gì", đừng chẻ sự thật ra hai chỗ. Ở note này, khối **📋 Thực tế** của ngày chỉ ghi phần **việc làm được hôm nay**, còn bảng tích thì cập nhật bên Tiến độ.
 
 **Đọc save ở đâu:** `%AppData%\StardewValley\Saves\Wind_448678493\Quicksave` — bản `F5` **bị ghi đè mỗi lần bấm**, nên nhịp ① và nhịp ③ của cùng một ngày là hai lần đọc khác nhau của cùng một file.
 
 > [!tip] Khi không ngồi máy chơi game
-> Máy nào không cài Stardew thì không có thư mục save đó. **Dán tay 6 số liệu trên là đủ** để chạy cả ba nhịp — nhánh và quota không cần gì hơn.
+> Máy nào không cài Stardew thì không có thư mục save đó. **Dán tay nhóm A là đủ** để chạy cả ba nhịp — nhánh và quota không cần gì hơn. Nhóm B thì chỉ dán mục nào hôm đó có liên quan: công trình đang xây khi định đặt Robin, thư khi hộp thư có dấu, quest khi vừa nhận hoặc sắp hết hạn.
 
 ---
 
