@@ -1168,7 +1168,7 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 
 **Nexus** — https://www.nexusmods.com/stardewvalley/mods/4
 
-> [!warning] Đang bật 6 cheat — câu cá chỉ còn 2, minigame kéo cá vẫn tự đánh
+> [!warning] Đang bật 8 cheat — câu cá còn 3, minigame kéo cá vẫn tự đánh
 > `config.json` hiện tại (mọi thứ không liệt kê ở đây đều **tắt**):
 >
 > | Cheat | Tác dụng |
@@ -1177,10 +1177,14 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 > | `InfiniteStamina` | **Vô hạn năng lượng** — không bao giờ kiệt sức, không phải ăn |
 > | `InstantBite` | Cá **cắn câu ngay** khi vừa quăng |
 > | `ThrowBobberMax` | Luôn quăng cần **xa tối đa**, khỏi giữ nút canh lực |
-> | `FreezeTime` | **Đứng giờ** trên mặt đất |
+> | `DurableTackles` | **Phao không hao mòn** |
+> | `FreezeTime` | **Đứng giờ** ở mọi nơi |
+> | `FreezeTimeInside` | **Đứng giờ** trong nhà |
 > | `FreezeTimeCaves` | **Đứng giờ** trong hầm mỏ |
 >
-> Câu cá chỉ còn **cắn ngay + quăng xa** — `InstantCatch`, `AlwaysTreasure`, `DurableTackles` đã **tắt**. Nghĩa là: vẫn phải **tự đánh minigame**, rương báu vật lại tuỳ may rủi, và **phao/mồi hao mòn** như bình thường. Chọn phao/mồi hợp với cấu hình này xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]].
+> Câu cá còn **cắn ngay + quăng xa + phao bền** — `InstantCatch` và `AlwaysTreasure` vẫn **tắt**. Nghĩa là: vẫn phải **tự đánh minigame**, rương báu vật lại tuỳ may rủi; phao thì gắn một lần dùng mãi, chỉ **mồi** là còn tiêu hao. Chọn phao/mồi hợp với cấu hình này xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]].
+>
+> Đóng băng chỉ **giữ đồng hồ đứng yên** (đặt lại bộ đếm 10 phút mỗi khung hình), không chặn được chỗ game **gán thẳng giờ**: rời lễ hội vẫn nhảy tới 22:00. Chỉnh giờ ở tab **Thời gian** thì mod cho đồng hồ chạy qua từng nấc 10 phút, nên sự kiện theo giờ vẫn kích hoạt đúng.
 
 > [!vh] Menu ra **tiếng Việt** — một trong số ít mod có bản dịch thật
 > Thư mục `i18n` có `vi.json` **dịch đầy đủ** (không phải file rỗng như [[#Carry Chests 1.3.0|Carry Chests]]): "Vô hạn năng lượng", "Cắn câu ngay lập tức", "1 đập bể đá & chặt cây", "Hàng rào không bị hỏng"... Còn sót vài dòng mới của bản 1.6 chưa dịch (Green Rain, Auto-Water Pet Bowls) nên chỗ đó vẫn ra tiếng Anh.
@@ -1211,7 +1215,7 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 > Farmhand **không** đổi được thời gian. Tác giả ghi **không có xung đột mod nào đã biết**.
 
 > [!warning] Ảnh trên là ảnh Nexus, không phải máy này
-> Ảnh chụp `Infinite Health`, `Increased Movement Speed`, `One Hit Kill`, `Max Daily Luck`, `One Hit Break` đang **bật** — máy này chỉ trùng `Infinite Health`, còn lại đều **tắt**. Lấy bảng "Đang bật 6 cheat" ở trên làm chuẩn.
+> Ảnh chụp `Infinite Health`, `Increased Movement Speed`, `One Hit Kill`, `Max Daily Luck`, `One Hit Break` đang **bật** — máy này chỉ trùng `Infinite Health`, còn lại đều **tắt**. Lấy bảng "Đang bật 8 cheat" ở trên làm chuẩn.
 
 > [!success] Mã nguồn mở, có bằng chứng dựng bản
 > Toàn bộ mã công khai, và **mỗi bản phát hành kèm một attestation** — bản ghi không giả mạo được, chứng minh file tải về đúng là dựng từ mã nguồn công khai chứ không bị nhét thêm gì. Hiếm mod nào làm tới mức này.
