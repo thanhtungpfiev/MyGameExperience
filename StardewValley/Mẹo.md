@@ -223,7 +223,7 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 
 ## 🧩 Nhà Văn hóa
 
-- Ưu tiên gói dễ trước: **Gói Cây Xuân (Spring Crops)**, **Gói Cây Thu (Fall Crops)** để mở phần thưởng sớm.
+- Ưu tiên gói dễ trước: **Nông sản Mùa Xuân (Spring Crops)**, **Nông sản Mùa Thu (Fall Crops)** để mở phần thưởng sớm.
 - **Giữ lại 1 phần mỗi loại** nông/thủy/khoáng sản phẩm cấp cao để nộp gói — bán hết rồi mới phát hiện thiếu là rất mệt.
 - Dùng **Lookup Anything** để biết gói còn thiếu gì (xem [[Mods]]).
 

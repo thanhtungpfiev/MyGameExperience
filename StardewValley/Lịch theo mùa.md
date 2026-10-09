@@ -9,7 +9,7 @@
 - **Sáng:** mở hộp thư cạnh nhà, bật TV xem **dự báo thời tiết ngày mai** + **thầy bói** trước khi ra ngoài.
 - **Tưới ruộng đang trồng** (bỏ qua nếu trời mưa — mưa tự tưới ruộng ngoài trời).
 - **Từ Ngày 5:** vuốt thú cưng 1 lần + đổ nước vào bát bằng Bình tưới.
-- **Từ khi có gà:** vuốt **từng con** (+15 tình cảm, bỏ một ngày là tụt) · nhặt trứng · ngày nắng ngoài mùa Đông thì **mở cửa nhỏ** cho gà ra ăn cỏ (miễn phí — đừng cắt sạch cỏ quanh chuồng), ngày mưa/mùa Đông thì lấy **cỏ khô** từ phễu cạnh cửa rải vào máng, mỗi con 1 phần · **tối kiểm gà đã vào chuồng hết** (ở ngoài qua đêm −20 tình cảm). `CJB Cheats` đang **tắt** tự cho ăn/tự vuốt/vô hạn cỏ khô nên việc này phải tự làm. Tình cảm **≥ 200** mới ra **Trứng lớn** — cần cả trắng lẫn nâu cho gói **Chăn nuôi**.
+- **Từ khi có gà:** vuốt **từng con** (+15 tình cảm, bỏ một ngày là tụt) · nhặt trứng · ngày nắng ngoài mùa Đông thì **mở cửa nhỏ** cho gà ra ăn cỏ (miễn phí — đừng cắt sạch cỏ quanh chuồng), ngày mưa/mùa Đông thì lấy **cỏ khô** từ phễu cạnh cửa rải vào máng, mỗi con 1 phần · **tối kiểm gà đã vào chuồng hết** (ở ngoài qua đêm −20 tình cảm). `CJB Cheats` đang **tắt** tự cho ăn/tự vuốt/vô hạn cỏ khô nên việc này phải tự làm. Tình cảm **≥ 200** mới ra **Trứng lớn** — cần cả trắng lẫn nâu cho gói **Động vật**.
 - **Cuối ngày:** bỏ nông sản/cá/đồ lượm vào thùng vận chuyển trước khi đi ngủ (thùng tính tiền lúc ngày kết thúc, không có mốc nửa đêm), về ngủ **trước 24:00**. Quá **02:00** là ngất — ngất ngoài nhà mất 10% tiền, tối đa 1.000g; không mất đồ.
 - **Trước mỗi chuyến xuống mỏ:** bấm `F5` lưu nhanh ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_|QuickSave]]), lỡ chết/mất đồ thì `F7` làm lại.
 - **Năng lượng & máu đang vô hạn** — [[Mods#CJB Cheats Menu 1.42.0|CJB Cheats]] bật `InfiniteStamina` + `InfiniteHealth`, nên mấy lời dặn "mang đồ ăn hồi năng lượng/máu" bên dưới chỉ cần khi tắt hai cheat này.
@@ -36,7 +36,7 @@
 
 **🎂 Sinh nhật:** 4 Kent (⚠️ **vắng mặt cả Năm 1**, đi lính tới Xuân Năm 2 mới về — bỏ qua) · 7 Lewis · 10 Vincent · 14 Haley · 18 Pam · 20 Shane · 26 Pierre · 27 Emily.
 
-**🧩 Gói Cộng đồng theo mùa:** Lượm Xuân (phòng Thủ công) · Cây Xuân (phòng Đựng thức ăn) — lỡ mùa nào phải chờ đúng mùa đó năm sau.
+**🧩 Gói Cộng đồng theo mùa:** Sản phẩm Hái lượm Mùa Xuân (phòng Thủ công) · Nông sản Mùa Xuân (phòng Đựng thức ăn) — lỡ mùa nào phải chờ đúng mùa đó năm sau.
 
 **🎣 Cá:** ngày mưa ưu tiên Cá trê · Cá trích dày mình · Lươn; Cá huyền thoại (Legend) chỉ có ở Xuân — bảng đầy đủ ở [[Câu cá theo mùa#🌸 Xuân|Câu cá — Xuân]], con còn thiếu ở [[Wind - Tiến độ#🎣 Câu cá|Tiến độ — Câu cá]].
 
@@ -58,7 +58,7 @@
 
 **🎂 Sinh nhật:** 4 Jas · 8 Gus · 10 Maru · 13 Alex · 17 Sam · 19 Demetrius · 22 Chú lùn (Dwarf, ⚠️ phải giải cứu dưới mỏ + học tiếng Lùn mới tặng quà được) · 24 Willy · 26 Leo (⚠️ sống ở Đảo Gừng, cần thân với 3 chim vẹt + 6 tim mới dọn vào đất liền — khó gặp sớm).
 
-**🧩 Gói Cộng đồng theo mùa:** Lượm Hạ · Cây Hạ.
+**🧩 Gói Cộng đồng theo mùa:** Sản phẩm Hái lượm Mùa Hè · Nông sản Mùa Hè.
 
 **🔮 Bí mật:** 11 Quần đùi tím vào nồi súp Luau · 28 lúc 12:00 Junimo Nhồi bông (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#☀️ Hạ|Bí mật — Hạ]].
 
@@ -72,14 +72,14 @@
 | Cà tím 🔁 | 20g | 5 (rồi 5/lứa) | 60g | 5 ngày | ~12g/ngày từ lứa 2 |
 | Nho 🔁 | 60g | 10 (rồi 3/lứa) | 80g | 3 ngày | ~26,7g/ngày từ lứa 2 — cần giàn |
 | **Nam việt quất** 🔁 | 240g | 7 (rồi 5/lứa) | 75g | 5 ngày | ~15g/ngày từ lứa 2 — cây chủ lực mùa Thu |
-| Bí ngô | 100g | 13 | 320g | — | ~16,9g — dễ ra "khổng lồ", cần cho gói Cây Thu (1 quả) và gói Nông sản chất lượng (5 quả phẩm cấp vàng) |
+| Bí ngô | 100g | 13 | 320g | — | ~16,9g — dễ ra "khổng lồ", cần cho gói Nông sản Mùa Thu (1 quả) và gói Nông sản Chất lượng cao (5 quả phẩm cấp vàng) |
 | **Dâu ngọc ngọt ngào** | Hạt giống hiếm (1.000g, chỉ mua ở Xe hàng rong, Xuân–Hạ) | 24 | 3.000g | — | ~83,3g — lời nhất cả năm, nhưng nguồn hạt cực khan hiếm; nhân giống về sau bằng Máy làm hạt |
 
 **🎉 Lễ hội:** Hội chợ Thung lũng (16, minigame ăn Vé Sao + thi trưng bày Grange) · Đêm Linh Hồn (27, mê cung — năm lẻ ra Bí ngô hoàng kim, năm chẵn ra Vé Thưởng).
 
 **🎂 Sinh nhật:** 2 Penny · 5 Elliott · 11 Jodi · 13 Abigail · 15 Sandy (⚠️ sống ở Ốc đảo sa mạc, cùng vấn đề đường xa như Lễ hội Sa mạc) · 18 Marnie · 21 Robin · 24 George.
 
-**🧩 Gói Cộng đồng theo mùa:** Lượm Thu · Cây Thu.
+**🧩 Gói Cộng đồng theo mùa:** Sản phẩm Hái lượm Mùa Thu · Nông sản Mùa Thu.
 
 **🔮 Bí mật:** 16 Quần đùi tím ở gian Grange (750 Vé Sao) + mua Sao sa 2.000 Vé Sao · 28 lúc 12:00 Junimo Nhồi bông (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#🍂 Thu|Bí mật — Thu]].
 
@@ -90,7 +90,7 @@
 - Không trồng ngoài trời (chỉ Nhà kính, cần hoàn thành hết gói Cộng đồng hoặc mua qua Joja mới có) → dồn thời gian cho: mỏ, câu cá, kết bạn, xây/nâng cấp, quyên góp Bảo tàng.
 - Vẫn lượm được — Quả pha lê, Nghệ tây, Nhựa ruồi mọc trên mặt đất; Rễ cây mùa đông, Khoai lang tuyết phải đào điểm cổ vật — xem [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
 - Mùa tốt nhất để nâng cấp công cụ (không mất buổi tưới ruộng nào).
-- **🧩 Gói Cộng đồng theo mùa:** chỉ có Lượm Đông (phòng Thủ công) — Đông **không có** gói Cây trồng riêng.
+- **🧩 Gói Cộng đồng theo mùa:** chỉ có Sản phẩm Hái lượm Mùa Đông (phòng Thủ công) — Đông **không có** gói Nông sản riêng.
 - **🔮 Bí mật:** ⭐ 06:00–16:00 đi từ Farm sang Bến Xe gặp bóng đen → **Kính lúp** (mở Ghi chú bí mật) · đêm 24 đặt Sữa/Bánh quy lên bàn → Chiếc hộp bí ẩn · 28 lúc 12:00 Junimo Nhồi bông (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#❄️ Đông|Bí mật — Đông]].
 
 **🎉 Lễ hội:** Lễ hội Băng (8, câu cá dưới băng lấy vé) · Đại tiệc Sao Đông (25, tặng quà bí mật — người nhận báo trước qua thư Lewis ngày 18; quà được x5 điểm tình cảm).
