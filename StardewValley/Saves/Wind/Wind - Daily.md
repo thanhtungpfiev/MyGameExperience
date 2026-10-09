@@ -5,6 +5,107 @@
 > _Ghi chi tiết mỗi ngày làm gì. Bắt đầu từ Ngày 1, Năm 1, mùa Xuân. Bản rút gọn — đã gộp phần "Việc cần làm" và "Checklist" cũ thành một, bỏ các ý lặp lại mỗi ngày (xem [[Lịch theo mùa#🔁 Routine mỗi ngày (áp dụng từ khi mở khóa, không ghi lại từng ngày)|Routine mỗi ngày]]). Ghi ngày mới thì chèn mẫu `Stardew — ngày mới` (Templates)._
 >
 > _Note này trả lời **"hôm nay/mùa này trồng gì, làm gì"**. Còn **"bán thế nào cho lời"** thì xem [[Mẹo#💰 Kiếm tiền theo giai đoạn|Mẹo — Kiếm tiền theo giai đoạn]]._
+>
+> _Từ **Ngày 24** note chạy theo [[#🔁 Vòng một ngày|vòng một ngày]]: đầu ngày đọc save → chốt nhánh theo [[#🌦️ Playbook theo nhánh|playbook]] → cuối ngày chốt lại. Ngày 1–23 là lịch sử đã chơi, giữ nguyên. Cheat đang bật và giới hạn còn lại: [[#🎮 Luật chơi của save này|Luật chơi của save này]]._
+
+## 🎮 Luật chơi của save này
+
+> _Save này chơi với cheat. Hai giới hạn mà mùa Xuân Năm 1 bên dưới lấy làm trục — **"đừng dọn quá sức"** và **"về tới nhà đã 22:00 là mất cả ngày"** — **không còn đúng từ đây**. Ngày 1–23 giữ nguyên như đã chơi, đọc như lịch sử._
+
+**6 cheat đang bật** (đọc từ bảng `config.json` ở [[Mods#CJB Cheats Menu 1.42.0|Mods — CJB Cheats Menu]]; mọi thứ không có trong bảng đó đều tắt): `InfiniteStamina` · `InfiniteHealth` · `FreezeTime` · `FreezeTimeCaves` · `InstantBite` · `ThrowBobberMax`.
+
+**Cheat xoá bỏ:** hết năng lượng giữa ngày · chết trong mỏ/hang · hết giờ trước khi làm xong · phải tính đường đi cho tiết kiệm thời gian · giữ nút canh lực khi quăng cần.
+
+**Còn lại là giới hạn thật — kế hoạch phải xếp quanh mấy thứ này:**
+
+| Giới hạn | Vì sao cheat không gỡ |
+|---|---|
+| 🛒 **Hàng reset theo ngày** | Pierre · Xe hàng rong · cỏ khô ở Marnie · thư trong hộp — mỗi ngày đúng một lượt, không mua dồn được |
+| 🍀 **May mắn của ngày** | `MaxDailyLuck` **đang tắt**, `AlwaysTreasure` cũng **tắt** → tỉ lệ thang trong mỏ, ô cổ vật, rương kho báu khi câu vẫn tuỳ ngày |
+| 🌦️ **Thời tiết** | Cheat _"đặt thời tiết ngày mai"_ **đang tắt** → thời tiết vẫn ngẫu nhiên, trừ mấy ngày mưa/nắng cố định theo lịch |
+| 🔨 **Robin mỗi lúc một công trình** | Cheat _"xây nhanh"_ **đang tắt** → vẫn 2–3 ngày mỗi cái, công trình cùng mùa phải xếp nối nhau |
+| 🎣 **Minigame câu cá** | `InstantCatch` **đang tắt** → vẫn phải tự đánh; `InstantBite` + `ThrowBobberMax` chỉ làm mỗi lượt nhanh hơn, không làm chắc ăn hơn |
+| 🧠 **Sức chịu của chính bạn** | → quota ngay dưới |
+
+> [!important] Quota mỗi ngày — **1 việc chính + tối đa 3 việc phụ**
+> Vô tận thể lực lấy đi cái phanh tự nhiên của game, nên phanh phải đặt bằng tay — không thì mỗi ngày phình thành danh sách 12 gạch đầu dòng và chơi hoá ra việc phải làm. **Routine không tính vào quota** (tưới · thu hoạch · ship · tặng quà · cắt cỏ — xem [[Lịch theo mùa#🔁 Routine mỗi ngày (áp dụng từ khi mở khóa, không ghi lại từng ngày)|Routine mỗi ngày]]), chỉ việc "mới" mới tính. Ngày nào quá quota thì **đẩy việc phụ sang ngày sau**, đừng nhồi.
+
+> [!tip] Hai phím NumPad — tự đặt luật không dùng
+> `NumPad1` (cây gỗ/cây ăn quả lớn ngay) và `NumPad2` (cây trồng chín ngay, ô 3×3) dùng được **thẳng ngoài game**, không cần bật gì — tức là "cây lớn theo ngày" về mặt kỹ thuật cũng gỡ được. Cả note này giả định **không dùng hai phím đó**: bấm vào là mất hẳn nhịp mùa vụ, mà nhịp mùa vụ chính là thứ còn lại để lên kế hoạch.
+
+> [!warning] Chưa kiểm chứng — đóng băng thời gian và "khung giờ"
+> Giả thuyết: đóng băng thời gian làm **khung giờ cửa hàng** thành vô hạn (đóng băng lúc 10:00 thì Pierre mở mãi), **nhưng việc cần ĐÚNG một mốc giờ thì vẫn phải để đồng hồ chạy tới mốc đó rồi mới đóng băng** — 12:00 rung bụi lấy Junimo Nhồi bông, 09:00 vào lễ hội, 08:00–13:00 mở Nhà Văn hóa. Máy đang ngồi **chưa cài game nên chưa soi được file 1.6.15**; khi nào làm việc trên máy chơi game thì xác nhận rồi xoá cảnh báo này.
+
+---
+
+## 🔁 Vòng một ngày
+
+> _Quy trình ba nhịp. Từ **Ngày 24** trở đi note **không viết trước cả ngày** — chỉ viết phần cứng, việc thì chốt sau khi đọc save đầu ngày._
+
+| Nhịp | Bạn làm | Claude làm |
+|---|---|---|
+| **① Đầu ngày** | Bấm `F5` ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_\|QuickSave]]) rồi nói _"đọc save"_ | Đọc 6 số liệu → ghi vào khối **📋 Thực tế** của ngày → chốt **🌦️ Nhánh** và **✅ Việc hôm nay** trong quota |
+| **② Trong ngày** | Chơi theo danh sách | — |
+| **③ Cuối ngày** | Bấm `F5` lần nữa rồi nói _"chốt ngày"_ | Tick việc đã xong · ghi cái gì lệch · **sửa việc của 1–3 ngày kế tiếp** cho khớp thực tế |
+
+**6 số liệu của nhịp ①:** ① ngày · mùa · năm — ② thời tiết **hôm nay và mai** — ③ may mắn (`dailyLuck`, hoặc câu Tiên tri trên TV) — ④ ví — ⑤ cấp 5 kỹ năng — ⑥ tồn kho đáng chú ý (hạt giống, nguyên liệu xây, quà chưa tặng).
+
+**Đọc save ở đâu:** `%AppData%\StardewValley\Saves\Wind_448678493\Quicksave` — bản `F5` **bị ghi đè mỗi lần bấm**, nên nhịp ① và nhịp ③ của cùng một ngày là hai lần đọc khác nhau của cùng một file.
+
+> [!tip] Khi không ngồi máy chơi game
+> Máy nào không cài Stardew thì không có thư mục save đó. **Dán tay 6 số liệu trên là đủ** để chạy cả ba nhịp — nhánh và quota không cần gì hơn.
+
+---
+
+## 🌦️ Playbook theo nhánh
+
+> _Viết một lần ở đây, các ngày bên dưới chỉ **trỏ** tới. Sửa luật thì sửa đúng chỗ này, khỏi sửa 28 chỗ._
+
+**Hai trục trả lời hai câu khác nhau — đừng gộp:**
+
+- ☀️🌧️ **Thời tiết quyết CHỖ LÀM.** Nắng là ngày duy nhất **bắt buộc** mất lượt tưới; mưa thì ruộng tự tưới, dư nguyên nửa ngày, và là ngày của cá/mỏ.
+- 🍀 **May mắn quyết CÓ NÊN ĐÁNH CƯỢC.** Việc trả kết quả **ngẫu nhiên** (mỏ sâu, rương câu, ô cổ vật) để ngày may cao; việc trả kết quả **cố định** (xây, tặng quà, nấu, nộp gói) để ngày may thấp.
+
+### 🍀 Đọc mức may mắn
+
+| Mức | `dailyLuck` | Tiên tri trên TV |
+|---|---|---|
+| 🍀 **May cao** | > +0,02 | tinh linh _vui vẻ_ / _rất vui_ |
+| 😐 Trung tính | −0,02 … +0,02 | tinh linh _không để ý tới bạn_ |
+| 💀 **May thấp** | < −0,02 | tinh linh _hơi phiền_ / _rất không vui_ |
+
+Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết.
+
+> [!warning] Chưa kiểm chứng — ngưỡng số
+> Hai con số ±0,02 và danh sách việc chịu ảnh hưởng của may mắn lấy theo hiểu biết chung về cơ chế game, **chưa soi file 1.6.15** (máy đang ngồi chưa cài game). Câu chữ Tiên tri trên TV còn qua bản Việt hóa nữa nên có thể lệch chữ. Cái chắc chắn: Claude đọc thẳng `dailyLuck` từ save ở nhịp ①, nên **không cần bạn tự phân mức**.
+
+### 🎯 Bảng giao — việc chính hôm nay nên là gì
+
+| | 🍀 May cao | 💀 May thấp |
+|---|---|---|
+| ☀️ **Nắng** | **Xuống mỏ / tầng mới** — tưới xong là đi, thang ra nhiều, ô cổ vật nhiều | **Xây & lát đường** — Robin, Vòi tưới, Đường lát đá, hàng rào: tốn nguyên liệu chứ không tốn may mắn |
+| 🌧️ **Mưa** | **Câu cá mục tiêu + rương kho báu** — khỏi tưới nên cả ngày là của cần câu, mà `AlwaysTreasure` đang tắt nên rương chỉ ra nhiều vào ngày may cao | **Việc trong nhà & quan hệ** — nấu ăn, nộp gói Cộng đồng, quyên góp Bảo tàng, đi một vòng tặng quà |
+
+### ☀️ Nắng
+- **Làm:** ruộng (cày · gieo · tưới) · chặt cây, đập đá · lát đường · đặt Robin xây · lễ hội · hái lượm dọc đường · cắt cỏ vào Kho chứa Cỏ
+- **Đừng:** dồn việc câu cá vào ngày nắng
+- **Vì sao:** cá riêng của ngày mưa **chỉ cắn khi mưa**, mà cả mùa chỉ có vài ngày mưa; còn mọi việc ngoài trời khác thì ngày nào cũng làm được
+
+### 🌧️ Mưa
+- **Làm:** câu cá (cá riêng ngày mưa trước) · xuống mỏ · nộp gói Cộng đồng · nấu ăn · việc trong nhà
+- **Đừng:** để một ngày mưa trôi vào việc mà ngày nắng cũng làm được
+- **Vì sao:** mưa **tự tưới cả ruộng** → đây là ngày rảnh nhất của tuần. ⚡ Mưa có sấm thì cây ngoài trời có thể bị sét đánh cháy — chưa có Cột thu lôi thì đó là mất trắng, không cứu được
+
+### 🍀 May cao
+- **Làm:** mỏ sâu / tầng mới · rương kho báu khi câu · ô cổ vật (worm tile) · tìm Ghi chú bí mật · săn đồ rơi hiếm từ quái
+- **Vì sao:** đây đúng là nhóm việc **trả ra kết quả ngẫu nhiên** — cùng một công bỏ ra, ngày may cao ăn hơn hẳn. Và vì `MaxDailyLuck` đang tắt, ngày may cao là tài nguyên có hạn, không gọi ra được
+
+### 💀 May thấp
+- **Làm:** xây dựng · lát đường · hàng rào · tặng quà & tăng tình cảm · nấu ăn · quyên góp Bảo tàng · nộp gói Cộng đồng · chế máy
+- **Đừng:** mỏ sâu · Skull Cavern · săn cá hiếm · cược vào rương kho báu — để dành sang ngày may cao
+- **Vì sao:** việc trả **kết quả cố định** không mất gì vì may mắn thấp. Nguyên tắc: **ngày xấu tiêu nguyên liệu, ngày tốt tiêu công**
+
+---
 
 ## 📆 Năm 1 · Xuân
 
@@ -447,18 +548,24 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 
 ### ☀️🎉 Ngày 24 (Thứ Tư) — Vũ hội Hoa
 
-**09:00–14:00, Rừng Cindersap. Nhà/cửa hàng toàn thị trấn đóng cửa hôm nay — kể cả Pierre.**
+**🔒 Cứng**
+- Vũ hội Hoa **09:00–14:00**, phía tây Rừng Cindersap, qua cây cầu phía nam Tháp Phù thủy — trước 09:00 chỗ đó chưa mở.
+- **Mọi tiệm trong thung lũng đóng cửa cả ngày**, kể cả Pierre và JojaMart — ngày có lễ hội bắt đầu trước 19:00 thì game khoá hết.
+- Rời lễ hội lúc nào thì đồng hồ cũng **nhảy thẳng tới 22:00** rồi trả bạn về nông trại. Đây là **nhảy theo kịch bản, không phải thời gian chạy**, nên `FreezeTime` gần như chắc chắn không cản được — _chưa soi file xác nhận_. Cứ coi như hết ngày.
+- Ngày cuối còn kịp gieo Cải vàng (4 ngày, chín đúng Ngày 28) — nhưng hôm nay không mua được hạt, xem 📎.
 
-**Việc cần làm:**
-- [ ] Vào Rừng Cindersap trong khung 09:00–14:00 (trước 09:00 rừng chưa mở)
-- [ ] Đi về phía tây khu rừng, qua cây cầu phía nam Tháp Phù thủy — nơi diễn ra vũ hội chỉ mở đúng hôm nay
-- [ ] Nếu muốn mời ai nhảy cùng: người đó cần **≥ 4 tim** tình cảm mới nhận lời (không liên quan Bó hoa) — nhảy xong +1 tim (250 điểm tình cảm) với người đó. _Quicksave Xuân 21: **Haley vừa đủ 4 tim** (1.158 điểm) → mời được Haley_
-- [ ] Không mời ai / bị từ chối vẫn không sao — 6 cặp NPC mặc định sẽ tự nhảy, bạn chỉ cần dự khán là đủ, không mất gì
-- [ ] Tưới ruộng trước khi đi — rời lễ hội lúc nào thì đồng hồ cũng **nhảy thẳng tới 22:00** và bạn về lại nông trại, coi như hết ngày
+**🌦️ Nhánh:** **nắng cố định** (ngày lễ hội không bao giờ mưa), và cả ngày đã bị lễ hội chiếm → hôm nay không dùng [[#🌦️ Playbook theo nhánh|playbook]].
 
-**Lưu ý:** đừng nhầm điều kiện — **4 tim** là để được mời nhảy, **8 tim + Bó hoa** (mua Ngày 23) là để chính thức thành người yêu, hai mốc khác nhau và không phụ thuộc nhau.
+**✅ Việc hôm nay**
+- [ ] 🎯 **Dự Vũ hội Hoa** — vào trong khung 09:00–14:00
+- [ ] Mời **Haley** nhảy — cần **≥ 4 tim**, nhảy xong +1 tim (250 điểm) _(Quicksave Xuân 21: Haley vừa đủ 4 tim — 1.158 điểm)_
+- [ ] Tưới ruộng, thu hoạch & ship **trước khi vào lễ hội**
 
-**🥕 Cải vàng cho gói Nông sản Chất lượng cao: năm 1 không kịp nữa.** Hôm nay là ngày cuối gieo được Cải vàng (4 ngày, chín đúng Ngày 28), nhưng **không mua được hạt**. Ngày có lễ hội bắt đầu trước 19:00 thì game khoá cửa **mọi tiệm** trong thung lũng, kể cả JojaMart. Rời lễ hội thì đồng hồ đã sang 22:00. _(Save Xuân 24: không có hạt Cải vàng, chỉ 3 Hạt giống tổng hợp, mỗi hạt có 1/4 khả năng ra Cải vàng.)_ Không sao, vì gói chỉ cần **3 trong 4 loại**, mỗi loại 5 củ chất lượng vàng:
+**📎 Chi tiết đã kiểm chứng**
+
+Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp NPC mặc định tự nhảy, dự khán là đủ. Đừng nhầm hai mốc: **4 tim** để được nhận lời nhảy, **8 tim + Bó hoa** (mua Ngày 23) để chính thức thành người yêu — hai mốc độc lập, không phụ thuộc nhau.
+
+**🥕 Cải vàng cho gói Nông sản Chất lượng cao: năm 1 không kịp nữa.** _(Save Xuân 24: không có hạt Cải vàng, chỉ 3 Hạt giống tổng hợp, mỗi hạt 1/4 khả năng ra Cải vàng.)_ Không sao, vì gói chỉ cần **3 trong 4 loại**, mỗi loại 5 củ chất lượng vàng:
 
 | Loại | Mùa | Đang có |
 |---|---|---|
@@ -470,52 +577,97 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - Mỗi cây có Phân bón cơ bản có khoảng **23% (cấp 5) – 30% (cấp 7)** khả năng ra chất lượng vàng. Muốn chắc ~90% có đủ 5 củ thì gieo **khoảng 30 cây mỗi loại**. Chỉ gieo 9 hạt đang có thì xác suất dưới 10%.
 - Năm 2 vẫn còn Cải vàng (Xuân) nếu một trong ba loại trên trượt.
 
+**📋 Thực tế:** _(chờ save nhịp ①)_
+
 ---
 
 ### ☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2
 
-**Việc cần làm:**
-- [ ] Thu hoạch lứa Dâu tây thứ 2 (nếu gieo đúng Ngày 13, không bón Phân bón Thúc) _(Quicksave Xuân 21: **40 bụi** vừa hái lứa 1, đếm ngược 4 ngày → chín đúng hôm nay)_
-- [ ] 🏗️ **Đặt Robin xây Kho chứa Cỏ (Silo)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả (Quicksave Xuân 21: 15 Đất sét, 14 Thỏi Đồng, 1.719 Đá). Robin chỉ xây một công trình một lúc, Chuồng gia cầm xong Ngày 24 mới đặt được. Chưa có Kho thì **cắt cỏ không ra cỏ khô** — ngày mưa gà phải ăn cỏ khô mua ở Marnie (50g/phần). **Đặt luôn với ô góc trên–trái của nền ở (72, 22)** — đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]], khỏi phải dời về sau
-- [ ] 🐔 Mua **1–2 gà** ở Trại Marnie (**800g/con**) — chỉ mua khi sau khi trả tiền ví vẫn còn **≥ 6.000g** cho hạt Hạ 1 (cùng mốc với Hạt giống hiếm). Ví đang **4.298g**, nên nếu bán Dâu tây lứa 2 xong vẫn chưa vượt mốc thì **dời gà sang Hạ** — chuồng để trống không mất gì. Gà mua về mất **3 ngày** mới lớn, rồi đẻ trứng mỗi ngày
-- [ ] 🌾 Mua gà thì mua luôn **cỏ khô ở Marnie** cho ngày 25–26 (Kho chứa Cỏ xây 2 ngày → xong sáng **Ngày 27**): mỗi con 1 phần/ngày, 2 con ≈ **4 phần = 200g**. Mua dư cũng không phí — có kho rồi thì cầm cỏ khô bấm vào phễu là cất vào kho. Cầm cỏ khô bấm vào **máng ăn trong chuồng** là đặt thẳng được, không cần kho. Ngày nắng vẫn mở cửa cho gà ra ăn cỏ, nhưng quanh chuồng gần như hết cỏ (Quicksave Xuân 21: 102 bụi trên cả nông trại, chỉ 2 bụi gần chuồng) nên **vẫn rải cỏ khô vào máng** làm dự phòng. **Đừng cắt cỏ trước Ngày 27** — chưa có kho thì cắt là mất trắng; có kho rồi mỗi nhát Liềm có **50%** ra 1 cỏ khô (kho chứa tối đa 240)
-- [ ] 🚧 **Không cần xây hàng rào** — gà không ăn cây trồng và tối tự về chuồng. Chỉ cần **lối ra cửa chuồng thông thoáng**: gà bị kẹt ngoài (vướng hàng rào, rương, máy) mà cửa đã đóng thì đêm có thể bị **thú hoang tấn công và mất hẳn con đó**. Hàng rào chỉ đáng làm về sau, nếu muốn quây gà lại quanh bãi Cỏ giống gần chuồng
-- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
-- [x] Rà lại gói Cộng đồng **Nông sản Mùa Xuân** — còn thiếu Cải vàng/Khoai tây/Đậu xanh/Súp lơ loại nào thì đây gần như cơ hội cuối (Cải vàng hết hạn gieo từ hôm qua – Ngày 24) _(save Xuân 18: gói đã xong)_
-- [ ] Lấy **Nhựa phong** (Maple Syrup) ở Chén hứng Nhựa cây trên cây phong — Quicksave Xuân 21 báo còn **4.150 phút ≈ 2,9 ngày** → chín khoảng Ngày 24 (ngày lễ hội), lấy hôm nay → (nếu Ngày 23 đã nộp Nấm tím cho gói này thì Nhựa phong không cần nữa, giữ lại hoặc bán) → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
+**🔒 Cứng**
+- Lứa Dâu tây thứ 2 chín hôm nay (gieo Ngày 13, không bón Phân bón Thúc) _(Quicksave Xuân 21: 40 bụi vừa hái lứa 1, đếm ngược 4 ngày → đúng hôm nay)_.
+- Chuồng gia cầm xong sáng Ngày 24 → **hôm nay mới đặt Robin xây tiếp được** (Robin mỗi lúc một công trình).
+- Kho chứa Cỏ xây **2 ngày** → xong sáng **Ngày 27**. **Đừng cắt cỏ trước Ngày 27** — chưa có kho thì cắt là mất trắng.
+
+**🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Nắng → giữ việc chính như dưới. Mưa → vẫn đặt Robin được (mưa không cản xây), lấy nửa ngày dư cho [[#🌧️ Mưa|cá/mỏ]]. May thấp → đúng ngày để xây, khỏi đổi gì.
+
+**✅ Việc hôm nay**
+- [ ] 🎯 **Đặt Robin xây Kho chứa Cỏ (Silo)** ở ô góc trên–trái **(72, 22)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả _(Quicksave Xuân 21: 15 Đất sét · 14 Thỏi Đồng · 1.719 Đá)_. Đặt đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] ngay, khỏi phải nhờ dời về sau
+- [ ] 🐔 Mua **1–2 gà** ở Trại Marnie (**800g/con**) — **chỉ khi** sau khi trả tiền ví vẫn còn **≥ 6.000g** cho hạt Hạ 1. Mua gà thì mua luôn **cỏ khô cho ngày 25–26** (2 con ≈ 4 phần = 200g)
+- [ ] 🍁 Lấy **Nhựa phong** ở Chén hứng Nhựa cây → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
+- [ ] _(Routine)_ Thu hoạch Dâu tây lứa 2, tưới, ship
+
+**📎 Chi tiết đã kiểm chứng**
+
+- **Gà có thể dời sang Hạ.** Ví đang **4.298g**; bán Dâu tây lứa 2 xong mà vẫn chưa vượt mốc 6.000g thì **để chuồng trống**, không mất gì. Gà mua về **3 ngày** mới lớn rồi mới đẻ.
+- **Cỏ khô mua dư không phí** — có kho rồi thì cầm cỏ khô bấm vào phễu là cất vào kho; cầm bấm vào **máng ăn trong chuồng** là đặt thẳng được, không cần kho. Ngày nắng gà vẫn ra ngoài ăn cỏ, nhưng quanh chuồng gần như hết cỏ _(Quicksave Xuân 21: 102 bụi trên cả nông trại, chỉ 2 bụi gần chuồng)_ → **vẫn rải cỏ khô vào máng** làm dự phòng. Có kho rồi, mỗi nhát Liềm có **50%** ra 1 cỏ khô, kho chứa tối đa 240.
+- 🚧 **Không cần xây hàng rào.** Gà không ăn cây trồng và tối tự về chuồng. Chỉ cần **lối ra cửa chuồng thông thoáng**: gà kẹt ngoài (vướng hàng rào, rương, máy) mà cửa đã đóng thì đêm có thể bị **thú hoang tấn công và mất hẳn con đó**.
+- Gói **Nông sản Mùa Xuân** đã xong _(save Xuân 18)_ — không cần rà lại.
+
+**📋 Thực tế:** _(chờ save nhịp ①)_
 
 ---
 
 ### ☀️ Ngày 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong
 
-**Việc cần làm:**
-- [ ] Tìm Pierre tặng quà sinh nhật — cửa hàng của ông đóng cửa hôm nay (nghỉ sinh nhật), thường thấy ông đi dạo quanh Thị trấn hoặc ở nhà; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
-- [ ] Ghé xe hàng rong: mua thêm **tối đa 1 Hạt giống hiếm** (1.000g), và chỉ mua nếu sau khi trả tiền ví vẫn còn **≥ 6.000g** cho vốn hạt Hạ 1 — đang có 2 hạt, mốc cần trước hết Hạ là **10–15 hạt** (xem [[#☀️ Hạ|lịch mua ở mục Hạ]])
-- [ ] Việc thường ngày: tưới ruộng, mỏ/câu cá
+**🔒 Cứng**
+- **Sinh nhật Pierre** — cửa hàng đóng cửa hôm nay (nghỉ sinh nhật), thường thấy ông đi dạo quanh Thị trấn hoặc ở nhà.
+- **Xe hàng rong** ở Rừng Cindersap.
+
+**🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Ngày này nhẹ, nên **nhánh quyết việc chính**: nắng + may cao → [[#🍀 May cao|mỏ/tầng mới]] · nắng + may thấp → [[#💀 May thấp|lát Đường lát đá]] · mưa → [[#🌧️ Mưa|câu cá]].
+
+**✅ Việc hôm nay**
+- [ ] 🎯 _(chốt theo nhánh ở nhịp ①)_
+- [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm** (1.000g), **chỉ khi** sau khi trả tiền ví vẫn còn **≥ 6.000g** — đang có 2 hạt, mốc cần trước hết Hạ là **10–15 hạt** (xem [[#☀️ Hạ|lịch mua ở mục Hạ]])
+- [ ] 🎁 Tìm Pierre tặng quà sinh nhật — chưa rõ món Yêu thích thì tặng món Thích bất kỳ
+- [ ] _(Routine)_ Tưới, thu hoạch, ship
+
+**📋 Thực tế:** _(chờ save nhịp ①)_
 
 ---
 
 ### ☀️ Ngày 27 (Thứ Bảy) — 🎂 Sinh nhật Emily
 
-**Việc cần làm:**
-- [ ] Tìm Emily tặng quà — hay ở nhà (chung nhà với Haley, phía bắc Thị trấn) hoặc Saloon tối thứ Bảy; chưa rõ món Yêu thích thì tặng món Thích bất kỳ
-- [ ] Bắt đầu dọn dẹp: thu hoạch/bán nốt nông sản sắp hết mùa, cây trồng ngoài trời sẽ **chết hết khi sang Hạ** (trừ có Nhà kính, chưa mở được trong Xuân Năm 1)
-- [ ] Kiểm tra ví — chuẩn bị ngân sách mua hạt giống Hạ ngày mai (Hạt việt quất, Hạt hoa bia... xem mục Tham khảo theo mùa cuối note)
+**🔒 Cứng**
+- **Sinh nhật Emily** — hay ở nhà (chung nhà với Haley, phía bắc Thị trấn) hoặc Saloon tối thứ Bảy.
+- **Kho chứa Cỏ xong sáng nay** (đặt Ngày 25) → **từ hôm nay cắt cỏ mới ra cỏ khô**.
+- Cây trồng ngoài trời **chết hết khi sang Hạ** — chưa có Nhà kính trong Xuân Năm 1.
+
+**🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Nắng → cắt cỏ đầy kho là việc chính rất đáng (vừa mở khoá hôm nay). Mưa → [[#🌧️ Mưa|câu cá]], cỏ để Ngày 28. May thấp → vẫn cắt cỏ được, cỏ khô không tuỳ may mắn.
+
+**✅ Việc hôm nay**
+- [ ] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 cỏ khô, kho tối đa 240; gà vào Đông không ra ngoài nên cỏ khô là của để
+- [ ] 🎁 Tìm Emily tặng quà sinh nhật
+- [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre — ưu tiên **Hạt việt quất** (lãi cao), thêm **Hạt hoa bia** nếu định ủ Bia nhẹ
+- [ ] _(Routine)_ Thu hoạch & bán nốt nông sản sắp hết mùa, tưới, ship
+
+**📋 Thực tế:** _(chờ save nhịp ①)_
 
 ---
 
 ### 🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong
 
-**Việc cần làm:**
-- [ ] Bật TV xem công thức mới lần cuối trong mùa
-- [ ] Thu hoạch/bán **toàn bộ** nông sản còn lại trên ruộng — qua đêm nay mọi cây ngoài trời sẽ chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất, phải trồng lại mùa sau). **Ngoại lệ: cây Trái cổ đại ở ô (72, 27) sống tiếp qua Hạ** — đừng nhổ, xem [[#☀️ Ngày 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong|Ngày 21]]
-- [ ] Ghé xe hàng rong: cùng luật như Ngày 26 — **tối đa 1 Hạt giống hiếm**, chỉ khi ví vẫn còn **≥ 6.000g** sau khi mua; còn thiếu thì để dồn sang nửa sau mùa Hạ
-- [ ] 🔮 **Đúng 12:00 trưa** (12:00–12:09) ra rung **bụi cây phía trên sân chơi** (góc tây bắc Thị trấn) → **Junimo Nhồi bông**, chỉ 1 lần/save; lỡ thì chờ ngày 28 mùa sau — xem [[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật — Mọi mùa]]
-- [ ] Không cần dọn đất trước — đất tự "cày lại" khi bước sang mùa mới, cây chết sẽ biến mất
-- [ ] Đối chiếu lại toàn bộ gói Cộng đồng mùa Xuân (**Sản phẩm Hái lượm Mùa Xuân, Nông sản Mùa Xuân, Cá, Xây Dựng**) — cái nào dở dang thì phải chờ... một số gói không giới hạn theo mùa (Cá/Xây dựng vẫn nộp được quanh năm), riêng **Nông sản Mùa Xuân** lỡ là phải chờ Xuân năm sau
-- [ ] Chuẩn bị hạt giống Hạ cần mua ngay sáng mai ở Pierre: ưu tiên **Hạt việt quất** (lãi cao) và **Hạt hoa bia** (nếu định ủ Bia nhẹ)
+**🔒 Cứng**
+- **Đúng 12:00 trưa** (12:00–12:09): rung **bụi cây phía trên sân chơi**, góc tây bắc Thị trấn → **Junimo Nhồi bông**, **1 lần/save**; lỡ thì chờ ngày 28 mùa sau — xem [[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật — Mọi mùa]].
+- **Xe hàng rong** · **TV công thức mới** lần cuối trong mùa.
+- Qua đêm nay mọi cây ngoài trời chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất). **Ngoại lệ: cây Trái cổ đại ở ô (72, 27) sống tiếp qua Hạ** — đừng nhổ, xem [[#☀️ Ngày 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong|Ngày 21]].
+- **Không cần dọn đất trước** — đất tự "cày lại" khi sang mùa mới, cây chết tự biến mất.
 
-**Lưu ý:** đêm nay ngủ vẫn tính là "Ngày 28 Xuân" như bình thường — sang ngày mới mới chính thức là Ngày 1 Hạ, không có gì đặc biệt phải làm gấp trước 24:00 ngoài ship nông sản.
+**🌦️ Nhánh:** việc chính hôm nay là mốc 12:00, **không nhường cho nhánh nào**. Nhánh chỉ quyết việc phụ: mưa → [[#🌧️ Mưa|câu cá nốt ngày mưa cuối mùa]] · nắng + may cao → [[#🍀 May cao|mỏ]].
+
+> [!important] Mốc 12:00 và đóng băng thời gian
+> Việc này cần đồng hồ **chạy tới đúng 12:00** rồi mới rung bụi. Nếu đang đóng băng ở giờ sớm hơn thì phải **tắt `FreezeTime`** cho thời gian chạy tới trưa (hoặc chỉnh giờ ở tab **Thời gian**), xong rồi bật lại. Đây là chỗ dễ mất nhất trong cả mùa vì chỉ có **1 lần/save**.
+
+**✅ Việc hôm nay**
+- [ ] 🎯 🔮 **12:00 rung bụi lấy Junimo Nhồi bông** (góc tây bắc Thị trấn, trên sân chơi)
+- [ ] 🛒 Ghé xe hàng rong: cùng luật Ngày 26 — **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua; còn thiếu thì dồn sang nửa sau mùa Hạ
+- [ ] 🧩 Rà toàn bộ gói Cộng đồng mùa Xuân — **Cá** và **Xây Dựng** nộp được quanh năm, riêng **Nông sản Mùa Xuân** và **Sản phẩm Hái lượm Mùa Xuân** lỡ là phải chờ Xuân năm sau
+- [ ] _(Routine)_ Bật TV · thu hoạch & bán **toàn bộ** nông sản còn lại · ship
+
+**📎 Chi tiết đã kiểm chứng**
+
+Đêm nay ngủ vẫn tính là "Ngày 28 Xuân" như bình thường — sang ngày mới mới chính thức là Ngày 1 Hạ. Không có gì đặc biệt phải làm gấp trước 24:00 ngoài ship nông sản.
+
+**📋 Thực tế:** _(chờ save nhịp ①)_
 
 ---
 
@@ -528,13 +680,18 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 > [!tip] Hai luật giúp xây dần không phải phá đi làm lại
 > **Robin dời công trình miễn phí** (Cửa hàng Mộc → di chuyển công trình), nên công trình đặt tạm chỗ khác thì về sau dời về đúng toạ độ cũng chẳng mất gì. **Robin chỉ xây một công trình một lúc**, mỗi cái 2–3 ngày, nên các công trình cùng mùa phải xếp nối nhau.
 
+> [!note] Cheat đổi cái gì trong lộ trình này
+> Vô tận thể lực làm **công bỏ ra không còn là giá** — lát 307 ô Đường lát đá hay tưới tay cả một ô ruộng giờ chỉ tốn nguyên liệu và một suất trong [[#🎮 Luật chơi của save này|quota ngày]], chứ không tốn một buổi cày. Giá thật của mọi dòng dưới đây **chỉ còn là tiền, nguyên liệu và số ngày Robin xây** — ba thứ cheat không gỡ.
+>
+> Hệ quả thực tế: **Vòi tưới cây không còn gấp nữa.** Nó chỉ để khỏi phải click, không còn để cứu năng lượng — nên đừng tiêu Thỏi sắt / Thỏi vàng vào Vòi tưới khi chúng còn cần cho thứ khác.
+
 ### Năm 1 — đường chính, ruộng đầu tiên, bãi chăn nuôi
 
 | Khi nào | Việc | Chi phí / điều kiện |
 |---|---|---|
 | **Xuân 25** | Đặt **Kho chứa Cỏ** ở **(72, 22)** (xem [[#☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2\|Ngày 25]]) | 100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng |
-| **Xuân, ngày rảnh** | Lát **Đường lát đá**: trục ngang y 18–19 (trước nhà) rồi trục dọc x 40–41 và đoạn vòng qua ao | 1 Đá/ô, cả hai trục **≈ 307 ô** — công thức đã có, Quicksave Xuân 21 còn 1.719 Đá |
-| **Xuân–Hạ** | Mở **Ruộng 3** ở góc (30, 22) — ô sát trục dọc, gần nhà nhất | Tưới tay, hoặc **Vòi tưới cây** (đã có công thức, 1 Thỏi đồng + 1 Thỏi sắt) |
+| **Ngày may thấp bất kỳ** | Lát **Đường lát đá**: trục ngang y 18–19 (trước nhà) rồi trục dọc x 40–41 và đoạn vòng qua ao | 1 Đá/ô, cả hai trục **≈ 307 ô** — công thức đã có, Quicksave Xuân 21 còn 1.719 Đá · việc trả kết quả cố định, đúng loại để đổ vào [[#💀 May thấp\|ngày may thấp]] |
+| **Xuân–Hạ** | Mở **Ruộng 3** ở góc (30, 22) — ô sát trục dọc, gần nhà nhất | **Tưới tay không tốn gì** (vô tận thể lực) → **Vòi tưới cây** chỉ để khỏi click, không gấp (đã có công thức, 1 Thỏi đồng + 1 Thỏi sắt) |
 | **Khi lên Nông nghiệp 6** (thường giữa Hạ) | Thay bằng **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9, hàng/cột cuối của ô để làm lối · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
 | **Thu** | Mở thêm **Ruộng 2** (19, 22) cho vụ Thu | 9 Vòi tưới cây xịn |
 | **Cuối Thu / Đông** | Rào **bãi chăn nuôi** x 54–76, y 21–46 (92 ô rào + cổng đôi ở (63, 21) (64, 21)) | **Hàng rào gỗ cứng** 1 Gỗ cứng/ô; thiếu Gỗ cứng thì dựng tạm **Hàng rào gỗ** (2 Gỗ/ô) rồi thay sau · **Cổng** 10 Gỗ |
@@ -595,4 +752,4 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 ### 🍂 Thu
 
 - 🌱 Cây **Trái cổ đại** ngoài trời **chết khi sang Đông** — hái quả cuối (khoảng Thu 22) là hết.
-- 🐔 **Dự trữ cỏ khô cho mùa Đông:** gà không ra ngoài cả 28 ngày → 4 con × 28 = **112 cỏ khô**. Cắt cỏ bằng Liềm cho đầy Kho chứa Cỏ từ giữa Thu, đỡ phải mua ở Marnie (50g/phần).
+- 🐔 **Dự trữ cỏ khô cho mùa Đông:** gà không ra ngoài cả 28 ngày → 4 con × 28 = **112 cỏ khô**. Cắt cỏ bằng Liềm cho đầy Kho chứa Cỏ từ giữa Thu, đỡ phải mua ở Marnie (50g/phần). Giới hạn ở đây **không phải thể lực** mà là **kho chứa tối đa 240** và **số bụi cỏ còn trên nông trại** — mỗi nhát Liềm chỉ **50%** ra 1 cỏ khô, nên bắt đầu sớm.
