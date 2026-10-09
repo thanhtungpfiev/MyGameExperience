@@ -1,6 +1,6 @@
 # 🏰 Heroes 3 HotA — Cách chơi cơ bản các thành (Nam InCo)
 
-> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **7/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
+> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **8/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
 >
 > _Video nói tiếng Việt nhưng tên thành, tên lính, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
@@ -21,7 +21,7 @@
 | 6 | [Giới thiệu về SPELLS và cách sử dụng cơ bản !](https://www.youtube.com/watch?v=onhhdAZMYLA) | 27/02/2022 | ✅ [[#6️⃣ Spells (phép) — công thức sát thương, và phép nào thật sự đáng lên\|đã chắt lọc]] |
 | 7 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Xương NECROPOLIS.](https://www.youtube.com/watch?v=vm2PVn17vmA) | 05/03/2022 | ✅ [[#7️⃣ Necropolis (thành Xương) — Skeleton mới là quân chủ lực, không phải Lich\|đã chắt lọc]] |
 | 8 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Rồng Đen DUNGEON](https://www.youtube.com/watch?v=hXkO43OuJkc) | 12/04/2022 | ✅ [[#8️⃣ Dungeon (Rồng Đen) — Troglodyte với Harpy gánh cả giai đoạn mở đường, dàn tướng mới là chỗ mạnh thật\|đã chắt lọc]] |
-| 9 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Gấu STRONGHOLD.](https://www.youtube.com/watch?v=frwS3OhHHxg) | 12/11/2022 | ⬜ chưa xem |
+| 9 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Gấu STRONGHOLD.](https://www.youtube.com/watch?v=frwS3OhHHxg) | 12/11/2022 | ✅ [[#9️⃣ Stronghold (thành Gấu) — công trình nào cũng mạnh, quân yếu từng con, tướng chiến khoẻ nhất game\|đã chắt lọc]] |
 | 10 | [Cách chỉnh lỗi template 8XM8: Thành không có đường đi - Không tạo được map size G !](https://www.youtube.com/watch?v=A9zkjSXFbs8) | 03/12/2022 | ⬜ chưa xem |
 | 11 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Đầm Lầy FORTRESS.](https://www.youtube.com/watch?v=ylEF4scll9c) | 13/12/2022 | ⬜ chưa xem |
 | 12 | [8XM8 là gì? Tại sao nhiều người chơi 8XM8? Cách chơi cơ bản map 8XM8.](https://www.youtube.com/watch?v=oZotpPb5Gl0) | 10/01/2023 | ⬜ chưa xem |
@@ -56,6 +56,9 @@
 
 
 **Bên trong video 8** — [[#🐉 Vì sao Dungeon khó với người mới nhưng mạnh ở trình cao|Vì sao khó mà vẫn mạnh]] · [[#💸 Nhược điểm của Dungeon — xây đắt, và quân chủ lực không kịp tuần 1|Nhược điểm]] · [[#🏗️ Năm công trình riêng của Dungeon|Năm công trình]] · [[#🦎 Troglodyte — quân chốt của Dungeon, yếu từng con nhưng đông và miễn nhiễm Blind|Troglodyte]] · [[#🦅 Harpy Hag — con mà video coi là "quân bắn với mũi tên vô hạn"|Harpy Hag]] · [[#🏔️ Chọn địa hình trước khi đánh — kỹ thuật mà Dungeon bắt buộc phải biết|Chọn địa hình]] · [[#👁️ Beholder và Medusa — quân bắn của Dungeon đến muộn, và cái bẫy Stone Gaze|Beholder & Medusa]] · [[#⚡ Vì sao vẫn phải nâng lên Black Dragon — chuyện speed, và cái bẫy Hill Fort|Nâng Black Dragon & Hill Fort]] · [[#🐂 Minotaur — quân cấp 5 đánh đau nhất, và lý do đối phương sợ Dungeon|Minotaur]] · [[#🦂 Scorpicore và Black Dragon — trói quân, và con duy nhất miễn nhiễm Implosion|Scorpicore & kháng Implosion]] · [[#📊 Tổng kết chất lượng quân Dungeon theo video|Tổng kết quân]] · [[#⚔️ Tướng chiến Dungeon — Tactics cộng luyện quân là chỗ mạnh thật của thành|Tướng chiến]] · [[#🔮 Tướng phép Dungeon — Alamar, Jeddite và phép hồi sinh nhân theo level|Tướng phép]] · [[#📈 Darkstorn và Learning — vì sao Dungeon cần lên level nhanh hơn các thành khác|Learning]] · [[#🏁 Chốt — Dungeon gần như không có điểm yếu với người chơi có kinh nghiệm|Chốt]] · [[#🎥 Mốc thời gian — video 8|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 8 (Dungeon)|Bảng giải mã]]
+
+**Bên trong video 9** — [[#🏛️ Bốn công trình độc nhất của Stronghold — Hall of Valhalla, Escape Tunnel, Freelancer's Guild, Ballista Yard|Bốn công trình]] · [[#🐺 Mess Hall và chuyện Stronghold phải lấy quân đông bù quân yếu|Mess Hall]] · [[#🏗️ Stronghold lên quân cấp 7 rẻ và nhanh nhất — hai đường build theo gỗ hay theo đá|Hai đường build]] · [[#🪨 Cyclops Cave — chỗ nghẽn duy nhất trong cả cây công trình Stronghold|Chỗ nghẽn Cyclops Cave]] · [[#👺 Goblin và Wolf Rider — hai quân tầm thường khi chưa nâng, rất lợi khi đã nâng|Goblin & Wolf Rider]] · [[#🏹 Orc — quân cấp 3 mà video gọi là chán nhất game|Orc]] · [[#👹 Ogre Magi — quân cấp 4 trâu nhất, và phép Bloodlust buff cho Behemoth|Ogre Magi & Bloodlust]] · [[#⚡ Thunderbird — quân mở đường quen thuộc nhất của Stronghold|Thunderbird]] · [[#👁️ Cyclops — quân phá tường mà Stronghold buộc phải có khi công thành|Cyclops phá tường]] · [[#🐻 Behemoth — phá 80% giáp, và vì sao đối phương phải giết nó trước|Behemoth]] · [[#🧩 Tổng kết quân Stronghold — từng con tầm thường, ghép lại thì rất mạnh|Tổng kết quân]] · [[#⚔️ Tướng chiến Stronghold — Yog, Gurnisson, Jabarkas, Shiva|Tướng chiến]] · [[#👣 Gretchin, Tyraxor, Krellion — và cái bẫy địa hình khi gom quân nhiều thành|Gretchin, Tyraxor, Krellion]] · [[#🥇 Crag Hack — tướng chiến mạnh nhất game theo video, và phép tính 75% Offense|Crag Hack]] · [[#🔮 Tướng phép Stronghold — Gird và Vey, hai con mà video gọi là phèn|Tướng phép]] · [[#📉 Dessa và Logistics — tướng phép duy nhất đáng giá, và chỗ HotA nép mạnh nhất|Dessa & Logistics]] · [[#🚫 Nhược điểm duy nhất của Stronghold — Mage Guild chỉ lên tới cấp 3|Nhược điểm duy nhất]] · [[#💥 Zubin và Gundula — hai tướng phép còn dùng được|Zubin & Gundula]] · [[#🏁 Chốt — Stronghold mạnh ở tướng, bù cho quân yếu từng con|Chốt]] · [[#🎥 Mốc thời gian — video 9|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 9 (Stronghold)|Bảng giải mã]]
+
 ---
 
 ## 1️⃣ Castle (Thiên Thần) — tuần đầu và dàn tướng
@@ -2160,6 +2163,529 @@ Tác giả cũng nói rõ giới hạn của chính clip: vì không có nhiều
 | "cự ly hai tên" · "phải năm chân trên nam mô" | Khoảng cách an toàn cho Harpy ❓ | **Đoán** — ý là đứng ngoài tầm với hai lượt di chuyển của quân địch, nhưng phụ đề vỡ hẳn, không chốt được con số |
 | "quân đi ưu tiên theo chiều kim đồng hồ" | Luật tìm đường của quân trên bãi chiến ❓ | **Chưa kiểm** — video khẳng định như một luật, nhưng đây là chi tiết phải mở game ra thử |
 | "sở Yến 120 cos ai" · "hơn 150 con trâu" (Shakti) | Lượng quân Shakti gom được ngày đầu ❓ | **Chưa kiểm** — con số không đối chiếu được, và video nói đây là chuyện ở "bản gốc" |
+
+## 9️⃣ Stronghold (thành Gấu) — công trình nào cũng mạnh, quân yếu từng con, tướng chiến khoẻ nhất game
+
+> [!video] Nguồn
+> [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Gấu STRONGHOLD.](https://www.youtube.com/watch?v=frwS3OhHHxg) · đăng 12/11/2022 · video 9/25 · dài **1:05:48**
+>
+> Chắt lọc từ phụ đề tự động tiếng Việt. Phụ đề video này **vỡ nặng ở tên tướng và tên công trình** — `Hall of Valhalla` nghe ra "hai là ba la", `Gurnisson` nghe ra sáu kiểu khác nhau. Phiên này **mở được wiki**, nên toàn bộ tên tướng, tên quân, chỉ số và công thức đã đối chiếu `heroes.v.thelazy.net` ngày **09/10/2026**; xem [[#❓ Bảng giải mã phụ đề — video 9 (Stronghold)|bảng giải mã]] để biết chỗ nào xác nhận, chỗ nào còn đoán.
+
+Video giữ đúng ba phần như các clip trước và nói rõ lý do thứ tự đó: **công trình xây dựng trước, rồi quân, rồi tướng** — vì công trình là tiền đề quyết định phương hướng lên quân, mà quân thì để phục vụ mở đường, cày "mỏ vịt" rồi đánh nhà rồng kiếm đồ (0:00–0:31).
+
+### 🏛️ Bốn công trình độc nhất của Stronghold — Hall of Valhalla, Escape Tunnel, Freelancer's Guild, Ballista Yard
+
+Đây là phần video khen nhiều nhất, và nói thẳng là **mỗi công trình đều rất mạnh** (0:31–0:56). Cả bốn đã đối chiếu wiki 09/10/2026.
+
+| Công trình | Giá (đã kiểm) | Tác dụng (đã kiểm) | Video nói gì |
+|---|---|---|---|
+| **Hall of Valhalla** | 1.000 vàng | Tướng ghé thăm được **+1 kiếm vĩnh viễn** | Xây được ngay ngày đầu thì tướng chính có **5 kiếm từ ngày 1** (1:11–1:56) |
+| **Escape Tunnel** | 2.000 vàng + 5 gỗ + 5 đá | Tướng thủ thành **được bỏ chạy** khi bị công thành | Công trình duy nhất trong game cho phép việc này (1:56–2:37) |
+| **Freelancer's Guild** | 1.000 vàng | Tướng ghé thăm **bán được quân** lấy tài nguyên | Đổi quân cấp 1–2 thừa lấy Crystal để xây tiếp (2:37–3:16) |
+| **Ballista Yard** | 1.000 vàng + 5 gỗ | Tướng ghé thăm **mua được Ballista** | Stronghold là thành duy nhất mua được **cả hai** cỗ máy (3:55–4:39) |
+
+**Escape Tunnel đổi luôn cách công thành Stronghold.** Ở mọi thành khác, tướng trong thành bị công thì chỉ có đánh đến chết, không chạy được. Riêng Stronghold thì chạy được — nên khi đi công thành Gấu **vẫn phải đeo xích** (Shackles of War), còn công các thành khác thì không cần (2:12–2:37).
+
+**Freelancer's Guild ăn khớp với khởi điểm của Stronghold.** Video nói Stronghold hay có khởi điểm đẹp vì quanh thành thường có nhiều mỏ quân cấp 1–2 — ra cửa thành vài bước đã thấy hai ba mỏ Goblin ❓. Gom quân cấp 1–2 rồi bán lấy Crystal thì **xây xong thành trong tuần 1 là chuyện có thể xảy ra**. Về sau, khi đã có quân chủ lực, quân cấp 1–2 chỉ còn giữ lại ít làm chim mồi cày "mỏ vịt", phần còn lại đổ hết vào đây lấy tài nguyên (2:37–3:16, 3:16–3:55).
+
+**Ballista Yard là chỗ Stronghold độc nhất thật.** Thành khác mỗi ván chỉ mua được **một** cỗ máy chiến đấu — First Aid Tent, Ammo Cart, hoặc Ballista. Stronghold mua được **Ballista và Ammo Cart cùng lúc** (3:55–4:39). Video gọi Ammo Cart ghép với Orc là bộ đôi ăn tiền: có Ammo Cart thì quân bắn **bắn vô hạn**, nên chỉ cầm mỗi Orc là cày được cả nghìn Dendroid, chạy qua chạy lại là xong (4:39–5:00).
+
+> [!info]- Ngoài nguồn — Blacksmith không phải chỗ sinh ra Ammo Cart
+> Video gộp Blacksmith vào cùng mạch và nói nó "để xây cái xe tên cho cung bắn vô hạn" (1:11, nhắc lại 3:16–3:55). Theo wiki thì **Blacksmith** là công trình bán **cỗ máy mặc định của từng thành** (với Stronghold là Ammo Cart), còn **Ballista Yard** mới là công trình riêng cho Ballista. Kết quả thực tế vẫn như video nói — Stronghold có cả hai — chỉ là hai công trình khác nhau, không phải một.
+
+### 🐺 Mess Hall và chuyện Stronghold phải lấy quân đông bù quân yếu
+
+Video tự nhận ngay ở đoạn này: quân Stronghold **không mạnh lắm nếu chỉ xét chỉ số** — trừ Behemoth ra thì Cyclops yếu, quân cấp 2 cũng yếu, chỉ Ogre là khoẻ (5:00–5:30). Và đúng theo luật chung của game, **thành nào yếu về chỉ số quân thì được bù một nhà horde**: Stronghold có **Mess Hall**, 1.000 vàng, **+8 Goblin/tuần** (đã kiểm wiki 09/10/2026) (5:30–6:35).
+
+Chỗ này video nói thẳng một câu đáng giữ: với người chơi kinh nghiệm thì thành nào cũng chơi được, có người quen thành nào thì chơi thành đó còn mạnh hơn thành khác; **nhưng với người mới thì xây và phát triển quân Stronghold luôn khó hơn** Castle, Rampart, có khi khó hơn cả Tower (5:45–6:10).
+
+### 🏗️ Stronghold lên quân cấp 7 rẻ và nhanh nhất — hai đường build theo gỗ hay theo đá
+
+Đây là ưu điểm lớn nhất về công trình: Stronghold thuộc nhóm **lên quân cấp 7 nhanh nhất game**. Ở bản HotA chỉ cần Cliff Nest là lên được Behemoth Lair; bản SoD còn phải xây thêm một nhà nữa ❓ (6:35–7:14).
+
+Video đưa chuỗi số: nâng Cliff Nest cần 5 gỗ 5 đá, rồi Cliff Nest lên 10 đá với 2.000 vàng, rồi Behemoth Lair thêm 10 gỗ 10 đá 10 Crystal và 10.000 vàng ❓ (6:35–7:14). So với Castle, Rampart hay Tower thì video gọi mấy thành kia là "cực hình" khi lên quân cấp 7, còn Stronghold chỉ đứng sau Conflux và Fortress về độ rẻ (7:14–7:54).
+
+**Hai đường build, chọn theo tài nguyên nhìn thấy quanh thành** (7:54–8:36):
+
+- **Thấy nhiều đá** → đi **Cliff Nest** lấy Thunderbird. Đây là đường mà video nói mọi người thấy dễ và nhanh hơn nhiều (9:17–9:48).
+- **Thấy nhiều gỗ, khan đá** → đi **Orc Tower** lấy Orc. Orc chỉ tốn 5 đá, nhưng để nâng cấp thì cần thêm 25 gỗ ❓.
+
+Video chốt Orc là "một trong những con trâu nhất ở quân cấp 4" với 40 máu và 13 kiếm, ngang Thunderbird cấp 5 — nên kể cả không có đá lên Thunderbird tuần đầu thì **gặp gỗ là vẫn cày được "mỏ vịt" bằng Orc** (7:54–8:36).
+
+> [!bom] "Orc cấp 4, 40 máu, 13 kiếm" — video đang nói về Ogre, không phải Orc
+> Phụ đề trộn lẫn hai con suốt cả clip: `Orc` nghe ra "ốc/org/ort", `Ogre` nghe ra "Ori/order/Orient/augan". Đối chiếu wiki 09/10/2026 thì **Orc là quân bắn cấp 3** (kiếm 8, máu 15), còn **Ogre mới là cấp 4 với 40 máu và 13 kiếm**. Mọi chỗ video nói "con cấp 4 trâu 40 máu 13 kiếm, buff được Bloodlust" đều là **Ogre / Ogre Magi**, còn "con bắn một tên, yếu hơn Grand Elf" mới là **Orc**. Các số trong note này đã gán lại theo đúng con.
+>
+> Riêng cái nhà thì vẫn đúng tên: đường build "nhiều gỗ" đi **Orc Tower** (nhà quân bắn cấp 3), đúng như video nói "Ok Fox chỉ tốn 5 đá".
+
+### 🪨 Cyclops Cave — chỗ nghẽn duy nhất trong cả cây công trình Stronghold
+
+Video nói cả cây công trình Stronghold chỉ có **một chỗ khó: Cyclops** (8:36–9:17). Gom đủ đá cho Cyclops Cave là "khá khét" với thành này, nhưng gom được rồi thì cũng gần như lên được luôn Thunderbird và Behemoth (9:17–9:48). So với Castle cần 30 gỗ mới lên nổi Cavalier thì video vẫn coi Cyclops là **dễ xây**.
+
+> [!bom] Số tiền Cyclops Cave trong video lệch với wiki — và chỗ HotA đổi là chỗ nâng cấp
+> Video nói xây Cyclops Cave "20 gỗ 20 đá", còn **nâng cấp** thì "ở bản HotA mới đắt, cần đến 20 Crystal" (8:36–9:17, nhắc lại 10:29). Đối chiếu wiki 09/10/2026 thì bảng công trình Stronghold ghi:
+>
+> - **Cyclops Cave** — 2.000 vàng + 5 gỗ + 5 đá, **không cần Crystal**.
+> - **Upg. Cyclops Cave** — 3.500 vàng + 20 đá, và ô Crystal ghi hai giá trị `-` / `20`, tức **SoD không cần Crystal, HotA cần 20**.
+>
+> Vậy **ý của video đúng ở chỗ quan trọng nhất**: HotA đúng là dồn 20 Crystal vào bản nâng cấp. Nhưng con số "20 gỗ 20 đá" cho nhà gốc thì **không khớp** — 20 là lượng **đá của bản nâng cấp**. Trang `Cyclops` còn ghi thêm một câu ngược chiều: *"In Horn of the Abyss, the cyclopes' base dwelling cost has been reduced to 20 ore and no crystal"* — tức ở SoD nhà gốc từng cần Crystal. Hai trang này **chưa khớp nhau**, nên chỉ chốt được phần in đậm trên, phần còn lại để ❓.
+
+### 👺 Goblin và Wolf Rider — hai quân tầm thường khi chưa nâng, rất lợi khi đã nâng
+
+Video mở đoạn quân bằng một lời thừa nhận: quân cấp đầu của Stronghold **gần như không có gì đặc biệt**, không có con nào một mình đánh được cả cụm quân như Grand Elf của Rampart hay Marksman của Castle — hai con đó bắn hai lần (10:29–11:11).
+
+Nên giai đoạn mở đường Stronghold chủ yếu dựa vào **Hobgoblin và Wolf Raider**, tức toàn quân cấp 1–2 (11:11–11:51).
+
+| Chỉ số (kiểm 09/10/2026) | Goblin | Hobgoblin | Wolf Rider | Wolf Raider |
+|---|---|---|---|---|
+| Kiếm / giáp | 4 / 2 | 5 / 3 | 7 / 5 | 8 / 5 |
+| Sát thương · máu | 1–2 · 5 | 1–2 · 5 | 2–4 · 10 | **3–4 ×2** · 10 |
+| Speed | 5 | **7** | 6 | **8** |
+| Tăng quân / tuần | 15 (23 khi có Mess Hall) | 15 (23 khi có Mess Hall) | 9 | 9 |
+| Giá | 40 vàng | 50 vàng | 100 vàng | 140 vàng |
+
+**Wolf Raider chém hai lần, và đó là cái làm cả giai đoạn mở đường chạy được.** Video xếp nó ngang quân bắn hai lần của thành khác, chỉ khác một điều: **nó bị phản đòn**, nên phải có quân khác đánh cho hết phản đòn trước (14:30–15:03, 15:03–15:34).
+
+**Cái bẫy khi nâng cấp:** muốn nâng Wolf Pen thì **buộc phải nâng Goblin Barracks trước** (đã kiểm wiki). Cộng lại là 10 gỗ 10 đá và 2 ngày — mà có 10 đá thì đã xây xong Cliff Nest lấy Thunderbird rồi. Vì thế video nói **đa số bỏ qua, đi thẳng Cliff Nest** (11:51–12:36, 12:36–13:15).
+
+**Nhưng nâng cấp ở Stronghold vẫn xứng đáng** — khác hẳn Castle, nơi nâng Pikeman gần như vô giá trị và chỉ nâng cung là bắt buộc, hay Rampart nơi Dwarf thường để nguyên tới tuần 2. Ở Stronghold, nâng xong là **có ngay một đạo quân đi cày "mỏ vịt" được**, nhờ Hobgoblin speed 7 và Wolf Raider speed 8 (13:57–14:30).
+
+> [!info]- Ngoài nguồn — "+1 speed trên đất của nó" là luật native terrain, và nó có thật
+> Video liên tục cộng thêm 1 speed "trên đất của nó" (Hobgoblin 7→8, Wolf Raider 8→9, Thunderbird 11→12). Wiki xác nhận đây là **luật native terrain** chứ không phải chỉ số riêng của Stronghold: *"It gives creatures fighting in their native terrain +1 attack, +1 defense and +1 speed."* Đất gốc của Stronghold là **Rough**. Vậy mọi con số "+1" của video đều đúng — nhưng đúng vì đánh trên Rough, không phải vì là quân Stronghold.
+
+### 🏹 Orc — quân cấp 3 mà video gọi là chán nhất game
+
+Video nói thẳng đây là **quân cấp 3 chán nhất mình từng biết** (16:05–16:44). Hai lý do:
+
+- **Chỉ bắn một tên.** Grand Elf và Marksman bắn hai lần, tức gấp đôi sát thương, nên hạ được cả cụm quân trước khi quân địch áp sát quân chủ lực. Orc không làm được việc đó.
+- **Nó ở cấp 3.** Ở bản SoD, tướng xuất phát rất khó có sẵn Orc, khác Castle có cung ngay từ cấp 2 — nên Stronghold **thường không có quân bắn trong những ngày đầu** (11:11–11:51).
+
+Về chỉ số thì video xếp Orc dưới cả Evil Eye của Dungeon: Evil Eye nâng cấp có 22 máu, Orc nâng cấp "chỉ có hai cái máu" ❓ (16:44–17:25). Kết luận của video: Orc **chỉ dùng để đánh hỗ trợ**, không làm vai chính; vai chính giai đoạn mở đường vẫn là Wolf Raider, với Hobgoblin làm mồi nhử (16:44–17:25).
+
+| Chỉ số (kiểm 09/10/2026) | Orc | Orc Chieftain |
+|---|---|---|
+| Kiếm / giáp | 8 / 4 | 8 / 4 |
+| Sát thương · máu | 2–5 · 15 | 2–5 · 20 |
+| Speed | 4 | 5 |
+| Số lượt bắn | 12 | 24 |
+| Tăng quân / tuần | 7 | 7 |
+| Giá | 150 vàng | 165 vàng |
+
+### 👹 Ogre Magi — quân cấp 4 trâu nhất, và phép Bloodlust buff cho Behemoth
+
+Đây là con video đánh giá cao nhất sau Behemoth (18:46–19:25). Ba chỗ mạnh, đã kiểm wiki 09/10/2026:
+
+- **Máu.** Chưa nâng 40, nâng rồi **60** — gần ngang quân cấp 5 của thành khác (17:25–18:04).
+- **Kiếm 13**, ngang Thunderbird cấp 5 (18:04).
+- **Buff Bloodlust.** Ogre Magi tự niệm **Bloodlust ở bậc Advanced, 3 lần mỗi trận**, cộng **+6 kiếm** cho một quân cận chiến (18:04–18:46).
+
+**Bloodlust trên Behemoth là combo chính của thành.** Video nói đi nói lại: buff Ogre Magi lên Behemoth rồi cho Behemoth lao vào đập thì "rất là kinh khủng" (18:04–18:46, 26:14–26:54, 1:02:56–1:03:37). Thậm chí tách Ogre Magi ra thành nhiều tốp để buff lẫn nhau (26:54).
+
+Video chốt: với Stronghold, **nếu đã xác định lên Behemoth thì rất nên mang Ogre Magi đi** — vì Behemoth cần đúng cái Bloodlust đó (18:04–18:46).
+
+| Chỉ số (kiểm 09/10/2026) | Ogre | Ogre Magi |
+|---|---|---|
+| Kiếm / giáp | 13 / 7 | 13 / 7 |
+| Sát thương · máu | 6–12 · 40 | 6–12 · **60** |
+| Speed | 4 | 5 |
+| Tăng quân / tuần | 4 | 4 |
+| Kỹ năng | — | **Bloodlust** (Advanced, 3 lần/trận, +6 kiếm) |
+| Giá | 300 vàng | 400 vàng |
+
+### ⚡ Thunderbird — quân mở đường quen thuộc nhất của Stronghold
+
+Với map 8XM8, hướng build cũ gần như luôn là lên Thunderbird để mở đường và cày "mỏ vịt" (18:46–19:25).
+
+Chỉ số thì video gọi là "thường thôi" so với quân cấp 5 khác, nhưng có **một thứ làm nó rất nguy hiểm khi mở đường: Lightning Strike** — **20% xác suất** đánh ra một đòn sét **trước khi quân địch phản đòn**, và sát thương đòn đó **tăng theo số lượng Thunderbird** (19:25–20:03). Cái lợi thật nằm ở thứ tự: quân địch đã yếu đi vì đòn sét trước khi kịp phản, nên **lượng phản đòn giảm hẳn** (19:25–20:03).
+
+| Chỉ số (kiểm 09/10/2026) | Roc | Thunderbird |
+|---|---|---|
+| Kiếm / giáp | 13 / 11 | 13 / 11 |
+| Sát thương · máu | 11–15 · 60 | 11–15 · 60 |
+| Speed | 7 | **11** |
+| Tăng quân / tuần | 3 | 3 |
+| Kỹ năng | Bay | Bay · **Lightning Strike** |
+| Giá | 600 vàng | 700 vàng |
+
+> [!info]- Ngoài nguồn — sát thương Lightning Strike là 10 × số con, và nó không ăn theo phép
+> Video chỉ nói "tăng theo lượng của Thunderbird". Wiki ghi rõ con số: **10 × số Thunderbird đang đánh**, và quan trọng hơn là nó **không ăn theo các hệ số phép** — khác hẳn phép Lightning Bolt, nó không chịu ảnh hưởng của Sorcery, Orb of the Firmament hay các món đồ eclipse. Nên không có cách nào buff đòn sét này ngoài việc có nhiều con hơn.
+
+**Shiva là tướng ăn khớp đúng với lối này.** Chuyên Rocs nên cộng kiếm giáp và **+1 speed** cho Thunderbird — nâng cấp rồi là speed 12, đánh trên Rough thành 13 (20:03–20:41, 36:37–37:15). Kèm theo là **Basic Scouting**, mà video nhấn mạnh **Scouting ở HotA mạnh hơn SoD rất nhiều**: ở SoD chỉ cần gặp vài cái cột mở bản đồ là Scouting thành phế, còn ở HotA thì "đến cả ván vẫn mù mờ" (20:03–20:41). Với Shiva thì mở đường sớm đồng nghĩa với **nhìn được tài nguyên quanh thành để chọn đường build**, rồi mới đi đánh (37:15–37:46).
+
+### 👁️ Cyclops — quân phá tường mà Stronghold buộc phải có khi công thành
+
+Cyclops là quân bắn, nhưng giá trị thật của nó là **đánh được tường thành** (20:41–21:22).
+
+Vì sao Stronghold bắt buộc cần nó: trong cả dàn quân Stronghold **chỉ Thunderbird bay được**. Behemoth đánh đau nhất game nhưng **không vào được thành thì cũng như phế** — gặp Titan mà đứng ngoài thì bị Titan bắn vỡ đầu. Nên muốn đem Behemoth đi công thành thì phải có Cyclops phá tường trước (21:22–21:54).
+
+Ngoài trận công thành thì video nói **ít người nâng Cyclops**: nâng vừa đắt mà dùng lại không nhiều, và **speed chỉ 6** — chậm hơn cả Hobgoblin, nên cầm theo là tụt nước đi của cả tướng (21:54–22:33). Bình thường thì cứ gom Cyclops ở mỏ ngoài bản đồ; mỏ Cyclops là thứ **chỉ HotA mới có** ❓ (22:33–23:16).
+
+| Chỉ số (kiểm 09/10/2026) | Cyclops | Cyclops King |
+|---|---|---|
+| Kiếm / giáp | 15 / 12 | **17** / 13 |
+| Sát thương · máu | 16–20 · 70 | 16–20 · 70 |
+| Speed | **6** | 8 |
+| Số lượt bắn | 16 | 24 |
+| Kỹ năng | Bắn · phá tường (**Basic**) | Bắn · phá tường (**Advanced**) |
+| Giá | 750 vàng | 1.100 vàng |
+
+### 🐻 Behemoth — phá 80% giáp, và vì sao đối phương phải giết nó trước
+
+Đây là quân mạnh nhất thành, và kỹ năng của nó là thứ video gọi là "kinh khủng": **bỏ qua giáp của quân bị đánh** — chưa nâng **40%**, nâng rồi **80%** (đã kiểm wiki 09/10/2026) (22:33–23:16).
+
+Hai ví dụ video tự tính (23:16–23:56):
+
+- **Archangel** giáp 30 → gặp Behemoth chưa nâng (40%) còn **18 giáp**.
+- **Rồng** giáp 50 ❓ → gặp Ancient Behemoth (80%) còn **10 giáp**.
+
+**Máu 300 nhưng kiếm giáp thì "phèn".** Video nói thẳng Ancient Behemoth hơi giấy, và cái giấy đó đi song song với việc nó gây sát thương đau: cả thành Stronghold "rất bạo lực", đánh đến chết thì thôi, Behemoth đập vỡ quân địch rồi bị đập chết lại là chuyện bình thường (23:56–24:36).
+
+Từ đó ra hai luật đối xứng mà video nhắc hai lần (23:56–24:36):
+
+- **Chơi Stronghold** — phải có chiến thuật cover cho Behemoth để nó lao được vào quân chủ lực đối phương.
+- **Đánh Stronghold** — phải tập trung **giết Behemoth trước**, để nó sống mà chém là xong.
+
+| Chỉ số (kiểm 09/10/2026) | Behemoth | Ancient Behemoth |
+|---|---|---|
+| Kiếm / giáp | 17 / 17 | 19 / 19 |
+| Sát thương · máu | 30–50 · 160 | 30–50 · **300** |
+| Speed | 6 | **9** |
+| Tăng quân / tuần | 1 | 1 |
+| Kỹ năng | Bỏ qua **40%** giáp | Bỏ qua **80%** giáp |
+| Giá | 1.500 vàng | 3.000 vàng + 1 Crystal |
+
+### 🧩 Tổng kết quân Stronghold — từng con tầm thường, ghép lại thì rất mạnh
+
+Đây là ý mà video lặp lại nhiều nhất trong cả clip, và nó là chìa khoá để hiểu thành này (24:36–25:42, 1:02:17–1:03:37):
+
+> Xét **mặt bằng từng con** so với quân cùng cấp của thành khác thì quân Stronghold yếu hơn. Nhưng **ghép lại với nhau** thì thành một đạo quân rất mạnh.
+
+Cụ thể cái "ghép lại" là gì (24:36–25:42, 1:02:56–1:03:37):
+
+- **Hobgoblin làm mồi nhử** cho Wolf Raider chém hai lần.
+- **Thunderbird mở đường** — một trong những quân chủ lực dễ lên nhất game.
+- **Ogre Magi buff Bloodlust cho Behemoth** đi tank và đập.
+- **Cả dàn quân cùng speed 7–8** nên nhường lượt được cho nhau. Video so: Castle thì Halberdier speed 5, cộng cung cũng chỉ 7; Stronghold thì Hobgoblin đã 7, cấp 2 đã 8.
+
+Và vì có nhiều đường build nên **Stronghold có nhiều cách chơi**: người nâng Wolf Raider, người lấy Thunderbird mở đường, người nâng Hobgoblin lên để chịu sát thương khi lao vào "mỏ vịt" (25:42–26:14).
+
+**Behemoth khác quân cấp 7 của thành khác ở chỗ nó để gây sát thương, không phải để lấy speed.** Video nói Castle hay Conflux lên quân cấp 7 chủ yếu vì speed và một kỹ năng đặc biệt — Archangel thì thêm hồi sinh; còn Behemoth là con **cực kỳ giá trị trong việc gây sát thương cận chiến** (26:14–26:54).
+
+> [!tien] Nhưng Behemoth vẫn không phải quân chủ lực của trận cuối
+> Video nói rõ ở 26:54–27:36: trong map 8XM8 thì quân chủ lực cuối cùng vẫn là "vịt" và Archangel. Behemoth với Ogre Magi chỉ là **quân chủ lực của thành này**, dùng cho giai đoạn mở đường và cày — chưa phải đạo quân để đánh trận chiến cuối cùng.
+
+### ⚔️ Tướng chiến Stronghold — Yog, Gurnisson, Jabarkas, Shiva
+
+Trước khi vào phần tướng, video đặt một cái khung đáng giữ (27:36–28:56): **càng về các thành sau trong series thì cách đánh càng "dị", càng nhiều phong cách khác nhau**. Người mới tưởng là khó hơn, nhưng thực ra khi đã quen một thành thì mấy thành sau dễ hơn Castle, Rampart, Tower, Dungeon — mấy thành đầu mới là thành khó build.
+
+**Điểm chung của toàn bộ tướng chiến Stronghold** (đã kiểm wiki 09/10/2026): cả mười tướng Barbarian đều khởi điểm **4 kiếm / 0 giáp / 1 power / 1 knowledge**, và đều có **Offense**. Cộng Hall of Valhalla thì thành **5 kiếm ngày đầu**. Video chốt: **Stronghold là thành chém khoẻ nhất game nếu xét cùng level** (41:52–42:29, 47:57–48:30).
+
+| Tướng | Chuyên (đã kiểm) | Kỹ năng đầu (đã kiểm) | Video đánh giá |
+|---|---|---|---|
+| **Yog** | Cyclopes | Offense + **Ballistics** | Chuyên gần như không dùng được, vì ít ai nâng Cyclops — coi như mất một ô kỹ năng. Nhưng Ballistics hỗ trợ công thành, và 4 kiếm + Offense thì vẫn lợi hơn tướng thành khác (28:56–30:44) |
+| **Gurnisson** | Ballista | Offense + **Artillery** | Rất mạnh, nhưng chưa phải mạnh nhất thành — xem ngay dưới (30:44–33:38) |
+| **Jabarkas** | Orcs | Offense + **Archery** | Có sẵn hai kỹ năng mà thành khác phải nuôi mãi mới có. Mở đường "khá ổn", nhưng **không phải tướng late game** vì chuyên của nó là Orc — con bắn yếu nhất trong các quân mở đường (33:38–35:56) |
+| **Shiva** | Rocs | Offense + **Scouting** | **Một trong những tướng hàng đầu của thành ở đầu game** — đáp ứng cả hai việc: nhìn mở bản đồ và đánh mạnh (35:56–37:46) |
+
+**Gurnisson là tướng luyện Ballista mạnh nhất game**, và video giải thích bằng công thức (30:44–33:38):
+
+- **Ballista có 250 máu** — ngang Archangel (đã kiểm wiki), nên chịu sát thương rất tốt.
+- Sát thương Ballista **tính theo kiếm của tướng**, nên tướng nào tăng kiếm nhanh thì Ballista đau nhanh.
+- Stronghold tăng kiếm nhanh nhất game → Ballista của Gurnisson đau nhất.
+
+So sánh video đưa ra: **Christian** của Castle cũng chuyên Ballista nhưng khởi điểm **2 kiếm / 2 giáp** (đã kiểm wiki), còn Gurnisson **4 kiếm / 0 giáp** — nên Gurnisson hơn hẳn (32:52–33:38).
+
+> [!bom] Công thức sát thương Ballista mà video đọc là công thức bản SoD
+> Video nói sát thương gốc "2–3" (phụ đề nghe ra "23") nhân với **kiếm của tướng + 1**, và tính ra Ballista của Gurnisson 4 kiếm gây **10–15** sát thương (31:57–32:52). Đối chiếu wiki 09/10/2026 thì:
+>
+> - **SoD** — `(2–3) × (kiếm tướng + 1)`. Với 4 kiếm: **10–15**, khớp đúng số video đọc.
+> - **HotA** — `(2–3) × (kiếm tướng + 5)`. Với 4 kiếm: **18–27**.
+>
+> Vậy con số 10–15 **chỉ đúng với SoD**; ở HotA, Ballista của Gurnisson ngày đầu đã đau gần gấp đôi thế. Kết luận của video thì càng đứng vững hơn. Wiki cũng ghi **cả Artillery lẫn Archery đều tăng sát thương Ballista** — tức Gurnisson (Artillery) và Jabarkas (Archery) đều ăn vào nó.
+
+### 👣 Gretchin, Tyraxor, Krellion — và cái bẫy địa hình khi gom quân nhiều thành
+
+| Tướng | Chuyên (đã kiểm) | Kỹ năng đầu (đã kiểm) | Video đánh giá |
+|---|---|---|---|
+| **Gretchin** | Goblins | Offense + **Pathfinding** | Gom được tới **75 Goblin ngay ngày đầu** ❓ — cầm 75 con thì đi cày "mỏ vịt" được luôn trong tuần 1. Nếu không may thì cũng 35–45 con, vẫn đủ xoay sở khi bị quây thành (37:46–39:38, 41:13–41:52) |
+| **Tyraxor** | Wolf Riders | Offense + **Tactics** | Nâng Wolf Raider lên, cộng Tactics và Offense thì "chém đến Behemoth phải rụng" — vì Wolf Raider nâng cấp có kiếm cao hơn Behemoth chưa nâng ❓. Video xếp **gần bằng Shiva**, chỉ kém vì đa số chọn Thunderbird (39:38–40:42, 47:19–47:57) |
+| **Krellion** ❓ | Ogres | Offense + **Resistance** → **Interference** ở HotA ❓ | Đầu game không được ưu ái vì người chơi cơ bản đi Thunderbird, nên chuyên Ogre "không có đất dụng võ". Nhưng vẫn mạnh hơn tướng thành khác nhờ 4 kiếm + Offense (41:52–43:07) |
+
+**Tướng luyện quân cấp 1 mạnh hơn tưởng.** Video giải thích: Goblin yếu vì kiếm giáp thấp và máu ít, nhưng tướng chuyên luyện quân **cộng chỉ số theo level của tướng**, nên Goblin của Gretchin dần khoẻ hơn cả quân cấp 2 của thành khác (38:19–38:51). Video xếp Gretchin **chỉ sau Shakti** của Dungeon trong các tướng luyện quân cấp 1 — vì [[#⚔️ Tướng chiến Dungeon — Tactics cộng luyện quân là chỗ mạnh thật của thành\|Shakti có sẵn cả kiếm lẫn Tactics]] (38:51).
+
+**Cách dùng Wolf Raider cho đúng** (47:19–47:57): xếp Wolf Raider ở **cọc cuối cùng**, tách nhỏ các tốp khác đứng trước để ăn hết phản đòn, rồi mới cho Wolf Raider lao lên chém — vì chém hai lần mà ăn phản đòn thì lỗ.
+
+> [!bom] Chuyện "đất Stronghold trừ 25% nước đi khi mang quân thành khác" — đúng cơ chế, sai cách diễn đạt
+> Video nói đất Stronghold "trừ hình như 25% movement đối với việc mang quân thành khác đi cùng", nên gom quân ba tướng khác thành thì tướng đi chậm hẳn (40:10–41:13). Đối chiếu wiki 09/10/2026 thì **cơ chế đúng, nhưng không phải hình phạt riêng của Stronghold**:
+>
+> - Đất gốc của Stronghold là **Rough**, và Rough là loại đất **gây hình phạt nước đi cho mọi tướng**.
+> - Luật native terrain: *"a hero moving on a terrain that causes movement penalty with only creatures native to that terrain will not suffer movement penalty. Heroes with any creatures native to another terrain will suffer movement penalty."*
+>
+> Tức là: đi trên Rough mà **toàn bộ** quân là quân Stronghold thì **miễn** hình phạt; **lẫn một tốp quân thành khác là mất quyền miễn đó**. Castle hay Rampart không gặp chuyện này vì đất gốc của họ (Grass, Dirt) vốn không gây hình phạt. Con số **25% thì chưa kiểm được** ❓ — trang `Terrain` không ghi mức hình phạt cụ thể.
+
+### 🥇 Crag Hack — tướng chiến mạnh nhất game theo video, và phép tính 75% Offense
+
+Video dành gần năm phút cho đúng một tướng và gọi thẳng là **tướng thuần chiến mạnh nhất game**, cùng hàng với **Tazar** của Fortress (43:07–43:46).
+
+Chuyên của Crag Hack là **Offense**, và wiki ghi đúng công thức video dùng: *"Receives a 5% per level bonus to Offense skill percentage"* (đã kiểm 09/10/2026). Phép tính video tự làm, và nó **khớp hoàn toàn** (44:24–45:06):
+
+- Expert Offense cho **+30%** sát thương cận chiến.
+- Crag Hack ở **level 30** → chuyên cộng thêm **150%** vào chính con số đó.
+- 30% × (1 + 1,5) = **75%**.
+
+Video nhấn mạnh đây là **nhân vào tỉ lệ của kỹ năng, không phải cộng thẳng** — nên càng lên level càng giãn cách với tướng khác.
+
+**Nhược điểm của Crag Hack là giáp 0.** Video đặt nó vào một quan niệm chung về tướng: có người thích thủ cao, có người thích công cao, có người cần cân bằng mới đánh bền. Crag Hack **công cực mạnh thì phải bù bằng thủ yếu** — nếu nó mạnh cả hai thì không ai chơi được với nó nữa (45:06–45:49).
+
+Video cũng nói Crag Hack **đáng mua kể cả khi chơi thành khác**: ví dụ chơi Necropolis thì giai đoạn cày xương vẫn dùng tướng Necropolis, nhưng vào late game thì **nuôi Crag Hack lên để cầm Skeleton mà chém** (43:46–44:24).
+
+### 🔮 Tướng phép Stronghold — Gird và Vey, hai con mà video gọi là phèn
+
+Video mở đoạn này bằng một nhận xét về cân bằng game: Stronghold "rất bạo lực", thiên hẳn về công, nên **tướng phép của nó phải phèn hơn tướng phép thành khác** (48:30–49:05).
+
+| Tướng | Chuyên (đã kiểm) | Kỹ năng đầu (đã kiểm) | Video đánh giá |
+|---|---|---|---|
+| **Gird** | Sorcery | Wisdom + **Sorcery** | Chỉ số "rất điêu": **2 kiếm / 1 giáp / 1 power / 1 knowledge** (đã kiểm). So với Warlock có 3 power ngay từ đầu ❓ thì quá phèn. Video **không đánh giá cao** (49:05–49:56) |
+| **Vey** | Ogres | Wisdom + **Leadership** | Trường hợp hiếm: **tướng phép mà có Leadership**. Nhưng Stronghold gần như không bao giờ lên Leadership, nên nó chỉ còn tác dụng tăng morale — video nói "nghe sai sai" (49:56–50:40) |
+| **Terek** | Haste | Wisdom + **Tactics** | Chuyên Haste nghe hay, nhưng **power quá thấp để dùng nhiều phép** — niệm một hai lần là hết mana, lại phải chạy về thành. Cuối cùng vẫn quay ra đấm đá (57:02–57:44) |
+| **Oris** | Eagle Eye | Wisdom + **Eagle Eye** | Vô dụng trong PvP vì **chỉ học được phép sau khi trận đấu kết thúc**, mà PvP thì đánh xong không đổi tướng. Với map One Hero ❓ thì càng phế (1:01:06–1:01:38) |
+
+Video chốt cả mạch bằng một câu: `Battle Mage` dịch ra là **pháp sư chiến**, không phải pháp sư thuần — nên đừng trông vào phép ở thành này (57:44–58:24).
+
+### 📉 Dessa và Logistics — tướng phép duy nhất đáng giá, và chỗ HotA nép mạnh nhất
+
+Video nói Dessa là **tướng phép duy nhất của Stronghold có giá trị thật**, mà giá trị đó lại **chẳng liên quan gì đến phép** — nó nằm ở chuyên **Logistics** (51:12–51:53, 57:44–58:24).
+
+**Logistics là kỹ năng bắt buộc.** Video xếp nó vào nhóm phải lên bất kể tướng chiến hay tướng phép, tướng chính hay tướng phụ (52:37–53:18). Lý do: đi xa hơn thì ăn được nhiều đồ hơn, cày được nhiều hơn — tuy đến giữa game, khi quân đã mạnh để càn hết quái đứng đường, thì **đánh đấm mới là chuyện chính**, Logistics chỉ giúp bớt ngày (55:45–56:23).
+
+Chuyên của Dessa, như Crag Hack, là **nhân vào tỉ lệ kỹ năng**: *"Receives a 5% per level bonus to Logistics skill percentage"* (đã kiểm wiki 09/10/2026).
+
+> [!bom] Con số Logistics của HotA trong video không khớp wiki — và phép tính đổi theo
+> Video nói Expert Logistics ở SoD là **30%**, còn HotA nép xuống **15%**, rồi tính Dessa level 30 chỉ còn đi xa hơn tướng khác **~36%** (53:18–54:55). Đối chiếu wiki 09/10/2026, trang `Logistics` ghi:
+>
+> | Bậc | SoD | HotA |
+> |---|---|---|
+> | Basic | 10% | 5% |
+> | Advanced | 20% | 10% |
+> | Expert | **30%** | **20%** |
+>
+> Vậy **phần SoD của video đúng**, nhưng HotA là **20%**, không phải 15%. Tính lại Dessa level 30 ở HotA: 20% × (1 + 1,5) = **50%**, không phải 36%.
+>
+> ❓ Còn một chỗ chưa khớp: trang `Dessa` lại dùng ví dụ *"At level 20, Dessa gains 60%"*, tức vẫn tính theo mức 30% của SoD. Hai trang **chưa nhất quán**, nên con số 20% để ở mức "wiki ghi thế", chưa chốt hẳn. Phần **cơ chế** `× (1 + 0,05 × level)` thì xác nhận chắc.
+>
+> Wiki cũng thêm một chi tiết video không nói: HotA **nép Logistics đồng thời buff Pathfinding**, nên trên đất Rough và Wasteland thì **Pathfinding đã tốt hơn Logistics**. Với Stronghold — đất gốc là Rough — đây là chỗ đáng chú ý, và nó làm **Gretchin (có sẵn Pathfinding) lợi hơn** so với bản cũ.
+
+**Kết luận của video sau phép tính:** ở HotA, Dessa không còn mạnh vượt trội như ở SoD, và cả dòng tướng chuyên kỹ năng cũng vậy — nên **tướng giá trị nhất vẫn quay về Crag Hack**. Nếu để đánh đấm thì nuôi Crag Hack, không nuôi Dessa: Dessa dù sao vẫn là tướng phép, kiếm giáp kém Crag Hack rất nhiều (55:45–57:02).
+
+### 🚫 Nhược điểm duy nhất của Stronghold — Mage Guild chỉ lên tới cấp 3
+
+Đây là chỗ video để dành đến gần cuối clip, và gọi thẳng là **nhược điểm duy nhất tồn tại của thành này** (58:24–59:03). **Đã kiểm wiki 09/10/2026: Stronghold và Fortress là hai thành duy nhất chỉ lên được Mage Guild cấp 3.**
+
+Và video giải thích nó như một **quyết định cân bằng game, không phải thiếu sót**: nếu một tướng chiến mạnh như Crag Hack mà **học được phép cấp cao** — nhất là Town Portal để không phải chạy bộ — thì đó là nỗi kinh hoàng cho mọi thành khác. Hai tướng **Crag Hack (Stronghold) và Tazar (Fortress)** mạnh tới mức **buộc phải hạn chế phép**, và đúng hai thành của họ là hai thành bị chặn ở Mage Guild 3 (58:24–59:03).
+
+Cộng với việc tướng phép Stronghold vốn đã phèn, video chốt: **lối chơi tướng phép ở thành này không đáng chơi** (59:03).
+
+### 💥 Zubin và Gundula — hai tướng phép còn dùng được
+
+| Tướng | Chuyên (đã kiểm) | Kỹ năng đầu (đã kiểm) | Video đánh giá |
+|---|---|---|---|
+| **Zubin** | Precision | Wisdom + **Artillery** | Chuyên đúng thứ quân bắn cần ở đầu game. Nhưng vì là tướng phép của thành này nên vẫn bị coi là phế — dù video thấy **còn dùng được**, hơn ba con Gird/Vey/Oris (59:03–59:44) |
+| **Gundula** | Offense | Wisdom + **Offense** | **Một trong hai tướng phép mạnh nhất thành**, cùng Dessa. Có sẵn phép **Slow** (đã kiểm), khởi điểm **2 kiếm** nên luyện Offense vẫn ổn (59:44–1:00:25) |
+
+**Precision cộng +6 kiếm cho quân bắn** ở bậc Advanced và Expert (Basic +3) — đã kiểm wiki 09/10/2026. Video đọc số này vỡ ("8 kiếm 6 kiếm") nhưng **mức +6 thì khớp**.
+
+**Gundula là một trong ba tướng chuyên Offense của cả game** — cùng Crag Hack và một tướng của Cove ❓ (59:44–1:00:25). Video nói Gundula **đầu game còn lợi hơn Crag Hack**, vì có sẵn Slow: Slow quân địch, rồi cho Thunderbird chạy lên đập xong bỏ chạy — ăn khớp đúng với dàn quân chạy xa của Stronghold (1:00:25–1:01:06). Về late game thì Gundula không bằng Crag Hack, vì tướng phép lên kiếm không mạnh bằng (1:00:25–1:01:06).
+
+### 🏁 Chốt — Stronghold mạnh ở tướng, bù cho quân yếu từng con
+
+Video tự tổng kết cả clip bằng đúng một cân bằng (1:02:17–1:03:37):
+
+- **Tướng chiến** — con nào cũng có **Offense và 4 kiếm**, như tướng Necropolis con nào cũng có Necromancy hay tướng Fortress con nào cũng có Armorer. Video gọi Stronghold là **một trong những thành có dàn tướng mạnh nhất game**, mạnh **đồng đều**.
+- **Tướng phép** — chỉ **Dessa và Gundula** dùng được.
+- **Quân** — từng con xét riêng thì tầm thường, **ghép lại thì rất mạnh**; cộng Behemoth phá 80% giáp thì cả đạo quân rất đáng sợ.
+
+Và lời khuyên cuối, áp cho mọi thành chứ không riêng Stronghold (1:04:16–1:04:48): **build theo điểm mạnh của thành, đừng quá quan trọng điểm yếu**. Với Stronghold thì điểm yếu chỉ có một, là Mage Guild không lên được cấp 4–5.
+
+Tác giả cũng nói rõ giới hạn của chính clip: **chỉ ở mức cơ bản**, dành cho người mới; người chơi cao thủ thì "không có gì để xem". Tự nhận trình mình có hạn, chỉ nói những gì đã xem người khác chơi và tự chơi thử, và mời người chơi giỏi hơn bổ sung ở phần bình luận (1:03:37–1:04:16, 1:05:25–1:05:48). Tác giả còn tự nhận **Stronghold hơi ngược phong cách của mình** — vì vốn thích thành thiên về thủ như Rampart — nên phần nhận xét về thành này có thể thiếu sót (1:04:48–1:05:25).
+
+> [!video] Những chỗ còn treo sau video 9
+> - **Lượng quân khởi điểm của Gretchin** ❓ — video nói gom tới 75 Goblin ngày đầu, không đối chiếu được.
+> - **Mức hình phạt nước đi của đất Rough** ❓ — video nói 25%, trang `Terrain` không ghi con số.
+> - **Expert Logistics ở HotA** ❓ — trang `Logistics` ghi 20%, trang `Dessa` vẫn tính theo 30%; video nói 15%. Cả ba không khớp nhau.
+> - **Giá Cyclops Cave và Behemoth Lair** ❓ — hai trang wiki ghi lệch nhau về chỗ HotA đặt 20 Crystal.
+> - **Kỹ năng đầu của Krellion ở HotA** ❓ — video nói nó đổi sang Interference; chỉ xác nhận được mẫu đó ở Saurug.
+> - **Tướng Cove chuyên Offense** ❓ — video nhắc nhưng phụ đề vỡ hẳn tên.
+> - **Số lượt bắn và máu của Orc nâng cấp** ❓ — video nói "chỉ có hai cái máu", nghe không ra con số.
+> - **Map One Hero của HotA** ❓ — video nhắc như một chế độ, chưa kiểm.
+
+### 🎥 Mốc thời gian — video 9
+
+| Mốc | Nội dung |
+|---|---|
+| 0:00 | Mở đầu — ba phần: công trình, quân, tướng |
+| 0:31 | Vì sao nói công trình trước: nó quyết định đường lên quân |
+| 1:11 | Các công trình chung — Citadel, Tavern, Blacksmith, Marketplace, Mage Guild |
+| 1:11 | **Hall of Valhalla** — +1 kiếm, tướng có 5 kiếm ngày đầu |
+| 1:56 | **Escape Tunnel** — tướng thủ thành bỏ chạy được |
+| 2:12 | Vì thế công thành Stronghold **phải đeo xích** |
+| 2:37 | **Freelancer's Guild** — bán quân lấy tài nguyên |
+| 3:55 | **Ballista Yard** — thành duy nhất mua được cả hai cỗ máy |
+| 4:39 | Ammo Cart ghép với quân bắn — bắn vô hạn |
+| 5:00 | Quân Stronghold yếu về chỉ số, nên được nhà horde |
+| 5:30 | **Mess Hall** — +8 Goblin/tuần |
+| 5:45 | Người mới build Stronghold khó hơn Castle, Rampart |
+| 6:35 | Stronghold lên quân cấp 7 nhanh và rẻ nhất |
+| 7:14 | So chi phí quân cấp 7 với Castle, Rampart, Tower |
+| 7:54 | Hai đường build — nhiều đá đi Cliff Nest, nhiều gỗ đi Orc Tower |
+| 8:36 | **Cyclops Cave** — chỗ nghẽn đá duy nhất |
+| 9:48 | Chốt phần công trình |
+| 10:29 | Bắt đầu phần quân — quân cấp đầu không có gì đặc biệt |
+| 11:11 | Orc chỉ bắn một tên, lại ở cấp 3 nên tuần đầu thường không có quân bắn |
+| 11:51 | **Wolf Raider** chém hai lần, nhưng nâng phải nâng Goblin Barracks trước |
+| 13:15 | Vì sao đa số bỏ qua, đi thẳng Cliff Nest |
+| 13:57 | Nâng cấp ở Stronghold vẫn xứng đáng — khác Castle |
+| 15:03 | Cách dùng Wolf Raider: đánh hết phản đòn trước |
+| 15:34 | Mở đường bằng quân cận chiến — chỗ khó nhất với người mới |
+| 16:05 | **Orc** — quân cấp 3 chán nhất game |
+| 17:25 | **Ogre Magi** — 60 máu, 13 kiếm |
+| 18:04 | **Bloodlust** +6 kiếm, và combo buff cho Behemoth |
+| 18:46 | Hai quân giá trị nhất thành: Ogre Magi và Behemoth |
+| 19:25 | **Thunderbird** — và Lightning Strike đánh trước phản đòn |
+| 20:03 | **Shiva** — +1 speed cho Thunderbird, và Scouting ở HotA |
+| 20:41 | **Cyclops** — phá tường thành |
+| 21:22 | Chỉ Thunderbird bay được, nên công thành buộc phải có Cyclops |
+| 21:54 | Vì sao ít người nâng Cyclops — speed 6 tụt nước đi |
+| 22:33 | **Behemoth** — phá 40% / 80% giáp |
+| 23:16 | Hai ví dụ tính giáp: Archangel và rồng |
+| 23:56 | Máu 300 mà "giấy" — và luật giết Behemoth trước |
+| 24:36 | Tổng kết quân — từng con tầm thường, ghép lại rất mạnh |
+| 25:42 | Nhiều cách chơi Stronghold |
+| 26:14 | Behemoth để gây sát thương, không phải để lấy speed |
+| 26:54 | Nhưng quân chủ lực trận cuối ở 8XM8 vẫn là "vịt" và Archangel |
+| 27:36 | Chuyển sang phần tướng — càng về sau cách đánh càng đa dạng |
+| 28:56 | **Yog** — chuyên Cyclopes, gần như không dùng được |
+| 30:44 | **Gurnisson** — chuyên Ballista |
+| 31:57 | Ballista 250 máu, và công thức sát thương theo kiếm tướng |
+| 32:52 | So Gurnisson với **Christian** của Castle |
+| 33:38 | **Jabarkas** — chuyên Orcs, có sẵn Offense + Archery |
+| 35:56 | **Shiva** — một trong những tướng hàng đầu đầu game |
+| 37:46 | **Gretchin** — chuyên Goblins, gom 75 con ngày đầu |
+| 38:19 | Vì sao tướng luyện quân cấp 1 mạnh hơn tưởng |
+| 39:38 | **Tyraxor** — chuyên Wolf Riders |
+| 40:10 | Cái bẫy địa hình khi gom quân nhiều thành |
+| 41:52 | **Krellion** ❓ — chuyên Ogres, và Interference của HotA |
+| 42:29 | Interference hạ power tướng địch |
+| 43:07 | **Crag Hack** — tướng thuần chiến mạnh nhất game, cùng hàng Tazar |
+| 43:46 | Vì sao nên mua Crag Hack kể cả khi chơi thành khác |
+| 44:24 | Phép tính 5%/level — level 30 thành 75% Offense |
+| 45:06 | Nhược điểm giáp 0, và quan niệm về cân bằng công/thủ |
+| 47:19 | Cách xếp cọc cho Wolf Raider |
+| 47:57 | Tướng chiến Stronghold mạnh đồng đều |
+| 48:30 | Chuyển sang tướng phép — **Gird** |
+| 49:56 | **Vey** — tướng phép mà có Leadership |
+| 51:12 | **Dessa** — chuyên Logistics |
+| 52:37 | Logistics là kỹ năng bắt buộc với mọi tướng |
+| 53:18 | Phép tính Dessa, và chỗ HotA nép Logistics |
+| 55:45 | Ở HotA, tướng giá trị nhất quay về Crag Hack |
+| 57:02 | **Terek** — chuyên Haste nhưng power quá thấp |
+| 57:44 | `Battle Mage` là pháp sư **chiến**, không phải pháp sư thuần |
+| 58:24 | **Nhược điểm duy nhất: Mage Guild chỉ cấp 3** — và lý do cân bằng game |
+| 59:03 | **Zubin** — chuyên Precision |
+| 59:44 | **Gundula** — chuyên Offense, có sẵn Slow |
+| 1:00:25 | Vì sao Gundula đầu game lợi hơn Crag Hack |
+| 1:01:06 | **Oris** — Eagle Eye, chỉ học phép sau trận |
+| 1:02:17 | Chốt — tướng mạnh bù cho quân yếu từng con |
+| 1:03:37 | Tác giả nói rõ clip chỉ ở mức cơ bản |
+| 1:04:48 | Tác giả tự nhận Stronghold ngược phong cách của mình |
+| 1:05:25 | Mời người chơi giỏi hơn bổ sung ở bình luận |
+
+### ❓ Bảng giải mã phụ đề — video 9 (Stronghold)
+
+> [!tip] Phiên này mở được wiki, nên bảng này có cột "Xác nhận" thật
+> Toàn bộ **13 tên tướng Stronghold**, tên quân, tên công trình, công thức và chỉ số đã đối chiếu `heroes.v.thelazy.net` ngày **09/10/2026**. Chỗ nào còn ❓ là chỗ thật sự chưa kiểm được.
+
+**Tên tướng.** Phụ đề vỡ nặng nhất ở đây — `Gurnisson` một mình ra sáu cách nghe. Nhưng **chuyên môn mà video mô tả khớp một-một với hồ sơ tướng trên wiki**, nên gần như tên nào cũng chốt được:
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "iOS" · "iốt" · "Osaka" · "con nợ" | **Yog** | **Xác nhận** — chuyên Cyclopes, có **Offense + Ballistics**, khớp đúng chỗ video nói "có Ballistics và Cyclops" |
+| "cũng đi sơn" · "gudition" · "guitar" · "godison" · "culicon" · "corrison" | **Gurnisson** | **Xác nhận** — chuyên Ballista, có **Offense + Artillery**, khởi điểm 4 kiếm / 0 giáp |
+| "Cristian" · "con gì thành thiên thần mà tự nhiên mình quên tên" | **Christian** (Castle) | **Xác nhận** — Knight chuyên Ballista, **2 kiếm / 2 giáp**, đúng chỗ video đem ra so với Gurnisson (video đọc "2/1", wiki ghi 2/2) |
+| "dao ba cast" · "giáp ba các" | **Jabarkas** | **Xác nhận** — chuyên Orcs, có **Offense + Archery** |
+| "xìva" · "conshiba" · "sim set" | **Shiva** | **Xác nhận** — chuyên Rocs, có **Offense + Scouting**, khớp cả hai thứ video khen |
+| "rất chi" · "ghép phim" · "cá chim" | **Gretchin** | **Xác nhận** — chuyên Goblins, có **Offense + Pathfinding** |
+| "Ti ra Xoong" · "tia sau" · "tyrannosaur" · "tôi ra Sola" | **Tyraxor** | **Xác nhận** — chuyên Wolf Riders, có **Offense + Tactics**, khớp đúng chỗ video nói "Tactics vào Offense vào con này" |
+| "creation" · "con tướng skin luyện Ok" | **Krellion** ❓ | **Đoán** — Krellion là tướng Barbarian chuyên **Ogres** và có **Basic Resistance**, khớp mô tả "chuyên con mà đầu game không có đất dụng võ" cộng chỗ video nói HotA đổi kỹ năng đó sang Interference. Nhưng "Ok" trong clip này chỗ khác lại là **Orc**, nên chưa chốt hẳn |
+| "con Cell" | **Giselle** (Rampart) | **Xác nhận** — tướng **chuyên Interference**, cộng **5%/level**, khớp đúng chỗ video nói "tướng luyện Interference thì tăng theo level, rất kinh khủng" |
+| "các khách" · "crack" · "clark hack" · "Thử Thách" | **Crag Hack** | **Xác nhận** — chuyên **Offense**, *"5% per level bonus to Offense skill percentage"*, khớp đúng phép tính 75% của video |
+| "ta ra" · "con ta già" | **Tazar** (Fortress) | **Xác nhận** — khớp cả hai chỗ: "hai tướng thuần chiến nổi tiếng nhất" và "Crag Hack thành gấu với Tazar thành đầm lầy" ở đoạn Mage Guild |
+| "con kít" · "Kid" | **Gird** | **Xác nhận** — chuyên **Sorcery**, có **Wisdom + Sorcery**, và đúng **2 / 1 / 1 / 1** như video đọc. "chiếc quy" chính là `Sorcery` |
+| "v này" · "con vây" | **Vey** | **Xác nhận** — chuyên **Ogres**, có **Wisdom + Leadership**, khớp đúng chỗ video lạ lùng vì "tướng phép mà có Leadership" |
+| "condessa" · "desca" · "deskha" · "tessa" · "det ra Betta" | **Dessa** | **Xác nhận** — chuyên **Logistics**, *"5% per level bonus to Logistics skill percentage"* |
+| "con thít" · "con t-rex" · "Hamster" | **Terek** / **Haste** | **Xác nhận** — Terek chuyên **Haste**, có **Wisdom + Tactics**, khớp cả ba thứ video liệt kê (Haste, Tactics, Wisdom). "Hamster" là `Haste` |
+| "oris" · "skin Eagle ai" | **Oris** / **Eagle Eye** | **Xác nhận** — chuyên **Eagle Eye**, có **Wisdom + Eagle Eye** |
+| "zubin" | **Zubin** | **Xác nhận** — chuyên **Precision**, có **Wisdom + Artillery** |
+| "Good good" · "gudola" · "gondula" · "khu đô la" · "gold la" · "buôn đô la" | **Gundula** | **Xác nhận** — chuyên **Offense**, có **Wisdom + Offense**, **2 kiếm / 1 giáp**, và **có sẵn phép Slow** — khớp đúng cả ba thứ video nói |
+| "sắcy" | **Shakti** (Dungeon) | **Xác nhận** — đã chốt ở [[#❓ Bảng giải mã phụ đề — video 8 (Dungeon)\|bảng giải mã video 8]]: chuyên Troglodytes, có Offense + Tactics |
+| "con gan tha" | **Galthran** (Necropolis) | **Xác nhận** — đã chốt ở [[#❓ Bảng giải mã phụ đề — video 7 (Necropolis)\|bảng giải mã video 7]] |
+| "con Madrid" · "Won lock" | Một **Warlock** có 3 power từ đầu ❓ | **Chưa kiểm** — video đem ra so với Gird, không nêu rõ tướng nào |
+| "con Zidane" | Một tướng phép mạnh hơn tướng Stronghold ❓ | **Chưa kiểm** — phụ đề chỉ còn cái tên |
+| "Winner gunna" · "Luna" · "ki Ê" | ❓ | **Chưa kiểm** — đoạn 56:23–57:02 vỡ hẳn, chỉ còn ý "tướng thuần chiến lên kiếm giáp khoẻ hơn Dessa" |
+| "con gấu kristma Thiên Hương" · "bột kem nứt" | ❓ — có thể là **Saurug** | **Đoán** — Saurug là Battle Mage còn lại của Stronghold (chuyên Gems), và wiki ghi nó có **Resistance ở SoD, Interference ở HotA**. Nhưng đoạn 1:01:38 vỡ tới mức không chốt được |
+| "con đây copy" (tướng Cove chuyên Offense) | ❓ | **Chưa kiểm** — video nói có ba tướng chuyên Offense: Crag Hack, Gundula, và một tướng Cove |
+| "con trúng Luyện iacin" · "con im" · "con Italy" | Tướng Inferno luyện quân cấp 1 ❓ | **Chưa kiểm** — chỉ dùng làm mốc so sánh với Gretchin |
+| "con ăn xin" · "con ăn kiêng" · "con Dragon" | Tướng Fortress luyện quân cấp 1 ❓ | **Chưa kiểm** — cũng chỉ là mốc so sánh |
+
+**Tên quân, công trình, kỹ năng và cơ chế:**
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "stronghoo" · "thành gấu" · "thành gỗ" · "thành đồ" | **Stronghold** | **Xác nhận** — lineup khớp đúng Stronghold |
+| "hai là ba la" · "Vang Hanel" | **Hall of Valhalla** | **Xác nhận** — 1.000 vàng, +1 kiếm vĩnh viễn cho tướng ghé thăm |
+| "Escape tool" · "Escape toolal" · "cái cống để trốn" | **Escape Tunnel** | **Xác nhận** — 2.000 vàng + 5 gỗ + 5 đá, tướng thủ thành bỏ chạy được |
+| "freelancer Gold" · "fri lanter" | **Freelancer's Guild** | **Xác nhận** — 1.000 vàng, tướng ghé thăm bán được quân |
+| "Paris" · "Palestine" · "palastica" · "parisstar" · "Pasteur" · "bagistan" | **Ballista** / **Ballista Yard** | **Xác nhận** — Ballista Yard 1.000 vàng + 5 gỗ; Ballista 250 máu |
+| "amocast" · "album Cát" · "ampocus" · "armork" | **Ammo Cart** | **Xác nhận** — cho quân bắn bắn vô hạn |
+| "citato" | **Citadel** | **Xác nhận** — nâng cấp thành và tăng lượng quân, khớp đúng mô tả của video |
+| "blackmie" · "Black Smith" | **Blacksmith** | **Xác nhận tên, lệch phần việc** — Blacksmith bán cỗ máy mặc định của thành (Ammo Cart), không phải chỗ sinh ra Ballista như video nói |
+| "Marco le" · "maculele" · "Marco level" | **Mage Guild** | **Xác nhận** — Stronghold chỉ lên được **cấp 3**, đúng như video nói |
+| "Google link" · "goprotein" · "gopline" · "gobin" · "khu bin" | **Goblin / Hobgoblin** | **Xác nhận** — Hobgoblin speed 7, nhà horde Mess Hall +8/tuần |
+| "con chó" · "úp pen" · "út Raider" · "Út về đơ" · "ốp Rider" · "búp bê đơn" | **Wolf Rider / Wolf Raider** | **Xác nhận** — Wolf Raider chém hai lần, speed 8, và **nâng phải nâng Goblin Barracks trước** |
+| "off" · "ốc" · "org" · "ort" | **Orc / Orc Chieftain** | **Xác nhận** — quân bắn **cấp 3**, chỉ bắn một tên |
+| "Ok Fox" · "Ok force" · "Organ" | **Orc Tower** | **Xác nhận** — nhà quân bắn cấp 3, đường build "nhiều gỗ" |
+| "Ori" · "order" · "Orient" · "Overlays" · "augan" · "augin" | **Ogre / Ogre Magi** | **Xác nhận** — cấp 4, 40→60 máu, 13 kiếm. Video gọi lẫn với Orc suốt clip; xem callout ở [[#🏗️ Stronghold lên quân cấp 7 rẻ và nhanh nhất — hai đường build theo gỗ hay theo đá\|phần build]] |
+| "rút search" · "boots" · "bút Zace" · "bút best" · "brutus" · "Boruto" · "ropet" | **Bloodlust** | **Xác nhận** — Ogre Magi niệm ở bậc **Advanced**, **3 lần/trận**, **+6 kiếm** |
+| "chim sét" · "clip led" · "clip Nest" · "clip net" · "phim sex" · "chính sách" · "Chính xác" | **Thunderbird / Cliff Nest** | **Xác nhận** — speed 11, 60 máu |
+| "sẽ thẳng" · "xếp thẳng" | **Lightning Strike** | **Xác nhận** — 20% xác suất, đánh trước phản đòn, sát thương **10 × số con** |
+| "cyclub" · "sẽ lốp" · "siro lốp" · "sạc lốp" · "size lốp" · "concecloud" | **Cyclops / Cyclops King** | **Xác nhận** — bắn và **phá tường thành**, speed 6 / 8 |
+| "b21" · "cb1s" · "B1" · "con gấu" | **Behemoth / Ancient Behemoth** | **Xác nhận** — bỏ qua **40% / 80%** giáp, 160 / 300 máu |
+| "con thần gió" (25 máu, công 9 thủ 9) | **Storm Elemental** (Conflux) | **Xác nhận** — khớp đúng cả ba con số video đọc |
+| "con bướm" | **Pixie / Sprite** (Conflux) | **Xác nhận** — quân cấp 1 nhanh nhất, đúng chỗ video so với Hobgoblin |
+| "con sỉa" · "con xỉa" | **Pikeman / Halberdier** (Castle) | **Xác nhận** — speed 4 / 5, khớp đoạn so speed |
+| "con cung đồng" · "khung gỗ" | **Grand Elf** (Rampart) / **Marksman** (Castle) | **Xác nhận** — hai quân bắn hai lần mà video lấy làm mốc |
+| "con mắt" | **Evil Eye** (Dungeon) | **Xác nhận** — 22 máu khi nâng cấp, đúng số video đọc |
+| "ma cây" | **Dendroid** (Rampart) | **Xác nhận** — con mà Ammo Cart + Orc cày được "cả nghìn" |
+| "con ngựa" | **Cavalier** (Castle) | **Xác nhận** — mốc "30 gỗ mới lên nổi" |
+| "Off fan" · "Office" · "off fance" | **Offense** | **Xác nhận** — Expert +30% sát thương cận chiến |
+| "actuary" | **Archery** | **Xác nhận** — và wiki ghi nó cũng tăng sát thương Ballista |
+| "ta tích" · "dung tích" · "Tab tích" | **Tactics** | **Xác nhận** |
+| "whispdom" · "with Dom" · "whispon" | **Wisdom** | **Xác nhận** |
+| "littleship" · "lên ship" · "bồ câu" | **Leadership** | **Xác nhận** — ở Stronghold chỉ còn tác dụng tăng morale |
+| "Amore amaz" · "skin amor" | **Armorer** | **Xác nhận** — kỹ năng video nói không nên bỏ |
+| "chiếc quy" | **Sorcery** | **Xác nhận** — chuyên của Gird |
+| "interprency" · "interpolency" · "intervene sim" | **Interference** | **Xác nhận công thức, lệch con số** — wiki ghi **Basic 10% / Adv 20% / Expert 30%** hạ power tướng địch. Video tự không chắc ("5 10 20 … 30% … 20%, mình không nhớ rõ") |
+| "Magic Custom" | **Resistance** ❓ | **Đoán** — video nói HotA thay kỹ năng này bằng Interference, và wiki đúng là ghi Saurug đổi Resistance → Interference giữa hai bản |
+| "pers" · "power skill" · "Paul Skin" | **Spell Power** | **Xác nhận** |
+| "Complex" | **Knowledge** | **Xác nhận** — khớp chuỗi "2 kiếm 1 thủ 1 power 1 Complex" của Gird |
+| "Logistic" | **Logistics** | **Xác nhận, lệch con số HotA** — xem callout ở [[#📉 Dessa và Logistics — tướng phép duy nhất đáng giá, và chỗ HotA nép mạnh nhất\|phần Dessa]] |
+| "đeo xích" | **Shackles of War** | **Xác nhận** — món đồ chặn tướng địch bỏ chạy, đúng vai mà video mô tả |
+| "bản Shadow" · "bản sơ đồ bét" · "bản sô-labes" · "bản severus" · "bản sẽ lép" · "bản Sports A" | **Shadow of Death** | **Xác nhận** — khớp mọi chỗ video đối lập nó với "bản HotA" |
+| "bản H A" · "bản hot a" · "bản Honda" · "bản HD" · "bảng hoa" | **Horn of the Abyss** | **Xác nhận** |
+| "thành cover" | **Cove** | **Xác nhận** — thành riêng của HotA |
+| "mắt 8x và 8" · "map 8x và 8" | **map 8XM8** | **Xác nhận** — đúng map mà [[#📑 Mục lục\|video 12 của playlist]] dành riêng một clip để nói |
+| "map One Hero" · "hot a10 nó có pháp One Hero" | Một chế độ **chỉ cho phép một tướng** ❓ | **Chưa kiểm** — video dùng nó làm ví dụ chỗ Eagle Eye vô dụng |
+| "mỏ Xeko lốt" | **Mỏ Cyclops ngoài bản đồ** ❓ | **Đoán** — video nói mỏ này chỉ HotA mới có; chưa mở trang nhà lính ngoài thành ra đối chiếu |
+| "trừ 25% movers" | **Hình phạt nước đi của đất Rough** ❓ | **Xác nhận cơ chế, chưa kiểm con số** — xem callout ở [[#👣 Gretchin, Tyraxor, Krellion — và cái bẫy địa hình khi gom quân nhiều thành\|phần địa hình]] |
+| "+1 speed trên đất của nó" | **Luật native terrain** | **Xác nhận** — *"+1 attack, +1 defense and +1 speed"* khi đánh trên đất gốc; đất gốc của Stronghold là **Rough** |
 
 ---
 
