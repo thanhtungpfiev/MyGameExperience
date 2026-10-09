@@ -100,20 +100,15 @@ Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42�
 
 | | Cột 55 | Cột 56 | Cột 57 | Cột 58 |
 |---|---|---|---|---|
-| **Hàng 14** | ⬜ `Động Vật` | ⬛ `Chế Tác, Trang Trí` ⚠️ | 🟥 `Cổ Vật, Sách` | 🟨 `Trang Bị` |
-| **Hàng 15** | 🟥 `Đồ ăn` | 🟪 `Hàng Thủ Công` | 🟧 `Hái Lượm` | 🟫 `Hạt Giống, Phân Bón` |
-| **Hàng 16** | 🟦 `Cá` | 🟩 `Hoa, Rau, Trái Cây` | ⬜ `Khoáng Sản` | 🟫 `Tài Nguyên` |
+| **Hàng 14** | <span style="color:#FEFEFE">■</span> `Động Vật`<br>ô 20 · Trắng | <span style="color:#404040">■</span> `Chế Tác, Trang Trí`<br>ô 17 · Xám đậm | <span style="color:#870023">■</span> `Cổ Vật, Sách`<br>ô 11 · Đỏ mận | <span style="color:#FFA712">■</span> `Trang Bị`<br>ô 8 · Cam |
+| **Hàng 15** | <span style="color:#FF0000">■</span> `Đồ ăn`<br>ô 10 · Đỏ | <span style="color:#8F00FF">■</span> `Hàng Thủ Công`<br>ô 15 · Tím | <span style="color:#FF6912">■</span> `Hái Lượm`<br>ô 9 · Cam đỏ | ▢ `Hạt Giống, Phân Bón`<br>ô 0 · Không màu (gỗ) |
+| **Hàng 16** | <span style="color:#5555FF">■</span> `Cá`<br>ô 1 · Xanh dương | <span style="color:#00AA00">■</span> `Hoa, Rau, Trái Cây`<br>ô 5 · Xanh lá | <span style="color:#C8C8C8">■</span> `Khoáng Sản`<br>ô 19 · Xám nhạt | ▢ `Tài Nguyên`<br>ô 0 · Không màu (gỗ) |
 
-⚠️ Tên rương ở ô (56, 14) trong game đang dính một dấu `` ` `` ở đầu (`` `Chế Tác, Trang Trí ``) — sửa lại trong Chests Anywhere cho khớp.
+**Đồ còn nằm lệch rương** so với bảng nhãn (theo quicksave Xuân 24, 08:23):
 
-**Đồ còn nằm lệch rương** so với bảng nhãn (theo quicksave Xuân 24):
+- [ ] `Đồ ăn` (55, 15): Lục tảo, Bạch tảo, Rong biển, Thạch sông, Thạch Biển, Thạch Hang Động, các loại Trứng cá → `Cá`; Joja Cola (nhãn Rác) → `Tài Nguyên`. ⚠️ `Cá` đã dùng **30/36 ô**, thêm 13 chồng là tràn — đổi `Cá` sang **Rương lớn** trước.
 
-- [ ] `Chế Tác, Trang Trí` (56, 14) vẫn chứa đồ của rương Chiến Lợi Phẩm cũ: Mảnh xương vụn, Cánh dơi, Slime, Tinh chất mặt trời, Tinh chất hư không → `Tài Nguyên`; Mực mực → `Cá`.
-- [ ] `Đồ ăn` (55, 15): Lục tảo, Bạch tảo, Rong biển, Thạch sông, Thạch Biển, Thạch Hang Động, các loại Trứng cá → `Cá`; Joja Cola (nhãn Rác) → `Tài Nguyên`.
-- [ ] `Cổ Vật, Sách` (57, 14): Cọc dịch chuyển: Nông trại, Cọc dịch chuyển: Núi, Bình Đá đen, Đường rải sỏi, Đường lát gỗ → `Chế Tác, Trang Trí`.
-- [ ] `Trang Bị` (58, 14): Cột thu lôi → `Chế Tác, Trang Trí`.
-
-### Rương Automate — xanh lơ nhạt
+### Rương Automate — ô 2 · Xanh lơ nhạt
 
 | Tên rương | Ở đâu | Nối với |
 |---|---|---|
@@ -124,4 +119,4 @@ Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42�
 
 Sau này có Thùng chứa / Vại Bảo quản thì thêm `A Thùng chứa`, `A Vại Bảo quản` cùng kiểu.
 
-_Đọc từ file save `Quicksave` (Xuân 24, Năm 1): mỗi `Chest` trong `objects` của từng khu, tên ở `modData` `Pathoschild.ChestsAnywhere/Name`, màu ở `playerChoiceColor` (đen = màu gỗ mặc định)._
+_Đọc từ file save `Quicksave` (Xuân 24, Năm 1, lưu 08:23): mỗi `Chest` trong `objects` của từng khu, tên ở `modData` `Pathoschild.ChestsAnywhere/Name`, màu ở `playerChoiceColor` đối chiếu với mã RGB từng ô trong `DiscreteColorPicker` (đen = ô 0, màu gỗ)._
