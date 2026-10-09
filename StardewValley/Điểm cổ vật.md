@@ -17,9 +17,14 @@ Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lê
 
 **Ba luật phải nhớ:**
 
-1. **Chỉ mọc ngoài trời** — Thị trấn, Rừng, Núi, Bãi biển, Bến Xe, và cả trên nông trại.
-2. **Mọc lại mỗi ngày**, vị trí ngẫu nhiên.
-3. ⚠️ **Hết ngày là biến mất** — thấy hôm nào phải đào hôm đó.
+1. **Chỉ mọc ngoài trời**, trên ô đào được — Thị trấn, Rừng, Núi, Bãi biển, Bến Xe, và cả trên nông trại.
+2. **Không biến mất lúc hết ngày.** Mỗi đêm, mỗi điểm chưa đào có **15%** khả năng biến mất, còn lại nằm nguyên. Thấy rồi để mai đào vẫn được, nhưng để lâu thì dễ mất.
+3. **Điểm mới chỉ mọc khi khu đó gần hết điểm**: còn tối đa 1 điểm (trên nông trại: không còn điểm nào; mùa Đông: còn tối đa 4). Đào hết điểm cũ thì hôm sau mới mọc thêm, vị trí ngẫu nhiên. **May mắn không ảnh hưởng** số điểm mọc.
+
+> [!info] Khoảng 1/6 "Điểm cổ vật" thật ra là điểm hạt giống
+> Từ 1.6, mỗi điểm mới mọc có 16,6% là **Seed Spot** — trông y hệt và bản dịch cũng hiện tên **Điểm cổ vật**, nhưng đào lên ra **hạt giống** thay vì món ở bảng trên.
+
+_Đã kiểm trong file game 1.6.15: luật mọc/biến mất ở `GameLocation.spawnObjects` (xoá 15% mỗi đêm, chỉ mọc khi còn ≤ 1 điểm, 16,6% là `SeedSpot`), bảng món rơi ở `Data/Locations` (`ArtifactSpots`)._
 
 **Bảng cổ vật khác nhau theo từng khu**, nên muốn đủ bộ Bảo tàng thì phải đào **rải khắp các khu**, đào mãi một chỗ sẽ thiếu. Cổ vật chưa quyên góp thì mang đi donate trong ngày, chưa kịp thì tạm cất rương **`Cổ Vật, Đồ Trang Trí, Trang Phục`** (xem [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Kho & rương]]).
 
