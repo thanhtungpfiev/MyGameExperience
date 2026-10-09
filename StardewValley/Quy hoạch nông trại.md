@@ -165,24 +165,24 @@ Dựng lại từ ảnh gốc ở trên, theo cùng cách với Mẫu 1. Mẫu n
 
 > _Chia rương theo **nhãn nhóm hiện khi rê chuột** vào món đồ (dòng chữ màu ngay dưới tên món): nhìn nhãn là biết bỏ rương nào. Nhãn liên quan thì gộp chung một rương. **Màu** để nhận ra từ xa trên farm, **tên** để tìm trong menu [[Mods#Chests Anywhere 1.30.1|Chests Anywhere]] / [[Mods#All Chests Menu 0.4.2|All Chests Menu]]. Cách xếp rương thật của từng save nằm ở note của save — save Wind: [[Wind - Quy hoạch#📦 Kho — 12 rương cạnh nhà|Wind - Quy hoạch]]._
 
-| Màu | Tên rương | Nhãn trong game | Món **không có nhãn** cũng cất ở đây |
-|---|---|---|---|
-| 🟩 **Xanh lá** | `Rau, Trái Cây, Hoa` | Rau · Trái cây · Hoa | Dâu ngọc ngọt ngào |
-| 🟫 **Mặc định** | `Hạt Giống, Phân Bón` | Hạt giống · Phân bón | — |
-| 🟧 **Cam** | `Hái Lượm` | Hái lượm | — |
-| ⬜ **Trắng** | `Động Vật` | Sản phẩm từ Động vật | Nấm cục (heo đào ra) · trứng Slime |
-| 🟪 **Tím** | `Hàng Thủ Công` | Hàng Thủ công | — |
-| 🟥 **Đỏ** | `Món Ăn` | Món ăn | đồ uống/ăn chế tạo (Cà phê, Nước tăng lực, Đồ ăn nhẹ ngoài đồng…) · nguyên liệu nấu mua ở Pierre (Bột mì, Dầu ăn, Giấm…) |
-| 🟦 **Xanh dương** | `Cá` | Cá | đồ vớt được dưới nước: Rong biển, Lục tảo, Bạch tảo · Thạch sông, Thạch Biển, Thạch Hang Động · San hô, Nhím biển, vỏ ốc, Trứng cá |
-| ⬜ **Xám nhạt** | `Khoáng Sản` | Khoáng sản | đồ còn phải mở: Hốc tinh các loại, Chiếc hộp bí ẩn, Rương báu |
-| 🟫 **Mặc định** | `Tài Nguyên` | Tài nguyên · Chiến lợi phẩm · Rác | Ngọc kỳ bí, Hạt Óc chó hoàng kim |
-| 🟥 **Đỏ đậm** | `Cổ Vật, Sách` | Cổ vật · Sách · Sách kỹ năng | — |
-| ⬛ **Xám đậm** | `Chế Tác, Trang Trí` | Chế tác · Trang trí · Nội thất · Nội thất ngoài trời · Đồ trang trí | đồ đặt xuống/dùng một lần: các loại Cọc (cầu mưa, dịch chuyển), Bẫy cua, Đuốc, Xạ hương quái vật · máy và rương chưa đặt |
-| 🟨 **Vàng cam** | `Trang Bị` | Công cụ · Kiếm / Dao găm / Gậy · Nhẫn · Giày · Trang phục · Đồ trang sức · Mồi · Đồ Câu | Mũ |
-| 🩵 **Xanh lơ nhạt** | `A <tên máy>` | — | rương **Automate**, xem dưới |
+| Màu                 | Tên rương             | Nhãn trong game                                                                         | Món **không có nhãn** cũng cất ở đây                                                                                                        |
+| ------------------- | --------------------- | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
+| 🟩 **Xanh lá**      | `Hoa, Rau, Trái Cây`  | Hoa · Rau · Trái cây                                                                    | Dâu ngọc ngọt ngào                                                                                                                          |
+| 🟫 **Mặc định**     | `Hạt Giống, Phân Bón` | Hạt giống · Phân bón                                                                    | Cỏ giống                                                                                                                                    |
+| 🟧 **Cam**          | `Hái Lượm`            | Hái lượm                                                                                | —                                                                                                                                           |
+| ⬜ **Trắng**        | `Động Vật`            | Sản phẩm từ Động vật                                                                    | Nấm cục (heo đào ra) · trứng Slime                                                                                                          |
+| 🟪 **Tím**          | `Hàng Thủ Công`       | Hàng Thủ công                                                                           | —                                                                                                                                           |
+| 🟥 **Đỏ**           | `Đồ ăn`               | Món ăn                                                                                  | đồ uống/ăn chế tạo (Cà phê, Nước tăng lực, Đồ ăn nhẹ ngoài đồng…) · nguyên liệu nấu mua ở Pierre (Bột mì, Dầu ăn, Giấm…)                    |
+| 🟦 **Xanh dương**   | `Cá`                  | Cá                                                                                      | đồ vớt được dưới nước: Rong biển, Lục tảo, Bạch tảo · Thạch sông, Thạch Biển, Thạch Hang Động · San hô, Nhím biển, vỏ ốc, Trứng cá, Mực mực |
+| ⬜ **Xám nhạt**     | `Khoáng Sản`          | Khoáng sản                                                                              | đồ còn phải mở: Hốc tinh các loại, Chiếc hộp bí ẩn, Rương báu                                                                               |
+| 🟫 **Mặc định**     | `Tài Nguyên`          | Tài nguyên · Chiến lợi phẩm · Rác                                                       | Ngọc kỳ bí, Hạt Óc chó hoàng kim                                                                                                            |
+| 🟥 **Đỏ đậm**       | `Cổ Vật, Sách`        | Cổ vật · Sách · Sách kỹ năng                                                            | —                                                                                                                                           |
+| ⬛ **Xám đậm**      | `Chế Tác, Trang Trí`  | Chế tác · Trang trí · Nội thất · Nội thất ngoài trời · Đồ trang trí                     | đồ đặt xuống/dùng một lần: các loại Cọc (cầu mưa, dịch chuyển), Bẫy cua, Đuốc, Xạ hương quái vật · máy và rương chưa đặt                    |
+| 🟨 **Vàng cam**     | `Trang Bị`            | Công cụ · Kiếm / Dao găm / Gậy · Nhẫn · Giày · Trang phục · Đồ trang sức · Mồi · Đồ Câu | Mũ                                                                                                                                          |
+| 🩵 **Xanh lơ nhạt** | `A <tên máy>`         | —                                                                                       | rương **Automate**, xem dưới                                                                                                                |
 
 - **Hai rương Mặc định** (không tô màu) là thứ đụng tới mỗi ngày — nhận ra bằng chỗ đặt, không cần màu.
-- **Rương lớn (Big Chest, 70 ô)** dành cho nhóm hay tràn: `Tài Nguyên`, `Rau, Trái Cây, Hoa`, `Cá`.
+- **Rương lớn (Big Chest, 70 ô)** dành cho nhóm hay tràn: `Tài Nguyên`, `Hoa, Rau, Trái Cây`, `Cá`.
 - **Một vài nhãn dễ đoán nhầm:** Dâu tây, Dưa là **Trái cây** · Hoa bia là **Rau** · Nhựa cây là **Hái lượm** · Nhựa thông/sồi/phong là **Hàng Thủ công** · Cua, Bạch tuộc là **Cá** · Chân thỏ là **Sản phẩm từ Động vật** · cây ăn quả non là **Hạt giống**.
 - **Đừng bán nhầm đồ cần giữ:** rê chuột vào món — [[Mods#UI Info Suite 2 (v2.3.7, bản VH)|UI Info Suite 2]] hiện icon Gunther (chưa donate), icon thùng ship (chưa ship lần nào) và tên gói còn thiếu. Tìm món nằm ở rương nào: ô Filter của [[Mods#All Chests Menu 0.4.2|All Chests Menu]] (`F2`).
 

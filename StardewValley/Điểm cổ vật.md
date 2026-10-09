@@ -39,7 +39,7 @@ _Đã kiểm trong file game 1.6.15: luật mọc/biến mất ở `GameLocation
 >
 > Trái cổ đại: Xuân–Thu, **28 ngày** lớn lần đầu rồi **7 ngày** ra trái lại, cây sống mãi; **không trồng được trong chậu** — hợp nhất là Nhà kính. Nhân giống bằng **Máy tạo Hạt giống (Seed Maker)** trước khi đem ủ rượu (xem [[Mẹo#💰 Kiếm tiền theo giai đoạn|Mẹo — Kiếm tiền]]).
 >
-> ⚠️ **Gieo gói hạt ngay, đừng để dành chờ máy.** Máy tạo Hạt giống nhận **trái** (1 Trái cổ đại → 1–3 gói hạt _— số lượng do code game tính, chưa kiểm chứng_), không nhận hạt — gói hạt để trong túi thì chẳng nhân được gì, chỉ mất trắng một mùa sinh trưởng. Máy lại mở ở **Trồng trọt cấp 9** (25 Gỗ + 10 Than đá + 1 Thỏi vàng), còn xa. Lộ trình: gieo ngay → trái ra thì **cất vào rương `Rau, Trái Cây, Hoa`**, đừng bán/ủ → có máy rồi đem nhân → cổ vật đào thêm cứ chế thành hạt gieo luôn.
+> ⚠️ **Gieo gói hạt ngay, đừng để dành chờ máy.** Máy tạo Hạt giống nhận **trái** (1 Trái cổ đại → 1–3 gói hạt _— số lượng do code game tính, chưa kiểm chứng_), không nhận hạt — gói hạt để trong túi thì chẳng nhân được gì, chỉ mất trắng một mùa sinh trưởng. Máy lại mở ở **Trồng trọt cấp 9** (25 Gỗ + 10 Than đá + 1 Thỏi vàng), còn xa. Lộ trình: gieo ngay → trái ra thì **cất vào rương `Hoa, Rau, Trái Cây`**, đừng bán/ủ → có máy rồi đem nhân → cổ vật đào thêm cứ chế thành hạt gieo luôn.
 
 > [!tien] Đất sét — gom từ Ngày 1, đừng đợi tới lúc cần
 > **Kho chứa Cỏ (Silo) cần 10 Đất sét.** Đất sét gần như chỉ ra từ điểm cổ vật (cuốc đất thường cũng có tỉ lệ nhỏ). Đào tốn **2 năng lượng**/nhát, mà `InfiniteStamina` đang bật nên với máy này là **miễn phí** — thấy giun là đào, không có lý do bỏ qua.
