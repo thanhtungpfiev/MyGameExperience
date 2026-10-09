@@ -49,7 +49,7 @@
 
 | Nhịp | Bạn làm | Claude làm |
 |---|---|---|
-| **① Đầu ngày** | Bấm `F5` ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_\|QuickSave]]) rồi nói _"đọc save"_ | Đọc [[#📖 Đọc gì ở nhịp ①|12 mục]] → ghi vào khối **📋 Thực tế** của ngày → chốt **🌦️ Nhánh** và **✅ Việc hôm nay** trong quota |
+| **① Đầu ngày** | Bấm `F5` ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_\|QuickSave]]) rồi nói _"đọc save"_ | Đọc [[#📖 Đọc gì ở nhịp ①\|12 mục]] → ghi vào khối **📋 Thực tế** của ngày → chốt **🌦️ Nhánh** và **✅ Việc hôm nay** trong quota |
 | **② Trong ngày** | Chơi theo danh sách | — |
 | **③ Cuối ngày** | Bấm `F5` lần nữa rồi nói _"chốt ngày"_ | Tick việc đã xong · ghi cái gì lệch · **sửa việc của 1–3 ngày kế tiếp** cho khớp thực tế |
 
