@@ -22,7 +22,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
   - **Dự báo thời tiết** — mai mưa thì tối nay khỏi tưới, để dành năng lượng.
   - **Thầy bói (Fortune Teller)** — ngày may mắn cao thì đi mỏ / đập geode; ngày xui thì ở nhà làm nông.
   - **Nữ hoàng Nước sốt (Queen of Sauce)** — CN & Thứ 4, học công thức nấu ăn **miễn phí**, bỏ lỡ là phải mua lại.
-- **Giờ giấc:** Ngủ trước **12h đêm**. Quá **2:00 sáng** là ngất → mất tiền và có thể mất đồ. Ngủ sớm không mất gì cả.
+- **Giờ giấc:** Ngủ trước **12h đêm**. Quá **2:00 sáng** là ngất: ngất **ngoài nhà** thì mất **10% số tiền, tối đa 1.000g** (Đảo Gừng tối đa 2.500g), không mất đồ — mất đồ chỉ xảy ra khi gục trong mỏ. Ngất trong nhà không mất gì. Ngủ sớm không mất gì cả.
 - **Năng lượng:** Ăn khi thanh gần cạn chứ đừng ăn sớm (phí). Món rẻ mà hiệu quả: cá tự câu, Salad ở quán rượu. Ngủ hồi đầy năng lượng.
 - **Nâng cấp công cụ mất 2 ngày** ở Lò rèn Clint — canh thời điểm:
   - Đưa **Bình tưới (Watering Can)** vào **đêm trước ngày mưa** hoặc lúc vừa thu hoạch xong cả ruộng.
@@ -30,7 +30,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Xe hàng rong (Traveling Cart)** — Thứ 6 & CN ở Rừng Cindersap: ghé **mỗi tuần**. Hàng ngẫu nhiên có cả hạt **của mùa khác**, và **Hạt giống hiếm** luôn có suốt Xuân–Hạ (1.000g). Xe **không bao giờ** bán Hạt giống cổ đại hay Trái cổ đại (game loại hai món này khỏi hàng ngẫu nhiên).
   - Hạt trái mùa còn mua được **quanh năm ở Ốc đảo (Sandy)**: Hạt giống đại hoàng · Hạt giống khế · Hạt củ cải đường · Hạt giống xương rồng.
 - **Trước khi xuống mỏ:** chừa vài ô túi trống, mang đồ ăn hồi máu, và bỏ đồ giá trị vào rương ở nhà.
-- **Thùng vận chuyển:** bỏ đồ vào trước 12h đêm mới được tính tiền hôm đó.
+- **Thùng vận chuyển:** đồ trong thùng được tính tiền **lúc ngày kết thúc** — khi đi ngủ, hoặc khi ngất lúc 2:00 sáng. Không có mốc 12h đêm.
 
 ## 🌾 Trồng trọt (Farming)
 

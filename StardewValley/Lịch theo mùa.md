@@ -10,7 +10,7 @@
 - **Tưới ruộng đang trồng** (bỏ qua nếu trời mưa — mưa tự tưới ruộng ngoài trời).
 - **Từ Ngày 5:** vuốt thú cưng 1 lần + đổ nước vào bát bằng Bình tưới.
 - **Từ khi có gà:** vuốt **từng con** (+15 tình cảm, bỏ một ngày là tụt) · nhặt trứng · ngày nắng ngoài mùa Đông thì **mở cửa nhỏ** cho gà ra ăn cỏ (miễn phí — đừng cắt sạch cỏ quanh chuồng), ngày mưa/mùa Đông thì lấy **cỏ khô** từ phễu cạnh cửa rải vào máng, mỗi con 1 phần · **tối kiểm gà đã vào chuồng hết** (ở ngoài qua đêm −20 tình cảm). `CJB Cheats` đang **tắt** tự cho ăn/tự vuốt/vô hạn cỏ khô nên việc này phải tự làm. Tình cảm **≥ 200** mới ra **Trứng lớn** — cần cả trắng lẫn nâu cho gói **Chăn nuôi**.
-- **Cuối ngày:** bỏ nông sản/cá/đồ lượm vào thùng vận chuyển trước nửa đêm, về ngủ **trước 24:00**. Quá **02:00** là ngất — mất tiền, có thể mất đồ.
+- **Cuối ngày:** bỏ nông sản/cá/đồ lượm vào thùng vận chuyển trước khi đi ngủ (thùng tính tiền lúc ngày kết thúc, không có mốc nửa đêm), về ngủ **trước 24:00**. Quá **02:00** là ngất — ngất ngoài nhà mất 10% tiền, tối đa 1.000g; không mất đồ.
 - **Trước mỗi chuyến xuống mỏ:** bấm `F5` lưu nhanh ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_|QuickSave]]), lỡ chết/mất đồ thì `F7` làm lại.
 - **Năng lượng & máu đang vô hạn** — [[Mods#CJB Cheats Menu 1.42.0|CJB Cheats]] bật `InfiniteStamina` + `InfiniteHealth`, nên mấy lời dặn "mang đồ ăn hồi năng lượng/máu" bên dưới chỉ cần khi tắt hai cheat này.
 - **Chào dân làng** mỗi người một lần mỗi ngày: lần nói chuyện đầu tiên được +20 tình cảm, nói thêm trong ngày không cộng gì (xem [[Mẹo#❤️ Kết bạn & hẹn hò|Mẹo — Kết bạn]]).
