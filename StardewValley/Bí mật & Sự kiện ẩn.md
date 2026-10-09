@@ -52,7 +52,7 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Wind - Daily]] thì c�
 ### 🔁 Mọi mùa
 
 - **Ngày 28 của mùa bất kỳ, 12:00–12:09 trưa — Rung bụi cây phía trên sân chơi** (góc tây bắc Thị trấn Pelican, ô 20, 8) · ✔️ code · Daily [[Wind - Daily#🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong|Xuân 28]]
-  - **Thưởng:** **Junimo Nhồi bông (Junimo Plush)** — đồ trang trí, cất rương `Cổ Vật, Đồ Trang Trí, Trang Phục` ([[Quy hoạch nông trại]]). **Chỉ nhận 1 lần mỗi save** — lỡ 12:00 thì chờ ngày 28 mùa sau.
+  - **Thưởng:** **Junimo Nhồi bông (Junimo Plush)** — đồ trang trí, cất rương `Chế Tác, Trang Trí` ([[Quy hoạch nông trại]]). **Chỉ nhận 1 lần mỗi save** — lỡ 12:00 thì chờ ngày 28 mùa sau.
   - _Ghi chú bí mật #13 là gợi ý cho bí mật này._
 
 ---
@@ -124,7 +124,7 @@ Ba cái hộp nằm sẵn trong thị trấn, trông như đồ trang trí nhưn
 
 ## 🎣 6. Câu được đồ trang trí ở chỗ lạ
 
-Không phải cá — quăng cần ở **đúng chỗ này** sẽ có tỉ lệ ra đồ nội thất độc quyền. Cất vào rương `Cổ Vật, Đồ Trang Trí, Trang Phục`.
+Không phải cá — quăng cần ở **đúng chỗ này** sẽ có tỉ lệ ra đồ nội thất độc quyền. Cất vào rương `Chế Tác, Trang Trí`.
 
 **Với tới sớm (Năm 1):**
 

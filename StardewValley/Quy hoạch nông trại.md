@@ -163,87 +163,43 @@ Dựng lại từ ảnh gốc ở trên, theo cùng cách với Mẫu 1. Mẫu n
 
 ## 📦 Kho & rương — bảng màu và cách đặt tên
 
-> _Hai lớp khác nhau, cần cả hai: **màu** để nhìn từ xa lúc đứng trên farm, **tên** để tìm trong menu [[Mods#Chests Anywhere 1.30.1|Chests Anywhere]] / [[Mods#All Chests Menu 0.4.2|All Chests Menu]]._
->
-> _Bảng dưới chép đúng **tên, màu, chỗ đặt** từ quicksave Xuân 20 (08:20) — đổi trong game thì cập nhật lại ở đây._
+> _Chia rương theo **nhãn nhóm hiện khi rê chuột** vào món đồ (dòng chữ màu ngay dưới tên món): nhìn nhãn là biết bỏ rương nào. Nhãn liên quan thì gộp chung một rương. **Màu** để nhận ra từ xa trên farm, **tên** để tìm trong menu [[Mods#Chests Anywhere 1.30.1|Chests Anywhere]] / [[Mods#All Chests Menu 0.4.2|All Chests Menu]]. Cách xếp rương thật của từng save nằm ở note của save — save Wind: [[Wind - Quy hoạch#📦 Kho — 12 rương cạnh nhà|Wind - Quy hoạch]]._
 
-### Kho chính — 12 rương cạnh nhà
-
-| Màu | Tên rương | Chứa gì |
-|---|---|---|
-| 🟫 **Mặc định** (không tô) | `Tài Nguyên` | Gỗ, Đá, Sợi, Đất sét, Gỗ cứng · thỏi đã nung (Thỏi đồng, Thỏi sắt…) · Thạch anh tinh luyện · Quặng Iridium |
-| 🟫 **Mặc định** (không tô) | `Hạt Giống, Phân Bón` | Hạt giống theo mùa · hạt cây (Hạt sồi, Hạt phong, Quả thông) · Phân bón các loại, Phân bón Thúc (Speed-Gro) |
-| 🟩 **Xanh lá** | `Rau, Hoa, Trái Cây` | Rau củ thu hoạch · hoa trồng (Tulip, Hành lam cầu) · trái lượm được (Mâm xôi cá hồi, Quả pha lê) |
-| 🟧 **Cam** | `Hái Lượm` | Đồ lượm không phải trái: Hành lá, Tỏi tây, Cải ngựa dại, Bồ công anh, Thủy tiên, Rễ cây mùa đông · Cà rốt hang · Nhựa cây |
-| 🟦 **Xanh dương** | `Cá` | Cá các loại · Trai/Sò/Hàu · San hô |
-| ⬜ **Xám nhạt** | `Khoáng Sản, Đá Quý` | Đá quý (Thạch anh Tím, Hoàng ngọc, Ngọc bích…) · Thạch anh · khoáng vật mở từ Hốc tinh — đồ để quyên góp Bảo tàng · Hốc tinh chưa đập, Chiếc hộp bí ẩn chưa mở |
-| 🟥 **Đỏ đậm** | `Cổ Vật, Đồ Trang Trí, Trang Phục` | Cổ vật · Đường lát gỗ · đồ nội thất nhặt được · mũ, áo, quần (sau này cả Vải từ Khung dệt) |
-| 🟨 **Vàng cam** | `Công Cụ, Vũ Khí` | Công cụ thay thế (Cần Trúc, Cần Sợi Thủy Tinh, Rìu/Cuốc/Bình tưới đồng, Liềm) · Súng Cao su Xịn · Phao câu tín hiệu · Cột thu lôi |
-| ⬛ **Xám đậm** | `Chiến Lợi Phẩm` | Slime · Cánh dơi (Bat Wing) · Tinh chất mặt trời · Mảnh xương vụn — rơi ra khi **đánh quái** |
-| 🟥 **Đỏ** | `Đồ ăn` | Món nấu/mua sẵn (Bánh mì, Bánh sô-cô-la…) · thứ ăn được nhặt khi câu: Lục tảo, Bạch tảo, Rong biển, Thạch sông/biển/hang động · Trứng cá (Roe) |
-| 🟪 **Tím** | `Hàng Thủ Công` | Hàng chế từ máy: hiện mới có Nhựa thông · sau này Rượu, Nước ép, Thạch, Phô mai, Mật ong, Dưa muối… — thấy tím là biết **đồ để bán** |
-
-**Cách xếp** — khối 3 hàng × 4 rương cạnh nhà (ô 55–58, hàng 14–16), nhìn từ trên xuống:
-
-| | Cột 55 | Cột 56 | Cột 57 | Cột 58 |
-|---|---|---|---|---|
-| **Hàng 14** | _(trống)_ | `Chiến Lợi Phẩm` | `Cổ Vật, Đồ Trang Trí, Trang Phục` | `Công Cụ, Vũ Khí` |
-| **Hàng 15** | `Đồ ăn` | `Hàng Thủ Công` | `Hái Lượm` | `Hạt Giống, Phân Bón` |
-| **Hàng 16** | `Cá` | `Rau, Hoa, Trái Cây` | `Khoáng Sản, Đá Quý` | `Tài Nguyên` |
-
-`A Lò nung` đứng riêng ở ô (69, 14), cạnh Lò nung của nó.
-
-Màu nào cũng gắn với **thứ trong rương**: xanh lá là cây, cam là đồ lượm, xanh dương là nước, xám là đá, đỏ đậm là đồ cổ, đỏ tươi gợi thanh máu cho đồ ăn. Hai rương **Mặc định** nằm ngoài bảng màu vì là thứ đụng tới mỗi ngày — nhận ra bằng chỗ đặt, không cần màu.
-
-> [!info] Không làm rương riêng cho "Đừng bán" — thay bằng 3 cách có thật
-> Đồ cần giữ (cổ vật/khoáng vật chưa donate, nông sản/cá phẩm cấp cao cho gói Cộng đồng) nằm sẵn trong đúng rương của nó, không cần tách riêng. Để khỏi lỡ tay bán nhầm, dùng 3 cách **có thật trong mod đang cài**:
-> - **Rê chuột vào vật phẩm — kể cả đang mở rương** — [[Mods#UI Info Suite 2 (v2.3.7, bản VH)|UI Info Suite 2]] tự hiện **icon Gunther** (chưa donate Bảo tàng), **icon thùng ship** (chưa ship lần nào) và **icon + tên gói** (còn thiếu gói Cộng đồng) ngay trên tooltip. Đây là cách chính.
-> - **Giữ trong túi đồ tới khi donate/nộp gói xong** — đa số là mang đi nộp luôn trong ngày (xem [[Lịch theo mùa#🔁 Routine mỗi ngày (áp dụng từ khi mở khóa, không ghi lại từng ngày)|Routine mỗi ngày]]).
-> - **Bật `FilterItems`/`Description` trong [[Mods#All Chests Menu 0.4.2|All Chests Menu]]** rồi gõ tên món vào ô Filter khi mở `F2` — ra ngay món đó nằm ở rương nào.
-
-> [!info] Cổ vật và Khoáng vật — hai rương khác nhau dù hay đào ra cùng lúc
-> Tab Thu thập (Collections) chia hai danh sách donate riêng: **Khoáng vật** (đá quý, khoáng mở từ Hốc tinh) → `Khoáng Sản, Đá Quý`; **Cổ vật** (đồ khảo cổ từ điểm cổ vật, rương kho báu) → `Cổ Vật, Đồ Trang Trí, Trang Phục`. Cổ vật chưa quyên góp thì mang đi Gunther trong ngày; cổ vật trùng xử lý theo [[Điểm cổ vật]].
->
-> Cổ vật, đồ trang trí và trang phục gộp chung một rương vì cả ba đều **ít, không stack** và hiếm khi phải lôi ra — gộp lại đỡ hai rương lưng lửng. Máy may mở khá muộn ([Tailoring](https://stardewvalleywiki.com/Tailoring)), khi nào quần áo nhiều tới mức chật rương mới cần tách.
-
-> [!info] Công cụ cũng có chỗ trong rương
-> Cuốc, Cuốc chim, Rìu, Bình tưới, Liềm mỗi loại chỉ có một cái đang dùng, nhưng **cần câu thì có nhiều**, và công cụ đem đi nâng cấp ở Clint để lại chỗ trống trong túi. `Công Cụ, Vũ Khí` giữ bản dự phòng/chưa dùng (cần câu cũ, súng cao su, phao) cùng vũ khí đổi qua lại theo tình huống.
-
-### Chưa làm — thêm khi có đồ để cất
-
-| Màu dự kiến | Tên dự kiến | Chứa gì | Khi nào cần |
+| Màu | Tên rương | Nhãn trong game | Món **không có nhãn** cũng cất ở đây |
 |---|---|---|---|
-| ⬜ **Trắng** | `Chăn Nuôi` | Trứng, Trứng vịt, Sữa, Sữa dê, Len, Nấm cục, Chân thỏ | Khi có Chuồng gia cầm / Chuồng gia súc |
+| 🟩 **Xanh lá** | `Rau, Trái Cây, Hoa` | Rau · Trái cây · Hoa | Dâu ngọc ngọt ngào |
+| 🟫 **Mặc định** | `Hạt Giống, Phân Bón` | Hạt giống · Phân bón | — |
+| 🟧 **Cam** | `Hái Lượm` | Hái lượm | — |
+| ⬜ **Trắng** | `Động Vật` | Sản phẩm từ Động vật | Nấm cục (heo đào ra) · trứng Slime |
+| 🟪 **Tím** | `Hàng Thủ Công` | Hàng Thủ công | — |
+| 🟥 **Đỏ** | `Món Ăn` | Món ăn | đồ uống/ăn chế tạo (Cà phê, Nước tăng lực, Đồ ăn nhẹ ngoài đồng…) · nguyên liệu nấu mua ở Pierre (Bột mì, Dầu ăn, Giấm…) |
+| 🟦 **Xanh dương** | `Cá` | Cá | đồ vớt được dưới nước: Rong biển, Lục tảo, Bạch tảo · Thạch sông, Thạch Biển, Thạch Hang Động · San hô, Nhím biển, vỏ ốc, Trứng cá |
+| ⬜ **Xám nhạt** | `Khoáng Sản` | Khoáng sản | đồ còn phải mở: Hốc tinh các loại, Chiếc hộp bí ẩn, Rương báu |
+| 🟫 **Mặc định** | `Tài Nguyên` | Tài nguyên · Chiến lợi phẩm · Rác | Ngọc kỳ bí, Hạt Óc chó hoàng kim |
+| 🟥 **Đỏ đậm** | `Cổ Vật, Sách` | Cổ vật · Sách · Sách kỹ năng | — |
+| ⬛ **Xám đậm** | `Chế Tác, Trang Trí` | Chế tác · Trang trí · Nội thất · Nội thất ngoài trời · Đồ trang trí | đồ đặt xuống/dùng một lần: các loại Cọc (cầu mưa, dịch chuyển), Bẫy cua, Đuốc, Xạ hương quái vật · máy và rương chưa đặt |
+| 🟨 **Vàng cam** | `Trang Bị` | Công cụ · Kiếm / Dao găm / Gậy · Nhẫn · Giày · Trang phục · Đồ trang sức · Mồi · Đồ Câu | Mũ |
+| 🩵 **Xanh lơ nhạt** | `A <tên máy>` | — | rương **Automate**, xem dưới |
 
-Trắng còn trống trong bảng hiện tại, cũng như Hồng và Vàng nếu sau này cần tách thêm. **Xanh lơ nhạt** đã thuộc về rương Automate, đừng dùng cho rương kho.
+- **Hai rương Mặc định** (không tô màu) là thứ đụng tới mỗi ngày — nhận ra bằng chỗ đặt, không cần màu.
+- **Rương lớn (Big Chest, 70 ô)** dành cho nhóm hay tràn: `Tài Nguyên`, `Rau, Trái Cây, Hoa`, `Cá`.
+- **Một vài nhãn dễ đoán nhầm:** Dâu tây, Dưa là **Trái cây** · Hoa bia là **Rau** · Nhựa cây là **Hái lượm** · Nhựa thông/sồi/phong là **Hàng Thủ công** · Cua, Bạch tuộc là **Cá** · Chân thỏ là **Sản phẩm từ Động vật** · cây ăn quả non là **Hạt giống**.
+- **Đừng bán nhầm đồ cần giữ:** rê chuột vào món — [[Mods#UI Info Suite 2 (v2.3.7, bản VH)|UI Info Suite 2]] hiện icon Gunther (chưa donate), icon thùng ship (chưa ship lần nào) và tên gói còn thiếu. Tìm món nằm ở rương nào: ô Filter của [[Mods#All Chests Menu 0.4.2|All Chests Menu]] (`F2`).
+
+_Nhãn lấy từ code game 1.6.15 (`Object.GetCategoryDisplayName`, cùng `getCategoryName` của Nhẫn, Giày, Trang phục, Công cụ, vũ khí, Nội thất, Đồ trang sức) với tên trong bản Việt hoá đang cài; danh sách món không nhãn lọc từ `Data/Objects`._
 
 ### Rương Automate — xanh lơ nhạt, tên mở đầu bằng `A`
 
-| Tên rương | Ở đâu | Nối với |
-|---|---|---|
-| `A Lò nung` | Nông trại | Lò nung — giữ Quặng đồng/sắt/vàng + Than đá, trả Thỏi |
-| `A Nấm` | Hang nông trại | Hộp nấm trong hang — gom nấm hằng ngày |
-| `A Bẫy Cua Sông` | Thị trấn | Bẫy cua ở sông — giữ Mồi, nhận đồ câu (kể cả rác như Đĩa CD hỏng) |
-| `A Bẫy Cua Biển` | Bãi biển | Bẫy cua ngoài biển |
-| `A Bẫy Cua Hồ` | Núi | Bẫy cua ở hồ |
-
-- **Mỗi cụm máy một rương riêng.** Nguyên liệu một mẻ phải nằm **cùng một rương** — than ở rương này, quặng ở rương kia thì Lò nung đứng im.
+- **Mỗi cụm máy một rương riêng, chạm vào máy.** Nguyên liệu một mẻ phải nằm **cùng một rương** — than ở rương này, quặng ở rương kia thì Lò nung đứng im.
 - Bật **`prefer this chest for output`** (icon bút chì của Chests Anywhere) để thành phẩm luôn về đúng chỗ.
-- **Màu xanh lơ nhạt không dùng cho việc gì khác** → không bao giờ lỡ tay đổ đồ vào rương đầu vào của máy. Chữ `A` ở đầu tên gom chúng thành một cụm trong menu.
-- Sau này có Thùng chứa / Vại Bảo quản thì đặt `A Thùng chứa`, `A Vại Bảo quản` cùng kiểu.
+- **Xanh lơ nhạt chỉ dùng cho rương Automate** → không bao giờ lỡ tay đổ đồ kho vào rương đầu vào của máy. Chữ `A` đầu tên gom chúng thành một cụm trong menu.
+- Đây là loại rương duy nhất phải nằm xa kho — Chests Anywhere đang để `Range: Unlimited`, nên rương kho gom hết một chỗ cạnh nhà là với tới được từ mọi nơi.
 
 > [!bom] Rương chạm thùng vận chuyển = mất đồ qua đêm
 > Automate coi **thùng ship cũng là một rương**. Rương nào chạm nó là **đồ bị bán hết khi qua đêm**. Xếp cụm Automate **cách thùng ship ít nhất 1 ô**, hoặc vào GMCM → *Shipping Bin settings* tắt hẳn.
 
-### Đặt tên & sắp xếp
+### Đặt tên, đổi màu, dời rương
 
-- **Đặt tên một lần, ăn cả hai mod.** Bấm **icon bút chì** trong Chests Anywhere để đặt tên — All Chests Menu ghi chung `modData` nên tên hiện ở cả hai.
-- **Tên theo nội dung, viết hoa chữ đầu, nhiều nhóm thì ngăn bằng dấu phẩy** (`Rau, Hoa, Trái Cây`). Không còn đánh số đầu tên — thứ tự trong `F2` do **All Chests Menu** tự giữ (sắp xếp tuỳ chỉnh), kéo thả là xong.
-- **Rương lớn (Big Chest, 70 ô)** của 1.6 để dành cho nhóm hay tràn nhất — `Tài Nguyên` và `Rau, Hoa, Trái Cây`.
-- Dời kho không cần dỡ đồ ra: [[Mods#Carry Chests 1.3.0|Carry Chests]] nhấc **cả rương lẫn ruột** mang đi chỗ khác.
-
-> [!tip] Không cần rương vệ tinh — trừ rương Automate
-> Chests Anywhere đang để `Range: Unlimited` → với tay tới mọi rương từ đáy hầm mỏ. Nên **gom kho vào một chỗ cạnh nhà** thay vì rải rương khắp bản đồ. Ngoại lệ duy nhất là rương **Automate**: chúng **bắt buộc phải chạm máy**, nên ba rương bẫy cua mới nằm ở Thị trấn, Bãi biển, Núi.
-
-> [!info] Cách đổi màu
-> Mở rương → bấm **nút bảng màu** trong menu rương → chọn ô màu. Ô đầu tiên (không màu) trả rương về **màu gỗ mặc định**.
+- **Đặt tên:** icon bút chì trong Chests Anywhere — All Chests Menu đọc chung tên đó. Thứ tự trong `F2` kéo thả trong All Chests Menu, không cần đánh số đầu tên.
+- **Đổi màu:** mở rương → nút bảng màu → chọn ô; ô đầu tiên trả về màu gỗ mặc định.
+- **Dời kho không cần dỡ đồ:** [[Mods#Carry Chests 1.3.0|Carry Chests]] nhấc cả rương lẫn ruột.

@@ -35,7 +35,7 @@ Cố ý **không** có Chòi nuôi Slime, Hồ Cá, Lều Junimo hay dãy máy n
 
 | Món | Vị trí |
 |---|---|
-| Khối 12 rương (giữ nguyên như đang có) | x 55–58, y 14–16 — xem [[Quy hoạch nông trại#Kho chính — 12 rương cạnh nhà\|Kho chính]] |
+| Khối 12 rương | x 55–58, y 14–16 — xem [[#📦 Kho — 12 rương cạnh nhà\|Kho]] |
 | Thùng ship (chỗ mặc định) | (71, 14) |
 | Nhà Kho lớn — xưởng Thùng chứa / Vại Bảo quản | (43, 11), nền 7 × 3, lối Đường đá dậm bước từ cửa (46, 14) xuống đường |
 | Đồng hồ Hoàng kim (cuối game) | (50, 14), nền 3 × 2 |
@@ -93,3 +93,37 @@ Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42�
 
 > [!info] Planner khác game ở đâu
 > **Nhà Kho lớn** trên planner vẽ giống một ngôi nhà mái đỏ — chỉ khác hình vẽ, nền 7 × 3 vẫn đúng. **Cổng** trong game chỉ có một loại; planner vẽ kiểu gỗ cứng cho hợp hàng rào. **Cây trồng** chỉ là minh hoạ, gieo thật theo mùa.
+
+## 📦 Kho — 12 rương cạnh nhà
+
+> _Chia rương theo nhãn trong game, màu và quy ước chung ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]]. Bảng dưới là chỗ đặt trong save này: khối 3 hàng × 4 rương ở ô 55–58, hàng 14–16, nhìn từ trên xuống._
+
+| | Cột 55 | Cột 56 | Cột 57 | Cột 58 |
+|---|---|---|---|---|
+| **Hàng 14** | `Động Vật` | `Chế Tác, Trang Trí` | `Cổ Vật, Sách` | `Trang Bị` |
+| **Hàng 15** | `Món Ăn` | `Hàng Thủ Công` | `Hái Lượm` | `Hạt Giống, Phân Bón` |
+| **Hàng 16** | `Cá` | `Rau, Trái Cây, Hoa` | `Khoáng Sản` | `Tài Nguyên` |
+
+`A Lò nung` đứng riêng ở ô (69, 14), cạnh Lò nung của nó.
+
+**Chuyển từ cách chia cũ** (quicksave Xuân 20) — giữ nguyên chỗ đặt, chỉ đổi tên và dời vài món:
+
+- [ ] Ô (55, 14) đang trống → đặt rương mới `Động Vật`, màu **Trắng**.
+- [ ] `Chiến Lợi Phẩm` (56, 14): đổ hết sang `Tài Nguyên`, rồi đổi tên thành `Chế Tác, Trang Trí` (giữ màu Xám đậm).
+- [ ] `Cổ Vật, Đồ Trang Trí, Trang Phục` (57, 14) → đổi tên `Cổ Vật, Sách`; dời mũ/áo/quần sang `Trang Bị`, Đường lát gỗ và đồ nội thất sang `Chế Tác, Trang Trí`.
+- [ ] `Công Cụ, Vũ Khí` (58, 14) → đổi tên `Trang Bị`; dời Cột thu lôi sang `Chế Tác, Trang Trí`.
+- [ ] `Đồ ăn` (55, 15) → đổi tên `Món Ăn`; dời Rong biển, Lục tảo, Bạch tảo, các loại Thạch, Trứng cá sang `Cá`.
+- [ ] `Rau, Hoa, Trái Cây` (56, 16) → đổi tên `Rau, Trái Cây, Hoa`.
+- [ ] `Khoáng Sản, Đá Quý` (57, 16) → đổi tên `Khoáng Sản`.
+
+### Rương Automate
+
+| Tên rương | Ở đâu | Nối với |
+|---|---|---|
+| `A Lò nung` | Nông trại (69, 14) | Lò nung — giữ Quặng đồng/sắt/vàng + Than đá, trả Thỏi |
+| `A Nấm` | Hang nông trại | Hộp nấm trong hang — gom nấm hằng ngày |
+| `A Bẫy Cua Sông` | Thị trấn | Bẫy cua ở sông — giữ Mồi, nhận đồ câu (kể cả rác như Đĩa CD hỏng) |
+| `A Bẫy Cua Biển` | Bãi biển | Bẫy cua ngoài biển |
+| `A Bẫy Cua Hồ` | Núi | Bẫy cua ở hồ |
+
+Sau này có Thùng chứa / Vại Bảo quản thì thêm `A Thùng chứa`, `A Vại Bảo quản` cùng kiểu.
