@@ -633,7 +633,13 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - Mỗi cây có Phân bón cơ bản có khoảng **23% (cấp 5) – 30% (cấp 7)** khả năng ra chất lượng vàng. Muốn chắc ~90% có đủ 5 củ thì gieo **khoảng 30 cây mỗi loại**. Chỉ gieo 9 hạt đang có thì xác suất dưới 10%.
 - Năm 2 vẫn còn Cải vàng (Xuân) nếu một trong ba loại trên trượt.
 
-**📋 Thực tế:** _(chờ save nhịp ①)_
+**📋 Thực tế** _(Quicksave Xuân 24, đầu ngày)_
+- **Thời tiết:** nắng · **mai nắng**. **May mắn:** `dailyLuck` **−0,099** → 💀💀 **rất xui** — TV: _"các linh hồn rất không vừa lòng"_. Không ảnh hưởng hôm nay vì lễ hội chiếm cả ngày.
+- **Ví 16.718g** — vượt xa con số 4.298g mà Ngày 25–28 đang dựa vào, nên mốc ≥ 6.000g cho gà và Hạt giống hiếm **đã qua**.
+- **Kỹ năng:** Trồng trọt 4 · Câu cá 10 · Hái lượm 6 · Khai mỏ 7 · Chiến đấu 6. Túi đồ 24 ô.
+- **Robin:** Chuồng gia cầm ở (45, 14) **còn 1 ngày** → xong sáng Ngày 25. **Clint:** **Cuốc Thép đã xong**, chờ lấy (tiệm đóng hôm nay → lấy Ngày 25).
+- **Haley 1.254 điểm** (≥ 4 tim) → mời nhảy được. Hộp thư và thư mai: trống. Quest: _Xây Chuồng gia cầm_ · _Tìm ra mục đích của chiếc Chìa khóa Đầu lâu_.
+- **Kho:** 20 Thỏi Đồng · 15 Đất sét · 733 Đá · 2 Hạt giống hiếm.
 
 ---
 
@@ -647,14 +653,16 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 **🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Nắng → giữ việc chính như dưới. Mưa → vẫn đặt Robin được (mưa không cản xây), lấy nửa ngày dư cho [[#🌧️ Mưa|cá/mỏ]]. May thấp → đúng ngày để xây, khỏi đổi gì.
 
 **✅ Việc hôm nay**
-- [ ] 🎯 **Đặt Robin xây Kho chứa Cỏ (Silo)** ở ô góc trên–trái **(72, 22)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả _(Quicksave Xuân 21: 15 Đất sét · 14 Thỏi Đồng · 1.719 Đá)_. Đặt đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] ngay, khỏi phải nhờ dời về sau
-- [ ] 🐔 Mua **1–2 gà** ở Trại Marnie (**800g/con**) — **chỉ khi** sau khi trả tiền ví vẫn còn **≥ 6.000g** cho hạt Hạ 1. Mua gà thì mua luôn **cỏ khô cho ngày 25–26** (2 con ≈ 4 phần = 200g)
+- [ ] 🎯 **Đặt Robin xây Kho chứa Cỏ (Silo)** ở ô góc trên–trái **(72, 22)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả _(Quicksave Xuân 24: 15 Đất sét · 20 Thỏi Đồng · 733 Đá)_. Đặt đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] ngay, khỏi phải nhờ dời về sau. ⚠️ **Nhặt Bù nhìn ở (73, 24) trước** — nó nằm trong nền 3 × 3 của kho nên Robin báo đỏ; đặt lại ở ô trống gần ruộng, ví dụ **(68, 26)**, để còn giữ Súp lơ khỏi quạ tới cuối mùa
+- [ ] 🐔 Mua **2 gà** ở Trại Marnie (**800g/con**) — ví 16.718g nên mốc 6.000g không còn là vấn đề. Mua luôn **cỏ khô cho ngày 25–26** (2 con ≈ 4 phần = 200g)
+- [ ] 🔨 Ghé Clint lấy **Cuốc Thép** (đã nâng xong) — và cân nhắc gửi luôn **Rìu** hoặc **Cuốc chim** lên Thép, xem [[#📖 Đọc gì ở nhịp ①|thứ tự nâng mới]]
 - [ ] 🍁 Lấy **Nhựa phong** ở Chén hứng Nhựa cây → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
 - [ ] _(Routine)_ Thu hoạch Dâu tây lứa 2, tưới, ship
 
 **📎 Chi tiết đã kiểm chứng**
 
-- **Gà có thể dời sang Hạ.** Ví đang **4.298g**; bán Dâu tây lứa 2 xong mà vẫn chưa vượt mốc 6.000g thì **để chuồng trống**, không mất gì. Gà mua về **3 ngày** mới lớn rồi mới đẻ.
+- **Gà mua về 3 ngày mới lớn** rồi mới đẻ. _(Bản kế hoạch cũ cho phép dời gà sang Hạ vì tưởng ví chỉ 4.298g; save Xuân 24 có 16.718g nên không cần dời.)_
+- 🏚️ **Dời Chuồng gia cầm không cản Kho chứa Cỏ.** Dời ở Robin là **tức thì và miễn phí**, không chiếm suất "mỗi lúc một công trình" — điều kiện duy nhất là chuồng **đã xây xong** (từ sáng nay). Hai việc độc lập nhau: nền kho (72–74, 22–24) không chồng lên chỗ mới của chuồng (65–70, 22–24). Nhưng **chỗ mới hôm nay chưa trống**, xem [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] — nên **cứ đặt kho trước, đừng chờ dời chuồng**.
 - **Cỏ khô mua dư không phí** — có kho rồi thì cầm cỏ khô bấm vào phễu là cất vào kho; cầm bấm vào **máng ăn trong chuồng** là đặt thẳng được, không cần kho. Ngày nắng gà vẫn ra ngoài ăn cỏ, nhưng quanh chuồng gần như hết cỏ _(Quicksave Xuân 21: 102 bụi trên cả nông trại, chỉ 2 bụi gần chuồng)_ → **vẫn rải cỏ khô vào máng** làm dự phòng. Có kho rồi, mỗi nhát Liềm có **50%** ra 1 cỏ khô, kho chứa tối đa 240.
 - 🚧 **Không cần xây hàng rào.** Gà không ăn cây trồng và tối tự về chuồng. Chỉ cần **lối ra cửa chuồng thông thoáng**: gà kẹt ngoài (vướng hàng rào, rương, máy) mà cửa đã đóng thì đêm có thể bị **thú hoang tấn công và mất hẳn con đó**.
 - Gói **Nông sản Mùa Xuân** đã xong _(save Xuân 18)_ — không cần rà lại.
@@ -753,7 +761,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 | **Khi lên Nông nghiệp 6** (thường giữa Hạ) | Thay bằng **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9, hàng/cột cuối của ô để làm lối · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
 | **Thu** | Mở thêm **Ruộng 2** (19, 22) cho vụ Thu | 9 Vòi tưới cây xịn |
 | **Cuối Thu / Đông** | Rào **bãi chăn nuôi** x 54–76, y 21–46 (92 ô rào + cổng đôi ở (63, 21) (64, 21)) | **Hàng rào gỗ cứng** 1 Gỗ cứng/ô; thiếu Gỗ cứng thì dựng tạm **Hàng rào gỗ** (2 Gỗ/ô) rồi thay sau · **Cổng** 10 Gỗ |
-| **Đông** | Nhờ Robin **dời Chuồng gia cầm** từ (45, 14) sang **(65, 22)** — chỗ cũ là lối đi và Đồng hồ Hoàng kim của khu nhà | Miễn phí |
+| **Hạ 1** _(sớm nhất)_ | Nhờ Robin **dời Chuồng gia cầm** từ (45, 14) sang **(65, 22)** — chỗ cũ là lối đi và Đồng hồ Hoàng kim của khu nhà. Nền 6 × 3 hiện bị chắn bởi **Dâu tây / Súp lơ ở cột x 65–66** (sống tới hết Xuân 28) · **Đuốc ở (65, 24)** · **cây thông non ở (69, 22)** _(Quicksave Xuân 24)_. Sang Hạ 1: dọn cây chết, nhặt đuốc, nhổ cây non → dời. Đường lát ở cột x 67 không chặn | Miễn phí, **tức thì** — không chiếm suất xây của Robin, gà bên trong đi theo chuồng |
 | **Đông** | Xây **Chuồng Gia súc** ở **(56, 22)** | 6.000g + 350 Gỗ + 150 Đá, xây 3 ngày |
 | **Đông** | Trồng **cây chắn gió** (Hạt sồi, Hạt phong, Quả thông) theo vị trí bên quy hoạch · dọn **góc mộ ông nội** (sân Đường lát đá x 7–9, y 9–10, không trồng cây ở x ≤ 12) | 6 Đá cho sân · hạt cây nhặt khi chặt cây |
 
