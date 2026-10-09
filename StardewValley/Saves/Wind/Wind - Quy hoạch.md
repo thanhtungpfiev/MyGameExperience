@@ -8,7 +8,7 @@
 - [x] Vẽ bản quy hoạch dài hạn (có nhà kính + dàn Thùng chứa (Keg)) — bản dưới đây, Thùng chứa đặt trong Nhà Kho lớn
 
 > [!save]- Sao lưu bản quy hoạch — phòng khi link planner mất
-> Link stardew.info không gắn với tài khoản nào, nên dữ liệu bản này được tải nguyên từ máy chủ planner (`/api/<mã link>`) về `StardewValley/assets/planner/rieng.json` (mã link gốc `10-sour-chickens-hid-cordially`). Cách khôi phục giống hai bản mẫu — xem khối sao lưu ở [[Quy hoạch nông trại#✏️ Mẫu dựng lại trên planner|Quy hoạch nông trại]].
+> Link stardew.info không gắn với tài khoản nào, nên dữ liệu bản này được tải nguyên từ máy chủ planner (`/api/<mã link>`) về `StardewValley/assets/planner/rieng.json` (mã link gốc `10-sour-chickens-hid-cordially`). Cách khôi phục giống hai bản mẫu — xem khối sao lưu ở [[Quy hoạch nông trại#📐 Mẫu bố cục tham khảo|Quy hoạch nông trại]].
 
 ## Bản quy hoạch riêng — thôn quê, xây dần
 
