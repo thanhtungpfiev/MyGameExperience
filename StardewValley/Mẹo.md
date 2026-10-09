@@ -21,7 +21,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Xem TV mỗi sáng** trước khi ra khỏi nhà:
   - **Dự báo thời tiết** — mai mưa thì tối nay khỏi tưới, để dành năng lượng.
   - **Thầy bói (Fortune Teller)** — ngày may mắn cao thì đi mỏ / đập geode; ngày xui thì ở nhà làm nông.
-  - **Nữ hoàng Nước sốt (Queen of Sauce)** — CN & Thứ 4, học công thức nấu ăn **miễn phí**, bỏ lỡ là phải mua lại.
+  - **Nữ hoàng Nước sốt (Queen of Sauce)** — học công thức nấu ăn **miễn phí**. **Chủ Nhật** chiếu công thức mới; **Thứ 4** chiếu lại một công thức cũ, game ưu tiên chọn món bạn **chưa học** — lỡ Chủ Nhật thì vẫn còn cơ hội bắt lại vào Thứ 4.
 - **Giờ giấc:** Ngủ trước **12h đêm**. Quá **2:00 sáng** là ngất: ngất **ngoài nhà** thì mất **10% số tiền, tối đa 1.000g** (Đảo Gừng tối đa 2.500g), không mất đồ — mất đồ chỉ xảy ra khi gục trong mỏ. Ngất trong nhà không mất gì. Ngủ sớm không mất gì cả.
 - **Năng lượng:** Ăn khi thanh gần cạn chứ đừng ăn sớm (phí). Món rẻ mà hiệu quả: cá tự câu, Salad ở quán rượu. Ngủ hồi đầy năng lượng.
 - **Nâng cấp công cụ mất 2 ngày** ở Lò rèn Clint — canh thời điểm:
@@ -51,7 +51,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Mùa vụ:** Mỗi mùa **28 ngày**. Trồng phải tính ngày chín — trồng muộn là mất trắng khi sang mùa. Ưu tiên cây tái thu hoạch nếu còn đủ ngày.
 - **Chất lượng nông sản (Thường → Bạc → Vàng → Iridium):** quyết định bởi **cấp kỹ năng** + **phân bón**. Chênh lệch giá rất lớn, nên bón phân từ đầu.
 - **Mốc cấp độ quan trọng:** mở khóa **Vòi tưới cây** → **Thùng chứa (Keg)**. Hai thứ đổi đời, càng sớm càng tốt.
-- **Bậc thầy Trồng trọt (Mastery, 1.6):** thưởng **Liềm Iridium** và **Tượng Phước Lành** — mục tiêu dài hạn đáng cày.
+- **Bậc thầy Trồng trọt (Mastery, 1.6):** thưởng **Liềm Iridium** và **Tượng Phước Lành**, và từ đó bắt đầu tìm được **Bánh quy vật nuôi Hoàng kim** (nhân đôi sản phẩm của một vật nuôi, vĩnh viễn) — mục tiêu dài hạn đáng cày.
 
 > [!nghe] Chọn nhánh nghề Trồng trọt
 > Cấp 5 chọn **Nông sản (Tiller)** hay **Chăn nuôi (Rancher)**; cấp 10 theo Tiller → **Nghệ nhân (Artisan) +40%** — hướng kiếm tiền mạnh nhất game.
@@ -64,7 +64,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 
 ### 🎃 Bù nhìn Hiếm (Rarecrow)
 
-Dùng **y như Bù nhìn thường**, có ngay khi nhận, không cần mở khoá: đặt giữa ruộng là canh quạ vùng **17×17 bỏ góc** (~8 ô mỗi phía, 249 ô — Range Highlight hiện vùng khi cầm trên tay). Gỡ ra bằng cuốc chim hoặc rìu, rơi lại nguyên món. Khác Bù nhìn thường ở **hình dáng** — và ở thưởng khi gom đủ bộ.
+Dùng **y như Bù nhìn thường**, có ngay khi nhận, không cần mở khoá: đặt giữa ruộng là canh quạ vùng **17×17 bỏ góc** (~8 ô mỗi phía, 248 ô quanh nó — Range Highlight hiện vùng khi cầm trên tay). Gỡ ra bằng cuốc chim hoặc rìu, rơi lại nguyên món. Khác Bù nhìn thường ở **hình dáng** — và ở thưởng khi gom đủ bộ.
 
 **Đủ 8 con, cả 8 cùng nằm trên nông trại** → thư **Cộng đồng Bù nhìn Hiếm** gửi công thức **Bù nhìn Cao cấp** (50 Gỗ + 1 Quặng Iridium + 40 Sợi), phủ ~**16 ô**, 888 ô. Chỉ giữ trong rương là **không** nhận được thư — nên nhận con nào cứ cắm ra ruộng luôn.
 
@@ -79,7 +79,7 @@ Dùng **y như Bù nhìn thường**, có ngay khi nhận, không cần mở kho
 | 7 | Bảo tàng — quyên góp **20 cổ vật** (khoáng vật không tính) |
 | 8 | Bảo tàng — quyên góp **40 món** bất kỳ |
 
-Con 7 và 8 nhận từ Bảo tàng rồi thì **Chợ Đêm** bán lại thêm. Cổ vật trùng không đẩy mốc 7/8 lên — Bảo tàng chỉ đếm món khác nhau.
+Đạt mốc quyên góp rồi thì **thuyền phép ở Chợ Đêm** bán thêm con 7 và con 8, 5.000g mỗi con. Cổ vật trùng không đẩy mốc 7/8 lên — Bảo tàng chỉ đếm món khác nhau.
 
 _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Scarecrow](https://stardewvalleywiki.com/Deluxe_Scarecrow) trên wiki 1.6; tên lễ hội, món và thư theo file bản Việt hoá đang cài (`Data/Festivals`, `Data/mail`)._
 
@@ -98,20 +98,20 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 - **Quét đồ lượm mỗi ngày** ở Rừng Cindersap → Bãi biển → Núi (xem [[Bản đồ khu vực]], mấy bản đồ có ô màu chính là **điểm mọc đồ lượm**).
 - **Khu rừng Bí mật:** 6 gốc cây cứng hồi lại **mỗi ngày** → nguồn **Gỗ Cứng (Hardwood)** ổn định nhất, cần rìu Thép trở lên.
 - **Mùa Đông** vẫn lượm được: trên mặt đất mọc **Quả pha lê (Crystal Fruit)**, **Nghệ tây (Crocus)**, **Nhựa ruồi (Holly)**; còn **Rễ cây mùa đông** và **Khoai lang tuyết** thì không mọc trên mặt đất, chỉ ra khi đào điểm cổ vật hoặc cuốc đất — xem [[Điểm cổ vật]].
-- **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên (có cả Mảnh tán sắc).
+- **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên — dơi chỉ mang về Mâm xôi cá hồi, Thảo quả, Mận dại, Mâm xôi đen, Táo, Mơ, Cam, Đào, Lựu, Quả anh đào; **không** có Mảnh tán sắc.
 - Giữ lại **Nhựa cây (Sap)** để làm phân bón, đừng bán.
 
 > [!nghe] Chọn nhánh nghề Lượm — perk mạnh nhất game về lâu dài
-> Cấp 5 chọn **Người Tụ Tập (Gatherer)**: tỉ lệ **x2 sản lượng** khi lượm. Cấp 10 chọn **Nhà Thực Vật (Botanist)**: **mọi đồ lượm luôn ở phẩm cấp Iridium**.
+> Cấp 5 chọn **Người Tụ Tập (Gatherer)**: mỗi lần lượm có **20%** cơ hội được 2 món. Cấp 10 chọn **Nhà Thực Vật (Botanist)**: **mọi đồ lượm luôn ở phẩm cấp Iridium**.
 
 ### 🌸 Vì sao có hôm đi cả ngày không thấy gì
 
-- **Đồ lượm KHÔNG dính dáng tới may mắn.** Ngày xui vẫn mọc bình thường. Riêng **điểm cổ vật** thì may mắn có ảnh hưởng tới **số lượng**, nhưng không phải điều kiện bắt buộc — ngày xui vẫn có, chỉ ít hơn.
-- ⚠️ **Nông trại Tiêu chuẩn không mọc đồ lượm.** Chỉ **Nông trại Rừng (Forest Farm)** mới có. Đứng trong trại cả ngày thì không bao giờ thấy cây lượm nào, dù may cỡ nào — phải ra ngoài.
-- **Đồ lượm nằm nguyên tại chỗ tới khi có người nhặt**, mỗi ngày chỉ mọc thêm **nhỏ giọt**. Vét sạch một lượt thì phải 2–3 hôm bản đồ mới đầy lại.
+- **Đồ lượm KHÔNG dính dáng tới may mắn.** Ngày xui vẫn mọc bình thường. **Điểm cổ vật** cũng vậy — số điểm mọc không tính may mắn.
+- ⚠️ **Nông trại Tiêu chuẩn không mọc đồ lượm.** **Nông trại Rừng (Forest Farm)** có đồ lượm mọc trên farm (trừ mùa Đông), **Nông trại Bãi biển (Beach Farm)** có đồ dạt vào bờ. Ở farm Tiêu chuẩn thì đứng trong trại cả ngày cũng không bao giờ thấy cây lượm nào — phải ra ngoài.
+- **Đồ lượm nằm nguyên tại chỗ tới khi có người nhặt**, mỗi ngày chỉ mọc thêm **1–4 món** mỗi khu, và mỗi khu giữ **tối đa 6 món** cùng lúc. Vét sạch một lượt thì phải 2–3 hôm khu đó mới đầy lại.
 - **Ô đất bị chiếm thì không mọc** — chỗ có đá, cành cây, cỏ dại đều bị loại khỏi danh sách ô mọc được.
 
-**Cách chữa:** chạy đúng vòng **Rừng Cindersap → Núi → Bãi biển**, nhắm vào **vùng đỏ trên bản đồ** ở [[Bản đồ khu vực]] (đỏ = tỉ lệ cao, hồng = tỉ lệ thấp). Muốn kiểm chứng phần may mắn thì soi icon may mắn của **UI Info Suite 2** vài hôm liền.
+**Cách chữa:** chạy đúng vòng **Rừng Cindersap → Núi → Bãi biển**, nhắm vào **vùng đỏ trên bản đồ** ở [[Bản đồ khu vực]] (đỏ = tỉ lệ cao, hồng = tỉ lệ thấp).
 
 ## 🎣 Câu cá (Fishing)
 
@@ -123,7 +123,7 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 - Gắn gì lên cần theo mục đích (câu thường · săn một loài · săn rương): xem combo cuối mục [[Đồ câu cá#🪝 Phao & mồi tự chế|Phao & mồi tự chế]].
 - **Câu lúc mưa** để bắt cá đặc biệt; cá theo mùa/khung giờ/khu vực và danh sách còn thiếu xem [[Câu cá theo mùa]].
 - **Bẫy Cua (Crab Pot)** + mồi cho hải sản thụ động — kết hợp nghề **Thủy thủ (Mariner)** để bẫy không dính rác.
-- Cá phẩm cấp cao đem **ủ thành cá muối / nấu ăn** thường lời hơn bán thô.
+- Cá phẩm cấp cao đem **nấu ăn**, hoặc cho vào **Lò hun cá (Fish Smoker, 1.6)** thành **Cá xông khói** (giá gấp đôi theo wiki), thường lời hơn bán thô. Trứng cá ủ trong Vại Bảo quản thành **Trứng cá muối**.
 
 ## ⚔️ Chiến đấu (Combat)
 
@@ -144,13 +144,13 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 ### Trang bị
 
 - **Giày (Boots):** tăng **phòng thủ** và **miễn dịch (immunity)** — đừng bán giày tốt.
-- **Nhẫn (Rings):** hiệu ứng thụ động mạnh; từ 1.6 có thể **hợp nhất 2 nhẫn** (ở Lò rèn Đảo Gừng) thành 1 nhẫn gộp hiệu ứng.
-- Nhẫn nên có: **Nhẫn đạo tặc (Burglar's Ring)** (quái rơi đồ x2) · **Nhẫn hoang dã (Savage Ring)** (hạ quái xong được +2 tốc độ trong 3 giây) · **Nhẫn Java nóng bỏng (Hot Java Ring)** (quái hay rơi Cà phê — uống vào tăng tốc) · **Nhẫn của Yoba (Ring of Yoba)** (khiên đỡ sát thương).
+- **Nhẫn (Rings):** hiệu ứng thụ động mạnh; từ bản **1.5** có thể **hợp nhất 2 nhẫn** (ở Lò rèn Đảo Gừng) thành 1 nhẫn gộp hiệu ứng.
+- Nhẫn nên có: **Nhẫn đạo tặc (Burglar's Ring)** (mỗi con quái tung bảng rơi đồ **thêm một lần**) · **Nhẫn hoang dã (Savage Ring)** (hạ quái xong được +2 tốc độ trong 3 giây) · **Nhẫn Java nóng bỏng (Hot Java Ring)** (quái hạ xong 25% rơi Cà phê, không thì 10% rơi Cà phê ba lần — uống vào tăng tốc) · **Nhẫn của Yoba (Ring of Yoba)** (khi bị đánh có cơ hội được khiên 5 giây, càng ít máu càng dễ ra).
 
 ### Chỉ số, cấp độ & nâng cấp
 
 - Chỉ số chính: **tấn công · phòng thủ · tốc độ · chí mạng**.
-- Mỗi cấp Chiến đấu tăng **máu tối đa** và mở công thức hữu ích (**Dầu tỏi / Oil of Garlic** — quái không tự sinh quanh bạn; **Nhẫn của Yoba**…).
+- Mỗi cấp Chiến đấu tăng **máu tối đa** và mở công thức hữu ích (**Dầu tỏi / Oil of Garlic** — tầng mới vào trong Hầm Mỏ không có quái, nhưng không có tác dụng ở Hang Đầu lâu; **Nhẫn của Yoba**…).
 - Chọn nghề ở **cấp 5** và **cấp 10** theo lối chơi (thiên sát thương hay thiên máu/phòng thủ).
 - **Lò rèn ở Đảo Gừng (Forge):** khảm ngọc tăng chỉ số · **phù phép (enchantment)** cơ bản/cao cấp · nâng lên **vũ khí Vô Cực (Infinity)**.
 - **Bậc thầy Chiến đấu (Mastery, 1.6):** mở **Đe (Anvil)** — roll lại chỉ số **Đồ trang sức (Trinket)** — và **Lò rèn mini (Mini-Forge)**. Đồ trang sức đáng chú ý: **Hộp Cổ Tích (Fairy Box)** gọi tiên hồi máu · **Trứng Vẹt (Parrot Egg)** cho vẹt nhặt vàng từ quái bị hạ.
@@ -158,7 +158,7 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 ### Mẹo thực chiến
 
 - Mang **phô mai (Cheese)** làm đồ hồi máu rẻ, ăn nhanh khi ở tầng sâu.
-- **Nhẫn đạo tặc + diệt Tinh linh bụi (Dust Sprite)** ở tầng **60–79** là cách farm **Than đá (Coal)** hiệu quả nhất.
+- **Nhẫn đạo tặc + diệt Tinh linh bụi (Dust Sprite)** ở tầng **40–69** là cách farm **Than đá (Coal)** hiệu quả nhất — từ tầng 70 quái chủ yếu là Bộ xương.
 - **Nhẫn hoang dã** hoặc **Nhẫn Java nóng bỏng** để chạy nhanh, tiết kiệm thời gian mỗi chuyến hầm — game **không có "Nhẫn Cà phê"** như video gọi.
 - Đi Hang Đầu lâu xem thêm [[#⛏️ Khai thác (Mining)|mục Khai thác]] ở trên.
 
@@ -171,7 +171,7 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 | **Thu năm 1** | **Nam việt quất (Cranberry)** · **Hạt giống hiếm** | Hạt giống hiếm → **Dâu ngọc ngọt ngào (Sweet Gem Berry)** bán rất cao |
 | **Đông năm 1** | Đi mỏ, câu cá, kết bạn, xây dựng | Ngoài trời không trồng được (trừ Nhà kính) — dồn sức lên cấp |
 | **Từ năm 2** | **Trái cổ đại (Ancient Fruit)** + dàn **Thùng chứa (Keg) → Rượu** | Hướng làm giàu bền vững nhất |
-| **Bất kỳ lúc nào** | **Heo (Pig) → Nấm cục (Truffle) → Dầu nấm** | Nuôi Hạ/Thu, dùng Máy ép dầu (Oil Maker) |
+| **Xuân–Thu** | **Heo (Pig) → Nấm cục (Truffle) → Dầu nấm** | Heo chỉ đào Nấm cục khi được thả ra ngoài trời: không mưa, không phải mùa Đông. Dùng Máy ép dầu (Oil Maker) |
 
 > [!tien] Nguyên tắc chung — chế biến trước khi bán
 > Rượu (Wine) / Thạch (Jelly) / Bia nhẹ (Pale Ale) lời hơn bán thô rất nhiều — kết hợp nghề **Nghệ nhân (Artisan +40%)**. Dùng **Máy tạo Hạt giống (Seed Maker)** để nhân giống cây đắt thay vì mua hạt.
@@ -201,7 +201,8 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 ### Trò chuyện mỗi ngày
 
 - Nói chuyện **lần đầu trong ngày** với mỗi dân làng = **+20 điểm**. Nói tiếp trong cùng ngày = **0 điểm**.
-- **Không** nói chuyện thì tình cảm **tụt**: dân làng thường **−2/ngày** · người đang hẹn hò (đã tặng Bó hoa) **−8/ngày** · vợ/chồng **−20/ngày**. Nên chênh lệch thực tế giữa có nói và không nói là **22 điểm/ngày**, không phải 20.
+- **Không** nói chuyện thì tình cảm **tụt**: dân làng thường **−2/ngày** · người đang hẹn hò (đã tặng Bó hoa) **−10/ngày** (−8 và thêm −2) · vợ/chồng **−20/ngày** (−22 khi dưới 10 tim). Nên chênh lệch thực tế giữa có nói và không nói là **22 điểm/ngày** với dân làng thường, không phải 20.
+- Đã **đầy tim** thì không tụt nữa: 10 tim với dân làng thường, 8 tim với người hẹn hò được mà chưa tặng Bó hoa.
 - Lời thoại đổi theo **mùa · thứ trong tuần · thời tiết · mức tim · sự kiện vừa xảy ra**, nhưng kho câu hữu hạn nên **lặp lại là chuyện thường**. Thoại lặp **vẫn ăn đủ +20** — đừng bỏ qua ai chỉ vì "câu này nghe rồi".
 - Đi một vòng thị trấn buổi sáng (~9–11h) chạm được nhiều người nhất trong một lượt.
 
@@ -219,7 +220,7 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 
 - Dân làng thường trần **10 tim**. Người hẹn hò được cũng **kẹt trần 8 tim** cho tới khi tặng bó hoa.
 - **8 tim** → mua **Bó hoa (Bouquet)** ở tiệm Pierre (200g) để chính thức hẹn hò, mở trần lên 10 tim.
-- **10 tim** + đã **nâng cấp nhà ít nhất 1 lần** → mua **Dây chuyền tiên cá (Mermaid's Pendant)** 5.000g từ ông lão ở mép phải **Bãi biển vào ngày mưa** (riêng mùa Đông thì ngày **15–17** dù thời tiết nào) để cầu hôn. Cưới xong trần lên **14 tim**.
+- **10 tim** + đã **nâng cấp nhà ít nhất 1 lần** → mua **Dây chuyền tiên cá (Mermaid's Pendant)** 5.000g từ ông lão ở mép phải **Bãi biển vào ngày mưa**, trước 19:00, để cầu hôn. Mùa Đông không có mưa tự nhiên — muốn gặp ông thì cắm **Cọc cầu mưa (Rain Totem)** từ hôm trước. Cưới xong trần lên **14 tim**.
 
 ## 🧩 Nhà Văn hóa
 
@@ -231,13 +232,13 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 
 > _Menu → **Tùy chọn (Options)**. Đây là cài đặt sẵn của game, không cần mod._
 
-- ✅ **Luôn hiện vị trí sử dụng công cụ** (_Always Show Tool Hit Location_) — vẽ **ô vuông sáng** lên đúng ô mà cuốc/bình tưới/rìu/cúp sẽ tác động.
+- ✅ **Luôn Hiện Vị trí Sử dụng Công cụ** (_Always Show Tool Hit Location_) — vẽ **ô vuông sáng** lên đúng ô mà cuốc/bình tưới/rìu/cúp sẽ tác động.
   - Mặc định **tắt** → ô chỉ báo chỉ hiện lúc **giữ chuột để sạc**. Bật lên thì hiện **liên tục** ngay khi cầm công cụ.
   - Lợi: khỏi lỡ tay **cuốc trúng cây trồng** hay **chặt nhầm** đồ đã đặt; với công cụ đã nâng cấp, lúc sạc thấy rõ **cả vùng nhiều ô** → xếp luống đều, tưới 1 phát cả hàng.
   - Chỉ áp dụng cho **công cụ**, không áp dụng vũ khí/cần câu. Khác với **Range Highlight** (mod đó tô vùng phủ của Vòi tưới cây/Bù nhìn/Nhà Ong — xem [[Mods#Range Highlight 4.2.1|Mods]]).
-- ✅ **Hiện thông tin chế tạo nâng cao** (_Show Advanced Crafting Information_) — hiện số lượng có thể chế và số nguyên liệu đang có ngay trong menu Chế tạo/Nấu ăn.
-- 🔧 **Mức thu phóng / Tỷ lệ giao diện** (_Zoom Level / UI Scale_) — hạ Zoom để thấy rộng hơn (tiện lúc quy hoạch nông trại), giữ UI Scale to cho dễ đọc.
-- 🔧 **Chạy tự động** (_Auto-Run_) — mặc định bật; giữ `Shift` để đi bộ chậm khi cần né chính xác.
+- ✅ **Hiện Thông tin Chế tác Chi tiết** (_Show Advanced Crafting Information_) — hiện số lượng có thể chế và số nguyên liệu đang có ngay trong menu Chế tạo/Nấu ăn.
+- 🔧 **Mức Thu phóng / Tỉ lệ giao diện** (_Zoom Level / UI Scale_) — hạ Zoom để thấy rộng hơn (tiện lúc quy hoạch nông trại), giữ UI Scale to cho dễ đọc.
+- 🔧 **Tự động Chạy** (_Auto Run_) — mặc định bật; giữ `Shift` để đi bộ chậm khi cần né chính xác.
 
 ### ⌨️ Phím tắt gốc của game (để tránh gán trùng khi cài mod)
 
