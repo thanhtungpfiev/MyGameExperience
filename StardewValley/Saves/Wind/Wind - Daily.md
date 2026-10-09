@@ -12,16 +12,16 @@
 
 > _Save này chơi với cheat. Hai giới hạn mà mùa Xuân Năm 1 bên dưới lấy làm trục — **"đừng dọn quá sức"** và **"về tới nhà đã 22:00 là mất cả ngày"** — **không còn đúng từ đây**. Ngày 1–23 giữ nguyên như đã chơi, đọc như lịch sử._
 
-**6 cheat đang bật** (đọc từ bảng `config.json` ở [[Mods#CJB Cheats Menu 1.42.0|Mods — CJB Cheats Menu]]; mọi thứ không có trong bảng đó đều tắt): `InfiniteStamina` · `InfiniteHealth` · `FreezeTime` · `FreezeTimeCaves` · `InstantBite` · `ThrowBobberMax`.
+**8 cheat đang bật** (đọc từ bảng `config.json` ở [[Mods#CJB Cheats Menu 1.42.0|Mods — CJB Cheats Menu]]; mọi thứ không có trong bảng đó đều tắt): `InfiniteStamina` · `InfiniteHealth` · `FreezeTime` · `FreezeTimeInside` · `FreezeTimeCaves` · `InstantBite` · `ThrowBobberMax` · `DurableTackles`.
 
-**Cheat xoá bỏ:** hết năng lượng giữa ngày · chết trong mỏ/hang · hết giờ trước khi làm xong · phải tính đường đi cho tiết kiệm thời gian · giữ nút canh lực khi quăng cần.
+**Cheat xoá bỏ:** hết năng lượng giữa ngày · chết trong mỏ/hang · hết giờ trước khi làm xong · phải tính đường đi cho tiết kiệm thời gian · giữ nút canh lực khi quăng cần · phao câu hao mòn.
 
 **Còn lại là giới hạn thật — kế hoạch phải xếp quanh mấy thứ này:**
 
 | Giới hạn | Vì sao cheat không gỡ |
 |---|---|
 | 🛒 **Hàng reset theo ngày** | Pierre · Xe hàng rong · cỏ khô ở Marnie · thư trong hộp — mỗi ngày đúng một lượt, không mua dồn được |
-| 🍀 **May mắn của ngày** | `MaxDailyLuck` **đang tắt**, `AlwaysTreasure` cũng **tắt** → tỉ lệ thang trong mỏ, ô cổ vật, rương kho báu khi câu vẫn tuỳ ngày |
+| 🍀 **May mắn của ngày** | `MaxDailyLuck` **đang tắt**, `AlwaysTreasure` cũng **tắt** → tỉ lệ thang trong mỏ, rương kho báu khi câu, một số loài cá vẫn tuỳ ngày |
 | 🌦️ **Thời tiết** | Cheat _"đặt thời tiết ngày mai"_ **đang tắt** → thời tiết vẫn ngẫu nhiên, trừ mấy ngày mưa/nắng cố định theo lịch |
 | 🔨 **Robin mỗi lúc một công trình** | Cheat _"xây nhanh"_ **đang tắt** → vẫn 2–3 ngày mỗi cái, công trình cùng mùa phải xếp nối nhau |
 | 🎣 **Minigame câu cá** | `InstantCatch` **đang tắt** → vẫn phải tự đánh; `InstantBite` + `ThrowBobberMax` chỉ làm mỗi lượt nhanh hơn, không làm chắc ăn hơn |
@@ -33,8 +33,13 @@
 > [!tip] Hai phím NumPad — tự đặt luật không dùng
 > `NumPad1` (cây gỗ/cây ăn quả lớn ngay) và `NumPad2` (cây trồng chín ngay, ô 3×3) dùng được **thẳng ngoài game**, không cần bật gì — tức là "cây lớn theo ngày" về mặt kỹ thuật cũng gỡ được. Cả note này giả định **không dùng hai phím đó**: bấm vào là mất hẳn nhịp mùa vụ, mà nhịp mùa vụ chính là thứ còn lại để lên kế hoạch.
 
-> [!warning] Chưa kiểm chứng — đóng băng thời gian và "khung giờ"
-> Giả thuyết: đóng băng thời gian làm **khung giờ cửa hàng** thành vô hạn (đóng băng lúc 10:00 thì Pierre mở mãi), **nhưng việc cần ĐÚNG một mốc giờ thì vẫn phải để đồng hồ chạy tới mốc đó rồi mới đóng băng** — 12:00 rung bụi lấy Junimo Nhồi bông, 09:00 vào lễ hội, 08:00–13:00 mở Nhà Văn hóa. Máy đang ngồi **chưa cài game nên chưa soi được file 1.6.15**; khi nào làm việc trên máy chơi game thì xác nhận rồi xoá cảnh báo này.
+> [!info] Đóng băng thời gian và "khung giờ"
+> `FreezeTime` chỉ **giữ đồng hồ đứng yên** — mỗi khung hình đặt lại bộ đếm 10 phút, chứ không chặn chỗ game tự gán giờ. Nên:
+> - **Khung giờ cửa hàng thành vô hạn**: đóng băng lúc 10:00 thì Pierre mở mãi.
+> - **Việc cần ĐÚNG một mốc giờ**: chỉnh giờ tới mốc đó ở tab **Thời gian** của CJB (mod cho đồng hồ chạy qua từng nấc 10 phút, sự kiện theo giờ vẫn kích hoạt), rồi **cứ để đóng băng** — mốc đó đứng yên chờ bạn. Áp cho 12:00 rung bụi lấy Junimo Nhồi bông, 09:00 vào lễ hội.
+> - **Rời lễ hội vẫn nhảy thẳng tới 22:00** (Hạ 28 và Thu 27 là 24:00) — game gán thẳng giờ, đóng băng không cản được.
+>
+> _Kiểm chứng: `FreezeTimeCheat` · `SafelySetTime` trong `CJBCheatsMenu.dll` và `Event.exitEvent` của game 1.6.15._
 
 ---
 
@@ -77,16 +82,21 @@
 >
 > | Lý do còn lại | Công cụ | Thứ tự mới |
 > |---|---|---|
-> | 🚧 **Cửa chặn cứng** — không đủ tier là không làm được, bao nhiêu thể lực cũng vô ích | **Rìu** (Đồng → gốc cây lớn · Thép → khúc gỗ lớn) · **Cần câu** (Sợi thuỷ tinh → dùng mồi · Iridium → thêm phao) | **1** |
+> | 🚧 **Cửa chặn cứng** — không đủ tier là không làm được, bao nhiêu thể lực cũng vô ích | **Rìu** (Đồng → gốc cây lớn · **Thép → khúc gỗ lớn**, cái chặn lối vào rừng Bí mật) · **Cuốc chim** (**Thép → tảng đá lớn** · Vàng → thiên thạch) | **1** |
 > | 🖱️ **Diện tích mỗi nhát** — đổi lấy việc khỏi phải click, có giá trị thật khi lên 6 ô ruộng | **Bình tưới** · **Cuốc** | **2** |
-> | _(hết lý do)_ | **Cuốc chim** — tier gần như chỉ là năng lượng và tốc độ | **3** |
+>
+> **Cần câu đã xong** — save đã có **Cần câu Iridium** (đủ chỗ mồi và phao), khỏi tính.
+>
+> **Hiện trạng (Quicksave Xuân 24):** Rìu **Đồng** · Cuốc chim **Đồng** · Bình tưới **Đồng** · Cuốc **Thép** (nằm ở chỗ Clint, **đã nâng xong, lấy về được**) · Cần câu **Iridium**. Bước kế tiếp đáng gửi nhất là **Rìu Thép** hoặc **Cuốc chim Thép** — hai cái này mở thứ mới, còn Bình tưới chỉ là đỡ click.
 >
 > **Túi đồ không phải việc của Clint mà của Pierre**, và nó là giới hạn cheat không chạm tới: 24 ô **2.000g**, 36 ô **10.000g**. Save Xuân 18 đã có 24 ô.
 >
 > Và luật canh thời điểm vẫn nguyên giá trị, chỉ đổi lý do: **nâng Bình tưới đúng hôm ② báo mai mưa** — không phải để tiết kiệm năng lượng nữa, mà vì hai ngày không có bình là hai ngày ruộng khô.
 
-> [!warning] Chưa kiểm chứng — đọc được tới đâu trong save
-> Cả 12 mục trên **được cho là** nằm trong file Quicksave, nhưng máy đang ngồi chưa cài game và không có thư mục save, nên **chưa mở file nào ra xác nhận**. Mục ⑩ đáng ngờ nhất: quest đang nhận thì chắc, còn **bảng Help Wanted của hôm nay có nằm trong save hay chỉ sinh ra lúc chạy game thì chưa rõ** — nếu không có thì mục đó phải đọc trong game rồi dán tay. Thứ tự tier ở callout trên (Rìu Đồng → gốc cây lớn, Rìu Thép → khúc gỗ lớn, Cần câu Sợi thuỷ tinh → mồi) cũng theo hiểu biết chung, chưa soi `Data/Tools`. Lần đầu đọc save thật trên máy chơi game thì chốt lại cả hai chỗ rồi xoá cảnh báo này.
+> [!info] Đọc được tới đâu trong save
+> **11/12 mục nằm trong file Quicksave** (đã mở bản Xuân 24 ra xác nhận). Mục hụt là **bảng Help Wanted** của mục ⑩: game giữ nó trong bộ nhớ lúc chạy, **không ghi vào save** — quest **đã nhận** thì có trong save, còn quest đang treo trên bảng thì phải xem trong game rồi dán tay.
+>
+> _Kiểm chứng: save `Wind_448678493/Quicksave` (game 1.6.15) · tier công cụ đọc từ `ResourceClump.performToolAction` của game._
 
 > [!info] Nhóm B ghi ở đâu
 > Trạng thái dài hạn của ⑧ ⑨ ⑩ **vẫn thuộc về** [[Wind - Tiến độ]] — note đó trả lời "save này đã làm được gì, còn thiếu gì", đừng chẻ sự thật ra hai chỗ. Ở note này, khối **📋 Thực tế** của ngày chỉ ghi phần **việc làm được hôm nay**, còn bảng tích thì cập nhật bên Tiến độ.
@@ -105,26 +115,31 @@
 **Hai trục trả lời hai câu khác nhau — đừng gộp:**
 
 - ☀️🌧️ **Thời tiết quyết CHỖ LÀM.** Nắng là ngày duy nhất **bắt buộc** mất lượt tưới; mưa thì ruộng tự tưới, dư nguyên nửa ngày, và là ngày của cá/mỏ.
-- 🍀 **May mắn quyết CÓ NÊN ĐÁNH CƯỢC.** Việc trả kết quả **ngẫu nhiên** (mỏ sâu, rương câu, ô cổ vật) để ngày may cao; việc trả kết quả **cố định** (xây, tặng quà, nấu, nộp gói) để ngày may thấp.
+- 🍀 **May mắn quyết CÓ NÊN ĐÁNH CƯỢC.** Việc trả kết quả **ngẫu nhiên** (thang trong mỏ, rương câu, cá hiếm) để ngày may cao; việc trả kết quả **cố định** (xây, tặng quà, nấu, nộp gói) để ngày may thấp.
 
 ### 🍀 Đọc mức may mắn
 
-| Mức | `dailyLuck` | Tiên tri trên TV |
+| Mức | `dailyLuck` | Tiên tri trên TV (bản Việt hóa) |
 |---|---|---|
-| 🍀 **May cao** | > +0,02 | tinh linh _vui vẻ_ / _rất vui_ |
-| 😐 Trung tính | −0,02 … +0,02 | tinh linh _không để ý tới bạn_ |
-| 💀 **May thấp** | < −0,02 | tinh linh _hơi phiền_ / _rất không vui_ |
+| 🍀🍀 **Rất may** | > +0,07 | _"Hôm nay các linh hồn **rất vui**!…"_ |
+| 🍀 **May cao** | +0,02 … +0,07 | _"Hôm nay các linh hồn có **tâm trạng vui vẻ**…"_ |
+| 😐 Trung tính | −0,02 … +0,02 | _"Hôm nay các linh hồn **thấy bình thường**…"_ |
+| 💀 **May thấp** | −0,07 … −0,02 | _"Hôm nay các linh hồn **hơi khó ở**…"_ hoặc _"…**hơi lộn xộn**…"_ |
+| 💀💀 **Rất xui** | < −0,07 | _"Hôm nay các linh hồn **rất không vừa lòng**…"_ |
 
-Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết.
+Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. Hai mức "rất" chỉ là cùng nhánh nhưng đậm hơn — playbook không tách riêng.
 
-> [!warning] Chưa kiểm chứng — ngưỡng số
-> Hai con số ±0,02 và danh sách việc chịu ảnh hưởng của may mắn lấy theo hiểu biết chung về cơ chế game, **chưa soi file 1.6.15** (máy đang ngồi chưa cài game). Câu chữ Tiên tri trên TV còn qua bản Việt hóa nữa nên có thể lệch chữ. Cái chắc chắn: Claude đọc thẳng `dailyLuck` từ save ở nhịp ①, nên **không cần bạn tự phân mức**.
+> [!info] May mắn chạm vào đâu — và không chạm vào đâu
+> **Có:** tỉ lệ ra **thang** mỗi viên đá đập trong mỏ (cộng thẳng `dailyLuck`/5) · tỉ lệ **rương kho báu** khi câu (`dailyLuck`/2) · tỉ lệ cắn của **một số loài cá** · quặng và rương trong mỏ.
+> **Không:** **số ô cổ vật** mọc ra mỗi ngày và **đồ đào được** từ ô cổ vật — đào hôm nào cũng như nhau · tỉ lệ nhặt **Ghi chú bí mật** · đồ rơi thường từ quái. Mấy việc này làm ngày nào cũng được, đừng để dành cho ngày may.
+>
+> _Kiểm chứng trên game 1.6.15: `TV.getFortuneForecast` cho ngưỡng và câu chữ (chuỗi lấy từ bản Việt hóa đã cài) · `MineShaft`, `FishingRod`, `GameLocation.digUpArtifactSpot`/`spawnObjects` cho phần có/không. Claude đọc thẳng `dailyLuck` từ save ở nhịp ①, nên **không cần bạn tự phân mức**._
 
 ### 🎯 Bảng giao — việc chính hôm nay nên là gì
 
 | | 🍀 May cao | 💀 May thấp |
 |---|---|---|
-| ☀️ **Nắng** | **Xuống mỏ / tầng mới** — tưới xong là đi, thang ra nhiều, ô cổ vật nhiều | **Xây & lát đường** — Robin, Vòi tưới, Đường lát đá, hàng rào: tốn nguyên liệu chứ không tốn may mắn |
+| ☀️ **Nắng** | **Xuống mỏ / tầng mới** — tưới xong là đi, đập đá ra thang nhiều hơn | **Xây & lát đường** — Robin, Vòi tưới, Đường lát đá, hàng rào: tốn nguyên liệu chứ không tốn may mắn |
 | 🌧️ **Mưa** | **Câu cá mục tiêu + rương kho báu** — khỏi tưới nên cả ngày là của cần câu, mà `AlwaysTreasure` đang tắt nên rương chỉ ra nhiều vào ngày may cao | **Việc trong nhà & quan hệ** — nấu ăn, nộp gói Cộng đồng, quyên góp Bảo tàng, đi một vòng tặng quà |
 
 ### ☀️ Nắng
@@ -138,7 +153,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết.
 - **Vì sao:** mưa **tự tưới cả ruộng** → đây là ngày rảnh nhất của tuần. ⚡ Mưa có sấm thì cây ngoài trời có thể bị sét đánh cháy — chưa có Cột thu lôi thì đó là mất trắng, không cứu được
 
 ### 🍀 May cao
-- **Làm:** mỏ sâu / tầng mới · rương kho báu khi câu · ô cổ vật (worm tile) · tìm Ghi chú bí mật · săn đồ rơi hiếm từ quái
+- **Làm:** mỏ sâu / tầng mới · rương kho báu khi câu · cá hiếm
 - **Vì sao:** đây đúng là nhóm việc **trả ra kết quả ngẫu nhiên** — cùng một công bỏ ra, ngày may cao ăn hơn hẳn. Và vì `MaxDailyLuck` đang tắt, ngày may cao là tài nguyên có hạn, không gọi ra được
 
 ### 💀 May thấp
@@ -540,7 +555,7 @@ Mưa — đúng điều kiện Cá huyền thoại, nhưng **đã quyết để 
 - [x] Bật TV xem công thức mới
 - [x] **Thu hoạch lứa Dâu tây đầu tiên** — cây tái thu hoạch, không cần trồng lại, 4 ngày nữa ra tiếp
 - [x] Ghé xe hàng rong nếu còn thiếu Hạt giống hiếm _(mua thêm 1 → **tổng 2 hạt**, ví còn **8.600g**)_
-- [x] 🐔 **Đặt Robin xây Chuồng gia cầm** (4.000g + gỗ + đá; chứa tối đa 4 con) — xây 3 ngày, **xong sáng Ngày 24**. Quicksave sau đó: ví còn **4.298g**, và nông trại **chưa có Kho chứa Cỏ** → đặt xây ở Ngày 25
+- [x] 🐔 **Đặt Robin xây Chuồng gia cầm** (4.000g + gỗ + đá; chứa tối đa 4 con) — xây 3 ngày, **xong sáng Ngày 25** _(Quicksave Xuân 24 còn 1 ngày xây)_. Quicksave sau đó: ví còn **4.298g**, và nông trại **chưa có Kho chứa Cỏ** → đặt xây ở Ngày 25
 - [x] Đây cũng là **hạn chót gieo Đậu xanh đã qua từ Ngày 18** — nếu lỡ thì bỏ qua, dồn sang Hạ
 
 **Lưu ý:** Dâu tây phẩm cấp cao (vàng/tím) giữ lại vài quả cho gói Cộng đồng/Bảo tàng nếu chưa có, còn lại ship hết.
@@ -592,7 +607,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **🔒 Cứng**
 - Vũ hội Hoa **09:00–14:00**, phía tây Rừng Cindersap, qua cây cầu phía nam Tháp Phù thủy — trước 09:00 chỗ đó chưa mở.
 - **Mọi tiệm trong thung lũng đóng cửa cả ngày**, kể cả Pierre và JojaMart — ngày có lễ hội bắt đầu trước 19:00 thì game khoá hết.
-- Rời lễ hội lúc nào thì đồng hồ cũng **nhảy thẳng tới 22:00** rồi trả bạn về nông trại. Đây là **nhảy theo kịch bản, không phải thời gian chạy**, nên `FreezeTime` gần như chắc chắn không cản được — _chưa soi file xác nhận_. Cứ coi như hết ngày.
+- Rời lễ hội lúc nào thì đồng hồ cũng **nhảy thẳng tới 22:00** rồi trả bạn về nông trại. Đây là **game gán thẳng giờ, không phải thời gian chạy**, nên `FreezeTime` không cản được _(`Event.exitEvent`, game 1.6.15)_. Cứ coi như hết ngày.
 - Ngày cuối còn kịp gieo Cải vàng (4 ngày, chín đúng Ngày 28) — nhưng hôm nay không mua được hạt, xem 📎.
 
 **🌦️ Nhánh:** **nắng cố định** (ngày lễ hội không bao giờ mưa), và cả ngày đã bị lễ hội chiếm → hôm nay không dùng [[#🌦️ Playbook theo nhánh|playbook]].
@@ -626,7 +641,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **🔒 Cứng**
 - Lứa Dâu tây thứ 2 chín hôm nay (gieo Ngày 13, không bón Phân bón Thúc) _(Quicksave Xuân 21: 40 bụi vừa hái lứa 1, đếm ngược 4 ngày → đúng hôm nay)_.
-- Chuồng gia cầm xong sáng Ngày 24 → **hôm nay mới đặt Robin xây tiếp được** (Robin mỗi lúc một công trình).
+- Chuồng gia cầm **xong sáng nay** _(Quicksave Xuân 24: còn 1 ngày xây — không phải xong Ngày 24 như dự tính)_ → **hôm nay mới đặt Robin xây tiếp được** (Robin mỗi lúc một công trình).
 - Kho chứa Cỏ xây **2 ngày** → xong sáng **Ngày 27**. **Đừng cắt cỏ trước Ngày 27** — chưa có kho thì cắt là mất trắng.
 
 **🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Nắng → giữ việc chính như dưới. Mưa → vẫn đặt Robin được (mưa không cản xây), lấy nửa ngày dư cho [[#🌧️ Mưa|cá/mỏ]]. May thấp → đúng ngày để xây, khỏi đổi gì.
@@ -688,15 +703,17 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 ### 🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong
 
 **🔒 Cứng**
-- **Đúng 12:00 trưa** (12:00–12:09): rung **bụi cây phía trên sân chơi**, góc tây bắc Thị trấn → **Junimo Nhồi bông**, **1 lần/save**; lỡ thì chờ ngày 28 mùa sau — xem [[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật — Mọi mùa]].
+- **Đúng 12:00 trưa** (12:00–12:09): rung **bụi cây phía trên sân chơi** — ô **(20, 8)** của Thị trấn, góc tây bắc → **Junimo Nhồi bông**, **1 lần/save** _(Quicksave Xuân 24: chưa nhận)_; lỡ thì chờ ngày 28 mùa sau — xem [[Bí mật & Sự kiện ẩn#🔁 Mọi mùa|Bí mật — Mọi mùa]].
 - **Xe hàng rong** · **TV công thức mới** lần cuối trong mùa.
 - Qua đêm nay mọi cây ngoài trời chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất). **Ngoại lệ: cây Trái cổ đại ở ô (72, 27) sống tiếp qua Hạ** — đừng nhổ, xem [[#☀️ Ngày 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong|Ngày 21]].
 - **Không cần dọn đất trước** — đất tự "cày lại" khi sang mùa mới, cây chết tự biến mất.
 
 **🌦️ Nhánh:** việc chính hôm nay là mốc 12:00, **không nhường cho nhánh nào**. Nhánh chỉ quyết việc phụ: mưa → [[#🌧️ Mưa|câu cá nốt ngày mưa cuối mùa]] · nắng + may cao → [[#🍀 May cao|mỏ]].
 
-> [!important] Mốc 12:00 và đóng băng thời gian
-> Việc này cần đồng hồ **chạy tới đúng 12:00** rồi mới rung bụi. Nếu đang đóng băng ở giờ sớm hơn thì phải **tắt `FreezeTime`** cho thời gian chạy tới trưa (hoặc chỉnh giờ ở tab **Thời gian**), xong rồi bật lại. Đây là chỗ dễ mất nhất trong cả mùa vì chỉ có **1 lần/save**.
+> [!important] Mốc 12:00 và đóng băng thời gian — đóng băng lại là **lợi**
+> Bụi chỉ cho Junimo khi giờ game **đúng bằng 12:00**, tức 10 phút thật ngắn ngủi nếu đồng hồ chạy. Với `FreezeTime` thì làm ngược lại: mở CJB (`P`) → tab **Thời gian** → **kéo giờ tới 12:00**, rồi **cứ để đóng băng** — giờ đứng yên ở 12:00 nên đi tới bụi lúc nào cũng kịp. Đừng tắt đóng băng: để đồng hồ tự chạy mới là cách dễ trượt mốc.
+>
+> _Kiểm chứng trên game 1.6.15: `Bush.shake` so `timeOfDay == 1200` đúng ô (20, 8) ngày 28; tab Thời gian của CJB đi qua từng nấc 10 phút (`SafelySetTime`)._
 
 **✅ Việc hôm nay**
 - [ ] 🎯 🔮 **12:00 rung bụi lấy Junimo Nhồi bông** (góc tây bắc Thị trấn, trên sân chơi)
@@ -716,7 +733,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 > _Xây dần theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]] — toạ độ từng món, ảnh và link planner ở bên đó; đứng ngoài trại bấm `Z` ([[Mods#Debug Mode 1.17.4|Debug Mode]]) để đọc toạ độ ô. Chi phí và công thức dưới đây đọc từ file game 1.6.15 (`Data/Buildings`, `Data/CraftingRecipes`, `Data/Shops`), không phải trí nhớ._
 >
-> _**Hiện trạng (Quicksave Xuân 23, Năm 1):** Nông nghiệp cấp 4 · ví 13.902g · Chuồng gia cầm đang xây ở **(45, 14)**, xong sáng Xuân 24 · chưa có Kho chứa Cỏ._
+> _**Hiện trạng (Quicksave Xuân 23, Năm 1):** Nông nghiệp cấp 4 · ví 13.902g · Chuồng gia cầm đang xây ở **(45, 14)**, xong sáng Xuân 25 · chưa có Kho chứa Cỏ._
 
 > [!tip] Hai luật giúp xây dần không phải phá đi làm lại
 > **Robin dời công trình miễn phí** (Cửa hàng Mộc → di chuyển công trình), nên công trình đặt tạm chỗ khác thì về sau dời về đúng toạ độ cũng chẳng mất gì. **Robin chỉ xây một công trình một lúc**, mỗi cái 2–3 ngày, nên các công trình cùng mùa phải xếp nối nhau.
