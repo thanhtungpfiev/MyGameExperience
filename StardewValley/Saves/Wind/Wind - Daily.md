@@ -613,9 +613,9 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 **🌦️ Nhánh:** **nắng cố định** (ngày lễ hội không bao giờ mưa), và cả ngày đã bị lễ hội chiếm → hôm nay không dùng [[#🌦️ Playbook theo nhánh|playbook]].
 
 **✅ Việc hôm nay**
-- [ ] 🎯 **Dự Vũ hội Hoa** — vào trong khung 09:00–14:00
-- [ ] Mời **Haley** nhảy — cần **≥ 4 tim**, nhảy xong +1 tim (250 điểm) _(Quicksave Xuân 21: Haley vừa đủ 4 tim — 1.158 điểm)_
-- [ ] Tưới ruộng, thu hoạch & ship **trước khi vào lễ hội**
+- [x] 🎯 **Dự Vũ hội Hoa** — vào trong khung 09:00–14:00
+- [x] Mời **Haley** nhảy — cần **≥ 4 tim**, nhảy xong +1 tim (250 điểm) _(Quicksave Xuân 21: Haley vừa đủ 4 tim — 1.158 điểm)_
+- [x] Tưới ruộng, thu hoạch & ship **trước khi vào lễ hội**
 
 **📎 Chi tiết đã kiểm chứng**
 
@@ -640,6 +640,11 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Robin:** Chuồng gia cầm ở (45, 14) **còn 1 ngày** → xong sáng Ngày 25. **Clint:** **Cuốc Thép đã xong**, chờ lấy (tiệm đóng hôm nay → lấy Ngày 25).
 - **Haley 1.254 điểm** (≥ 4 tim) → mời nhảy được. Hộp thư và thư mai: trống. Quest: _Xây Chuồng gia cầm_ · _Tìm ra mục đích của chiếc Chìa khóa Đầu lâu_.
 - **Kho:** 20 Thỏi Đồng · 15 Đất sét · 733 Đá · 2 Hạt giống hiếm.
+
+**📋 Chốt ngày** _(Quicksave Xuân 24, sau lễ hội)_
+- 💃 **Đã nhảy với Haley:** 1.254 → **1.524 điểm** (+270 = 250 nhảy + 20 trò chuyện) → từ **5 lên 6 tim**.
+- 💬 **Trò chuyện với 21 người** ở lễ hội, mỗi người **+20**. Abigail vừa qua mốc **2 tim** (496 → 516). Chưa nói chuyện: Maru · Pierre · Caroline · Alex · George · Evelyn · Marnie.
+- **Không lệch gì khác:** ví vẫn **16.718g** (không mua gì ở quầy lễ hội), túi đồ y nguyên, 108/108 ô cây đã tưới, Chuồng gia cầm vẫn **còn 1 ngày** → kế hoạch Ngày 25 giữ nguyên.
 
 ---
 
