@@ -661,7 +661,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - [ ] 🎯 **Đặt Robin xây Kho chứa Cỏ (Silo)** ở ô góc trên–trái **(72, 22)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả _(Quicksave Xuân 24: 15 Đất sét · 20 Thỏi Đồng · 733 Đá)_. Đặt đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] ngay, khỏi phải nhờ dời về sau. ⚠️ **Nhặt Bù nhìn ở (73, 24) trước** — nó nằm trong nền 3 × 3 của kho nên Robin báo đỏ; đặt lại ở ô trống gần ruộng, ví dụ **(68, 26)**, để còn giữ Súp lơ khỏi quạ tới cuối mùa
 - [ ] 🐔 Mua **2 gà** ở Trại Marnie (**800g/con**) — ví 16.718g nên mốc 6.000g không còn là vấn đề. Mua luôn **cỏ khô cho ngày 25–26** (2 con ≈ 4 phần = 200g)
 - [ ] 🔨 Ghé Clint lấy **Cuốc Thép** (đã nâng xong) — và cân nhắc gửi luôn **Rìu** hoặc **Cuốc chim** lên Thép, xem [[#📖 Đọc gì ở nhịp ①|thứ tự nâng mới]]
-- [ ] 🍁 Lấy **Nhựa phong** ở Chén hứng Nhựa cây → nộp gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5, thiếu đúng 1 món)
+- [x] ~~🍁 Lấy **Nhựa phong** → nộp gói **Sản phẩm Hái lượm Ngoại cảnh**~~ — **bỏ**: gói đã xong từ Ngày 23 (Nấm tím), con số "4/5" là đọc từ save cũ hơn _(save Xuân 23 và Xuân 25 đều đã đủ)_
 - [ ] _(Routine)_ Thu hoạch Dâu tây lứa 2, tưới, ship
 
 **📎 Chi tiết đã kiểm chứng**
