@@ -655,7 +655,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - Chuồng gia cầm **xong sáng nay** _(Quicksave Xuân 24: còn 1 ngày xây — không phải xong Ngày 24 như dự tính)_ → **hôm nay mới đặt Robin xây tiếp được** (Robin mỗi lúc một công trình).
 - Kho chứa Cỏ xây **2 ngày** → xong sáng **Ngày 27**. **Đừng cắt cỏ trước Ngày 27** — chưa có kho thì cắt là mất trắng.
 
-**🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Nắng → giữ việc chính như dưới. Mưa → vẫn đặt Robin được (mưa không cản xây), lấy nửa ngày dư cho [[#🌧️ Mưa|cá/mỏ]]. May thấp → đúng ngày để xây, khỏi đổi gì.
+**🌦️ Nhánh:** ☀️ **nắng** + 💀💀 **rất xui** → ô [[#🎯 Bảng giao — việc chính hôm nay nên là gì|Xây & lát đường]] — trùng đúng việc chính là đặt Robin, khỏi đổi gì. Đừng xuống mỏ sâu hôm nay.
 
 **✅ Việc hôm nay**
 - [ ] 🎯 **Đặt Robin xây Kho chứa Cỏ (Silo)** ở ô góc trên–trái **(72, 22)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả _(Quicksave Xuân 24: 15 Đất sét · 20 Thỏi Đồng · 733 Đá)_. Đặt đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] ngay, khỏi phải nhờ dời về sau. ⚠️ **Nhặt Bù nhìn ở (73, 24) trước** — nó nằm trong nền 3 × 3 của kho nên Robin báo đỏ; đặt lại ở ô trống gần ruộng, ví dụ **(68, 26)**, để còn giữ Súp lơ khỏi quạ tới cuối mùa
@@ -672,7 +672,14 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - 🚧 **Không cần xây hàng rào.** Gà không ăn cây trồng và tối tự về chuồng. Chỉ cần **lối ra cửa chuồng thông thoáng**: gà kẹt ngoài (vướng hàng rào, rương, máy) mà cửa đã đóng thì đêm có thể bị **thú hoang tấn công và mất hẳn con đó**.
 - Gói **Nông sản Mùa Xuân** đã xong _(save Xuân 18)_ — không cần rà lại.
 
-**📋 Thực tế:** _(chờ save nhịp ①)_
+**📋 Thực tế** _(Quicksave Xuân 25, đầu ngày)_
+- **Thời tiết:** nắng · **mai mưa** → Ngày 26 khỏi tưới. **May mắn:** `dailyLuck` **−0,084** → 💀💀 **rất xui**.
+- **Ví 18.389g** (+1.671g tiền cá ship đêm qua). Kỹ năng không đổi.
+- **Robin rảnh:** Chuồng gia cầm ở (45, 14) **đã xong**, quest _Xây Chuồng gia cầm_ đã đóng. **Clint:** Cuốc Thép vẫn chờ lấy.
+- **Đủ nguyên liệu Kho chứa Cỏ:** 15 Đất sét · 20 Thỏi Đồng · Đá dư. **Bù nhìn vẫn ở (73, 24)** — nhặt trước khi đặt Robin.
+- **Ruộng:** 40 bụi Dâu tây chín. Mới tưới 9/108 ô.
+- **Gói Cộng đồng:** Ngoại cảnh **đã xong** · Nghiên cứu Thực địa **3/4**. Hộp thư trống (thư của Pam đã mở). Quest còn lại: _Chìa khóa Đầu lâu_.
+- **Haley 1.524 điểm (6 tim)**.
 
 ---
 
@@ -682,7 +689,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Sinh nhật Pierre** — cửa hàng đóng cửa hôm nay (nghỉ sinh nhật), thường thấy ông đi dạo quanh Thị trấn hoặc ở nhà.
 - **Xe hàng rong** ở Rừng Cindersap.
 
-**🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Ngày này nhẹ, nên **nhánh quyết việc chính**: nắng + may cao → [[#🍀 May cao|mỏ/tầng mới]] · nắng + may thấp → [[#💀 May thấp|lát Đường lát đá]] · mưa → [[#🌧️ Mưa|câu cá]].
+**🌦️ Nhánh:** 🌧️ **mưa** _(save Xuân 25 báo trước)_, may mắn chốt ở nhịp ①. Ngày này nhẹ, nên **nhánh quyết việc chính**: mưa + may cao → [[#🌧️ Mưa|câu cá mục tiêu + rương kho báu]] · mưa + may thấp → [[#💀 May thấp|việc trong nhà & quan hệ]]. Gà mới mua **không ra ngoài khi mưa** → nhớ rải cỏ khô vào máng.
 
 **✅ Việc hôm nay**
 - [ ] 🎯 _(chốt theo nhánh ở nhịp ①)_
