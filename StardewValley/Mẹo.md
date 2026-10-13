@@ -54,7 +54,7 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
 - **Bậc thầy Trồng trọt (Mastery, 1.6):** thưởng **Liềm Iridium** và **Tượng Phước Lành**, và từ đó bắt đầu tìm được **Bánh quy vật nuôi Hoàng kim** (nhân đôi sản phẩm của một vật nuôi, vĩnh viễn) — mục tiêu dài hạn đáng cày.
 
 > [!nghe] Chọn nhánh nghề Trồng trọt
-> Cấp 5 chọn **Nông sản (Tiller)** hay **Chăn nuôi (Rancher)**; cấp 10 theo Tiller → **Nghệ nhân (Artisan) +40%** — hướng kiếm tiền mạnh nhất game.
+> Cấp 5 chọn **Thợ cày (Tiller)** hay **Quản trại (Rancher)**; cấp 10 theo Tiller → **Nghệ nhân (Artisan) +40%** — hướng kiếm tiền mạnh nhất game.
 
 ### 3 sai lầm người mới hay mắc
 
