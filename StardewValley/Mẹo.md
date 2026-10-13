@@ -31,6 +31,14 @@ Mấy thứ này quyết định hiệu suất cả game, quan trọng hơn mọ
   - Hạt trái mùa còn mua được **quanh năm ở Ốc đảo (Sandy)**: Hạt giống đại hoàng · Hạt giống khế · Hạt củ cải đường · Hạt giống xương rồng.
 - **Trước khi xuống mỏ:** chừa vài ô túi trống, mang đồ ăn hồi máu, và bỏ đồ giá trị vào rương ở nhà.
 - **Thùng vận chuyển:** đồ trong thùng được tính tiền **lúc ngày kết thúc** — khi đi ngủ, hoặc khi ngất lúc 2:00 sáng. Không có mốc 12h đêm.
+- **Nghề chọn ở cấp 5/10 không phải chọn vĩnh viễn** — xem nghề đang có bằng cách rê chuột lên biểu tượng cạnh thanh kỹ năng trong tab Kỹ năng (`Esc`).
+
+> [!tip] 🔄 Đổi nghề — Tượng của sự Bất nhất (Statue of Uncertainty)
+> - **Ở đâu:** trong **Cống ngầm** (Sewers), góc trên–phải bản đồ Cống.
+> - **Mở Cống:** cần **Chìa khóa Rỉ sét** (Rusty Key) — Gunther tặng khi quyên góp đủ **60 món** cho Bảo tàng.
+> - **Cách đổi:** bấm vào tượng, trả **10.000g**, chọn **một** kỹ năng → đi ngủ, đêm đó game cho chọn lại nghề cấp 5 (và cấp 10 nếu kỹ năng đã tới cấp 10).
+> - Muốn đổi kỹ năng khác thì trả thêm 10.000g mỗi lần; cùng một kỹ năng chỉ đổi được **một lần mỗi đêm**.
+> - Nghề cấp 10 luôn nằm dưới nhánh cấp 5 đã chọn — ví dụ muốn **Thợ câu (Angler)** thì cấp 5 phải là **Dân chài (Fisher)**.
 
 ## 🌾 Trồng trọt (Farming)
 
