@@ -702,7 +702,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 **🌦️ Nhánh:** 🌧️ **mưa** _(save Xuân 25 báo trước)_, may mắn chốt ở nhịp ①. Ngày này nhẹ, nên **nhánh quyết việc chính**: mưa + may cao → [[#🌧️ Mưa|câu cá mục tiêu + rương kho báu]] · mưa + may thấp → [[#💀 May thấp|việc trong nhà & quan hệ]]. Gà mới mua **không ra ngoài khi mưa**, nhưng máng còn đủ: 4 cỏ khô, mỗi con ăn 1 phần/đêm → đủ cho đêm 25 và đêm 26.
 
 **✅ Việc hôm nay**
-- [ ] 🎯 **Săn Cá huyền thoại (Legend) ở Hồ Trên Núi** — chốt ở nhịp ①: mưa + Câu cá đã **cấp 10 gốc**, đủ điều kiện không cần buff. Mai có gió, không mưa → lỡ hôm nay thì Năm 1 chỉ còn trông vào Ngày 28 có mưa hay không.
+- [x] 🎯 **Săn Cá huyền thoại (Legend) ở Hồ Trên Núi** — ✅ **đã câu được, chất lượng Vàng** _(Quicksave Xuân 26)_ — chốt ở nhịp ①: mưa + Câu cá đã **cấp 10 gốc**, đủ điều kiện không cần buff. Mai có gió, không mưa → lỡ hôm nay thì Năm 1 chỉ còn trông vào Ngày 28 có mưa hay không.
   - Trước khi đi: ghé rương ở **(58, 16)** lấy **Phao hút** (Trap Bobber), thay cho **Phao hút báu vật** đang gắn trên Cần Iridium — Phao hút báu vật chỉ giữ cá khi đang gom rương, Phao hút mới giữ tiến độ khi thanh lệch khỏi con cá khó nhất game. Không cần Mồi vì `InstantBite` đang bật.
   - Chỗ đứng (phao cách bờ **≥ 4 ô**): **(57, 31)** quay → · **(60, 37)** quay → · **(80, 30–34)** quay ← — đủ bảng ở [[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng|Chỗ đứng ra cá vàng]]
   - Giờ câu **06:00–20:00**. Mỗi save chỉ bắt được **1 con**.
@@ -711,7 +711,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - [ ] 🎁 Tìm Pierre tặng quà sinh nhật — chưa rõ món Yêu thích thì tặng món Thích bất kỳ
 - [ ] _(Routine)_ Thu hoạch, ship — mưa tự tưới
 
-**📋 Thực tế** _(Quicksave Xuân 26, đầu ngày)_
+**📋 Thực tế** _(save đầu ngày Xuân 26)_
 - **Thời tiết:** 🌧️ mưa · **mai có gió**, không mưa. **May mắn:** `dailyLuck` **+0,005** → trung bình.
 - **Ví 15.875g.** **Câu cá cấp 10** (17.430 XP) → chốt nhánh **săn Cá huyền thoại**.
 - **Cần Iridium** đang gắn **Phao hút báu vật**, ô mồi trống. **Phao hút** và Phao xoay có Trang trí nằm trong rương (58, 16).

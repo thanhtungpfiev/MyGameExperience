@@ -36,14 +36,14 @@
 - [x] Cá vược miệng rộng (Largemouth Bass) 🧩
 - [x] Cá chép (Carp) 🧩
 - [x] Cá đầu bò (Bullhead) 🧩
-- [ ] **Cá huyền thoại (Legend)** — săn **Xuân 26 Năm 1**, xem ngay dưới
+- [x] **Cá huyền thoại (Legend)** — câu được **Xuân 26 Năm 1**, chất lượng Vàng
 
 ### 🎯 Còn làm được trong Xuân này
 
 - [x] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
 - [x] **Cá đá** (tầng 20)
 - [x] **Cá băng** (tầng 60)
-- [ ] **Cá huyền thoại — săn Xuân 26 Năm 1**. Xuân 19 từng tính để sang Năm 2 vì khi đó mới cấp 8, nhưng save Xuân 26 đã **cấp 10 gốc** nên không cần món buff nữa, và hôm đó lại mưa. Kế hoạch chi tiết ở [[Wind - Daily#☀️ Ngày 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong|Daily — Ngày 26]]. Lỡ hôm đó thì chờ Ngày 28 mưa, không thì sang Xuân Năm 2.
+- [x] **Cá huyền thoại — đã câu được Xuân 26 Năm 1**. Xuân 19 từng tính để sang Năm 2 vì khi đó mới cấp 8, nhưng save Xuân 26 đã **cấp 10 gốc** nên không cần món buff nữa, và hôm đó lại mưa. Kế hoạch chi tiết ở [[Wind - Daily#☀️ Ngày 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong|Daily — Ngày 26]].
 - Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại của Xuân năm nay không cần dồn cho câu cá.
 
 ### ☀️ Hạ · 🍂 Thu · ❄️ Đông
