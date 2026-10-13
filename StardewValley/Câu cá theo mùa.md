@@ -100,3 +100,68 @@ Cá ở mấy chỗ dưới đây **không đổi theo mùa** — mùa nào cũn
 | Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật — **Rìu Thép** để chặt khúc gỗ |
 | Cá chép biến dị (Mutant Carp) | Cống ngầm — **Chìa khóa Rỉ sét** (quyên góp 60 món Bảo tàng) |
 | Cá cát (Sandfish) · Cá chép bò cạp (Scorpion Carp) | Sa mạc — sửa xe buýt, thường chưa kịp Năm 1 |
+
+---
+
+## 📍 Chỗ đứng ra cá vàng
+
+Chất lượng cá **không ngẫu nhiên theo chỗ** mà tính từ **số ô nước bao quanh phao** — đứng đúng ô thì gần như lần nào cũng ra vàng, đứng sai thì cấp 10 vẫn chỉ ra cá thường.
+
+### Cách game tính
+
+1. **Độ sâu** = số ô nước liên tục quanh phao theo mọi hướng (tính cả chéo), **tối đa 5**. Đảo, bờ, khúc gỗ đều là đất; mép bản đồ thì tính là nước. Cầu gỗ cũng là nước.
+2. **Kích cỡ** = độ sâu/5 × hệ số theo cấp Câu cá × (0,9–1,1). Từ **cấp 10** hệ số luôn là 1,2; cấp thấp hơn thì ngẫu nhiên và thấp hơn.
+3. **Chất lượng theo kích cỡ:** dưới 0,33 → thường · dưới 0,66 → bạc · còn lại → vàng.
+4. **Phao câu chất lượng** cộng một bậc (thường → bạc → vàng → iridium). **Bắt hoàn hảo** thì bạc → vàng, vàng → iridium; cá thường thì hoàn hảo cũng không lên.
+
+Ở **cấp 10** điều đó thành:
+
+| Độ sâu quanh phao | Ra |
+|---|---|
+| 4–5 ô | **luôn vàng** |
+| 3 ô | vàng ~90%, còn lại bạc |
+| 2 ô | luôn bạc |
+| 0–1 ô | thường |
+
+Mép hồ, mép sông và quanh đảo hầu hết chỉ có 0–2 ô — đó là lý do câu "chỗ nào cũng được" hay ra cá thường.
+
+### Phao rơi ở đâu
+
+Quăng **hết tầm** (save Wind bật `ThrowBobberMax` nên lần nào cũng hết tầm) từ **cấp Câu cá 8 trở lên**: phao rơi cách chỗ đứng **7 ô** nếu quay trái/phải, **6 ô** nếu quay lên/xuống. Cấp 4–7 thì ngắn hơn một ô, nên toạ độ bên dưới chỉ đúng từ cấp 8.
+
+Xem ô đang đứng bằng phím **Z** ([[Mods#Debug Mode 1.17.4|Debug Mode]]). Ô nào có bụi cây, đá hay cỏ mọc đè thì xích sang ô bên cạnh — mình đã chọn những chỗ mà phao lệch một ô vẫn ra vàng.
+
+### Theo khu
+
+**Chú thích:** độ sâu 5 = mức tối đa · (x, y) là toạ độ ô.
+
+| Khu | Đứng ở ô | Quay | Phao rơi | Độ sâu | Chỗ nào |
+|---|---|---|---|---|---|
+| **Hồ Trên Núi** | **(57, 31)** · (56–57, 31–32) | → | (64, 31) | 5 | Mũi doi đất nhô ra từ bờ tây, nửa nam hồ — vào từ hàng y = 34 |
+| | **(60, 37)** · (58–60, 35–37) | → | (67, 37) | 5 | Bờ tây nam, sát vách đá cuối bản đồ |
+| | **(80, 30)** đến **(80, 34)** | ← | (73, 30–34) | 5 | Dải đất hẹp bờ đông, dưới Hội Thám hiểm — qua **cây cầu ngay dưới Hội** (x 79–80, y 17–19) |
+| | (68, 24) | ↓ | (68, 30) | 5 | Mép nam đảo nhỏ giữa hồ — tới bằng cầu ở x 57 (y 26–30) rồi cầu ở y 21 (x 61–65) |
+| **Rừng Cindersap — sông** | **(116, 36)** · dải x 105–119, y 35–36 | ↓ | (116, 42) | 5 | Bờ bắc khúc sông rộng sát lối sang Thị trấn (mép phải bản đồ) |
+| | (97, 39) · (95, 52) | ↓ · ↑ | (97, 45) · (95, 46) | 5 | Hai bờ của cùng khúc sông đó, lùi về phía tây |
+| | **(38, 74)** · (38–40, 72–77) | ← | (31, 74) | 5 | Khúc sông phình rộng phía tây nam, đứng bờ đông |
+| | (20, 76) · (19–20, 73–78) | → | (27, 76) | 5 | Cùng khúc đó, đứng bờ tây |
+| | (59, 67) | ↑ | (59, 61) | 5 | Khúc rộng giữa rừng |
+| **Rừng Cindersap — ao** | **(40, 41)** · dải x 34–45, y 40–42 | ↑ | (40, 35) | 5 | Bờ nam ao lớn phía tây bắc — **cá ao, không phải cá sông** |
+| | (48, 30) · (47–49, 25–30) | ← | (41, 30) | 5 | Bờ đông ao |
+| | (33, 25) | ↓ | (33, 31) | 5 | Dải đất giữa hai thuỳ ao |
+| **Thị trấn — sông** | **(1, 93)** đến (4, 93) | ↓ | (1–4, 99) | 5 | Góc tây nam, sát lối sang Rừng Cindersap. **Chỗ duy nhất trong Thị trấn từ 4 ô trở lên** — phần sông còn lại tối đa 3 |
+| **Bãi biển** | **(9, 15)** · dải x 9–10, y 12–36 | ← | (2, 15) | 5 | Mép trái bãi cát |
+| | (54, 25) · x 49–56, y 24–25 | ↓ | (54, 31) | 5 | Đứng trên dãy cầu gỗ chạy ngang giữa bãi |
+| | (40, 36) | ↓ | (40, 42) | 5 | Cầu tàu dài trước Hàng Cá |
+| | (71, 25) · (92, 23) | ↓ · → | (71, 31) · (99, 23) | 5 | Vũng thủy triều — cần cầu bên phải bãi đã sửa (save Wind: **đã sửa**) |
+| **Cống ngầm** | (26, 22) · (8, 37) | ↓ · → | (26, 28) · (15, 37) | 5 | Cần **Chìa khóa Rỉ sét** |
+| **Khu rừng Bí mật** | (3, 23) · (10, 16) | → · ↓ | (10, 23) · (10, 22) | **3** | Ao quá nhỏ — **tối đa 3**, vàng ~90% |
+| **Trang trại** (Tiêu chuẩn) | (39, 47) · (39, 59) | ↓ · ↑ | (39, 53) | **3** | Ao phía nam — tối đa 3 |
+| **Sa mạc** | (3, 15) · (10, 8) | → · ↓ | (10, 15) · (10, 14) | **2** | Ao quá nhỏ — **luôn bạc**; muốn vàng phải bắt hoàn hảo hoặc gắn Phao câu chất lượng |
+
+Không tính ao trong Hầm Mỏ (nước ở đó do code đặt theo tầng, bản đồ không có) và Đảo Gừng (chưa mở).
+
+> [!tip] Muốn iridium
+> Đứng chỗ độ sâu 4–5 để chắc ra vàng, rồi **bắt hoàn hảo** hoặc gắn **Phao câu chất lượng (Quality Bobber)** — có một trong hai là lên iridium. Phao lấy ở đâu: [[Đồ câu cá#🪝 Phao & mồi tự chế|Đồ câu cá]].
+
+_Kiểm chứng trên game 1.6.15 (2026-10-13): độ sâu đo từ thuộc tính `Water` lớp Back trong `Content/Maps/{Mountain, Forest, Town, Beach, Sewer, Woods, Desert, Farm}.xnb`; lối đi tính theo lớp Buildings (bờ nước bị chặn, cầu là ô Buildings có `Passable`), cầu Vũng thủy triều theo `Beach.fixBridge`. Công thức từ `FishingRod.distanceToLand`, `FishingRod.startMinigameEndFunction`, hàm khởi tạo `BobberBar`, `FishingRod.pullFishFromWater`; tầm quăng từ `FishingRod.getAddedDistance`. Cấp Câu cá 10 đọc từ save Wind. Chưa đứng thử từng ô trong game._
