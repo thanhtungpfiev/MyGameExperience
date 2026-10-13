@@ -658,11 +658,11 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 **🌦️ Nhánh:** ☀️ **nắng** + 💀💀 **rất xui** → ô [[#🎯 Bảng giao — việc chính hôm nay nên là gì|Xây & lát đường]] — trùng đúng việc chính là đặt Robin, khỏi đổi gì. Đừng xuống mỏ sâu hôm nay.
 
 **✅ Việc hôm nay**
-- [ ] 🎯 **Đặt Robin xây Kho chứa Cỏ (Silo)** ở ô góc trên–trái **(72, 22)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả _(Quicksave Xuân 24: 15 Đất sét · 20 Thỏi Đồng · 733 Đá)_. Đặt đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] ngay, khỏi phải nhờ dời về sau. ⚠️ **Nhặt Bù nhìn ở (73, 24) trước** — nó nằm trong nền 3 × 3 của kho nên Robin báo đỏ; đặt lại ở ô trống gần ruộng, ví dụ **(68, 26)**, để còn giữ Súp lơ khỏi quạ tới cuối mùa
-- [ ] 🐔 Mua **2 gà** ở Trại Marnie (**800g/con**) — ví 16.718g nên mốc 6.000g không còn là vấn đề. Mua luôn **cỏ khô cho ngày 25–26** (2 con ≈ 4 phần = 200g)
-- [ ] 🔨 Ghé Clint lấy **Cuốc Thép** (đã nâng xong) — và cân nhắc gửi luôn **Rìu** hoặc **Cuốc chim** lên Thép, xem [[#📖 Đọc gì ở nhịp ①|thứ tự nâng mới]]
+- [x] 🎯 **Đặt Robin xây Kho chứa Cỏ (Silo)** ở ô góc trên–trái **(72, 22)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả _(Quicksave Xuân 24: 15 Đất sét · 20 Thỏi Đồng · 733 Đá)_. Đặt đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] ngay, khỏi phải nhờ dời về sau. ⚠️ **Nhặt Bù nhìn ở (73, 24) trước** — nó nằm trong nền 3 × 3 của kho nên Robin báo đỏ; đặt lại ở ô trống gần ruộng, ví dụ **(68, 26)**, để còn giữ Súp lơ khỏi quạ tới cuối mùa
+- [x] 🐔 Mua **2 gà** ở Trại Marnie (**800g/con**) — ví 16.718g nên mốc 6.000g không còn là vấn đề. Mua luôn **cỏ khô cho ngày 25–26** (2 con ≈ 4 phần = 200g)
+- [x] 🔨 Ghé Clint lấy **Cuốc Thép** (đã nâng xong) — và cân nhắc gửi luôn **Rìu** hoặc **Cuốc chim** lên Thép, xem [[#📖 Đọc gì ở nhịp ①|thứ tự nâng mới]]
 - [x] ~~🍁 Lấy **Nhựa phong** → nộp gói **Sản phẩm Hái lượm Ngoại cảnh**~~ — **bỏ**: gói đã xong từ Ngày 23 (Nấm tím), con số "4/5" là đọc từ save cũ hơn _(save Xuân 23 và Xuân 25 đều đã đủ)_
-- [ ] _(Routine)_ Thu hoạch Dâu tây lứa 2, tưới, ship
+- [x] _(Routine)_ Thu hoạch Dâu tây lứa 2, tưới, ship
 
 **📎 Chi tiết đã kiểm chứng**
 
@@ -681,6 +681,15 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Gói Cộng đồng:** Ngoại cảnh **đã xong** · Nghiên cứu Thực địa **3/4**. Hộp thư trống (thư của Pam đã mở). Quest còn lại: _Chìa khóa Đầu lâu_.
 - **Haley 1.524 điểm (6 tim)**.
 
+**📋 Chốt ngày** _(Quicksave Xuân 25, cuối ngày)_
+- 🏗️ **Kho chứa Cỏ** đã đặt ở (72, 22), **còn 2 ngày** → xong sáng **Ngày 27**, đúng kế hoạch. Bù nhìn dời sang **(67, 28)** (không phải (68, 26) như gợi ý — vẫn là ô gần ruộng).
+- 🐔 **2 gà** đã vào chuồng, 1 trắng 1 nâu. Máng đang có **4 cỏ khô**.
+- 🔨 Lấy Cuốc Thép rồi gửi luôn **Cuốc chim** lên Thép → **còn 2 ngày, lấy Ngày 27**. ⚠️ Nghĩa là **Ngày 26 không có cuốc chim** — xuống mỏ không đập đá được.
+- 💰 **Ví 18.389 → 11.489g** (−6.900 = 100 Kho chứa Cỏ + 1.600 gà + 200 cỏ khô + 5.000 Cuốc chim Thép). Vẫn trên mốc 6.000g.
+- 🍓 40 bụi lứa 2 đã hái; **51 Dâu tây đang nằm trong rương, chưa ship** (thùng ship hôm nay chỉ có cá). Lứa tiếp của 40 bụi này chín **Ngày 29 = Hạ 1**, tức chết trước khi chín — **đây là lứa cuối của chúng**. Còn 9 bụi lệch nhịp: **7 bụi chín Ngày 26**, **2 bụi chín Ngày 27**.
+- 💧 93/93 ô đã tưới. Thùng ship toàn cá, **không con nào còn thiếu cho gói Cá** (đối chiếu gói chưa xong trong save) → để nguyên mà ship.
+- 🌾 **Trồng trọt lên cấp 5** → **tối nay chọn nghề**. Chọn **Thợ cày (Tiller)** — nông sản +10%, cấp 10 mở **Nghệ nhân (Artisan)** +40% cho Rượu/Mứt/Bia; **Quản trại (Rancher)** chỉ cộng 20% cho sản phẩm động vật, mà save mới có 2 gà.
+
 ---
 
 ### ☀️ Ngày 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong
@@ -688,14 +697,16 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 **🔒 Cứng**
 - **Sinh nhật Pierre** — cửa hàng đóng cửa hôm nay (nghỉ sinh nhật), thường thấy ông đi dạo quanh Thị trấn hoặc ở nhà.
 - **Xe hàng rong** ở Rừng Cindersap.
+- **Cuốc chim đang ở chỗ Clint** (xong Ngày 27) → hôm nay **không xuống mỏ** dù playbook mưa có ghi mỏ.
 
-**🌦️ Nhánh:** 🌧️ **mưa** _(save Xuân 25 báo trước)_, may mắn chốt ở nhịp ①. Ngày này nhẹ, nên **nhánh quyết việc chính**: mưa + may cao → [[#🌧️ Mưa|câu cá mục tiêu + rương kho báu]] · mưa + may thấp → [[#💀 May thấp|việc trong nhà & quan hệ]]. Gà mới mua **không ra ngoài khi mưa** → nhớ rải cỏ khô vào máng.
+**🌦️ Nhánh:** 🌧️ **mưa** _(save Xuân 25 báo trước)_, may mắn chốt ở nhịp ①. Ngày này nhẹ, nên **nhánh quyết việc chính**: mưa + may cao → [[#🌧️ Mưa|câu cá mục tiêu + rương kho báu]] · mưa + may thấp → [[#💀 May thấp|việc trong nhà & quan hệ]]. Gà mới mua **không ra ngoài khi mưa**, nhưng máng còn đủ: 4 cỏ khô, mỗi con ăn 1 phần/đêm → đủ cho đêm 25 và đêm 26.
 
 **✅ Việc hôm nay**
-- [ ] 🎯 _(chốt theo nhánh ở nhịp ①)_
+- [ ] 🎯 _(chốt theo nhánh ở nhịp ①)_ — nếu là câu cá thì đứng chỗ nước sâu cho ra cá vàng, toạ độ ở [[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng|Chỗ đứng ra cá vàng]]
+- [ ] 🍓 Hái **7 bụi Dâu tây** chín hôm nay · ship luôn **51 Dâu tây** đang nằm trong rương (Pierre đóng cửa nhưng thùng ship vẫn nhận)
 - [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm** (1.000g), **chỉ khi** sau khi trả tiền ví vẫn còn **≥ 6.000g** — đang có 2 hạt, mốc cần trước hết Hạ là **10–15 hạt** (xem [[#☀️ Hạ|lịch mua ở mục Hạ]])
 - [ ] 🎁 Tìm Pierre tặng quà sinh nhật — chưa rõ món Yêu thích thì tặng món Thích bất kỳ
-- [ ] _(Routine)_ Tưới, thu hoạch, ship
+- [ ] _(Routine)_ Thu hoạch, ship — mưa tự tưới
 
 **📋 Thực tế:** _(chờ save nhịp ①)_
 
@@ -712,6 +723,9 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **✅ Việc hôm nay**
 - [ ] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 cỏ khô, kho tối đa 240; gà vào Đông không ra ngoài nên cỏ khô là của để
+- [ ] 🔨 Lấy **Cuốc chim Thép** ở Clint (gửi Ngày 25) — từ hôm nay phá được **tảng đá lớn**
+- [ ] 🐔 Máng gà **hết cỏ khô** sau đêm 26 → nắng thì gà tự ra ăn cỏ ngoài sân; mưa thì cắt cỏ cho có cỏ khô trong kho rồi lấy ở phễu trong chuồng bỏ vào máng
+- [ ] 🍓 Hái **2 bụi Dâu tây** chín hôm nay
 - [ ] 🎁 Tìm Emily tặng quà sinh nhật
 - [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre — ưu tiên **Hạt việt quất** (lãi cao), thêm **Hạt hoa bia** nếu định ủ Bia nhẹ
 - [ ] _(Routine)_ Thu hoạch & bán nốt nông sản sắp hết mùa, tưới, ship
