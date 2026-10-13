@@ -706,8 +706,8 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
   - Trước khi đi: ghé rương ở **(58, 16)** lấy **Phao hút** (Trap Bobber), thay cho **Phao hút báu vật** đang gắn trên Cần Iridium — Phao hút báu vật chỉ giữ cá khi đang gom rương, Phao hút mới giữ tiến độ khi thanh lệch khỏi con cá khó nhất game. Không cần Mồi vì `InstantBite` đang bật.
   - Chỗ đứng (phao cách bờ **≥ 4 ô**): **(57, 31)** quay → · **(60, 37)** quay → · **(80, 30–34)** quay ← — đủ bảng ở [[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng|Chỗ đứng ra cá vàng]]
   - Giờ câu **06:00–20:00**. Mỗi save chỉ bắt được **1 con**.
-- [ ] 🍓 Hái **7 bụi Dâu tây** chín hôm nay · ship luôn **51 Dâu tây** đang nằm trong rương (Pierre đóng cửa nhưng thùng ship vẫn nhận)
-- [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm** (1.000g), **chỉ khi** sau khi trả tiền ví vẫn còn **≥ 6.000g** — đang có 2 hạt, mốc cần trước hết Hạ là **10–15 hạt** (xem [[#☀️ Hạ|lịch mua ở mục Hạ]])
+- [x] 🍓 Hái **7 bụi Dâu tây** chín hôm nay · ship luôn **51 Dâu tây** đang nằm trong rương (Pierre đóng cửa nhưng thùng ship vẫn nhận)
+- [x] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm** (1.000g), **chỉ khi** sau khi trả tiền ví vẫn còn **≥ 6.000g** — đang có 2 hạt, mốc cần trước hết Hạ là **10–15 hạt** (xem [[#☀️ Hạ|lịch mua ở mục Hạ]])
 - [ ] 🎁 Tìm Pierre tặng quà sinh nhật — chưa rõ món Yêu thích thì tặng món Thích bất kỳ
 - [ ] _(Routine)_ Thu hoạch, ship — mưa tự tưới
 
@@ -730,6 +730,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **✅ Việc hôm nay**
 - [ ] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 cỏ khô, kho tối đa 240; gà vào Đông không ra ngoài nên cỏ khô là của để
+- [ ] 🪨 **Đưa Đá cho Robin** (quest bảng tin nhận Ngày 26) — Ngày 26 cô ấy đứng ở công trình Kho chứa Cỏ nhưng **đang xây thì không nói chuyện, không nhận đồ được**. Kho xong sáng nay nên Robin về lịch thường: tìm ở **Cửa hàng Mộc** (Dãy Núi) hoặc quanh Thị trấn. Xem hạn trong Nhật ký nhiệm vụ trước — quest bảng tin thường chỉ cho 2 ngày, tức **hôm nay là ngày cuối**
 - [ ] 🔨 Lấy **Cuốc chim Thép** ở Clint (gửi Ngày 25) — từ hôm nay phá được **tảng đá lớn**
 - [ ] 🐔 Máng gà **hết cỏ khô** sau đêm 26 → nắng thì gà tự ra ăn cỏ ngoài sân; mưa thì cắt cỏ cho có cỏ khô trong kho rồi lấy ở phễu trong chuồng bỏ vào máng
 - [ ] 🍓 Hái **2 bụi Dâu tây** chín hôm nay
