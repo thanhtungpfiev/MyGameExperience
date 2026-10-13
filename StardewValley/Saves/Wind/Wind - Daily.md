@@ -682,7 +682,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Haley 1.524 điểm (6 tim)**.
 
 **📋 Chốt ngày** _(Quicksave Xuân 25, cuối ngày)_
-- 🏗️ **Kho chứa Cỏ** đã đặt ở (72, 22), **còn 2 ngày** → xong sáng **Ngày 27**, đúng kế hoạch. Bù nhìn dời sang **(67, 28)** (không phải (68, 26) như gợi ý — vẫn là ô gần ruộng).
+- 🏗️ **Kho chứa Cỏ** đã đặt ở (72, 22), **còn 2 ngày** → xong sáng **Ngày 27**, đúng kế hoạch. Bù nhìn dời sang **(68, 26)**, đúng ô gợi ý.
 - 🐔 **2 gà** đã vào chuồng, 1 trắng 1 nâu. Máng đang có **4 cỏ khô**.
 - 🔨 Lấy Cuốc Thép rồi gửi luôn **Cuốc chim** lên Thép → **còn 2 ngày, lấy Ngày 27**. ⚠️ Nghĩa là **Ngày 26 không có cuốc chim** — xuống mỏ không đập đá được.
 - 💰 **Ví 18.389 → 11.489g** (−6.900 = 100 Kho chứa Cỏ + 1.600 gà + 200 cỏ khô + 5.000 Cuốc chim Thép). Vẫn trên mốc 6.000g.
