@@ -844,4 +844,5 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 ### 🍂 Thu
 
 - 🌱 Cây **Trái cổ đại** ngoài trời **chết khi sang Đông** — hái quả cuối (khoảng Thu 22) là hết.
+- 🎣 **Từ Thu 2 canh bảng yêu cầu đặc biệt** cạnh tiệm Pierre, chờ đơn **"Cần kiếm Sâu mọng!"** của Willy (100 Thịt côn trùng) → công thức **Phao câu chất lượng**, cách lấy ở [[Đồ câu cá#🪝 Phao & mồi tự chế|Đồ câu cá]]. Nguyên liệu đã đủ trong rương _(Quicksave Xuân 25: 30 Tinh chất mặt trời · 23 Thỏi đồng · 398 Nhựa cây)_ — **giữ lại ít nhất 5 Tinh chất mặt trời**, chỉ còn thiếu 100 Thịt côn trùng.
 - 🐔 **Dự trữ cỏ khô cho mùa Đông:** gà không ra ngoài cả 28 ngày → 4 con × 28 = **112 cỏ khô**. Cắt cỏ bằng Liềm cho đầy Kho chứa Cỏ từ giữa Thu, đỡ phải mua ở Marnie (50g/phần). Giới hạn ở đây **không phải thể lực** mà là **kho chứa tối đa 240** và **số bụi cỏ còn trên nông trại** — mỗi nhát Liềm chỉ **50%** ra 1 cỏ khô, nên bắt đầu sớm.
