@@ -43,6 +43,7 @@ Cấp mở khoá và nguyên liệu lấy từ file game 1.6.15 (`Data/CraftingR
 | **Phao nút chai (Cork Bobber)** | Câu cá 7 | 10 Gỗ + 5 Gỗ cứng + 10 Slime | Thanh câu to hơn một chút |
 | **Lưỡi câu có ngạnh (Barbed Hook)** | Câu cá 8 | 1 Thỏi đồng + 1 Thỏi sắt + 1 Thỏi vàng | Thanh tự bám theo cá — tốt với cá chậm, yếu; kém với cá nhảy loạn |
 | **Phao hút báu vật (Treasure Hunter)** | Câu cá 7 | 2 Thỏi vàng | Cá không thoát khi đang gom rương; tăng nhẹ tỉ lệ ra rương |
+| **Phao câu chất lượng (Quality Bobber)** | công thức từ đơn của Willy — xem dưới bảng | 1 Thỏi đồng + 20 Nhựa cây + 5 Tinh chất mặt trời | Cá **lên một bậc** (bạc → vàng, vàng → iridium) — cộng với chỗ đứng sâu là ra iridium, xem [[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng\|Chỗ đứng ra cá vàng]] |
 | Phao câu tín hiệu (Sonar Bobber) | Câu cá 6 | 1 Thỏi sắt + 2 Thạch anh tinh luyện | Biết con nào cắn câu trước khi kéo — **thừa**, [[Mods#Fishing Info Overlays 1.3.2\|Fishing Info Overlays]] đã hiện sẵn |
 | ❌ Phao câu (Spinner) · Phao xoay có Trang trí (Dressed Spinner) | Câu cá 6 · 8 | — | Chỉ làm cá cắn nhanh — `InstantBite` đã lo |
 | **Mồi cao cấp (Deluxe Bait)** | Câu cá 4 | 5 Mồi + 2 Rêu → 5 cái | ⭐ Ngoài cắn nhanh còn **làm thanh câu to hơn** → vẫn đáng gắn |
@@ -51,9 +52,21 @@ Cấp mở khoá và nguyên liệu lấy từ file game 1.6.15 (`Data/CraftingR
 | **Nam châm (Magnet)** | Câu cá 9 | 1 Thỏi sắt → 3 cái | Tăng tỉ lệ ra rương báu vật, đổi lại cá cắn chậm hơn — với `InstantBite` thì cái giá này gần như mất _(suy từ mô tả, chưa thử)_ |
 | ❌ Mồi (Bait) | Câu cá 2 | 1 Thịt côn trùng → 5 cái | Chỉ làm cá cắn nhanh |
 
+> [!info] Lấy Phao câu chất lượng ở đâu
+> **Không mua được** — Hàng Cá không bán, rương câu cá cũng không ra. Chỉ có cách tự chế, và công thức lấy từ một đơn của Willy:
+> 1. **Bảng yêu cầu đặc biệt** (Special Orders, cạnh cửa tiệm Pierre) mở từ **ngày chơi thứ 58 = Thu 2 Năm 1**.
+> 2. Chờ đơn **"Cần kiếm Sâu mọng!" (Juicy Bugs Wanted!)** của Willy lên bảng — đơn nào lên là ngẫu nhiên theo tuần _(theo wiki)_, có khi phải chờ vài tuần.
+> 3. Bỏ **100 Thịt côn trùng** vào cái thùng cạnh nhà Willy ở Bãi biển → nhận 3.000g.
+> 4. Ra Bãi biển xem đoạn cắt cảnh Willy rải mồi — trong đó học công thức Phao câu chất lượng.
+>
+> **Tinh chất mặt trời:** Krobus bán 80g, tối đa 10 cái/ngày (Cống ngầm, cần Chìa khóa Rỉ sét).
+>
+> _Kiểm chứng trên game 1.6.15: `Data/CraftingRecipes` (nguyên liệu, không mở theo cấp), `Data/Shops` (FishShop không có, ShadowShop bán Tinh chất mặt trời), `FishingRod` (rương câu không ra), `Data/SpecialOrders` + `Data/Events/Beach` (`willyBugWadCutscene` → `addCraftingRecipe Quality Bobber`), `SpecialOrder.IsSpecialOrdersBoardUnlocked` (`DaysPlayed ≥ 58`), `BobberBar` (cộng bậc). Tên theo bản dịch đang cài._
+
 - **Câu thường ngày:** Mồi cao cấp + Phao hút.
 - **Săn một loài:** Mồi riêng loài + Phao hút (cá hiếm thì Phao mồi kì lạ).
 - **Săn rương:** Nam châm + Phao hút báu vật.
+- **Săn cá iridium:** Phao câu chất lượng + đứng chỗ nước sâu 4–5 ô.
 
 ## 🪱 Thùng Sâu hay Máy Làm Mồi Câu?
 
