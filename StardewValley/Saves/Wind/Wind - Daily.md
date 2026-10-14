@@ -708,14 +708,23 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
   - Giờ câu **06:00–20:00**. Mỗi save chỉ bắt được **1 con**.
 - [x] 🍓 Hái **7 bụi Dâu tây** chín hôm nay · ship luôn **51 Dâu tây** đang nằm trong rương (Pierre đóng cửa nhưng thùng ship vẫn nhận)
 - [x] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm** (1.000g), **chỉ khi** sau khi trả tiền ví vẫn còn **≥ 6.000g** — đang có 2 hạt, mốc cần trước hết Hạ là **10–15 hạt** (xem [[#☀️ Hạ|lịch mua ở mục Hạ]])
-- [ ] 🎁 Tìm Pierre tặng quà sinh nhật — chưa rõ món Yêu thích thì tặng món Thích bất kỳ
-- [ ] _(Routine)_ Thu hoạch, ship — mưa tự tưới
+- [x] 🎁 Tìm Pierre tặng quà sinh nhật — chưa rõ món Yêu thích thì tặng món Thích bất kỳ
+- [x] _(Routine)_ Thu hoạch, ship — mưa tự tưới
 
 **📋 Thực tế** _(save đầu ngày Xuân 26)_
 - **Thời tiết:** 🌧️ mưa · **mai có gió**, không mưa. **May mắn:** `dailyLuck` **+0,005** → trung bình.
 - **Ví 15.875g.** **Câu cá cấp 10** (17.430 XP) → chốt nhánh **săn Cá huyền thoại**.
 - **Cần Iridium** đang gắn **Phao hút báu vật**, ô mồi trống. **Phao hút** và Phao xoay có Trang trí nằm trong rương (58, 16).
 - **Chưa bắt Cá huyền thoại.**
+
+**📋 Chốt ngày** _(Quicksave Xuân 26, cuối ngày)_
+- 🎣 **Cá huyền thoại** đã nằm trong rương Cá (55, 16), phẩm Vàng. Rương này giờ **đủ cả 17 loại cá Xuân**, xem [[Câu cá theo mùa#🌸 Xuân|Câu cá theo mùa]].
+- 🛒 **Mua 5 Hạt giống hiếm** chứ không phải tối đa 1 → **tổng 7 hạt**. Ví **15.875 → 10.875g**, vẫn trên mốc 6.000g, nên không phải dời việc gì. Mốc 10–15 hạt trước hết Hạ giờ chỉ còn thiếu **3–8 hạt**.
+- 🎁 Đã tặng quà Pierre (871 điểm). Mai có thư **Pierre gửi công thức "Pierre's Famous Tart"**, tức món **Bánh Tart nhân việt quất**: nguyên liệu là Việt quất, thứ sẽ trồng mùa Hạ.
+- 🍓 ⚠️ **51 Dâu tây chưa ship**: rương Hoa, Rau, Trái Cây vẫn có **57 quả**, tức 51 cũ + 6 quả hái hôm nay. **Mới hái 6/7 bụi**, còn 1 bụi chín. Nhớ hái nốt rồi bỏ cả vào thùng ship **trước khi ngủ**.
+- 📦 Thùng ship đang có cá và 3 cổ vật (Tượng gà, Đĩa quý hiếm, Đuôi xương). Cả 3 cổ vật này **đã quyên góp** cho bảo tàng nên bán được. Không con cá nào trong thùng còn thiếu cho gói Cá.
+- 🐔 Máng vẫn còn **4 rơm rạ**, vì gà chưa ăn. Đêm nay 2 con ăn 2 phần → **còn 2, đủ cho đêm 27**.
+- **Đã có trong save, khớp kế hoạch:** Kho chứa Cỏ và Cuốc chim Thép đều **còn 1 ngày** → xong sáng Ngày 27. Quest **Gặt: Đá** (0/35, Robin) **còn 2 ngày** → **Ngày 27 là ngày cuối**. Mai **có gió, không mưa**.
 
 ---
 
@@ -726,14 +735,16 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Kho chứa Cỏ xong sáng nay** (đặt Ngày 25) → **từ hôm nay cắt cỏ mới ra rơm rạ**.
 - Cây trồng ngoài trời **chết hết khi sang Hạ** — chưa có Nhà kính trong Xuân Năm 1.
 
-**🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Nắng → cắt cỏ đầy kho là việc chính rất đáng (vừa mở khoá hôm nay). Mưa → [[#🌧️ Mưa|câu cá]], cỏ để Ngày 28. May thấp → vẫn cắt cỏ được, rơm rạ không tuỳ may mắn.
+**🌦️ Nhánh:** ☀️ **có gió, không mưa** _(save Xuân 26 báo trước)_, may mắn chốt ở nhịp ①. Không mưa → **cắt cỏ đầy kho là việc chính** (vừa mở khoá hôm nay). May thấp cũng không đổi gì vì rơm rạ không tuỳ may mắn.
 
 **✅ Việc hôm nay**
 - [ ] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 rơm rạ, kho tối đa 240; gà vào Đông không ra ngoài nên rơm rạ là của để
 - [ ] 🪨 **Đưa Đá cho Robin** (quest bảng tin nhận Ngày 26) — Ngày 26 cô ấy đứng ở công trình Kho chứa Cỏ nhưng **đang xây thì không nói chuyện, không nhận đồ được**. Kho xong sáng nay nên Robin về lịch thường: tìm ở **Cửa hàng Mộc** (Dãy Núi) hoặc quanh Thị trấn. Xem hạn trong Nhật ký nhiệm vụ trước — quest bảng tin thường chỉ cho 2 ngày, tức **hôm nay là ngày cuối**
 - [ ] 🔨 Lấy **Cuốc chim Thép** ở Clint (gửi Ngày 25) — từ hôm nay phá được **tảng đá lớn**
-- [ ] 🐔 Máng gà **hết rơm rạ** sau đêm 26 → nắng thì gà tự ra ăn cỏ ngoài sân; mưa thì cắt cỏ cho có rơm rạ trong kho rồi lấy ở phễu trong chuồng bỏ vào máng
-- [ ] 🍓 Hái **2 bụi Dâu tây** chín hôm nay
+- [ ] 🐔 Máng gà sau đêm 26 **còn 2 rơm rạ**, đủ cho đêm 27 _(Quicksave Xuân 26: máng vẫn 4 phần)_. Không mưa nên gà tự ra ăn cỏ ngoài sân. Cắt cỏ xong thì lấy ở phễu trong chuồng, châm máng cho **đầy 4 ô** để dư cho đêm 28
+- [ ] 🍓 Hái **2 bụi Dâu tây** chín hôm nay (cộng 1 bụi của Ngày 26 nếu tối qua chưa hái) · ship hết Dâu tây còn trong rương nếu tối qua chưa ship
+- [ ] 🏛️ Mang **Trang sức yêu tinh** và **Quạt trang trí** (rương Cổ Vật, Sách ở (57, 14)) tới **Bảo tàng** quyên góp. Hai món này **chưa có trong bảo tàng** _(Quicksave Xuân 26)_, nên đừng bán
+- [ ] 📬 Đọc thư Pierre → nhận công thức **Bánh Tart nhân việt quất**. Chưa nấu được tới khi có Việt quất ở mùa Hạ
 - [ ] 🎁 Tìm Emily tặng quà sinh nhật
 - [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre — ưu tiên **Hạt việt quất** (lãi cao), thêm **Hạt hoa bia** nếu định ủ Bia nhẹ
 - [ ] _(Routine)_ Thu hoạch & bán nốt nông sản sắp hết mùa, tưới, ship
@@ -759,7 +770,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **✅ Việc hôm nay**
 - [ ] 🎯 🔮 **12:00 rung bụi lấy Junimo Nhồi bông** (góc tây bắc Thị trấn, trên sân chơi)
-- [ ] 🛒 Ghé xe hàng rong: cùng luật Ngày 26 — **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua; còn thiếu thì dồn sang nửa sau mùa Hạ
+- [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua _(Quicksave Xuân 26: đã có **7 hạt**, mốc là 10–15)_. Còn thiếu thì dồn sang nửa sau mùa Hạ
 - [ ] 🧩 Rà toàn bộ gói Cộng đồng mùa Xuân — **Cá** và **Xây Dựng** nộp được quanh năm, riêng **Nông sản Mùa Xuân** và **Sản phẩm Hái lượm Mùa Xuân** lỡ là phải chờ Xuân năm sau
 - [ ] _(Routine)_ Bật TV · thu hoạch & bán **toàn bộ** nông sản còn lại · ship
 
