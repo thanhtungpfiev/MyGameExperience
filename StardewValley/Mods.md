@@ -577,7 +577,7 @@ Bảng thống kê tổng hợp **ngay trong game** — gom thứ vốn nằm r�
 | 📚 **Books of Power** | Sách buff vĩnh viễn **chưa đọc**, đọc xong tự rớt khỏi danh sách |
 | 🏺 **Museum / Full Shipment / Polyculture** | Danh sách **còn thiếu** từng món kèm thanh tiến độ |
 | 🥚 **Ready to Collect** | Máy, đồ thủ công, cây **đã tới lúc thu**, nhóm theo khu + đếm ngược thời gian; có cả Ao cá và nhiệm vụ tăng đàn |
-| 🐄 **Animals & Buildings** | Từng thú cưng (tên, mức thân, tâm trạng), gia súc kèm **nhắc vuốt ve**, **kho cỏ khô + mức tiêu thụ mỗi ngày**, danh sách công trình đang xây |
+| 🐄 **Animals & Buildings** | Từng thú cưng (tên, mức thân, tâm trạng), gia súc kèm **nhắc vuốt ve**, **kho rơm rạ + mức tiêu thụ mỗi ngày**, danh sách công trình đang xây |
 | 🌱 **Agriculture** | Cây đang trồng, tách riêng Nông trại / Nhà kính / Đảo Ginger |
 | 👕 **Equipment** | Mũ, nhẫn, giày, quần áo đang mặc |
 
@@ -1342,7 +1342,7 @@ Thay **chân dung hội thoại** của dân làng bằng nét vẽ kiểu **ani
 
 **Save editor** chạy độc lập ngoài game — tên đầy đủ **Farm Foundry (SDVSE — Stardew Valley Save Editor)**, không phải mod nạp qua SMAPI. Để trong `Mods` thì SMAPI chỉ báo lỗi rồi bỏ qua.
 
-**Công dụng** — mở file save sửa trực tiếp: **vật phẩm trong túi** · **rương / tủ lạnh / mọi vật chứa** · **bố cục & địa hình nông trại** (di chuyển, xóa vật thể) · **độ vui của vật nuôi** · đổi **mèo ↔ chó**. Ảnh 2 là tab nông trại: tên trại, cấp nhà, mùa/ngày/năm, giống thú cưng, cỏ khô, Óc chó vàng.
+**Công dụng** — mở file save sửa trực tiếp: **vật phẩm trong túi** · **rương / tủ lạnh / mọi vật chứa** · **bố cục & địa hình nông trại** (di chuyển, xóa vật thể) · **độ vui của vật nuôi** · đổi **mèo ↔ chó**. Ảnh 2 là tab nông trại: tên trại, cấp nhà, mùa/ngày/năm, giống thú cưng, rơm rạ, Óc chó vàng.
 
 **Cách dùng** — **thoát game trước** → sao lưu `%AppData%\StardewValley\Saves` → mở công cụ → **Load** → sửa → **Save**. Màn hình chính (ảnh 1) có sẵn **Backup Manager** và **Reload Save**.
 

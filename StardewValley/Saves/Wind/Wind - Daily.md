@@ -20,7 +20,7 @@
 
 | Giới hạn | Vì sao cheat không gỡ |
 |---|---|
-| 🛒 **Hàng reset theo ngày** | Pierre · Xe hàng rong · cỏ khô ở Marnie · thư trong hộp — mỗi ngày đúng một lượt, không mua dồn được |
+| 🛒 **Hàng reset theo ngày** | Pierre · Xe hàng rong · rơm rạ ở Marnie · thư trong hộp — mỗi ngày đúng một lượt, không mua dồn được |
 | 🍀 **May mắn của ngày** | `MaxDailyLuck` **đang tắt**, `AlwaysTreasure` cũng **tắt** → tỉ lệ thang trong mỏ, rương kho báu khi câu, một số loài cá vẫn tuỳ ngày |
 | 🌦️ **Thời tiết** | Cheat _"đặt thời tiết ngày mai"_ **đang tắt** → thời tiết vẫn ngẫu nhiên, trừ mấy ngày mưa/nắng cố định theo lịch |
 | 🔨 **Robin mỗi lúc một công trình** | Cheat _"xây nhanh"_ **đang tắt** → vẫn 2–3 ngày mỗi cái, công trình cùng mùa phải xếp nối nhau |
@@ -179,7 +179,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 **Lưu ý:**
 - Cải vàng chín sau 4 ngày → thu hoạch Ngày 5.
 - Giữ lại Gỗ/Đá, đừng bán — sau này xây/nâng cấp tốn nhiều.
-- ⚠️ Cắt cỏ ngày 1 KHÔNG ra cỏ khô — chưa có Silo (Kho chứa Cỏ) thì cắt cỏ = mất trắng.
+- ⚠️ Cắt cỏ ngày 1 KHÔNG ra rơm rạ — chưa có Silo (Kho chứa Cỏ) thì cắt cỏ = mất trắng.
 - ⚠️ Chưa xuống mỏ được (đá lở chặn tới Ngày 5), chưa câu cá được (chưa có cần).
 
 ---
@@ -236,7 +236,7 @@ Ngày trống cuối cùng trước khi Hầm Mỏ và Nhà Văn hóa mở — d
 
 **Lưu ý:**
 - ⚠️ Ngày mai phải vào Thị trấn từ Bến Xe, 08:00–13:00, **không mưa** mới mở được Nhà Văn hóa — kiểm tra dự báo tối nay, mai mưa thì phải hoãn.
-- Kho chứa Cỏ chưa xây được hôm nay (5 Thỏi Đồng cần quặng đồng dưới mỏ, Ngày 5 mới mở). **Không gấp** — cỏ khô chỉ dùng để nuôi gia súc (Chuồng gia cầm/Chuồng Gia súc), mà Chuồng gia cầm tốn tới 4.000g nên khó xây được sớm trong mùa Xuân năm đầu. Ưu tiên đào mỏ, gom quặng, đặt Lò nung trước; xây Kho cỏ khi nào rảnh tay, khoảng Ngày 7–10 cũng không sao.
+- Kho chứa Cỏ chưa xây được hôm nay (5 Thỏi Đồng cần quặng đồng dưới mỏ, Ngày 5 mới mở). **Không gấp** — rơm rạ chỉ dùng để nuôi gia súc (Chuồng gia cầm/Chuồng Gia súc), mà Chuồng gia cầm tốn tới 4.000g nên khó xây được sớm trong mùa Xuân năm đầu. Ưu tiên đào mỏ, gom quặng, đặt Lò nung trước; xây Kho cỏ khi nào rảnh tay, khoảng Ngày 7–10 cũng không sao.
 
 ---
 
@@ -291,7 +291,7 @@ Không thấy thư Pháp sư → gần như chắc hôm qua chưa vào hẳn bê
 - [x] 🧙 Lên Tháp Phù thủy (Rừng Cindersap, tây hồ) **trước khi vào CC** — lấy khả năng đọc chữ Junimo (bắt buộc, chưa làm là chưa nộp gói được dù CC đã mở)
 - [x] Vào CC đọc bảng gói — 4 nhóm gói làm được trong Xuân: **Sản phẩm Hái lượm Mùa Xuân** (4 món nhặt dọc đường, dễ nhất) · **Nông sản Mùa Xuân** (Cải vàng/Đậu xanh/Súp lơ/Khoai tây, phải trồng đủ) · **Xây dựng** (99 Gỗ, 99 Gỗ, 99 Đá, 10 Gỗ Cứng — cần Rìu Đồng) · **Cá** (giữ 1 con mỗi loại)
 - [x] Chế Rương (50 Gỗ) và Bù nhìn (50 Gỗ, 20 Sợi, 1 Than) — từ 16 cây trở lên quạ bắt đầu phá ruộng
-- [ ] *(Không gấp)* Đặt Robin xây Kho chứa Cỏ nếu đã đủ nguyên liệu (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g — Cửa hàng Mộc mở 09:00–18:00, nghỉ Thứ Ba, xây mất 2 ngày) — chưa đủ thì để dành, xây trễ vài ngày không ảnh hưởng gì vì chưa có gia súc để ăn cỏ khô
+- [ ] *(Không gấp)* Đặt Robin xây Kho chứa Cỏ nếu đã đủ nguyên liệu (100 Đá, 10 Đất sét, 5 Thỏi Đồng, 100g — Cửa hàng Mộc mở 09:00–18:00, nghỉ Thứ Ba, xây mất 2 ngày) — chưa đủ thì để dành, xây trễ vài ngày không ảnh hưởng gì vì chưa có gia súc để ăn rơm rạ
 - [x] Ghé Bảng tin nhiệm vụ cạnh Pierre — thường chỉ cần mang 1 món, thưởng tiền + tình cảm gần như miễn phí
 - [x] Xuống mỏ gom thêm quặng Đồng + đá nếu còn năng lượng
 
@@ -595,7 +595,7 @@ Robin & Marnie nghỉ Thứ Ba như thường lệ. Pierre vẫn mở — tranh 
 - [x] 🍄 Xuống mỏ **tầng 81 trở xuống** tìm **Nấm tím** — chỉ mọc ở **tầng nấm** (tầng tối có nấm to phát sáng), không phải tầng nào cũng có. 1 cây là xong luôn gói **Sản phẩm Hái lượm Ngoại cảnh** (đang 4/5) và thêm 1 món cho **Nghiên Cứu Thực Địa** (đang 2/4); được 2 cây thì nộp cả hai. Quicksave Xuân 22: đã xuống tới tầng 90, trong túi/rương **chưa có món nào nộp được ngay** cho Nhà Văn hóa _(save đầu Xuân 23: đã tới **tầng 110**, vẫn chưa có Nấm tím — thang máy xuống 80/90/100/110 rồi tìm tầng nấm)_
 - [x] ⚒️ Đem **18 Hốc tinh** tới **Clint** (09:00–16:00, 25g/cái ≈ 450g): 6 Hốc tinh · 5 Hốc tinh dung nham · 7 Hốc tinh toàn năng — đi **trước** Bảo tàng để quyên góp một lượt
 - [x] 🏛️ Quyên góp Bảo tàng **Búp bê cổ đại** + **Đĩa quý hiếm** (đang trong rương) → **45 món**, kèm món mới nào đập từ Hốc tinh ra còn icon Gunther
-- [x] 💰 **Chưa trả** gói 5.000g Kho bạc dù ví đang **13.052g** — mấy ngày tới còn Kho chứa Cỏ + 2 gà + cỏ khô (~1.900g) và tối đa 2 Hạt giống hiếm (2.000g), trả thêm 5.000g là tụt dưới mốc 6.000g cho hạt Hạ 1
+- [x] 💰 **Chưa trả** gói 5.000g Kho bạc dù ví đang **13.052g** — mấy ngày tới còn Kho chứa Cỏ + 2 gà + rơm rạ (~1.900g) và tối đa 2 Hạt giống hiếm (2.000g), trả thêm 5.000g là tụt dưới mốc 6.000g cho hạt Hạ 1
 - [x] 💬 Nói chuyện với **Haley** (1.234 điểm, gần 5 tim) — mai mời nhảy được. Nhựa phong chín khoảng **08:40 sáng mai** → lấy trước khi đi lễ hội
 
 **Lưu ý:** Bó hoa **không bắt buộc** để tham dự hay nhảy ở Vũ hội Hoa — chỉ cần để chính thức hoá quan hệ yêu đương (mở khóa mốc tình cảm > 8 tim). Muốn nhảy cùng ai chỉ cần người đó đạt **4 tim** trở lên (xem Ngày 24).
@@ -659,7 +659,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **✅ Việc hôm nay**
 - [x] 🎯 **Đặt Robin xây Kho chứa Cỏ (Silo)** ở ô góc trên–trái **(72, 22)** — 100g + 100 Đá + 10 Đất sét + 5 Thỏi Đồng, đủ cả _(Quicksave Xuân 24: 15 Đất sét · 20 Thỏi Đồng · 733 Đá)_. Đặt đúng chỗ của nó trong [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] ngay, khỏi phải nhờ dời về sau. ⚠️ **Nhặt Bù nhìn ở (73, 24) trước** — nó nằm trong nền 3 × 3 của kho nên Robin báo đỏ; đặt lại ở ô trống gần ruộng, ví dụ **(68, 26)**, để còn giữ Súp lơ khỏi quạ tới cuối mùa
-- [x] 🐔 Mua **2 gà** ở Trại Marnie (**800g/con**) — ví 16.718g nên mốc 6.000g không còn là vấn đề. Mua luôn **cỏ khô cho ngày 25–26** (2 con ≈ 4 phần = 200g)
+- [x] 🐔 Mua **2 gà** ở Trại Marnie (**800g/con**) — ví 16.718g nên mốc 6.000g không còn là vấn đề. Mua luôn **rơm rạ cho ngày 25–26** (2 con ≈ 4 phần = 200g)
 - [x] 🔨 Ghé Clint lấy **Cuốc Thép** (đã nâng xong) — và cân nhắc gửi luôn **Rìu** hoặc **Cuốc chim** lên Thép, xem [[#📖 Đọc gì ở nhịp ①|thứ tự nâng mới]]
 - [x] ~~🍁 Lấy **Nhựa phong** → nộp gói **Sản phẩm Hái lượm Ngoại cảnh**~~ — **bỏ**: gói đã xong từ Ngày 23 (Nấm tím), con số "4/5" là đọc từ save cũ hơn _(save Xuân 23 và Xuân 25 đều đã đủ)_
 - [x] _(Routine)_ Thu hoạch Dâu tây lứa 2, tưới, ship
@@ -668,7 +668,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 - **Gà mua về 3 ngày mới lớn** rồi mới đẻ. _(Bản kế hoạch cũ cho phép dời gà sang Hạ vì tưởng ví chỉ 4.298g; save Xuân 24 có 16.718g nên không cần dời.)_
 - 🏚️ **Dời Chuồng gia cầm không cản Kho chứa Cỏ.** Dời ở Robin là **tức thì và miễn phí**, không chiếm suất "mỗi lúc một công trình" — điều kiện duy nhất là chuồng **đã xây xong** (từ sáng nay). Hai việc độc lập nhau: nền kho (72–74, 22–24) không chồng lên chỗ mới của chuồng (65–70, 22–24). Nhưng **chỗ mới hôm nay chưa trống**, xem [[#🏗️ Lộ trình xây trang trại theo năm|lộ trình]] — nên **cứ đặt kho trước, đừng chờ dời chuồng**.
-- **Cỏ khô mua dư không phí** — có kho rồi thì cầm cỏ khô bấm vào phễu là cất vào kho; cầm bấm vào **máng ăn trong chuồng** là đặt thẳng được, không cần kho. Ngày nắng gà vẫn ra ngoài ăn cỏ, nhưng quanh chuồng gần như hết cỏ _(Quicksave Xuân 21: 102 bụi trên cả nông trại, chỉ 2 bụi gần chuồng)_ → **vẫn rải cỏ khô vào máng** làm dự phòng. Có kho rồi, mỗi nhát Liềm có **50%** ra 1 cỏ khô, kho chứa tối đa 240.
+- **Rơm rạ mua dư không phí** — có kho rồi thì cầm rơm rạ bấm vào phễu là cất vào kho; cầm bấm vào **máng ăn trong chuồng** là đặt thẳng được, không cần kho. Ngày nắng gà vẫn ra ngoài ăn cỏ, nhưng quanh chuồng gần như hết cỏ _(Quicksave Xuân 21: 102 bụi trên cả nông trại, chỉ 2 bụi gần chuồng)_ → **vẫn rải rơm rạ vào máng** làm dự phòng. Có kho rồi, mỗi nhát Liềm có **50%** ra 1 rơm rạ, kho chứa tối đa 240.
 - 🚧 **Không cần xây hàng rào.** Gà không ăn cây trồng và tối tự về chuồng. Chỉ cần **lối ra cửa chuồng thông thoáng**: gà kẹt ngoài (vướng hàng rào, rương, máy) mà cửa đã đóng thì đêm có thể bị **thú hoang tấn công và mất hẳn con đó**.
 - Gói **Nông sản Mùa Xuân** đã xong _(save Xuân 18)_ — không cần rà lại.
 
@@ -683,9 +683,9 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **📋 Chốt ngày** _(Quicksave Xuân 25, cuối ngày)_
 - 🏗️ **Kho chứa Cỏ** đã đặt ở (72, 22), **còn 2 ngày** → xong sáng **Ngày 27**, đúng kế hoạch. Bù nhìn dời sang **(68, 26)**, đúng ô gợi ý.
-- 🐔 **2 gà** đã vào chuồng, 1 trắng 1 nâu. Máng đang có **4 cỏ khô**.
+- 🐔 **2 gà** đã vào chuồng, 1 trắng 1 nâu. Máng đang có **4 rơm rạ**.
 - 🔨 Lấy Cuốc Thép rồi gửi luôn **Cuốc chim** lên Thép → **còn 2 ngày, lấy Ngày 27**. ⚠️ Nghĩa là **Ngày 26 không có cuốc chim** — xuống mỏ không đập đá được.
-- 💰 **Ví 18.389 → 11.489g** (−6.900 = 100 Kho chứa Cỏ + 1.600 gà + 200 cỏ khô + 5.000 Cuốc chim Thép). Vẫn trên mốc 6.000g.
+- 💰 **Ví 18.389 → 11.489g** (−6.900 = 100 Kho chứa Cỏ + 1.600 gà + 200 rơm rạ + 5.000 Cuốc chim Thép). Vẫn trên mốc 6.000g.
 - 🍓 40 bụi lứa 2 đã hái; **51 Dâu tây đang nằm trong rương, chưa ship** (thùng ship hôm nay chỉ có cá). Lứa tiếp của 40 bụi này chín **Ngày 29 = Hạ 1**, tức chết trước khi chín — **đây là lứa cuối của chúng**. Còn 9 bụi lệch nhịp: **7 bụi chín Ngày 26**, **2 bụi chín Ngày 27**.
 - 💧 93/93 ô đã tưới. Thùng ship toàn cá, **không con nào còn thiếu cho gói Cá** (đối chiếu gói chưa xong trong save) → để nguyên mà ship.
 - 🌾 **Trồng trọt lên cấp 5** → **tối nay chọn nghề**. Chọn **Thợ cày (Tiller)** — nông sản +10%, cấp 10 mở **Nghệ nhân (Artisan)** +40% cho Rượu/Mứt/Bia; **Quản trại (Rancher)** chỉ cộng 20% cho sản phẩm động vật, mà save mới có 2 gà.
@@ -699,7 +699,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Xe hàng rong** ở Rừng Cindersap.
 - **Cuốc chim đang ở chỗ Clint** (xong Ngày 27) → hôm nay **không xuống mỏ** dù playbook mưa có ghi mỏ.
 
-**🌦️ Nhánh:** 🌧️ **mưa** _(save Xuân 25 báo trước)_, may mắn chốt ở nhịp ①. Ngày này nhẹ, nên **nhánh quyết việc chính**: mưa + may cao → [[#🌧️ Mưa|câu cá mục tiêu + rương kho báu]] · mưa + may thấp → [[#💀 May thấp|việc trong nhà & quan hệ]]. Gà mới mua **không ra ngoài khi mưa**, nhưng máng còn đủ: 4 cỏ khô, mỗi con ăn 1 phần/đêm → đủ cho đêm 25 và đêm 26.
+**🌦️ Nhánh:** 🌧️ **mưa** _(save Xuân 25 báo trước)_, may mắn chốt ở nhịp ①. Ngày này nhẹ, nên **nhánh quyết việc chính**: mưa + may cao → [[#🌧️ Mưa|câu cá mục tiêu + rương kho báu]] · mưa + may thấp → [[#💀 May thấp|việc trong nhà & quan hệ]]. Gà mới mua **không ra ngoài khi mưa**, nhưng máng còn đủ: 4 rơm rạ, mỗi con ăn 1 phần/đêm → đủ cho đêm 25 và đêm 26.
 
 **✅ Việc hôm nay**
 - [x] 🎯 **Săn Cá huyền thoại (Legend) ở Hồ Trên Núi** — ✅ **đã câu được, chất lượng Vàng** _(Quicksave Xuân 26)_ — chốt ở nhịp ①: mưa + Câu cá đã **cấp 10 gốc**, đủ điều kiện không cần buff. Mai có gió, không mưa → lỡ hôm nay thì Năm 1 chỉ còn trông vào Ngày 28 có mưa hay không.
@@ -723,16 +723,16 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **🔒 Cứng**
 - **Sinh nhật Emily** — hay ở nhà (chung nhà với Haley, phía bắc Thị trấn) hoặc Saloon tối thứ Bảy.
-- **Kho chứa Cỏ xong sáng nay** (đặt Ngày 25) → **từ hôm nay cắt cỏ mới ra cỏ khô**.
+- **Kho chứa Cỏ xong sáng nay** (đặt Ngày 25) → **từ hôm nay cắt cỏ mới ra rơm rạ**.
 - Cây trồng ngoài trời **chết hết khi sang Hạ** — chưa có Nhà kính trong Xuân Năm 1.
 
-**🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Nắng → cắt cỏ đầy kho là việc chính rất đáng (vừa mở khoá hôm nay). Mưa → [[#🌧️ Mưa|câu cá]], cỏ để Ngày 28. May thấp → vẫn cắt cỏ được, cỏ khô không tuỳ may mắn.
+**🌦️ Nhánh:** chưa biết — chốt ở nhịp ①. Nắng → cắt cỏ đầy kho là việc chính rất đáng (vừa mở khoá hôm nay). Mưa → [[#🌧️ Mưa|câu cá]], cỏ để Ngày 28. May thấp → vẫn cắt cỏ được, rơm rạ không tuỳ may mắn.
 
 **✅ Việc hôm nay**
-- [ ] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 cỏ khô, kho tối đa 240; gà vào Đông không ra ngoài nên cỏ khô là của để
+- [ ] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 rơm rạ, kho tối đa 240; gà vào Đông không ra ngoài nên rơm rạ là của để
 - [ ] 🪨 **Đưa Đá cho Robin** (quest bảng tin nhận Ngày 26) — Ngày 26 cô ấy đứng ở công trình Kho chứa Cỏ nhưng **đang xây thì không nói chuyện, không nhận đồ được**. Kho xong sáng nay nên Robin về lịch thường: tìm ở **Cửa hàng Mộc** (Dãy Núi) hoặc quanh Thị trấn. Xem hạn trong Nhật ký nhiệm vụ trước — quest bảng tin thường chỉ cho 2 ngày, tức **hôm nay là ngày cuối**
 - [ ] 🔨 Lấy **Cuốc chim Thép** ở Clint (gửi Ngày 25) — từ hôm nay phá được **tảng đá lớn**
-- [ ] 🐔 Máng gà **hết cỏ khô** sau đêm 26 → nắng thì gà tự ra ăn cỏ ngoài sân; mưa thì cắt cỏ cho có cỏ khô trong kho rồi lấy ở phễu trong chuồng bỏ vào máng
+- [ ] 🐔 Máng gà **hết rơm rạ** sau đêm 26 → nắng thì gà tự ra ăn cỏ ngoài sân; mưa thì cắt cỏ cho có rơm rạ trong kho rồi lấy ở phễu trong chuồng bỏ vào máng
 - [ ] 🍓 Hái **2 bụi Dâu tây** chín hôm nay
 - [ ] 🎁 Tìm Emily tặng quà sinh nhật
 - [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre — ưu tiên **Hạt việt quất** (lãi cao), thêm **Hạt hoa bia** nếu định ủ Bia nhẹ
@@ -795,7 +795,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 | **Khi lên Nông nghiệp 6** (thường giữa Hạ) | Thay bằng **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9, hàng/cột cuối của ô để làm lối · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
 | **Thu** | Mở thêm **Ruộng 2** (19, 22) cho vụ Thu | 9 Vòi tưới cây xịn |
 | **Cuối Thu / Đông** | Rào **bãi chăn nuôi** x 54–76, y 21–46 (92 ô rào + cổng đôi ở (63, 21) (64, 21)) | **Hàng rào gỗ cứng** 1 Gỗ cứng/ô; thiếu Gỗ cứng thì dựng tạm **Hàng rào gỗ** (2 Gỗ/ô) rồi thay sau · **Cổng** 10 Gỗ |
-| **Hạ 1** _(sớm nhất)_ | Nhờ Robin **dời Chuồng gia cầm** từ (45, 14) sang **(65, 22)** — chỗ cũ là lối đi và Đồng hồ Hoàng kim của khu nhà. Nền 6 × 3 hiện bị chắn bởi **Dâu tây / Súp lơ ở cột x 65–66** (sống tới hết Xuân 28) · **Đuốc ở (65, 24)** · **cây thông non ở (69, 22)** _(Quicksave Xuân 24)_. Sang Hạ 1: dọn cây chết, nhặt đuốc, nhổ cây non → dời. Đường lát ở cột x 67 không chặn. Dời xong thì **trồng Cỏ giống trước cửa chuồng mới**, phía nam (y ≥ 25, trong bãi chăn nuôi sẽ rào) — **đừng trồng ở (45, 14)**, cỏ trồng trước ngày dời thì gà ra cửa chuồng mới không ăn tới. Ngày nắng mở cửa là gà tự ra ăn cỏ, khỏi bỏ cỏ khô vào máng; cỏ lan ra còn là chỗ cắt cỏ đầy Kho chứa Cỏ cho mùa Đông | Miễn phí, **tức thì** — không chiếm suất xây của Robin, gà bên trong đi theo chuồng · Cỏ giống đã có sẵn trong túi |
+| **Hạ 1** _(sớm nhất)_ | Nhờ Robin **dời Chuồng gia cầm** từ (45, 14) sang **(65, 22)** — chỗ cũ là lối đi và Đồng hồ Hoàng kim của khu nhà. Nền 6 × 3 hiện bị chắn bởi **Dâu tây / Súp lơ ở cột x 65–66** (sống tới hết Xuân 28) · **Đuốc ở (65, 24)** · **cây thông non ở (69, 22)** _(Quicksave Xuân 24)_. Sang Hạ 1: dọn cây chết, nhặt đuốc, nhổ cây non → dời. Đường lát ở cột x 67 không chặn. Dời xong thì **trồng Cỏ giống trước cửa chuồng mới**, phía nam (y ≥ 25, trong bãi chăn nuôi sẽ rào) — **đừng trồng ở (45, 14)**, cỏ trồng trước ngày dời thì gà ra cửa chuồng mới không ăn tới. Ngày nắng mở cửa là gà tự ra ăn cỏ, khỏi bỏ rơm rạ vào máng; cỏ lan ra còn là chỗ cắt cỏ đầy Kho chứa Cỏ cho mùa Đông | Miễn phí, **tức thì** — không chiếm suất xây của Robin, gà bên trong đi theo chuồng · Cỏ giống đã có sẵn trong túi |
 | **Đông** | Xây **Chuồng Gia súc** ở **(56, 22)** | 6.000g + 350 Gỗ + 150 Đá, xây 3 ngày |
 | **Đông** | Trồng **cây chắn gió** (Hạt sồi, Hạt phong, Quả thông) theo vị trí bên quy hoạch · dọn **góc mộ ông nội** (sân Đường lát đá x 7–9, y 9–10, không trồng cây ở x ≤ 12) | 6 Đá cho sân · hạt cây nhặt khi chặt cây |
 
@@ -853,4 +853,4 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 - 🌱 Cây **Trái cổ đại** ngoài trời **chết khi sang Đông** — hái quả cuối (khoảng Thu 22) là hết.
 - 🎣 **Từ Thu 2 canh bảng yêu cầu đặc biệt** cạnh tiệm Pierre, chờ đơn **"Cần kiếm Sâu mọng!"** của Willy (100 Thịt côn trùng) → công thức **Phao câu chất lượng**, cách lấy ở [[Đồ câu cá#🪝 Phao & mồi tự chế|Đồ câu cá]]. Nguyên liệu đã đủ trong rương _(Quicksave Xuân 25: 30 Tinh chất mặt trời · 23 Thỏi đồng · 398 Nhựa cây)_ — **giữ lại ít nhất 5 Tinh chất mặt trời**, chỉ còn thiếu 100 Thịt côn trùng.
-- 🐔 **Dự trữ cỏ khô cho mùa Đông:** gà không ra ngoài cả 28 ngày → 4 con × 28 = **112 cỏ khô**. Cắt cỏ bằng Liềm cho đầy Kho chứa Cỏ từ giữa Thu, đỡ phải mua ở Marnie (50g/phần). Giới hạn ở đây **không phải thể lực** mà là **kho chứa tối đa 240** và **số bụi cỏ còn trên nông trại** — mỗi nhát Liềm chỉ **50%** ra 1 cỏ khô, nên bắt đầu sớm.
+- 🐔 **Dự trữ rơm rạ cho mùa Đông:** gà không ra ngoài cả 28 ngày → 4 con × 28 = **112 rơm rạ**. Cắt cỏ bằng Liềm cho đầy Kho chứa Cỏ từ giữa Thu, đỡ phải mua ở Marnie (50g/phần). Giới hạn ở đây **không phải thể lực** mà là **kho chứa tối đa 240** và **số bụi cỏ còn trên nông trại** — mỗi nhát Liềm chỉ **50%** ra 1 rơm rạ, nên bắt đầu sớm.

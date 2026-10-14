@@ -190,7 +190,7 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 
 | Giai đoạn | Xây gì | Vì sao · chi phí chính |
 |---|---|---|
-| **Xuân năm 1** | **Chuồng gia cầm (Coop)** · **Kho chứa Cỏ (Silo)** · lát **Đường lát đá (Cobblestone Path)** cho đường chính | Chuồng 4.000g + 300 Gỗ + 100 Đá. Kho chỉ 100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng — **xây trước khi cắt cỏ**, chưa có kho thì cắt cỏ không ra cỏ khô. Đường lát tốn 1 Đá/ô, công thức có sẵn từ đầu |
+| **Xuân năm 1** | **Chuồng gia cầm (Coop)** · **Kho chứa Cỏ (Silo)** · lát **Đường lát đá (Cobblestone Path)** cho đường chính | Chuồng 4.000g + 300 Gỗ + 100 Đá. Kho chỉ 100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng — **xây trước khi cắt cỏ**, chưa có kho thì cắt cỏ không ra rơm rạ. Đường lát tốn 1 Đá/ô, công thức có sẵn từ đầu |
 | **Hạ năm 1** (Nông nghiệp 6) | **Vòi tưới cây xịn (Quality Sprinkler)** · mở khoá **Hàng rào gỗ cứng (Hardwood Fence)** | Vòi phủ 3 × 3 — 9 cái tưới kín một khối 9 × 9. Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện |
 | **Đông năm 1** | **Chuồng Gia súc (Barn)** · rào bãi chăn nuôi · dời công trình về đúng chỗ | Không phải tưới ruộng nên rảnh tay nhất năm. Chuồng 6.000g + 350 Gỗ + 150 Đá |
 | **Năm 2** | **Nhà Kho → Nhà Kho lớn (Shed → Big Shed)** làm xưởng Thùng chứa · cây ăn quả · nâng chuồng lên bản lớn | Nhà Kho 15.000g + 300 Gỗ, nâng lên Nhà Kho lớn thêm 20.000g + 550 Gỗ + 300 Đá. Thùng chứa cần Nông nghiệp 8. Cây giống ở Pierre 2.000–6.000g mỗi cây |
