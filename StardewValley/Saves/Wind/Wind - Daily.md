@@ -787,7 +787,17 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 **✅ Việc hôm nay**
 - [ ] 🎯 🔮 **12:00 rung bụi lấy Junimo Nhồi bông** (góc tây bắc Thị trấn, trên sân chơi)
 - [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua _(Quicksave Xuân 28: **7 hạt** trong rương (58, 15), ví **29.944g**; mốc là 10–15 hạt)_. Còn thiếu thì dồn sang nửa sau mùa Hạ
-- [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre _(dời từ Ngày 27)_. Ưu tiên **Hạt việt quất** vì lãi cao, thêm **Hạt hoa bia** nếu định ủ Bia nhẹ. Nhớ trừ phần tiền mua Hạt giống hiếm hôm nay
+- [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre _(dời từ Ngày 27)_. Đề xuất theo **107 ô đã cuốc** (chưa có Vòi tưới), tổng **~7.850g**:
+
+  | Mua ở Pierre | Số | Giá | Để làm gì |
+  |---|---|---|---|
+  | **Hạt việt quất** | ~90 | 80g | Việc chính: gieo Hạ 1 → chín **Hạ 14**, rồi 4 ngày/lứa (18 · 22 · 26) = **4 lứa × 3 Trái việt quất** |
+  | **Hạt giống cà chua** · **Hạt ớt** · **Hạt giống dưa** | 1 · 1 · 2 | 50g · 40g · 80g | Gói **Nông sản Mùa Hè** cần đủ cả 4: Cà chua, Ớt hiểm, Trái việt quất, Dưa |
+  | **Hạt lúa mì** | 10 | 10g | Gói **Thức ăn Chăn Nuôi**: 10 Lúa mì (rơm rạ thì Kho chứa Cỏ đã có) |
+  | **Hạt giống anh túc** · **Hạt hướng dương** | 1 · 1 | 100g · 200g | Anh túc cho gói **Đầu Bếp** · Hướng dương cho gói **Nhuộm** |
+  | ~~Hoa bia giống~~ | — | 60g | **Bỏ**: Hoa bia bán thô rẻ, chỉ lời khi ủ Bia nhẹ, mà chưa có Thùng ủ |
+
+  Mua xong ví còn **~21.000g** (trừ cả Hạt giống hiếm hôm nay). Gói Kho bạc **25.000g** vẫn chờ Việt quất ra tiền. **Còn hai chỗ bạn quyết:** có mở rộng ruộng quá 107 ô không (mỗi ô thêm là thêm một lần tưới tay mỗi ngày), và có mua **túi 36 ô (10.000g)** ngay Hạ 1 không
 - [x] 📬 Đọc thư Emily → nhận công thức nấu ăn — **xong**: công thức **Salad** đã vào sổ nấu ăn _(Quicksave Xuân 28)_
 - [x] 🧩 Rà toàn bộ gói Cộng đồng mùa Xuân — **xong, không còn gì phải làm gấp** _(Quicksave Xuân 28)_: **Nông sản Mùa Xuân**, **Sản phẩm Hái lượm Mùa Xuân** và **Xây dựng** đều đã đủ. Gói **Nông sản Chất lượng cao** chỉ cần **3 trong 4** loại (Cải vàng, Dưa, Bí ngô, Ngô), nên thiếu 2 Cải vàng không chặn gói
 - [ ] 🥚 Nhặt **2 Trứng** trên sàn chuồng gà. Máng còn **đủ 4 rơm rạ**, mưa nên gà ở trong, khỏi châm
