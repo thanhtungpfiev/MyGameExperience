@@ -881,7 +881,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - Chừa tiền **Nam việt quất (240g/hạt) cho Thu 1** trước khi vét lần cuối ở Hạ 28.
 - Túi 36 ô (10.000g) để sau khi Việt quất ra tiền — mua bây giờ là hết vốn vụ Hạ.
 - 🐔 Gà mua cho đủ **4 con** (800g/con) cũng chờ tới đợt này, cùng lúc với lúc vét Hạt giống hiếm.
-- 💰 Gói **5.000g** của Kho bạc (Nhà Văn hóa) cũng trả ở đợt này — không có hạn chót, còn tiền đầu Hạ thì bỏ vào hạt quay vòng lời hơn. Quicksave Xuân 22: ví 11.831g, trả ngay thì còn 6.831g, chỉ dư ~800g trên mốc 6.000g.
+- 💰 Kho bạc (Nhà Văn hóa) đã trả xong **2.500g · 5.000g · 10.000g**, chỉ còn gói **25.000g**. Gói này cũng chờ tới đợt này, vì không có hạn chót, còn tiền đầu Hạ bỏ vào hạt quay vòng thì lời hơn. Quicksave Xuân 28: ví 29.944g, trả ngay thì chỉ còn 4.944g, tức thủng mốc 6.000g và không còn tiền mua hạt Hạ.
 
 **🌱 Trái cổ đại** — cây ở ô (72, 27) chín lứa đầu **quanh Hạ 15**, sau đó cứ 7 ngày 1 quả (khoảng Hạ 22 · Thu 1 · 8 · 15 · 22). Bán 550g/quả thường; **nên giữ lại vài quả** — sau này có Máy làm hạt thì đổi ra Hạt giống cổ đại để trồng trong Nhà kính, nơi cây sống quanh năm.
 
