@@ -11,10 +11,10 @@
 
 ![[assets/my-farm-plan-rieng.jpg|700]]
 
-**Planner:** [stardewplan.com](https://stardewplan.com), bản **"Wind - Quy hoach"** trong **Library** của tài khoản. Bấm vào món nào là hiện tên món đó, bật được vùng tưới của Vòi tưới, Bù nhìn, Nhà Ong.
+**Link planner:** https://stardewplan.com/plan/calm-sprinkler-glen-creek-919 — bản **"Wind - Quy hoach"** trong **Library** của tài khoản. Bấm vào món nào là hiện tên món đó, bật được vùng tưới của Vòi tưới, Bù nhìn, Nhà Ong.
 
 > [!save]- Sao lưu — `assets/planner/rieng-stardewplan.json`
-> Tài khoản miễn phí không có link chia sẻ và chỉ giữ được vài bản vẽ, nên dữ liệu bản này được lưu ở `StardewValley/assets/planner/rieng-stardewplan.json`. Cách khôi phục và ý nghĩa các mã ở [[Quy hoạch nông trại#💾 Sao lưu bản vẽ stardewplan.com|Quy hoạch nông trại]].
+> Tài khoản miễn phí chỉ giữ được vài bản vẽ, nên dữ liệu bản này được lưu ở `StardewValley/assets/planner/rieng-stardewplan.json`. Cách khôi phục và ý nghĩa các mã ở [[Quy hoạch nông trại#💾 Sao lưu bản vẽ stardewplan.com|Quy hoạch nông trại]].
 
 Tự thiết kế, không chép mẫu nào, theo tiêu chí **đẹp · đơn giản · gọn gàng · tiện dùng** và có đủ đồ trang trí, cây cối, đường lát, tường rào. Đã chốt trước khi dựng:
 - **Dài hạn nhưng xây dần:** năm 1 chỉ làm đường chính và ô ruộng sát trục dọc, các khu khác để trống chờ.

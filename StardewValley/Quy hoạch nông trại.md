@@ -35,11 +35,11 @@
 
 ### 💾 Sao lưu bản vẽ stardewplan.com
 
-Tài khoản miễn phí **không có link chia sẻ** (Share link chỉ dành cho supporter) và **chỉ giữ được vài bản vẽ**. Vì vậy mọi bản vẽ đều lưu thành file trong `StardewValley/assets/planner/`. Bản nào cần xem thì nạp lên tài khoản, xem xong xoá đi cho đỡ chật chỗ.
+Tài khoản miễn phí **chỉ giữ được vài bản vẽ**. Vì vậy mọi bản vẽ đều lưu thành file trong `StardewValley/assets/planner/`. Bản nào cần xem thì nạp lên tài khoản, xem xong xoá đi cho đỡ chật chỗ.
 
 | File | Bản vẽ (`label`) | Đang trên tài khoản? |
 |---|---|---|
-| `rieng-stardewplan.json` | `Wind - Quy hoach` — [[Wind - Quy hoạch]] | ✅ |
+| `rieng-stardewplan.json` | `Wind - Quy hoach` — [[Wind - Quy hoạch]] | ✅ [link](https://stardewplan.com/plan/calm-sprinkler-glen-creek-919) |
 | `mau-1-stardewplan.json` | `Mau 1 - Hieu qua` — [[#Bản dựng lại trên planner — Mẫu 1\|Mẫu 1]] | — |
 | `mau-2-stardewplan.json` | `Mau 2 - Gon dep` — [[#Bản dựng lại trên planner — Mẫu 2\|Mẫu 2]] | — |
 
