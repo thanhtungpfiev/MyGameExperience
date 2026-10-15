@@ -763,7 +763,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - 🐔 Cả 2 con gà đã ở trong chuồng, cửa chuồng vẫn mở.
 - 🏛️ Đã quyên góp **Trang sức yêu tinh** và **Quạt trang trí**. 🔨 **Cuốc chim Thép** đã về túi. 🎁 Đã tặng quà Emily.
 - 📦 Thùng ship có **49 Dâu tây**, 117 Mâm xôi cá hồi, rau Xuân và cá. Trong rương (56, 16) còn **11 Dâu tây** và **3 Cải vàng** phẩm Vàng. Gói **Nông sản Chất lượng cao** cần 5 Cải vàng phẩm Vàng, nên vẫn thiếu 2.
-- 💰 **Ví 22.723 → 18.653g** (−4.070g). Save không ghi đã chi vào đâu. Vẫn trên mốc 6.000g.
+- 💰 **Ví 22.723 → 18.653g** (−4.070g). Phần lớn là tiền **gửi Bình tưới cho Clint nâng lên Thép** (5.000g), xong **sáng Hạ 1**. Vẫn trên mốc 6.000g.
 - 📬 **Mai có thư `EmilyCooking`**: Emily gửi công thức nấu ăn. _(Chưa đối chiếu tên món trong bản Việt hóa.)_
 - ⏳ **Chưa làm:** chốt ngân sách hạt Hạ. Dời sang Ngày 28.
 
