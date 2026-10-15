@@ -15,7 +15,7 @@
 - 2 hồ nước trên farm để đổ bình tưới; 1 **hang** (chọn Nấm hoặc Dơi — xem [[Mẹo#🌰 Lượm (Foraging)|mục Lượm]]).
 
 **Công cụ quy hoạch:**
-- Planner kéo-thả: https://stardew.info/planner/ (chọn Standard Farm)
+- Planner kéo-thả: https://stardewplan.com (Plan options → New plan → Standard Farm). Bấm vào món nào là hiện tên món đó. Có cả bản đồ Đảo Gừng (Ginger Island) và các kiểu nông trại khác
 - Bản đồ gốc & số liệu ô đất: https://stardewvalleywiki.com/The_Farm
 
 ## 🧭 Nguyên tắc bố trí (áp dụng cho mọi mẫu)
@@ -33,19 +33,34 @@
 >
 > _Bản quy hoạch riêng của từng save nằm trong note của save đó — save Wind: [[Wind - Quy hoạch]]._
 
-> [!save]- Sao lưu 2 bản dựng lại — phòng khi link planner mất
-> Link stardew.info không gắn với tài khoản nào: lịch sử bản lưu cần đăng nhập Patreon gói Copper trở lên. Vì vậy dữ liệu của cả 2 bản được tải nguyên từ máy chủ planner (`/api/<mã link>`) về repo — đúng thứ planner nạp mỗi khi mở link:
->
-> | File | Bản | Link gốc |
-> |---|---|---|
-> | `assets/planner/mau-1.json` | [[#Bản dựng lại trên planner — Mẫu 1\|Mẫu 1]] | `10-short-pheasants-snuggled-merrily` |
-> | `assets/planner/mau-2.json` | [[#Bản dựng lại trên planner — Mẫu 2\|Mẫu 2]] | `17-fine-chickens-sat-easily` |
->
-> **Khôi phục:**
-> 1. Mở https://stardew.info/planner/, chọn bản đồ Standard, bấm **Start planning!**.
-> 2. Bấm `F12` → tab **Console**.
-> 3. Gõ `planner.clearTiles(); planner.importData(` rồi dán **toàn bộ nội dung** file `.json`, đóng ngoặc `)` và Enter. Lần đầu dán, Chrome có thể đòi gõ `allow pasting` trước.
-> 4. Bấm **Save** trên thanh công cụ → planner cấp một link mới.
+### 💾 Sao lưu bản vẽ stardewplan.com
+
+Tài khoản miễn phí **không có link chia sẻ** (Share link chỉ dành cho supporter) và **chỉ giữ được vài bản vẽ**. Vì vậy mọi bản vẽ đều lưu thành file trong `StardewValley/assets/planner/`. Bản nào cần xem thì nạp lên tài khoản, xem xong xoá đi cho đỡ chật chỗ.
+
+| File | Bản vẽ (`label`) | Đang trên tài khoản? |
+|---|---|---|
+| `rieng-stardewplan.json` | `Wind - Quy hoach` — [[Wind - Quy hoạch]] | ✅ |
+| `mau-1-stardewplan.json` | `Mau 1 - Hieu qua` — [[#Bản dựng lại trên planner — Mẫu 1\|Mẫu 1]] | — |
+| `mau-2-stardewplan.json` | `Mau 2 - Gon dep` — [[#Bản dựng lại trên planner — Mẫu 2\|Mẫu 2]] | — |
+
+**Khôi phục** bằng `khoi-phuc.js` cùng thư mục:
+1. Trên stardewplan.com: **Plan options → New plan → Standard Farm**, rồi **Rename** đúng tên ở cột `label`. Phải đổi tên một lần thì trang mới lưu bản vẽ vào máy.
+2. Bấm `F12` → tab **Console**, dán cả nội dung `khoi-phuc.js` rồi Enter. Lần đầu dán, Chrome có thể đòi gõ `allow pasting` trước.
+3. Gõ `khoiPhuc(` + dán **toàn bộ nội dung** file `.json` + `)` rồi Enter. Trang tự tải lại với bản vẽ đầy đủ.
+4. Sửa một thứ bất kỳ, hoặc Rename giữ nguyên tên, để trang đẩy bản vẽ lên tài khoản.
+
+**Đọc file:** đây đúng là dữ liệu trang lưu trong IndexedDB `stardew-planner` → bảng `maps` → trường `state`. Toạ độ là **toạ độ ô của game**; công trình ghi theo ô góc trên–trái của nền. Mã món là mã game:
+
+| Mã | Món |
+|---|---|
+| `cropId` trong `crops` | mã **hạt giống** (Cải vàng `472`, Hành lam cầu `429`…) |
+| `wildtree_1` · `_2` · `_3` | Sồi · Phong · Thông (ghi ở ô gốc cây) |
+| `fruittree_<mã cây giống>` | cây ăn quả, ví dụ `fruittree_633` là Táo |
+| `fence_298` · `fence_322` · `object_325` | Hàng rào gỗ cứng · Hàng rào gỗ · Cổng |
+| `floor_0` · `floor_5` · `floor_8` · `floor_9` | Sàn gỗ · Đường rải sỏi · Đường lát đá · Đường đá dậm bước |
+| `grass_1` | Cỏ giống |
+| số trơn (`10`, `12`, `130`, `153`…) | đồ chế tạo lớn: Nhà Ong, Thùng chứa, Rương, Cột đèn sắt… |
+| `object_645` · `object_251` · `furniture_192` | Vòi phun nước Iridium · Cây chè Non · Ghế băng Gỗ sồi (nền 2 × 1) |
 
 ### Mẫu 1 — Thiên về hiệu quả (khuyến nghị)
 
@@ -59,7 +74,7 @@
 
 ![[assets/my-farm-plan.jpg|700]]
 
-**Link planner:** https://stardew.info/planner/10-short-pheasants-snuggled-merrily — mở ra chỉnh tiếp được; bấm **Save** sẽ ra **link mới**, link này vẫn giữ nguyên bản gốc.
+**Bản vẽ:** `assets/planner/mau-1-stardewplan.json`, chưa nạp lên tài khoản. Cần xem thì làm theo [[#💾 Sao lưu bản vẽ stardewplan.com|cách khôi phục]].
 
 Dựng lại từ ảnh gốc ở trên bằng cách đo vị trí trên ảnh (ảnh khớp đúng khung trại 80 × 65 ô), nên là **bản gần đúng**: công trình lớn đặt khá sát, đồ nhỏ thì xếp theo quy luật chứ không chép từng chấm.
 
@@ -99,9 +114,7 @@ Giữa mỗi ruộng A/B/C chừa một khoảng 3 × 4 không cày, đặt **B�
 **Phần còn lại:** 11 Nhà Ong quanh luống Hành lam cầu ở x 31–35, y 21–27 · dãy cây ăn quả và cây thông ở y = 31 · Thùng chứa ở x 3–5 và 8–12, y 34–39 · 5 khối Cây chè ở x 69–74, từ y = 35 xuống tới y = 53 · Bù nhìn ở (75, 24), (68, 38), (68, 46) · hàng rào gỗ quanh hai bãi thả thú (trên–trái và dưới–trái).
 
 > [!warning] Mấy chỗ planner khác ảnh gốc
-> **Chòi nuôi Slime** trên planner vẽ cỡ nhỏ (planner ghi nền 7 × 4), còn trong ảnh gốc to gần gấp rưỡi (khoảng 11 ô ngang). Đặt trong game thì theo khung xây của Robin, đừng dựa vào cỡ trên planner.
->
-> **Ba Nhà Kho lớn** trên planner trông thấp hơn ảnh gốc — chỉ khác hình vẽ, nền 7 × 3 vẫn đúng.
+> **Chòi nuôi Slime** trên planner ghi nền 7 × 4, còn trong ảnh gốc to gần gấp rưỡi (khoảng 11 ô ngang). Đặt trong game thì theo khung xây của Robin, đừng dựa vào cỡ trên planner.
 >
 > **Đường lát** trên planner là **Đường rải sỏi** (Gravel Path) cho dễ thấy lối; ảnh gốc dùng nhiều loại nền khác nhau. **Cây trồng** chỉ để minh hoạ (Cải vàng, Súp lơ), chọn thật theo mùa.
 >
@@ -119,7 +132,7 @@ Giữa mỗi ruộng A/B/C chừa một khoảng 3 × 4 không cày, đặt **B�
 
 ![[assets/my-farm-plan-2.jpg|700]]
 
-**Link planner:** https://stardew.info/planner/17-fine-chickens-sat-easily
+**Bản vẽ:** `assets/planner/mau-2-stardewplan.json`, chưa nạp lên tài khoản. Cần xem thì làm theo [[#💾 Sao lưu bản vẽ stardewplan.com|cách khôi phục]].
 
 Dựng lại từ ảnh gốc ở trên, theo cùng cách với Mẫu 1. Mẫu này trang trí dày (hàng rào nhỏ, đèn, bụi cây, cây quanh từng ô vườn), nên bản dựng giữ **khung bố cục**: lưới đường gỗ, các ô vườn, công trình và 4 trụ dịch chuyển. Phần trang trí lặt vặt thì bỏ bớt — thêm dần trên planner hoặc ngay trong game.
 

@@ -7,23 +7,14 @@
 - [ ] Vẽ bản quy hoạch năm 1
 - [x] Vẽ bản quy hoạch dài hạn (có nhà kính + dàn Thùng chứa (Keg)) — bản dưới đây, Thùng chứa đặt trong Nhà Kho lớn
 
-> [!save]- Sao lưu bản stardew.info — phòng khi link planner mất
-> Link stardew.info không gắn với tài khoản nào, nên dữ liệu bản này được tải nguyên từ máy chủ planner (`/api/<mã link>`) về `StardewValley/assets/planner/rieng.json` (mã link gốc `10-sour-chickens-hid-cordially`). Cách khôi phục giống hai bản mẫu — xem khối sao lưu ở [[Quy hoạch nông trại#📐 Mẫu bố cục tham khảo|Quy hoạch nông trại]].
-
 ## Bản quy hoạch riêng — thôn quê, xây dần
 
 ![[assets/my-farm-plan-rieng.jpg|700]]
 
-**Planner chính — stardewplan.com:** bản **"Wind - Quy hoach"** trong **Library** của tài khoản (đã đăng nhập ở Chrome Browser 1). Bấm vào món nào là hiện tên món đó, bật được vùng tưới của Vòi tưới, Bù nhìn, Nhà Ong. **Không có link chia sẻ**, vì Share link chỉ dành cho supporter.
+**Planner:** [stardewplan.com](https://stardewplan.com), bản **"Wind - Quy hoach"** trong **Library** của tài khoản. Bấm vào món nào là hiện tên món đó, bật được vùng tưới của Vòi tưới, Bù nhìn, Nhà Ong.
 
-**Link planner cũ (dự phòng):** https://stardew.info/planner/10-sour-chickens-hid-cordially
-
-> [!save]- Sao lưu bản stardewplan.com
-> Bản vẽ chỉ nằm trong tài khoản, nên dữ liệu được lưu thêm ở `StardewValley/assets/planner/rieng-stardewplan.json`, đúng định dạng trang lưu trong IndexedDB `stardew-planner` → bảng `maps` → trường `state`. Toạ độ là **toạ độ ô của game**. Mỗi món ghi theo mã game: cây trồng theo mã hạt, `fence_298` là Hàng rào gỗ cứng, `object_325` là Cổng, `floor_8` là Đường lát đá, `floor_9` là Đường đá dậm bước, `wildtree_1/2/3` là sồi/phong/thông, `fruittree_<mã cây giống>` là cây ăn quả.
->
-> Bản này dựng bằng cách chuyển thẳng `rieng.json`, không vẽ tay. Có hai chỗ quy đổi, vì stardew.info ghi toạ độ theo góc hình vẽ: **công trình** đặt theo toạ độ nền ở bảng dưới, **cây** dời sang phải 1 ô cho đúng ô gốc cây.
->
-> **Khôi phục:** tạo plan mới (Standard Farm) rồi đổi tên một lần để trang lưu plan vào IndexedDB. Sau đó, trong Console của DevTools, ghi `state` của file vào bản ghi `maps` của plan đó, đặt `dirty: true` và `syncState: "pending"` trong `mapMeta`, rồi tải lại trang.
+> [!save]- Sao lưu — `assets/planner/rieng-stardewplan.json`
+> Tài khoản miễn phí không có link chia sẻ và chỉ giữ được vài bản vẽ, nên dữ liệu bản này được lưu ở `StardewValley/assets/planner/rieng-stardewplan.json`. Cách khôi phục và ý nghĩa các mã ở [[Quy hoạch nông trại#💾 Sao lưu bản vẽ stardewplan.com|Quy hoạch nông trại]].
 
 Tự thiết kế, không chép mẫu nào, theo tiêu chí **đẹp · đơn giản · gọn gàng · tiện dùng** và có đủ đồ trang trí, cây cối, đường lát, tường rào. Đã chốt trước khi dựng:
 - **Dài hạn nhưng xây dần:** năm 1 chỉ làm đường chính và ô ruộng sát trục dọc, các khu khác để trống chờ.
@@ -100,8 +91,8 @@ Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42�
 - Hàng thông dọc mép tây (x = 4).
 - Hàng sồi dọc mép nam (y = 60, x 8–28).
 
-> [!info] Planner khác game ở đâu
-> **Nhà Kho lớn** trên planner vẽ giống một ngôi nhà mái đỏ — chỉ khác hình vẽ, nền 7 × 3 vẫn đúng. **Cổng** trong game chỉ có một loại; planner vẽ kiểu gỗ cứng cho hợp hàng rào. **Cây trồng** chỉ là minh hoạ, gieo thật theo mùa.
+> [!info] Cây trồng trên planner chỉ là minh hoạ
+> Gieo thật theo mùa.
 
 ## 📦 Kho — 12 rương cạnh nhà
 
