@@ -24,11 +24,11 @@ Mua ở Hàng Cá của Willy. Điều kiện mở bán lấy từ file game 1.6
 
 | Cần | Giá | Mở bán khi | Gắn được | Ghi chú |
 |---|---|---|---|---|
-| **Cần tre (Bamboo Pole)** | Willy tặng đầu game · 500g nếu mua lại | có sẵn | — | cần khởi đầu |
-| **Cần tập (Training Rod)** | 25g | có sẵn | — | **chỉ câu được cá độ khó < 50** (code game) — dễ, nhưng không ra cá khó; dưới mỏ chỉ câu ra rác |
+| **Cần Trúc (Bamboo Pole)** | Willy tặng đầu game · 500g nếu mua lại | có sẵn | — | cần khởi đầu |
+| **Cần Tập sự (Training Rod)** | 25g | có sẵn | — | **chỉ câu được cá độ khó < 50** (code game) — dễ, nhưng không ra cá khó; dưới mỏ chỉ câu ra rác |
 | **Cần Sợi Thủy Tinh (Fiberglass Rod)** | 1.800g | cấp Câu cá **gốc** ≥ 2 | 1 Mồi | |
 | **Cần Iridium (Iridium Rod)** | 7.500g | cấp Câu cá **gốc** ≥ 6 | 1 Mồi + 1 Phao | phao: Phao hút (Trap Bobber — cá tụt chậm), Phao nút chai (Cork Bobber — thanh to), Phao mồi kì lạ (Curiosity Lure — tăng cá hiếm)… |
-| **Cần Iridium nâng cao (Advanced Iridium Rod)** | 25.000g | đã mở **Mastery Câu cá** | 1 Mồi + 2 Phao | mới từ 1.6, cuối game |
+| **Cần Iridium Cao Cấp (Advanced Iridium Rod)** | 25.000g | đã mở **Mastery Câu cá** | 1 Mồi + 2 Phao | mới từ 1.6, cuối game |
 
 - ⚠️ **"Gốc" = không tính buff đồ ăn** — cửa hàng kiểm tra `PLAYER_BASE_FISHING_LEVEL`. Ngược với điều kiện câu Cá huyền thoại (có tính buff), xem [[Câu cá theo mùa]].
 - Đang bật `InstantBite` thì phao/mồi **chỉ làm cá cắn nhanh** là vô dụng: **Phao câu (Spinner)**, **Phao xoay có Trang trí (Dressed Spinner)**, **Mồi (Bait)**. Phao giúp minigame thì vẫn đáng gắn.

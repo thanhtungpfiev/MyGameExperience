@@ -7,7 +7,7 @@
 ## 📑 Mục lục
 
 - [[#🧭 Nguyên tắc nền tảng|Nguyên tắc nền tảng]] — đọc trước, ăn tiền nhất cho người mới
-- **5 nghề:** [[#🌾 Trồng trọt (Farming)|Trồng trọt]] · [[#⛏️ Khai thác (Mining)|Khai thác]] · [[#🌰 Lượm (Foraging)|Lượm]] · [[#🎣 Câu cá (Fishing)|Câu cá]] · [[#⚔️ Chiến đấu (Combat)|Chiến đấu]]
+- **5 nghề:** [[#🌾 Trồng trọt (Farming)|Trồng trọt]] · [[#⛏️ Khai khoáng (Mining)|Khai khoáng]] · [[#🌰 Hái lượm (Foraging)|Hái lượm]] · [[#🎣 Câu cá (Fishing)|Câu cá]] · [[#⚔️ Chiến đấu (Combat)|Chiến đấu]]
 - [[#💰 Kiếm tiền theo giai đoạn|Kiếm tiền theo giai đoạn]] · [[#🏗️ Xây dựng theo giai đoạn|Xây dựng theo giai đoạn]] · [[#❤️ Kết bạn & hẹn hò|Kết bạn]] · [[#🧩 Nhà Văn hóa|Nhà Văn hóa]]
 - [[#🎛️ Tùy chọn game gốc nên bật|Tùy chọn game gốc]] · [[#⚙️ Mẹo liên quan mod|Mẹo mod]] · [[#🎥 Video hướng dẫn (tiếng Việt)|Video hướng dẫn]]
 - **Note tra cứu tách riêng:** [[Phân bón]] · [[Điểm cổ vật]] · [[Đồ câu cá]]
@@ -91,7 +91,7 @@ Dùng **y như Bù nhìn thường**, có ngay khi nhận, không cần mở kho
 
 _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Scarecrow](https://stardewvalleywiki.com/Deluxe_Scarecrow) trên wiki 1.6; tên lễ hội, món và thư theo file bản Việt hoá đang cài (`Data/Festivals`, `Data/mail`)._
 
-## ⛏️ Khai thác (Mining)
+## ⛏️ Khai khoáng (Mining)
 
 - Ăn no trước khi xuống mỏ; mang theo **món hồi sức** và bom.
 - **Thang máy 5 tầng/lần** — luôn xuống sâu nhất có thể trong 1 chuyến để cắm mốc mới.
@@ -99,7 +99,7 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 - **Hang Đầu lâu (Skull Cavern):** chỉ đi vào **ngày may mắn cao** mới hiệu quả. Mang **Bom/Bom tấn (Mega Bomb)** phá đá hàng loạt và **Cầu thang (Staircase)** (chế từ 99 đá) để tụt tầng nhanh; uống **Cà phê** + ăn **Lươn cay (Spicy Eel)** để tăng tốc & may mắn.
 - Đá quý/quặng để dành: quyên góp Bảo tàng trước, phần thừa mới bán hoặc nấu thỏi.
 
-## 🌰 Lượm (Foraging)
+## 🌰 Hái lượm (Foraging)
 
 > _Tra cứu chi tiết: [[Điểm cổ vật]] — đào bằng gì, ra món gì, "Hạt giống cổ đại", Đất sét, cổ vật trùng._
 
@@ -109,8 +109,8 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 - **Hang trên farm:** chọn **Nấm (Mushrooms)** cho nguồn thu đều đặn & an toàn; chọn **Dơi (Bats)** nếu thích hoa quả ngẫu nhiên — dơi chỉ mang về Mâm xôi cá hồi, Thảo quả, Mận dại, Mâm xôi đen, Táo, Mơ, Cam, Đào, Lựu, Quả anh đào; **không** có Mảnh tán sắc.
 - Giữ lại **Nhựa cây (Sap)** để làm phân bón, đừng bán.
 
-> [!nghe] Chọn nhánh nghề Lượm — perk mạnh nhất game về lâu dài
-> Cấp 5 chọn **Người Tụ Tập (Gatherer)**: mỗi lần lượm có **20%** cơ hội được 2 món. Cấp 10 chọn **Nhà Thực Vật (Botanist)**: **mọi đồ lượm luôn ở phẩm cấp Iridium**.
+> [!nghe] Chọn nhánh nghề Hái lượm — perk mạnh nhất game về lâu dài
+> Cấp 5 chọn **Dân hái lượm (Gatherer)**: mỗi lần lượm có **20%** cơ hội được 2 món. Cấp 10 chọn **Nhà thực vật học (Botanist)**: **mọi đồ lượm luôn ở phẩm cấp Iridium**.
 
 ### 🌸 Vì sao có hôm đi cả ngày không thấy gì
 
@@ -168,7 +168,7 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 - Mang **phô mai (Cheese)** làm đồ hồi máu rẻ, ăn nhanh khi ở tầng sâu.
 - **Nhẫn đạo tặc + diệt Tinh linh bụi (Dust Sprite)** ở tầng **40–69** là cách farm **Than đá (Coal)** hiệu quả nhất — từ tầng 70 quái chủ yếu là Bộ xương.
 - **Nhẫn hoang dã** hoặc **Nhẫn Java nóng bỏng** để chạy nhanh, tiết kiệm thời gian mỗi chuyến hầm — game **không có "Nhẫn Cà phê"** như video gọi.
-- Đi Hang Đầu lâu xem thêm [[#⛏️ Khai thác (Mining)|mục Khai thác]] ở trên.
+- Đi Hang Đầu lâu xem thêm [[#⛏️ Khai khoáng (Mining)|mục Khai khoáng]] ở trên.
 
 ## 💰 Kiếm tiền theo giai đoạn
 
@@ -310,4 +310,4 @@ Series **"Hiểu tất cả về nghề … Stardew Valley 1.6"** của **Duy Ha
 > | 11:20 – 13:58 | Bậc thầy Chiến đấu (1.6) |
 > | 13:58 – 16:38 | Mẹo thực chiến: phô mai, Nhẫn đạo tặc, nhẫn tăng tốc (video gọi "Nhẫn Cà phê"), farm than |
 
-> _Còn thiếu 3 nghề (Khai thác · Lượm · Câu cá) trong playlist — xem xong thì tóm ý vào đúng mục ở trên theo cùng cách này._
+> _Còn thiếu 3 nghề (Khai khoáng · Hái lượm · Câu cá) trong playlist — xem xong thì tóm ý vào đúng mục ở trên theo cùng cách này._

@@ -20,7 +20,7 @@
 
 Chỉ **Phân bón cao cấp** mới cho ra phẩm Iridium. Hợp với cây bán giá cao hoặc cây mang đi ủ: Dưa, Bí ngô, Trái cổ đại, Khế.
 
-### Tăng tốc độ lớn (Speed-Gro)
+### Phân bón Thúc (Speed-Gro)
 
 | Loại | Tăng tốc | Tự chế (ra 5 gói) | Mua |
 |---|---|---|---|
@@ -72,6 +72,6 @@ Chỉ đáng dùng **trước khi có Vòi tưới cây**, hoặc ở ruộng ch
 
 ### Phân bón cây (Tree Fertilizer)
 
-Mở khoá ở **Lượm cấp 7**, công thức 5 Sợi + 5 Đá. Rắc lên **cây dại** (sồi, phong, thông…) để cây lớn nhanh, kể cả mùa đông. Không có tác dụng với cây ăn quả.
+Mở khoá ở **Hái lượm cấp 7**, công thức 5 Sợi + 5 Đá. Rắc lên **cây dại** (sồi, phong, thông…) để cây lớn nhanh, kể cả mùa đông. Không có tác dụng với cây ăn quả.
 
 _Đã kiểm trong file game 1.6.15: công thức ở `Data/CraftingRecipes`, giá và nơi bán ở `Data/Shops`, số ngày từng giai đoạn ở `Data/Crops`, luật bón ở `HoeDirt.CheckApplyFertilizerRules` và cách tính ngày ở `HoeDirt.applySpeedIncreases`. Tên tiếng Việt theo bản Việt hoá đang cài. Riêng "Qi's Walnut Room" và "Island Trader" thì bản dịch không có tên nên giữ tiếng Anh._

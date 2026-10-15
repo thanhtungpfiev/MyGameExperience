@@ -2,7 +2,7 @@
 
 > Về [[00 Home]] · Mẹo chơi [[Mẹo]] · Bản đồ [[Bản đồ khu vực]]
 >
-> _Tra cứu: đào bằng gì, ra món gì, luật mọc, "Hạt giống cổ đại", Đất sét và cổ vật trùng. Mẹo lượm chung ở [[Mẹo#🌰 Lượm (Foraging)|Mẹo — Lượm]]._
+> _Tra cứu: đào bằng gì, ra món gì, luật mọc, "Hạt giống cổ đại", Đất sét và cổ vật trùng. Mẹo lượm chung ở [[Mẹo#🌰 Hái lượm (Foraging)|Mẹo — Lượm]]._
 
 Mảng đất nhỏ sẫm màu có **3 con giun trắng ngọ nguậy** nhô lên — nên hay được gọi là "điểm giun đất", nhưng bản dịch trong game gọi là **Điểm cổ vật**. Đào bằng **Cuốc (Hoe)**, một nhát là xong.
 

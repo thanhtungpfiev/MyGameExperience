@@ -248,7 +248,7 @@ Thêm widget nâng cao cho GMCM, vốn chỉ có bật/tắt, ô số, ô chữ,
 ![[assets/experience-bars-1.png|400]]
 ![[assets/experience-bars-2.png|600]]
 
-Hiện thanh kinh nghiệm (XP) cho 5 kỹ năng — Trồng trọt, Câu cá, Hái lượm, Khai mỏ, Chiến đấu — thấy ngay còn bao xa mới lên cấp.
+Hiện thanh kinh nghiệm (XP) cho 5 kỹ năng — Trồng trọt, Câu cá, Hái lượm, Khai khoáng, Chiến đấu — thấy ngay còn bao xa mới lên cấp.
 
 **Cách dùng** — thanh nằm cố định ở góc trên–trái, hiện suốt khi đang chơi và tự ẩn lúc mở menu hoặc cắt cảnh. Kỹ năng đã max cấp 10 thì thanh không còn chạy.
 
@@ -724,7 +724,7 @@ Trong mỏ, **tô sáng hòn đá đang giấu thang hoặc hố xuống tầng*
 | `NodeTypes` | 19 loại | Đá quý (Topaz → Kim cương, Mystic), 4 loại geode, Cinder Shard, quặng Đồng/Sắt/Vàng/Iridium/Phóng xạ |
 
 > [!tip] Hợp với lối chơi đang dùng
-> Mẹo [[Mẹo#⛏️ Khai thác (Mining)|Khai thác]] khuyên "tìm thang nhanh bằng cách đập đá và diệt quái" — mod này bỏ hẳn phần đoán mò. Với `FreezeTimeCaves` của [[#CJB Cheats Menu 1.42.0|CJB Cheats]] đang bật thì thời gian trong mỏ vốn đã không trôi, nên lợi chủ yếu là **đỡ công đập đá**, không phải đỡ giờ.
+> Mẹo [[Mẹo#⛏️ Khai khoáng (Mining)|Khai khoáng]] khuyên "tìm thang nhanh bằng cách đập đá và diệt quái" — mod này bỏ hẳn phần đoán mò. Với `FreezeTimeCaves` của [[#CJB Cheats Menu 1.42.0|CJB Cheats]] đang bật thì thời gian trong mỏ vốn đã không trôi, nên lợi chủ yếu là **đỡ công đập đá**, không phải đỡ giờ.
 
 > [!info]- Log SMAPI có dòng "Rewrote LadderLocator.dll to fix 32-bit architecture"
 > SMAPI tự vá DLL build kiểu cũ cho chạy trên game 64-bit — thông báo mức TRACE, không phải lỗi. Mod vẫn nạp bình thường trong danh sách "Loaded mods".

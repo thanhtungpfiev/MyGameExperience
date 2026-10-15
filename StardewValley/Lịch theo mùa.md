@@ -56,7 +56,7 @@
 
 **🎉 Lễ hội:** Lễ hội Luau (11, 09:00–14:00, nộp súp chung) · Giải câu Cá hồi vân (20–21, thi câu ở Rừng Cindersap) · Vũ điệu Sứa Trăng (28, tối, ra bến tàu ngắm sứa).
 
-**🎂 Sinh nhật:** 4 Jas · 8 Gus · 10 Maru · 13 Alex · 17 Sam · 19 Demetrius · 22 Chú lùn (Dwarf, ⚠️ phải giải cứu dưới mỏ + học tiếng Lùn mới tặng quà được) · 24 Willy · 26 Leo (⚠️ sống ở Đảo Gừng, cần thân với 3 chim vẹt + 6 tim mới dọn vào đất liền — khó gặp sớm).
+**🎂 Sinh nhật:** 4 Jas · 8 Gus · 10 Maru · 13 Alex · 17 Sam · 19 Demetrius · 22 Dwarf (⚠️ phải giải cứu dưới mỏ + học tiếng Lùn mới tặng quà được) · 24 Willy · 26 Leo (⚠️ sống ở Đảo Gừng, cần thân với 3 chim vẹt + 6 tim mới dọn vào đất liền — khó gặp sớm).
 
 **🧩 Gói Cộng đồng theo mùa:** Sản phẩm Hái lượm Mùa Hè · Nông sản Mùa Hè.
 
@@ -88,7 +88,7 @@
 ### ❄️ Đông
 
 - Không trồng ngoài trời (chỉ Nhà kính, cần hoàn thành hết gói Cộng đồng hoặc mua qua Joja mới có) → dồn thời gian cho: mỏ, câu cá, kết bạn, xây/nâng cấp, quyên góp Bảo tàng.
-- Vẫn lượm được — Quả pha lê, Nghệ tây, Nhựa ruồi mọc trên mặt đất; Rễ cây mùa đông, Khoai lang tuyết phải đào điểm cổ vật — xem [[Mẹo#🌰 Lượm (Foraging)|Mẹo mục Lượm]].
+- Vẫn lượm được — Quả pha lê, Nghệ tây, Nhựa ruồi mọc trên mặt đất; Rễ cây mùa đông, Khoai lang tuyết phải đào điểm cổ vật — xem [[Mẹo#🌰 Hái lượm (Foraging)|Mẹo mục Lượm]].
 - Mùa tốt nhất để nâng cấp công cụ (không mất buổi tưới ruộng nào).
 - **🧩 Gói Cộng đồng theo mùa:** chỉ có Sản phẩm Hái lượm Mùa Đông (phòng Thủ công) — Đông **không có** gói Nông sản riêng.
 - **🔮 Bí mật:** ⭐ 06:00–16:00 đi từ Farm sang Bến Xe gặp bóng đen → **Kính lúp** (mở Ghi chú bí mật) · đêm 24 đặt Sữa/Bánh quy lên bàn → Chiếc hộp bí ẩn · 28 lúc 12:00 Junimo Nhồi bông (nếu chưa lấy) — xem [[Bí mật & Sự kiện ẩn#❄️ Đông|Bí mật — Đông]].

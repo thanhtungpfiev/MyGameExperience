@@ -186,16 +186,16 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ### ☀️ Ngày 2 (Thứ Ba)
 
-**Sự kiện:** Willy gửi thư mời ra bãi biển → nhận **Cần tre (Bamboo Pole)** miễn phí, từ đây câu cá được.
+**Sự kiện:** Willy gửi thư mời ra bãi biển → nhận **Cần Trúc (Bamboo Pole)** miễn phí, từ đây câu cá được.
 
 **Việc cần làm:**
-- [x] Ra bãi biển nhận Cần tre: Farm → **lối phía đông sang Bến Xe → Thị trấn → qua cầu xuống Bãi biển**. Vào Hàng Cá Willy (9:00–17:00)
+- [x] Ra bãi biển nhận Cần Trúc: Farm → **lối phía đông sang Bến Xe → Thị trấn → qua cầu xuống Bãi biển**. Vào Hàng Cá Willy (9:00–17:00)
 - [x] Tập câu ngay tại bãi biển/sông: quăng cần → chờ `!` → bấm dính → giữ/nhả chuột cho ô xanh bám theo cá
 - [x] Lượm đồ dọc đường (bãi biển có thêm san hô, ốc, sò)
 
 **Lưu ý:**
 - Câu cá cấp 0 rất khó, ô xanh nhỏ, dính rác là thường — đừng nản, mỗi lần câu (kể cả hụt) vẫn cộng kinh nghiệm. [[Mods#Visible Fish 0.4.2|Visible Fish]] chỉ hiển thị con cá đang câu được, không đổi độ khó minigame.
-- Cần tre không gắn được mồi/phao — lên **Cần Sợi Thủy Tinh** (Willy bán 1.800g, cần cấp 2) mới gắn được.
+- Cần Trúc không gắn được mồi/phao — lên **Cần Sợi Thủy Tinh** (Willy bán 1.800g, cần cấp 2) mới gắn được.
 - Cá không cần bán ngay: giữ 1 con phẩm cấp cao mỗi loại cho Nhà Văn hóa + Bảo tàng.
 - Cây không tưới thì không chết, chỉ chậm lớn 1 ngày.
 - Chưa xuống mỏ được (đá lở tới Ngày 5). Chưa cần mua hạt — để dành tiền cho **Lễ hội Trứng Ngày 13** (hạt Dâu tây 100g/hạt).
@@ -636,7 +636,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 **📋 Thực tế** _(Quicksave Xuân 24, đầu ngày)_
 - **Thời tiết:** nắng · **mai nắng**. **May mắn:** `dailyLuck` **−0,099** → 💀💀 **rất xui** — TV: _"các linh hồn rất không vừa lòng"_. Không ảnh hưởng hôm nay vì lễ hội chiếm cả ngày.
 - **Ví 16.718g** — vượt xa con số 4.298g mà Ngày 25–28 đang dựa vào, nên mốc ≥ 6.000g cho gà và Hạt giống hiếm **đã qua**.
-- **Kỹ năng:** Trồng trọt 4 · Câu cá 10 · Hái lượm 6 · Khai mỏ 7 · Chiến đấu 6. Túi đồ 24 ô.
+- **Kỹ năng:** Trồng trọt 4 · Câu cá 10 · Hái lượm 6 · Khai khoáng 7 · Chiến đấu 6. Túi đồ 24 ô.
 - **Robin:** Chuồng gia cầm ở (45, 14) **còn 1 ngày** → xong sáng Ngày 25. **Clint:** **Cuốc Thép đã xong**, chờ lấy (tiệm đóng hôm nay → lấy Ngày 25).
 - **Haley 1.254 điểm** (≥ 4 tim) → mời nhảy được. Hộp thư và thư mai: trống. Quest: _Xây Chuồng gia cầm_ · _Tìm ra mục đích của chiếc Chìa khóa Đầu lâu_.
 - **Kho:** 20 Thỏi Đồng · 15 Đất sét · 733 Đá · 2 Hạt giống hiếm.
@@ -751,7 +751,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **📋 Thực tế** _(Quicksave Xuân 27, đầu ngày)_
 - **Thời tiết:** ☀️ có gió · **mai mưa**. **May mắn:** `dailyLuck` **−0,011** → trung bình.
-- **Ví 22.723g** (+11.848g tiền ship đêm qua). **Kỹ năng:** Trồng trọt 5 (đã chọn **Thợ cày**) · Câu cá 10 · Hái lượm 6 · Khai mỏ 7 · Chiến đấu 6.
+- **Ví 22.723g** (+11.848g tiền ship đêm qua). **Kỹ năng:** Trồng trọt 5 (đã chọn **Thợ cày**) · Câu cá 10 · Hái lượm 6 · Khai khoáng 7 · Chiến đấu 6.
 - **Robin rảnh:** Kho chứa Cỏ ở (72, 22) **đã xong**, kho đang trống. **Clint:** **Cuốc chim Thép đã xong**, chờ lấy.
 - **Quest Gặt: Đá** — 0/35, **còn 1 ngày → hôm nay là ngày cuối**. Kho có 727 Đá.
 - 🍓 Thùng ship đang có **48 Dâu tây** cùng Mâm xôi cá hồi, Cà rốt, Súp lơ… Ngoài thùng còn giữ **10 Dâu tây** và **2 Cải vàng**, tất cả đều phẩm Vàng. Giữ lại 2 Cải vàng đó, vì gói **Nông sản Chất lượng cao** cần 5 Cải vàng phẩm Vàng.
@@ -813,7 +813,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **📋 Thực tế** _(Quicksave Xuân 28, đầu ngày)_
 - **Thời tiết:** 🌧️ mưa · **mai không mưa**. **May mắn:** `dailyLuck` **−0,089** → **rất xui**.
-- **Ví 29.944g** (+11.291g tiền ship đêm qua, thùng ship giờ trống). **Kỹ năng** không đổi: Trồng trọt 5 · Câu cá 10 · Hái lượm 6 · Khai mỏ 7 · Chiến đấu 6.
+- **Ví 29.944g** (+11.291g tiền ship đêm qua, thùng ship giờ trống). **Kỹ năng** không đổi: Trồng trọt 5 · Câu cá 10 · Hái lượm 6 · Khai khoáng 7 · Chiến đấu 6.
 - 🔨 **Bình tưới Thép đang ở chỗ Clint, còn 1 ngày** → lấy được sáng Hạ 1, đúng ngày gieo hạt Hạ. Hôm nay mưa nên không cần bình.
 - 📬 Đã đọc cả hai thư trong hộp: Emily gửi công thức **Salad**, Shane gửi quà. **Mai có 2 thư**: Linus gửi công thức **Sashimi**, Demetrius gửi công thức **Nấm chiên**.
 - 🔮 **Chưa nhận Junimo Nhồi bông.** Kho chứa Cỏ **28 rơm rạ**. Quest đang nhận chỉ còn **Chìa khóa Đầu lâu** (quest cốt truyện, không có hạn).
