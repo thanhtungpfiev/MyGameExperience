@@ -804,8 +804,8 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - [x] 🧩 Rà toàn bộ gói Cộng đồng mùa Xuân — **xong, không còn gì phải làm gấp** _(Quicksave Xuân 28)_: **Nông sản Mùa Xuân**, **Sản phẩm Hái lượm Mùa Xuân** và **Xây dựng** đều đã đủ. Gói **Nông sản Chất lượng cao** chỉ cần **3 trong 4** loại (Cải vàng, Dưa, Bí ngô, Ngô), nên thiếu 2 Cải vàng không chặn gói
 - [ ] 🏗️ **Dọn chỗ cho ruộng mới theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|quy hoạch]]** — ruộng cũ (x 54–72) nằm **trong bãi chăn nuôi sẽ rào**, đêm nay cây chết hết nên đây là lúc dời ruộng về chỗ đúng. **Ruộng 3** (góc (30, 22)) trống sẵn. **Ruộng 2** (góc (19, 22)) còn **cây phong lớn ở (21, 23)** và **cây phong non ở (22, 26)**: chặt cả hai _(Quicksave Xuân 28)_. **Hôm nay chưa cuốc** — sáng Hạ 1 mới cuốc rồi gieo luôn, vô tận thể lực nên cuốc lúc nào cũng như nhau, mà để sát giờ gieo thì khỏi lo đất bỏ trống qua đêm. Ruộng cũ cứ để đó, bãi chăn nuôi cần cỏ chứ không cần đất cuốc
 - [ ] 🛣️ _(Còn thời gian)_ Lát **Đường lát đá** trục dọc x 40–41, từ lối bắc xuống y = 47 — chạy sát mép phải Ruộng 3, thành lối đi ra ruộng. Việc trả kết quả cố định, hợp ngày rất xui. Rương có **894 Đá**, đủ cả hai trục (~307 ô)
-- [ ] 🥚 Nhặt **2 Trứng** trên sàn chuồng gà. Máng còn **đủ 4 rơm rạ**, mưa nên gà ở trong, khỏi châm
-- [ ] _(Routine)_ Thu hoạch **7 Hành lam cầu** và **3 Khoai tây** đã chín · bán **toàn bộ** nông sản còn lại · ship. TV đã xem: công thức **Trứng ốp-lết** đã vào sổ
+- [x] 🥚 Nhặt **2 Trứng** trên sàn chuồng gà. Máng còn **đủ 4 rơm rạ**, mưa nên gà ở trong, khỏi châm
+- [x] _(Routine)_ Thu hoạch **7 Hành lam cầu** và **3 Khoai tây** đã chín · bán **toàn bộ** nông sản còn lại · ship. TV đã xem: công thức **Trứng ốp-lết** đã vào sổ
 
 **📎 Chi tiết đã kiểm chứng**
 
@@ -818,6 +818,19 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - 📬 Đã đọc cả hai thư trong hộp: Emily gửi công thức **Salad**, Shane gửi quà. **Mai có 2 thư**: Linus gửi công thức **Sashimi**, Demetrius gửi công thức **Nấm chiên**.
 - 🔮 **Chưa nhận Junimo Nhồi bông.** Kho chứa Cỏ **28 rơm rạ**. Quest đang nhận chỉ còn **Chìa khóa Đầu lâu** (quest cốt truyện, không có hạn).
 - Rương (56, 16) vẫn giữ **11 Dâu tây**, **3 Cải vàng**, **3 Súp lơ** phẩm Vàng cùng vài rau lẻ. Bụi Dâu tây hôm nay **không bụi nào chín**.
+
+**📋 Chốt ngày** _(Quicksave Xuân 28, lưu lúc tắt game — **chưa ngủ**)_
+- ⚠️ **Ngày chưa xong.** Cả phiên chỉ ở trong trại (Nông trại · Chuồng gà · Hang động), rồi tắt game mà không đi ngủ. Save chính vẫn là bản đầu ngày, nên **mở lại Quicksave là chơi tiếp đúng Ngày 28**. Còn dở:
+  - 🔮 **Junimo Nhồi bông** — chưa nhận. Hôm nay lỡ thì phải chờ tới ngày 28 của mùa sau.
+  - 🛒 Xe hàng rong: chưa mua. Ví vẫn **29.944g**, rương vẫn **7 Hạt giống hiếm**.
+  - 🏗️ Hai cây phong ở **(21, 23)** và **(22, 26)** vẫn đứng trong Ruộng 2. Đường lát chưa làm thêm ô nào, rương vẫn **894 Đá**.
+- 🌾 **Trồng trọt lên cấp 6**, game xử lý lúc đi ngủ. Đêm nay sẽ:
+  - **Chọn nghề cấp 6**, nhánh tiếp theo của **Thợ cày**.
+  - Học công thức **Vòi tưới cây xịn** (1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện).
+  - Rương đang có **9 Thỏi sắt** · 63 Thỏi vàng · 37 Thạch anh tinh luyện, đủ đúng **9 vòi**, tức phủ kín **Ruộng 3**, khớp sơ đồ 9 vòi/ô ở [[#Năm 1 — đường chính, ruộng đầu tiên, bãi chăn nuôi|lộ trình xây]]. Sáng Hạ 1 chế xong, cuốc, gieo. Từ đó **chỉ phần ~66 ô Ruộng 2 phải tưới tay**. Thỏi sắt là thứ chặn: còn 3 Quặng sắt, chưa đủ nấu thêm thỏi nào.
+- 📦 Thùng ship: **9 Hành lam cầu**, **3 Khoai tây**, **2 Tulip** và **Đinh rỉ sét**. Món cuối là cổ vật **đã quyên góp**, bán được. **2 Trứng** đã nhặt vào rương.
+- 🐔 Máng vẫn **4 rơm rạ**, gà chưa ăn.
+- 📬 Mai vẫn có 2 thư: Linus gửi công thức **Sashimi**, Demetrius gửi công thức **Nấm chiên**.
 
 ---
 
@@ -842,7 +855,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 | **Xuân 25** | Đặt **Kho chứa Cỏ** ở **(72, 22)** (xem [[#☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2\|Ngày 25]]) | 100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng |
 | **Ngày may thấp bất kỳ** | Lát **Đường lát đá**: trục ngang y 18–19 (trước nhà) rồi trục dọc x 40–41 và đoạn vòng qua ao | 1 Đá/ô, cả hai trục **≈ 307 ô** — công thức đã có, Quicksave Xuân 21 còn 1.719 Đá · việc trả kết quả cố định, đúng loại để đổ vào [[#💀 May thấp\|ngày may thấp]] |
 | **Hạ 1** | Mở **Ruộng 3** ở góc (30, 22) — ô sát trục dọc, gần nhà nhất — cùng **~66 ô Ruộng 2** (19, 22), gieo Việt quất (xem [[#🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong\|Ngày 28]]). Ruộng Xuân cũ ở x 54–72 nằm trong bãi chăn nuôi, bỏ | **Tưới tay không tốn gì** (vô tận thể lực) → **Vòi tưới cây** chỉ để khỏi click, không gấp (đã có công thức, 1 Thỏi đồng + 1 Thỏi sắt) |
-| **Khi lên Nông nghiệp 6** (thường giữa Hạ) | Thay bằng **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9, hàng/cột cuối của ô để làm lối · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
+| **Khi lên Nông nghiệp 6** (đạt **Xuân 28**; 9 Thỏi sắt chỉ đủ 9 vòi cho Ruộng 3) | Thay bằng **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9, hàng/cột cuối của ô để làm lối · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
 | **Thu** | Mở nốt **Ruộng 2** (19, 22) cho vụ Thu | 9 Vòi tưới cây xịn |
 | **Cuối Thu / Đông** | Rào **bãi chăn nuôi** x 54–76, y 21–46 (92 ô rào + cổng đôi ở (63, 21) (64, 21)) | **Hàng rào gỗ cứng** 1 Gỗ cứng/ô; thiếu Gỗ cứng thì dựng tạm **Hàng rào gỗ** (2 Gỗ/ô) rồi thay sau · **Cổng** 10 Gỗ |
 | **Hạ 1** _(sớm nhất)_ | Nhờ Robin **dời Chuồng gia cầm** từ (45, 14) sang **(65, 22)** — chỗ cũ là lối đi và Đồng hồ Hoàng kim của khu nhà. Nền 6 × 3 hiện bị chắn bởi **Dâu tây / Súp lơ ở cột x 65–66** (sống tới hết Xuân 28) · **Đuốc ở (65, 24)** · **cây thông non ở (69, 22)** _(Quicksave Xuân 24)_. Sang Hạ 1: dọn cây chết, nhặt đuốc, nhổ cây non → dời. Đường lát ở cột x 67 không chặn. Dời xong thì **trồng Cỏ giống trước cửa chuồng mới**, phía nam (y ≥ 25, trong bãi chăn nuôi sẽ rào) — **đừng trồng ở (45, 14)**, cỏ trồng trước ngày dời thì gà ra cửa chuồng mới không ăn tới. Ngày nắng mở cửa là gà tự ra ăn cỏ, khỏi bỏ rơm rạ vào máng; cỏ lan ra còn là chỗ cắt cỏ đầy Kho chứa Cỏ cho mùa Đông | Miễn phí, **tức thì** — không chiếm suất xây của Robin, gà bên trong đi theo chuồng · Cỏ giống đã có sẵn trong túi |
