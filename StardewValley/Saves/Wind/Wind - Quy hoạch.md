@@ -96,7 +96,7 @@ Cửa chuồng quay xuống bãi cỏ, nên thả thú ra là chúng ăn cỏ ng
 Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42–52). Có thêm vài cây phong quanh vườn trụ, và hai ghế băng cạnh ao phía nam ở (36, 47) và (43, 44).
 
 **8 · Cây cối:**
-- Rừng nhỏ gồm phong, sồi, thông ở phía tây nhà kính (x 13–22, y 9–15), chừa trống góc mộ ông nội.
+- Rừng nhỏ gồm phong, sồi, thông ở phía tây nhà kính: lưới **4 × 3 cây thẳng hàng**, gốc cây ở x = 14 · 17 · 20 · 23 và y = 9 · 12 · 15. Chừa trống góc mộ ông nội.
 - Hàng thông dọc mép tây (x = 4).
 - Hàng sồi dọc mép nam (y = 60, x 8–28).
 
