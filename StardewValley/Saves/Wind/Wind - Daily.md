@@ -735,21 +735,27 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Kho chứa Cỏ xong sáng nay** (đặt Ngày 25) → **từ hôm nay cắt cỏ mới ra rơm rạ**.
 - Cây trồng ngoài trời **chết hết khi sang Hạ** — chưa có Nhà kính trong Xuân Năm 1.
 
-**🌦️ Nhánh:** ☀️ **có gió, không mưa** _(save Xuân 26 báo trước)_, may mắn chốt ở nhịp ①. Không mưa → **cắt cỏ đầy kho là việc chính** (vừa mở khoá hôm nay). May thấp cũng không đổi gì vì rơm rạ không tuỳ may mắn.
+**🌦️ Nhánh:** ☀️ **có gió, không mưa** + 🍀 **may trung bình** → **cắt cỏ đầy kho là việc chính** (vừa mở khoá hôm nay). **Mai mưa** → tối nay khỏi tưới lần cuối cho Ngày 28.
 
 **✅ Việc hôm nay**
 - [ ] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 rơm rạ, kho tối đa 240; gà vào Đông không ra ngoài nên rơm rạ là của để
 - [ ] 🪨 **Đưa Đá cho Robin** (quest bảng tin nhận Ngày 26) — Ngày 26 cô ấy đứng ở công trình Kho chứa Cỏ nhưng **đang xây thì không nói chuyện, không nhận đồ được**. Kho xong sáng nay nên Robin về lịch thường: tìm ở **Cửa hàng Mộc** (Dãy Núi) hoặc quanh Thị trấn. Xem hạn trong Nhật ký nhiệm vụ trước — quest bảng tin thường chỉ cho 2 ngày, tức **hôm nay là ngày cuối**
 - [ ] 🔨 Lấy **Cuốc chim Thép** ở Clint (gửi Ngày 25) — từ hôm nay phá được **tảng đá lớn**
-- [ ] 🐔 Máng gà sau đêm 26 **còn 2 rơm rạ**, đủ cho đêm 27 _(Quicksave Xuân 26: máng vẫn 4 phần)_. Không mưa nên gà tự ra ăn cỏ ngoài sân. Cắt cỏ xong thì lấy ở phễu trong chuồng, châm máng cho **đầy 4 ô** để dư cho đêm 28
-- [ ] 🍓 Hái **2 bụi Dâu tây** chín hôm nay (cộng 1 bụi của Ngày 26 nếu tối qua chưa hái) · ship hết Dâu tây còn trong rương nếu tối qua chưa ship
-- [ ] 🏛️ Mang **Trang sức yêu tinh** và **Quạt trang trí** (rương Cổ Vật, Sách ở (57, 14)) tới **Bảo tàng** quyên góp. Hai món này **chưa có trong bảo tàng** _(Quicksave Xuân 26)_, nên đừng bán
-- [ ] 📬 Đọc thư Pierre → nhận công thức **Bánh Tart nhân việt quất**. Chưa nấu được tới khi có Việt quất ở mùa Hạ
+- [ ] 🐔 Máng gà **còn 2 rơm rạ**, đủ cho đêm nay _(Quicksave Xuân 27)_. Không mưa nên gà tự ra ăn cỏ ngoài sân. Cắt cỏ xong thì lấy ở phễu trong chuồng, châm máng cho **đầy 4 ô**: **mai mưa**, gà ở trong chuồng cả ngày
+- [ ] 🍓 Hái **2 bụi Dâu tây** chín hôm nay · ship nốt
+- [ ] 🏛️ Mang **Trang sức yêu tinh** và **Quạt trang trí** (rương Cổ Vật, Sách ở (57, 14)) tới **Bảo tàng** quyên góp. Hai món này **chưa có trong bảo tàng** _(Quicksave Xuân 27)_, nên đừng bán
+- [x] ~~📬 Đọc thư Pierre → nhận công thức **Bánh Tart nhân việt quất**~~ — **bỏ**: công thức **đã có trong sổ nấu ăn**, hộp thư sáng nay trống _(Quicksave Xuân 27)_
 - [ ] 🎁 Tìm Emily tặng quà sinh nhật
 - [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre — ưu tiên **Hạt việt quất** (lãi cao), thêm **Hạt hoa bia** nếu định ủ Bia nhẹ
 - [ ] _(Routine)_ Thu hoạch & bán nốt nông sản sắp hết mùa, tưới, ship
 
-**📋 Thực tế:** _(chờ save nhịp ①)_
+**📋 Thực tế** _(Quicksave Xuân 27, đầu ngày)_
+- **Thời tiết:** ☀️ có gió · **mai mưa**. **May mắn:** `dailyLuck` **−0,011** → trung bình.
+- **Ví 22.723g** (+11.848g tiền ship đêm qua). **Kỹ năng:** Trồng trọt 5 (đã chọn **Thợ cày**) · Câu cá 10 · Hái lượm 6 · Khai mỏ 7 · Chiến đấu 6.
+- **Robin rảnh:** Kho chứa Cỏ ở (72, 22) **đã xong**, kho đang trống. **Clint:** **Cuốc chim Thép đã xong**, chờ lấy.
+- **Quest Gặt: Đá** — 0/35, **còn 1 ngày → hôm nay là ngày cuối**. Kho có 727 Đá.
+- 🍓 Thùng ship đang có **48 Dâu tây** cùng Mâm xôi cá hồi, Cà rốt, Súp lơ… Ngoài thùng còn giữ **10 Dâu tây** và **2 Cải vàng**, tất cả đều phẩm Vàng. Giữ lại 2 Cải vàng đó, vì gói **Nông sản Chất lượng cao** cần 5 Cải vàng phẩm Vàng.
+- Bảo tàng vẫn chưa có Trang sức yêu tinh và Quạt trang trí. Hộp thư và thư mai đều trống.
 
 ---
 
@@ -761,7 +767,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - Qua đêm nay mọi cây ngoài trời chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất). **Ngoại lệ: cây Trái cổ đại ở ô (72, 27) sống tiếp qua Hạ** — đừng nhổ, xem [[#☀️ Ngày 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong|Ngày 21]].
 - **Không cần dọn đất trước** — đất tự "cày lại" khi sang mùa mới, cây chết tự biến mất.
 
-**🌦️ Nhánh:** việc chính hôm nay là mốc 12:00, **không nhường cho nhánh nào**. Nhánh chỉ quyết việc phụ: mưa → [[#🌧️ Mưa|câu cá nốt ngày mưa cuối mùa]] · nắng + may cao → [[#🍀 May cao|mỏ]].
+**🌦️ Nhánh:** 🌧️ **mưa** _(save Xuân 27 báo trước)_. Việc chính hôm nay là mốc 12:00, **không nhường cho nhánh nào**. Mưa nên việc phụ là [[#🌧️ Mưa|câu cá nốt ngày mưa cuối mùa]], ruộng tự tưới.
 
 > [!important] Mốc 12:00 và đóng băng thời gian — đóng băng lại là **lợi**
 > Bụi chỉ cho Junimo khi giờ game **đúng bằng 12:00**, tức 10 phút thật ngắn ngủi nếu đồng hồ chạy. Với `FreezeTime` thì làm ngược lại: mở CJB (`P`) → tab **Thời gian** → **kéo giờ tới 12:00**, rồi **cứ để đóng băng** — giờ đứng yên ở 12:00 nên đi tới bụi lúc nào cũng kịp. Đừng tắt đóng băng: để đồng hồ tự chạy mới là cách dễ trượt mốc.
