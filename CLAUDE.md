@@ -1,3 +1,22 @@
+# Tên trong game
+
+- **Mọi tên trong game lấy đúng chữ của bản Việt hoá đang cài** (`Mods/Stardew Valley -
+  Vietnamese`): đồ vật, máy, công trình, công cụ, kỹ năng, nghề, gói Nhà Văn hóa, NPC, địa
+  danh. Kèm tên tiếng Anh trong ngoặc để tra wiki. **Không tự dịch.** Tên tự dịch không gõ
+  tìm được trong game.
+- Tra bằng cách đối chiếu cùng một khoá giữa `Content/Strings/*.xnb` (tiếng Anh) và
+  `strings/Strings/*.xnb` của mod (tiếng Việt): `Objects`, `BigCraftables`, `Buildings`,
+  `Tools`, `Furniture`, `NPCNames`; kỹ năng ở `StringsFromCSFiles` `SkillsPage.cs.*`; nghề
+  ở `UI` `LevelUp_ProfessionName_*`; gói ở `Data/Bundles` (trường cuối); địa danh ở
+  `StringsFromCSFiles` `MapPage.cs.*`.
+- **Hai tên cho cùng một thứ thì dùng tên hiện trên giao diện người chơi thấy:** kỹ năng lấy
+  theo trang Kỹ năng (Trồng trọt, Khai khoáng, Câu cá), không lấy theo `1_6_Strings`.
+- **Không đổi chỉ vì khác hoa/thường** (Bình tưới / Bình Tưới): gõ tìm trong game vẫn ra.
+- **Bản dịch trùng tên hoặc dịch sai thì không tự quyết**, hỏi người dùng. Ngoại lệ đã chốt:
+  Shipping Bin giữ là "thùng ship" (bản dịch ghi "Thùng rác", trùng thùng rác thật) ·
+  Pickaxe giữ là "Cuốc chim" (bản dịch gọi cả Pickaxe lẫn Hoe là "Cuốc", nên "Cuốc Thép"
+  không biết là cái nào).
+
 # Quy ước commit
 
 Khung chung (Problem → Solution → Implications, cách tách commit, các bước, cách viết lại
