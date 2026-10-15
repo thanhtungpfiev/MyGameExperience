@@ -738,16 +738,16 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 **🌦️ Nhánh:** ☀️ **có gió, không mưa** + 🍀 **may trung bình** → **cắt cỏ đầy kho là việc chính** (vừa mở khoá hôm nay). **Mai mưa** → tối nay khỏi tưới lần cuối cho Ngày 28.
 
 **✅ Việc hôm nay**
-- [ ] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 rơm rạ, kho tối đa 240; gà vào Đông không ra ngoài nên rơm rạ là của để
-- [ ] 🪨 **Quest Gặt: Đá cho Robin** (quest bảng tin nhận Ngày 26, **hôm nay là ngày cuối**) — đây là quest **Gặt**, không phải quest giao đồ: Đá có sẵn trong túi/rương **không tính**, chỉ đếm Đá **đập ra sau khi nhận quest** _(Quicksave Xuân 27: vẫn 0/35)_. **Đập 35 Đá mới** (đá vụn ngoài nông trại là nhanh nhất) tới khi Nhật ký nhiệm vụ báo **35/35**, rồi **nói chuyện với Robin** là xong, không cần cầm Đá đưa. Kho xong sáng nay nên Robin về lịch thường: tìm ở **Cửa hàng Mộc** (Dãy Núi) hoặc quanh Thị trấn
-- [ ] 🔨 Lấy **Cuốc chim Thép** ở Clint (gửi Ngày 25) — từ hôm nay phá được **tảng đá lớn**
-- [ ] 🐔 Máng gà **còn 2 rơm rạ**, đủ cho đêm nay _(Quicksave Xuân 27)_. Không mưa nên gà tự ra ăn cỏ ngoài sân. Cắt cỏ xong thì lấy ở phễu trong chuồng, châm máng cho **đầy 4 ô**: **mai mưa**, gà ở trong chuồng cả ngày
-- [ ] 🍓 Hái **2 bụi Dâu tây** chín hôm nay · ship nốt
-- [ ] 🏛️ Mang **Trang sức yêu tinh** và **Quạt trang trí** (rương Cổ Vật, Sách ở (57, 14)) tới **Bảo tàng** quyên góp. Hai món này **chưa có trong bảo tàng** _(Quicksave Xuân 27)_, nên đừng bán
+- [x] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 rơm rạ, kho tối đa 240; gà vào Đông không ra ngoài nên rơm rạ là của để
+- [x] 🪨 **Quest Gặt: Đá cho Robin** (quest bảng tin nhận Ngày 26, **hôm nay là ngày cuối**) — đây là quest **Gặt**, không phải quest giao đồ: Đá có sẵn trong túi/rương **không tính**, chỉ đếm Đá **đập ra sau khi nhận quest** _(Quicksave Xuân 27: vẫn 0/35)_. **Đập 35 Đá mới** (đá vụn ngoài nông trại là nhanh nhất) tới khi Nhật ký nhiệm vụ báo **35/35**, rồi **nói chuyện với Robin** là xong, không cần cầm Đá đưa. Kho xong sáng nay nên Robin về lịch thường: tìm ở **Cửa hàng Mộc** (Dãy Núi) hoặc quanh Thị trấn
+- [x] 🔨 Lấy **Cuốc chim Thép** ở Clint (gửi Ngày 25) — từ hôm nay phá được **tảng đá lớn**
+- [x] 🐔 Máng gà **còn 2 rơm rạ**, đủ cho đêm nay _(Quicksave Xuân 27)_. Không mưa nên gà tự ra ăn cỏ ngoài sân. Cắt cỏ xong thì lấy ở phễu trong chuồng, châm máng cho **đầy 4 ô**: **mai mưa**, gà ở trong chuồng cả ngày
+- [x] 🍓 Hái **2 bụi Dâu tây** chín hôm nay · ship nốt
+- [x] 🏛️ Mang **Trang sức yêu tinh** và **Quạt trang trí** (rương Cổ Vật, Sách ở (57, 14)) tới **Bảo tàng** quyên góp. Hai món này **chưa có trong bảo tàng** _(Quicksave Xuân 27)_, nên đừng bán
 - [x] ~~📬 Đọc thư Pierre → nhận công thức **Bánh Tart nhân việt quất**~~ — **bỏ**: công thức **đã có trong sổ nấu ăn**, hộp thư sáng nay trống _(Quicksave Xuân 27)_
-- [ ] 🎁 Tìm Emily tặng quà sinh nhật
-- [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre — ưu tiên **Hạt việt quất** (lãi cao), thêm **Hạt hoa bia** nếu định ủ Bia nhẹ
-- [ ] _(Routine)_ Thu hoạch & bán nốt nông sản sắp hết mùa, tưới, ship
+- [x] 🎁 Tìm Emily tặng quà sinh nhật
+- [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre — ưu tiên **Hạt việt quất** (lãi cao), thêm **Hạt hoa bia** nếu định ủ Bia nhẹ _(chưa làm → dời sang [[#🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong|Ngày 28]])_
+- [x] _(Routine)_ Thu hoạch & bán nốt nông sản sắp hết mùa, tưới, ship
 
 **📋 Thực tế** _(Quicksave Xuân 27, đầu ngày)_
 - **Thời tiết:** ☀️ có gió · **mai mưa**. **May mắn:** `dailyLuck` **−0,011** → trung bình.
@@ -756,6 +756,16 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Quest Gặt: Đá** — 0/35, **còn 1 ngày → hôm nay là ngày cuối**. Kho có 727 Đá.
 - 🍓 Thùng ship đang có **48 Dâu tây** cùng Mâm xôi cá hồi, Cà rốt, Súp lơ… Ngoài thùng còn giữ **10 Dâu tây** và **2 Cải vàng**, tất cả đều phẩm Vàng. Giữ lại 2 Cải vàng đó, vì gói **Nông sản Chất lượng cao** cần 5 Cải vàng phẩm Vàng.
 - Bảo tàng vẫn chưa có Trang sức yêu tinh và Quạt trang trí. Hộp thư và thư mai đều trống.
+
+**📋 Chốt ngày** _(Quicksave Xuân 27, cuối ngày)_
+- 🪨 **Quest Gặt: Đá xong** — 35/35, đã đóng với Robin.
+- 🌾 ⚠️ **Kho chứa Cỏ mới có 28 rơm rạ**, chưa đầy (tối đa 240). Không gấp: máng trong chuồng đã **đầy 4 ô**, đủ cho cả ngày mưa mai. Phần còn lại cắt dần ở những ngày nắng mùa Hạ.
+- 🐔 Cả 2 con gà đã ở trong chuồng, cửa chuồng vẫn mở.
+- 🏛️ Đã quyên góp **Trang sức yêu tinh** và **Quạt trang trí**. 🔨 **Cuốc chim Thép** đã về túi. 🎁 Đã tặng quà Emily.
+- 📦 Thùng ship có **49 Dâu tây**, 117 Mâm xôi cá hồi, rau Xuân và cá. Trong rương (56, 16) còn **11 Dâu tây** và **3 Cải vàng** phẩm Vàng. Gói **Nông sản Chất lượng cao** cần 5 Cải vàng phẩm Vàng, nên vẫn thiếu 2.
+- 💰 **Ví 22.723 → 18.653g** (−4.070g). Save không ghi đã chi vào đâu. Vẫn trên mốc 6.000g.
+- 📬 **Mai có thư `EmilyCooking`**: Emily gửi công thức nấu ăn. _(Chưa đối chiếu tên món trong bản Việt hóa.)_
+- ⏳ **Chưa làm:** chốt ngân sách hạt Hạ. Dời sang Ngày 28.
 
 ---
 
@@ -776,7 +786,9 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **✅ Việc hôm nay**
 - [ ] 🎯 🔮 **12:00 rung bụi lấy Junimo Nhồi bông** (góc tây bắc Thị trấn, trên sân chơi)
-- [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua _(Quicksave Xuân 26: đã có **7 hạt**, mốc là 10–15)_. Còn thiếu thì dồn sang nửa sau mùa Hạ
+- [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua _(Quicksave Xuân 27: **7 hạt** trong rương (58, 15), ví **18.653g**; mốc là 10–15 hạt)_. Còn thiếu thì dồn sang nửa sau mùa Hạ
+- [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre _(dời từ Ngày 27)_. Ưu tiên **Hạt việt quất** vì lãi cao, thêm **Hạt hoa bia** nếu định ủ Bia nhẹ. Nhớ trừ phần tiền mua Hạt giống hiếm hôm nay
+- [ ] 📬 Đọc thư Emily → nhận công thức nấu ăn
 - [ ] 🧩 Rà toàn bộ gói Cộng đồng mùa Xuân — **Cá** và **Xây Dựng** nộp được quanh năm, riêng **Nông sản Mùa Xuân** và **Sản phẩm Hái lượm Mùa Xuân** lỡ là phải chờ Xuân năm sau
 - [ ] _(Routine)_ Bật TV · thu hoạch & bán **toàn bộ** nông sản còn lại · ship
 
