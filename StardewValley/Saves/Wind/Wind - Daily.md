@@ -777,7 +777,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - Qua đêm nay mọi cây ngoài trời chết khi đổi mùa (Dâu tây bụi lâu năm cũng mất). **Ngoại lệ: cây Trái cổ đại ở ô (72, 27) sống tiếp qua Hạ** — đừng nhổ, xem [[#☀️ Ngày 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong|Ngày 21]].
 - **Không cần dọn đất trước** — đất tự "cày lại" khi sang mùa mới, cây chết tự biến mất.
 
-**🌦️ Nhánh:** 🌧️ **mưa** _(save Xuân 27 báo trước)_. Việc chính hôm nay là mốc 12:00, **không nhường cho nhánh nào**. Mưa nên việc phụ là [[#🌧️ Mưa|câu cá nốt ngày mưa cuối mùa]], ruộng tự tưới.
+**🌦️ Nhánh:** 🌧️ **mưa** + 💀💀 **rất xui** (`dailyLuck` −0,089). Việc chính hôm nay là mốc 12:00, **không nhường cho nhánh nào**. Việc phụ theo [[#💀 May thấp|việc trong nhà & quan hệ]], **không đi câu cá**: xui thì ít rương kho báu, mà cá còn thiếu cho gói Cá không con nào bơi trong Xuân. Ruộng tự tưới. **Mai (Hạ 1) không mưa.**
 
 > [!important] Mốc 12:00 và đóng băng thời gian — đóng băng lại là **lợi**
 > Bụi chỉ cho Junimo khi giờ game **đúng bằng 12:00**, tức 10 phút thật ngắn ngủi nếu đồng hồ chạy. Với `FreezeTime` thì làm ngược lại: mở CJB (`P`) → tab **Thời gian** → **kéo giờ tới 12:00**, rồi **cứ để đóng băng** — giờ đứng yên ở 12:00 nên đi tới bụi lúc nào cũng kịp. Đừng tắt đóng băng: để đồng hồ tự chạy mới là cách dễ trượt mốc.
@@ -786,17 +786,24 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **✅ Việc hôm nay**
 - [ ] 🎯 🔮 **12:00 rung bụi lấy Junimo Nhồi bông** (góc tây bắc Thị trấn, trên sân chơi)
-- [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua _(Quicksave Xuân 27: **7 hạt** trong rương (58, 15), ví **18.653g**; mốc là 10–15 hạt)_. Còn thiếu thì dồn sang nửa sau mùa Hạ
+- [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua _(Quicksave Xuân 28: **7 hạt** trong rương (58, 15), ví **29.944g**; mốc là 10–15 hạt)_. Còn thiếu thì dồn sang nửa sau mùa Hạ
 - [ ] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre _(dời từ Ngày 27)_. Ưu tiên **Hạt việt quất** vì lãi cao, thêm **Hạt hoa bia** nếu định ủ Bia nhẹ. Nhớ trừ phần tiền mua Hạt giống hiếm hôm nay
-- [ ] 📬 Đọc thư Emily → nhận công thức nấu ăn
-- [ ] 🧩 Rà toàn bộ gói Cộng đồng mùa Xuân — **Cá** và **Xây Dựng** nộp được quanh năm, riêng **Nông sản Mùa Xuân** và **Sản phẩm Hái lượm Mùa Xuân** lỡ là phải chờ Xuân năm sau
-- [ ] _(Routine)_ Bật TV · thu hoạch & bán **toàn bộ** nông sản còn lại · ship
+- [x] 📬 Đọc thư Emily → nhận công thức nấu ăn — **xong**: công thức **Salad** đã vào sổ nấu ăn _(Quicksave Xuân 28)_
+- [x] 🧩 Rà toàn bộ gói Cộng đồng mùa Xuân — **xong, không còn gì phải làm gấp** _(Quicksave Xuân 28)_: **Nông sản Mùa Xuân**, **Sản phẩm Hái lượm Mùa Xuân** và **Xây dựng** đều đã đủ. Gói **Nông sản Chất lượng cao** chỉ cần **3 trong 4** loại (Cải vàng, Dưa, Bí ngô, Ngô), nên thiếu 2 Cải vàng không chặn gói
+- [ ] 🥚 Nhặt **2 Trứng** trên sàn chuồng gà. Máng còn **đủ 4 rơm rạ**, mưa nên gà ở trong, khỏi châm
+- [ ] _(Routine)_ Thu hoạch **7 Hành lam cầu** và **3 Khoai tây** đã chín · bán **toàn bộ** nông sản còn lại · ship. TV đã xem: công thức **Trứng ốp-lết** đã vào sổ
 
 **📎 Chi tiết đã kiểm chứng**
 
 Đêm nay ngủ vẫn tính là "Ngày 28 Xuân" như bình thường — sang ngày mới mới chính thức là Ngày 1 Hạ. Không có gì đặc biệt phải làm gấp trước 24:00 ngoài ship nông sản.
 
-**📋 Thực tế:** _(chờ save nhịp ①)_
+**📋 Thực tế** _(Quicksave Xuân 28, đầu ngày)_
+- **Thời tiết:** 🌧️ mưa · **mai không mưa**. **May mắn:** `dailyLuck` **−0,089** → **rất xui**.
+- **Ví 29.944g** (+11.291g tiền ship đêm qua, thùng ship giờ trống). **Kỹ năng** không đổi: Trồng trọt 5 · Câu cá 10 · Hái lượm 6 · Khai mỏ 7 · Chiến đấu 6.
+- 🔨 **Bình tưới Thép đang ở chỗ Clint, còn 1 ngày** → lấy được sáng Hạ 1, đúng ngày gieo hạt Hạ. Hôm nay mưa nên không cần bình.
+- 📬 Đã đọc cả hai thư trong hộp: Emily gửi công thức **Salad**, Shane gửi quà. **Mai có 2 thư**: Linus gửi công thức **Sashimi**, Demetrius gửi công thức **Nấm chiên**.
+- 🔮 **Chưa nhận Junimo Nhồi bông.** Kho chứa Cỏ **28 rơm rạ**. Quest đang nhận chỉ còn **Chìa khóa Đầu lâu** (quest cốt truyện, không có hạn).
+- Rương (56, 16) vẫn giữ **11 Dâu tây**, **3 Cải vàng**, **3 Súp lơ** phẩm Vàng cùng vài rau lẻ. Bụi Dâu tây hôm nay **không bụi nào chín**.
 
 ---
 
