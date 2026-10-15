@@ -739,7 +739,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **✅ Việc hôm nay**
 - [ ] 🎯 **Cắt cỏ đầy Kho chứa Cỏ** — 50%/nhát ra 1 rơm rạ, kho tối đa 240; gà vào Đông không ra ngoài nên rơm rạ là của để
-- [ ] 🪨 **Đưa Đá cho Robin** (quest bảng tin nhận Ngày 26) — Ngày 26 cô ấy đứng ở công trình Kho chứa Cỏ nhưng **đang xây thì không nói chuyện, không nhận đồ được**. Kho xong sáng nay nên Robin về lịch thường: tìm ở **Cửa hàng Mộc** (Dãy Núi) hoặc quanh Thị trấn. Xem hạn trong Nhật ký nhiệm vụ trước — quest bảng tin thường chỉ cho 2 ngày, tức **hôm nay là ngày cuối**
+- [ ] 🪨 **Quest Gặt: Đá cho Robin** (quest bảng tin nhận Ngày 26, **hôm nay là ngày cuối**) — đây là quest **Gặt**, không phải quest giao đồ: Đá có sẵn trong túi/rương **không tính**, chỉ đếm Đá **đập ra sau khi nhận quest** _(Quicksave Xuân 27: vẫn 0/35)_. **Đập 35 Đá mới** (đá vụn ngoài nông trại là nhanh nhất) tới khi Nhật ký nhiệm vụ báo **35/35**, rồi **nói chuyện với Robin** là xong, không cần cầm Đá đưa. Kho xong sáng nay nên Robin về lịch thường: tìm ở **Cửa hàng Mộc** (Dãy Núi) hoặc quanh Thị trấn
 - [ ] 🔨 Lấy **Cuốc chim Thép** ở Clint (gửi Ngày 25) — từ hôm nay phá được **tảng đá lớn**
 - [ ] 🐔 Máng gà **còn 2 rơm rạ**, đủ cho đêm nay _(Quicksave Xuân 27)_. Không mưa nên gà tự ra ăn cỏ ngoài sân. Cắt cỏ xong thì lấy ở phễu trong chuồng, châm máng cho **đầy 4 ô**: **mai mưa**, gà ở trong chuồng cả ngày
 - [ ] 🍓 Hái **2 bụi Dâu tây** chín hôm nay · ship nốt
