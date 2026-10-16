@@ -787,16 +787,15 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 **✅ Việc hôm nay**
 - [ ] 🎯 🔮 **12:00 rung bụi lấy Junimo Nhồi bông** (góc tây bắc Thị trấn, trên sân chơi)
 - [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua _(Quicksave Xuân 28: **7 hạt** trong rương (58, 15), ví **29.944g**; mốc là 10–15 hạt)_. Còn thiếu thì dồn sang nửa sau mùa Hạ
-- [x] 💰 Chốt ngân sách hạt Hạ mua sáng Hạ 1 ở Pierre _(dời từ Ngày 27)_ — **chốt: mở rộng ruộng lên ~166 ô và mua túi 36 ô**. Tổng **~22.650g**:
+- [x] 💰 Chốt ngân sách hạt Hạ _(dời từ Ngày 27)_ — **hôm nay chỉ chốt số, chưa mua được**: Pierre chỉ bán hạt của mùa đang diễn ra, sáng **Hạ 1** mới có hạt Hạ. **Chốt: mở rộng ruộng lên ~166 ô và mua túi 36 ô**. Tổng **~22.650g**:
 
-  | Mua ở Pierre | Số | Giá | Để làm gì |
+  | Mua ở Pierre **sáng Hạ 1** | Số | Giá | Để làm gì |
   |---|---|---|---|
   | **Hạt việt quất** | ~150 | 80g | Việc chính: gieo Hạ 1 → chín **Hạ 14**, rồi 4 ngày/lứa (18 · 22 · 26) = **4 lứa × 3 Trái việt quất** |
   | **Hạt giống cà chua** · **Hạt ớt** · **Hạt giống dưa** | 1 · 1 · 2 | 50g · 40g · 80g | Gói **Nông sản Mùa Hè** cần đủ cả 4: Cà chua, Ớt hiểm, Trái việt quất, Dưa |
   | **Hạt lúa mì** | 10 | 10g | Gói **Thức ăn Chăn Nuôi**: 10 Lúa mì (rơm rạ thì Kho chứa Cỏ đã có) |
   | **Hạt giống anh túc** · **Hạt hướng dương** | 1 · 1 | 100g · 200g | Anh túc cho gói **Đầu Bếp** · Hướng dương cho gói **Nhuộm** |
   | ~~Hoa bia giống~~ | — | 60g | **Bỏ**: Hoa bia bán thô rẻ, chỉ lời khi ủ Bia nhẹ, mà chưa có Thùng ủ |
-
   | **Túi 36 ô** | 1 | 10.000g | Mua luôn sáng Hạ 1 |
 
   Hạt hết **~12.650g** cho **~166 ô** (Ruộng 3: **72 ô** trong vùng 9 × 9 của 9 Vòi tưới cây xịn · Ruộng 2: **~94 ô** tưới tay), cộng túi 10.000g. Ví 29.944g, trừ thêm tối đa 1.000g Hạt giống hiếm hôm nay, thì còn **~6.300g**, vừa trên mốc 6.000g, chưa tính tiền ship đêm nay. **Đừng mua quá 150 Hạt việt quất**: mua thêm 1 hạt là ví lún dưới mốc. Gói Kho bạc **25.000g** chờ Việt quất ra tiền
