@@ -52,6 +52,8 @@ Xếp theo lịch trong năm. Ngày nào đã có trong [[Wind - Daily]] thì c�
 ### 🔁 Mọi mùa
 
 - **Ngày 28 của mùa bất kỳ, 12:00–12:09 trưa — Rung bụi cây phía trên sân chơi** (góc tây bắc Thị trấn Pelican, ô 20, 8) · ✔️ code · Daily [[Wind - Daily#🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong|Xuân 28]]
+  - **Tìm bụi:** bản đồ **Thị trấn Pelican**, **X = 20, Y = 8**. Đi lên góc trên bên trái thị trấn, bụi nằm ngay **phía trên sân chơi**. Bật [[Mods#Debug Mode 1.17.4|Debug Mode]] (`Z`) rồi rê chuột lên bụi: bảng góc màn hình hiện toạ độ ô dưới con trỏ, khớp `20, 8` là đúng bụi.
+  - **Lấy:** dùng CJB (`P`) → tab **Thời gian** → kéo giờ tới **12:00** và để đóng băng, rồi đứng sát bụi, **chuột phải vào bụi** để rung. Code so `timeOfDay == 1200`, nên lệch sang 12:10 là trượt.
   - **Thưởng:** **Junimo Nhồi bông (Junimo Plush)** — đồ trang trí, cất rương `Chế Tác, Trang Trí` ([[Quy hoạch nông trại]]). **Chỉ nhận 1 lần mỗi save** — lỡ 12:00 thì chờ ngày 28 mùa sau.
   - _Ghi chú bí mật #13 là gợi ý cho bí mật này._
 
