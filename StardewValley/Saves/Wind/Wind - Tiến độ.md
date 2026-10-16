@@ -69,6 +69,20 @@ Save Xuân 19 đã xuống tới **tầng 76**, nên tầng 20 và 60 đều câ
 
 ---
 
+## ❤️ Haley
+
+> _Save này theo **Haley**. Chọn câu nào, điều kiện nổ ra ở [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Đối chiếu Quicksave **Xuân 28, Năm 1**: **1.600 điểm = 6 tim** (+100), sự kiện đã xem 11 · 12 · 13._
+
+- [x] **2 tim** (ID 11) — dọn nhà, Haley cãi Emily
+- [x] **4 tim** (ID 12) — mở nắp lọ
+- [x] **6 tim** (ID 13) — vòng tay ở Bãi biển · Xuân 28 Năm 1
+- [ ] **8 tim** (ID 14) — Rừng Cindersap, ngày nắng · cần **2.000 điểm** (còn thiếu 400)
+- [ ] 💐 Tặng **Bó hoa** (200g ở tiệm Pierre) — ngay khi đủ 8 tim
+- [ ] **10 tim** (ID 15) — phòng tối, sau Bó hoa
+- [ ] 💍 **Dây chuyền tiên cá** — 10 tim + nhà đã nâng cấp
+
+---
+
 ## 🔮 Bí mật & sự kiện ẩn
 
 > _Cách làm từng mục ở [[Bí mật & Sự kiện ẩn]]. Mục lặp mỗi năm thì ghi năm đã làm._
@@ -81,7 +95,7 @@ Save Xuân 19 đã xuống tới **tầng 76**, nên tầng 20 và 60 đều câ
 - [ ] **Thu 26 — Kênh TV "???"** — chỉ khi đã biến con thành chim bồ câu
 - [ ] **Mùa Đông — bóng đen ở Bến Xe → Kính lúp** ⭐
 - [ ] **Đêm Đông 24 — Sữa / Bánh quy lên bàn → Chiếc hộp bí ẩn** · lặp mỗi năm
-- [ ] **Ngày 28, 12:00 — Junimo Nhồi bông** · 1 lần/save
+- [x] **Ngày 28, 12:00 — Junimo Nhồi bông** · 1 lần/save — nhận **Xuân 28 Năm 1** _(Quicksave Xuân 28: có cờ `junimoPlush`)_
 
 ### ⭐ Sao sa — 0 / 7
 

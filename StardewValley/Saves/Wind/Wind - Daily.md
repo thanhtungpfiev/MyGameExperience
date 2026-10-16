@@ -785,8 +785,9 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 > _Kiểm chứng trên game 1.6.15: `Bush.shake` so `timeOfDay == 1200` đúng ô (20, 8) ngày 28; tab Thời gian của CJB đi qua từng nấc 10 phút (`SafelySetTime`)._
 
 **✅ Việc hôm nay**
-- [ ] 🎯 🔮 **12:00 rung bụi lấy Junimo Nhồi bông** (góc tây bắc Thị trấn, trên sân chơi)
-- [ ] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua _(Quicksave Xuân 28: **7 hạt** trong rương (58, 15), ví **29.944g**; mốc là 10–15 hạt)_. Còn thiếu thì dồn sang nửa sau mùa Hạ
+- [x] 🎯 🔮 **12:00 rung bụi lấy Junimo Nhồi bông** (góc tây bắc Thị trấn, trên sân chơi)
+- [x] ❤️ Cắt cảnh **6 tim của Haley** ở Bãi biển (vòng tay) — đã tìm thấy vòng gần lều Elliott, ô (53, 8). Lần sau chọn câu theo [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]
+- [x] 🛒 Ghé xe hàng rong: **tối đa 1 Hạt giống hiếm**, chỉ khi ví còn **≥ 6.000g** sau khi mua _(Quicksave Xuân 28: **7 hạt** trong rương (58, 15), ví **29.944g**; mốc là 10–15 hạt)_. Còn thiếu thì dồn sang nửa sau mùa Hạ
 - [x] 💰 Chốt ngân sách hạt Hạ _(dời từ Ngày 27)_ — **hôm nay chỉ chốt số, chưa mua được**: Pierre chỉ bán hạt của mùa đang diễn ra, sáng **Hạ 1** mới có hạt Hạ. **Chốt: mở rộng ruộng lên ~166 ô và mua túi 36 ô**. Tổng **~22.650g**:
 
   | Mua ở Pierre **sáng Hạ 1** | Số | Giá | Để làm gì |
