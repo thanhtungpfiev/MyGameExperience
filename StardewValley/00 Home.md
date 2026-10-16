@@ -12,6 +12,7 @@
 - [[Quy hoạch nông trại]] — Bản đồ farm ban đầu, mẫu bố cục tham khảo, nguyên tắc sắp xếp.
 - [[Câu cá theo mùa]] — Cá từng mùa: chỗ, giờ, thời tiết.
 - [[Bí mật & Sự kiện ẩn]] — Sự kiện game không báo trước theo ngày/mùa, Sao sa (Stardrop), khu vực ẩn, Ghi chú bí mật.
+- [[Sự kiện tim]] — Cắt cảnh theo mức tim: điều kiện nổ ra, chọn câu nào để không mất tim.
 
 **Ghi chú kỹ thuật (đọc khi cần):**
 
