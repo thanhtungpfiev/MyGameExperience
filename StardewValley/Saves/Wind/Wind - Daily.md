@@ -797,13 +797,14 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
   | **Hạt lúa mì** | 10 | 10g | Gói **Thức ăn Chăn Nuôi**: 10 Lúa mì (rơm rạ thì Kho chứa Cỏ đã có) |
   | **Hạt giống anh túc** · **Hạt hướng dương** | 1 · 1 | 100g · 200g | Anh túc cho gói **Đầu Bếp** · Hướng dương cho gói **Nhuộm** |
   | ~~Hoa bia giống~~ | — | 60g | **Bỏ**: Hoa bia bán thô rẻ, chỉ lời khi ủ Bia nhẹ, mà chưa có Thùng ủ |
-  | **Túi 36 ô** | 1 | 10.000g | Mua luôn sáng Hạ 1 |
+  | ~~**Túi 36 ô**~~ | 1 | 10.000g | **Đã mua Xuân 28**, xem Chốt ngày |
 
   Hạt hết **~12.650g** cho **~166 ô** (Ruộng 3: **72 ô** trong vùng 9 × 9 của 9 Vòi tưới cây xịn · Ruộng 2: **~94 ô** tưới tay), cộng túi 10.000g. Ví 29.944g, trừ thêm tối đa 1.000g Hạt giống hiếm hôm nay, thì còn **~6.300g**, vừa trên mốc 6.000g, chưa tính tiền ship đêm nay. **Đừng mua quá 150 Hạt việt quất**: mua thêm 1 hạt là ví lún dưới mốc. Gói Kho bạc **25.000g** chờ Việt quất ra tiền
 - [x] 📬 Đọc thư Emily → nhận công thức nấu ăn — **xong**: công thức **Salad** đã vào sổ nấu ăn _(Quicksave Xuân 28)_
 - [x] 🧩 Rà toàn bộ gói Cộng đồng mùa Xuân — **xong, không còn gì phải làm gấp** _(Quicksave Xuân 28)_: **Nông sản Mùa Xuân**, **Sản phẩm Hái lượm Mùa Xuân** và **Xây dựng** đều đã đủ. Gói **Nông sản Chất lượng cao** chỉ cần **3 trong 4** loại (Cải vàng, Dưa, Bí ngô, Ngô), nên thiếu 2 Cải vàng không chặn gói
-- [ ] 🏗️ **Dọn chỗ cho ruộng mới theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|quy hoạch]]** — ruộng cũ (x 54–72) nằm **trong bãi chăn nuôi sẽ rào**, đêm nay cây chết hết nên đây là lúc dời ruộng về chỗ đúng. **Ruộng 3** (góc (30, 22)) trống sẵn. **Ruộng 2** (góc (19, 22)) còn **cây phong lớn ở (21, 23)** và **cây phong non ở (22, 26)**: chặt cả hai _(Quicksave Xuân 28)_. **Hôm nay chưa cuốc** — sáng Hạ 1 mới cuốc rồi gieo luôn, vô tận thể lực nên cuốc lúc nào cũng như nhau, mà để sát giờ gieo thì khỏi lo đất bỏ trống qua đêm. Ruộng cũ cứ để đó, bãi chăn nuôi cần cỏ chứ không cần đất cuốc
-- [ ] 🛣️ _(Còn thời gian)_ Lát **Đường lát đá** trục dọc x 40–41, từ lối bắc xuống y = 47 — chạy sát mép phải Ruộng 3, thành lối đi ra ruộng. Việc trả kết quả cố định, hợp ngày rất xui. Rương có **894 Đá**, đủ cả hai trục (~307 ô)
+- [x] 🏗️ **Dọn chỗ cho ruộng mới theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|quy hoạch]]** — ruộng cũ (x 54–72) nằm **trong bãi chăn nuôi sẽ rào**, đêm nay cây chết hết nên đây là lúc dời ruộng về chỗ đúng. **Ruộng 3** (góc (30, 22)) trống sẵn. **Ruộng 2** (góc (19, 22)) còn **cây phong lớn ở (21, 23)** và **cây phong non ở (22, 26)**: chặt cả hai _(Quicksave Xuân 28)_. **Hôm nay chưa cuốc** — sáng Hạ 1 mới cuốc rồi gieo luôn, vô tận thể lực nên cuốc lúc nào cũng như nhau, mà để sát giờ gieo thì khỏi lo đất bỏ trống qua đêm. Ruộng cũ cứ để đó, bãi chăn nuôi cần cỏ chứ không cần đất cuốc
+- [x] 🎣 _(Thêm)_ Câu ở sông Rừng Cindersap tới cuối ngày lấy tiền: mưa nên **Cá trê** cắn (06:00–24:00). Cá trê đã nộp cho gói **Cá sông**, gói đó chỉ còn thiếu Cá hồi vân hổ, nên câu được bao nhiêu bán hết
+- [x] 🛣️ _(Còn thời gian)_ Lát **Đường lát đá** trục dọc x 40–41, từ lối bắc xuống y = 47 — chạy sát mép phải Ruộng 3, thành lối đi ra ruộng. Việc trả kết quả cố định, hợp ngày rất xui. Rương có **894 Đá**, đủ cả hai trục (~307 ô)
 - [x] 🥚 Nhặt **2 Trứng** trên sàn chuồng gà. Máng còn **đủ 4 rơm rạ**, mưa nên gà ở trong, khỏi châm
 - [x] _(Routine)_ Thu hoạch **7 Hành lam cầu** và **3 Khoai tây** đã chín · bán **toàn bộ** nông sản còn lại · ship. TV đã xem: công thức **Trứng ốp-lết** đã vào sổ
 
@@ -819,18 +820,31 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - 🔮 **Chưa nhận Junimo Nhồi bông.** Kho chứa Cỏ **28 rơm rạ**. Quest đang nhận chỉ còn **Chìa khóa Đầu lâu** (quest cốt truyện, không có hạn).
 - Rương (56, 16) vẫn giữ **11 Dâu tây**, **3 Cải vàng**, **3 Súp lơ** phẩm Vàng cùng vài rau lẻ. Bụi Dâu tây hôm nay **không bụi nào chín**.
 
-**📋 Chốt ngày** _(Quicksave Xuân 28, lưu lúc tắt game — **chưa ngủ**)_
-- ⚠️ **Ngày chưa xong.** Cả phiên chỉ ở trong trại (Nông trại · Chuồng gà · Hang động), rồi tắt game mà không đi ngủ. Save chính vẫn là bản đầu ngày, nên **mở lại Quicksave là chơi tiếp đúng Ngày 28**. Còn dở:
-  - 🔮 **Junimo Nhồi bông** — chưa nhận. Hôm nay lỡ thì phải chờ tới ngày 28 của mùa sau.
-  - 🛒 Xe hàng rong: chưa mua. Ví vẫn **29.944g**, rương vẫn **7 Hạt giống hiếm**.
-  - 🏗️ Hai cây phong ở **(21, 23)** và **(22, 26)** vẫn đứng trong Ruộng 2. Đường lát chưa làm thêm ô nào, rương vẫn **894 Đá**.
-- 🌾 **Trồng trọt lên cấp 6**, game xử lý lúc đi ngủ. Đêm nay sẽ:
-  - **Chọn nghề cấp 6**, nhánh tiếp theo của **Thợ cày**.
-  - Học công thức **Vòi tưới cây xịn** (1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện).
-  - Rương đang có **9 Thỏi sắt** · 63 Thỏi vàng · 37 Thạch anh tinh luyện, đủ đúng **9 vòi** cho **Ruộng 3**, theo sơ đồ 9 vòi/ô ở [[#Năm 1 — đường chính, ruộng đầu tiên, bãi chăn nuôi|lộ trình xây]]. Mỗi vòi tưới 8 ô quanh nó, nên 9 vòi phủ vùng 9 × 9 và trồng được **72 ô** (9 ô là chỗ đặt vòi). Hàng y = 31 và cột x = 39 ngoài vùng tưới để làm lối. Sáng Hạ 1 chế xong, cuốc, gieo. Từ đó **chỉ phần ~94 ô Ruộng 2 phải tưới tay**. Thỏi sắt là thứ chặn: còn 3 Quặng sắt, chưa đủ nấu thêm thỏi nào.
-- 📦 Thùng ship: **9 Hành lam cầu**, **3 Khoai tây**, **2 Tulip** và **Đinh rỉ sét**. Món cuối là cổ vật **đã quyên góp**, bán được. **2 Trứng** đã nhặt vào rương.
-- 🐔 Máng vẫn **4 rơm rạ**, gà chưa ăn.
-- 📬 Mai vẫn có 2 thư: Linus gửi công thức **Sashimi**, Demetrius gửi công thức **Nấm chiên**.
+**📋 Chốt ngày** _(Quicksave Xuân 28, lưu cuối ngày ở Rừng Cindersap — sau đó chỉ còn đi ngủ)_
+- ✅ **Mọi việc trong ngày đã xong.** Hai việc lần trước còn dở giờ đã làm:
+  - 🔮 **Junimo Nhồi bông** đã nhận (save có mail `junimoPlush`).
+  - 🛒 Xe hàng rong: mua **1 Hạt giống hiếm**. Rương (58, 15) giờ có **8 hạt**.
+- 🏗️ **Ruộng 2 và Ruộng 3 đã dọn và cuốc sẵn**, sớm hơn dự định "sáng Hạ 1 mới cuốc". Hai cây phong ở (21, 23) và (22, 26) đã chặt, giờ là đất cuốc. Cả khu x 19–44 · y 18–38 có **207 ô đất cuốc**, không còn đá hay cỏ dại nào trong hai ruộng. Hôm nay mưa nên đất cuốc được tưới luôn. Sáng mai có ô nào trở lại thành cỏ thì cuốc lại, vì vô tận thể lực.
+- 🛣️ **Đường lát đá trục x 40–41 đã xong**: đủ **96 ô, từ y 0 xuống y 47**. Trong túi còn **645 Đá**, đủ lát trục còn lại.
+- 💰 **Túi 36 ô đã mua hôm nay**, không đợi tới sáng Hạ 1. **Ví 17.889g**, so với 29.944g lúc đầu ngày: 10.000g là tiền túi, ~2.055g còn lại là Hạt giống hiếm cộng vài món mua lẻ không lần ra từ save.
+- 📦 **Thùng ship**, tính theo giá bán có nhân phẩm chất và nghề (Ngư dân +25% cho cá, Thợ cày +10% cho nông sản và hoa). **Ước tính ~6.700g**:
+
+  | Món | Số · phẩm chất | ≈ tiền |
+  |---|---|---|
+  | **Cá trê** | 7 · Vàng | 2.625g |
+  | **Cá bống** | 7 Iridium · 7 Vàng | 1.526g |
+  | **Cá trích dày mình** | 3 Iridium · 2 Vàng | 674g |
+  | **Cá vền** | 3 · Iridium | 336g |
+  | **Nghêu** · **Sò** · **Trai** | 3 · 1 · 1 | 357g |
+  | **San hô** | 2 · Vàng | 240g |
+  | **Hành lam cầu** · **Khoai tây** · **Tulip** | 9 · 3 · 2 | 941g |
+  | **Đinh rỉ sét** · rác | 1 · 1 | 25g |
+
+  Ngủ xong ví khoảng **~24.600g**. Hạt Hạ hết ~12.650g thì còn **~12.000g**, dư mốc 6.000g gấp đôi. Lần trước tính là sát mốc, giờ không còn sát nữa.
+- 🌾 **Trồng trọt lên cấp 6**, game xử lý lúc đi ngủ. Đêm nay **không có màn chọn nghề**, vì nghề chỉ chọn ở cấp 5 và cấp 10 (cấp 10 mới có nhánh tiếp theo của **Thợ cày**). Đêm nay chỉ học công thức **Vòi tưới cây xịn** (1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện).
+  - Hai rương (58, 16) và (76, 13) có **9 Thỏi sắt** (4 + 5) · 61 Thỏi vàng · 59 Thạch anh tinh luyện, đủ đúng **9 vòi** cho **Ruộng 3**, theo sơ đồ 9 vòi/ô ở [[#Năm 1 — đường chính, ruộng đầu tiên, bãi chăn nuôi|lộ trình xây]]. Mỗi vòi tưới 8 ô quanh nó, nên 9 vòi phủ vùng 9 × 9 và trồng được **72 ô** (9 ô là chỗ đặt vòi). Hàng y = 31 và cột x = 39 nằm ngoài vùng tưới để làm lối. Sáng Hạ 1 chế vòi xong là gieo. Từ đó **chỉ phần ~94 ô của Ruộng 2 phải tưới tay**. Thỏi sắt là thứ chặn: còn 3 Quặng sắt, chưa đủ nấu thêm thỏi nào.
+- 🥚 **2 Trứng** trong rương (55, 14). Kho chứa Cỏ **36 rơm rạ**. Túi có **15 Mồi cao cấp**.
+- 📬 Mai có 2 thư: Linus gửi công thức **Sashimi**, Demetrius gửi công thức **Nấm chiên**.
 
 ---
 
@@ -906,7 +920,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Hạ 5 · 7 · 12** — tối đa 1 hạt/lần: ví đang mỏng vì vừa mua hạt Hạ, mà Hạt việt quất quay vòng vốn nhanh hơn nhiều (1.000g bỏ vào Hạt giống hiếm phải nằm im tới khoảng Thu 25).
 - **Hạ 14 · 19 · 21 · 26 · 28** — Việt quất đã ra tiền → **vét hết hàng** mỗi lần ghé, đến khi đủ mốc.
 - Chừa tiền **Nam việt quất (240g/hạt) cho Thu 1** trước khi vét lần cuối ở Hạ 28.
-- Túi 36 ô (10.000g) để sau khi Việt quất ra tiền — mua bây giờ là hết vốn vụ Hạ.
+- ~~Túi 36 ô (10.000g) để sau khi Việt quất ra tiền~~ — **đã mua Xuân 28**. Mẻ câu Cá trê cuối ngày bù lại đủ tiền, mua xong hạt Hạ ví vẫn còn ~12.000g.
 - 🐔 Gà mua cho đủ **4 con** (800g/con) cũng chờ tới đợt này, cùng lúc với lúc vét Hạt giống hiếm.
 - 💰 Kho bạc (Nhà Văn hóa) đã trả xong **2.500g · 5.000g · 10.000g**, chỉ còn gói **25.000g**. Gói này cũng chờ tới đợt này, vì không có hạn chót, còn tiền đầu Hạ bỏ vào hạt quay vòng thì lời hơn. Quicksave Xuân 28: ví 29.944g, trả ngay thì chỉ còn 4.944g, tức thủng mốc 6.000g và không còn tiền mua hạt Hạ.
 
