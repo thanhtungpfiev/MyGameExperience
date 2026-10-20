@@ -2635,7 +2635,8 @@ Tác giả cũng nói rõ giới hạn của chính clip: **chỉ ở mức cơ 
 | "con gấu kristma Thiên Hương" · "bột kem nứt" | ❓ — có thể là **Saurug** | **Đoán** — Saurug là Battle Mage còn lại của Stronghold (chuyên Gems), và wiki ghi nó có **Resistance ở SoD, Interference ở HotA**. Nhưng đoạn 1:01:38 vỡ tới mức không chốt được |
 | "con đây copy" (tướng Cove chuyên Offense) | ❓ | **Chưa kiểm** — video nói có ba tướng chuyên Offense: Crag Hack, Gundula, và một tướng Cove |
 | "con trúng Luyện iacin" · "con im" · "con Italy" | Tướng Inferno luyện quân cấp 1 ❓ | **Chưa kiểm** — chỉ dùng làm mốc so sánh với Gretchin |
-| "con ăn xin" · "con ăn kiêng" · "con Dragon" | Tướng Fortress luyện quân cấp 1 ❓ | **Chưa kiểm** — cũng chỉ là mốc so sánh |
+| "con Dragon" | **Drakon** (Fortress) | **Khá chắc** — tướng Fortress **duy nhất** chuyên quân cấp 1 (Gnolls), có Armorer + Leadership (kiểm wiki 20/10/2026). Khớp đúng vai mốc so sánh với Gretchin |
+| "con ăn xin" · "con ăn kiêng" | **Alkin** (Fortress) ❓ | **Lệch vai** — [[#❓ Bảng giải mã phụ đề — video 11 (Fortress)\|video 11]] gọi Alkin đúng bằng "ăn kiêng", nhưng Alkin chuyên **Gorgons (cấp 5)**, không phải quân cấp 1. Hoặc video 9 nhắc Alkin cạnh Drakon, hoặc phụ đề nghe nhầm. Khối thô của video 9 đã xoá, không mở lại được ngữ cảnh |
 
 **Tên quân, công trình, kỹ năng và cơ chế:**
 
