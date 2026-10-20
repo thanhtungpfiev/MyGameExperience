@@ -1,6 +1,6 @@
 # 🏰 Heroes 3 HotA — Cách chơi cơ bản các thành (Nam InCo)
 
-> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **8/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
+> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **9/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
 >
 > _Video nói tiếng Việt nhưng tên thành, tên lính, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
@@ -23,7 +23,7 @@
 | 8 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Rồng Đen DUNGEON](https://www.youtube.com/watch?v=hXkO43OuJkc) | 12/04/2022 | ✅ [[#8️⃣ Dungeon (Rồng Đen) — Troglodyte với Harpy gánh cả giai đoạn mở đường, dàn tướng mới là chỗ mạnh thật\|đã chắt lọc]] |
 | 9 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Gấu STRONGHOLD.](https://www.youtube.com/watch?v=frwS3OhHHxg) | 12/11/2022 | ✅ [[#9️⃣ Stronghold (thành Gấu) — công trình nào cũng mạnh, quân yếu từng con, tướng chiến khoẻ nhất game\|đã chắt lọc]] |
 | 10 | [Cách chỉnh lỗi template 8XM8: Thành không có đường đi - Không tạo được map size G !](https://www.youtube.com/watch?v=A9zkjSXFbs8) | 03/12/2022 | ⬜ chưa xem |
-| 11 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Đầm Lầy FORTRESS.](https://www.youtube.com/watch?v=ylEF4scll9c) | 13/12/2022 | ⬜ chưa xem |
+| 11 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Đầm Lầy FORTRESS.](https://www.youtube.com/watch?v=ylEF4scll9c) | 13/12/2022 | ✅ [[#1️⃣1️⃣ Fortress (Đầm Lầy) — Wyvern lên được ngày đầu, Gorgon làm đối phương ngại, tướng phép "ăn học đàng hoàng"\|đã chắt lọc]] |
 | 12 | [8XM8 là gì? Tại sao nhiều người chơi 8XM8? Cách chơi cơ bản map 8XM8.](https://www.youtube.com/watch?v=oZotpPb5Gl0) | 10/01/2023 | ⬜ chưa xem |
 | 13 | [Chia sẻ kinh nghiệm chơi cơ bản thành Phượng Hoàng CONFLUX.](https://www.youtube.com/watch?v=VUGJGH8hJMI) | 21/01/2024 | ⬜ chưa xem |
 | 14 | [Cách để chọn Tướng ẩn: SirMullich, Gelu, HaartLich...](https://www.youtube.com/watch?v=kiH2LRNbOuI) | 24/01/2024 | ⬜ chưa xem |
@@ -58,6 +58,8 @@
 **Bên trong video 8** — [[#🐉 Vì sao Dungeon khó với người mới nhưng mạnh ở trình cao|Vì sao khó mà vẫn mạnh]] · [[#💸 Nhược điểm của Dungeon — xây đắt, và quân chủ lực không kịp tuần 1|Nhược điểm]] · [[#🏗️ Năm công trình riêng của Dungeon|Năm công trình]] · [[#🦎 Troglodyte — quân chốt của Dungeon, yếu từng con nhưng đông và miễn nhiễm Blind|Troglodyte]] · [[#🦅 Harpy Hag — con mà video coi là "quân bắn với mũi tên vô hạn"|Harpy Hag]] · [[#🏔️ Chọn địa hình trước khi đánh — kỹ thuật mà Dungeon bắt buộc phải biết|Chọn địa hình]] · [[#👁️ Beholder và Medusa — quân bắn của Dungeon đến muộn, và cái bẫy Stone Gaze|Beholder & Medusa]] · [[#⚡ Vì sao vẫn phải nâng lên Black Dragon — chuyện speed, và cái bẫy Hill Fort|Nâng Black Dragon & Hill Fort]] · [[#🐂 Minotaur — quân cấp 5 đánh đau nhất, và lý do đối phương sợ Dungeon|Minotaur]] · [[#🦂 Scorpicore và Black Dragon — trói quân, và con duy nhất miễn nhiễm Implosion|Scorpicore & kháng Implosion]] · [[#📊 Tổng kết chất lượng quân Dungeon theo video|Tổng kết quân]] · [[#⚔️ Tướng chiến Dungeon — Tactics cộng luyện quân là chỗ mạnh thật của thành|Tướng chiến]] · [[#🔮 Tướng phép Dungeon — Alamar, Jeddite và phép hồi sinh nhân theo level|Tướng phép]] · [[#📈 Darkstorn và Learning — vì sao Dungeon cần lên level nhanh hơn các thành khác|Learning]] · [[#🏁 Chốt — Dungeon gần như không có điểm yếu với người chơi có kinh nghiệm|Chốt]] · [[#🎥 Mốc thời gian — video 8|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 8 (Dungeon)|Bảng giải mã]]
 
 **Bên trong video 9** — [[#🏛️ Bốn công trình độc nhất của Stronghold — Hall of Valhalla, Escape Tunnel, Freelancer's Guild, Ballista Yard|Bốn công trình]] · [[#🐺 Mess Hall và chuyện Stronghold phải lấy quân đông bù quân yếu|Mess Hall]] · [[#🏗️ Stronghold lên quân cấp 7 rẻ và nhanh nhất — hai đường build theo gỗ hay theo đá|Hai đường build]] · [[#🪨 Cyclops Cave — chỗ nghẽn duy nhất trong cả cây công trình Stronghold|Chỗ nghẽn Cyclops Cave]] · [[#👺 Goblin và Wolf Rider — hai quân tầm thường khi chưa nâng, rất lợi khi đã nâng|Goblin & Wolf Rider]] · [[#🏹 Orc — quân cấp 3 mà video gọi là chán nhất game|Orc]] · [[#👹 Ogre Magi — quân cấp 4 trâu nhất, và phép Bloodlust buff cho Behemoth|Ogre Magi & Bloodlust]] · [[#⚡ Thunderbird — quân mở đường quen thuộc nhất của Stronghold|Thunderbird]] · [[#👁️ Cyclops — quân phá tường mà Stronghold buộc phải có khi công thành|Cyclops phá tường]] · [[#🐻 Behemoth — phá 80% giáp, và vì sao đối phương phải giết nó trước|Behemoth]] · [[#🧩 Tổng kết quân Stronghold — từng con tầm thường, ghép lại thì rất mạnh|Tổng kết quân]] · [[#⚔️ Tướng chiến Stronghold — Yog, Gurnisson, Jabarkas, Shiva|Tướng chiến]] · [[#👣 Gretchin, Tyraxor, Krellion — và cái bẫy địa hình khi gom quân nhiều thành|Gretchin, Tyraxor, Krellion]] · [[#🥇 Crag Hack — tướng chiến mạnh nhất game theo video, và phép tính 75% Offense|Crag Hack]] · [[#🔮 Tướng phép Stronghold — Gird và Vey, hai con mà video gọi là phèn|Tướng phép]] · [[#📉 Dessa và Logistics — tướng phép duy nhất đáng giá, và chỗ HotA nép mạnh nhất|Dessa & Logistics]] · [[#🚫 Nhược điểm duy nhất của Stronghold — Mage Guild chỉ lên tới cấp 3|Nhược điểm duy nhất]] · [[#💥 Zubin và Gundula — hai tướng phép còn dùng được|Zubin & Gundula]] · [[#🏁 Chốt — Stronghold mạnh ở tướng, bù cho quân yếu từng con|Chốt]] · [[#🎥 Mốc thời gian — video 9|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 9 (Stronghold)|Bảng giải mã]]
+
+**Bên trong video 11** — [[#🧪 Nhược điểm công trình của Fortress — Mage Guild cấp 3, và quân cấp 3–5 cần tài nguyên hiếm|Nhược điểm công trình]] · [[#🛡️ Glyphs of Fear, Blood Obelisk, Cage of Warlords — thành thủ cộng thêm kiếm giáp|Glyphs, Obelisk, Cage]] · [[#🐕 Captain's Quarters — bức tường thịt Gnoll|Captain's Quarters]] · [[#🐲 Wyvern Nest — quân cấp 6 lên được ngay ngày đầu|Wyvern Nest]] · [[#🌿 Đất Swamp — cái giá khi gom quân nhiều thành|Đất Swamp]] · [[#🦎 Gnoll và Lizardman — quân hút sát thương, không phải quân chủ lực|Gnoll & Lizardman]] · [[#🪰 Dragon Fly — speed 13, Dispel cộng Weakness, mồi nhử chỉ chiếm một ô|Dragon Fly]] · [[#🦖 Basilisk — phần mở đầu bị mất trong phụ đề|Basilisk]] · [[#🐂 Mighty Gorgon — Death Stare, và vì sao đối phương phải đánh nó trước|Mighty Gorgon]] · [[#🐉 Wyvern Monarch — quân chủ lực quen thuộc nhất ở 8XM8, và chất độc 10%|Wyvern Monarch]] · [[#🐍 Chaos Hydra — đánh mọi ô quanh mình, nhưng yếu nhất trong quân cấp 7|Chaos Hydra]] · [[#🧭 Tóm lại cách dùng quân Fortress|Tóm lại quân]] · [[#⚔️ Tướng chiến Fortress — Bron, Drakon, Wystan|Tướng chiến]] · [[#🛡️ Tazar — tướng thủ khoẻ nhất game, và phép tính Armorer 30%|Tazar]] · [[#🗡️ Alkin, Gerwulf, Broghild — và Korbac chỉ được nhắc một câu|Alkin, Gerwulf, Broghild]] · [[#🔥 Tướng chiến không học được Fire — nhưng tướng phép Fortress "ăn học đàng hoàng"|Không học Fire]] · [[#🔮 Tướng phép Fortress — Mirlanda và Rosic|Mirlanda & Rosic]] · [[#📈 Kinkeria — tướng phép lên chỉ số nhanh nhất game|Kinkeria]] · [[#🩹 Verdish, Merist, Styg, Andra, Tiva|Verdish, Merist, Styg, Andra, Tiva]] · [[#🏁 Chốt — Fortress ổn áp nhất về tướng|Chốt]] · [[#🎥 Mốc thời gian — video 11|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 11 (Fortress)|Bảng giải mã]]
 
 ---
 
@@ -2686,6 +2688,519 @@ Tác giả cũng nói rõ giới hạn của chính clip: **chỉ ở mức cơ 
 | "mỏ Xeko lốt" | **Mỏ Cyclops ngoài bản đồ** ❓ | **Đoán** — video nói mỏ này chỉ HotA mới có; chưa mở trang nhà lính ngoài thành ra đối chiếu |
 | "trừ 25% movers" | **Hình phạt nước đi của đất Rough** ❓ | **Xác nhận cơ chế, chưa kiểm con số** — xem callout ở [[#👣 Gretchin, Tyraxor, Krellion — và cái bẫy địa hình khi gom quân nhiều thành\|phần địa hình]] |
 | "+1 speed trên đất của nó" | **Luật native terrain** | **Xác nhận** — *"+1 attack, +1 defense and +1 speed"* khi đánh trên đất gốc; đất gốc của Stronghold là **Rough** |
+
+## 1️⃣1️⃣ Fortress (Đầm Lầy) — Wyvern lên được ngày đầu, Gorgon làm đối phương ngại, tướng phép "ăn học đàng hoàng"
+
+> [!video] Nguồn
+> [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Đầm Lầy FORTRESS.](https://www.youtube.com/watch?v=ylEF4scll9c) · đăng 13/12/2022 · video 11/25 · dài **47:23** (độ dài và ngày đăng đọc từ trang xem ngày 20/10/2026)
+>
+> Chắt lọc từ phụ đề tự động tiếng Việt. Bản phụ đề có **ba đoạn chỉ còn nhạc nền, không có lời**: 15:03–15:59 (đầu phần Basilisk), 29:02–29:58 (giữa Drakon và Wystan), 34:00–34:57 (cuối Alkin, đầu Gerwulf). Ý của ba đoạn này **mất hẳn**, note không bù bằng trí nhớ. Tên tướng, tên quân, chỉ số và công thức đã đối chiếu `heroes.v.thelazy.net` ngày **20/10/2026**; xem [[#❓ Bảng giải mã phụ đề — video 11 (Fortress)|bảng giải mã]] để biết chỗ nào xác nhận, chỗ nào còn đoán.
+
+Video vẫn đi đúng ba phần như các clip trước: **công trình → quân → tướng**. Mở đầu, tác giả nhắc lại đây là cách chơi **cơ bản**, giống phải học từ lớp 1 rồi mới thi đại học. Cách chơi nâng cao thì mỗi người một kiểu, tuỳ tư duy của họ. Ví dụ với Castle: có người mở đường bằng Griffin, có người bằng Cavalier, có người chỉ dùng cung (0:00–1:04).
+
+### 🧪 Nhược điểm công trình của Fortress — Mage Guild cấp 3, và quân cấp 3–5 cần tài nguyên hiếm
+
+Hàng công trình đầu tiên giống mọi thành khác: Town Hall, Fort, Tavern, Blacksmith, Marketplace, Mage Guild (1:07–1:41).
+
+**Nhược điểm lớn nhất: Mage Guild chỉ lên tới cấp 3** (đã kiểm wiki 20/10/2026). Fortress và Stronghold là hai thành thiên về cơ bắp. Video coi đây là **chỗ cân bằng game, không phải thiếu sót**: tướng chiến Fortress đã quá mạnh, giả sử Tazar mà học sớm được phép hồi sinh thì "rất là bá đạo" (1:41–2:47). Ý này khớp với [[#🚫 Nhược điểm duy nhất của Stronghold — Mage Guild chỉ lên tới cấp 3|lập luận ở video 9]].
+
+Video cũng phản bác ngay một hiểu lầm: phép ít **không có nghĩa** tướng Fortress "vô học". Tướng chiến thì đúng là hơi vô học, còn tướng phép thì không. Phần tướng nói kỹ hơn (2:00–2:24).
+
+**Nhược điểm thứ hai:** quân cấp 2 đến cấp 5 cần nhiều tài nguyên hiếm hơn một số thành (2:47–3:42). Video tự cân lại ngay: mức đó chỉ **trung bình**. Nó đắt hơn những con chỉ cần gỗ, đá, vàng như Griffin của Castle hay Dwarf của Rampart. Nhưng nó rẻ hơn hẳn Mage của Tower hay Beholder của Dungeon. Chỗ nghẽn đáng kể nhất là nhà **Serpent Fly** ở cấp 3.
+
+| Nhà quân (kiểm 20/10/2026) | Xây | Nâng cấp |
+|---|---|---|
+| Gnoll Hut | 400 vàng + 10 gỗ | 1.000 vàng + 10 gỗ |
+| Lizard Den | 1.000 vàng + 5 gỗ | 1.000 vàng + 5 gỗ |
+| Serpent Fly Hive | 1.000 vàng + 5 gỗ + **2 Mercury + 2 Sulfur** | 1.000 vàng + 2 Mercury + 2 Sulfur |
+| Basilisk Pit | 2.000 vàng + 5 gỗ + 10 đá | 2.000 vàng + 5 gỗ + 5 đá |
+| Gorgon Lair | 2.500 vàng + 10 gỗ + 10 đá + 5 Mercury + 5 Sulfur | 2.000 vàng + 5 gỗ + 5 đá |
+| Wyvern Nest | **3.500 vàng + 15 gỗ** | 3.000 vàng + 10 gỗ + 10 Mercury |
+| Hydra Pond | **10.000 vàng** + 10 gỗ + 10 đá + 10 Sulfur | 15.000 vàng + 10 gỗ + 10 đá + 20 Sulfur |
+
+> [!info]- Ngoài nguồn — bảng giá lấy từ wiki, không phải từ video
+> Video chỉ đọc hai con số: Wyvern Nest và Hydra Pond. Các dòng còn lại lấy từ trang `Lizard_Den` trên wiki. Bảng ở đó bị dàn phẳng khi đọc, nên giá được ghép với nhà quân **theo thứ tự trên trang**. Chi tiết đáng giữ: trong ba nhà cấp 2–4, chỉ **Serpent Fly Hive** cần tài nguyên hiếm. Lizard Den và Basilisk Pit chỉ cần gỗ, đá.
+
+### 🛡️ Glyphs of Fear, Blood Obelisk, Cage of Warlords — thành thủ cộng thêm kiếm giáp
+
+Hàng công trình thứ ba có **ba công trình, nhưng xây tới bốn lần**. Video coi đây là ưu điểm lớn về công trình (3:50–4:49).
+
+| Công trình (kiểm 20/10/2026) | Giá | Tác dụng |
+|---|---|---|
+| **Glyphs of Fear** | 1.000 vàng | Tướng thủ thành **+2 kiếm** khi bị công thành |
+| **Blood Obelisk** | 1.000 vàng (cần Glyphs of Fear) | Tướng thủ thành **+2 giáp** khi bị công thành |
+| **Cage of Warlords** | 1.000 vàng | Tướng ghé thăm được **+1 giáp vĩnh viễn** |
+
+Video nhấn mạnh **Cage of Warlords**: chỉ 1.000 vàng mà tướng có thêm 1 giáp từ sớm. Với một thành chuyên thủ, giáp sớm giúp **bớt mất quân trong những ngày đầu mở đường** (4:34–4:49). Nó là bản đối xứng của [[#🏛️ Bốn công trình độc nhất của Stronghold — Hall of Valhalla, Escape Tunnel, Freelancer's Guild, Ballista Yard|Hall of Valhalla]] (+1 kiếm) ở Stronghold.
+
+### 🐕 Captain's Quarters — bức tường thịt Gnoll
+
+**Captain's Quarters** là nhà horde của Gnoll: 1.000 vàng, **+6 Gnoll/tuần** (đã kiểm wiki 20/10/2026) (4:52–5:54). Video đặt nó cạnh nhà horde quân cấp 1 của các thành khác, như Stronghold hay Dungeon. Với tướng chuyên luyện quân cấp 1, tuần đầu đã có một **bức tường thịt gần trăm con**.
+
+Gnoll của Fortress còn có lợi riêng: **giáp cao**. Nâng lên Gnoll Marauder thì giáp 6 (đã kiểm). Vào creature bank thì nó mang được nhiều quân về mà ít thiệt hại hơn quân cấp 1 thành khác (5:22–5:47).
+
+### 🐲 Wyvern Nest — quân cấp 6 lên được ngay ngày đầu
+
+Đây là lợi thế công trình lớn nhất, và nó quyết định cả hướng phát triển của thành (5:54–8:51).
+
+- **Wyvern Nest chỉ tốn 3.500 vàng + 15 gỗ** (đã kiểm). Video gọi đó là nhà quân cấp 6 **rẻ nhất trong các thành**, chỉ đắt hơn nhà Cavalier đã nâng của Castle một chút.
+- Ở HotA, nhà quân cấp 2 luôn có sẵn, nên **xây thẳng Wyvern Nest được**. Bản SoD thì phải xây nhà quân cấp 2 trước ❓ (6:09–6:33).
+- Gặp thêm một cục gỗ, hoặc chọn tài nguyên khởi điểm là gỗ đá, thì **lên Wyvern ngay ngày đầu tiên**. Video nói thành khác gần như không làm được điều này (6:50–7:47).
+
+Từ đó ra cách chơi chung của gần như mọi người chơi Fortress (7:21–7:38, 8:35–8:51):
+
+1. Xây Wyvern Nest, thêm **Cage of Warlords** để tướng có giáp.
+2. **Hai con Wyvern** là đủ đi mở đường ngay trong tuần đầu.
+
+**Quân cấp 7 cũng rẻ.** Hydra Pond **10.000 vàng** (đã kiểm), cộng 10 mỗi loại gỗ, đá và Sulfur. Video so: chỉ Tower rẻ hơn, với nhà Titan chưa nâng 5.000 vàng (đã kiểm) (7:55–8:26). Nhưng Fortress **ít dùng quân cấp 7**, vì đã có Wyvern từ rất sớm.
+
+> [!bom] So giá trong video có hai chỗ lệch wiki
+> - **Castle:** video nói nhà Cavalier "10 gỗ 3.000 vàng", con ngựa "20 gỗ 5.000". Wiki 20/10/2026 ghi Training Grounds **5.000 vàng + 20 gỗ**, nâng cấp **3.000 vàng + 10 gỗ**. Vậy "10 gỗ 3.000" là **giá nâng cấp**, không phải một nhà khác. So sánh "Wyvern Nest chỉ đắt hơn một chút" là so với giá nâng cấp đó.
+> - **Quân cấp 7:** video xếp Fortress cùng hàng "10.000 vàng" với Stronghold và một thành nghe ra "thành chìm lửa" ❓. Wiki ghi Behemoth Lair **10.000**, khớp. Nhưng Inferno (Forsaken Palace) là **15.000**, nên nếu "chìm lửa" là Inferno thì video nhầm.
+
+### 🌿 Đất Swamp — cái giá khi gom quân nhiều thành
+
+Bù cho phần xây dựng là một nhược điểm bên ngoài thành: đất gốc của Fortress là **Swamp**, loại đất **trừ nước đi rất nặng** (8:51–9:48).
+
+Video nói tướng cầm quân thành khác đi trên Swamp bị **trừ tới 75% nước đi**. Riêng tướng Cove thì không sao, vì cùng đất gốc. Hệ quả: Fortress, cũng như Tower, **không gom quân của hai ba tướng thành khác** về một tướng để mở đường được. Video gọi đây là chỗ thiệt thòi lớn nhất khi nói về di chuyển trên bản đồ.
+
+> [!info]- Ngoài nguồn — con số 75% khớp wiki
+> Trang `Swamp` (kiểm 20/10/2026) ghi Swamp tốn **175%** nước đi so với Grass. Đây là mức **nặng nhất** trong các loại đất đi được: Sand và Snow 150%, Rough và Wasteland 125%. Cove cũng có đất gốc là Swamp. Cơ chế miễn hình phạt khi toàn bộ quân là quân bản địa đã ghi ở [[#👣 Gretchin, Tyraxor, Krellion — và cái bẫy địa hình khi gom quân nhiều thành|callout địa hình của video 9]]. Ở đây "75%" của video khớp đúng phần dôi ra.
+
+### 🦎 Gnoll và Lizardman — quân hút sát thương, không phải quân chủ lực
+
+Quân Fortress **đa số thiên về thủ** (9:48–11:09).
+
+- **Gnoll** — kiếm 3, giáp 5, giáp cao hơn kiếm.
+- **Lizardman** — quân bắn cấp 2 lên giáp khá cao, nhưng video gọi nó là **khá yếu** so với cung cấp 2 của Castle. Xét chỉ số thì nó còn hơn Archer chưa nâng: máu 14–15 so với 10 của Archer. Nhưng Marksman **bắn hai lần**, nên xoá một tốp quân địch rất nhanh. Lizardman chỉ **rỉa máu** hỗ trợ cho đám Gnoll đông quân.
+
+Kết luận của video: hai quân này chủ yếu để **hút sát thương**, khả năng đánh khá yếu (10:53–11:09).
+
+| Chỉ số (kiểm 20/10/2026) | Gnoll | Gnoll Marauder | Lizardman | Lizard Warrior |
+|---|---|---|---|---|
+| Kiếm / giáp | 3 / 5 | 4 / **6** | 5 / 6 | 6 / 8 |
+| Sát thương · máu | 2–3 · 6 | 2–3 · 6 | 2–3 · 14 | 2–5 · **15** |
+| Speed | 4 | 5 | 4 | 5 |
+| Tăng quân / tuần | 12 (+6 với Captain's Quarters) | 12 (+6) | 9 | 9 |
+| Số lượt bắn | — | — | 12 | 24 |
+
+### 🪰 Dragon Fly — speed 13, Dispel cộng Weakness, mồi nhử chỉ chiếm một ô
+
+Video gọi Dragon Fly là **quân cấp 3 hữu ích nhất game** (11:09–14:58).
+
+**Lợi thế ngày thứ hai.** Ngày 1 mọi tướng đều đi theo quân chậm nhất có sẵn. Nếu xây được Serpent Fly ngay ngày đầu thì ngày 2 tướng Fortress có quân speed 9, đi được khoảng **1.900** điểm nước đi ❓, nhanh nhất mọi thành (11:09–12:12). Trên lý thuyết Fortress bị trừ nước đi, nhưng thực tế mấy ngày đầu nó lại chạy rất nhanh.
+
+**Hai phép sau mỗi lần cắn** (12:21–13:27):
+
+- **Dispel** — xoá mọi phép buff trên quân bị cắn.
+- **Weakness** — trừ **6 kiếm** của quân đó.
+
+**Cách dùng.** Giả sử đối phương được đi trước rồi buff Bless, Prayer... Đến lượt Fortress thì Dragon Fly, con nhanh nhất đội hình (speed 13, hơn cả Wyvern Monarch 11), bay lên **rửa sạch buff và trừ kiếm** quân chủ lực địch. Wyvern lao vào sau. Fortress vốn thủ cao, nên quân địch mất buff và mất kiếm thì đòn phản lên Wyvern nhẹ đi rất nhiều (13:27–14:17).
+
+**Chỉ chiếm một ô.** Royal Griffin cũng speed 9 nhưng chiếm hai ô, nên khó giữ khoảng cách với quân địch. Dragon Fly bay mà chỉ chiếm một ô, nên **dễ chọn chỗ đứng để nhử quân địch** vào tầm bắn hơn (14:26–14:58).
+
+| Chỉ số (kiểm 20/10/2026) | Serpent Fly | Dragon Fly |
+|---|---|---|
+| Kiếm / giáp | 7 / 9 | 8 / 10 |
+| Sát thương · máu | 2–5 · 20 | 2–5 · 20 |
+| Speed | 9 | **13** |
+| Tăng quân / tuần | 8 | 8 |
+| Kỹ năng | Bay · **Dispel** (Advanced) sau khi đánh | Bay · Dispel · **Weakness** (Advanced, −6 kiếm, 3 lượt) |
+| Giá | 220 vàng | 240 vàng |
+
+> [!info]- Ngoài nguồn — Weakness có trước đòn phản hay không thì wiki không nói
+> Video khẳng định hai phép "diễn ra trước khi nó phản đòn" (13:02–13:10). Wiki chỉ ghi Dragon Fly niệm Dispel và Weakness **sau khi tấn công** (Weakness bậc Advanced = −6 kiếm, kéo dài 3 lượt), **không nói** thứ tự so với đòn phản. Chỗ này để ❓ cho tới khi mở game thử.
+
+### 🦖 Basilisk — phần mở đầu bị mất trong phụ đề
+
+Đoạn 15:03–15:59 chỉ còn nhạc nền. Phần nghe được bắt đầu giữa câu: Basilisk ở Fortress **"thoải mái" hơn quân cấp 4 các thành khác** (15:59–16:16). Mage của Tower hay Beholder của Dungeon thường là con bị đánh đầu tiên. Basilisk thì an toàn hơn, vì đối phương còn bận lo một con đáng sợ hơn: Gorgon.
+
+| Chỉ số (kiểm 20/10/2026) | Basilisk | Greater Basilisk |
+|---|---|---|
+| Kiếm / giáp | 11 / 11 | 12 / 12 |
+| Sát thương · máu | 6–10 · 35 | 6–10 · 40 |
+| Speed | 5 | 7 |
+| Kỹ năng | **Hoá đá** — 20% xác suất, 3 lượt | như bản gốc |
+| Giá | 325 vàng | 400 vàng |
+
+### 🐂 Mighty Gorgon — Death Stare, và vì sao đối phương phải đánh nó trước
+
+Video gọi Gorgon là **quân "nổi loạn" bậc nhất**, không chỉ của Fortress mà của cả game (16:16–19:57).
+
+**Death Stare** — quân cấp 7 chủ lực nào của đối phương cũng ngại lao vào đánh nó, và buộc phải tách nhỏ quân ra đánh hết phản đòn trước (16:40–16:56). Chỉ **quân không có sự sống** như quân Necropolis mới không sợ (18:09–18:22).
+
+**Speed thấp nhưng vẫn kịp cắn.** Nâng rồi chỉ speed 6, nhưng chiếm hai ô. Video tính ra nó với tới gần hết chiều dài bãi chiến trong hai lượt. Không đánh nó ngay lượt đầu thì nó có thể lao lên và "thổi chết" một cục quân chủ lực ❓ (18:30–18:53). Vì thế Gorgon thường là con **hút đòn nhiều nhất**, và hợp lý là nó có **giáp rất cao** (19:00–19:16).
+
+| Chỉ số (kiểm 20/10/2026) | Gorgon | Mighty Gorgon |
+|---|---|---|
+| Kiếm / giáp | 10 / 14 | 11 / **16** |
+| Sát thương · máu | 12–16 · **70** | 12–16 · **70** |
+| Speed | 5 | 6 |
+| Tăng quân / tuần | 3 | 3 |
+| Kỹ năng | — | **Death Stare** |
+| Giá | 525 vàng | 600 vàng |
+
+Ba so sánh video đưa ra, cả ba đã kiểm (19:00–19:41):
+
+- **Giáp 16** — cao hơn cả một số quân cấp 6.
+- **Máu 70** — cao nhất trong quân cấp 5, bằng Wyvern.
+- **Sát thương 12–16** — trong quân cấp 5 chỉ thua Minotaur King (12–20).
+
+> [!bom] Death Stare không "cộng gộp" như video giải thích — nhưng kết quả video đọc thì đúng
+> Video nói mỗi Gorgon có 10% xác suất, **10 con cộng gộp thành chắc chắn giết 1 con**, và 11 con giết được 2 (17:06–17:53). Đối chiếu wiki 20/10/2026, trang `Mighty_Gorgon`:
+>
+> - *"This chance is 10% per Mighty Gorgon in the stack, and is not cumulative."*
+> - *"Death Stare cannot kill more enemies than are equal to 10% of the number of Mighty Gorgons in a stack (rounded up)."*
+>
+> Vậy 10 con là 100% xác suất kích hoạt, và trần số quân bị giết **làm tròn lên**: 1–10 con giết tối đa 1, **11–20 con giết tối đa 2**. Hai con số của video **khớp**, chỉ cách giải thích "con thứ 11 cộng gộp với 100% của 10 con trước" là lời của video. Đúng như video nói, nó giết được **bất kể quân gì có sự sống**, kể cả rồng cấp 7. Miễn nhiễm: undead, golem, gargoyle, elemental và quân máy của HotA.
+
+### 🐉 Wyvern Monarch — quân chủ lực quen thuộc nhất ở 8XM8, và chất độc 10%
+
+Với người chơi Việt Nam ở 8XM8, Wyvern **gần như luôn là quân chủ lực**. Wyvern cũng là con cày được nhiều nhất ở các "mỏ vịt" ven đường (20:04–20:50). Video nói ở HotA thì áp lực đó đã được chia bớt sang Titan, có khi Angel.
+
+**Speed 11, gần như luôn đi trước.** Đa số quân cấp 6 có speed 9, nên Wyvern Monarch **luôn được cắn trước**. Sát thương nó hơi thấp so với quân cấp 6 khác, nhưng đi trước là một lợi thế thật (20:58–21:23).
+
+**Chất độc** (21:23–22:43). Mỗi lần độc ăn thì quân bị cắn **mất 10% máu tối đa**, và 10% đó **luôn tính theo máu gốc, không tính theo máu đã bị trừ**. Video lấy ví dụ một quân 300 máu: mỗi lần độc là −30, không phải −30 rồi −27. Tách Wyvern thành nhiều tốp nhỏ thì cắn đủ lần để chạm **mức tối đa 50%**.
+
+**Combo với Bone Dragon.** Độc **cộng dồn được với Aging** (phép lão hoá, "đồng hồ cát") của Ghost Dragon. Ví dụ của video: quân 300 máu bị rồng xương cắn còn 150, rồi 5 tốp Wyvern cắn đều thì xuống chỉ còn 75 (22:13–22:43). Tách Wyvern ra từng con để cắn trước, rồi quân chủ lực mới vào đánh thì nhanh hơn rất nhiều (22:43–22:59).
+
+| Chỉ số (kiểm 20/10/2026) | Wyvern | Wyvern Monarch |
+|---|---|---|
+| Kiếm / giáp | 14 / 14 | 14 / 14 |
+| Sát thương · máu | 14–18 · 70 | 18–22 · 70 |
+| Speed | 7 | **11** |
+| Tăng quân / tuần | 2 | 2 |
+| Kỹ năng | Bay | Bay · **Poison** |
+| Giá | 800 vàng | 1.100 vàng |
+
+> [!info]- Ngoài nguồn — luật Poison theo wiki, và chỗ "speed cao thứ hai"
+> Trang `Poison` (kiểm 20/10/2026) ghi: **30% xác suất**, ăn sau đòn đánh và trước khi quân bị cắn phản đòn, mỗi lượt độc một lần. Máu tối đa giảm **10% mỗi lượt trong 3 lượt**, *"always calculated from the creature stack's statistical maximum health"*, và *"the maximum health will decrease only up to 50%"*. Chỉ **Cure** giải được. Kết hợp với Aging thì máu *"could potentially be quartered"*, tức còn một phần tư, khớp đúng ví dụ 300 → 75 của video.
+>
+> Video nói Wyvern Monarch có speed cao **thứ hai** trong quân cấp 6, chỉ sau "thần đèn" speed 13 ❓ (20:58). Wiki: Genie/Master Genie là **quân cấp 5**, còn con cấp 6 duy nhất nhanh hơn Wyvern Monarch là **Efreet Sultan (13)**. Scorpicore ngang 11. Ý "thứ hai" đúng, cái tên thì có thể video nói nhầm hoặc phụ đề nghe nhầm.
+
+### 🐍 Chaos Hydra — đánh mọi ô quanh mình, nhưng yếu nhất trong quân cấp 7
+
+Hydra **đánh tất cả quân địch đứng quanh nó**, giống Queen ❓. Nhưng Queen chiếm một ô nên chỉ đánh được tối đa 5–6 quân. Hydra chiếm hai ô nên với tới **6–7 quân**, bị vây thì tới 8 ô (23:08–23:49).
+
+Thực tế thì Hydra lại là con **ít người lên nhất**: chậm, sát thương thấp, kiếm giáp 16/18 chỉ ngang vài quân cấp 6. Video nói nó chỉ để **hút sát thương** cho Wyvern và Gorgon đánh, và gọi nó là **gần như yếu nhất trong mọi quân cấp 7** (23:49–24:21).
+
+| Chỉ số (kiểm 20/10/2026) | Hydra | Chaos Hydra |
+|---|---|---|
+| Kiếm / giáp | 16 / 18 | 18 / 20 |
+| Sát thương · máu | 25–45 · 175 | 25–45 · 250 |
+| Speed | 5 | 7 |
+| Kỹ năng | Đánh mọi quân kề bên · **không bị phản đòn** | như bản gốc |
+| Giá | 2.200 vàng | 3.500 vàng + 1 Sulfur |
+
+### 🧭 Tóm lại cách dùng quân Fortress
+
+Video nói Fortress có **bốn quân nổi tiếng**, từ cấp 3 đến cấp 6: **Dragon Fly · Basilisk · Gorgon · Wyvern**. Thành khác thường chỉ có hai, ba con thật sự hữu ích (24:21–24:46).
+
+Cách dùng trong giai đoạn đầu (25:33–26:05):
+
+1. **Lên thẳng Wyvern** để mở đường.
+2. **Dragon Fly đánh trước**, rửa buff và hút hết phản đòn của quân địch, đồng thời làm mồi nhử.
+3. **Wyvern lao vào** đánh chính.
+4. **Gnoll và Lizardman không tách ra**, gom thành cục để hút sát thương cùng các quân khoẻ hơn. Chỉ tách Dragon Fly.
+
+> [!bom] Đừng dùng Gnoll và Lizardman làm quân mở đường
+> Speed thấp, sát thương bé, kiếm thấp. Dùng hai con này mở đường thì khó hơn hẳn các thành có quân cấp 1–2 đánh tốt. Ngoại lệ duy nhất video nhắc là khi cầm **tướng chuyên luyện Gnoll** (24:54–25:24).
+
+### ⚔️ Tướng chiến Fortress — Bron, Drakon, Wystan
+
+Trước phần tướng, tác giả xin lỗi vì nói liền cả tiếng nên hơi đau họng. Tác giả nói chỉ nói những ý chính, có thiếu sót thì mời góp ý ở phần bình luận (26:14–26:46). Video gọi Fortress là **một trong những thành có dàn tướng khủng, dày đặc nhất game** (26:46).
+
+**Điểm chung của tướng chiến Fortress** (đã kiểm wiki 20/10/2026): cả tám Beastmaster đều khởi điểm **0 kiếm / 4 giáp / 1 power / 1 knowledge**, và đều có **Armorer**. Armorer giảm sát thương nhận vào 5/10/15% theo bậc (27:13–27:27). Đó là lý do video nói tướng chiến Fortress mở đường mấy ngày đầu rất an toàn.
+
+**Nhược điểm chung: lên kỹ năng khá bất ổn.** Fortress có thể ra Archery, Ballistics, và cả mấy kỹ năng điều khiển ba cỗ máy chiến đấu, nên khó giữ một tướng có bộ kỹ năng đẹp (28:05–28:32). Vì thế tướng **có sẵn hai kỹ năng tốt từ đầu** thì đỡ đau đầu về sau.
+
+| Tướng | Chuyên (đã kiểm) | Kỹ năng đầu (đã kiểm) | Video đánh giá |
+|---|---|---|---|
+| **Bron** | Basilisks | Armorer + **Interference** (HotA; SoD là Resistance) | Có quân cấp 4 ngay ngày đầu ❓, một trong những quân khởi điểm mạnh nhất. Interference hạ power tướng phép đối phương. Có sẵn hai kỹ năng tốt nên không phải khắt khe chọn kỹ năng về sau (26:54–28:39) |
+| **Drakon** | Gnolls | Armorer + Leadership | Tướng luyện quân cấp 1, cùng kiểu với Ignatius của Inferno và Shakti của Dungeon (28:39–28:54). Phần còn lại rơi vào đoạn phụ đề mất |
+| **Wystan** | Lizardmen | Armorer + **Archery** | Chỉ số ổn, nhưng Fortress ít dùng Lizardman, nên chuyên không được phát huy. Tướng luyện quân bắn cấp 2 cần nhất là **kiếm cao** để bắn đau, mà Lizardman thiếu đúng chỗ đó. Video xếp **yếu hơn một chút** (29:58–30:31) |
+
+> [!info]- Ngoài nguồn — Interference là kỹ năng chỉ HotA có
+> Trang `Interference` (kiểm 20/10/2026): *"lowers the power skill of the enemy hero by 10/20/30%"*. HotA cấm Resistance mặc định từ bản 1.6.0, và tướng nào vốn có sẵn Resistance thì được đổi sang Interference. Bron là một trong số đó. Video đọc "120 và 30%" (27:43), nghe không rõ, nhưng mức 30% ở Expert thì khớp.
+
+### 🛡️ Tazar — tướng thủ khoẻ nhất game, và phép tính Armorer 30%
+
+Video gọi Tazar là **một trong những tướng "bạo loạn" nhất game**, và là **một trong những tướng thủ khoẻ nhất** (30:31–32:21).
+
+**Chuyên Armorer, cộng 5% mỗi level** (đã kiểm: *"Receives a 5% per level bonus to Armorer"*). Phép tính của video khớp công thức wiki `A × (1 + 0,05 × level)`:
+
+- Expert Armorer giảm **15%** sát thương.
+- Tazar level 20 → chuyên cộng thêm **100%** vào chính con số đó.
+- 15% × 2 = **30%** sát thương nhận vào bị cắt (32:03–32:21).
+
+Tazar khởi điểm với sẵn **Advanced Armorer** (đã kiểm).
+
+**Nhưng video cũng hạ nhiệt kỳ vọng** (30:39–31:26):
+
+- Nhiều người tưởng Tazar quá khủng. Thực ra nếu không tính đồ thì Tazar chỉ hơn mấy tướng thủ khác **vài điểm giáp** ❓.
+- Tazar **chỉ thật sự mạnh từ khoảng level 40–50**. Đầu game nó vẫn yếu hơn một chút so với Crag Hack và "Orrin" ❓.
+
+**Thủ an toàn hơn công.** Crag Hack đánh khoẻ, nhưng giáp yếu nên mấy ngày đầu mở đường **rơi quân nhiều hơn**. Tazar giữ quân bền hơn, đánh lâu hơn (31:34–31:48). Video 9 cũng xếp [[#🥇 Crag Hack — tướng chiến mạnh nhất game theo video, và phép tính 75% Offense|Crag Hack và Tazar cùng hàng]].
+
+### 🗡️ Alkin, Gerwulf, Broghild — và Korbac chỉ được nhắc một câu
+
+| Tướng | Chuyên (đã kiểm) | Kỹ năng đầu (đã kiểm) | Video đánh giá |
+|---|---|---|---|
+| **Alkin** | Gorgons | Armorer + **Offense** | Tướng duy nhất của Heroes 3 **xuất phát với cả kỹ năng kiếm lẫn giáp**. Có sẵn hai thứ đó thì chỉ cần tìm kỹ năng hỗ trợ. Về lâu dài thua tướng chuyên như Crag Hack hay Tazar, nhưng **chắc chắn có kiếm giáp**, còn tướng khác đen thì có khi không lên được (32:21–34:00) |
+| **Gerwulf** ❓ | Ballista | Armorer + Artillery | Phần đầu rơi vào đoạn phụ đề mất. Phần nghe được: Ballista **bắn rất đau** đầu game, tuần đầu đụng Crag Hack mà chăm như nhau thì Crag Hack "vẫn khóc". Nhưng Ballista **chỉ có 250 máu**, nên về sau hết giá trị (34:57–35:14) |
+| **Broghild** | Wyverns | Armorer + **Scouting** | Video xếp **hàng đầu game**, dù không bằng Crag Hack hay Tazar. Fortress lên Wyvern rất sớm, cộng chuyên tăng speed và kiếm giáp cho Wyvern, thì cày Wyvern nhanh hơn tướng khác (35:14–36:19) |
+| **Korbac** | Serpent Flies | Armorer + Pathfinding | Chỉ được nhắc trong câu tổng kết: **yếu hơn một chút**, vì Dragon Fly đa số chỉ làm chim mồi (36:19–36:35) |
+
+**Scouting ở HotA mạnh hơn SoD** — video nhắc lại ý đã nói ở [[#⚡ Thunderbird — quân mở đường quen thuộc nhất của Stronghold|đoạn Shiva của video 9]]. Ở SoD người ta xác nhận đường mở rất sớm, nên Scouting ở tướng chính là phế một ô kỹ năng. Còn với Fortress, lên Wyvern sớm, mở đường sớm cộng Scouting thì Broghild tìm Wyvern để cày nhanh hơn (35:47–36:10). Wiki (kiểm 20/10/2026) ghi bán kính Scouting: SoD **+1/2/3**, HotA **+1/3/5**.
+
+Video chốt: tướng chiến Fortress **gần như con nào cũng mạnh**, chỉ Korbac và Wystan kém hơn một chút. Còn lại đều ổn định, đánh khá mạnh trong những ngày đầu (36:19–36:35).
+
+### 🔥 Tướng chiến không học được Fire — nhưng tướng phép Fortress "ăn học đàng hoàng"
+
+**Tướng chiến Fortress không học được hệ Fire** (36:35–36:57). Video nói hai thành được thiết kế **ngược nhau**: tướng chiến Stronghold học được Fire mà không học được Water, còn tướng chiến Fortress học được Water mà không học được Fire. Đã kiểm wiki 20/10/2026: Beastmaster có xác suất học **Fire Magic = 0**, Barbarian có **Water Magic = 0**.
+
+**Tướng phép thì ngược lại hẳn.** Video nói Fortress có một trong những dàn tướng phép mạnh nhất game. Chỉ số lên power và knowledge rất cao, video nói chỉ thua Dungeon (37:05–37:21).
+
+| Lớp (kiểm 20/10/2026) | Khởi điểm (kiếm/giáp/power/knowledge) | Xác suất lên level 2–9 | Xác suất lên level 10+ |
+|---|---|---|---|
+| **Witch** (Fortress) | 0 / 1 / 2 / 2 | 5 / 15 / **40 / 40** | 20 / 20 / 30 / 30 |
+| Warlock (Dungeon) — để so | 0 / 0 / 3 / 2 | 10 / 10 / **50 / 30** | 20 / 20 / 30 / 30 |
+
+> [!info]- Ngoài nguồn — "chỉ thua Dungeon" nghĩa là gì theo bảng trên
+> Tổng xác suất lên power + knowledge ở level 2–9 của Witch và Warlock **bằng nhau (80%)**. Warlock dồn nhiều hơn vào power (50%), Witch chia đều. Vậy "chỉ thua Dungeon" đúng ở chỉ số **power**, còn knowledge thì Witch lên nhiều hơn.
+
+### 🔮 Tướng phép Fortress — Mirlanda và Rosic
+
+| Tướng | Chuyên (đã kiểm) | Kỹ năng đầu (đã kiểm) | Video đánh giá |
+|---|---|---|---|
+| **Mirlanda** | Weakness | Advanced Wisdom · phép **Weakness** | Với thành chuyên thủ, giảm kiếm đối phương rồi đánh cận chiến mà không lo mất nhiều quân thì "khá ổn". Kỹ năng không quá mạnh, nhưng hợp Fortress (37:32–38:02) |
+| **Rosic** | Mysticism | Wisdom + Mysticism · phép **Magic Arrow** | SoD thì trung bình, HotA thì **rất mạnh**: hồi mana liên tục, dùng phép buff được nhiều lần mỗi ngày. Video gọi nó là **một trong những tướng mở đầu game mạnh nhất** (38:02–39:21) |
+
+> [!bom] Mirlanda — video đọc con số của SoD
+> Video nói Weakness của Mirlanda trừ thêm **3 / 2 / 1** cho quân cấp 1–2 / 3–4 / 5–6 (37:39). Wiki 20/10/2026 ghi đó là **bản SoD**. Ở **HotA** chuyên này đổi chiều: **+4 / +6 / +8 / +10** cho quân cấp 1–2 / 3–4 / 5–6 / 7. Tức ở HotA, Mirlanda **càng mạnh khi đánh quân cấp cao**, ngược hẳn với bản cũ.
+
+> [!bom] Rosic — chỗ HotA đổi Mysticism mà video nói thì ngược wiki
+> Video nói Mysticism ở SoD chỉ hồi **2 / 3 / 4** mana mỗi ngày, còn **HotA hồi tới 15 mana/ngày**. Cộng chuyên 5%/level của Rosic thì một ngày hồi 15–20 mana, đủ niệm 3–4 lần một phép buff (38:10–39:04). Đối chiếu wiki 20/10/2026, trang `Mysticism` ghi **ngược lại**:
+>
+> | Bậc | SoD | HotA |
+> |---|---|---|
+> | Basic / Advanced / Expert | **10 / 20 / 30% mana tối đa** mỗi ngày (tối thiểu 5 / 10 / 15) | **2 / 3 / 4** mana mỗi ngày |
+>
+> Hai nguồn **trái nhau hoàn toàn**, và nhãn phiên bản trên wiki đọc qua bản dàn phẳng của trang, nên chưa chốt được bên nào đúng ❓. Phải mở game HotA ra xem dòng mô tả Mysticism.
+>
+> Video cũng nói Rosic **có sẵn một phép buff** ngay ngày đầu, phụ đề nghe ra "tép set cong" ❓. Wiki ghi phép khởi điểm của Rosic là **Magic Arrow**, không phải phép buff, nên chỗ này cũng chưa khớp.
+
+### 📈 Kinkeria — tướng phép lên chỉ số nhanh nhất game
+
+Kinkeria là tướng **chuyên Learning**, có sẵn **Wisdom + Learning** (đã kiểm). Nhìn thì tầm thường, nhưng video gọi nó là **một trong những tướng "văn võ song toàn" nhất game** (39:21–41:36).
+
+Lập luận của video (39:36–40:55):
+
+- Witch lên power và knowledge với xác suất cao (40% mỗi thứ ở level 2–9, 30% từ level 10). Phần này khớp bảng lớp Witch ở trên.
+- Kinkeria nhận nhiều kinh nghiệm hơn tướng khác, nên **cùng thời gian thì lên nhiều level hơn**, kéo theo chỉ số lên nhanh hơn.
+- Kết luận: kiếm giáp gần bằng một tướng thuần chiến, còn power thì video **"khẳng định" cao hơn cả tướng Dungeon**, trừ những tướng phép đỉnh nhất.
+
+Video tự thêm một câu dè dặt: tác giả **không dám khẳng định** Kinkeria mạnh hay không (41:03).
+
+> [!info]- Ngoài nguồn — con số Learning, và chỗ hai trang wiki không khớp
+> Video nói Kinkeria nhận thêm khoảng **30% kinh nghiệm** (40:00), và bài tính phần trăm chỉ số sau đó vỡ hẳn trong phụ đề ❓. Wiki 20/10/2026:
+>
+> - Trang `Learning`: SoD **+5 / 10 / 15%**; HotA **+20 / 40 / 60%**, và từ bản 1.7.2 học Learning được tặng thêm 1 / 2 / 3 level.
+> - Chuyên Kinkeria: **+5% mỗi level** vào Learning. Nhưng ví dụ trên chính trang Kinkeria lại dùng mức **25 / 50 / 75%**, không khớp trang `Learning` ❓.
+> - Kinkeria là tướng **chỉ HotA có**.
+
+### 🩹 Verdish, Merist, Styg, Andra, Tiva
+
+| Tướng | Chuyên (đã kiểm) | Kỹ năng đầu (đã kiểm) | Video đánh giá |
+|---|---|---|---|
+| **Verdish** | First Aid | Wisdom + First Aid | Video xếp vào nhóm **tướng phế**: chuyên chỉ có tác dụng đầu game. Nhưng ghép với Wyvern 70 máu tuần đầu thì lều hồi máu cho Wyvern, đánh bao nhiêu hồi bấy nhiêu, nên Wyvern rất bền. Sang tuần 2 thì hết dùng được (41:36–42:40) |
+| **Merist** | Stone Skin | Wisdom + **Learning** · phép **Stone Skin** | Với thành thiên về thủ thì là con "rất hay" nếu lên Earth sớm, cộng Learning. Mạnh nhất với **quân cấp 1** như Gnoll ❓ (42:40–43:29) |
+| **Styg** | **Sorcery** | Wisdom + Sorcery | Tướng luyện sức mạnh phép công, video nói chỉ thua một hai tướng khác ❓. Mạnh với phép sát thương diện rộng. Dùng được ở mọi kiểu chơi: map ngẫu nhiên, campaign, PvP (43:29–44:18) |
+| **Andra** | Intelligence | Wisdom + Intelligence · phép Dispel | Lượng mana "rất kinh khủng", video nói dùng rất nhiều, là tướng "khá ổn" (44:44–45:08) |
+| **Tiva** | Eagle Eye | Wisdom + Eagle Eye · phép Stone Skin | **Phế nhất** thành, còn phế hơn Verdish, vì Verdish ít ra còn dùng lều cho Wyvern. Chỉ phế ở map ngẫu nhiên và PvP. Trong campaign thì lại hữu ích ❓ (45:08–45:39) |
+
+> [!info]- Ngoài nguồn — Merist ở HotA mạnh nhất với quân cấp thấp, đúng như video
+> Video nói Stone Skin của Merist cộng tới "9 thủ" cho quân cấp 1, hơn hẳn các quân khác ❓ (43:14–43:29). Wiki 20/10/2026 ghi chuyên này ở **HotA** cộng thêm **+10 / +8 / +6 / +4** giáp cho quân cấp 1–2 / 3–4 / 5–6 / 7. **SoD** chỉ +3 / +2 / +1. Wiki còn ghi thêm level của tướng **không ảnh hưởng**, dù dòng mô tả trong game nói có. Hướng "càng cấp thấp càng được nhiều" của video là đúng, con số 9 thì chưa khớp.
+
+Video kết đoạn này bằng một câu chặn hiểu lầm: người ta gọi Fortress là thành "vô học" chỉ vì tướng chiến nổi tiếng quá. Thực ra **với tướng Sorcery (Styg) và Intelligence (Andra)**, Fortress là một trong những thành "ăn học đàng hoàng" nhất (44:18–44:44).
+
+### 🏁 Chốt — Fortress ổn áp nhất về tướng
+
+Video tự tổng kết (45:39–47:23):
+
+- **Tướng chiến** — "rất là chiến", một trong những dàn cơ bắp nhất game. Nhưng là **cơ bắp khôn**: thiên về thủ nên vẫn an toàn hơn Stronghold, thành mà video nói còn "vô học" hơn.
+- **Tướng phép** — "ăn học đàng hoàng", gần như không có hạn chế nào. Power chỉ thua tướng Dungeon. Tướng phép Stronghold mới thật sự kém.
+- **Nhược điểm duy nhất của tướng** — tướng chiến không học được Fire. Các hệ khác đều học được.
+
+Video gọi Fortress là **một trong những thành ổn áp nhất trong tất cả các thành**, xét về tướng. Lời cuối của tác giả: clip còn nhiều thiếu sót, nhưng hy vọng những điều cơ bản này giúp người xem chọn thành, chọn tướng, phát triển quân (47:06–47:23).
+
+> [!video] Những chỗ còn treo sau video 11
+> - **Ba đoạn phụ đề mất lời** — 15:03–15:59 (Basilisk), 29:02–29:58 (Drakon → Wystan), 34:00–34:57 (Alkin → Gerwulf). Muốn biết thì phải xem lại đúng ba đoạn đó.
+> - **Mysticism ở SoD và HotA** ❓ — video và wiki nói ngược nhau hoàn toàn. Phải mở game ra xem.
+> - **Phép khởi điểm của Rosic** ❓ — video nói một phép buff, wiki ghi Magic Arrow.
+> - **Wyvern Nest ở SoD có cần nhà quân cấp 2 không** ❓ — wiki không ghi cây công trình.
+> - **Weakness của Dragon Fly có trước đòn phản không** ❓ — wiki không nói.
+> - **"Thành chìm lửa" 10.000 vàng** ❓ — nếu là Inferno thì lệch wiki (15.000).
+> - **Learning của Kinkeria** ❓ — trang Learning và trang Kinkeria dùng hai bộ con số khác nhau.
+> - **Bron có quân cấp 4 ngày đầu, Tazar thua "Orrin" đầu game, 1.900 nước đi ngày 2** ❓ — video nói, chưa kiểm được.
+
+### 🎥 Mốc thời gian — video 11
+
+| Mốc | Nội dung |
+|---|---|
+| 0:00 | Mở đầu — đây là cách chơi cơ bản, nâng cao thì mỗi người một kiểu |
+| 1:04 | Vào thành Đầm Lầy — Fortress |
+| 1:41 | **Nhược điểm 1: Mage Guild chỉ cấp 3**, để cân bằng với tướng chiến quá mạnh |
+| 2:47 | Nhược điểm 2: quân cấp 2–5 cần tài nguyên hiếm, nhưng chỉ ở mức trung bình |
+| 3:50 | **Glyphs of Fear, Blood Obelisk** — tướng thủ thành +2 kiếm, +2 giáp |
+| 4:34 | **Cage of Warlords** — 1.000 vàng, +1 giáp |
+| 4:52 | **Captain's Quarters** — nhà horde Gnoll |
+| 5:54 | **Wyvern Nest** — 3.500 vàng + 15 gỗ, rẻ nhất trong quân cấp 6 |
+| 6:50 | Lên Wyvern ngay ngày đầu tiên |
+| 7:21 | Cách chơi chung: Wyvern + Cage of Warlords, mở đường tuần 1 |
+| 7:55 | Quân cấp 7 cũng rẻ — 10.000 vàng |
+| 8:51 | Đất Swamp trừ 75% nước đi khi cầm quân thành khác |
+| 9:48 | Bắt đầu phần quân — đa số thiên về thủ |
+| 10:07 | Lizardman yếu hơn Marksman vì không bắn hai lần |
+| 11:09 | **Dragon Fly** — speed 9 ngày đầu, 1.900 nước đi ngày 2 |
+| 12:21 | Dispel + Weakness sau mỗi lần cắn |
+| 13:27 | Cách dùng: Dragon Fly rửa buff, Wyvern lao vào |
+| 14:26 | Dragon Fly chiếm một ô — mồi nhử tốt hơn Royal Griffin |
+| 15:03 | *Phụ đề mất lời tới 15:59* |
+| 15:59 | **Basilisk** an toàn hơn quân cấp 4 thành khác |
+| 16:16 | **Gorgon** — quân "nổi loạn" bậc nhất game |
+| 16:56 | Death Stare: 10% mỗi con, 10 con chắc chắn giết 1 |
+| 17:36 | 11 con giết được 2 |
+| 18:09 | Chỉ quân không có sự sống mới không sợ |
+| 18:30 | Speed 6 nhưng chiếm hai ô — vì sao phải đánh nó trước |
+| 19:00 | Giáp 16, máu 70, sát thương chỉ thua Minotaur |
+| 20:04 | **Wyvern** — quân chủ lực quen thuộc nhất ở 8XM8 |
+| 20:58 | Speed 11, luôn cắn trước quân cấp 6 khác |
+| 21:23 | **Poison** — 10% máu gốc mỗi lần, tối đa 50% |
+| 22:13 | Combo Poison với Aging của rồng xương |
+| 23:08 | **Hydra** — đánh mọi quân kề bên |
+| 23:49 | Nhưng là quân cấp 7 gần như yếu nhất |
+| 24:21 | Tổng kết: bốn quân nổi tiếng từ cấp 3 đến cấp 6 |
+| 24:54 | Đừng mở đường bằng Gnoll và Lizardman |
+| 25:33 | Cách dùng quân giai đoạn đầu |
+| 26:14 | Tác giả xin lỗi vì đau họng, mời góp ý |
+| 26:46 | Bắt đầu phần tướng — dàn tướng khủng nhất game |
+| 26:54 | **Bron** — chuyên Basilisks, Interference |
+| 28:05 | Nhược điểm chung: lên kỹ năng bất ổn |
+| 28:39 | **Drakon** — chuyên Gnolls |
+| 29:02 | *Phụ đề mất lời tới 29:58* |
+| 29:58 | **Wystan** — chuyên Lizardmen, yếu hơn một chút |
+| 30:31 | **Tazar** — tướng thủ khoẻ nhất game |
+| 31:18 | Tazar chỉ thật sự mạnh từ level 40–50 |
+| 31:34 | Thủ an toàn hơn công — Tazar so với Crag Hack |
+| 31:56 | Phép tính Armorer 15% → 30% ở level 20 |
+| 32:21 | **Alkin** — chuyên Gorgons, có sẵn cả kiếm lẫn giáp |
+| 34:00 | *Phụ đề mất lời tới 34:57* |
+| 34:57 | **Gerwulf** ❓ — Ballista đau đầu game, 250 máu |
+| 35:14 | **Broghild** — chuyên Wyverns, Scouting |
+| 36:19 | Tướng chiến Fortress con nào cũng mạnh, trừ Korbac và Wystan |
+| 36:35 | Tướng chiến không học được Fire — ngược với Stronghold |
+| 37:05 | Tướng phép Fortress mạnh, power chỉ thua Dungeon |
+| 37:32 | **Mirlanda** — chuyên Weakness |
+| 38:02 | **Rosic** — chuyên Mysticism, mạnh ở HotA |
+| 39:21 | **Kinkeria** — chuyên Learning, văn võ song toàn |
+| 41:36 | **Verdish** — First Aid, lều hồi máu cho Wyvern |
+| 42:40 | **Merist** — Stone Skin |
+| 43:29 | **Styg** — Sorcery |
+| 44:18 | Fortress không hề "vô học" |
+| 44:44 | **Andra** — Intelligence |
+| 45:08 | **Tiva** — Eagle Eye, phế nhất thành |
+| 45:39 | Chốt — Fortress ổn áp nhất về tướng |
+| 46:19 | Nhược điểm duy nhất của tướng: tướng chiến không học Fire |
+| 47:06 | Lời cuối |
+
+### ❓ Bảng giải mã phụ đề — video 11 (Fortress)
+
+> [!tip] Phiên này mở được wiki, nên bảng này có cột "Xác nhận" thật
+> Toàn bộ **18 tướng Fortress**, tên quân, tên công trình, công thức và chỉ số đã đối chiếu `heroes.v.thelazy.net` ngày **20/10/2026**. Wiki liệt kê 8 Beastmaster và 10 Witch. Video không nhắc Voy và Adrienne. Chỗ nào còn ❓ là chỗ thật sự chưa kiểm được.
+
+**Tên tướng.** Cũng như video 9, chuyên môn video mô tả khớp một-một với hồ sơ tướng trên wiki, nên chốt được gần hết:
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "brow" · "brom" · "bà Silic" (chuyên) | **Bron** / Basilisks | **Xác nhận** — chuyên Basilisks, có Armorer + Interference (HotA) |
+| "con gà con" | **Drakon** ❓ | **Đoán** — tướng Fortress duy nhất chuyên quân cấp 1 (Gnolls), khớp chỗ video so với tướng luyện quân cấp 1 của Inferno và Dungeon. Tên thì phụ đề không ra |
+| "x-natus" (Inferno) · "sắc ty" (Dungeon) | **Ignatius** ❓ / **Shakti** | Shakti đã chốt ở [[#❓ Bảng giải mã phụ đề — video 8 (Dungeon)\|video 8]]. Ignatius là **đoán** theo vai tướng Inferno luyện quân cấp 1 |
+| "Crystal" · "con Vista" · "con whistan" | **Wystan** | **Xác nhận** — chuyên Lizardmen, có **Armorer + Archery**, khớp đúng chỗ video nhắc Archery |
+| "ta ra" · "ta già" · "tác giả" | **Tazar** | **Xác nhận** — chuyên Armorer, *"5% per level bonus"*, có sẵn **Advanced Armorer** |
+| "ankin" · "ăn kiêng" · "ăn kim" | **Alkin** | **Xác nhận** — chuyên Gorgons, có **Armorer + Offense**, khớp "có cả kiếm cả giáp ngày đầu" |
+| "con baristan" · "con Pakistan" (bắn) | **Ballista** / **Gerwulf** ❓ | **Đoán tên tướng** — Gerwulf là Beastmaster chuyên Ballista, nhưng phần giới thiệu tên rơi vào đoạn phụ đề mất. "250 máu" của Ballista thì đã kiểm ở video 9 |
+| "blogger" · "con doggy" · "con Rocky" · "có view" | **Broghild** | **Xác nhận** — chuyên Wyverns, có **Armorer + Scouting**, khớp cả hai thứ video khen |
+| "con cu Bác" | **Korbac** | **Xác nhận** — chuyên Serpent Flies, khớp chỗ "vì Quân chuồn chuồn đa số là chim mồi" |
+| "con các khách" · "crack" · "cách hack" | **Crag Hack** (Stronghold) | **Xác nhận** — đã chốt ở [[#❓ Bảng giải mã phụ đề — video 9 (Stronghold)\|video 9]] |
+| "orin" | **Orrin** (Castle) ❓ | **Chưa kiểm** — chỉ dùng làm mốc so sánh với Tazar đầu game |
+| "con dera" · "con la" · "con woola" | ❓ | **Chưa kiểm** — các tướng thủ đem ra so với Tazar, phụ đề không ra tên |
+| "milanda" | **Mirlanda** | **Xác nhận** — chuyên Weakness, có sẵn phép Weakness |
+| "crossic" · "con lô xích" · "con logic" · "con xúc xích" · "Project" | **Rosic** | **Xác nhận** — chuyên **Mysticism**, có Wisdom + Mysticism |
+| "Imperia" · "King kenia" · "kina" · "con kiter" · "con tin ceria" | **Kinkeria** | **Xác nhận** — chuyên **Learning**, tướng chỉ HotA có |
+| "Venice" · "con vừa hít" | **Verdish** | **Xác nhận** — chuyên **First Aid**, khớp đoạn lều hồi máu cho Wyvern |
+| "Medic" · "con mới ít" · "con males" · "con Magic" | **Merist** | **Xác nhận** — chuyên **Stone Skin**, có Learning ("lươn Ninh") |
+| "Stick" | **Styg** | **Xác nhận** — chuyên **Sorcery** ("xốc gây"), không phải Sorrow |
+| "Android" | **Andra** | **Xác nhận** — chuyên **Intelligence** ("interizon") |
+| "eggy" · "ecopi" | **Tiva** / **Eagle Eye** | **Xác nhận** — chuyên Eagle Eye. Video gọi tướng này bằng tên kỹ năng, không gọi tên tướng |
+| "con 30 Kid" · "con sunia" · "con image" · "con Madrid" | Các tướng phép mạnh hơn Styg ❓ | **Chưa kiểm** — phụ đề chỉ còn cái tên |
+| "con Elisa thành rồng vàng" · "con Eden của thành Devil" | Tướng chuyên Intelligence của Rampart và Inferno ❓ | **Chưa kiểm** — chỉ dùng làm mốc so sánh với Andra |
+| "Pandora" (44:18) | ❓ | **Không rõ** — đầu một câu nói về "thành vô học", có thể chỉ là từ nối bị nghe nhầm |
+
+**Tên quân, công trình, kỹ năng và cơ chế:**
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "thành đầm lầy" · "thành lập lầy" · "Thanh Tâm" · "thành gần đây" · "thành ngầm lầy" | **Fortress** | **Xác nhận** — tiêu đề video |
+| "maculele" · "macqda1" · "Marco level 1" · "mắc lừa 3" | **Mage Guild** | **Xác nhận** — Fortress chỉ lên được **cấp 3** |
+| "taven" · "Black message" | **Tavern** · **Blacksmith** | **Xác nhận** |
+| "clip orcia" · "clip Office" | **Glyphs of Fear** | **Xác nhận** — +2 kiếm cho tướng thủ thành |
+| "obits of" | **Blood Obelisk** | **Xác nhận** — +2 giáp cho tướng thủ thành, cần Glyphs of Fear |
+| "cây họ mua lốc" · "cây hoặc blog" · "cây hoặc lớp" | **Cage of Warlords** | **Xác nhận** — 1.000 vàng, +1 giáp vĩnh viễn |
+| "Captain quarter" | **Captain's Quarters** | **Xác nhận** — nhà horde Gnoll, +6/tuần |
+| "con chó" · "conceron" · "con cron" · "con Clone" | **Gnoll / Gnoll Marauder** | **Xác nhận** — kiếm 3 giáp 5, nâng lên giáp 6 |
+| "con cung" (Fortress) · "quần Lẹp" | **Lizardman / Lizard Warrior** | **Xác nhận** — 14 / 15 máu |
+| "con chuồn chuồn" | **Serpent Fly / Dragon Fly** | **Xác nhận** — speed 9 / 13, Dispel + Weakness |
+| "WeChat" · "Wechat" · "Quick net" · "Honda 6 kg" | **Weakness** | **Xác nhận** — bậc Advanced −6 kiếm |
+| "dispel" · "buốt" · "buffett" | **Dispel** · buff | **Xác nhận** |
+| "bút ghép payer" | **Bless** ❓ · **Prayer** | **Đoán** — "payer" khớp Prayer, "bút ghép" có thể là Bless |
+| "con baoclick" · "con basic" · "Panasonic" · "3cx" · "bà Silic" | **Basilisk** | **Xác nhận** — quân cấp 4, chuyên của Bron |
+| "con bò" · "lợn bò" | **Gorgon / Mighty Gorgon** | **Xác nhận** — máu 70, giáp 16, Death Stare. Gọi "bò" vì Gorgon trong game là con bò sắt |
+| "distan" · "desten" · "dista" · "đít xe" · "thổi giặt" | **Death Stare** | **Xác nhận** — xem callout ở [[#🐂 Mighty Gorgon — Death Stare, và vì sao đối phương phải đánh nó trước\|phần Gorgon]] |
+| "con trâu với Minotaur của thành rồng đen" | **Minotaur King** (Dungeon) | **Xác nhận** — 12–20, cao hơn 12–16 của Mighty Gorgon |
+| "rồng Ao vua" · "giống ajuae" | Rồng cấp 7 ❓ | **Đoán** — có thể là Azure Dragon, nhưng ý chỉ là "kể cả rồng" |
+| "uy vấn net" · "internet" · "Uber net" · "con vịt" | **Wyvern Nest** / **Wyvern** | **Xác nhận** — 3.500 vàng + 15 gỗ; "vịt" đã chốt ở [[#❓ Bảng giải mã phụ đề — video 1 (Castle)\|video 1]] |
+| "boyson" · "qua xoăn" · "bờ sòn" · "mắc cái boyson" | **Poison** | **Xác nhận** — 10% máu gốc, tối đa 50% |
+| "đồng hồ cát" · "phép lão hóa" · "rồng xương" | **Aging** của **Ghost Dragon** | **Xác nhận** — wiki ghi kết hợp với Poison còn một phần tư máu |
+| "Hira" · "hyra" · "hydro Hera" · "con hiragian" | **Hydra / Chaos Hydra** | **Xác nhận** — đánh mọi quân kề bên, không bị phản đòn |
+| "con hậu" | **Queen** ❓ | **Chưa kiểm** — một quân chiếm một ô cũng đánh mọi quân kề bên, video lấy làm mốc so với Hydra |
+| "con thần đèn" (speed 13) | **Efreet Sultan** ❓ | **Lệch** — wiki: con cấp 6 speed 13 là Efreet Sultan; Genie là cấp 5 |
+| "con đại bàng ắp" | **Royal Griffin** (Castle) | **Xác nhận** — speed 9, chiếm hai ô |
+| "con Meji" · "con mắt" | **Mage** (Tower) · **Beholder** (Dungeon) | **Xác nhận** — các quân cấp 4 video đem so với Basilisk |
+| "stable" · "spable" | **Training Grounds** (Castle) | **Lệch tên** — "10 gỗ 3.000" là giá nâng cấp Training Grounds |
+| "skin Armor" · "x3moi" · "amor" · "giáp" (kỹ năng) | **Armorer** | **Xác nhận** — 5 / 10 / 15% |
+| "interprency" · "interactice" · "internc" | **Interference** | **Xác nhận** — 10 / 20 / 30% |
+| "actuary" | **Archery** | **Xác nhận** |
+| "palestic" · "Pakistan" | **Ballistics** / **Ballista** | **Xác nhận** theo ngữ cảnh |
+| "Off" · "kiếm" (kỹ năng) | **Offense** | **Xác nhận** — kỹ năng đầu của Alkin |
+| "scouting" · "coffecting" | **Scouting** | **Xác nhận** — HotA +1/3/5 bán kính |
+| "misthycin" · "mitsushin" · "Mitsubishi" · "Mr sin" | **Mysticism** | **Xác nhận tên, con số trái wiki** — xem callout ở [[#🔮 Tướng phép Fortress — Mirlanda và Rosic\|phần Rosic]] |
+| "tép set cong" · "set cong" · "xét" | Phép khởi điểm của Rosic ❓ | **Chưa khớp** — wiki ghi Magic Arrow |
+| "tông Kim" · "casting tông Kim" | **Stone Skin** | **Xác nhận** — chuyên của Merist |
+| "lều" · "First" | **First Aid Tent** / **First Aid** | **Xác nhận** — chuyên của Verdish |
+| "lươn Ninh" | **Learning** | **Xác nhận** — kỹ năng đầu của Merist |
+| "xốc gây" · "cơloex" | **Sorcery** ❓ | **Đoán** — khớp chuyên của Styg |
+| "intelsion" · "interizon" · "intelligan" | **Intelligence** | **Xác nhận** — chuyên của Andra |
+| "phép đổ dầu" · "mưa lửa" | Phép sát thương diện rộng ❓ | **Không rõ** — "mưa lửa" có thể là Meteor Shower hoặc Armageddon |
+| "phép đi bộ ai" (campaign) | ❓ | **Không rõ** — phép mà Tiva học được nhờ Eagle Eye trong campaign |
+| "Paul skin" · "power skin" · "Project" · "cơ năng click" | **Spell Power** · **Knowledge** | **Xác nhận** |
+| "bản sơ đồ bếp" · "bản xa đầu bed" · "bản select" · "bản sedan" | **Shadow of Death** | **Xác nhận** |
+| "bản Honda" · "bản hạng A" · "bản xa hotline" · "bạn How are" | **Horn of the Abyss** | **Xác nhận** |
+| "thành cover" | **Cove** | **Xác nhận** — cùng đất gốc Swamp |
+| "8xm8" · "Bát 8xm8" · "8x và 8" · "ra Dom 8x mà 8" | **map 8XM8** | **Xác nhận** |
+| "căn bên" · "campbel" · "căn biệt" | **Campaign** | **Xác nhận** theo ngữ cảnh |
+| "ppp" | Chế độ đấu người với người ❓ | **Đoán** — có thể là PvP, đi cùng "random map" |
+| "thành chìm lửa" | ❓ — có thể là **Inferno** | **Đoán** — nếu đúng thì giá 10.000 lệch wiki (15.000) |
 
 ---
 
