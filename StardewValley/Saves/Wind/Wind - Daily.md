@@ -854,48 +854,55 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 **🔒 Cứng**
 - **Hôm nay mới mua được hạt Hạ**: Pierre chỉ bán hạt của mùa đang diễn ra. Hạt việt quất gieo hôm nay chín **Hạ 14**, sau đó cứ 4 ngày ra một lứa.
-- **Bình tưới Thép đã nâng xong**, nằm ở chỗ Clint. Hôm nay nắng mà Ruộng 2 phải tưới tay, nên lấy bình trước khi gieo.
 
-**🌦️ Nhánh:** ☀️ **nắng** + 💀 **may thấp** (`dailyLuck` −0,026). Rơi đúng ô [[#🎯 Bảng giao — việc chính hôm nay nên là gì|Xây & lát đường]]: việc trả kết quả cố định. Gieo hạt, chế vòi và dời chuồng đều thuộc loại này. **Mai (Hạ 2) cũng nắng**, nên hôm nay tưới xong mai phải tưới lại Ruộng 1 và Ruộng 2.
+**🌦️ Nhánh:** ☀️ **nắng** + 💀 **may thấp** (`dailyLuck` −0,026). Rơi đúng ô [[#🎯 Bảng giao — việc chính hôm nay nên là gì|Xây & lát đường]]: việc trả kết quả cố định. Gieo hạt, chế vòi và dời chuồng đều thuộc loại này. **Mai (Hạ 2) cũng nắng**, nên ô nào chưa có vòi thì mai phải tưới lại.
 
 **✅ Việc hôm nay** _(đóng băng thời gian từ 09:00 thì Clint, Pierre và Robin cùng mở mãi)_
 - [x] 🔨 **Clint**: lấy **Bình tưới Thép**
-- [ ] 💧 Chế **9 Vòi tưới cây xịn** rồi đặt ở **Ruộng 3**: (31, 23) (34, 23) (37, 23) · (31, 26) (34, 26) (37, 26) · (31, 29) (34, 29) (37, 29). Thỏi sắt lấy cả ở rương **(58, 16)** lẫn rương **(76, 13)** (4 + 5)
-- [ ] 🐦 **3 Bù nhìn cho 3 ruộng**, đặt ở góc + (5, 5) theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|quy hoạch]]: **(13, 27)** cho Ruộng 1 · **(24, 27)** cho Ruộng 2 · **(35, 27)** cho Ruộng 3. Đã có 2 cái trong túi. Cái thứ ba nhặt ở **(47, 40)**. Quá 16 cây mà không có Bù nhìn là quạ phá, nên đặt trước khi gieo
-- [x] 🛒 **Pierre** (lượt 1): đã mua đủ hạt Hạ chính. Rương (58, 15) giờ có 150 Hạt việt quất · 18 Hạt giống dưa · 18 Hạt giống ngô, xem 📋
-- [ ] 🛒 **Pierre** (lượt 2): mua thêm để lấp hết **Ruộng 1**
+- [ ] 💧 **Lắp đủ 27 Vòi tưới cây xịn cho cả 3 ruộng**, mỗi ruộng 9 cái ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7). Đã đặt **10/27** _(Quicksave 08:18)_:
+  - **Ruộng 3:** đủ 9 cái
+  - **Ruộng 2:** ~~(20, 23)~~ đã đặt · còn (23, 23) (26, 23) · (20, 26) (23, 26) (26, 26) · (20, 29) (23, 29) (26, 29)
+  - **Ruộng 1:** (9, 23) (12, 23) (15, 23) · (9, 26) (12, 26) (15, 26) · (9, 29) (12, 29) (15, 29)
 
-  | Mua | Số | Tiền | Để làm gì |
-  |---|---|---|---|
-  | **Hạt ớt** | 52 | 2.080g | Lấp 52 ô trống ở Ruộng 1. Chín **Hạ 6**, sau đó 3 ngày một lứa (9 · 12 · … · 27), tức 8 lứa. Ra tiền sớm hơn Việt quất (Hạ 14). Ớt hiểm cũng là món Yêu thích của Shane |
-  | **Hạt lúa mì** | 9 | 90g | Đủ **10 Lúa mì** cho gói **Thức ăn Chăn Nuôi** (đang có 1 hạt) |
-  | **Tổng** | | **2.170g** | Ví có **2.139g**, **thiếu 31g**: bán 1 món dư trước khi mua (đừng bán món còn cần cho gói), hoặc mua 51 Hạt ớt |
-- [ ] 🌱 **Cuốc · bón · gieo cả 3 ruộng: 269 ô.** Mỗi ruộng 10 × 10, trừ ô Bù nhìn. Ruộng 3 còn trừ 9 ô đặt vòi, và chừa hàng y 31 với cột x 39 làm lối. Qua đêm đổi mùa, đất cuốc hôm qua chỉ còn 41 ô, nên phải cuốc lại gần hết. Ruộng 1 phải **cắt 5 ô cỏ** ở (8–10, 30–31) trước khi cuốc. **Bón trước khi gieo**, vì cây nảy mầm rồi thì không bón được nữa. Phân lấy ở rương (58, 15).
+  **Đừng gieo vào 27 ô đặt vòi**: đất đã cuốc rồi cũng cứ để trống, vòi đặt được lên đất cuốc (nếu game không cho thì gõ Cuốc chim cho phẳng lại). Có thỏi nào chế vòi lắp luôn, theo thứ tự Ruộng 2 → Ruộng 1.
+- [ ] ⛏️ **Hầm Mỏ tầng 41–79 lấy thêm 35 Quặng sắt** cho 7 vòi cuối. 4 Lò nung đang nấu 4 Thỏi sắt, rương **A Lò nung (76, 13)** còn 30 Quặng sắt + 31 Than đá: đủ thêm 10 vòi, lên 20/27. Than đá đã dư. Đi thang máy thẳng tầng 40. Nghề **Thợ mỏ** cho thêm 1 quặng mỗi viên đá quặng, nên ~18 viên đá sắt là đủ. Về đổ vào rương A Lò nung: Automate nạp cho 4 Lò nung, mỗi thỏi 2 giờ trong game (phải chạy giờ, không đóng băng)
+- [x] 🐦 **3 Bù nhìn** ở (13, 27) · (24, 27) · (35, 27), góc + (5, 5) của mỗi ruộng theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|quy hoạch]]. Ô Bù nhìn để trống, không gieo
+- [x] 🛒 **Pierre** (2 lượt): đã mua đủ hạt Hạ, gồm cả 52 Hạt ớt và 9 Hạt lúa mì để lấp Ruộng 1
+- [ ] 🌱 **Bón · gieo cả 3 ruộng: 270 ô.** Cả 300 ô đã cuốc xong, cỏ ở Ruộng 1 đã dọn. Mỗi ruộng chừa **10 ô trống** (9 ô vòi + 1 ô Bù nhìn), còn lại chia hai vùng:
+  - **Vùng vòi, 71 ô** = x góc … góc + 8, y 22–30. 9 vòi lắp đủ thì phủ kín vùng này.
+  - **Dải tưới tay, 19 ô** = hàng **y 31** cộng cột cuối của ruộng (**x 17 · x 28 · x 39**). Vòi tưới cây xịn tưới 3 × 3 nên 9 vòi chỉ phủ được 9 × 9, dải này nằm ngoài. Cả 3 dải là **57 ô**, vừa khít số hạt còn dư sau vùng vòi: **52 Hạt ớt + 4 Hạt việt quất + 1 Hạt lúa mì**.
+
+  **Bón trước khi gieo**, vì cây nảy mầm rồi thì không bón được nữa. Phân lấy ở rương (58, 15). Hàng có vòi (y 23 · 26 · 29) chỉ còn 6 ô gieo được.
 
   | Ruộng · ô | Gieo | Bón |
   |---|---|---|
-  | **3** · 71 ô (vòi tưới) | **71 Việt quất** | **29 ô** bón **Phân bón Thúc** (19) + **Phân bón thúc cao cấp** (10). 42 ô không bón |
-  | **2** · y 22–29 | **79 Việt quất** | Không bón |
-  | **2** · y 30–31, x 19–27 | **18 Dưa**, 2 hàng × 9 | **Phân bón chất lượng** cả 18 ô |
-  | **2** · (28, 30) · (28, 31) | **Cà chua** · **Ớt** | **Phân bón giữ nước chất lượng** (2) |
-  | **1** · y 22 + y 23 x 8–15 | **18 Ngô** | **Phân bón chất lượng** 12 ô · **Phân bón cơ bản** 6 ô |
-  | **1** · y 23 x 16 · x 17 | **Khế** · **Hoa bia giống** (giàn chắn lối, nên đặt sát mép) | Khế: **Phân bón cơ bản** |
-  | **1** · y 24 | **10 Lúa mì** | Không bón |
-  | **1** · y 25 | **6 Bí ngòi** (x 8–13) · **4 Cà phê** (x 14–17, lấy ở rương (56, 16)) | Không bón |
-  | **1** · y 26, x 8–14 | **3 Hạt giống tổng hợp** · **Anh túc** · **Hướng dương** · **Củ cải** · **Trang kim** | Không bón |
-  | **1** · y 26 x 15–17 + y 27–31 | **52 Ớt** | Không bón |
+  | **3** · y 22–30 (vùng vòi) | **71 Việt quất** | **Phân bón thúc cao cấp** (10): cả hàng y 22 + (30, 23) · **Phân bón Thúc** (19): 5 ô còn lại của y 23, cả hàng y 24, y 25 x 30–34 · **Phân bón cơ bản**: 42 ô còn lại |
+  | **2** · y 22 · y 24–27 · y 29 | **47 Việt quất**, gieo kín các hàng này trừ ô vòi và ô Bù nhìn: y 22 · y 24 · y 25 mỗi hàng 9 ô · y 26 và y 29 mỗi hàng 6 ô (x 19 · 21 · 22 · 24 · 25 · 27) · y 27 8 ô (trừ Bù nhìn (24, 27)) | **Phân bón cơ bản** cả 47 ô |
+  | **2** · y 23 | **Cà chua** (19, 23) · **Ớt** (21, 23) · 4 **Việt quất** (22 · 24 · 25 · 27) | **Phân bón cơ bản** cả 6 ô |
+  | **2** · y 28 + y 30, x 19–27 | **18 Dưa**, 2 hàng × 9 | **Phân bón chất lượng** cả 18 ô |
+  | **1** · y 22 + y 24, x 8–16 | **18 Ngô** | **Phân bón chất lượng**: cả y 22 + (8–10, 24) = 12 ô · **Phân bón cơ bản**: (11–16, 24) = 6 ô |
+  | **1** · y 23 | **Hoa bia giống** (8, 23), giàn chắn lối nên đặt sát mép · **Khế** (10, 23) · **4 Cà phê** (11 · 13 · 14 · 16; lấy ở rương (56, 16)) | Hoa bia + Khế: **Phân bón cơ bản** · Cà phê không bón |
+  | **1** · y 25 + (8, 26) | **10 Lúa mì** | Không bón |
+  | **1** · y 26 (10 · 11 · 13 · 14 · 16) + (8, 27) | **6 Bí ngòi** | **Phân bón cơ bản** cả 6 ô |
+  | **1** · y 27, x 9–16 (trừ Bù nhìn 13) | **3 Hạt giống tổng hợp** (9–11) · **Anh túc** (12) · **Hướng dương** (14) · **Củ cải** (15) · **Trang kim** (16) | Không bón |
+  | **1** · y 28–30 | **24 Việt quất** (9 + 6 + 9) | **Phân bón cơ bản** cả 24 ô |
+  | **Dải tưới tay** · y 31 + x 17 · x 28 · x 39 | **4 Việt quất** (39, 22–25) · **1 Lúa mì** (39, 26) · **52 Ớt** ở 52 ô còn lại | **Phân bón giữ nước chất lượng** (2) cho 2 ô Ớt bất kỳ: đất này giữ ẩm qua đêm, chỉ có ích ở ô tưới tay · **Phân bón cơ bản** cho 54 ô Ớt + Việt quất còn lại · Lúa mì không bón |
 
-  - **Dưa không được xếp thành khối 3 × 3.** Khối 3 × 3 dưa chín có thể nhập thành Dưa khổng lồ, và dưa rơi ra từ quả khổng lồ là hàng thường, mất phẩm Vàng. Xếp 2 hàng thì không bao giờ đủ khối.
+  **Phân bón cơ bản phải chế thêm 180 bao.** Rương chỉ có 7 bao, dành cho Ngô và Khế như trên. 180 bao còn lại chế từ **2 Nhựa cây → 1 Phân bón cơ bản** (công thức đã có). Các rương đang có **437 Nhựa cây**, chế xong còn ~77. Đếm theo ruộng: Ruộng 3 42 · Ruộng 2 53 · Ruộng 1 31 · dải 54. Không bón cho Lúa mì, Cà phê, 3 Hạt giống tổng hợp, Anh túc, Hướng dương, Củ cải, Trang kim: các cây này trồng để nộp gói, gói không đòi phẩm chất, và phần lớn chỉ thu một lần.
+
+  Tổng: 150 Việt quất · 18 Dưa · 18 Ngô · 53 Ớt · 11 Lúa mì · 6 Bí ngòi · 4 Cà phê · 10 hạt lẻ (Cà chua · Khế · Hoa bia · 3 tổng hợp · Anh túc · Hướng dương · Củ cải · Trang kim) = **270 ô**, dùng hết hạt Hạ trong rương.
+
+  - **Dưa không được xếp thành khối 3 × 3.** Khối 3 × 3 dưa chín có thể nhập thành Dưa khổng lồ, và dưa rơi ra từ quả khổng lồ là hàng thường, mất phẩm Vàng. Hai hàng dưa y 28 và y 30 còn cách nhau hàng Việt quất y 29, nên không bao giờ đủ khối.
   - **Phân bón chất lượng** bón cho **18 Dưa** trước tiên, vì gói **Nông sản Chất lượng cao** cần 5 Dưa phẩm Vàng. Ở Trồng trọt cấp 6, mỗi quả có ~40% ra phẩm Vàng, nên 18 cây có **~90%** khả năng đủ 5 quả. Không bón thì chỉ ~7%. Dưa chín **Hạ 13**. Chưa đủ 5 quả Vàng thì vẫn kịp gieo lứa hai, chín Hạ 25. 12 bao còn lại bón cho Ngô: Ngô sống tới hết Thu, khoảng 11 lứa mỗi cây, nên phân bón ở đây được dùng lâu nhất. Ngô chín **Hạ 15** rồi 4 ngày một lứa. Không bón thì Ngô vẫn dư bắp Vàng cho gói.
-  - **Không cần giữ Phân bón chất lượng cho Bí ngô mùa Thu.** Pierre chỉ bán loại này từ **Năm 2**, nhưng tự chế được từ **Trồng trọt cấp 9**: **4 Nhựa cây + 1 cá bất kỳ → 2 Phân bón chất lượng**. Các rương đang có **428 Nhựa cây**, đủ chế ~200 bao. Ước tính từ số lần thu hoạch đã gieo hôm nay, Trồng trọt lên cấp 9 khoảng **Hạ 18–22**, kịp cho Bí ngô gieo Thu 1. Nếu không kịp thì mua thêm Hạt giống bí ngô và bón **Phân bón cơ bản** (Pierre có bán): ~30 cây là đủ 5 quả Vàng.
+  - **Phân bón cơ bản lời nhất ở Ớt**, vì mỗi lứa Ớt chỉ ra 1 quả nên quả nào cũng được nâng phẩm. Việt quất mỗi lứa ra ~3 quả, mà phân chỉ nâng phẩm quả đầu, nên lời ít hơn, nhưng mỗi bao chỉ tốn 2 Nhựa cây. Mỗi ô chỉ bón được 1 loại phân, nên dải tưới tay dùng Phân bón cơ bản thay cho **Phân bón giữ nước cơ bản** (2 Đá): ngày nào cũng phải đi tưới dải, đất giữ nước cũng không bớt được lượt đi.
+  - **Phân bón Thúc tốt hơn cho Việt quất** (được lứa thứ 5, như Ruộng 3), nhưng công thức cần **1 Nhựa thông + 5 Rêu → 5 bao**. Có 6 Nhựa thông nhưng 0 Rêu, nên không chế được. Pierre bán Phân bón Thúc, nhưng ví chỉ còn 739g.
+  - **Không cần giữ Phân bón chất lượng cho Bí ngô mùa Thu.** Pierre chỉ bán loại này từ **Năm 2**, nhưng tự chế được từ **Trồng trọt cấp 9**: **4 Nhựa cây + 1 cá bất kỳ → 2 Phân bón chất lượng**. Chế 180 bao Phân bón cơ bản xong, các rương còn **~77 Nhựa cây**, đủ ~38 bao. Chặt cây bằng Rìu Thép (xong Hạ 3) sẽ có thêm Nhựa cây. Ước tính từ số lần thu hoạch đã gieo hôm nay, Trồng trọt lên cấp 9 khoảng **Hạ 18–22**, kịp cho Bí ngô gieo Thu 1. Nếu không kịp thì mua thêm Hạt giống bí ngô và bón **Phân bón cơ bản** (Pierre có bán): ~30 cây là đủ 5 quả Vàng.
+  - **Ớt** chín **Hạ 6**, sau đó 3 ngày một lứa (9 · 12 · … · 27), tức 8 lứa, ra tiền sớm hơn Việt quất. Ớt hiểm cũng là món Yêu thích của Shane. **10 Lúa mì** là cho gói **Thức ăn Chăn Nuôi**.
   - Việt quất chín sau 13 ngày. Phân bón Thúc rút còn 11 ngày, chín **Hạ 12** rồi ra lứa ở 16 · 20 · 24 · 28, tức **5 lứa thay vì 4**. Phân bón thúc cao cấp rút còn 9 ngày, chín Hạ 10 rồi 14 · 18 · 22 · 26, cũng 5 lứa. Ô không bón chín Hạ 14.
   - **Không gieo được trong Hạ:** 34 Mạ (cây Xuân) và 8 Hạt súp lơ. 9 Hạt giống bí ngô và 8 Hạt giống hiếm để dành cho Thu.
-  - Gieo xong thì **tưới tay Ruộng 1 và Ruộng 2** (198 ô). Ruộng 3 để vòi tưới.
-- [ ] 🐔 **Nhờ Robin dời Chuồng gia cầm** từ (45, 14) sang **(65, 22)**. Miễn phí và xong ngay. Nền 6 × 3 trải từ x 65 tới 70, từ y 22 tới 24. Dọn trước:
-  - **cây chết** ở (65, 22) · (66, 22) · (65, 23) · (66, 23) · (66, 24)
-  - **cây non** ở (69, 22)
-
-  Đường lát ở cột x 67 không chặn. Dời xong thì trồng **1 Cỏ giống** (ở rương (58, 15)) phía nam cửa chuồng mới, chỗ y ≥ 25
+  - **Tưới tay tới khi đủ vòi.** Hôm nay gieo xong phải tưới tay hết, kể cả ô dưới vòi đã đặt (xem dòng dưới). Mai cũng nắng: ô nào chưa có vòi thì tưới lại. Lắp xong 27 vòi thì mỗi ngày **chỉ còn 57 ô của dải** phải tưới tay.
+  - Vòi tưới vào **6 giờ sáng**. Vòi đặt giữa ngày thì phải sang sáng mai mới tưới, nên ngày đặt vẫn phải tưới tay các ô quanh nó.
+- [x] 🐔 **Robin dời Chuồng gia cầm** sang **(65, 22)**, đã trồng Cỏ giống ở (67, 26) phía nam cửa chuồng
 - [ ] _(Routine)_ Mở cửa chuồng cho gà ra ngoài (nắng) · nhặt trứng · **đừng nhổ** cây **Trái cổ đại** (72, 27) và cây **Hạt cà phê** (70, 27), cả hai còn sống qua mùa Hạ
 
 **📋 Thực tế** _(Quicksave Hạ 1, đầu ngày)_
@@ -903,13 +910,11 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 - **Ví 24.609g**: tiền ship đêm qua đúng như ước tính ~6.700g. **Kỹ năng:** Trồng trọt **6** · Câu cá 10 · Hái lượm 6 · Khai khoáng 7 · Chiến đấu 6. Đã có công thức **Vòi tưới cây xịn**, và đêm qua không có màn chọn nghề.
 - 🔨 **Bình tưới Thép**: Clint báo còn 0 ngày, lấy được ngay. Các công cụ khác: Rìu Đồng · Cuốc chim Thép · Cuốc Thép · Cần câu Iridium. Túi **36 ô**.
 - 📬 Hộp thư trống: hai công thức **Sashimi** và **Nấm chiên** đã vào sổ. Mai không có thư. Robin không xây gì. Quest chỉ còn **Chìa khóa Đầu lâu**.
-- 🌱 Rương (58, 15) có **9 Hạt giống dưa** · 6 Hạt giống bí ngòi · 1 Hạt giống khế · 8 Hạt giống hiếm · 30 Phân bón chất lượng · 19 Phân bón Thúc · 10 Phân bón thúc cao cấp · 7 Phân bón cơ bản · 1 Cỏ giống.
-- 🐦 Bù nhìn hiện ở (47, 40) · (56, 24) · (68, 26), đều gần ruộng Xuân cũ.
-- 🛒 _(Quicksave Hạ 1, sau lượt mua đầu ở Pierre)_ **Ví 2.139g.** Rương (58, 15) có:
-  - **Hạt Hạ:** 150 Hạt việt quất · 18 Hạt giống dưa · 18 Hạt giống ngô · 6 Hạt giống bí ngòi · 3 Hạt giống tổng hợp · 1 hạt mỗi loại: Hạt giống cà chua, Hạt ớt, Hạt lúa mì, Hạt giống anh túc, Hạt hướng dương, Hạt giống củ cải, Hạt giống trang kim, Hạt giống khế, Hoa bia giống
-  - **Phân:** 30 Phân bón chất lượng · 19 Phân bón Thúc · 10 Phân bón thúc cao cấp · 7 Phân bón cơ bản · 2 Phân bón giữ nước chất lượng
+- 🌱 _(Quicksave Hạ 1, lưu 08:18)_ **Ví 739g** sau 2 lượt mua ở Pierre. Cả **300 ô** của 3 ruộng đã cuốc, chưa gieo ô nào. Ruộng 3 đã bón Phân bón thúc cao cấp + Phân bón Thúc đúng bảng. **10 Vòi tưới cây xịn** đã đặt, 3 Bù nhìn đã đặt. **Rìu Thép** đang nâng ở Clint (ăn 5 Thỏi sắt), xong Hạ 3. Rương (58, 15) có:
+  - **Hạt Hạ:** 150 Hạt việt quất · 18 Hạt giống dưa · 18 Hạt giống ngô · 53 Hạt ớt · 11 Hạt lúa mì · 6 Hạt giống bí ngòi · 3 Hạt giống tổng hợp · 1 hạt mỗi loại: Hạt giống cà chua, Hạt giống anh túc, Hạt hướng dương, Hạt giống củ cải, Hạt giống trang kim, Hạt giống khế, Hoa bia giống. Rương (56, 16) có 4 Hạt cà phê
+  - **Phân:** 30 Phân bón chất lượng · 7 Phân bón cơ bản · 2 Phân bón giữ nước chất lượng. Các rương có 437 Nhựa cây
   - **Ngoài vụ Hạ:** 9 Hạt giống bí ngô · 8 Hạt giống hiếm · 34 Mạ · 8 Hạt súp lơ
-  - Rương (56, 16) có 4 Hạt cà phê. Hai Bù nhìn ở (56, 24) và (68, 26) đã nằm trong túi. Ruộng 1 chỉ vướng 5 ô cỏ, ở (8–10, 30–31). Gói **Nông sản Chất lượng cao** chưa nộp món nào.
+  - Gói **Nông sản Chất lượng cao** chưa nộp món nào.
 - ❤️ Haley **1.676 điểm** (6 tim). Phải đủ 8 tim (2.000 điểm) thì cảnh tim kế tiếp mới diễn ra, nên hôm nay không có.
 
 ---
@@ -925,8 +930,6 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 > [!note] Cheat đổi cái gì trong lộ trình này
 > Vô tận thể lực làm **công bỏ ra không còn là giá** — lát 307 ô Đường lát đá hay tưới tay cả một ô ruộng giờ chỉ tốn nguyên liệu và một suất trong [[#🎮 Luật chơi của save này|quota ngày]], chứ không tốn một buổi cày. Giá thật của mọi dòng dưới đây **chỉ còn là tiền, nguyên liệu và số ngày Robin xây** — ba thứ cheat không gỡ.
->
-> Hệ quả thực tế: **Vòi tưới cây không còn gấp nữa.** Nó chỉ để khỏi phải click, không còn để cứu năng lượng — nên đừng tiêu Thỏi sắt / Thỏi vàng vào Vòi tưới khi chúng còn cần cho thứ khác.
 
 ### Năm 1 — đường chính, ruộng đầu tiên, bãi chăn nuôi
 
@@ -934,9 +937,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 |---|---|---|
 | **Xuân 25** | Đặt **Kho chứa Cỏ** ở **(72, 22)** (xem [[#☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2\|Ngày 25]]) | 100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng |
 | **Ngày may thấp bất kỳ** | Lát **Đường lát đá**: trục ngang y 18–19 (trước nhà) rồi trục dọc x 40–41 và đoạn vòng qua ao | 1 Đá/ô, cả hai trục **≈ 307 ô** — công thức đã có, Quicksave Xuân 21 còn 1.719 Đá · việc trả kết quả cố định, đúng loại để đổ vào [[#💀 May thấp\|ngày may thấp]] |
-| **Hạ 1** | Mở **Ruộng 3** ở góc (30, 22) — ô sát trục dọc, gần nhà nhất — cùng **~94 ô Ruộng 2** (19, 22), gieo Việt quất (xem [[#🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong\|Ngày 28]]). Ruộng Xuân cũ ở x 54–72 nằm trong bãi chăn nuôi, bỏ | **Tưới tay không tốn gì** (vô tận thể lực) → **Vòi tưới cây** chỉ để khỏi click, không gấp (đã có công thức, 1 Thỏi đồng + 1 Thỏi sắt) |
-| **Khi lên Nông nghiệp 6** (đạt **Xuân 28**; 9 Thỏi sắt chỉ đủ 9 vòi cho Ruộng 3) | Thay bằng **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9, hàng/cột cuối của ô để làm lối · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
-| **Thu** | Mở nốt **Ruộng 2** (19, 22) cho vụ Thu | 9 Vòi tưới cây xịn |
+| **Hạ 1** (đang làm, xem [[#☀️ Ngày 1 (Thứ Hai) — Ngày đầu mùa Hạ · 🌱 gieo vụ Hạ\|Hạ 1]]) | Mở cả **Ruộng 1–3**, lắp **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9; hàng/cột cuối nằm ngoài vùng tưới, Hạ năm 1 gieo Ớt tưới tay · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
 | **Cuối Thu / Đông** | Rào **bãi chăn nuôi** x 54–76, y 21–46 (92 ô rào + cổng đôi ở (63, 21) (64, 21)) | **Hàng rào gỗ cứng** 1 Gỗ cứng/ô; thiếu Gỗ cứng thì dựng tạm **Hàng rào gỗ** (2 Gỗ/ô) rồi thay sau · **Cổng** 10 Gỗ |
 | **Hạ 1** _(sớm nhất)_ | Nhờ Robin **dời Chuồng gia cầm** từ (45, 14) sang **(65, 22)** — chỗ cũ là lối đi và Đồng hồ Hoàng kim của khu nhà. Nền 6 × 3 hiện bị chắn bởi **Dâu tây / Súp lơ ở cột x 65–66** (sống tới hết Xuân 28) · **Đuốc ở (65, 24)** · **cây thông non ở (69, 22)** _(Quicksave Xuân 24)_. Sang Hạ 1: dọn cây chết, nhặt đuốc, nhổ cây non → dời. Đường lát ở cột x 67 không chặn. Dời xong thì **trồng Cỏ giống trước cửa chuồng mới**, phía nam (y ≥ 25, trong bãi chăn nuôi sẽ rào) — **đừng trồng ở (45, 14)**, cỏ trồng trước ngày dời thì gà ra cửa chuồng mới không ăn tới. Ngày nắng mở cửa là gà tự ra ăn cỏ, khỏi bỏ rơm rạ vào máng; cỏ lan ra còn là chỗ cắt cỏ đầy Kho chứa Cỏ cho mùa Đông | Miễn phí, **tức thì** — không chiếm suất xây của Robin, gà bên trong đi theo chuồng · Cỏ giống đã có sẵn trong túi |
 | **Đông** | Xây **Chuồng Gia súc** ở **(56, 22)** | 6.000g + 350 Gỗ + 150 Đá, xây 3 ngày |
@@ -946,7 +947,7 @@ Không mời ai, hoặc bị từ chối, vẫn **không mất gì** — 6 cặp
 
 | Khi nào | Việc | Chi phí / điều kiện |
 |---|---|---|
-| **Xuân** | Mở **Ruộng 1, 4, 5, 6** (mỗi ô 9 Vòi tưới cây xịn + 1 Bù nhìn) · dựng **Hàng rào gỗ cứng** quanh khu ruộng (87 ô, 4 Cổng) | 36 Vòi tưới cây xịn · 83 Gỗ cứng + 40 Gỗ |
+| **Xuân** | Mở **Ruộng 4, 5, 6** (mỗi ô 9 Vòi tưới cây xịn + 1 Bù nhìn; Ruộng 1–3 đã có vòi từ Hạ năm 1) · dựng **Hàng rào gỗ cứng** quanh khu ruộng (87 ô, 4 Cổng) | 27 Vòi tưới cây xịn · 83 Gỗ cứng + 40 Gỗ |
 | **Xuân** | **Nhà Kho** ở **(43, 11)** → về sau nâng **Nhà Kho lớn** — xưởng **Thùng chứa / Vại Bảo quản**, rương đặt sát máy để [[Mods#Automate 2.6.1\|Automate]] tự chạy | Nhà Kho 15.000g + 300 Gỗ · Nhà Kho lớn 20.000g + 550 Gỗ + 300 Đá · Thùng chứa cần Nông nghiệp 8 |
 | **Xuân–Hạ** | **Vườn cây ăn quả** (đông nam, 24 cây) — mua dần ở Pierre, mỗi cột một loại | Táo 4.000g · Mơ 2.000g · Anh đào 3.400g · Đào 6.000g · Cam 4.000g · Lựu 6.000g mỗi cây giống — đủ 24 cây ≈ **98.400g** |
 | **Cả năm** | Nâng **Chuồng gia cầm lớn**, **Chuồng Gia súc lớn** | 10.000g + 400 Gỗ + 150 Đá · 12.000g + 450 Gỗ + 200 Đá |
