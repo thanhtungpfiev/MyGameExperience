@@ -424,14 +424,41 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 2 (Thứ Ba)
+### ☀️ Ngày 2 (Thứ Ba) — ⏳ hạn chót Cá nóc cho Alex · 📬 thư Willy
 
-**📝 Dự kiến** _(chốt lại ở nhịp ① sáng mai)_: ☀️ nắng, đọc từ save Hạ 1. May mắn phải sáng mai mới biết.
+**📝 Dự kiến** _(nhịp ③ Hạ 1; chốt lại ở nhịp ① khi đã có may mắn, thư, quest)_: ☀️ nắng.
 - [ ] 💧 Tưới tay **57 ô dải**: x 17 · x 28 · x 39 và hàng y 31
-- [ ] 🐡 **Cá nóc** cho Alex, **hạn chót hôm nay**. Cá nóc chỉ cắn ở biển, trời nắng, **12:00–16:00**, nên phải tắt `FreezeTime` cho giờ chạy tới trưa
-- [ ] 📬 Thư **Willy** kèm một công thức nấu ăn
+- [ ] 🎣 **Biển, tắt `FreezeTime` cho giờ chạy:**
+  - **2 Cá nóc** (12:00–16:00, chỉ khi nắng): 1 con giao Alex trước khi hết hạn hôm nay (600g), 1 con nộp gói **Cá Đặc Biệt**
+  - Câu thêm **Cá ngừ** và **Cá rô phi** (Cá rô phi chỉ tới 14:00) cho gói **Cá Biển**
+- [ ] 🏛️ Nộp **Đậu hoa** (đang có 1, phẩm Bạc) vào gói **Sản phẩm Hái lượm Mùa Hè**. Gói còn thiếu **Thảo quả** và **Nho**, gặp thì nhặt
+- [ ] 📬 Đọc thư **Willy**, kèm một công thức nấu ăn
 - [ ] _(Routine)_ Mở cửa chuồng gà · nhặt trứng
-- Rìu Thép **Hạ 3** mới lấy được, mai chưa phải ghé Clint
+- Haley đã hết 2 lượt quà tuần này, chỉ nói chuyện. Bảo tàng chưa có món mới để quyên góp (đang 48 món)
+
+---
+
+### 🌦️ Ngày 3 (Thứ Tư) — 🪓 lấy Rìu Thép · mở Khu rừng Bí mật
+
+**📝 Dự kiến** _(thời tiết biết ở nhịp ③ Hạ 2)_:
+- [ ] 🔨 Lấy **Rìu Thép** ở Clint, rồi chặt khúc gỗ lớn chắn lối **Khu rừng Bí mật** (góc tây bắc Rừng Cindersap)
+- [ ] 🌲 Trong Khu rừng Bí mật:
+  - Câu **Cá nhảy** ở ao cho gói **Cá Đặc Biệt**
+  - Nhặt **Rau dớn** cho gói **Đầu Bếp**
+  - Chặt gốc cây lớn lấy Gỗ cứng cho Hàng rào gỗ cứng
+- [ ] 💧 Nắng thì tưới 57 ô dải · **mưa** thì khỏi tưới, ra biển câu **Cá hồng** (chỉ cắn khi mưa) cho gói **Cá Biển**
+- Pierre **đóng cửa thứ Tư**
+
+---
+
+### 🌦️ Ngày 4 (Thứ Năm) — 🎂 Sinh nhật Jas
+
+**📝 Dự kiến:**
+- [ ] 🎣 **Hồ Trên Núi:** câu **Cá tầm** cho gói **Cá Hồ**, gói chỉ còn thiếu con này
+- [ ] 🎂 Sinh nhật **Jas**: tặng quà nếu tiện, không bắt buộc
+- [ ] 💧 Nắng thì tưới 57 ô dải
+- **Lúa mì chín Hạ 5**: đủ 10 bó là nộp gói **Thức ăn Chăn Nuôi** (còn cần 10 Cỏ khô + 3 Táo)
+- Luau là **Hạ 11**, Xe hàng rong ghé **Hạ 5**: chưa có lễ hội hay sự kiện bí mật nào trong 3 ngày này
 
 ---
 
