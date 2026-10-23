@@ -414,16 +414,10 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 **✅ Việc hôm nay** _(đóng băng thời gian từ 09:00 thì Clint, Pierre và Robin cùng mở mãi)_
 - [x] 🔨 **Clint**: lấy **Bình tưới Thép**
-- [ ] 💧 **Lắp đủ 27 Vòi tưới cây xịn cho cả 3 ruộng**, mỗi ruộng 9 cái ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7). Đã đặt **10/27** _(Quicksave 08:18)_:
-  - **Ruộng 3:** đủ 9 cái
-  - **Ruộng 2:** ~~(20, 23)~~ đã đặt · còn (23, 23) (26, 23) · (20, 26) (23, 26) (26, 26) · (20, 29) (23, 29) (26, 29)
-  - **Ruộng 1:** (9, 23) (12, 23) (15, 23) · (9, 26) (12, 26) (15, 26) · (9, 29) (12, 29) (15, 29)
-
-  **Đừng gieo vào 27 ô đặt vòi**: đất đã cuốc rồi cũng cứ để trống, vòi đặt được lên đất cuốc (nếu game không cho thì gõ Cuốc chim cho phẳng lại). Có thỏi nào chế vòi lắp luôn, theo thứ tự Ruộng 2 → Ruộng 1.
-- [ ] ⛏️ **Hầm Mỏ tầng 41–79 lấy thêm 35 Quặng sắt** cho 7 vòi cuối. 4 Lò nung đang nấu 4 Thỏi sắt, rương **A Lò nung (76, 13)** còn 30 Quặng sắt + 31 Than đá: đủ thêm 10 vòi, lên 20/27. Than đá đã dư. Đi thang máy thẳng tầng 40. Nghề **Thợ mỏ** cho thêm 1 quặng mỗi viên đá quặng, nên ~18 viên đá sắt là đủ. Về đổ vào rương A Lò nung: Automate nạp cho 4 Lò nung, mỗi thỏi 2 giờ trong game (phải chạy giờ, không đóng băng)
+- [x] 💧 **Lắp đủ 27 Vòi tưới cây xịn cho cả 3 ruộng**, mỗi ruộng 9 cái ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7). Đủ **27/27**, đúng vị trí _(Quicksave 07:58)_. Sắt nấu từ quặng có sẵn, không phải xuống Hầm Mỏ.
 - [x] 🐦 **3 Bù nhìn** ở (13, 27) · (24, 27) · (35, 27), góc + (5, 5) của mỗi ruộng theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|quy hoạch]]. Ô Bù nhìn để trống, không gieo
 - [x] 🛒 **Pierre** (2 lượt): đã mua đủ hạt Hạ, gồm cả 52 Hạt ớt và 9 Hạt lúa mì để lấp Ruộng 1
-- [ ] 🌱 **Bón · gieo cả 3 ruộng: 270 ô.** Cả 300 ô đã cuốc xong, cỏ ở Ruộng 1 đã dọn. Mỗi ruộng chừa **10 ô trống** (9 ô vòi + 1 ô Bù nhìn), còn lại chia hai vùng:
+- [x] 🌱 **Bón · gieo cả 3 ruộng: 270 ô.** Đủ 270/270 ô, đúng bảng dưới _(Quicksave 08:14)_. Cả 300 ô đã cuốc xong, cỏ ở Ruộng 1 đã dọn. Mỗi ruộng chừa **10 ô trống** (9 ô vòi + 1 ô Bù nhìn), còn lại chia hai vùng:
   - **Vùng vòi, 71 ô** = x góc … góc + 8, y 22–30. 9 vòi lắp đủ thì phủ kín vùng này.
   - **Dải tưới tay, 19 ô** = hàng **y 31** cộng cột cuối của ruộng (**x 17 · x 28 · x 39**). Vòi tưới cây xịn tưới 3 × 3 nên 9 vòi chỉ phủ được 9 × 9, dải này nằm ngoài. Cả 3 dải là **57 ô**: **43 Hạt ớt + 13 Hạt việt quất + 1 Hạt lúa mì**. Theo kế hoạch ban đầu, hàng y 31 của Ruộng 3 gieo Ớt, nhưng đã gieo nhầm 9 Việt quất _(Quicksave 07:10)_. Bù bằng cách gieo 9 Ớt ở hàng y 30 của Ruộng 1, thay cho 9 Việt quất.
 
@@ -466,9 +460,9 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 - **Ví 24.609g**: tiền ship đêm qua đúng như ước tính ~6.700g. **Kỹ năng:** Trồng trọt **6** · Câu cá 10 · Hái lượm 6 · Khai khoáng 7 · Chiến đấu 6. Đã có công thức **Vòi tưới cây xịn**, và đêm qua không có màn chọn nghề.
 - 🔨 **Bình tưới Thép**: Clint báo còn 0 ngày, lấy được ngay. Các công cụ khác: Rìu Đồng · Cuốc chim Thép · Cuốc Thép · Cần câu Iridium. Túi **36 ô**.
 - 📬 Hộp thư trống: hai công thức **Sashimi** và **Nấm chiên** đã vào sổ. Mai không có thư. Robin không xây gì. Quest chỉ còn **Chìa khóa Đầu lâu**.
-- 🌱 _(Quicksave Hạ 1, lưu 08:18)_ **Ví 739g** sau 2 lượt mua ở Pierre. Cả **300 ô** của 3 ruộng đã cuốc, chưa gieo ô nào. Ruộng 3 đã bón Phân bón thúc cao cấp + Phân bón Thúc đúng bảng. **10 Vòi tưới cây xịn** đã đặt, 3 Bù nhìn đã đặt. **Rìu Thép** đang nâng ở Clint (ăn 5 Thỏi sắt), xong Hạ 3. Rương (58, 15) có:
-  - **Hạt Hạ:** 150 Hạt việt quất · 18 Hạt giống dưa · 18 Hạt giống ngô · 53 Hạt ớt · 11 Hạt lúa mì · 6 Hạt giống bí ngòi · 3 Hạt giống tổng hợp · 1 hạt mỗi loại: Hạt giống cà chua, Hạt giống anh túc, Hạt hướng dương, Hạt giống củ cải, Hạt giống trang kim, Hạt giống khế, Hoa bia giống. Rương (56, 16) có 4 Hạt cà phê
-  - **Phân:** 30 Phân bón chất lượng · 7 Phân bón cơ bản · 2 Phân bón giữ nước chất lượng. Các rương có 437 Nhựa cây
+- 🌱 _(Quicksave Hạ 1, lưu 08:14)_ **Ví 739g** sau 2 lượt mua ở Pierre. **27/27 Vòi tưới cây xịn** và 3 Bù nhìn đã đặt. **Cả 3 ruộng đã bón · gieo xong 270 ô** (Ruộng 3 gieo nhầm 9 Việt quất ở y 31, Ruộng 2 gieo nhầm 18 Ngô ở y 28 + y 30; cả hai đã đổi chỗ bù trong bảng). **Rìu Thép** đang nâng ở Clint (ăn 5 Thỏi sắt), xong Hạ 3. Còn lại trong túi và các rương:
+  - **Hạt Hạ:** hết, chỉ còn 5 Hạt cà phê
+  - **Phân:** 18 Phân bón cơ bản · 40 Nhựa cây
   - **Ngoài vụ Hạ:** 9 Hạt giống bí ngô · 8 Hạt giống hiếm · 34 Mạ · 8 Hạt súp lơ
   - Gói **Nông sản Chất lượng cao** chưa nộp món nào.
 - ❤️ Haley **1.676 điểm** (6 tim). Phải đủ 8 tim (2.000 điểm) thì cảnh tim kế tiếp mới diễn ra, nên hôm nay không có.
@@ -479,7 +473,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 > _Xây dần theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]] — toạ độ từng món, ảnh và link planner ở bên đó; đứng ngoài trại bấm `Z` ([[Mods#Debug Mode 1.17.4|Debug Mode]]) để đọc toạ độ ô. Chi phí và công thức dưới đây đọc từ file game 1.6.15 (`Data/Buildings`, `Data/CraftingRecipes`, `Data/Shops`), không phải trí nhớ._
 >
-> _**Hiện trạng (Quicksave Hạ 1, Năm 1):** Nông nghiệp cấp 6 · ví 739g · Chuồng gia cầm đã dời về **(65, 22)** · Kho chứa Cỏ ở (72, 22) · trục dọc x 40–41 đã lát hết · Ruộng 1–3 đang lắp Vòi tưới cây xịn._
+> _**Hiện trạng (Quicksave Hạ 1, Năm 1):** Nông nghiệp cấp 6 · ví 739g · Chuồng gia cầm đã dời về **(65, 22)** · Kho chứa Cỏ ở (72, 22) · trục dọc x 40–41 đã lát hết · Ruộng 1–3 đã đủ 27 Vòi tưới cây xịn._
 
 > [!tip] Hai luật giúp xây dần không phải phá đi làm lại
 > **Robin dời công trình miễn phí** (Cửa hàng Mộc → di chuyển công trình), nên công trình đặt tạm chỗ khác thì về sau dời về đúng toạ độ cũng chẳng mất gì. **Robin chỉ xây một công trình một lúc**, mỗi cái 2–3 ngày, nên các công trình cùng mùa phải xếp nối nhau.
