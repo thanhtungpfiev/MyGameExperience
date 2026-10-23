@@ -454,6 +454,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
   - Vòi tưới vào **6 giờ sáng**. Vòi đặt giữa ngày thì phải sang sáng mai mới tưới, nên ngày đặt vẫn phải tưới tay các ô quanh nó.
 - [x] 🐔 **Robin dời Chuồng gia cầm** sang **(65, 22)**, đã trồng Cỏ giống ở (67, 26) phía nam cửa chuồng
 - [ ] _(Routine)_ Mở cửa chuồng cho gà ra ngoài (nắng) · nhặt trứng · **đừng nhổ** cây **Trái cổ đại** (72, 27) và cây **Hạt cà phê** (70, 27), cả hai còn sống qua mùa Hạ
+- [ ] 🐡 **Quest Giao hàng: Alex**: 1 **Cá nóc**, thưởng **600g**, hạn hết Hạ 2. Túi và rương chưa có con nào. Cá nóc chỉ cắn ở **biển**, mùa Hạ, trời nắng, **12:00–16:00**, nên phải tắt `FreezeTime` cho giờ chạy tới trưa
 
 **📋 Thực tế** _(Quicksave Hạ 1, đầu ngày)_
 - **Thời tiết:** ☀️ nắng · **mai nắng**. **May mắn:** `dailyLuck` **−0,026** → **may thấp**.
