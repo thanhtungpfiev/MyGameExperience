@@ -425,7 +425,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 - [x] 🛒 **Pierre** (2 lượt): đã mua đủ hạt Hạ, gồm cả 52 Hạt ớt và 9 Hạt lúa mì để lấp Ruộng 1
 - [ ] 🌱 **Bón · gieo cả 3 ruộng: 270 ô.** Cả 300 ô đã cuốc xong, cỏ ở Ruộng 1 đã dọn. Mỗi ruộng chừa **10 ô trống** (9 ô vòi + 1 ô Bù nhìn), còn lại chia hai vùng:
   - **Vùng vòi, 71 ô** = x góc … góc + 8, y 22–30. 9 vòi lắp đủ thì phủ kín vùng này.
-  - **Dải tưới tay, 19 ô** = hàng **y 31** cộng cột cuối của ruộng (**x 17 · x 28 · x 39**). Vòi tưới cây xịn tưới 3 × 3 nên 9 vòi chỉ phủ được 9 × 9, dải này nằm ngoài. Cả 3 dải là **57 ô**, vừa khít số hạt còn dư sau vùng vòi: **52 Hạt ớt + 4 Hạt việt quất + 1 Hạt lúa mì**.
+  - **Dải tưới tay, 19 ô** = hàng **y 31** cộng cột cuối của ruộng (**x 17 · x 28 · x 39**). Vòi tưới cây xịn tưới 3 × 3 nên 9 vòi chỉ phủ được 9 × 9, dải này nằm ngoài. Cả 3 dải là **57 ô**: **43 Hạt ớt + 13 Hạt việt quất + 1 Hạt lúa mì**. Theo kế hoạch ban đầu, hàng y 31 của Ruộng 3 gieo Ớt, nhưng đã gieo nhầm 9 Việt quất _(Quicksave 07:10)_. Bù bằng cách gieo 9 Ớt ở hàng y 30 của Ruộng 1, thay cho 9 Việt quất.
 
   **Bón trước khi gieo**, vì cây nảy mầm rồi thì không bón được nữa. Phân lấy ở rương (58, 15). Hàng có vòi (y 23 · 26 · 29) chỉ còn 6 ô gieo được.
 
@@ -440,8 +440,9 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
   | **1** · y 25 + (8, 26) (vùng vòi) | **10 Lúa mì** | Không bón |
   | **1** · y 26 (10 · 11 · 13 · 14 · 16) + (8, 27) (vùng vòi) | **6 Bí ngòi** | **Phân bón cơ bản** cả 6 ô |
   | **1** · y 27, x 9–16 (trừ Bù nhìn 13) (vùng vòi) | **3 Hạt giống tổng hợp** (9–11) · **Anh túc** (12) · **Hướng dương** (14) · **Củ cải** (15) · **Trang kim** (16) | Không bón |
-  | **1** · y 28–30 (vùng vòi) | **24 Việt quất** (9 + 6 + 9) | **Phân bón cơ bản** cả 24 ô |
-  | **Dải tưới tay** · y 31 + x 17 · x 28 · x 39 | **4 Việt quất** (39, 22–25) · **1 Lúa mì** (39, 26) · **52 Ớt** ở 52 ô còn lại | **Phân bón giữ nước chất lượng** (2) cho 2 ô Ớt bất kỳ: đất này giữ ẩm qua đêm, chỉ có ích ở ô tưới tay · **Phân bón cơ bản** cho 54 ô Ớt + Việt quất còn lại · Lúa mì không bón |
+  | **1** · y 28–29 (vùng vòi) | **15 Việt quất** (9 + 6) | **Phân bón cơ bản** cả 15 ô |
+  | **1** · y 30, x 8–16 (vùng vòi) | **9 Ớt**, bù cho 9 Hạt việt quất Ruộng 3 đã gieo nhầm ở (30–38, 31) | **Phân bón cơ bản** cả 9 ô |
+  | **Dải tưới tay** · y 31 + x 17 · x 28 · x 39 | **13 Việt quất**: (39, 22–25) + (30–38, 31) · **1 Lúa mì** (39, 26) · **43 Ớt** ở 43 ô còn lại | **Phân bón giữ nước chất lượng** (2) cho 2 ô Ớt bất kỳ: đất này giữ ẩm qua đêm, chỉ có ích ở ô tưới tay · **Phân bón cơ bản** cho 54 ô Ớt + Việt quất còn lại · Lúa mì không bón |
 
   **Phân bón cơ bản phải chế thêm 180 bao.** Rương chỉ có 7 bao, dành cho Ngô và Khế như trên. 180 bao còn lại chế từ **2 Nhựa cây → 1 Phân bón cơ bản** (công thức đã có). Các rương đang có **437 Nhựa cây**, chế xong còn ~77. Đếm theo vùng: vùng vòi Ruộng 3 42 · vùng vòi Ruộng 2 53 · vùng vòi Ruộng 1 31 · dải tưới tay cả 3 ruộng 54. Không bón cho Lúa mì, Cà phê, 3 Hạt giống tổng hợp, Anh túc, Hướng dương, Củ cải, Trang kim: các cây này trồng để nộp gói, gói không đòi phẩm chất, và phần lớn chỉ thu một lần.
 
