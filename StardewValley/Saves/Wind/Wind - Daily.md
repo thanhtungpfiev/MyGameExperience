@@ -431,19 +431,19 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
   | Ruộng · ô | Gieo | Bón |
   |---|---|---|
-  | **3** · y 22–30 (vùng vòi) | **71 Việt quất** | **Phân bón thúc cao cấp** (10): cả hàng y 22 + (30, 23) · **Phân bón Thúc** (19): 5 ô còn lại của y 23, cả hàng y 24, y 25 x 30–34 · **Phân bón cơ bản**: 42 ô còn lại |
-  | **2** · y 22 · y 24–27 · y 29 | **47 Việt quất**, gieo kín các hàng này trừ ô vòi và ô Bù nhìn: y 22 · y 24 · y 25 mỗi hàng 9 ô · y 26 và y 29 mỗi hàng 6 ô (x 19 · 21 · 22 · 24 · 25 · 27) · y 27 8 ô (trừ Bù nhìn (24, 27)) | **Phân bón cơ bản** cả 47 ô |
-  | **2** · y 23 | **Cà chua** (19, 23) · **Ớt** (21, 23) · 4 **Việt quất** (22 · 24 · 25 · 27) | **Phân bón cơ bản** cả 6 ô |
-  | **2** · y 28 + y 30, x 19–27 | **18 Dưa**, 2 hàng × 9 | **Phân bón chất lượng** cả 18 ô |
-  | **1** · y 22 + y 24, x 8–16 | **18 Ngô** | **Phân bón chất lượng**: cả y 22 + (8–10, 24) = 12 ô · **Phân bón cơ bản**: (11–16, 24) = 6 ô |
-  | **1** · y 23 | **Hoa bia giống** (8, 23), giàn chắn lối nên đặt sát mép · **Khế** (10, 23) · **4 Cà phê** (11 · 13 · 14 · 16; lấy ở rương (56, 16)) | Hoa bia + Khế: **Phân bón cơ bản** · Cà phê không bón |
-  | **1** · y 25 + (8, 26) | **10 Lúa mì** | Không bón |
-  | **1** · y 26 (10 · 11 · 13 · 14 · 16) + (8, 27) | **6 Bí ngòi** | **Phân bón cơ bản** cả 6 ô |
-  | **1** · y 27, x 9–16 (trừ Bù nhìn 13) | **3 Hạt giống tổng hợp** (9–11) · **Anh túc** (12) · **Hướng dương** (14) · **Củ cải** (15) · **Trang kim** (16) | Không bón |
-  | **1** · y 28–30 | **24 Việt quất** (9 + 6 + 9) | **Phân bón cơ bản** cả 24 ô |
+  | **3** · y 22–30 (vùng vòi) | **71 Việt quất** | **Phân bón thúc cao cấp** (10): cả hàng y 22 + (30, 23) · **Phân bón Thúc** (19): 5 ô còn lại của y 23, cả hàng y 24, y 25 x 30–34 · **Phân bón cơ bản**: 42 ô còn lại của vùng vòi (y 25 x 35–38 · y 26–30); dải tưới tay của ruộng này tính ở dòng **Dải tưới tay** |
+  | **2** · y 22 · y 24–27 · y 29 (vùng vòi) | **47 Việt quất**, gieo kín các hàng này trừ ô vòi và ô Bù nhìn: y 22 · y 24 · y 25 mỗi hàng 9 ô · y 26 và y 29 mỗi hàng 6 ô (x 19 · 21 · 22 · 24 · 25 · 27) · y 27 8 ô (trừ Bù nhìn (24, 27)) | **Phân bón cơ bản** cả 47 ô |
+  | **2** · y 23 (vùng vòi) | **Cà chua** (19, 23) · **Ớt** (21, 23) · 4 **Việt quất** (22 · 24 · 25 · 27) | **Phân bón cơ bản** cả 6 ô |
+  | **2** · y 28 + y 30, x 19–27 (vùng vòi) | **18 Dưa**, 2 hàng × 9 | **Phân bón chất lượng** cả 18 ô |
+  | **1** · y 22 + y 24, x 8–16 (vùng vòi) | **18 Ngô** | **Phân bón chất lượng**: cả y 22 + (8–10, 24) = 12 ô · **Phân bón cơ bản**: (11–16, 24) = 6 ô |
+  | **1** · y 23 (vùng vòi) | **Hoa bia giống** (8, 23), giàn chắn lối nên đặt sát mép · **Khế** (10, 23) · **4 Cà phê** (11 · 13 · 14 · 16; lấy ở rương (56, 16)) | Hoa bia + Khế: **Phân bón cơ bản** · Cà phê không bón |
+  | **1** · y 25 + (8, 26) (vùng vòi) | **10 Lúa mì** | Không bón |
+  | **1** · y 26 (10 · 11 · 13 · 14 · 16) + (8, 27) (vùng vòi) | **6 Bí ngòi** | **Phân bón cơ bản** cả 6 ô |
+  | **1** · y 27, x 9–16 (trừ Bù nhìn 13) (vùng vòi) | **3 Hạt giống tổng hợp** (9–11) · **Anh túc** (12) · **Hướng dương** (14) · **Củ cải** (15) · **Trang kim** (16) | Không bón |
+  | **1** · y 28–30 (vùng vòi) | **24 Việt quất** (9 + 6 + 9) | **Phân bón cơ bản** cả 24 ô |
   | **Dải tưới tay** · y 31 + x 17 · x 28 · x 39 | **4 Việt quất** (39, 22–25) · **1 Lúa mì** (39, 26) · **52 Ớt** ở 52 ô còn lại | **Phân bón giữ nước chất lượng** (2) cho 2 ô Ớt bất kỳ: đất này giữ ẩm qua đêm, chỉ có ích ở ô tưới tay · **Phân bón cơ bản** cho 54 ô Ớt + Việt quất còn lại · Lúa mì không bón |
 
-  **Phân bón cơ bản phải chế thêm 180 bao.** Rương chỉ có 7 bao, dành cho Ngô và Khế như trên. 180 bao còn lại chế từ **2 Nhựa cây → 1 Phân bón cơ bản** (công thức đã có). Các rương đang có **437 Nhựa cây**, chế xong còn ~77. Đếm theo ruộng: Ruộng 3 42 · Ruộng 2 53 · Ruộng 1 31 · dải 54. Không bón cho Lúa mì, Cà phê, 3 Hạt giống tổng hợp, Anh túc, Hướng dương, Củ cải, Trang kim: các cây này trồng để nộp gói, gói không đòi phẩm chất, và phần lớn chỉ thu một lần.
+  **Phân bón cơ bản phải chế thêm 180 bao.** Rương chỉ có 7 bao, dành cho Ngô và Khế như trên. 180 bao còn lại chế từ **2 Nhựa cây → 1 Phân bón cơ bản** (công thức đã có). Các rương đang có **437 Nhựa cây**, chế xong còn ~77. Đếm theo vùng: vùng vòi Ruộng 3 42 · vùng vòi Ruộng 2 53 · vùng vòi Ruộng 1 31 · dải tưới tay cả 3 ruộng 54. Không bón cho Lúa mì, Cà phê, 3 Hạt giống tổng hợp, Anh túc, Hướng dương, Củ cải, Trang kim: các cây này trồng để nộp gói, gói không đòi phẩm chất, và phần lớn chỉ thu một lần.
 
   Tổng: 150 Việt quất · 18 Dưa · 18 Ngô · 53 Ớt · 11 Lúa mì · 6 Bí ngòi · 4 Cà phê · 10 hạt lẻ (Cà chua · Khế · Hoa bia · 3 tổng hợp · Anh túc · Hướng dương · Củ cải · Trang kim) = **270 ô**, dùng hết hạt Hạ trong rương.
 
