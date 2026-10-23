@@ -45,13 +45,13 @@
 
 ## 🔁 Vòng một ngày
 
-> _Quy trình ba nhịp. Từ **Ngày 24** trở đi note **không viết trước cả ngày** — chỉ viết phần cứng, việc thì chốt sau khi đọc save đầu ngày._
+> _Quy trình ba nhịp. Note chỉ viết trước **📝 Dự kiến cho 3 ngày tới** (ở nhịp ③). Việc thật của hôm nay chốt ở nhịp ①, sau khi đã có may mắn, thư và quest._
 
 | Nhịp | Bạn làm | Claude làm |
 |---|---|---|
-| **① Đầu ngày** | Bấm `F5` ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_\|QuickSave]]) rồi nói _"đọc save"_ | Đọc [[#📖 Đọc gì ở nhịp ①\|12 mục]] → ghi vào khối **📋 Thực tế** của ngày → chốt **🌦️ Nhánh** và **✅ Việc hôm nay** trong quota |
+| **① Đầu ngày** | Xem TV (may mắn), hộp thư, bảng nhiệm vụ, rồi bấm `F5` ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_\|QuickSave]]) và nói _"đọc save"_ | Đọc [[#📖 Đọc gì ở nhịp ①\|12 mục]] → đối chiếu với 📝 Dự kiến của hôm nay, sửa thành **✅ Việc hôm nay** theo thực tế (may mắn, thư, quest mới) → chốt **🌦️ Nhánh** |
 | **② Trong ngày** | Chơi theo danh sách | — |
-| **③ Cuối ngày** | Bấm `F5` lần nữa rồi nói _"chốt ngày"_ | **Gọn ngày lại như các ngày Xuân**: mỗi việc đã xong một dòng, chỉ giữ kết quả còn dùng về sau, bỏ bảng kế hoạch và khối 📋 Thực tế · viết sẵn **📝 Dự kiến** cho ngày mai |
+| **③ Cuối ngày** | Bấm `F5` lần nữa rồi nói _"chốt ngày"_ | **Gọn ngày lại như các ngày Xuân**: mỗi việc đã xong một dòng, chỉ giữ kết quả còn dùng về sau, bỏ bảng kế hoạch và khối 📋 Thực tế · viết **📝 Dự kiến cho 3 ngày tới**, sửa lại ngày nào đã có dự kiến. Tính trước **Nhà Văn hóa** (món nộp được ngay, món sắp có), **Bảo tàng**, quest có hạn, sinh nhật, **lễ hội**, **sự kiện bí mật** |
 
 ### 📖 Đọc gì ở nhịp ①
 
