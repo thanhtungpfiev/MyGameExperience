@@ -436,6 +436,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 - [ ] 🏛️ Nộp **Đậu hoa** (có 1, phẩm Bạc) vào gói **Sản phẩm Hái lượm Mùa Hè** (gói 0/3, còn thiếu **Thảo quả** và **Nho**, gặp thì nhặt)
 - [ ] 📬 Mở thư **Willy**: dạy công thức nấu theo tình bạn với Willy, save chưa có **Súp cá hồi (Trout Soup)** nên nhiều khả năng là món đó
 - [ ] 💧 _(Routine)_ Tưới tay **57 ô dải**: x 17 · x 28 · x 39 và hàng y 31 · mở cửa chuồng gà, nhặt trứng
+- [ ] 📦 _(Dọn, không tính quota)_ Rương cá ở (55, 16) đã **33/36 ô**: chuyển **San hô** và **Nhím biển** sang rương khác (game không xếp hai món này vào loại cá), ship con **Cá trích** phẩm Bạc → còn 31 ô. Đồ Bẫy cua vẫn là cá nên giữ lại, dù luôn phẩm thường
 - Haley **1.741 điểm** (6 tim), đã hết 2 lượt quà tuần này, chỉ nói chuyện. Chưa tới 2.000 điểm nên chưa có cảnh 8 tim. Bảo tàng không có món mới (48 món)
 
 ---
@@ -448,6 +449,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
   - Câu **Cá nhảy** ở ao cho gói **Cá Đặc Biệt**
   - Nhặt **Rau dớn** cho gói **Đầu Bếp**
   - Chặt gốc cây lớn lấy Gỗ cứng cho Hàng rào gỗ cứng
+- [ ] 📦 **Rương lớn** cho bộ cá Iridium: chặt thêm Gỗ cho đủ **120** (đầu Hạ 2 có 98), rồi mua công thức ở **Cửa hàng Mộc** của Robin, **5.000g**, chế bằng 120 Gỗ + 2 Thỏi đồng (có 23). Ví chưa đủ 5.000g thì dời sang ngày đủ. 70 ô chứa vừa cả **66 loài cá** của bộ sưu tập (56 loài câu bằng cần + 10 loài Bẫy cua), Rương thường 36 ô thì không
 - [ ] 💧 Tưới 57 ô dải. **Cá hồng** (chỉ cắn khi mưa) cho gói **Cá Biển** dời tới ngày mưa đầu tiên
 - Pierre **đóng cửa thứ Tư**
 
@@ -457,6 +459,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 **📝 Dự kiến:**
 - [ ] 🎣 **Hồ Trên Núi:** câu **Cá tầm** cho gói **Cá Hồ**, gói chỉ còn thiếu con này
+- [ ] 🎣 **Cá Phi Hồng (Crimsonfish)** ở Bãi biển, **1 con/save** nên chỉ có một lần để lấy Iridium: đứng **(92, 23)** quay phải (vũng thủy triều, độ sâu 5 → cá luôn vàng) rồi **bắt hoàn hảo** để vàng lên Iridium, cách tính ở [[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng|Chỗ đứng ra cá vàng]]. Chỉ cắn **mùa Hạ**, 06:00–20:00, mọi thời tiết, đứng từ x 82 trở sang phải, cần Câu cá 5. Độ khó 95: **đã tuột vạch một lần là hết hoàn hảo**, kéo lên chỉ được Vàng vĩnh viễn, nên cứ để cá thoát rồi câu lại (cá chưa lên bờ thì chưa tính vào giới hạn 1 con)
 - [ ] 🎂 Sinh nhật **Jas**: tặng quà nếu tiện, không bắt buộc
 - [ ] 💧 Nắng thì tưới 57 ô dải
 - **Lúa mì chín Hạ 5**: đủ 10 bó là nộp gói **Thức ăn Chăn Nuôi** (còn cần 10 Cỏ khô + 3 Táo)
@@ -532,6 +535,8 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 - Chừa tiền **Nam việt quất (240g/hạt) cho Thu 1** trước khi vét lần cuối ở Hạ 28.
 - 🐔 Gà mua cho đủ **4 con** (800g/con) cũng chờ tới đợt này, cùng lúc với lúc vét Hạt giống hiếm.
 - 💰 Kho bạc (Nhà Văn hóa) đã trả xong **2.500g · 5.000g · 10.000g**, chỉ còn gói **25.000g**. Gói này cũng chờ tới đợt này, vì không có hạn chót, còn tiền đầu Hạ bỏ vào hạt quay vòng thì lời hơn.
+
+**🎣 Bộ cá Iridium** — mọi thứ game xếp vào loại cá chung một **Rương lớn** (Hạ 3): **66 loài** của bộ sưu tập, mỗi loài 1 con, phẩm cao nhất có được. Iridium chỉ nhắm cho **56 loài câu bằng cần**. 10 loài Bẫy cua luôn phẩm thường, cứ giữ 1 con mỗi loài. Đầu Hạ 2 còn 3 con chưa Iridium câu lại được: **Cá thái dương** (Bạc) · **Cá bống tượng** · **Cá chép nửa đêm** (thường). **Cá huyền thoại** chỉ Vàng và không câu lại được. Bốn cá huyền thoại còn lại cũng 1 con/save, phải đứng chỗ ra vàng và bắt hoàn hảo ngay lần đầu: **Cá Phi Hồng** (Hạ 4) · **Cá lồng đèn** (Thu) · **Cá Băng hà** (Đông) · **Cá chép biến dị** (Cống ngầm).
 
 **🌱 Trái cổ đại** — cây ở ô (72, 27) chín lứa đầu **quanh Hạ 15**, sau đó cứ 7 ngày 1 quả (khoảng Hạ 22 · Thu 1 · 8 · 15 · 22). Bán 550g/quả thường; **nên giữ lại vài quả** — sau này có Máy làm hạt thì đổi ra Hạt giống cổ đại để trồng trong Nhà kính, nơi cây sống quanh năm.
 
