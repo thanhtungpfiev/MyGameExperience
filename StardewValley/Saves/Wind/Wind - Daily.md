@@ -87,7 +87,7 @@
 >
 > **Cần câu đã xong** — save đã có **Cần câu Iridium** (đủ chỗ mồi và phao), khỏi tính.
 >
-> **Hiện trạng (Quicksave Hạ 1, lưu 08:24):** Rìu **Thép** đang nâng ở chỗ Clint, xong **Hạ 3** · Cuốc chim **Thép** · Bình tưới **Thép** · Cuốc **Thép** · Cần câu **Iridium**. Nấc kế tiếp là **Vàng**: Cuốc chim Vàng mới phá được thiên thạch.
+> **Hiện trạng (save Wind_448678493, đầu Hạ 2):** Rìu **Thép** đang nâng ở chỗ Clint, còn 1 ngày, lấy **Hạ 3** · Cuốc chim **Thép** · Bình tưới **Thép** · Cuốc **Thép** · Cần câu **Iridium**. Nấc kế tiếp là **Vàng**: Cuốc chim Vàng mới phá được thiên thạch.
 >
 > **Túi đồ không phải việc của Clint mà của Pierre**, và nó là giới hạn cheat không chạm tới: 24 ô **2.000g**, 36 ô **10.000g**. Save đã có **36 ô** (mua Xuân 28), là nấc cuối.
 >
@@ -426,27 +426,29 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ### ☀️ Ngày 2 (Thứ Ba) — ⏳ hạn chót Cá nóc cho Alex · 📬 thư Willy
 
-**📝 Dự kiến** _(nhịp ③ Hạ 1; chốt lại ở nhịp ① khi đã có may mắn, thư, quest)_: ☀️ nắng.
-- [ ] 💧 Tưới tay **57 ô dải**: x 17 · x 28 · x 39 và hàng y 31
-- [ ] 🎣 **Biển, tắt `FreezeTime` cho giờ chạy:**
-  - **2 Cá nóc** (12:00–16:00, chỉ khi nắng): 1 con giao Alex trước khi hết hạn hôm nay (600g), 1 con nộp gói **Cá Đặc Biệt**
-  - Câu thêm **Cá ngừ** và **Cá rô phi** (Cá rô phi chỉ tới 14:00) cho gói **Cá Biển**
-- [ ] 🏛️ Nộp **Đậu hoa** (đang có 1, phẩm Bạc) vào gói **Sản phẩm Hái lượm Mùa Hè**. Gói còn thiếu **Thảo quả** và **Nho**, gặp thì nhặt
-- [ ] 📬 Đọc thư **Willy**, kèm một công thức nấu ăn
-- [ ] _(Routine)_ Mở cửa chuồng gà · nhặt trứng
-- Haley đã hết 2 lượt quà tuần này, chỉ nói chuyện. Bảo tàng chưa có món mới để quyên góp (đang 48 món)
+**📋 Thực tế** _(save Wind_448678493, đầu Hạ 2, lưu 08:45)_: ☀️ nắng · mai ☀️ nắng · 💀💀 **rất xui** (`dailyLuck` −0,096) · ví **3.851g** · Rìu Thép còn 1 ngày ở Clint · hộp thư: thư **Willy** · quest **Giao hàng: Alex** còn **1 ngày** (hết hạn cuối hôm nay) · Kho chứa Cỏ 42 rơm rạ.
+
+**🌦️ Nhánh:** ☀️ Nắng × 💀 May thấp → bảng giao chọn _xây & lát đường_, nhưng **quest có hạn hôm nay thắng playbook**: việc chính là Cá nóc. Cá nóc, Cá ngừ, Cá rô phi không ăn theo may mắn, chỉ **rương kho báu** là gần như không ra hôm nay, đừng chờ.
+
+**✅ Việc hôm nay** (1 chính + 3 phụ)
+- [ ] 🎣 **Chính — Biển, tắt `FreezeTime` cho giờ chạy:** **2 Cá nóc** (12:00–16:00, chỉ khi nắng): 1 con giao **Alex** trước khi hết ngày (600g), 1 con nộp gói **Cá Đặc Biệt**
+- [ ] 🎣 Cùng chuyến: **Cá ngừ** và **Cá rô phi** (Cá rô phi chỉ tới 14:00) cho gói **Cá Biển** (gói còn thiếu cả hai, và **Cá hồng** — cá ngày mưa)
+- [ ] 🏛️ Nộp **Đậu hoa** (có 1, phẩm Bạc) vào gói **Sản phẩm Hái lượm Mùa Hè** (gói 0/3, còn thiếu **Thảo quả** và **Nho**, gặp thì nhặt)
+- [ ] 📬 Mở thư **Willy**: dạy công thức nấu theo tình bạn với Willy, save chưa có **Súp cá hồi (Trout Soup)** nên nhiều khả năng là món đó
+- [ ] 💧 _(Routine)_ Tưới tay **57 ô dải**: x 17 · x 28 · x 39 và hàng y 31 · mở cửa chuồng gà, nhặt trứng
+- Haley **1.741 điểm** (6 tim), đã hết 2 lượt quà tuần này, chỉ nói chuyện. Chưa tới 2.000 điểm nên chưa có cảnh 8 tim. Bảo tàng không có món mới (48 món)
 
 ---
 
-### 🌦️ Ngày 3 (Thứ Tư) — 🪓 lấy Rìu Thép · mở Khu rừng Bí mật
+### ☀️ Ngày 3 (Thứ Tư) — 🪓 lấy Rìu Thép · mở Khu rừng Bí mật
 
-**📝 Dự kiến** _(thời tiết biết ở nhịp ③ Hạ 2)_:
+**📝 Dự kiến** _(save đầu Hạ 2 báo mai nắng)_:
 - [ ] 🔨 Lấy **Rìu Thép** ở Clint, rồi chặt khúc gỗ lớn chắn lối **Khu rừng Bí mật** (góc tây bắc Rừng Cindersap)
 - [ ] 🌲 Trong Khu rừng Bí mật:
   - Câu **Cá nhảy** ở ao cho gói **Cá Đặc Biệt**
   - Nhặt **Rau dớn** cho gói **Đầu Bếp**
   - Chặt gốc cây lớn lấy Gỗ cứng cho Hàng rào gỗ cứng
-- [ ] 💧 Nắng thì tưới 57 ô dải · **mưa** thì khỏi tưới, ra biển câu **Cá hồng** (chỉ cắn khi mưa) cho gói **Cá Biển**
+- [ ] 💧 Tưới 57 ô dải. **Cá hồng** (chỉ cắn khi mưa) cho gói **Cá Biển** dời tới ngày mưa đầu tiên
 - Pierre **đóng cửa thứ Tư**
 
 ---
@@ -466,7 +468,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 > _Xây dần theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|bản quy hoạch riêng]] — toạ độ từng món, ảnh và link planner ở bên đó; đứng ngoài trại bấm `Z` ([[Mods#Debug Mode 1.17.4|Debug Mode]]) để đọc toạ độ ô. Chi phí và công thức dưới đây đọc từ file game 1.6.15 (`Data/Buildings`, `Data/CraftingRecipes`, `Data/Shops`), không phải trí nhớ._
 >
-> _**Hiện trạng (Quicksave Hạ 1, Năm 1):** Nông nghiệp cấp 6 · ví 739g · Chuồng gia cầm đã dời về **(65, 22)** · Kho chứa Cỏ ở (72, 22) · trục dọc x 40–41 đã lát hết · Ruộng 1–3 đã đủ 27 Vòi tưới cây xịn._
+> _**Hiện trạng (save Wind_448678493, đầu Hạ 2, Năm 1):** Nông nghiệp cấp 6 · ví 3.851g · Chuồng gia cầm đã dời về **(65, 22)** · Kho chứa Cỏ ở (72, 22) · trục dọc x 40–41 đã lát hết · Ruộng 1–3 đã đủ 27 Vòi tưới cây xịn._
 
 > [!tip] Hai luật giúp xây dần không phải phá đi làm lại
 > **Robin dời công trình miễn phí** (Cửa hàng Mộc → di chuyển công trình), nên công trình đặt tạm chỗ khác thì về sau dời về đúng toạ độ cũng chẳng mất gì. **Robin chỉ xây một công trình một lúc**, mỗi cái 2–3 ngày, nên các công trình cùng mùa phải xếp nối nhau.
