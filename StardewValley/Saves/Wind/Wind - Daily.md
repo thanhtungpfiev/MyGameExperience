@@ -49,9 +49,9 @@
 
 | Nhịp | Bạn làm | Claude làm |
 |---|---|---|
-| **① Đầu ngày** | Xem TV (may mắn), hộp thư, bảng nhiệm vụ, rồi bấm `F5` ([[Mods#QuickSave 1.5.0 ⚠️ _đổi save serializer_\|QuickSave]]) và nói _"đọc save"_ | Đọc [[#📖 Đọc gì ở nhịp ①\|12 mục]] → đối chiếu với 📝 Dự kiến của hôm nay, sửa thành **✅ Việc hôm nay** theo thực tế (may mắn, thư, quest mới) → chốt **🌦️ Nhánh** |
+| **① Đầu ngày** | Ngủ dậy là nói _"đọc save"_, **không cần `F5`**: bản save lúc đi ngủ đã có may mắn, thời tiết, thư và quest đã nhận của ngày mới. Chỉ dán thêm Help Wanted nếu nhận quest trên bảng | Đọc [[#📖 Đọc gì ở nhịp ①\|12 mục]] → đối chiếu với 📝 Dự kiến của hôm nay, sửa thành **✅ Việc hôm nay** theo thực tế (may mắn, thư, quest mới) → chốt **🌦️ Nhánh** |
 | **② Trong ngày** | Chơi theo danh sách | — |
-| **③ Cuối ngày** | Bấm `F5` lần nữa rồi nói _"chốt ngày"_ | **Gọn ngày lại như các ngày Xuân**: mỗi việc đã xong một dòng, chỉ giữ kết quả còn dùng về sau, bỏ bảng kế hoạch và khối 📋 Thực tế · viết **📝 Dự kiến cho 3 ngày tới**, sửa lại ngày nào đã có dự kiến. Tính trước **Nhà Văn hóa** (món nộp được ngay, món sắp có), **Bảo tàng**, quest có hạn, sinh nhật, **lễ hội**, **sự kiện bí mật** |
+| **③ Cuối ngày** | Khoảng **22:00–24:00** trong game, bấm `F5` rồi nói _"chốt ngày"_. Làm trước khi ngủ chứ không gộp vào nhịp ① hôm sau: còn giờ để cứu việc quên | **Trước hết soi việc còn sót** mà vẫn kịp làm trước khi ngủ (chưa tưới, chưa ship, quest hết hạn đêm nay, quà sinh nhật). Rồi **gọn ngày lại như các ngày Xuân**: mỗi việc đã xong một dòng, chỉ giữ kết quả còn dùng về sau, bỏ bảng kế hoạch và khối 📋 Thực tế · viết **📝 Dự kiến cho 3 ngày tới**, sửa lại ngày nào đã có dự kiến. Tính trước **Nhà Văn hóa** (món nộp được ngay, món sắp có), **Bảo tàng**, quest có hạn, sinh nhật, **lễ hội**, **sự kiện bí mật** |
 
 ### 📖 Đọc gì ở nhịp ①
 
@@ -94,14 +94,14 @@
 > Và luật canh thời điểm vẫn nguyên giá trị, chỉ đổi lý do: **nâng Bình tưới đúng hôm ② báo mai mưa** — không phải để tiết kiệm năng lượng nữa, mà vì hai ngày không có bình là hai ngày ruộng khô.
 
 > [!info] Đọc được tới đâu trong save
-> **11/12 mục nằm trong file Quicksave** (đã mở bản Xuân 24 ra xác nhận). Mục hụt là **bảng Help Wanted** của mục ⑩: game giữ nó trong bộ nhớ lúc chạy, **không ghi vào save** — quest **đã nhận** thì có trong save, còn quest đang treo trên bảng thì phải xem trong game rồi dán tay.
+> **11/12 mục nằm trong save** (đã mở Quicksave Xuân 24 và save ngủ dậy Hạ 2 ra xác nhận). Mục hụt là **bảng Help Wanted** của mục ⑩: game giữ nó trong bộ nhớ lúc chạy, **không ghi vào save** — quest **đã nhận** thì có trong save, còn quest đang treo trên bảng thì phải xem trong game rồi dán tay.
 >
 > _Kiểm chứng: save `Wind_448678493/Quicksave` (game 1.6.15) · tier công cụ đọc từ `ResourceClump.performToolAction` của game._
 
 > [!info] Nhóm B ghi ở đâu
 > Trạng thái dài hạn của ⑧ ⑨ ⑩ **vẫn thuộc về** [[Wind - Tiến độ]] — note đó trả lời "save này đã làm được gì, còn thiếu gì", đừng chẻ sự thật ra hai chỗ. Ở note này, khối **📋 Thực tế** của ngày chỉ ghi phần **việc làm được hôm nay**, còn bảng tích thì cập nhật bên Tiến độ.
 
-**Đọc save ở đâu:** `%AppData%\StardewValley\Saves\Wind_448678493\Quicksave` — bản `F5` **bị ghi đè mỗi lần bấm**, nên nhịp ① và nhịp ③ của cùng một ngày là hai lần đọc khác nhau của cùng một file.
+**Đọc save ở đâu:** thư mục `%AppData%\StardewValley\Saves\Wind_448678493\`, đọc file nào **mới hơn**. Nhịp ① đọc `Wind_448678493` — game ghi file này lúc đi ngủ, khi ngày mới đã được dựng xong (`dailyLuck`, thời tiết mai, hộp thư đều là của ngày mới). Nhịp ③ đọc `Quicksave` — bản `F5`, **bị ghi đè mỗi lần bấm**.
 
 > [!tip] Khi không ngồi máy chơi game
 > Máy nào không cài Stardew thì không có thư mục save đó. **Dán tay nhóm A là đủ** để chạy cả ba nhịp — nhánh và quota không cần gì hơn. Nhóm B thì chỉ dán mục nào hôm đó có liên quan: công trình đang xây khi định đặt Robin, thư khi hộp thư có dấu, quest khi vừa nhận hoặc sắp hết hạn.
