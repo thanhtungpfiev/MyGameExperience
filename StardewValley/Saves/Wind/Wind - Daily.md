@@ -335,7 +335,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 ### ☀️ Ngày 22 (Thứ Hai) — ⏳ Hạn chót gieo Khoai tây / Cải xoăn
 
 - [x] Gieo nốt Khoai tây / Cải xoăn
-- [x] **Phòng Lò hơi** xong cả 3 gói (Bẫy Cua và Khoáng Sản xong hôm nay)
+- [x] **Phòng Súp-de** xong cả 3 gói (Bẫy Cua và Khoáng Sản xong hôm nay)
 
 ---
 
