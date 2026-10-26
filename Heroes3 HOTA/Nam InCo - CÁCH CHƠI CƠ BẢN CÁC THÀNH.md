@@ -1,6 +1,6 @@
 # 🏰 Heroes 3 HotA — Cách chơi cơ bản các thành (Nam InCo)
 
-> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **10/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
+> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **11/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
 >
 > _Video nói tiếng Việt nhưng tên thành, tên lính, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
@@ -25,7 +25,7 @@
 | 10 | [Cách chỉnh lỗi template 8XM8: Thành không có đường đi - Không tạo được map size G !](https://www.youtube.com/watch?v=A9zkjSXFbs8) | 03/12/2022 | ⬜ chưa xem |
 | 11 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Đầm Lầy FORTRESS.](https://www.youtube.com/watch?v=ylEF4scll9c) | 13/12/2022 | ✅ [[#1️⃣1️⃣ Fortress (Đầm Lầy) — Wyvern lên được ngày đầu, Gorgon làm đối phương ngại, tướng phép "ăn học đàng hoàng"\|đã chắt lọc]] |
 | 12 | [8XM8 là gì? Tại sao nhiều người chơi 8XM8? Cách chơi cơ bản map 8XM8.](https://www.youtube.com/watch?v=oZotpPb5Gl0) | 10/01/2023 | ✅ [[#1️⃣2️⃣ Map 8XM8 — vì sao khó, vì sao người Việt mê, và cách cày vịt nhanh\|đã chắt lọc]] |
-| 13 | [Chia sẻ kinh nghiệm chơi cơ bản thành Phượng Hoàng CONFLUX.](https://www.youtube.com/watch?v=VUGJGH8hJMI) | 21/01/2024 | ⬜ chưa xem |
+| 13 | [Chia sẻ kinh nghiệm chơi cơ bản thành Phượng Hoàng CONFLUX.](https://www.youtube.com/watch?v=VUGJGH8hJMI) | 21/01/2024 | ✅ [[#1️⃣3️⃣ Conflux (Phượng Hoàng) — không bao giờ thọt kỹ năng, quân nhanh nhất game, và năm tướng mạnh vượt trội\|đã chắt lọc]] |
 | 14 | [Cách để chọn Tướng ẩn: SirMullich, Gelu, HaartLich...](https://www.youtube.com/watch?v=kiH2LRNbOuI) | 24/01/2024 | ⬜ chưa xem |
 | 15 | [Các phím tắt CƠ BẢN trong Heroes !](https://www.youtube.com/watch?v=Dllj-Eq8T7o) | 26/01/2024 | ⬜ chưa xem |
 | 16 | [Duel cơ bản \| P1: Xây dựng mục tiêu ở biome !](https://www.youtube.com/watch?v=UZwwxUciiqE) | 27/01/2024 | ⬜ chưa xem |
@@ -63,6 +63,7 @@
 
 **Bên trong video 12** — [[#🧮 AI value — vì sao 8XM8 khó hơn các template khác|AI value]] · [[#🏆 8XM8 phân cấp trình độ — chênh lệch giữa các thành chỉ có nghĩa đầu game|Phân cấp trình độ]] · [[#🗺️ Bố cục 8XM8 — 16 thành, khoảng 24 vùng đất, đất nhà ít mỏ vịt|Bố cục 16 thành]] · [[#💰 Mua tướng trước, Town Hall sau — phép tính "ta hô" của 8XM8|Mua tướng trước, Town Hall sau]] · [[#🧭 Số tướng bằng số ngã rẽ — cách mở đường từng bước|Số tướng = số ngã rẽ]] · [[#🐴 Quân chủ lực tuần 1 — bài toán 10.000 vàng của Castle|Bài toán 10.000 vàng]] · [[#🦆 Tuần 2 trên 8XM8 — gom ngựa với bia đỡ đạn để đánh mỏ vịt|Tuần 2 đánh mỏ vịt]] · [[#🚪 Đừng loanh quanh đất nhà — đánh thẳng đường chính sang vùng khác|Sang vùng khác & chuyện Luna]] · [[#🔗 Chuỗi tướng luân chuyển quân — đánh nhiều hướng trong một ngày|Chuỗi tướng luân chuyển]] · [[#🐉 Ba giai đoạn của 8XM8 — quân chủ lực, cày vịt, đánh nhà rồng|Ba giai đoạn]] · [[#❓ Bảng giải mã phụ đề — video 12 (8XM8)|Bảng giải mã]]
 
+**Bên trong video 13** — [[#🏗️ Hàng công trình đầu của Conflux — và vì sao ít ai mua Ballista|Công trình đầu & Ballista]] · [[#🎓 Magic University — vì sao tướng Conflux không bao giờ "thọt kỹ năng"|Magic University]] · [[#🧚 HotA nerf con bướm qua ba đời — từ ngày 1 ở SoD tới Garden of Life ở 1.7|Ba đời nerf con bướm]] · [[#🛒 Artifact Merchants — bán đồ lấy tài nguyên để mua quân nhanh|Artifact Merchants]] · [[#🔥 Vault of Ashes — công trình bù lại khi Phoenix bị cắt quân|Vault of Ashes]] · [[#🧚 Garden of Life — +10 con bướm, và cái khoá nâng cấp của HotA 1.7|Garden of Life]] · [[#💰 Chi phí xây quân Conflux — rẻ nhất game về vàng|Chi phí xây quân]] · [[#🧚 Pixie và Sprite — yếu nhất từng con, nhưng nhanh nhất trong quân cấp 1|Pixie & Sprite]] · [[#🌪️ Air và Storm Elemental — quân cấp 2 chưa nâng mạnh nhất game|Air & Storm Elemental]] · [[#💧 Water và Ice Elemental — quân cấp 3 thiên về thủ, máu nhiều nhất cấp 3|Water & Ice Elemental]] · [[#🔥 Fire và Energy Elemental — chưa nâng thì chỉ để chịu thịt|Fire & Energy Elemental]] · [[#🪨 Earth và Magma Elemental — quân cấp 5 gần như yếu nhất game|Earth & Magma Elemental]] · [[#⚖️ Bốn Elemental — kháng phép này, ăn gấp đôi phép kia, và khắc nhau từng cặp|Kháng phép & khắc nhau]] · [[#🧠 Psychic và Magic Elemental — Hydra thu nhỏ, kháng mọi phép|Psychic & Magic Elemental]] · [[#☄️ Bốn quân kháng Armageddon — và vì sao Conflux khắc Necropolis|Armageddon & khắc Necropolis]] · [[#🐦 Phoenix — chỉ số yếu nhất cấp 7, nhưng speed 21 và hồi sinh|Phoenix]] · [[#⚔️ Tướng chiến Conflux — chuyên Elemental cộng thẳng kiếm, giáp, sát thương|Tướng chiến chuyên Elemental]] · [[#🧠 Pasis và Monere — cùng chuyên Psychic, nhưng Monere là tướng chạy nhanh nhất những ngày đầu|Pasis & Monere]] · [[#🪨 Thunar, Erdamon, Ignissa, Fiur, Lacus, Kalt — tướng phụ lo cắm mỏ|Sáu tướng phụ]] · [[#🔥 Luna — mẹo đặt Fire Wall hai vòng để đánh nhà Angel tuần một|Luna & mẹo Fire Wall]] · [[#🌪️ Inteus, Brissa, Aenain — tướng Fire bị Luna lấn át, và cặp tướng gió|Inteus, Brissa, Aenain]] · [[#🎯 Ciele và Gelare — Magic Arrow cộng 50%, và tướng nước kém hơn hẳn|Ciele & Gelare]] · [[#🪨 Labetha và Stone Skin — khi nào Stone Skin hơn Shield|Labetha, Stone Skin vs Shield]] · [[#🐌 Grindan — Slow có sẵn, cả trận chỉ tốn 5 mana|Grindan & Slow]] · [[#🏁 Chốt — năm tướng mạnh, bị cấm ở SoD, và Luna HotA chỉ còn +25%|Chốt]] · [[#🎥 Mốc thời gian — video 13|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 13 (Conflux)|Bảng giải mã]]
 
 ---
 
@@ -3449,6 +3450,554 @@ Về cuối: có đồ rồi thì có sách phép, xem tướng địch ở đâ
 | "spaghett" | món đồ tăng tầm nhìn ❓ | **Không rõ** |
 | "đo Fly" · "sách đỏ" | Dimension Door + Fly ❓ | **Khá chắc** — theo bảng giải mã video 3 |
 | "Paul skin" · "skin… đổi hết bệnh xương" | Skeleton Transformer ❓ | **Đoán** |
+
+## 1️⃣3️⃣ Conflux (Phượng Hoàng) — không bao giờ thọt kỹ năng, quân nhanh nhất game, và năm tướng mạnh vượt trội
+
+> [!video] Nguồn
+> [Chia sẻ kinh nghiệm chơi cơ bản thành Phượng Hoàng CONFLUX.](https://www.youtube.com/watch?v=VUGJGH8hJMI) · đăng 21/01/2024 · video 13/25
+>
+> Chắt lọc từ phụ đề tự động tiếng Việt **có mốc thời gian**, do người dùng dán vào note, chắt lọc ngày 26/10/2026. Bản dán chạy tới mốc **1:00:02** rồi **bị cắt giữa câu chào cuối** ("…và chúc anh"). Phần nội dung có vẻ đã hết. Độ dài video chưa đọc được từ trang xem. Chỉ số quân, giá công trình và chuyên môn tướng đã đối chiếu `heroes.v.thelazy.net` ngày **26/10/2026**. Video nói trên nền **HotA 1.7**, và tác giả tự mở game ra thử ở cuối video. Xem [[#❓ Bảng giải mã phụ đề — video 13 (Conflux)|bảng giải mã]].
+
+Video mở lại loạt bài sau một thời gian tạm dừng. Lý do dừng: tác giả đã chuyển sang template **Duel**, template PvP thông dụng bây giờ. Nhưng tác giả cho rằng cách phát triển quân của các thành thì template nào cũng tương tự, vì nó dựa trên năng lực gốc của thành. Video vẫn đi đúng ba phần **công trình → quân → tướng**, vẫn trên map **8XM8**. Video **không nói chuyện đánh trận cụ thể**, vì cái đó tuỳ thực chiến (0:00–1:04).
+
+Video gọi Conflux là "thành chim lửa". Ngay từ đầu, tác giả nhắc hai tướng mạnh nhất: **Luna**, con tướng mạnh tới mức góp phần làm Conflux **bị cấm ở bản SoD** khi đấu, và **Monere** (1:04–1:36).
+
+### 🏗️ Hàng công trình đầu của Conflux — và vì sao ít ai mua Ballista
+
+Sáu công trình đầu giống các thành khác (1:36–2:53):
+
+- **Town Hall** là công trình kinh tế.
+- **Citadel** tăng **50%** lượng quân mỗi tuần, **Castle** tăng **100%**. Video lấy ví dụ con bướm (Pixie) gốc 20 con một tuần, xây Castle thì lên 40.
+- **Tavern** có sẵn. Video nói chỉ Tavern của Castle (thành Thiên Thần) là nâng được để tăng morale.
+- **Blacksmith** của Conflux bán **Ballista**. Theo video, quân Conflux đã đủ mạnh nên không cần, có khi Ballista còn **hại**. Lý do: khi đánh thả diều bằng con bướm, quái đuổi theo con bướm đúng hướng mình muốn. Có Ballista thì quái quay sang đánh Ballista, và phá thế thả diều.
+- **Marketplace** và **Mage Guild** thì như mọi thành.
+
+### 🎓 Magic University — vì sao tướng Conflux không bao giờ "thọt kỹ năng"
+
+Video gọi đây là ưu điểm đầu tiên của Conflux (2:53–4:34).
+
+- **Magic University** cần Mage Guild cấp 1. Xây xong, tướng học được cả bốn hệ phép **Earth, Air, Fire, Water**. Vì vậy tướng Conflux "không bao giờ thọt skill".
+- Hai kỹ năng quan trọng nhất để đi map là **Earth** và **Air**. Earth cho phép về thành (Town Portal) ❓ và hồi sinh. Air cho Fly và Dimension Door.
+- Ở template **Duel**, Earth và Air cần **sớm**. Ở 8XM8 thì để muộn được: nuôi một tướng, gần cuối mới cho học Earth, Air và những kỹ năng đẹp. Video có một câu không rõ: công trình này "luôn cho free một thành chim lửa ở trong bom" ❓.
+- Học được Earth thì có **Slow**. Con bướm và thần gió (Air Elemental) vốn speed cao, cộng thêm Slow thì đánh thả diều "uy lực kinh khủng". Grindan có sẵn Earth và Slow từ đầu.
+
+Kết luận của video: nhờ công trình này, **tướng nào của Conflux cũng mạnh**, chứ không riêng Luna. Luna nổi hơn chỉ vì có sẵn Fire từ đầu. Con tướng nào cũng có thể cầm bướm đi thả diều.
+
+> [!info]- Ngoài nguồn — HotA bắt trả thêm tài nguyên khi học ở Magic University
+> Trang `Magic_University` (kiểm 26/10/2026): xây tốn **5.000 vàng + 10 gỗ + 10 đá**, cần Mage Guild, khớp con số video đọc ở đoạn sau. Ở SoD mỗi hệ phép giá **2.000 vàng**. HotA đòi thêm 5 tài nguyên hiếm tương ứng: Air + 5 Gem, Fire + 5 Mercury, Earth + 5 Sulfur, Water + 5 Crystal. Video không nhắc chuyện này.
+
+### 🧚 HotA nerf con bướm qua ba đời — từ ngày 1 ở SoD tới Garden of Life ở 1.7
+
+Video kể lại vì sao con bướm không còn là chiến thuật chính (4:34–5:22):
+
+1. **SoD:** xây nhà xong là nâng con bướm (Sprite) ngay **ngày đầu**. Luna cầm Sprite đi đánh bốn phía, hết mana thì về lấy mana rồi đánh tiếp.
+2. **HotA bản đầu:** nâng Sprite cần **Mage Guild cấp 1 và Magic University**. Magic University tốn 10 gỗ, 10 đá, 5.000 vàng, nên nâng Sprite ngày đầu "gần như không tưởng". Người chơi bỏ hẳn bước đó.
+3. **HotA 1.7:** nâng Sprite **không cần Magic University nữa**, mà cần **Garden of Life**. Phần này nói ở dưới.
+
+### 🛒 Artifact Merchants — bán đồ lấy tài nguyên để mua quân nhanh
+
+**Artifact Merchants** cho Conflux bán bớt đồ lấy tài nguyên để mua quân, chủ yếu là mua Phoenix (5:22–6:09).
+
+Lý do video đưa ra: ở 8XM8, quân chủ lực thường là **Wyvern** (vịt), HotA có thêm **Cyclops**. Nhưng **đi trước trong trận** rất quan trọng, nên ngoài cày vịt vẫn phải lên một quân chủ lực speed cao, như Angel hay Phoenix. Phoenix có **speed 21**, "vô địch" trong HotA. Gần như không con nào đuổi kịp, và nó luôn giành lượt đi trước.
+
+### 🔥 Vault of Ashes — công trình bù lại khi Phoenix bị cắt quân
+
+**Vault of Ashes** là công trình HotA sinh ra để bù cho việc Phoenix bị nerf. Nó cộng **+1 Phoenix mỗi tuần** và cần có nhà Phoenix (Pyre) trước (6:09–7:38).
+
+Video giải thích bằng cách so hai bản:
+
+- **SoD:** Conflux mạnh không chỉ vì tướng mà vì cả quân. Xây đủ Castle thì có **4 Phoenix một tuần**. Chỉ số Phoenix thấp, nhưng xét số lượng mỗi tuần thì gần như vô địch trong quân cấp 7. Thêm vào đó là khả năng hồi sinh.
+- **HotA:** nhà Phoenix chỉ cho **1 con một tuần**, có Castle thì 2. Hai con một tuần so với quân cấp 7 khác "lại quá yếu". Castle nhân đôi nên số luôn chẵn. Muốn có **3 con** thì phải có thêm công trình, và Vault of Ashes ra đời. Nó tốn **5.000 vàng + 5 Mercury** ❓ (video nói "năm nồi").
+
+> [!info]- Ngoài nguồn — wiki khớp lời video
+> Trang `Vault_of_Ashes` (kiểm 26/10/2026): **5.000 vàng + 5 Mercury**, cần Pyre, +1 Firebird/Phoenix mỗi tuần. Wiki ghi HotA đã **giảm lượng quân gốc của Pyre từ 2 xuống 1**, như một phần nerf Conflux. Vault of Ashes tính là một công trình riêng, nên còn làm tháp bắn của thành bắn đau hơn. "Năm nồi" vậy là **5 Mercury**.
+
+### 🧚 Garden of Life — +10 con bướm, và cái khoá nâng cấp của HotA 1.7
+
+**Garden of Life** cộng ngay **10 con bướm** một tuần (7:38–9:14). Video nhận xét nó "khá bất ổn" với thành đối thủ: tuần hai đã có một đống bướm. Nhưng theo video, nó chỉ có tác dụng **từ tuần thứ hai** ❓.
+
+Ở HotA 1.7 nó có thêm một vai trò: **kìm Conflux**. Nâng Sprite cần **Mage Guild cấp 1 và Garden of Life**, nên tốn thêm một ngày. Tướng Conflux những ngày đầu không có Sprite nên phải đánh tay bo nhiều hơn: Pixie chưa nâng thì **bị đánh trả** (Sprite mới không bị đánh trả). Từ đó sinh ra meta mới: **tận dụng cả thần gió** (Air Elemental) để đánh.
+
+Còn bản thân 10 con bướm tuần hai thì video cho là **không quan trọng lắm**. Conflux đánh rất nhanh, tuần một đã làm được nhiều thứ. Chỉ ở 8XM8, khi đầu tuần ba tung ra nhiều tướng mở nhiều đường, 10 con bướm mới đỡ được phần nào.
+
+> [!info]- Ngoài nguồn — điều kiện nâng Sprite hiện nay khớp video
+> Trang `Sprite` và `Garden_of_Life` (kiểm 26/10/2026): nhà Magic Lantern xây **300 vàng + 3 gỗ + 3 đá**, nâng cấp **1.000 vàng**. Bản HotA đòi **Mage Guild cấp 1 + Garden of Life**. Garden of Life tốn **1.000 vàng**, cần Magic Lantern, **+10 Pixie/Sprite mỗi tuần**. Wiki không ghi điều kiện của "HotA bản đầu", nên bước 2 ở mục trên vẫn là lời video.
+
+### 💰 Chi phí xây quân Conflux — rẻ nhất game về vàng
+
+Video coi chi phí xây là lợi thế cực lớn của Conflux (9:14–12:09).
+
+| Nhà quân (theo lời video) | Chi phí video đọc |
+|---|---|
+| Nhà Phoenix (SoD) | 10 gỗ · 10 đá · 10 Mercury ❓ · 10.000 vàng |
+| Nhà Phoenix (HotA) | **20 Mercury** ❓ ("20 nồi") |
+| Nâng Sprite | 1.000 vàng |
+| Nhà thần gió (Air Elemental) | HotA có sẵn. Trước đây 5 gỗ · 5 đá · 2.000 vàng |
+| Nhà thần nước (Water Elemental) | 5 đá · 1.000 vàng ❓ ("năm đá nghìn gấy") |
+| Nhà thần lửa (Fire Elemental) | 5 gỗ · 5 đá · 2.000 vàng, cần thêm Mage Guild cấp 1 |
+| Nhà thần đất (Earth Elemental) | 10 đá · 2.000 vàng |
+| Nhà "con hậu" (Psychic Elemental) | 3.000 vàng, cần hai loại tài nguyên |
+
+Ý của video:
+
+- Ở SoD, 10.000 vàng và 10 Mercury cho nhà cấp 7 là dễ. Trên 8XM8 thì **chắc chắn lên Phoenix trong tuần hai** để cầm speed đi đánh. Nếu tung đủ tướng, đủ tài nguyên thì lên luôn trong **tuần một**.
+- HotA đẩy lên **20 Mercury** để kìm Phoenix. Muốn đủ thì phải đánh những công trình cho nhiều Mercury, như Cyclops Stockpile. Thường **tuần một không xây Phoenix nữa**.
+- Video kết luận: Conflux **gần như không có nhược điểm về xây dựng**.
+
+Hệ quả video rút ra: xây dễ cộng quân mạnh đầu game, nên Conflux **không cho các tướng mạnh về cuối** như "khách Tara" ❓ hay **Mephala** kịp lớn. Conflux không có tướng nào chỉ số kinh khủng như các thành khác, nhưng vẫn **áp đảo được các thành khác**. Nó còn đối trọng được cả **Necropolis** lúc Necropolis còn non (11:31–12:09).
+
+> [!bom] Giá nhà Phoenix chưa đối chiếu được
+> Bảng giá nhà quân trên trang `Conflux` và `Pyre_(dwelling)` (đọc 26/10/2026) bị dàn phẳng, các con số dính vào nhau, nên **không ghép được giá với từng nhà**. Bảng trên là **lời video**. Riêng nhà Psychic Elemental, wiki ghi nhà gốc cộng nhà nâng cấp tổng cộng **6.000 vàng + 5 mỗi loại tài nguyên**. Nhà nâng cấp cần Mage Guild cấp 2 và mọi nhà quân khác trừ Pyre.
+
+### 🧚 Pixie và Sprite — yếu nhất từng con, nhưng nhanh nhất trong quân cấp 1
+
+Trong quân Conflux, **chỉ quân cấp 1 và cấp 7 không phải Elemental**, nên hồi sinh được. Video thừa nhận Conflux có khá nhiều nhược điểm về quân, nhưng ưu điểm nhiều hơn (12:09–12:31).
+
+Về con bướm (12:31–15:29):
+
+- **Máu thấp nhất trong quân cấp 1** (3 máu). Ngày trước Sprite có sát thương 1–3. Video nói bây giờ nâng cấp bị hạn chế, "dam từ 1 đến 2" ❓.
+- Bù lại: **rất rẻ, rất đông**. Có thể tách nhỏ ra đánh mà không bị đánh trả, để thần gió đập.
+- **Pixie speed 7** đã là cao nhất trong quân cấp 1. **Sprite speed 9**, vẫn cao nhất. Chỉ con ngựa của Rampart (Centaur Captain) gần bằng, với speed 8.
+- Sprite **bay qua chướng ngại vật**, rất khó chịu khi thả diều quân chạy bộ speed thấp. Nhưng gặp **quân bắn** thì "rụng tả tơi như sung", vì 3 máu và giáp thấp.
+- Đánh lợi nhất ở **địa hình xấu**: quái canh đứng gần rừng cây, đồi núi, phải chạy vòng. Bài địa hình xấu đã nói ở các video trước.
+
+Chiến thuật cũ của SoD: tuần đầu khoảng **50–70 con bướm** là càn map được. Luna cầm **6–7 con bướm** ❓ ("độ s bảy") đánh được **nhà Angel** ngay tuần một, lấy Angel đi càn cuối tuần. Mạnh hơn nữa thì cày luôn mỏ vịt tuần một. Ở HotA, việc nâng Sprite đã bị chặn bằng hai công trình, nên thả diều bằng bướm **không còn là meta**. Meta mới là **thần gió kết hợp con bướm** (14:41–15:29).
+
+| Chỉ số (kiểm 26/10/2026) | Pixie | Sprite |
+|---|---|---|
+| Kiếm / giáp | 2 / 2 | 2 / 2 |
+| Sát thương · máu | 1–2 · 3 | 1–3 · 3 |
+| Speed | 7 | 9 |
+| Tăng quân / tuần | 20 (+10 với Garden of Life) | 20 (+10) |
+| Kỹ năng | Bay | Bay, không bị đánh trả |
+
+> [!bom] Hai chỗ video đọc lệch wiki
+> - Video nói Sprite "công ba thủ ba". Wiki ghi Sprite **kiếm 2, giáp 2**, giống Pixie.
+> - Video nói sát thương Sprite bây giờ chỉ còn 1–2. Wiki ghi Pixie 1–2, **Sprite 1–3**. Đoạn sau (13:43) chính video cũng đọc Sprite "đánh 1 đến 3". Wiki không ghi Sprite từng bị giảm sát thương.
+
+### 🌪️ Air và Storm Elemental — quân cấp 2 chưa nâng mạnh nhất game
+
+Video gọi **Air Elemental** là quân cấp 2 chưa nâng mạnh nhất (15:29–19:26).
+
+- **Máu 25**, trâu nhất trong quân cấp 2. **Kiếm 9, giáp 9**, ngang Griffin của Castle.
+- Sát thương **2–8**, trung bình 5, nhỉnh hơn Griffin và Dragon Fly (3–5).
+- So với con chó đã nâng của Stronghold: con chó cắn hai lần nhưng máu và sát thương chỉ bằng nửa. Mỗi bên đánh một lần thì thần gió hơn. Thực chiến con chó speed cao hơn, cắn trước, nên trội hơn một chút.
+- **Được Bless thì rất kinh.** Sát thương thành 8, thêm Water thì 9 ❓. Video nói như thế mạnh hơn cả một số quân cấp 3. Conflux không thọt kỹ năng, nên lên Water sớm là lựa chọn khá ưu.
+
+**Storm Elemental** (bản nâng) thêm khả năng **bắn**. Kết hợp với con bướm thì thành chiến thuật **đánh rong** (16:55–18:33). Video phân biệt hai từ:
+
+- **Thả diều** — một quân bay đi bay lại, tận dụng morale và khoảng cách, đánh một phát rồi chạy.
+- **Đánh rong** — một quân bay đi bay lại để **nhử** quân địch đuổi theo, cho quân bắn hạ nó. Tower làm được bằng Gargoyle với Gremlin, Rampart làm được, Inferno làm được bằng con Imp ❓ speed 7. Castle thì không, vì quân chủ yếu speed thấp và phải bo lại đánh. Conflux làm tốt nhất, vì con bướm speed 9 vừa nhử, có morale vẫn đánh thêm được một lượt.
+
+Nhược điểm của Storm Elemental: nó vẫn **bị trừ một nửa sát thương khi cận chiến**. Bị áp sát thì 2–8 chỉ còn 1–4, Bless lên cũng chỉ 5. Vì vậy khi đã nâng hết, con chó của Stronghold mạnh hơn hẳn. Video khuyên **tuỳ trường hợp**: có lúc giữ Air Elemental chưa nâng để đánh cận chiến và Bless cho nó gõ. Tầm 50–70 con ❓ được Bless thì vào nhà rồng cũng gõ rất đau (18:43–19:26).
+
+### 💧 Water và Ice Elemental — quân cấp 3 thiên về thủ, máu nhiều nhất cấp 3
+
+Video xếp **Water Elemental** ở mức **trung bình** trong quân cấp 3 (19:26–23:12).
+
+- Tổng kiếm và giáp vẫn là 18 như thần gió, nhưng **thiên về thủ** (8 kiếm, 10 giáp). Fire Elemental thì ngược lại, thiên về công. Ba con có sát thương trung bình gần bằng nhau (khoảng 5), nhưng **Bless thì khác nhau**: thần gió 2–8 được lợi nhất.
+- So với Griffin của Castle (9 kiếm, 9 giáp): tổng bằng nhau thì **giáp cao hơn luôn có lợi hơn một chút**.
+- **Máu 30**, gần như nhiều nhất trong quân cấp 3. Video nhớ Dragon Fly 20, Griffin 25, Archer 15.
+- Đây là quân video khuyên **thí vào nhà rồng** để đánh nhà rồng, mỏ vịt sớm.
+
+**Nhược điểm chung của Conflux:** từ cấp 1 tới cấp 5 **không con nào đủ trâu** để chịu sát thương trong nhà rồng. Thành khác có con ngựa của Castle, ma cây của Rampart. Conflux bù lại bằng giáp cao và số đông. Lựa chọn khác là dùng bướm và thần gió đánh các mỏ quân mạnh, lấy quân ném vào mỏ vịt hay tổ chuồn chuồn.
+
+**Ice Elemental** (bản nâng) cũng **bắn được**, nhưng không đau bằng Storm Elemental, và cũng bị trừ sát thương khi cận chiến. Speed chậm: 5, nâng lên 6, trên đất nhà mới 7.
+
+**Hai quân bắn ở cấp thấp (cấp 2 và cấp 3)** là chỗ video coi Conflux lợi hơn mọi thành (22:02–23:12):
+
+- **Tower** có quân bắn cấp 1 và cấp 4. Nhưng con Mage cấp 4 rất khó nâng, tốn tài nguyên hiếm, cần thêm Library ❓. Chưa nâng thì nó vẫn bắn được.
+- **Dungeon** có quân bắn cấp 3 và cấp 4 (Beholder). Nhà Beholder cũng tốn đủ loại tài nguyên. Đánh map nhiều tướng thì phải đi nhặt đủ tài nguyên mới xây và nâng được Beholder với Medusa.
+- **Conflux** xây và nâng hai con này không nặng. Nâng thần gió chỉ cần thêm Gem và Mercury ❓. Hai quân bắn này khá khoẻ, kết hợp con bướm thì mở đường "rất là kinh".
+
+### 🔥 Fire và Energy Elemental — chưa nâng thì chỉ để chịu thịt
+
+Máu bốn con Elemental tăng đều **5 máu mỗi cấp**: 25, 30, 35, 40 (23:12–25:29).
+
+- **Fire Elemental:** sát thương **4–6**, dao động ít, nên Bless không lợi mấy. Máu 35 chỉ ở mức trung bình so với quân cấp 4. Kiếm 10, giáp 8.
+- **Chưa nâng thì speed 6**, chỉ đi trước vài quân cấp 1–2. Video coi nó chỉ để **chịu thịt, chịu sát thương**, nhặt được ở ngoài map thì ném vào ngân hàng quái hay tổ vịt. Đánh Cyclops Stockpile thì nó chủ yếu để cho Cyclops ném. Trên đất nhà nó lên speed 7, cận chiến được với tốp Cyclops chưa nâng.
+- **Energy Elemental** có speed 8 và **bay qua chướng ngại vật**. Nhưng nâng nó tốn kém, phải nâng thần gió trước. Video khuyên **thường không nâng**, để tài nguyên xây sâu hơn lên Phoenix thì lợi hơn nhiều.
+
+Video tự chốt cách gọi: Fire Elemental nên gọi là "nguyên tố lửa" thì chuẩn nhất (24:21–24:37).
+
+| Chỉ số (kiểm 26/10/2026) | Fire Elemental | Energy Elemental |
+|---|---|---|
+| Kiếm / giáp | 10 / 8 | 12 / 8 |
+| Sát thương · máu | 4–6 · 35 | 4–6 · 35 |
+| Speed | 6 (đi bộ) | 8 (bay) |
+| Tăng quân / tuần | 5 | 5 |
+
+### 🪨 Earth và Magma Elemental — quân cấp 5 gần như yếu nhất game
+
+**Earth Elemental** chỉ có **40 máu**. Với quân cấp 5 thì video gọi là "rất là yếu", **gần như yếu nhất trong mọi quân cấp 5**, có lẽ chỉ ngang Zealot ❓ (25:29–26:26). Zealot còn có lợi là bắn được, nên Earth Elemental gặp Zealot vẫn thiệt.
+
+- Bù lại: **10 kiếm, 10 giáp**, chỉ số ổn với cấp 5. Sát thương 4–8 thì Bless được.
+- Ưu điểm duy nhất là **kháng một số phép**.
+- Bản nâng (Magma) cũng không mạnh hơn bao nhiêu. Video nói xây nhà này chủ yếu để đi tiếp lên quân cao hơn. Nhặt được mỏ Earth Elemental ngoài map thì dồn vào các mỏ quân.
+
+### ⚖️ Bốn Elemental — kháng phép này, ăn gấp đôi phép kia, và khắc nhau từng cặp
+
+Video gọi đây là **nhược điểm chung** của bốn con Elemental: tưởng kháng phép, nhưng lại bị ăn gấp đôi sát thương của phép khác (26:26–29:23). Chỗ video coi là nghịch lý: **thần gió ăn gấp đôi phép gió, thần đất ăn gấp đôi phép đất**. Thần nước và thần lửa thì ngược lại, **kháng đúng hệ của mình**.
+
+| Elemental (kiểm 26/10/2026) | Kháng | Ăn gấp đôi | Sát thương ×2 lên | Bản nâng cast |
+|---|---|---|---|---|
+| **Air / Storm** | Meteor Shower | Lightning Bolt, Chain Lightning, Armageddon | Earth, Magma | Protection from Air |
+| **Water / Ice** | Ice Bolt, Frost Ring | Fireball, Inferno, Armageddon | Fire, Energy | Protection from Water |
+| **Fire / Energy** | Mọi phép Fire | Ice Bolt, Frost Ring | Water, Ice | Protection from Fire |
+| **Earth / Magma** | Lightning Bolt, Chain Lightning, Armageddon | Meteor Shower | Air, Storm | Protection from Earth |
+
+- **Protection from X** do bản nâng cast dùng khá nhiều trong PvP. Nó giúp quân chủ lực kháng được một số phép. Nhưng mấy quân này đa số speed thấp hơn, nên chỉ bảo vệ được **từ lượt hai**. Lượt đầu vẫn phải dựa vào thực lực của Phoenix (28:41–29:23).
+- **Hai cặp khắc nhau:** thần gió với thần đất, thần nước với thần lửa, đánh nhau thì **gấp đôi sát thương** (29:23–29:47).
+- Video kết phần này: các Elemental máu ít, nhưng ghép lại thành một **bức tường** khá tốt. Về cuối game chúng dùng để **cast phép**, mang theo làm thịt và Protection cho quân chủ lực, chứ ít đánh. Nhiều trận cuối không dùng tới, chỉ dùng giai đoạn mở đường (29:47–30:09).
+
+> [!info]- Ngoài nguồn — chi tiết wiki thêm vào bảng
+> Bảng trên lấy từ trang từng Elemental (kiểm 26/10/2026). Wiki ghi thêm hai chỗ video không nói: Protection do Elemental cast ở **bậc Advanced, power 6, ba lần mỗi trận**. Water và Ice Elemental **thật ra không** bị gấp đôi bởi Fire Wall, Land Mine, Fire Shield, dù sách hướng dẫn và chữ trong game nói có.
+
+### 🧠 Psychic và Magic Elemental — Hydra thu nhỏ, kháng mọi phép
+
+**Magic Elemental** nằm ngoài vòng khắc chế của bốn con kia. Nó cấp cao hơn nên không bị bốn con kia khắc (30:09–33:30).
+
+- **Đánh mọi quân xung quanh mà không bị đánh trả**, cả khi chưa nâng. Video gọi nó là **bản thu nhỏ của Chaos Hydra**. Chiếm ô nhỏ hơn nên dễ luồn lách vào chỗ đông quân hơn Hydra.
+- Nhược điểm: đánh quân **kháng phép** thì bị **giảm một nửa sát thương**. Gặp Black Dragon thì gần như là khắc tinh. Máu hơi ít, nên thường là mục tiêu đầu tiên bị đánh.
+- **Psychic Elemental** (chưa nâng) chỉ kháng **phép tác động tâm trí** (Mind spell). Mọi Elemental đều không có não, nên phép như Berserk ❓ ("bic") hầu như không dùng được lên quân Conflux.
+- **Magic Elemental** (nâng) **kháng toàn bộ phép**, trừ khi đối phương có **Orb of Vulnerability** ❓ ("cầu ngọc đen").
+- Đứng solo thì nó không phải quân mạnh trong cấp 6. Phải tìm cách đưa nó vào giữa cụm quân đông mới phát huy hết.
+
+| Chỉ số (kiểm 26/10/2026) | Psychic Elemental | Magic Elemental |
+|---|---|---|
+| Kiếm / giáp | 15 / 13 | 15 / 13 |
+| Sát thương · máu | 10–20 · 75 | 15–25 · 80 |
+| Speed | 7 | 9 |
+| Kháng | Phép tâm trí | Mọi phép, trừ Quicksand, Dispel, Fire Shield |
+
+> [!bom] Video đọc ngược kiếm và giáp
+> Video đọc Psychic Elemental "công 13 thủ 15". Wiki ghi **kiếm 15, giáp 13** cho cả hai bản. Sát thương 10–20 thì video đọc đúng.
+
+### ☄️ Bốn quân kháng Armageddon — và vì sao Conflux khắc Necropolis
+
+Video đếm quân Conflux **kháng Armageddon**: con "hậu" (Magic Elemental), thần lửa, thần đất, và Phoenix (32:02–33:07). Mang cả bộ này đi trận thì sau khi Armageddon xong vẫn còn lực quân rất mạnh, chứ không chỉ còn mỗi tốp Phoenix.
+
+Vấn đề duy nhất: **Armageddon bị cấm trong Mage Guild của Conflux**. Muốn có thì phải tìm sách phép lửa hoặc học ở đền phép cấp 4–5 ngoài map ❓. Video gọi đó là chuyện "may rủi". Đã được thì Conflux mạnh quá mức. Lý do Conflux không xây được Armageddon thì xem [[#☄️ Armageddon — phép mạnh nhất game, và ba thành duy nhất học được nó|mục Armageddon ở video 6]].
+
+**Khắc Necropolis** (33:30–34:07): năm loại Elemental kháng được các kỹ năng nguy hiểm của Necropolis. Video kể ba thứ: **đòn đổ bệnh của Zombie** ❓, **hút máu của Vampire**, và **đòn đánh lan của Lich** ❓ ("bán lan của con nick"). Chỉ Psychic Elemental chưa nâng là bị dính. Video kết luận: Conflux đánh nhanh thì khắc chế được Necropolis. Necropolis mà không cầm cự tới cuối game thì gần như không có cửa.
+
+> [!bom] Firebird ở HotA không còn kháng Armageddon
+> Trang `Phoenix` (kiểm 26/10/2026): ở SoD, Firebird **miễn nhiễm** phép lửa. Ở HotA nó chỉ **giảm 50%** sát thương phép lửa, nên Armageddon **chỉ Phoenix (bản nâng) là miễn nhiễm**. Danh sách miễn nhiễm ở [[#☄️ Armageddon — phép mạnh nhất game, và ba thành duy nhất học được nó|mục video 6]] ghi "Firebird và Phoenix", tức là theo SoD.
+
+### 🐦 Phoenix — chỉ số yếu nhất cấp 7, nhưng speed 21 và hồi sinh
+
+Chỉ xét kiếm, giáp, sát thương, máu thì **Phoenix yếu nhất trong quân cấp 7**. Bốn chỉ số đó chỉ ngang **rồng xương**. Kiếm giáp gần bằng **Hydra**, video nhớ khoảng 19 kiếm, 20–21 giáp ❓ (34:07–34:50).
+
+Nhưng video nói "trong Heroes, tốc độ quyết định tất cả". Đi trước thì xử lý tốt hơn đối phương, và **speed của Phoenix là vô địch** (34:50–35:13). Thêm hai thứ:
+
+- **Hồi sinh (Rebirth)** — đánh chết rồi nó vẫn sống lại. Video nói 4 con thì "hên xui", **5 con chắc chắn hồi sinh ít nhất 1**, 6 con thì hồi sinh 2 ❓. Mỗi trận chỉ hồi sinh **một lần**. Đã dùng phép hồi sinh lên nó thì nó không tự hồi sinh nữa (35:13–35:52).
+- **Đòn phun lửa hai ô** như rồng. Video cho là không mạnh lắm, vì ít khi để quân chồng lên nhau cho nó thổi. Tác dụng chính là **chặn đối phương bo cung**: phải xếp quân cách ô để tránh bị thổi lan (35:52–36:32).
+
+Video tổng kết: chỉ số thấp nhưng **tốc độ và hồi sinh che lấp nhược điểm**. Gần như trận nào cũng phải mang Phoenix để giành lượt đi trước, có khi chỉ cần **một con** là đã có lợi thế rất lớn (36:32–37:04).
+
+**Cầm Phoenix chơi Armageddon** (37:04–38:27) là bài toán rất hay gặp. Hai cái bẫy:
+
+- Đối phương có quân kháng lửa, như Efreet của Inferno. Chỉ cầm một tốp Phoenix thì có thể bị **lật kèo**. Gặp Rampart, Dungeon thì tốt nhất đừng: rồng nâng **kháng Armageddon**. Rồng chưa nâng thì không. Khi đó mang theo cả quân cấp 4, 5, 6, 7 cùng kháng Armageddon.
+- Đối phương có **Orb of Vulnerability** ❓. Video gọi chuyện này là "nghịch lửa có ngày đốt tay". Trước khi dùng phải **thử phép**: thả một phép diện rộng như **Fireball** ❓ ("f b") trúng cả quân mình. Thấy Phoenix vẫn bị dính thì đối phương có Orb, **không được dùng Armageddon**. Thường dùng Armageddon thì mình mang ít quân hơn, nên dùng sai là gãy.
+
+| Chỉ số (kiểm 26/10/2026) | Firebird | Phoenix |
+|---|---|---|
+| Kiếm / giáp | 18 / 18 | 21 / 18 |
+| Sát thương · máu | 30–40 · 150 | 30–40 · **200** |
+| Speed | 15 | **21** |
+| Giá (HotA) | 2.000 vàng | 3.000 vàng + 1 Mercury |
+| Kháng lửa | HotA: giảm 50% phép lửa | Miễn nhiễm phép lửa |
+| Kỹ năng | Phun lửa hai ô | Phun lửa hai ô, **Rebirth** |
+
+> [!bom] Luật hồi sinh theo wiki không ra "6 con hồi sinh 2"
+> Trang `Phoenix` (kiểm 26/10/2026): số Phoenix chắc chắn hồi sinh bằng **số con ban đầu chia 5**. Mỗi con còn lại có thêm **20%** cơ hội. Vậy 5 con chắc chắn 1, khớp video. 4 con có 41% hồi sinh 1 con, khớp chữ "hên xui". Nhưng 6 con thì chỉ **chắc chắn 1**, cộng thêm cơ hội, chứ không chắc chắn 2 như video nói. Video đọc "21 công 18 thủ, máu 200" là chỉ số của **Phoenix** (bản nâng), khớp wiki.
+
+**Tóm lại cách dùng quân Conflux** (38:27–38:58): trừ quân cấp 2, chỉ số quân Conflux từ cấp 1 tới cấp 7 **đều thấp hơn các thành khác**. Phải dùng rất khéo, tận dụng kỹ năng đặc biệt nhiều. Đánh Necropolis thì khá tự tin, nhưng phải **đánh nhanh nhất có thể**. Necropolis đã build nhiều Skeleton thì quá đông, Conflux khó chơi lại, mà tướng Conflux cũng không phải tướng mạnh về cuối.
+
+### ⚔️ Tướng chiến Conflux — chuyên Elemental cộng thẳng kiếm, giáp, sát thương
+
+Tướng Conflux nhìn chỉ số không ưu việt, nhưng theo video là **một trong những dàn tướng mạnh nhất game**. Mạnh không chỉ vì bản thân tướng, mà vì tướng kết hợp với quân (38:58–39:58).
+
+Mỗi tướng chiến (Planeswalker) chuyên **một loại Elemental**, thành từng cặp. Điểm khác tướng chuyên quân của thành khác: chuyên môn không cộng speed, mà **cộng thẳng vào kiếm, giáp, sát thương** (39:58–41:17). Video đọc con số trong game:
+
+| Cặp tướng chiến | Chuyên | Video đọc | Kiểm wiki 26/10/2026 |
+|---|---|---|---|
+| **Pasis**, **Monere** | Psychic Elemental | +3 kiếm, +3 giáp | ❓ trang Monere hiển thị "5" và "3" cạnh hai biểu tượng phiên bản, không tách chắc được con nào của HotA |
+| **Thunar**, **Erdamon** | Earth Elemental | +2 kiếm, +1 giáp, +5 sát thương | **Khớp HotA** (SoD là +3 / +2 / +5) |
+| **Ignissa**, **Fiur** | Fire Elemental | +1 kiếm, +2 giáp, +2 sát thương | **Khớp HotA** (SoD là +3 / +4 / +2). Sát thương 4–6 thành 6–8 |
+| **Lacus**, **Kalt** | Water Elemental | Chủ yếu tăng kiếm, lên khoảng 10 kiếm 10 giáp | ❓ wiki chỉ ghi tăng kiếm, con số hiển thị dính vào nhau ("12") |
+
+Tướng phép (Elementalist) cũng chia cặp theo **bốn hệ**: Luna và Inteus (Fire), Brissa và Aenain (Air), Ciele và Gelare (Water), Grindan và Labetha (Earth) (41:08–41:26).
+
+> [!info]- Ngoài nguồn — kỹ năng khởi đầu của 16 tướng
+> Trang `Planeswalker` và `Elementalist` (kiểm 26/10/2026):
+>
+> | Tướng chiến | Kỹ năng | Tướng phép | Kỹ năng · phép |
+> |---|---|---|---|
+> | Pasis | Offense · Artillery | Luna | Wisdom · Fire · Fire Wall |
+> | Monere | Offense · Logistics | Inteus | Wisdom · Fire · Bloodlust |
+> | Thunar | Tactics · Estates | Brissa | Wisdom · Air · Haste |
+> | Erdamon | Tactics · Estates | Aenain | Wisdom · Air · Disrupting Ray |
+> | Ignissa | Offense · Artillery | Ciele | Wisdom · Water · Magic Arrow |
+> | Fiur | **Advanced** Offense | Gelare | Wisdom · Water · Dispel |
+> | Lacus | **Advanced** Tactics | Labetha | Wisdom · Earth · Stone Skin |
+> | Kalt | Tactics · Learning | Grindan | Wisdom · Earth · Slow |
+>
+> Mọi chỗ video nói về kỹ năng khởi đầu đều khớp bảng này, **trừ Aenain** (xem mục tướng gió).
+
+### 🧠 Pasis và Monere — cùng chuyên Psychic, nhưng Monere là tướng chạy nhanh nhất những ngày đầu
+
+**Pasis** chuyên Psychic Elemental, có **Artillery** (41:33–42:22). Artillery hợp với Ballista bán ở Blacksmith. Nhưng như đã nói, Conflux đánh kèm Ballista không phải lựa chọn hay. Về cuối, Artillery chủ yếu để thủ thành, mà Conflux thì gần như không thủ, chỉ công. Dù vậy HotA vẫn có một combo khá hay: **thần gió + bướm + Ballista**, vì HotA không còn thả diều bằng bướm nữa. Pasis vẫn dùng được đầu game, chỉ là mất một ô kỹ năng.
+
+**Monere** là tướng **cực kỳ mạnh** (42:22–44:07). Quân Conflux speed cao, cộng thêm **Logistics**, nên Monere là một trong những tướng **chạy nhanh nhất mấy ngày đầu**. Video so với hai tướng Logistics khác:
+
+- **Gunnar** ❓ ("guna") của Dungeon: cầm cả Troglodyte và Harpy ❓ ("chôn và gà") thì chạy chậm. Chỉ cầm Harpy thì khó đánh và chậm hơn Monere một chút. Về sau chuyên môn của Gunnar tăng nhiều nên chạy nhanh hơn hẳn.
+- **Kyrre** ❓ ("kire") của Rampart: phải cầm cả Centaur và cung, hoặc chỉ Centaur nếu đánh giỏi. Cung chỉ speed 7. Còn Conflux nâng hai con lên thì thần gió speed 8, bướm speed 9. Vì vậy những ngày đầu Kyrre chưa chắc nhanh bằng Monere.
+
+Với quân speed cao, có Logistics và Offense để thần gió với bướm đập, video gọi Monere là tướng **cận chiến cực mạnh** những ngày đầu. Người đánh thiên cơ bắp mở đường nhanh hơn, người dựa vào phép thì chậm hơn.
+
+### 🪨 Thunar, Erdamon, Ignissa, Fiur, Lacus, Kalt — tướng phụ lo cắm mỏ
+
+**Thunar và Erdamon** (chuyên Earth Elemental) có **Estates** (44:07–45:38). Estates đỡ tiền mấy ngày đầu để nâng Phoenix, nhưng không có nó thì tuần hai vẫn lên được Phoenix. Nó chủ yếu dùng để build và nâng một số quân. Hai tướng có **Tactics**: Earth Elemental chưa nâng speed 4, nâng thì 6. Thêm Tactics xếp 7 ô, cộng 6 speed thành 13 ô, nên **lượt hai áp sát được quân cung**. Không có Tactics thì phải tới lượt ba.
+
+Nhưng video nói hai tướng này **chỉ là tướng phụ**. Conflux phải nâng quân **theo dây**, nên Earth Elemental là con không nâng được, và không nên nâng mấy ngày đầu. Dùng nó cắm mỏ thì được, đánh mỏ vịt cũng được nhờ +2 kiếm, +1 giáp, +5 sát thương.
+
+**Ignissa** (chuyên Fire Elemental) có Offense và **Artillery**, giống Pasis (45:38–46:25). Video cho là tạm ổn đầu game. Conflux không cần lạm dụng Ballista, nên có kỹ năng này cũng được, không có cũng không sao. Video so với tướng Artillery của Inferno ❓ ("con pir"): ở Inferno nhiều khi không mua được Ballista nên kỹ năng phí, còn ở Conflux thì vẫn dùng được.
+
+**Fiur** chỉ có **Advanced Offense** từ đầu, nên đánh đấm khá tốt (46:25–46:50). Fire Elemental dễ lên trong tuần một, nên cuối tuần một dùng Fiur đánh mỏ vịt cũng ổn, nếu đủ quân. Có **một kỹ năng duy nhất** từ đầu nên bộ kỹ năng nuôi về sau rất đẹp.
+
+**Lacus** có **Advanced Tactics**, xếp luôn 9 ô từ đầu ❓. Video nói có khi Lacus còn mạnh hơn (46:50–47:32). **Kalt** có **Learning**. Video giải thích vì sao Learning ở đây **gần như phế**: với tướng chuyên quân thành khác, chuyên môn tăng theo level, nên lên Learning thì quân càng khoẻ. Còn tướng chiến Conflux **cộng thẳng chỉ số, không tăng theo level**. Kalt nhìn đẹp hơn nhưng thật ra yếu hơn cả Lacus.
+
+**Chốt tướng chiến** (47:32–48:05): hai tướng mạnh là **Monere và Fiur**. Hai tướng dùng được là **Pasis và Ignissa**. Số còn lại chủ yếu để cải thiện quân cấp 3, 4, 5 cho ném vào mỏ vịt. Nếu quân dựa nhiều vào hai con "tấy" ❓ thì có thể đưa cho hai tướng đó để tăng giáp đánh vào mỏ.
+
+### 🔥 Luna — mẹo đặt Fire Wall hai vòng để đánh nhà Angel tuần một
+
+Video nói Conflux có tướng chiến khá mạnh, nhưng thứ đưa nó lên tầm như hiện tại lại là **tướng phép** (48:05–48:29). Đứng đầu là **Luna**, ai chơi Heroes một thời gian cũng biết.
+
+Luna **không cần tiền để nâng quân**. Mấy ngày đầu cứ ăn rương lấy kinh nghiệm. Lên **Advanced Fire Magic** thì tường lửa phủ **ba ô**, đốt được rất nhiều mục tiêu chạy bộ, kể cả quân bay trong **nhà Angel** (48:29–48:51).
+
+**Mẹo đánh nhà Angel sớm** (48:51–50:07), video nói từ bản SoD, không chắc HotA còn dùng được không:
+
+- Chỉ cần lửa đủ đốt **một nửa** tốp Griffin ❓ ("đại bàng") là đánh được. Đặt **hai tường lửa** thì nó đốt hai lần.
+- Đặt tường lửa **sát** con bướm thì Griffin **không lao vào**. Đặt lùi ra **một ô** thì nó lao vào, vì nó tính ô gần con bướm nhất mà không có lửa. Đây là quân hai ô.
+- Cách làm: **lượt một** đặt một tường lửa sát con bướm, cho bướm vào góc. **Lượt hai** đặt thêm một tường ở vòng ngoài. Griffin lao vào ngay, dính hai tường lửa vừa đủ chết.
+
+Thường Luna **tuần một đánh được nhà Angel**, đổi một con bướm lấy Angel. Angel speed 12. Ở SoD, Conflux cùng đất với Castle nên Angel lên **speed 13**. Rồi đánh luôn mỏ vịt: Angel đi trước, nhảy vào góc, đặt tường lửa, chuồn chuồn lao vào và tự chết. Như vậy cày cả vịt lẫn Angel "cực kỳ nhàn hạ" (50:07–50:30).
+
+Đánh map ở địa hình xấu thì bay vào góc, cho lửa xếp ba tầng. Chỉ cần một tường lửa, tính sao cho quân hai ô **giẫm ba lần**. Tường lửa thực ra gây ít sát thương, nhưng giẫm ba lần là nhân ba. Luna chỉ cần luyện **Spell Power** ❓ ("power"), không cần nhìn đối phương, đối phương tự giẫm lửa mà chết (50:30–50:53).
+
+Về cuối game thì tướng phép vẫn yếu hơn. Quân đông rồi thì người ta không né, cứ giẫm vào tường lửa. Luna mang lại lợi thế **đầu game**, kể cả PvP. Cuối game vẫn phải chuyển sang tướng chiến như **Monere**, nuôi Monere đánh cận chiến (50:53–51:19).
+
+### 🌪️ Inteus, Brissa, Aenain — tướng Fire bị Luna lấn át, và cặp tướng gió
+
+**Inteus** cũng có Fire, nhưng so với Luna thì "một trời một vực" (51:19–52:10). Chuyên **Bloodlust**: +6 kiếm cho quân cận chiến, cộng thêm theo cấp quân. Video đọc: +3 với quân cấp 1–2, +2 với cấp 3–4, +1 với cấp 5–6 ❓. Được chọn thì chọn Luna. Có Fire từ đầu cũng không quan trọng lắm với Conflux, vì đã có Magic University.
+
+**Brissa** chuyên **Haste**, có Air từ đầu (52:10–52:58). Video nói Brissa mạnh khi luyện hết. Conflux vốn speed cao, Haste chủ yếu giúp con bướm **cận chiến được vào quân bắn** ngay. Đánh quân thường thì không cần, phí mana. Lên Air sớm thì Haste được nhiều quân để đánh quân cận chiến ít tốn quân. Tướng gió hay được chọn, vì thường xuyên có Air. Chuyên môn thì không mạnh lắm, chỉ giúp quân về sau đi nhanh hơn. Giai đoạn đầu chỉ sợ quân bắn, nên Haste là lợi thế.
+
+**Aenain** thì video nói **thiệt hơn Brissa vì không có Air** từ đầu.
+
+> [!bom] Aenain có sẵn Air theo wiki
+> Trang `Elementalist` (kiểm 26/10/2026) ghi Aenain khởi đầu **Basic Wisdom + Basic Air Magic**, phép **Disrupting Ray**. Như vậy cả hai tướng gió đều có Air. Video nói Aenain không có, lệch wiki. Có thể video nhầm, hoặc phụ đề nhầm tên tướng ❓.
+
+### 🎯 Ciele và Gelare — Magic Arrow cộng 50%, và tướng nước kém hơn hẳn
+
+**Ciele** nổi tiếng "không hề kém Luna", yếu hơn một chút nhưng **dễ dùng hơn** (53:05–53:51). Dùng Luna phải đánh rất nhuần nhuyễn mới tận dụng hết. Ciele chỉ cần ném thẳng vào mặt quái, không phải tính quái đi đường nào hay địa hình xấu. Cứ bay nhảy xung quanh mà ném.
+
+- Chuyên **Magic Arrow**, +50% sát thương so với tướng thường. Ciele có Water, nên vừa ném Magic Arrow vừa Bless.
+- Ciele cũng cầm **một con bướm** đi càn map được như Luna, nhưng **không an toàn bằng**. Với Luna, đối phương có morale vẫn phải chạy qua lửa. Với Ciele, quái có morale thì có thể quay lại đánh. Nên phải có đồ trừ morale, bỏ morale thì càng hay.
+
+**Gelare** cũng hệ nước, nhưng chuyên **cộng vàng**, nên yếu hơn Ciele rất nhiều (53:51–54:08). Phép **Dispel** khởi đầu thì ít dùng khi đánh mở đường, vì đánh quái chẳng cần Dispel.
+
+### 🪨 Labetha và Stone Skin — khi nào Stone Skin hơn Shield
+
+**Labetha** và **Grindan** là hai tướng **Earth**, video gọi là "cực mạnh". Conflux gắn liền với thả diều và đánh rong, nên có Earth sớm thì dùng **Slow** được. Labetha có thêm chuyên môn **Stone Skin**, nên không phí kỹ năng (54:08–54:40). Video nói chuyên môn này cộng giáp **nhiều hơn với quân cấp thấp** ❓.
+
+Video dành một đoạn dài so **Stone Skin** với **Shield** (54:40–56:49):
+
+- Stone Skin là phép thủ tốt, **+6 giáp** trực tiếp. Shield chỉ tác dụng khi **cận chiến**.
+- Hai phép giá trị gần bằng nhau, nhưng khác cách tính. Shield **trừ vào sát thương cuối cùng**. Stone Skin **cộng vào giáp**, tức kéo hẹp khoảng cách kiếm với giáp.
+- Khi kiếm đối phương **cao hơn** giáp mình, mỗi điểm kiếm chênh là **+5% sát thương**. Stone Skin bớt 6 điểm, tương đương **−30%**, ngang Shield.
+- Khi giáp mình **đã cao hơn** kiếm đối phương, mỗi điểm giáp chỉ giảm **2,5%**. Video lấy ví dụ giáp 30, đối phương kiếm 25: thêm 6 giáp chỉ giảm khoảng **15%**, còn Shield vẫn giảm 30%.
+- Vậy: **giáp cao hơn kiếm đối phương thì dùng Shield** để đánh cận chiến. **Kém chỉ số, hoặc gặp quân bắn, thì dùng Stone Skin**. Shield không có tác dụng với quân bắn.
+
+Video có nhắc một trường hợp ❓: với những quân như "CR khách" ❓ cộng sát thương trước rồi trừ sau, Shield có tác dụng hơn một chút. Nhưng tác giả nói thực tế nhân chia xong thì gần như nhau.
+
+> [!info]- Ngoài nguồn — khớp với lập luận ở video 6
+> Cách quy đổi "1 điểm giáp ≈ 2,5% sát thương, Stone Skin +6 giáp ngang −15%" đã ghi ở [[#🛡️ Bốn lớp giảm sát thương — và một cái bẫy chỉ có ở bản cũ|mục giảm sát thương của video 6]], và đã kiểm công thức ở đó. Video 13 thêm nửa còn lại: khi kiếm đối phương cao hơn giáp mình thì mỗi điểm đáng **5%**, nên Stone Skin lúc đó ngang Shield. Lần này chưa mở lại trang công thức để kiểm con số 5%.
+
+### 🐌 Grindan — Slow có sẵn, cả trận chỉ tốn 5 mana
+
+**Grindan** chuyên **cộng vàng**, nhìn có vẻ yếu hơn Labetha, nhưng mạnh hơn ở chỗ **có sẵn Slow** (56:49–57:22). Con bướm có Slow, thần gió có Slow thì đánh "rất là kinh". Video gọi Grindan là "tướng cực kỳ kinh dị" ở Conflux.
+
+Slow tốn rất ít mana. Video nói có Empathy ❓ ("emper") thì chỉ cần **5 mana**, cả trận chỉ tốn chừng đó. Chi tiết Slow ở HotA xem [[#🪨 Slow — phép hệ Earth mà HotA đã sửa công thức|mục Slow của video 6]].
+
+### 🏁 Chốt — năm tướng mạnh, bị cấm ở SoD, và Luna HotA chỉ còn +25%
+
+Video xếp **bốn tướng phép cực mạnh**: **Luna** đứng đầu, **Ciele** thứ hai cùng **Labetha** và **Grindan**. Ba tướng sau giá trị tương đương, tuỳ thói quen mỗi người. Tổng cộng Conflux có **ít nhất năm tướng mạnh vượt trội** so với phần còn lại (57:22–57:40). Năm tướng này giúp Conflux **đánh rất nhanh** và hỗ trợ quân rất tốt giai đoạn đầu.
+
+Vì vậy Conflux **bị cấm ở SoD** khi đấu: nó càn map quá nhanh, các tướng khác không kịp build và nuôi quân cuối game. Cảm giác như mất cân bằng (57:40–58:10).
+
+Sang HotA thì Conflux bị nerf: ngoài con bướm, Luna cũng bị nerf. Tác giả **mở game ra thử ngay trong video**: lên Fire Magic cho Luna thì sát thương Fire Wall chỉ tăng **25%**, không phải **nhân đôi** như trước (58:10–58:56). Tác giả nói chưa dùng Luna ở HotA lần nào, vì đánh Duel toàn dùng tướng khác ❓ ("MD").
+
+Nhưng 25% vẫn đủ để Luna càn map. Ở HotA Conflux không quá phụ thuộc con bướm nữa. **Nâng thần gió** là một meta rất mạnh. Bướm nhiều mà chỉ đánh kiểu rong và thả diều thì "tù tay". Kết hợp bướm với thần gió giúp cải thiện kỹ năng đánh rất nhiều (58:56–59:20).
+
+Lời cuối (59:20–1:00:02): ở bản Duel HotA 1.7, dù đã bị nerf, **giá chết của Conflux vẫn rất cao**, có thể tới 3.000–4.000 ❓. Tác giả nói trong template Duel của mình thì 4.000 với Conflux vẫn còn chấp nhận được. Bài tiếp theo có thể là **Cove**. **Factory** thì mới ra, tác giả chưa nắm hoàn toàn nên chưa làm.
+
+> [!info]- Ngoài nguồn — wiki khớp phép thử trong video
+> Trang `Luna` (kiểm 26/10/2026): chuyên môn **Fire Wall +25% ở HotA**, **+100% ở SoD**, đúng như tác giả thử trong game. Riêng [[#2️⃣ Rampart (Rồng Vàng) — mở đường bằng nhân mã và cung, ma cây làm quân chủ lực|mục video 2]] có một dòng ghi "HotA tăng lên +100% damage — xác nhận", **ngược với cả wiki lẫn phép thử này**.
+>
+> Trang `Conflux` cùng ngày ghi đất gốc là **Highlands ở HotA**, **Grass ở SoD**. Vậy chuyện Angel lên speed 13 vì "cùng đất với Castle" là đúng với **SoD**.
+
+> [!video] Những chỗ còn treo sau video 13
+> - **Giá nhà Phoenix** ở SoD (10 Mercury) và HotA (20 Mercury) ❓. Wiki có bảng nhưng đọc ra bị dính số.
+> - **Chuyên môn Monere và Lacus ở HotA** ❓. Wiki hiển thị số của hai phiên bản sát nhau, không tách chắc được.
+> - **Aenain không có Air** ❓. Video nói vậy, wiki ghi có.
+> - **Garden of Life chỉ tác dụng từ tuần hai** ❓. Wiki không nói.
+> - **"Luôn cho free một thành chim lửa ở trong bom"** ❓. Không rõ video định nói gì.
+> - **Mẹo Fire Wall hai vòng của Luna** — video nói từ SoD, không chắc HotA còn dùng được.
+> - **"Khách Tara"** ❓, **"CR khách"** ❓, **"con pir"** ❓, **"hai con tấy"** ❓ — chưa giải mã được.
+> - **Giá chết 3.000–4.000** ❓ — không rõ đơn vị (vàng hay điểm giá trị quân).
+
+### 🎥 Mốc thời gian — video 13
+
+| Mốc | Nội dung |
+|---|---|
+| 0:00 | Quay lại loạt bài sau khi chuyển sang template Duel |
+| 0:56 | Vẫn trên map 8XM8 |
+| 1:04 | Vào Conflux — Luna, Monere |
+| 1:36 | Hàng công trình đầu — Citadel +50%, Castle +100% |
+| 2:15 | Blacksmith bán Ballista — vì sao nó phá thế thả diều |
+| 2:53 | **Magic University** — không bao giờ thọt kỹ năng |
+| 3:39 | Earth và Air sớm ở Duel, muộn ở 8XM8 |
+| 4:04 | Earth cho Slow, bướm và thần gió thả diều |
+| 4:34 | Ba đời nerf con bướm: SoD → HotA → 1.7 |
+| 5:22 | **Artifact Merchants** — bán đồ lấy tài nguyên mua Phoenix |
+| 5:52 | Phoenix speed 21, vô địch |
+| 6:09 | **Vault of Ashes** — bù cho Phoenix bị cắt quân |
+| 6:57 | HotA 1 Phoenix/tuần, Castle 2, Vault of Ashes lên 3 |
+| 7:38 | **Garden of Life** — +10 con bướm |
+| 8:19 | Garden of Life thành điều kiện nâng Sprite |
+| 9:14 | Chi phí xây quân — rẻ nhất game |
+| 10:59 | HotA đẩy Phoenix lên 20 Mercury |
+| 11:31 | Gần như không có nhược điểm xây dựng, đối trọng được Necropolis |
+| 12:16 | Bắt đầu phần quân — chỉ cấp 1 và cấp 7 không phải Elemental |
+| 12:31 | **Pixie, Sprite** — máu yếu nhất, speed cao nhất cấp 1 |
+| 14:06 | Địa hình xấu — sân chơi của con bướm |
+| 14:41 | SoD: 50–70 con bướm càn map, Luna đánh nhà Angel tuần một |
+| 15:29 | **Air Elemental** — quân cấp 2 chưa nâng mạnh nhất |
+| 16:22 | So với con chó của Stronghold |
+| 17:10 | Bless cho thần gió |
+| 17:34 | Thả diều và đánh rong khác nhau thế nào |
+| 18:33 | Storm Elemental bị trừ sát thương khi cận chiến |
+| 19:26 | **Water Elemental** — trung bình, thiên về thủ |
+| 20:51 | Nhược điểm chung: cấp 1–5 không con nào đủ trâu cho nhà rồng |
+| 21:47 | Ice Elemental bắn được |
+| 22:02 | Hai quân bắn cấp thấp — so với Tower và Dungeon |
+| 23:12 | **Fire Elemental** — chưa nâng chỉ để chịu thịt |
+| 24:06 | Energy Elemental bay, nhưng thường không nâng |
+| 25:29 | **Earth Elemental** — quân cấp 5 gần như yếu nhất |
+| 26:26 | Kháng phép và ăn gấp đôi sát thương của bốn Elemental |
+| 28:41 | Protection from X do bản nâng cast |
+| 29:23 | Hai cặp Elemental khắc nhau |
+| 30:09 | **Magic Elemental** — Hydra thu nhỏ |
+| 31:29 | Kháng phép tâm trí, nâng thì kháng mọi phép |
+| 32:02 | Bốn quân kháng Armageddon, nhưng Conflux không xây được Armageddon |
+| 33:30 | Elemental kháng kỹ năng của Necropolis |
+| 34:07 | **Phoenix** — chỉ số yếu nhất cấp 7 |
+| 34:50 | Tốc độ quyết định tất cả |
+| 35:13 | Rebirth |
+| 35:52 | Phun lửa hai ô — chặn bo cung |
+| 37:04 | Cầm Phoenix chơi Armageddon, và hai cái bẫy |
+| 37:54 | Thử Fireball để biết đối phương có Orb |
+| 38:27 | Tóm lại quân Conflux — chỉ số thấp, phải dùng khéo |
+| 38:58 | Bắt đầu phần tướng |
+| 39:58 | Tướng chiến chuyên Elemental cộng thẳng chỉ số |
+| 41:33 | **Pasis** — Artillery |
+| 42:22 | **Monere** — Logistics, chạy nhanh nhất những ngày đầu |
+| 44:07 | **Thunar, Erdamon** — Estates, Tactics |
+| 45:38 | **Ignissa** — Artillery |
+| 46:25 | **Fiur** — Advanced Offense |
+| 46:50 | **Lacus** — Tactics, **Kalt** — Learning gần như phế |
+| 47:32 | Chốt tướng chiến: Monere và Fiur |
+| 48:05 | Bắt đầu tướng phép — **Luna** |
+| 48:51 | Mẹo đặt Fire Wall hai vòng đánh nhà Angel |
+| 50:07 | Angel speed 13, cày mỏ vịt |
+| 50:53 | Tướng phép yếu về cuối, chuyển sang Monere |
+| 51:19 | **Inteus** — Bloodlust |
+| 52:10 | **Brissa**, **Aenain** — tướng gió |
+| 53:05 | **Ciele** — Magic Arrow, dễ dùng hơn Luna |
+| 53:51 | **Gelare** — cộng vàng |
+| 54:08 | **Labetha** — Stone Skin |
+| 54:40 | Stone Skin so với Shield |
+| 56:49 | **Grindan** — Slow có sẵn |
+| 57:22 | Chốt: năm tướng mạnh vượt trội |
+| 57:48 | Conflux bị cấm ở SoD |
+| 58:10 | Thử trong game: Luna HotA chỉ +25% |
+| 59:20 | Lời cuối — giá chết Conflux ở Duel 1.7 |
+| 59:54 | Bài sau có thể là Cove, Factory chưa làm |
+
+### ❓ Bảng giải mã phụ đề — video 13 (Conflux)
+
+> [!tip] Chỉ số quân, công trình và hồ sơ 16 tướng đã đối chiếu wiki
+> Tên công trình, chỉ số cả 14 quân, kỹ năng khởi đầu của 16 tướng đã kiểm `heroes.v.thelazy.net` ngày **26/10/2026**. Tên tướng chốt được vì chuyên môn video tả khớp một-một với hồ sơ trên wiki. Chỗ còn ❓ là chỗ thật sự chưa kiểm được.
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "thành chim lửa" · "thành chimm lửa" · "con flux" | **Conflux** | **Xác nhận** — tên video ghi Phượng Hoàng CONFLUX. Giải luôn ❓ "thành chìm lửa" ở [[#❓ Bảng giải mã phụ đề — video 11 (Fortress)\|video 11]]: đó là Conflux, không phải Inferno |
+| "con bướm" · "con ướm" | **Pixie / Sprite** | **Xác nhận** — speed 7 và 9, tăng 20 con/tuần |
+| "thần gió" · "con thần dầ" | **Air / Storm Elemental** | **Xác nhận** — 25 máu, 2–8 |
+| "thần nước" | **Water / Ice Elemental** | **Xác nhận** |
+| "thần lửa" · "F button" · "fon" | **Fire / Energy Elemental** | **Xác nhận** |
+| "thần đất" · "thần điện" | **Earth / Magma Elemental** | **Khá chắc** — "thần điện chui vào khoảng trống" (36:08) có thể là Energy Elemental ❓ |
+| "con hậu" · "hậu to hậu nhỏ" · "Magic element" · "emon" | **Psychic / Magic Elemental** | **Xác nhận** — "emon" ở 33:30 là Elemental nói chung |
+| "con chim lửa" | **Firebird / Phoenix** | **Xác nhận** |
+| "taho" · "cen" · "C caster" · "Black mid" · "market pl" | **Town Hall · Citadel · Castle · Blacksmith · Marketplace** | **Xác nhận** theo ngữ cảnh |
+| "actifast mean" · "acat metan" | **Artifact Merchants** | **Xác nhận** |
+| "v of ass" · "V pass" · "vas" | **Vault of Ashes** | **Xác nhận** — +1 Phoenix/tuần |
+| "Garden ofline" · "g appl" · "C appl" · "ca đơ đọp" | **Garden of Life** | **Xác nhận** |
+| "Magic lenton" | **Magic Lantern** | **Xác nhận** — nhà Pixie |
+| "pir" (nhà chim lửa) | **Pyre** | **Xác nhận** |
+| "mandon" · "amadon" · "aông" · "Amon" · "Kông" | **Armageddon** | **Xác nhận** |
+| "metos" · "meteo server" | **Meteor Shower** | **Xác nhận** |
+| "lighting b" · "trên lighting" | **Lightning Bolt · Chain Lightning** | **Khá chắc** |
+| "fr Ring" · "Ice Bone" · "iceb frost string" | **Frost Ring · Ice Bolt** | **Xác nhận** |
+| "fon impero" | **Fireball · Inferno** | **Xác nhận** |
+| "C protect form…" | **Protection from Air/Water/Fire/Earth** | **Xác nhận** |
+| "My spell" | **phép tâm trí (Mind spell)** | **Xác nhận** |
+| "bic" | Berserk ❓ | **Đoán** |
+| "cầu Ngọc đen" · "cầu đen" | **Orb of Vulnerability** ❓ | **Khá chắc** — món duy nhất bỏ kháng phép cho mọi quân. Chưa kiểm |
+| "f b" | **Fireball** ❓ | **Khá chắc** — phép diện rộng để thử Phoenix có bị dính không |
+| "phép đổ bùn của Zombie" · "bán lan của con nick" | Disease của Zombie ❓ · đòn lan của Lich ❓ | **Đoán** |
+| "rebirth" · "r gi tách" | **Rebirth** · đòn phun lửa (Breath) ❓ | Rebirth **xác nhận**. "R gi tách" là **đoán** |
+| "monere" · "mere" · "mor" · "morere" · "con Mon" · "mure" | **Monere** | **Xác nhận** — Offense + Logistics |
+| "phar" · "phia" · "viar" | **Fiur** | **Xác nhận** — Advanced Offense |
+| "passit" · "Paris" · "pasis" | **Pasis** | **Xác nhận** — Offense + Artillery |
+| "enisa" · "iisa" | **Ignissa** | **Xác nhận** — Offense + Artillery |
+| "con tuna" + "con thần đất" | **Thunar · Erdamon** | **Xác nhận** — Tactics + Estates |
+| "lucus" · "con thần nước có tatic" | **Lacus** | **Xác nhận** — Advanced Tactics |
+| "ling" · "lơ ling" · "con cá ấp" ❓ | **Kalt** · Learning | **Xác nhận** tên kỹ năng. "Con cá ấp" là **đoán** |
+| "Luna" · "lura" · "nura" · "laa" | **Luna** | **Xác nhận** |
+| "con yus" · "inst" · "brot" | **Inteus** · Bloodlust | **Xác nhận** |
+| "brisa" · "hết" | **Brissa** · Haste | **Xác nhận** |
+| "elin" · "in" | **Aenain** | **Khá chắc** — cặp gió còn lại. Video nói không có Air thì lệch wiki |
+| "siele" · "cele" · "c chê" · "xê" · "sile" · "set cong" | **Ciele** · Magic Arrow | **Xác nhận** |
+| "g" · "gare" | **Gelare** | **Xác nhận** — cộng vàng, Dispel |
+| "lapeta" · "laveta" · "labea" · "betan" | **Labetha** | **Xác nhận** — Stone Skin |
+| "greenan" · "grint" · "kintan" · "con Green" · "gran" | **Grindan** | **Xác nhận** — cộng vàng, Slow |
+| "stom Kin" · "ston kin" · "siêu" | **Stone Skin · Shield** | **Xác nhận** |
+| "guna" · "chôn và gà" | **Gunnar** ❓ · Troglodyte và Harpy ❓ | **Khá chắc** — tướng Logistics của Dungeon |
+| "kire" · "kir" | **Kyrre** ❓ | **Khá chắc** — tướng Logistics của Rampart, cầm Centaur và cung |
+| "khách Tara" | ❓ — có thể Tazar hoặc Crag Hack | **Không rõ** |
+| "mephala" | **Mephala** | **Khá chắc** — tướng Armorer của Rampart, mạnh về cuối |
+| "con magos à con im" | Magog ❓ · Imp ❓ (Inferno) | **Đoán** |
+| "con gagi" · "con gril" | **Gargoyle · Gremlin** (Tower) | **Khá chắc** — khớp combo đã ghi ở video 3 |
+| "con Mai" · "libery" · "con Musa" | **Mage · Library** (Tower) · **Medusa** (Dungeon) | **Khá chắc** |
+| "zot" · "zos" | Zealot ❓ | **Đoán** — quân cấp 5 biết bắn |
+| "cyclop stopy" | **Cyclops Stockpile** | **Khá chắc** |
+| "emper" | Empathy ❓ | **Đoán** — phụ đề không rõ |
+| "MD" | ❓ | **Không rõ** |
+| "bản sad" · "bản SS" · "bản Sơ Độ" · "bản solet" | **Shadow of Death** | **Xác nhận** |
+| "nồi" | **Mercury** | **Xác nhận** qua giá Vault of Ashes |
 
 ---
 
