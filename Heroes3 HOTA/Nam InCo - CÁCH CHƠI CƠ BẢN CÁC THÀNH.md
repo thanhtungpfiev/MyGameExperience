@@ -1,6 +1,6 @@
 # 🏰 Heroes 3 HotA — Cách chơi cơ bản các thành (Nam InCo)
 
-> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **9/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
+> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **10/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
 >
 > _Video nói tiếng Việt nhưng tên thành, tên lính, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
@@ -24,7 +24,7 @@
 | 9 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Gấu STRONGHOLD.](https://www.youtube.com/watch?v=frwS3OhHHxg) | 12/11/2022 | ✅ [[#9️⃣ Stronghold (thành Gấu) — công trình nào cũng mạnh, quân yếu từng con, tướng chiến khoẻ nhất game\|đã chắt lọc]] |
 | 10 | [Cách chỉnh lỗi template 8XM8: Thành không có đường đi - Không tạo được map size G !](https://www.youtube.com/watch?v=A9zkjSXFbs8) | 03/12/2022 | ⬜ chưa xem |
 | 11 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Đầm Lầy FORTRESS.](https://www.youtube.com/watch?v=ylEF4scll9c) | 13/12/2022 | ✅ [[#1️⃣1️⃣ Fortress (Đầm Lầy) — Wyvern lên được ngày đầu, Gorgon làm đối phương ngại, tướng phép "ăn học đàng hoàng"\|đã chắt lọc]] |
-| 12 | [8XM8 là gì? Tại sao nhiều người chơi 8XM8? Cách chơi cơ bản map 8XM8.](https://www.youtube.com/watch?v=oZotpPb5Gl0) | 10/01/2023 | ⬜ chưa xem |
+| 12 | [8XM8 là gì? Tại sao nhiều người chơi 8XM8? Cách chơi cơ bản map 8XM8.](https://www.youtube.com/watch?v=oZotpPb5Gl0) | 10/01/2023 | ✅ [[#1️⃣2️⃣ Map 8XM8 — vì sao khó, vì sao người Việt mê, và cách cày vịt nhanh\|đã chắt lọc]] |
 | 13 | [Chia sẻ kinh nghiệm chơi cơ bản thành Phượng Hoàng CONFLUX.](https://www.youtube.com/watch?v=VUGJGH8hJMI) | 21/01/2024 | ⬜ chưa xem |
 | 14 | [Cách để chọn Tướng ẩn: SirMullich, Gelu, HaartLich...](https://www.youtube.com/watch?v=kiH2LRNbOuI) | 24/01/2024 | ⬜ chưa xem |
 | 15 | [Các phím tắt CƠ BẢN trong Heroes !](https://www.youtube.com/watch?v=Dllj-Eq8T7o) | 26/01/2024 | ⬜ chưa xem |
@@ -60,6 +60,9 @@
 **Bên trong video 9** — [[#🏛️ Bốn công trình độc nhất của Stronghold — Hall of Valhalla, Escape Tunnel, Freelancer's Guild, Ballista Yard|Bốn công trình]] · [[#🐺 Mess Hall và chuyện Stronghold phải lấy quân đông bù quân yếu|Mess Hall]] · [[#🏗️ Stronghold lên quân cấp 7 rẻ và nhanh nhất — hai đường build theo gỗ hay theo đá|Hai đường build]] · [[#🪨 Cyclops Cave — chỗ nghẽn duy nhất trong cả cây công trình Stronghold|Chỗ nghẽn Cyclops Cave]] · [[#👺 Goblin và Wolf Rider — hai quân tầm thường khi chưa nâng, rất lợi khi đã nâng|Goblin & Wolf Rider]] · [[#🏹 Orc — quân cấp 3 mà video gọi là chán nhất game|Orc]] · [[#👹 Ogre Magi — quân cấp 4 trâu nhất, và phép Bloodlust buff cho Behemoth|Ogre Magi & Bloodlust]] · [[#⚡ Thunderbird — quân mở đường quen thuộc nhất của Stronghold|Thunderbird]] · [[#👁️ Cyclops — quân phá tường mà Stronghold buộc phải có khi công thành|Cyclops phá tường]] · [[#🐻 Behemoth — phá 80% giáp, và vì sao đối phương phải giết nó trước|Behemoth]] · [[#🧩 Tổng kết quân Stronghold — từng con tầm thường, ghép lại thì rất mạnh|Tổng kết quân]] · [[#⚔️ Tướng chiến Stronghold — Yog, Gurnisson, Jabarkas, Shiva|Tướng chiến]] · [[#👣 Gretchin, Tyraxor, Krellion — và cái bẫy địa hình khi gom quân nhiều thành|Gretchin, Tyraxor, Krellion]] · [[#🥇 Crag Hack — tướng chiến mạnh nhất game theo video, và phép tính 75% Offense|Crag Hack]] · [[#🔮 Tướng phép Stronghold — Gird và Vey, hai con mà video gọi là phèn|Tướng phép]] · [[#📉 Dessa và Logistics — tướng phép duy nhất đáng giá, và chỗ HotA nép mạnh nhất|Dessa & Logistics]] · [[#🚫 Nhược điểm duy nhất của Stronghold — Mage Guild chỉ lên tới cấp 3|Nhược điểm duy nhất]] · [[#💥 Zubin và Gundula — hai tướng phép còn dùng được|Zubin & Gundula]] · [[#🏁 Chốt — Stronghold mạnh ở tướng, bù cho quân yếu từng con|Chốt]] · [[#🎥 Mốc thời gian — video 9|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 9 (Stronghold)|Bảng giải mã]]
 
 **Bên trong video 11** — [[#🧪 Nhược điểm công trình của Fortress — Mage Guild cấp 3, và quân cấp 3–5 cần tài nguyên hiếm|Nhược điểm công trình]] · [[#🛡️ Glyphs of Fear, Blood Obelisk, Cage of Warlords — thành thủ cộng thêm kiếm giáp|Glyphs, Obelisk, Cage]] · [[#🐕 Captain's Quarters — bức tường thịt Gnoll|Captain's Quarters]] · [[#🐲 Wyvern Nest — quân cấp 6 lên được ngay ngày đầu|Wyvern Nest]] · [[#🌿 Đất Swamp — cái giá khi gom quân nhiều thành|Đất Swamp]] · [[#🦎 Gnoll và Lizardman — quân hút sát thương, không phải quân chủ lực|Gnoll & Lizardman]] · [[#🪰 Dragon Fly — speed 13, Dispel cộng Weakness, mồi nhử chỉ chiếm một ô|Dragon Fly]] · [[#🦖 Basilisk — phần mở đầu bị mất trong phụ đề|Basilisk]] · [[#🐂 Mighty Gorgon — Death Stare, và vì sao đối phương phải đánh nó trước|Mighty Gorgon]] · [[#🐉 Wyvern Monarch — quân chủ lực quen thuộc nhất ở 8XM8, và chất độc 10%|Wyvern Monarch]] · [[#🐍 Chaos Hydra — đánh mọi ô quanh mình, nhưng yếu nhất trong quân cấp 7|Chaos Hydra]] · [[#🧭 Tóm lại cách dùng quân Fortress|Tóm lại quân]] · [[#⚔️ Tướng chiến Fortress — Bron, Drakon, Wystan|Tướng chiến]] · [[#🛡️ Tazar — tướng thủ khoẻ nhất game, và phép tính Armorer 30%|Tazar]] · [[#🗡️ Alkin, Gerwulf, Broghild — và Korbac chỉ được nhắc một câu|Alkin, Gerwulf, Broghild]] · [[#🔥 Tướng chiến không học được Fire — nhưng tướng phép Fortress "ăn học đàng hoàng"|Không học Fire]] · [[#🔮 Tướng phép Fortress — Mirlanda và Rosic|Mirlanda & Rosic]] · [[#📈 Kinkeria — tướng phép lên chỉ số nhanh nhất game|Kinkeria]] · [[#🩹 Verdish, Merist, Styg, Andra, Tiva|Verdish, Merist, Styg, Andra, Tiva]] · [[#🏁 Chốt — Fortress ổn áp nhất về tướng|Chốt]] · [[#🎥 Mốc thời gian — video 11|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 11 (Fortress)|Bảng giải mã]]
+
+**Bên trong video 12** — [[#🧮 AI value — vì sao 8XM8 khó hơn các template khác|AI value]] · [[#🏆 8XM8 phân cấp trình độ — chênh lệch giữa các thành chỉ có nghĩa đầu game|Phân cấp trình độ]] · [[#🗺️ Bố cục 8XM8 — 16 thành, khoảng 24 vùng đất, đất nhà ít mỏ vịt|Bố cục 16 thành]] · [[#💰 Mua tướng trước, Town Hall sau — phép tính "ta hô" của 8XM8|Mua tướng trước, Town Hall sau]] · [[#🧭 Số tướng bằng số ngã rẽ — cách mở đường từng bước|Số tướng = số ngã rẽ]] · [[#🐴 Quân chủ lực tuần 1 — bài toán 10.000 vàng của Castle|Bài toán 10.000 vàng]] · [[#🦆 Tuần 2 trên 8XM8 — gom ngựa với bia đỡ đạn để đánh mỏ vịt|Tuần 2 đánh mỏ vịt]] · [[#🚪 Đừng loanh quanh đất nhà — đánh thẳng đường chính sang vùng khác|Sang vùng khác & chuyện Luna]] · [[#🔗 Chuỗi tướng luân chuyển quân — đánh nhiều hướng trong một ngày|Chuỗi tướng luân chuyển]] · [[#🐉 Ba giai đoạn của 8XM8 — quân chủ lực, cày vịt, đánh nhà rồng|Ba giai đoạn]] · [[#❓ Bảng giải mã phụ đề — video 12 (8XM8)|Bảng giải mã]]
+
 
 ---
 
@@ -3202,6 +3205,250 @@ Video gọi Fortress là **một trong những thành ổn áp nhất trong tấ
 | "căn bên" · "campbel" · "căn biệt" | **Campaign** | **Xác nhận** theo ngữ cảnh |
 | "ppp" | Chế độ đấu người với người ❓ | **Đoán** — có thể là PvP, đi cùng "random map" |
 | "thành chìm lửa" | ❓ — có thể là **Inferno** | **Đoán** — nếu đúng thì giá 10.000 lệch wiki (15.000) |
+
+## 1️⃣2️⃣ Map 8XM8 — vì sao khó, vì sao người Việt mê, và cách cày vịt nhanh
+
+> [!video] Nguồn
+> [8XM8 là gì? Tại sao nhiều người chơi 8XM8? Cách chơi cơ bản map 8XM8.](https://www.youtube.com/watch?v=oZotpPb5Gl0) · đăng 10/01/2023 · video 12/25
+>
+> Chắt lọc từ phụ đề tự động tiếng Việt do người dùng dán vào note ngày 23/10/2026. Bản dán **không có mốc thời gian**, nên mục này không có bảng mốc và không ghi mốc phút. Phụ đề **bị cắt giữa câu** ở lời chào cuối ("…phát triển Quân 8x"), nhưng phần nội dung có vẻ đã hết. Giá nhà quân Castle đã đối chiếu `heroes.v.thelazy.net` ngày **23/10/2026**. Các con số AI value, số thành, số vùng đất là **lời video**, chưa kiểm. Xem [[#❓ Bảng giải mã phụ đề — video 12 (8XM8)|bảng giải mã]].
+
+Video không bàn về một thành mà trả lời hai câu hỏi khán giả hay hỏi. Một là **8XM8 là gì**, và vì sao người Việt ngày trước rất thích chơi nó. Hai là vì sao map người khác tạo **không nhiều mỏ vịt** như map của tác giả, và vì sao họ không cày được nhiều vịt. Vì vậy video chia làm hai phần: **template 8XM8**, rồi **cách phát triển và cày vịt** trên map đó. Tác giả nói rõ bài này dành cho **người mới chơi**.
+
+### 🧮 AI value — vì sao 8XM8 khó hơn các template khác
+
+Ai chơi 8XM8 cũng biết nó là map **đào vịt**: rất nhiều mỏ vịt (Wyvern Nest), rất nhiều mỏ "sạch lốp" ❓, cày về làm quân chủ lực được. Nhưng theo video, đó **không phải lý do chính** người Việt thích nó. Lý do chính là 8XM8 là một trong những template **khó**, và cái khó nằm ở một thứ gọi là **giá trị tài vật — AI value** ❓ (nghe ra "ai value", "aivalu", "Airline").
+
+Cơ chế theo lời video:
+
+- Mọi tài vật trên map đều gắn với một giá trị, "giống ra chợ mua gì cũng phải có tiền". Quái cũng có AI value riêng, tuỳ độ mạnh yếu. **Quái canh một vật thì có giá trị tương ứng với giá trị của vật đó.** Điểm này chung cho mọi map random.
+- Cái khác của 8XM8 là **ngưỡng giá trị tối thiểu để một vật bắt đầu có quái canh**.
+
+| Vật (theo lời video) | AI value | Template thường | 8XM8 |
+|---|---|---|---|
+| "Cột học… của Power" ❓ (tốn 1.000 vàng mới dùng được) | 1.000 | — | — |
+| "Garden of…" ❓ (cộng thẳng, không mất tiền) | 1.500 | Không canh | — |
+| Hòm tiền · mỏ gỗ · mỏ đá | 1.500 | Không canh | Không canh |
+| Mỏ tiền | 7.000 ❓ | — | — |
+| "Nhạc tiền" ❓ · "nhà người lùn thành Rồng Vàng" ❓ · mỏ Crystal · bank đảo khoáng sản ❓ | 2.000 | **Không canh** | **Có canh** |
+| Cối xay gió | ❓ | — | **Có canh** |
+| Đốm lửa (campfire) | 750 ❓ | — | — |
+| Một cụm khoáng sản | 2.250 | — | **Có canh** |
+| "Kho" Sulfur, Gem ❓ | 2.500–3.000 | **Không canh** | **Luôn có canh** |
+
+Kết luận của video: trên 8XM8, ngưỡng có quái canh **thấp hơn**, nên vật có canh **nhiều hơn**. Muốn chiếm tài nguyên phải **đánh quái liên tục**. Vì vậy ngày trước 8XM8 bị coi là map khó.
+
+Video cũng phân biệt hai từ mà note này dùng theo: **mỏ** là thứ cho tài nguyên **mỗi ngày**. **Kho** là "công trình mới" ❓ chỉ cho tài nguyên **mỗi tuần một lần**.
+
+> [!info]- Ngoài nguồn — "kho" nhiều khả năng là Warehouse của HotA
+> HotA thêm loại công trình Warehouse cho tài nguyên theo tuần, khớp mô tả "kho chỉ cho một tuần một lần" và chữ "công trình mới". Chưa đối chiếu wiki, và bảng AI value ở trên cũng chưa đối chiếu với tài liệu template nào. Phụ đề đoạn này vỡ nặng, nhiều con số không rõ đi với vật nào.
+
+### 🏆 8XM8 phân cấp trình độ — chênh lệch giữa các thành chỉ có nghĩa đầu game
+
+Điều khác thứ hai: 8XM8 có **rất nhiều mỏ quân cấp 5 và cấp 6** đặt trên map. Hệ quả là chênh lệch mạnh yếu **giữa các thành** chỉ có ý nghĩa ở giai đoạn đầu, không kéo sang giữa game.
+
+- Cái khó nhất là **đầu game**. Ở đó trình độ quyết định ai nhanh hơn một tuần, ai chậm hơn một tuần.
+- Ổn định rồi thì ai cũng cày được mỏ vịt, nên lượng quân hai bên **tương đương nhau**. Chênh lệch lúc đó chỉ còn cỡ **một tuần quân**, đôi khi là may mắn. Với hai người ngang trình thì gần như hết may mắn, chỉ còn dựa vào đồ.
+- **Mở đường nhanh hơn một tuần** là thứ khẳng định năng lực người chơi rõ nhất.
+
+Ví dụ của video: trên map duel, người chơi tốt **lên mặt đất ngày 3–4**, người mới ngày 5–6. Hai ngày chênh đó là hai ngày người giỏi dùng để đánh mỏ quân cấp 6, ví dụ "mỏ hậu" của "thành hậu, thành tên lửa" ❓. Đầu tuần 2 họ đã có ít nhất hai mỏ, tức **8 con**. Người chậm hai ngày thì sang tuần 2 mới bắt đầu, nên thua đúng 8 con đó. Tuần 2 người giỏi đánh thêm vài bank và mở được map, người yếu phải chờ tới tuần 3. Lúc đó thắng thua đã phân định.
+
+Từ đó ra hai kịch bản trên 8XM8:
+
+1. **Hai thành gần nhau, đánh nhau sớm** — người giỏi hơn **luôn thắng**, và thắng rất nhanh. Đây là chỗ phân cấp trình độ.
+2. **Cả hai cầm cự được tới tháng 2–3** — chênh lệch không còn nữa. Hai bên quân đều đông, trận đánh **cân bằng**, "bõ công cày ải suốt 3 tháng", rất hấp dẫn.
+
+Ở template khác thì nhanh từ đầu là nhanh tới cuối. Vì vậy người Việt ngày trước chuộng 8XM8, vì hai lý do: **phân cấp trình độ**, và trải nghiệm **đa dạng, đánh đấm nhiều hơn**. Tác giả kết bằng câu "người Việt thích trong cái khó ló cái khôn". Ông cũng nhắc rằng template duel chỉ mới phổ biến gần đây ❓. Hồi những năm 2000 chưa có, và các template khác cũng dẫn tới chênh lệch đẳng cấp quá nhiều.
+
+### 🗺️ Bố cục 8XM8 — 16 thành, khoảng 24 vùng đất, đất nhà ít mỏ vịt
+
+Tác giả mở map ra đếm trực tiếp, ở cả size XL lẫn size G:
+
+- **Luôn khoảng 16 thành**, ở size nào cũng vậy. Trên mặt đất đếm được khoảng 9–10, dưới lòng đất thêm 6–7. Phụ đề đoạn đếm lộn xộn, có lúc ra 15.
+- Khoảng **20–24 vùng đất**: 16 vùng có thành, phần còn lại là **vùng trung lập không có thành** (lúc nói 4–6 vùng, lúc nói 16 ❓).
+- **Size G và size XL có cùng tỉ lệ vùng đất**, nhưng size G to **gần gấp 4 lần**. Nên chơi size G thấy tài nguyên nhiều hơn và đất rộng hơn.
+
+**Điểm chung quan trọng nhất cho người cày vịt:** đất có thành thường **rất ít mỏ vịt**, thỉnh thoảng mới có 1–2 cái. Sang vùng đất khác thì lập tức có **rất nhiều mỏ**. Vấn đề là phải đánh quái canh giữa các vùng để mở đường. Muốn cày mỏ nhanh thì cần ba thứ:
+
+1. **Mở đường đúng hướng.**
+2. **Nhiều tướng.** Một tướng mở được rất ít đường, không mở được nhiều hướng, nên không thấy được nhiều mỏ.
+3. **Kỹ năng hoặc đồ giúp nhìn rộng**, ví dụ Scouting, hay một món đồ nghe ra "spaghett" ❓.
+
+### 💰 Mua tướng trước, Town Hall sau — phép tính "ta hô" của 8XM8
+
+Video nói có hai phong cách: **nâng cấp** (dồn tiền xây thành) và **đánh mở đường, combat chủ lực**. Nhặt được tiền thì một người nghĩ ngay tới xây Town Hall, người kia nghĩ tới mua tướng. Trên 8XM8, **ưu tiên hàng đầu luôn là mua thêm một tướng để mở đường**, rồi mới tính chuyện lên Town Hall ("ta hô", "tao hô", "nhà tiền").
+
+Lý do: đặc điểm chung của 8XM8 là phải **có quân chủ lực vào cuối tuần 1**, để **tuần 2 đánh luôn mỏ vịt**. Đó là cách cày vịt nhanh nhất. Không có quân chủ lực cuối tuần 1 thì tuần 2 buộc phải lao **quân cấp thấp số đông** vào mỏ vịt cho tới khi có vài con vịt.
+
+Nếu vẫn muốn xây Town Hall thì tác giả tính như sau. Chưa có Town Hall thì thành vẫn thu **500 vàng/ngày**, có rồi thì **1.000/ngày**, giá xây **2.500** (khớp số đã xác nhận ở [[#❓ Bảng giải mã phụ đề — video 1 (Castle)|bảng giải mã video 1]]):
+
+| Xây vào | Không xây | Có xây | Kết quả |
+|---|---|---|---|
+| **Ngày 2**, đang có 2.500 | 2.500 + 5 × 500 = **5.000** | 0 + 5 × 1.000 = **5.000** | Hoà, mà có thêm Town Hall |
+| **Ngày 3**, đang có 2.500 | 2.500 + 4 × 500 = **4.500** | 0 + 4 × 1.000 = **4.000** | **Lỗ 500** |
+
+Vậy muốn xây thì **chỉ xây ngày 2**. Sang ngày 3 thì để tiền mua tướng, và cuối tuần chắc chắn còn đủ tiền lên quân cấp cao.
+
+Nhưng thường thì **không xây Town Hall trong tuần 1**. Lượng tiền nằm quanh thành trên 8XM8 rất nhiều. Một tướng mỗi ngày nhặt được một cục tiền là đã lãi hơn xây Town Hall. Càng nhiều tướng thì càng nhặt được nhiều. Người giỏi chỉ xây Town Hall tuần 1 khi **thừa tiền thật sự**.
+
+> [!warning] Lệch với video 1 — mốc cuối cùng để xây Town Hall
+> [[#🏹 Ba ngày đầu — áp cung, Town Hall, rồi dồn hết cho con ngựa|Video 1]] nói "xây từ ngày 5 trở về trước" mới hoà vốn, với giá đọc ra là 2.000 ❓. Video này tính lại với giá 2.500 và chốt **chỉ ngày 2**. Phép tính của video 12 đúng với giá 2.500 đã xác nhận: mỗi ngày Town Hall chỉ hơn 500, nên phải có đủ 5 ngày thu (ngày 3–7) mới bù được 2.500.
+
+### 🧭 Số tướng bằng số ngã rẽ — cách mở đường từng bước
+
+**Mua bao nhiêu tướng tuỳ vào đất thành có bao nhiêu ngã rẽ.** Trong ví dụ, tướng chính đánh một hướng, đếm ra 4 ngã rẽ, thì cần thêm tướng để mở 4 đường đó. Không nên mua thừa, cũng không nên mua ít quá vì mở đường sẽ chậm. Càng nhiều tướng thì mở càng nhanh.
+
+Cách đi của tướng phụ, theo đúng thứ tự video làm mẫu:
+
+1. **Luôn đi về phía cục tiền gần nhất** trước.
+2. Gần tới nơi thì **nhích từng bước một** để map hiện dần ra. Nhờ vậy biết phía trước còn đường hay không, **không phí nước đi**.
+3. Thấy mỏ (ví dụ mỏ gỗ) thì phân công: tướng này mai ăn mỏ gỗ, tướng kia ăn mỏ đá, tướng nọ quay về thành chính.
+4. Còn đường, còn tiền thì **mua tiếp tướng** để mở nhanh nhất có thể.
+5. Hết đường thì quay lại mở hướng khác.
+6. Có dư tiền thì lúc đó mới tính Town Hall ngày đầu, hoặc xây một đạo quân mạnh để đánh mở đường tiếp.
+
+Thêm hai luật: **đừng cho hai tướng chạy cùng một đường**. Và giai đoạn đầu tướng phụ chủ yếu **cầm một quân đi mở**, chỉ để biết xung quanh có gì.
+
+### 🐴 Quân chủ lực tuần 1 — bài toán 10.000 vàng của Castle
+
+Lý do cần nhiều tướng mở đường là để **lên được quân chủ lực**. Quân chủ lực có thể là một quân rất khoẻ, hoặc cả một đám đông quân cấp thấp. Định nghĩa của video: **quân mạnh nhất lên được trong lần đầu tiên**.
+
+- **Quân cấp 7 tuần 1** gần như "bỏ luôn khái niệm". Ngoại lệ là thành có quân cấp 7 rẻ, như Stronghold: nhà Behemoth 10.000 vàng, may mắn thì lên được.
+- **Castle** — con ngựa (Cavalier). Angel tuần đầu là "điều không tưởng".
+- **Rampart** — ma cây (Dendroid).
+- **Tower** — có khi là Naga, có khi chỉ là quân cấp 3 ("con solora" ❓).
+
+Ví dụ Castle, tác giả cộng chuỗi nhà để ra ngựa. Giá đã đối chiếu wiki ngày 23/10/2026:
+
+| Nhà | Vàng | Tài nguyên | Ngày xây theo video |
+|---|---|---|---|
+| Blacksmith ("Black message" ❓) | 1.000 | 5 gỗ | Ngày 4 |
+| Barracks ("xe ba gác" ❓) | 2.000 | 5 đá | Ngày 5 |
+| Stables ("table") | 2.000 | 10 gỗ | Ngày 6 |
+| Training Grounds | 5.000 | 20 gỗ | Ngày 7 |
+| **Cộng** | **10.000** | **35 gỗ + 5 đá** | **Phải khởi công từ ngày 4** |
+
+Video đọc đúng cả bốn giá và tổng. Thứ tự Blacksmith → Barracks → Stables → Training Grounds là lời video, chưa đối chiếu điều kiện xây trên wiki.
+
+> [!info]- Ngoài nguồn — khớp với video 1
+> [[#🏹 Ba ngày đầu — áp cung, Town Hall, rồi dồn hết cho con ngựa|Video 1]] ghi "ít nhất ~40 gỗ, ~5 đá" và chuỗi nhà mất 4 ngày, khởi công ngày 4. Video này cộng ra đúng **35 gỗ**, khớp giá wiki. Đây là con số mà video 1 để ❓ vì phụ đề vỡ.
+
+Nếu không lên được ngựa thì lấy một quân khác, nghe ra "con barret", "monstery" ❓. Có lẽ là Monk, vì cũng cần khởi công ngày 4 và "tài nguyên gần như ngang" ❓. Nhưng có 4 ngày thì **luôn xây ngựa**, vì khoẻ hơn rất nhiều.
+
+**10.000 vàng tuần đầu là bài toán rất khó.** Video so: Stronghold có 10.000 thì lên thẳng Behemoth rồi. Castle lại cần rất nhiều gỗ, mà các mỏ, các cục tài nguyên nằm rất xa nhau. Chỉ một hai tướng thì không bao giờ đánh hết để gom đủ.
+
+Nếu dồn tiền nâng thành từ đầu thì không có gì để mở đường ăn tài nguyên. Bạn có thể lên Capitol ❓ ("cto") nhưng **không có quân chủ lực**, chỉ có cung, cùng lắm là Griffin hay Swordsman ❓. Cày mỏ vịt bằng mấy quân đó vẫn được, nhưng vừa phải đánh quái canh vừa đánh mỏ vịt thì chưa chắc ăn được. Có ngựa thì gần như làm được. Nhiều gỗ thì lên ngựa ngay, để **đầu tuần 2 có ít nhất 4 con**. May hơn thì lên được cả Titan ❓ ("citan đen"), hoặc ngày 3 đã có Capitol ❓.
+
+Người mới thì sợ thiếu tiền, lúc nào cũng thấy thiếu tài nguyên. Người giỏi thì lúc nào cũng thấy **dư tài nguyên** để cuối tuần lên quân chủ lực.
+
+### 🦆 Tuần 2 trên 8XM8 — gom ngựa với bia đỡ đạn để đánh mỏ vịt
+
+Đầu tuần 2, đánh thêm vài nhà tiền để đủ tiền **gom hết quân chủ lực trong thành**, cộng thêm quân làm **bia đỡ đạn** cấp 1–2.
+
+- Quân cấp 1 Castle rất khoẻ, nên có thể **bỏ cung** mà dùng giáo (Pikeman). Ví dụ của video: tuần 2 có thêm 14 con, mua thêm tướng có thêm 14 nữa, tổng **hơn 50 con**. Vào mỏ vịt thì khoảng **500 máu** để chịu đòn cho ngựa, rất tốt.
+- **Ít nhất 4 con ngựa** cộng đám bia đó là đánh được **mỏ vịt "lót"** ❓, loại có **30–45 con** canh.
+- **Mỏ vịt "hot"** ❓ có **60–90 con** canh thì cần nhiều quân hơn. Có thể phải gom hết quân của các tướng phụ, kể cả tướng đã mua ra tuần 1.
+- Luôn nhớ **mua quân "từ thứ ba"** ❓ để có quân dự phòng, phòng khi gặp mỏ vịt "hot".
+
+Những chi tiết lẻ video nhắc tới ở đoạn này, phụ đề không rõ: một tướng nghe ra "VSCO" ❓ cầm cả đạo quân đi mở đường được vì **không bị trừ nước đi**. Một vật "áp Phương ban" ❓ ngày đầu làm quân giai đoạn đầu rất mạnh. Quân cùng thành thì **morale +1** ("món ăn", hiểu là morale ❓). Tướng Castle có "legashift" ❓ **+2**.
+
+Mở đường xong thì đưa tướng phụ cầm lại đạo quân dự phòng. Tướng chính chỉ cầm **lượng quân vừa đủ để mở đường**, phần còn lại để dành cho tuần 2 đánh vịt.
+
+### 🚪 Đừng loanh quanh đất nhà — đánh thẳng đường chính sang vùng khác
+
+Mục tiêu tuần 2 là bước vào giai đoạn cày vịt. Nhưng **đất nhà thường có rất ít mỏ vịt**. Trong phạm vi màn hình quanh thành **gần như không có mỏ quân**, chỉ có tài nguyên. Cứ lọ mọ tìm tài nguyên trong đó thì chậm phát triển, quân rất yếu.
+
+Cách làm đúng: **tuần 2 lấy quân chủ lực đánh mở đường theo đường chính, sang đất khác**. Xuống lòng đất cũng tính là sang đất khác. Sang được rồi thì đó là lúc **tướng phụ phát huy tác dụng**: chia nhau đi hết các ngã, đánh mỏ Naga ❓, mỏ vịt, mỏ "sạch lốp" ❓…
+
+> Đất mình rất rộng nhưng làm gì có mỏ vịt với mỏ "xe lốp" — đừng loanh quanh rồi kêu sao đất này không có mỏ.
+
+Ví dụ trên map mẫu: đi đường chính thì **đầu tới giữa tuần 2** là cày được mỏ vịt. Đánh lòng vòng xuống tận góc đất nhà mới gặp một hai mỏ đầu tiên, thì tới đó đã hết 3 tuần.
+
+**Câu chuyện Luna đánh nhà rồng tuần 3.** Tác giả giải thích clip cũ ông đánh **nhà rồng (Dragon Utopia) tuần 3 bằng Luna** (Conflux):
+
+- Hồi đó ông chơi theo hướng **nâng cấp**, đặt mục tiêu tối thiểu là **Phoenix ("chim lửa") tuần 2**. Để lên Phoenix thì không cần cày mỏ vịt, chỉ cần ăn đủ tài nguyên.
+- Khoảng giữa tới cuối tuần 1 đã đủ tài nguyên. Lúc đó Luna đứng **ngay cạnh cửa xuống lòng đất**, cầm thiên thần ❓, xa thành chính. Quay về thành theo đường chính mất **4–5 ngày**.
+- Ông cho Luna **xuống lòng đất** và thấy rất nhiều mỏ vịt cùng nhà rồng. Ông **đổi mục tiêu**: bỏ Phoenix tuần 2, vì lên Phoenix thì không đủ tiền mua quân đánh nhà rồng. Cuối tuần 1 tới cuối tuần 2 dồn toàn lực cày mỏ vịt, gom tiền, đầu tuần 3 đánh nhà rồng.
+- Có người comment bảo ông **"chơi bịp"**, vì tình huống đó không ai xuống lòng đất. Tác giả hỏi lại: Luna đứng ngay cửa, xuống là đào được vịt, sao phải bắt nó đi đường chính mất 4–5 ngày? Đường chính để cho tướng khác.
+
+Ông còn nói: tướng mạnh như Shakti ❓ ("sắc ti"), Gelu ❓ ("gan than"), nhất là Luna, **cày được mỏ vịt ngay tuần 1**. Luna cày "mỏ thiên thần" ❓ còn dễ hơn mỏ vịt. Đoạn so sánh "con chuồn chuồn" với "con bướm", và mỏ vịt lót 30–45 "con chuồn chuồn" so với mỏ thiên thần tối thiểu 50 "con đại bàng", phụ đề rất vỡ ❓.
+
+Sang được vùng khác thì mỏ rất nhiều. Ví dụ trên map mẫu có cả **2 mỏ Titan gần nhau**, cũng là điểm chung của 8XM8. Chỉ đi theo đường chính khoảng một tuần là đã có **hai ba chục vịt**, thêm "sạch lốp" và vài Titan. Sang tuần 3 có khoảng **20 vịt, 20 "xe cuốc"** ❓ và **3–4 Titan** ❓. Qua tuần 3 thì quân hai bên, kể cả người đánh giỏi, chỉ còn chênh nhau không đáng kể.
+
+**Trả lời câu hỏi thứ hai của video:** map tác giả tạo không có nhiều mỏ vịt hơn map người khác. **Map nào cũng có lượng mỏ như vậy.** Vấn đề là người chơi không mở đường sớm, cứ loanh quanh mấy cục tài nguyên đất nhà.
+
+### 🔗 Chuỗi tướng luân chuyển quân — đánh nhiều hướng trong một ngày
+
+Đây là lý do khán giả hay hỏi "sao mua nhiều tướng mà chúng đứng yên một chỗ". Chúng **đứng chờ truyền quân**:
+
+- Xếp tướng **thành một dãy**. Tướng chính đánh xong, hết nước đi, thì tướng phụ nhận quân và chuyền tiếp sang tướng khác. Tướng đó đánh tiếp một hướng khác.
+- Như vậy **một ngày đánh được nhiều hướng**, kiếm được rất nhiều tài nguyên, tốc độ tăng trưởng kinh tế tăng rất nhanh. Giá trị hơn nhiều so với ngày đầu nhặt tiền đi xây Town Hall.
+
+Video chia ba trình độ:
+
+| Trình độ | Tới tuần 2 |
+|---|---|
+| Người mới | Chỉ đánh mấy cục tài nguyên, chẳng có gì ngoài nâng mấy công trình như Capitol ❓ và vài đạo quân trong thành |
+| Khá hơn | Bắt đầu đi một hướng cày mỏ vịt |
+| Cao thủ | Cày mỏ vịt **nhiều hướng cùng lúc**. Tuần 2 đã có khoảng **30–40 vịt**, chuyện bình thường |
+
+Tác giả tự nhận map mẫu đó mình chưa chắc làm được như cao thủ.
+
+### 🐉 Ba giai đoạn của 8XM8 — quân chủ lực, cày vịt, đánh nhà rồng
+
+Video chốt cách chơi 8XM8 theo ba giai đoạn chính:
+
+1. **Lên quân chủ lực** — mua đủ tướng theo số ngã rẽ, mở đường tìm tài nguyên. **Cuối tuần 1 lên quân chủ lực.**
+2. **Cày vịt** — tuần 2 dồn tiền, dồn quân đánh nhà tiền để mua quân. Khoảng ngày 3 bắt đầu đánh mở đường sang vùng khác, ngày 4–5 bắt đầu cày mỏ vịt. Cuối tuần 2 có thể có tới ❓ "trục" vịt, tuần 3 là "ấm".
+3. **Đánh nhà rồng** để kiếm đồ. Nhà rồng chứa rất nhiều đồ ngon.
+
+Ví dụ với Conflux ("thành chim lửa") trên map mẫu, nhất là có Luna: tuần 2 chia tướng đánh mỏ vịt, mỏ "sai lốp" ❓, mất 4–5 ngày. Cuối tuần 2 dồn quân lại thì có khoảng **30–40 vịt + 20 "xe lốp"** ❓, đập được nhà rồng. Người chơi tốt **tuần 3 đã đánh nhà rồng**, cùng lắm chậm thêm một hai ngày để đánh thêm 3–4 con Titan.
+
+Về cuối: có đồ rồi thì có sách phép, xem tướng địch ở đâu ❓, vừa đi vừa ăn thêm 1–2 mỏ vịt trên đường sang đánh địch. Nếu nhà rồng cho "đo" và Fly ❓ ("đo Fly", "sách đỏ") thì cuối tuần 3 bay đi với cả đống vịt, vừa chăn vịt vừa đánh thành. Trận đấu kết thúc rất nhanh, "không có khái niệm late game". Trong khi đó người mới vẫn còn lọ mọ đánh mấy nhà Naga ❓ để lên Capitol tuần 3.
+
+> [!info]- Ngoài nguồn — "đo" và Fly
+> Theo [[#❓ Bảng giải mã phụ đề — video 3 (Tower)|bảng giải mã video 3]], "phép đo" là Dimension Door và "bay" là Fly, cả hai đều là phép Air cấp 5. "Đo Fly" ở đây nhiều khả năng là hai phép đó, nhận từ đồ hoặc sách phép.
+
+> [!video] Những chỗ còn treo sau video 12
+> - **Bảng AI value** ❓ — tên vật và con số vỡ nhiều, chưa đối chiếu tài liệu template. Đặc biệt mỏ tiền "7.000", đốm lửa "750", "Garden of…", "cột học… của Power".
+> - **"Kho" có phải Warehouse của HotA không** ❓ — chưa kiểm wiki.
+> - **Số thành và vùng đất của 8XM8** — lời video đếm tay trên một map, phụ đề lộn xộn (15 hay 16 thành, 4–6 hay 16 vùng trung lập).
+> - **"Mỏ hậu" / "thành hậu, thành tên lửa"** ❓ — không rõ là quân nào.
+> - **Quân thay ngựa khi thiếu gỗ** ❓ — "con barret", "monstery", có thể là Monk.
+> - **"VSCO" không bị trừ nước đi, "áp Phương ban", "legashift +2"** ❓ — chưa giải được.
+> - **"Mỏ thiên thần", "con chuồn chuồn", "con bướm", "con đại bàng"** ❓ — đoạn so Luna với Shakti/Gelu vỡ quá nặng.
+> - **"Sạch lốp", "xe lốp", "xe cuốc"** ❓ — nhiều khả năng là một loại quân cày ngoài map, chưa chốt được.
+> - **Thứ tự xây Blacksmith → Barracks → Stables → Training Grounds** — giá đã kiểm, điều kiện xây chưa kiểm.
+
+### ❓ Bảng giải mã phụ đề — video 12 (8XM8)
+
+> [!tip] Phiên này chỉ đối chiếu được giá nhà quân Castle
+> Giá Blacksmith, Barracks, Stables, Training Grounds lấy từ trang `Castle` trên `heroes.v.thelazy.net`, ngày **23/10/2026**. Các dòng còn lại dựa vào bảng giải mã của các video trước, hoặc là đoán.
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "8x M8" · "8xm8" · "8x và 8" · "8x mà 8" · "8x18" · "818" · "8x38" · "mắt tắm M8" | **Map 8XM8** | **Xác nhận** — tiêu đề video |
+| "ai value" · "aivalu" · "Airline" · "ay value" · "iibaru" · "ivanu" | **AI value** ❓ | **Khá chắc** — giá trị đối tượng trong bộ sinh map random |
+| "vịt" · "mỏ vịt" | Wyvern · Wyvern Nest | **Xác nhận** ở [[#❓ Bảng giải mã phụ đề — video 1 (Castle)\|video 1]] |
+| "ta hô" · "tao hô" · "tá home" · "nhà tiền" | **Town Hall** | **Xác nhận** — 2.500 vàng, 500 → 1.000 vàng/ngày (video 1) |
+| "nhà rồng" · "nhà dọc" · "hạt giống thuần ba" | **Dragon Utopia** | **Xác nhận** tên (video 1); "hạt giống thuần ba" = "nhà rồng tuần 3" theo ngữ cảnh |
+| "Luna" · "thành chim lửa" · "chim lửa" | **Luna** · Conflux · Phoenix | **Xác nhận** ở [[#❓ Bảng giải mã phụ đề — video 2 (Rampart)\|video 2]] |
+| "tường lửa 3 ô" | Fire Wall | **Khá chắc** — Luna chuyên Fire Wall |
+| "table" | **Stables** | **Xác nhận** — 2.000 vàng + 10 gỗ, khớp số video đọc |
+| "xe ba gác" | **Barracks** ❓ | **Khá chắc** — Barracks 2.000 vàng + 5 đá, khớp "5 đá" |
+| "Black message" · "barack Miss" | **Blacksmith** ❓ | **Khá chắc** — 1.000 vàng + 5 gỗ, khớp |
+| "con barret" · "monstery" · "moltali" · "Natri" | Monk / Monastery ❓ | **Đoán** — wiki: Monastery 3.000 vàng + 5 gỗ + 5 đá + 2 mỗi loại tài nguyên hiếm |
+| "cto" · "capitol" · "Capital" | **Capitol** ❓ | **Khá chắc** theo ngữ cảnh "nâng tiền" |
+| "solora" | quân cấp 3 Tower (Golem) ❓ | **Đoán** |
+| "citan đen" | Titan ❓ | **Đoán** |
+| "sạch lốp" · "xe lốp" · "sai lốp" · "xe cuốc" · "cái lốp" | Cyclops ❓ | **Đoán** — âm "lốp" gần "clops"; chưa kiểm |
+| "sắc ti" · "xác ty" | **Shakti** ❓ | Shakti đã chốt ở [[#❓ Bảng giải mã phụ đề — video 8 (Dungeon)\|video 8]]; ở đây vẫn đoán |
+| "gan than" | Gelu ❓ | **Đoán** |
+| "món ăn" | Morale ❓ | **Đoán** — "cùng nhau luôn luôn +1" khớp morale quân cùng thành |
+| "legashift" | Leadership ❓ | **Đoán** |
+| "spaghett" | món đồ tăng tầm nhìn ❓ | **Không rõ** |
+| "đo Fly" · "sách đỏ" | Dimension Door + Fly ❓ | **Khá chắc** — theo bảng giải mã video 3 |
+| "Paul skin" · "skin… đổi hết bệnh xương" | Skeleton Transformer ❓ | **Đoán** |
 
 ---
 
