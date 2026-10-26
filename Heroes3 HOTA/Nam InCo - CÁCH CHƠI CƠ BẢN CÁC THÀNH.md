@@ -279,7 +279,7 @@ Việc xếp quân trong từng trận thì tác giả để người chơi tự
 
 Theo tác giả, Rampart là thành mở đường mạnh nhất nếu xét **cả thành**:
 
-- Xét **một tướng** thì Luna của Conflux (chuyên **Fire Wall**, HotA tăng lên +100% damage — xác nhận) vẫn mở đường khủng nhất — nhưng đó chỉ là 1 trong **16 tướng của thành** (số 16 theo lời video, **xác nhận** — Conflux có đúng 16 tướng: 8 Planeswalker + 8 Elementalist, heroes.thelazy.net 10/09/2026).
+- Xét **một tướng** thì Luna của Conflux (chuyên **Fire Wall**: **+25%** sát thương ở HotA, +100% ở SoD — heroes.v.thelazy.net 26/10/2026, khớp phép thử trong [[#🏁 Chốt — năm tướng mạnh, bị cấm ở SoD, và Luna HotA chỉ còn +25%|video 13]]) vẫn mở đường khủng nhất — nhưng đó chỉ là 1 trong **16 tướng của thành** (số 16 theo lời video, **xác nhận** — Conflux có đúng 16 tướng: 8 Planeswalker + 8 Elementalist, heroes.thelazy.net 10/09/2026).
 - Rampart thì mọi tướng đều mở đường mạnh được.
 - Ma cây cấp 5 **rẻ hơn nhiều** so với quân cấp 6 mà các thành khác phải mua.
 - Tác giả ngày trước cũng khởi đầu bằng Castle, về sau thích Rampart hơn.
@@ -1196,7 +1196,7 @@ Video gọi Armageddon là *"phép gây sát thương diện rộng đau nhất 
 
 - **Armageddon đánh mọi tốp quân trên sân, kể cả quân mình** — nên chỉ chơi được khi cả dàn quân của bạn miễn nhiễm.
 - Video so con số: Armageddon khoảng **600**, còn Implosion khoảng **1.200** — **gấp đôi**, nhưng Implosion chỉ trúng **một mục tiêu**. **Xác nhận bằng công thức:** ở spell power 12, Armageddon Expert = 120 + 12×40 = **600**; Implosion Expert = 300 + 12×75 = **1.200**. Khớp chính xác.
-- **Quân miễn nhiễm Armageddon (xác nhận đủ danh sách):** Earth Elemental · Magma Elemental · Magic Elemental · Fire Elemental · Energy Elemental · **Gold Dragon** · **Black Dragon** · **Efreeti và Efreet Sultan** · **Firebird và Phoenix**.
+- **Quân miễn nhiễm Armageddon (xác nhận đủ danh sách):** Earth Elemental · Magma Elemental · Magic Elemental · Fire Elemental · Energy Elemental · **Gold Dragon** · **Black Dragon** · **Efreeti và Efreet Sultan** · **Phoenix**. Ở SoD có thêm **Firebird**; HotA hạ Firebird xuống chỉ giảm 50% sát thương phép lửa (trang `Phoenix`, kiểm 26/10/2026).
 - Vì thế video nêu đúng ba thành chơi được lối này: **Rampart** (Gold Dragon) · **Dungeon** (Black Dragon) · **Inferno** (Efreeti) · **Conflux** (Phoenix + các Elemental).
 
 > [!bom] Video đúng kết luận nhưng sai lý do — Conflux xây được Mage Guild 5
@@ -2761,7 +2761,7 @@ Từ đó ra cách chơi chung của gần như mọi người chơi Fortress (7
 
 > [!bom] So giá trong video có hai chỗ lệch wiki
 > - **Castle:** video nói nhà Cavalier "10 gỗ 3.000 vàng", con ngựa "20 gỗ 5.000". Wiki 20/10/2026 ghi Training Grounds **5.000 vàng + 20 gỗ**, nâng cấp **3.000 vàng + 10 gỗ**. Vậy "10 gỗ 3.000" là **giá nâng cấp**, không phải một nhà khác. So sánh "Wyvern Nest chỉ đắt hơn một chút" là so với giá nâng cấp đó.
-> - **Quân cấp 7:** video xếp Fortress cùng hàng "10.000 vàng" với Stronghold và một thành nghe ra "thành chìm lửa" ❓. Wiki ghi Behemoth Lair **10.000**, khớp. Nhưng Inferno (Forsaken Palace) là **15.000**, nên nếu "chìm lửa" là Inferno thì video nhầm.
+> - **Quân cấp 7:** video xếp Fortress cùng hàng "10.000 vàng" với Stronghold và một thành nghe ra "thành chìm lửa" — tức **Conflux**: tác giả luôn gọi Conflux là "thành chim lửa" (xem [[#❓ Bảng giải mã phụ đề — video 13 (Conflux)|video 13]]). Wiki ghi Behemoth Lair **10.000**, khớp. Nhà Phoenix ở SoD cũng **10.000 vàng** theo video 13; giá HotA chưa đọc được trên wiki ❓.
 
 ### 🌿 Đất Swamp — cái giá khi gom quân nhiều thành
 
@@ -3045,7 +3045,6 @@ Video gọi Fortress là **một trong những thành ổn áp nhất trong tấ
 > - **Phép khởi điểm của Rosic** ❓ — video nói một phép buff, wiki ghi Magic Arrow.
 > - **Wyvern Nest ở SoD có cần nhà quân cấp 2 không** ❓ — wiki không ghi cây công trình.
 > - **Weakness của Dragon Fly có trước đòn phản không** ❓ — wiki không nói.
-> - **"Thành chìm lửa" 10.000 vàng** ❓ — nếu là Inferno thì lệch wiki (15.000).
 > - **Learning của Kinkeria** ❓ — trang Learning và trang Kinkeria dùng hai bộ con số khác nhau.
 > - **Bron có quân cấp 4 ngày đầu, Tazar thua "Orrin" đầu game, 1.900 nước đi ngày 2** ❓ — video nói, chưa kiểm được.
 
@@ -3205,7 +3204,7 @@ Video gọi Fortress là **một trong những thành ổn áp nhất trong tấ
 | "8xm8" · "Bát 8xm8" · "8x và 8" · "ra Dom 8x mà 8" | **map 8XM8** | **Xác nhận** |
 | "căn bên" · "campbel" · "căn biệt" | **Campaign** | **Xác nhận** theo ngữ cảnh |
 | "ppp" | Chế độ đấu người với người ❓ | **Đoán** — có thể là PvP, đi cùng "random map" |
-| "thành chìm lửa" | ❓ — có thể là **Inferno** | **Đoán** — nếu đúng thì giá 10.000 lệch wiki (15.000) |
+| "thành chìm lửa" | **Conflux** | **Xác nhận** ở [[#❓ Bảng giải mã phụ đề — video 13 (Conflux)\|video 13]] — tác giả luôn gọi Conflux là "thành chim lửa" |
 
 ## 1️⃣2️⃣ Map 8XM8 — vì sao khó, vì sao người Việt mê, và cách cày vịt nhanh
 
@@ -3682,7 +3681,7 @@ Vấn đề duy nhất: **Armageddon bị cấm trong Mage Guild của Conflux**
 **Khắc Necropolis** (33:30–34:07): năm loại Elemental kháng được các kỹ năng nguy hiểm của Necropolis. Video kể ba thứ: **đòn đổ bệnh của Zombie** ❓, **hút máu của Vampire**, và **đòn đánh lan của Lich** ❓ ("bán lan của con nick"). Chỉ Psychic Elemental chưa nâng là bị dính. Video kết luận: Conflux đánh nhanh thì khắc chế được Necropolis. Necropolis mà không cầm cự tới cuối game thì gần như không có cửa.
 
 > [!bom] Firebird ở HotA không còn kháng Armageddon
-> Trang `Phoenix` (kiểm 26/10/2026): ở SoD, Firebird **miễn nhiễm** phép lửa. Ở HotA nó chỉ **giảm 50%** sát thương phép lửa, nên Armageddon **chỉ Phoenix (bản nâng) là miễn nhiễm**. Danh sách miễn nhiễm ở [[#☄️ Armageddon — phép mạnh nhất game, và ba thành duy nhất học được nó|mục video 6]] ghi "Firebird và Phoenix", tức là theo SoD.
+> Trang `Phoenix` (kiểm 26/10/2026): ở SoD, Firebird **miễn nhiễm** phép lửa. Ở HotA nó chỉ **giảm 50%** sát thương phép lửa, nên Armageddon **chỉ Phoenix (bản nâng) là miễn nhiễm**. Danh sách miễn nhiễm ở [[#☄️ Armageddon — phép mạnh nhất game, và ba thành duy nhất học được nó|mục video 6]] đã sửa theo đây.
 
 ### 🐦 Phoenix — chỉ số yếu nhất cấp 7, nhưng speed 21 và hồi sinh
 
@@ -3844,7 +3843,7 @@ Nhưng 25% vẫn đủ để Luna càn map. Ở HotA Conflux không quá phụ t
 Lời cuối (59:20–1:00:02): ở bản Duel HotA 1.7, dù đã bị nerf, **giá chết của Conflux vẫn rất cao**, có thể tới 3.000–4.000 ❓. Tác giả nói trong template Duel của mình thì 4.000 với Conflux vẫn còn chấp nhận được. Bài tiếp theo có thể là **Cove**. **Factory** thì mới ra, tác giả chưa nắm hoàn toàn nên chưa làm.
 
 > [!info]- Ngoài nguồn — wiki khớp phép thử trong video
-> Trang `Luna` (kiểm 26/10/2026): chuyên môn **Fire Wall +25% ở HotA**, **+100% ở SoD**, đúng như tác giả thử trong game. Riêng [[#2️⃣ Rampart (Rồng Vàng) — mở đường bằng nhân mã và cung, ma cây làm quân chủ lực|mục video 2]] có một dòng ghi "HotA tăng lên +100% damage — xác nhận", **ngược với cả wiki lẫn phép thử này**.
+> Trang `Luna` (kiểm 26/10/2026): chuyên môn **Fire Wall +25% ở HotA**, **+100% ở SoD**, đúng như tác giả thử trong game. [[#2️⃣ Rampart (Rồng Vàng) — mở đường bằng nhân mã và cung, ma cây làm quân chủ lực|Mục video 2]] trước đây ghi nhầm HotA +100%, đã sửa theo đây.
 >
 > Trang `Conflux` cùng ngày ghi đất gốc là **Highlands ở HotA**, **Grass ở SoD**. Vậy chuyện Angel lên speed 13 vì "cùng đất với Castle" là đúng với **SoD**.
 
