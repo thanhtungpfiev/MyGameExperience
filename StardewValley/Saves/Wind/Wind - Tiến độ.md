@@ -160,7 +160,7 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 ### 📅 Sự kiện theo ngày
 
 - [x] **Xuân 17 — Chum vàng cuối cầu vồng** — Năm 1 · lặp mỗi năm
-- [ ] **Hạ 11 — Quần đùi tím may mắn vào nồi súp Luau**
+- [ ] **Hạ 11 — Quần đùi tím may mắn vào nồi súp Luau** — _bỏ qua: giữ quần cho Hội chợ Thu 16 (750 Star Token), rồi mới trả Lewis lấy 750g (quest nhận Hạ 3, không hạn)_
 - [ ] **Thu 16 — Quần đùi tím ở gian Hội chợ** (750 Star Token)
 - [ ] **Thu 26 — Kênh TV "???"** — chỉ khi đã biến con thành chim bồ câu
 - [ ] **Mùa Đông — bóng đen ở Bến Xe → Kính lúp** ⭐
