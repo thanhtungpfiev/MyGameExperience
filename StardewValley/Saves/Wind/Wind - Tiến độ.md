@@ -8,7 +8,7 @@
 
 ## 🎣 Câu cá
 
-> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 2, lưu 08:29**, Năm 1): **42 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
+> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 2, tối**, Năm 1): **44 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
 
 ### 🌸 Xuân — 17 / 17
 
@@ -46,7 +46,7 @@
 - [x] **Cá huyền thoại — đã câu được Xuân 26 Năm 1**. Xuân 19 từng tính để sang Năm 2 vì khi đó mới cấp 8, nhưng save Xuân 26 đã **cấp 10 gốc** nên không cần món buff nữa, và hôm đó lại mưa. Kế hoạch chi tiết ở [[Wind - Daily#☀️ Ngày 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong|Daily — Ngày 26]].
 - Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại của Xuân năm nay không cần dồn cho câu cá.
 
-### ☀️ Hạ — 7 / 12
+### ☀️ Hạ — 9 / 12
 
 _Chỉ tính cá **mới có từ mùa Hạ**; cá quanh năm và cá Xuân còn cắn mùa Hạ đã nằm ở trên._
 
@@ -58,7 +58,7 @@ _Chỉ tính cá **mới có từ mùa Hạ**; cá quanh năm và cá Xuân còn
 - [x] Cá rô phi (Tilapia) 🧩
 - [ ] Bạch tuộc (Octopus) — 06:00–13:00
 - [ ] Cá hồng (Red Snapper) 🧩 — chỉ khi mưa
-- [ ] Siêu Hải sâm (Super Cucumber) — từ 18:00
+- [x] Siêu Hải sâm (Super Cucumber)
 - [ ] **Cá Phi Hồng (Crimsonfish)** — cá huyền thoại, 1 con/save, kế hoạch ở [[Wind - Daily#🌦️ Ngày 4 (Thứ Năm) — 🎂 Sinh nhật Jas|Daily — Hạ 4]]
 
 **🏞️ Sông:**
@@ -69,7 +69,7 @@ _Chỉ tính cá **mới có từ mùa Hạ**; cá quanh năm và cá Xuân còn
 
 **⛰️ Hồ Trên Núi:**
 
-- [ ] Cá tầm (Sturgeon) 🧩
+- [x] Cá tầm (Sturgeon) 🧩
 
 > [!warning] Cá chép nửa đêm trong rương **chưa tính** vào bộ sưu tập
 > Rương cá có 1 **Cá chép nửa đêm (Midnight Carp)** nhưng `fishCaught` không có nó — con này không phải tự câu lên. Muốn tính thì câu bằng cần ở Thu/Đông.
@@ -97,9 +97,9 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 ---
 
-## 🏛️ Nhà Văn hóa — 12 / 30 gói
+## 🏛️ Nhà Văn hóa — 13 / 30 gói
 
-> _Đối chiếu **Quicksave Hạ 2, lưu 08:29**, Năm 1 (`bundles` của CommunityCenter). Chỉ ghi món **còn thiếu**; gói đã xong chỉ một dòng. Không món thiếu nào đang nằm trong kho, nên chưa nộp thêm được gì._
+> _Đối chiếu **Quicksave Hạ 2, tối**, Năm 1 (`bundles` của CommunityCenter). Chỉ ghi món **còn thiếu**; gói đã xong chỉ một dòng. Không món thiếu nào đang nằm trong kho, nên chưa nộp thêm được gì._
 
 **Phòng Súp-de (Boiler Room) — 3 / 3** ✅
 
@@ -108,10 +108,9 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] Sản phẩm Hái lượm Mùa Thu (1/4) — Mận dại · Hạt phỉ · Mâm xôi đen
 - [ ] Sản phẩm Hái lượm Mùa Đông (2/4) — Khoai lang tuyết · Nghệ tây
 
-**Bể Cá (Fish Tank) — 1 / 6**
+**Bể Cá (Fish Tank) — 2 / 6**
 
 - [ ] Cá Sông (3/4) — Cá hồi hổ
-- [ ] Cá Hồ (3/4) — **Cá tầm**
 - [ ] Cá Biển (3/4) — **Cá hồng** (ngày mưa)
 - [ ] Cá Đêm (2/3) — Cá mắt to
 - [ ] Cá Đặc Biệt (2/4) — Cá cát · **Cá nhảy**
@@ -186,7 +185,7 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 ### 📦 Hộp bí ẩn — 3 tượng "???"
 
-- [ ] **??HMTGF??** — Siêu Hải sâm
+- [x] **??HMTGF??** — Siêu Hải sâm (tối Hạ 2)
 - [ ] **??Pinky Lemon??** — Sốt Mayonnaise Vịt
 - [ ] **??Foroguemon??** — Bánh bao kỳ lạ
 
