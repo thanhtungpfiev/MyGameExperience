@@ -6,6 +6,8 @@
 >
 > _Tên cá theo **bản Việt hóa đang cài** (tên tiếng Anh trong ngoặc để tra wiki). Giờ, thời tiết, cấp tối thiểu và chỗ câu lấy thẳng từ file game 1.6.15 (`Data/Fish`, `Data/Locations`); tầng mỏ theo wiki._
 
+**Thứ tự:** trong mỗi bảng và mỗi danh sách, cá xếp **đúng thứ tự nút Sắp xếp của rương** — theo **tên tiếng Anh A→Z**, vì game so `Name` chứ không so tên Việt hoá. Thạch Hang Động (Cave Jelly) thuộc nhóm đồ khác cá nên đứng **trước** cả nhóm cá.
+
 **Chú thích:** 🧩 = cần cho gói Nhà Văn hóa · 🌧️ = chỉ ra khi mưa · ☀️ = chỉ ra khi nắng · "cả ngày" = 06:00–02:00.
 
 ---
@@ -21,23 +23,23 @@ Có **17 loại** câu được mùa Xuân ở biển, sông và hồ (không t�
 | Cá | Giờ | Thời tiết |
 |---|---|---|
 | Cá cơm (Anchovy) | cả ngày | bất kỳ |
-| Cá mòi (Sardine) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá trích (Herring) | cả ngày | bất kỳ |
+| Lươn (Eel) 🧩 | 16:00–02:00 | 🌧️ |
 | Cá bơn (Flounder) | 06:00–20:00 | bất kỳ |
 | Cá bơn lưỡi ngựa (Halibut) | 06:00–11:00 · 19:00–02:00 | bất kỳ |
-| Lươn (Eel) 🧩 | 16:00–02:00 | 🌧️ |
+| Cá trích (Herring) | cả ngày | bất kỳ |
+| Cá mòi (Sardine) 🧩 | 06:00–19:00 | bất kỳ |
 
 ### 🏞️ Sông (Thị trấn + Rừng Cindersap)
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá thái dương (Sunfish) 🧩 | 06:00–19:00 | ☀️ |
+| Cá vền (Bream) 🧩 | 18:00–02:00 | bất kỳ |
 | Cá trê (Catfish) 🧩 | 06:00–24:00 | 🌧️ |
+| Cá bống (Chub) | cả ngày | bất kỳ — chỉ sông Rừng Cindersap, cũng có ở Hồ Trên Núi |
+| Cá bống tượng (Goby) — _mới từ 1.6, khác Cá bống (Chub) ở trên_ | 08:00–18:00 · cả bốn mùa | bất kỳ — **phao phải rơi đúng vũng nước dưới chân thác phía nam Rừng Cindersap** (ngay dưới chỗ cầu vồng Xuân 17, ô X 51–65, Y ≥ 100); câu chỗ khác của sông **không bao giờ ra** |
 | Cá trích dày mình (Shad) 🧩 | 09:00–02:00 | 🌧️ |
 | Cá vược miệng nhỏ (Smallmouth Bass) | cả ngày | bất kỳ — sông Thị trấn và **ao Rừng Cindersap**, sông Rừng không có |
-| Cá bống (Chub) | cả ngày | bất kỳ — chỉ sông Rừng Cindersap, cũng có ở Hồ Trên Núi |
-| Cá vền (Bream) 🧩 | 18:00–02:00 | bất kỳ |
-| Cá bống tượng (Goby) — _mới từ 1.6, khác Cá bống (Chub) ở trên_ | 08:00–18:00 · cả bốn mùa | bất kỳ — **phao phải rơi đúng vũng nước dưới chân thác phía nam Rừng Cindersap** (ngay dưới chỗ cầu vồng Xuân 17, ô X 51–65, Y ≥ 100); câu chỗ khác của sông **không bao giờ ra** |
+| Cá thái dương (Sunfish) 🧩 | 06:00–19:00 | ☀️ |
 
 > [!tip] Chỗ đứng câu Cá bống tượng
 > **Đứng ô (52, 98), quay mặt xuống Nam** — ô đất cuối cùng ở bờ **Tây** con sông, sát mép vách thác. Ngay dưới là 1 ô vách (52, 99), từ (52, 100) trở xuống đã là nước có Cá bống tượng, nên quăng ≥ 2 ô là trúng; quăng 1 ô thì phao rơi lên vách, quăng lại. **Đừng quay sang Đông:** nước ngay cạnh như (53, 98) vẫn là sông thường. Ô đó bị chắn thì lùi sang (51, 98), cũng quay Nam nhưng phải quăng ~6 ô.
@@ -46,10 +48,10 @@ Có **17 loại** câu được mùa Xuân ở biển, sông và hồ (không t�
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá vược miệng rộng (Largemouth Bass) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá chép (Carp) 🧩 | cả ngày | bất kỳ |
 | Cá đầu bò (Bullhead) 🧩 | cả ngày | bất kỳ |
+| Cá chép (Carp) 🧩 | cả ngày | bất kỳ |
 | Cá bống (Chub) | cả ngày | bất kỳ |
+| Cá vược miệng rộng (Largemouth Bass) 🧩 | 06:00–19:00 | bất kỳ |
 | **Cá huyền thoại (Legend)** | cả ngày | 🌧️ · **chỉ Xuân** · cần **cấp Câu cá 10** · quăng xa bờ **≥ 4 ô** · 1 con/save |
 
 > [!info] Cá huyền thoại khi chưa tới cấp 10
@@ -68,23 +70,23 @@ _Mùa nào cũng như nhau. Điều kiện mở khoá và tỉ lệ cắn xem �
 
 | Cá | Nơi | Ghi chú |
 |---|---|---|
-| Cá ma (Ghostfish) 🧩 | ao Hầm Mỏ tầng 20 · 60 | — |
-| Cá đá (Stonefish) | ao tầng 20 | cấp Câu cá 3 |
-| Cá băng (Ice Pip) | ao tầng 60 | cấp Câu cá 5 |
-| Lươn dung nham (Lava Eel) | dung nham tầng 100 | cấp Câu cá 7 |
 | Thạch Hang Động (Cave Jelly) | ao tầng 20 · 60 · dung nham tầng 100 | rất hiếm |
-| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật | — |
 | Cá chép (Carp) 🧩 | Khu rừng Bí mật · Cống ngầm | — |
 | Cá trê (Catfish) 🧩 | Khu rừng Bí mật | 🌧️ |
+| Cá ma (Ghostfish) 🧩 | ao Hầm Mỏ tầng 20 · 60 | — |
+| Cá băng (Ice Pip) | ao tầng 60 | cấp Câu cá 5 |
+| Lươn dung nham (Lava Eel) | dung nham tầng 100 | cấp Câu cá 7 |
 | Cá chép biến dị (Mutant Carp) | Cống ngầm | 1 con/save |
 | Cá cát (Sandfish) 🧩 | Sa mạc | 06:00–20:00 |
 | Cá chép bò cạp (Scorpion Carp) | Sa mạc | 06:00–20:00 · cấp Câu cá 4 |
+| Cá đá (Stonefish) | ao tầng 20 | cấp Câu cá 3 |
+| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật | — |
 
 ---
 
 ## ☀️ Hạ
 
-Có **22 loại** câu được mùa Hạ ở biển, sông và hồ (không tính rong, tảo, sứa). **Chỉ có trong Hạ** — lỡ là chờ năm sau: Cá nóc · Bạch tuộc · Cá Phi Hồng · Cá hồi vân · Cá Vàng. Cá Xuân **hết cắn từ Hạ**: Cá cơm · Cá mòi · Cá trích · Lươn · Cá vược miệng nhỏ · Cá huyền thoại; Cá trê mùa Hạ chỉ còn ở Khu rừng Bí mật (🌧️).
+Có **22 loại** câu được mùa Hạ ở biển, sông và hồ (không tính rong, tảo, sứa). **Chỉ có trong Hạ** — lỡ là chờ năm sau: Cá Phi Hồng · Cá Vàng · Bạch tuộc · Cá nóc · Cá hồi vân. Cá Xuân **hết cắn từ Hạ**: Cá cơm · Lươn · Cá trích · Cá huyền thoại · Cá mòi · Cá vược miệng nhỏ; Cá trê mùa Hạ chỉ còn ở Khu rừng Bí mật (🌧️).
 
 🦀 Trai, Hàu, Ốc mỡ… bắt bằng **Bẫy cua**, mùa nào cũng như nhau — xem [[#🦀 Bẫy cua (Crab Pot)|Bẫy cua]].
 
@@ -92,40 +94,40 @@ Có **22 loại** câu được mùa Hạ ở biển, sông và hồ (không tí
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá nóc (Pufferfish) 🧩 | 12:00–16:00 | ☀️ |
-| Cá ngừ (Tuna) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá rô phi (Tilapia) 🧩 | 06:00–14:00 | bất kỳ |
-| Cá hồng (Red Snapper) 🧩 | 06:00–19:00 | 🌧️ |
-| Cá phèn (Red Mullet) | 06:00–19:00 | bất kỳ |
-| Bạch tuộc (Octopus) | 06:00–13:00 | bất kỳ — độ khó 95, ngang Cá Phi Hồng |
-| Siêu Hải sâm (Super Cucumber) | 18:00–02:00 | bất kỳ |
+| **Cá Phi Hồng (Crimsonfish)** | cả ngày | bất kỳ · **chỉ Hạ** · cần **cấp Câu cá 5** · đứng từ **x 82** trở sang phải, quăng xa bờ **≥ 3 ô** · 1 con/save |
 | Cá bơn (Flounder) | 06:00–20:00 | bất kỳ |
 | Cá bơn lưỡi ngựa (Halibut) | 06:00–11:00 · 19:00–02:00 | bất kỳ |
-| **Cá Phi Hồng (Crimsonfish)** | cả ngày | bất kỳ · **chỉ Hạ** · cần **cấp Câu cá 5** · đứng từ **x 82** trở sang phải, quăng xa bờ **≥ 3 ô** · 1 con/save |
+| Bạch tuộc (Octopus) | 06:00–13:00 | bất kỳ — độ khó 95, ngang Cá Phi Hồng |
+| Cá nóc (Pufferfish) 🧩 | 12:00–16:00 | ☀️ |
+| Cá phèn (Red Mullet) | 06:00–19:00 | bất kỳ |
+| Cá hồng (Red Snapper) 🧩 | 06:00–19:00 | 🌧️ |
+| Siêu Hải sâm (Super Cucumber) | 18:00–02:00 | bất kỳ |
+| Cá rô phi (Tilapia) 🧩 | 06:00–14:00 | bất kỳ |
+| Cá ngừ (Tuna) 🧩 | 06:00–19:00 | bất kỳ |
 
 ### 🏞️ Sông (Thị trấn + Rừng Cindersap)
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá thái dương (Sunfish) 🧩 | 06:00–19:00 | ☀️ |
-| Cá trích dày mình (Shad) 🧩 | 09:00–02:00 | 🌧️ |
 | Cá vền (Bream) 🧩 | 18:00–02:00 | bất kỳ |
-| Cá hồi vân (Rainbow Trout) | 06:00–19:00 | ☀️ — cũng có ở Hồ Trên Núi |
-| Cá măng (Pike) | cả ngày | bất kỳ — cả ao Rừng Cindersap |
-| Cá Vàng (Dorado) | 06:00–19:00 | bất kỳ — **chỉ sông Rừng Cindersap**, sông Thị trấn không có |
 | Cá bống (Chub) | cả ngày | bất kỳ — chỉ sông Rừng Cindersap, cũng có ở Hồ Trên Núi |
+| Cá Vàng (Dorado) | 06:00–19:00 | bất kỳ — **chỉ sông Rừng Cindersap**, sông Thị trấn không có |
 | Cá bống tượng (Goby) | 08:00–18:00 | bất kỳ — chỉ vũng dưới thác phía nam Rừng Cindersap, chỗ đứng xem mục Xuân |
+| Cá măng (Pike) | cả ngày | bất kỳ — cả ao Rừng Cindersap |
+| Cá hồi vân (Rainbow Trout) | 06:00–19:00 | ☀️ — cũng có ở Hồ Trên Núi |
+| Cá trích dày mình (Shad) 🧩 | 09:00–02:00 | 🌧️ |
+| Cá thái dương (Sunfish) 🧩 | 06:00–19:00 | ☀️ |
 
 ### ⛰️ Hồ Trên Núi
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá vược miệng rộng (Largemouth Bass) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá chép (Carp) 🧩 | cả ngày | bất kỳ |
 | Cá đầu bò (Bullhead) 🧩 | cả ngày | bất kỳ |
-| Cá tầm (Sturgeon) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá hồi vân (Rainbow Trout) | 06:00–19:00 | ☀️ |
+| Cá chép (Carp) 🧩 | cả ngày | bất kỳ |
 | Cá bống (Chub) | cả ngày | bất kỳ |
+| Cá vược miệng rộng (Largemouth Bass) 🧩 | 06:00–19:00 | bất kỳ |
+| Cá hồi vân (Rainbow Trout) | 06:00–19:00 | ☀️ |
+| Cá tầm (Sturgeon) 🧩 | 06:00–19:00 | bất kỳ |
 
 ### ⛏️ Hầm Mỏ & khu phải mở khoá
 
@@ -133,23 +135,23 @@ _Mùa nào cũng như nhau. Điều kiện mở khoá và tỉ lệ cắn xem �
 
 | Cá | Nơi | Ghi chú |
 |---|---|---|
-| Cá ma (Ghostfish) 🧩 | ao Hầm Mỏ tầng 20 · 60 | — |
-| Cá đá (Stonefish) | ao tầng 20 | cấp Câu cá 3 |
-| Cá băng (Ice Pip) | ao tầng 60 | cấp Câu cá 5 |
-| Lươn dung nham (Lava Eel) | dung nham tầng 100 | cấp Câu cá 7 |
 | Thạch Hang Động (Cave Jelly) | ao tầng 20 · 60 · dung nham tầng 100 | rất hiếm |
-| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật | — |
 | Cá chép (Carp) 🧩 | Khu rừng Bí mật · Cống ngầm | — |
 | Cá trê (Catfish) 🧩 | Khu rừng Bí mật | 🌧️ |
+| Cá ma (Ghostfish) 🧩 | ao Hầm Mỏ tầng 20 · 60 | — |
+| Cá băng (Ice Pip) | ao tầng 60 | cấp Câu cá 5 |
+| Lươn dung nham (Lava Eel) | dung nham tầng 100 | cấp Câu cá 7 |
 | Cá chép biến dị (Mutant Carp) | Cống ngầm | 1 con/save |
 | Cá cát (Sandfish) 🧩 | Sa mạc | 06:00–20:00 |
 | Cá chép bò cạp (Scorpion Carp) | Sa mạc | 06:00–20:00 · cấp Câu cá 4 |
+| Cá đá (Stonefish) | ao tầng 20 | cấp Câu cá 3 |
+| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật | — |
 
 ---
 
 ## 🍂 Thu
 
-Có **22 loại** câu được mùa Thu ở biển, sông và hồ (không tính rong, tảo, sứa). **Chỉ có trong Thu:** Cá hồi · Cá lồng đèn. Cá Hạ **hết cắn từ Thu**: Cá thái dương · Cá hồi vân · Cá măng · Cá Vàng · Cá nóc · Bạch tuộc · Cá Phi Hồng · Cá ngừ · Cá phèn · Cá bơn · Cá bơn lưỡi ngựa · Cá tầm.
+Có **22 loại** câu được mùa Thu ở biển, sông và hồ (không tính rong, tảo, sứa). **Chỉ có trong Thu:** Cá lồng đèn · Cá hồi. Cá Hạ **hết cắn từ Thu**: Cá Phi Hồng · Cá Vàng · Cá bơn · Cá bơn lưỡi ngựa · Bạch tuộc · Cá măng · Cá nóc · Cá hồi vân · Cá phèn · Cá tầm · Cá thái dương · Cá ngừ.
 
 🦀 Trai, Hàu, Ốc mỡ… bắt bằng **Bẫy cua**, mùa nào cũng như nhau — xem [[#🦀 Bẫy cua (Crab Pot)|Bẫy cua]].
 
@@ -157,40 +159,40 @@ Có **22 loại** câu được mùa Thu ở biển, sông và hồ (không tín
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá mòi (Sardine) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá rô phi (Tilapia) 🧩 | 06:00–14:00 | bất kỳ |
-| Cá hồng (Red Snapper) 🧩 | 06:00–19:00 | 🌧️ |
-| Lươn (Eel) 🧩 | 16:00–02:00 | 🌧️ |
-| Cá cơm (Anchovy) | cả ngày | bất kỳ |
-| Siêu Hải sâm (Super Cucumber) | 18:00–02:00 | bất kỳ |
-| Hải sâm (Sea Cucumber) | 06:00–19:00 | bất kỳ |
 | Cá ngừ Trắng (Albacore) | 06:00–11:00 · 18:00–02:00 | bất kỳ |
+| Cá cơm (Anchovy) | cả ngày | bất kỳ |
+| Lươn (Eel) 🧩 | 16:00–02:00 | 🌧️ |
+| Cá hồng (Red Snapper) 🧩 | 06:00–19:00 | 🌧️ |
+| Cá mòi (Sardine) 🧩 | 06:00–19:00 | bất kỳ |
+| Hải sâm (Sea Cucumber) | 06:00–19:00 | bất kỳ |
+| Siêu Hải sâm (Super Cucumber) | 18:00–02:00 | bất kỳ |
+| Cá rô phi (Tilapia) 🧩 | 06:00–14:00 | bất kỳ |
 
 ### 🏞️ Sông (Thị trấn + Rừng Cindersap)
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá trê (Catfish) 🧩 | 06:00–24:00 | 🌧️ |
-| Cá trích dày mình (Shad) 🧩 | 09:00–02:00 | 🌧️ |
-| Cá hồi hổ (Tiger Trout) 🧩 | 06:00–19:00 | bất kỳ |
+| **Cá lồng đèn (Angler)** | cả ngày | bất kỳ · **chỉ Thu** · cần **cấp Câu cá 3** · **chỉ sông Thị trấn**, đứng ở mép bắc bản đồ (y ≤ 14) · 1 con/save |
 | Cá vền (Bream) 🧩 | 18:00–02:00 | bất kỳ |
-| Cá mắt to (Walleye) 🧩 | 12:00–02:00 | 🌧️ — cả ao Rừng Cindersap và Hồ Trên Núi |
-| Cá hồi (Salmon) | 06:00–19:00 | bất kỳ |
-| Cá vược miệng nhỏ (Smallmouth Bass) | cả ngày | bất kỳ — sông Thị trấn và **ao Rừng Cindersap**, sông Rừng không có |
+| Cá trê (Catfish) 🧩 | 06:00–24:00 | 🌧️ |
 | Cá bống (Chub) | cả ngày | bất kỳ — chỉ sông Rừng Cindersap, cũng có ở Hồ Trên Núi |
 | Cá bống tượng (Goby) | 08:00–18:00 | bất kỳ — chỉ vũng dưới thác phía nam Rừng Cindersap, chỗ đứng xem mục Xuân |
-| **Cá lồng đèn (Angler)** | cả ngày | bất kỳ · **chỉ Thu** · cần **cấp Câu cá 3** · **chỉ sông Thị trấn**, đứng ở mép bắc bản đồ (y ≤ 14) · 1 con/save |
+| Cá hồi (Salmon) | 06:00–19:00 | bất kỳ |
+| Cá trích dày mình (Shad) 🧩 | 09:00–02:00 | 🌧️ |
+| Cá vược miệng nhỏ (Smallmouth Bass) | cả ngày | bất kỳ — sông Thị trấn và **ao Rừng Cindersap**, sông Rừng không có |
+| Cá hồi hổ (Tiger Trout) 🧩 | 06:00–19:00 | bất kỳ |
+| Cá mắt to (Walleye) 🧩 | 12:00–02:00 | 🌧️ — cả ao Rừng Cindersap và Hồ Trên Núi |
 
 ### ⛰️ Hồ Trên Núi
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá vược miệng rộng (Largemouth Bass) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá chép (Carp) 🧩 | cả ngày | bất kỳ |
 | Cá đầu bò (Bullhead) 🧩 | cả ngày | bất kỳ |
-| Cá mắt to (Walleye) 🧩 | 12:00–02:00 | 🌧️ |
-| Cá chép nửa đêm (Midnight Carp) | 22:00–02:00 | bất kỳ — cả ao Rừng Cindersap |
+| Cá chép (Carp) 🧩 | cả ngày | bất kỳ |
 | Cá bống (Chub) | cả ngày | bất kỳ |
+| Cá vược miệng rộng (Largemouth Bass) 🧩 | 06:00–19:00 | bất kỳ |
+| Cá chép nửa đêm (Midnight Carp) | 22:00–02:00 | bất kỳ — cả ao Rừng Cindersap |
+| Cá mắt to (Walleye) 🧩 | 12:00–02:00 | 🌧️ |
 
 ### ⛏️ Hầm Mỏ & khu phải mở khoá
 
@@ -198,23 +200,23 @@ _Mùa nào cũng như nhau. Điều kiện mở khoá và tỉ lệ cắn xem �
 
 | Cá | Nơi | Ghi chú |
 |---|---|---|
-| Cá ma (Ghostfish) 🧩 | ao Hầm Mỏ tầng 20 · 60 | — |
-| Cá đá (Stonefish) | ao tầng 20 | cấp Câu cá 3 |
-| Cá băng (Ice Pip) | ao tầng 60 | cấp Câu cá 5 |
-| Lươn dung nham (Lava Eel) | dung nham tầng 100 | cấp Câu cá 7 |
 | Thạch Hang Động (Cave Jelly) | ao tầng 20 · 60 · dung nham tầng 100 | rất hiếm |
-| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật | — |
 | Cá chép (Carp) 🧩 | Khu rừng Bí mật · Cống ngầm | — |
 | Cá trê (Catfish) 🧩 | Khu rừng Bí mật | 🌧️ |
+| Cá ma (Ghostfish) 🧩 | ao Hầm Mỏ tầng 20 · 60 | — |
+| Cá băng (Ice Pip) | ao tầng 60 | cấp Câu cá 5 |
+| Lươn dung nham (Lava Eel) | dung nham tầng 100 | cấp Câu cá 7 |
 | Cá chép biến dị (Mutant Carp) | Cống ngầm | 1 con/save |
 | Cá cát (Sandfish) 🧩 | Sa mạc | 06:00–20:00 |
 | Cá chép bò cạp (Scorpion Carp) | Sa mạc | 06:00–20:00 · cấp Câu cá 4 |
+| Cá đá (Stonefish) | ao tầng 20 | cấp Câu cá 3 |
+| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật | — |
 
 ---
 
 ## ❄️ Đông
 
-Có **23 loại** câu được mùa Đông ở biển, sông và hồ (không tính rong, tảo, sứa). **Chỉ có trong Đông:** Cá rô · Cá tuyết trâu · Mực · Cá Băng hà. Cá Thu **hết cắn từ Đông**: Cá cơm · Lươn · Siêu Hải sâm · Cá rô phi · Cá vược miệng nhỏ · Cá trích dày mình · Cá hồi · Cá lồng đèn; Cá chép chỉ còn ở Khu rừng Bí mật và Cống ngầm.
+Có **23 loại** câu được mùa Đông ở biển, sông và hồ (không tính rong, tảo, sứa). **Chỉ có trong Đông:** Cá Băng hà · Cá tuyết trâu · Cá rô · Mực. Cá Thu **hết cắn từ Đông**: Cá cơm · Cá lồng đèn · Lươn · Cá hồi · Cá trích dày mình · Cá vược miệng nhỏ · Siêu Hải sâm · Cá rô phi; Cá chép chỉ còn ở Khu rừng Bí mật và Cống ngầm.
 
 🦀 Trai, Hàu, Ốc mỡ… bắt bằng **Bẫy cua**, mùa nào cũng như nhau — xem [[#🦀 Bẫy cua (Crab Pot)|Bẫy cua]].
 
@@ -222,43 +224,43 @@ Có **23 loại** câu được mùa Đông ở biển, sông và hồ (không t
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá mòi (Sardine) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá ngừ (Tuna) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá hồng (Red Snapper) 🧩 | 06:00–19:00 | 🌧️ |
-| Cá trích (Herring) | cả ngày | bất kỳ |
-| Cá bơn lưỡi ngựa (Halibut) | 06:00–11:00 · 19:00–02:00 | bất kỳ |
-| Cá phèn (Red Mullet) | 06:00–19:00 | bất kỳ |
-| Hải sâm (Sea Cucumber) | 06:00–19:00 | bất kỳ |
 | Cá ngừ Trắng (Albacore) | 06:00–11:00 · 18:00–02:00 | bất kỳ |
+| Cá bơn lưỡi ngựa (Halibut) | 06:00–11:00 · 19:00–02:00 | bất kỳ |
+| Cá trích (Herring) | cả ngày | bất kỳ |
+| Cá phèn (Red Mullet) | 06:00–19:00 | bất kỳ |
+| Cá hồng (Red Snapper) 🧩 | 06:00–19:00 | 🌧️ |
+| Cá mòi (Sardine) 🧩 | 06:00–19:00 | bất kỳ |
+| Hải sâm (Sea Cucumber) | 06:00–19:00 | bất kỳ |
 | Mực (Squid) | 18:00–02:00 | bất kỳ — hội câu mực (SquidFest) thì cắn cả ban ngày |
+| Cá ngừ (Tuna) 🧩 | 06:00–19:00 | bất kỳ |
 
 ### 🏞️ Sông (Thị trấn + Rừng Cindersap)
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá trê (Catfish) 🧩 | 06:00–24:00 | 🌧️ |
-| Cá hồi hổ (Tiger Trout) 🧩 | 06:00–19:00 | bất kỳ |
 | Cá vền (Bream) 🧩 | 18:00–02:00 | bất kỳ |
-| Cá mắt to (Walleye) 🧩 | 12:00–02:00 | 🌧️ — cả ao Rừng Cindersap và Hồ Trên Núi |
-| Cá măng (Pike) | cả ngày | bất kỳ — cả ao Rừng Cindersap |
-| Cá rô (Perch) | cả ngày | bất kỳ — cả ao Rừng Cindersap và Hồ Trên Núi |
-| Cá tuyết trâu (Lingcod) | cả ngày | bất kỳ — cũng có ở Hồ Trên Núi |
+| Cá trê (Catfish) 🧩 | 06:00–24:00 | 🌧️ |
 | Cá bống (Chub) | cả ngày | bất kỳ — chỉ sông Rừng Cindersap, cũng có ở Hồ Trên Núi |
-| Cá bống tượng (Goby) | 08:00–18:00 | bất kỳ — chỉ vũng dưới thác phía nam Rừng Cindersap, chỗ đứng xem mục Xuân |
 | **Cá Băng hà (Glacierfish)** | cả ngày | bất kỳ · **chỉ Đông** · cần **cấp Câu cá 6** · **đứng đúng ô (58, 87)** ở sông Rừng Cindersap, quăng xa bờ **≥ 3 ô** · 1 con/save |
+| Cá bống tượng (Goby) | 08:00–18:00 | bất kỳ — chỉ vũng dưới thác phía nam Rừng Cindersap, chỗ đứng xem mục Xuân |
+| Cá tuyết trâu (Lingcod) | cả ngày | bất kỳ — cũng có ở Hồ Trên Núi |
+| Cá rô (Perch) | cả ngày | bất kỳ — cả ao Rừng Cindersap và Hồ Trên Núi |
+| Cá măng (Pike) | cả ngày | bất kỳ — cả ao Rừng Cindersap |
+| Cá hồi hổ (Tiger Trout) 🧩 | 06:00–19:00 | bất kỳ |
+| Cá mắt to (Walleye) 🧩 | 12:00–02:00 | 🌧️ — cả ao Rừng Cindersap và Hồ Trên Núi |
 
 ### ⛰️ Hồ Trên Núi
 
 | Cá | Giờ | Thời tiết |
 |---|---|---|
-| Cá vược miệng rộng (Largemouth Bass) 🧩 | 06:00–19:00 | bất kỳ |
 | Cá đầu bò (Bullhead) 🧩 | cả ngày | bất kỳ |
-| Cá tầm (Sturgeon) 🧩 | 06:00–19:00 | bất kỳ |
-| Cá mắt to (Walleye) 🧩 | 12:00–02:00 | 🌧️ |
+| Cá bống (Chub) | cả ngày | bất kỳ |
+| Cá vược miệng rộng (Largemouth Bass) 🧩 | 06:00–19:00 | bất kỳ |
+| Cá tuyết trâu (Lingcod) | cả ngày | bất kỳ |
 | Cá chép nửa đêm (Midnight Carp) | 22:00–02:00 | bất kỳ — cả ao Rừng Cindersap |
 | Cá rô (Perch) | cả ngày | bất kỳ |
-| Cá tuyết trâu (Lingcod) | cả ngày | bất kỳ |
-| Cá bống (Chub) | cả ngày | bất kỳ |
+| Cá tầm (Sturgeon) 🧩 | 06:00–19:00 | bất kỳ |
+| Cá mắt to (Walleye) 🧩 | 12:00–02:00 | 🌧️ |
 
 ### ⛏️ Hầm Mỏ & khu phải mở khoá
 
@@ -266,17 +268,17 @@ _Mùa nào cũng như nhau. Điều kiện mở khoá và tỉ lệ cắn xem �
 
 | Cá | Nơi | Ghi chú |
 |---|---|---|
-| Cá ma (Ghostfish) 🧩 | ao Hầm Mỏ tầng 20 · 60 | — |
-| Cá đá (Stonefish) | ao tầng 20 | cấp Câu cá 3 |
-| Cá băng (Ice Pip) | ao tầng 60 | cấp Câu cá 5 |
-| Lươn dung nham (Lava Eel) | dung nham tầng 100 | cấp Câu cá 7 |
 | Thạch Hang Động (Cave Jelly) | ao tầng 20 · 60 · dung nham tầng 100 | rất hiếm |
-| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật | — |
 | Cá chép (Carp) 🧩 | Khu rừng Bí mật · Cống ngầm | — |
 | Cá trê (Catfish) 🧩 | Khu rừng Bí mật | 🌧️ |
+| Cá ma (Ghostfish) 🧩 | ao Hầm Mỏ tầng 20 · 60 | — |
+| Cá băng (Ice Pip) | ao tầng 60 | cấp Câu cá 5 |
+| Lươn dung nham (Lava Eel) | dung nham tầng 100 | cấp Câu cá 7 |
 | Cá chép biến dị (Mutant Carp) | Cống ngầm | 1 con/save |
 | Cá cát (Sandfish) 🧩 | Sa mạc | 06:00–20:00 |
 | Cá chép bò cạp (Scorpion Carp) | Sa mạc | 06:00–20:00 · cấp Câu cá 4 |
+| Cá đá (Stonefish) | ao tầng 20 | cấp Câu cá 3 |
+| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật | — |
 
 ---
 
@@ -291,60 +293,60 @@ Cá biển, sông, hồ xếp theo **số mùa câu được** — nhìn một d
 | Cá | Xuân | Hạ | Thu | Đông | Nơi |
 |---|---|---|---|---|---|
 | Cá vền (Bream) 🧩 | ✅ | ✅ | ✅ | ✅ | Sông TT · Sông Rừng — chỉ 18:00–02:00 |
+| Cá đầu bò (Bullhead) 🧩 | ✅ | ✅ | ✅ | ✅ | Hồ |
 | Cá bống (Chub) | ✅ | ✅ | ✅ | ✅ | Sông Rừng · Hồ |
 | Cá bống tượng (Goby) | ✅ | ✅ | ✅ | ✅ | Vũng dưới thác phía nam Rừng Cindersap |
 | Cá vược miệng rộng (Largemouth Bass) 🧩 | ✅ | ✅ | ✅ | ✅ | Hồ |
-| Cá đầu bò (Bullhead) 🧩 | ✅ | ✅ | ✅ | ✅ | Hồ |
 
 **Ba mùa**
 
 | Cá | Xuân | Hạ | Thu | Đông | Nơi |
 |---|---|---|---|---|---|
-| Cá trê (Catfish) 🧩 🌧️ | ✅ | · | ✅ | ✅ | Sông TT · Sông Rừng — mùa Hạ chỉ ở Khu rừng Bí mật |
 | Cá chép (Carp) 🧩 | ✅ | ✅ | ✅ | · | Hồ — mùa Đông chỉ ở Khu rừng Bí mật, Cống ngầm |
-| Cá trích dày mình (Shad) 🧩 🌧️ | ✅ | ✅ | ✅ | · | Sông TT · Sông Rừng |
-| Cá mòi (Sardine) 🧩 | ✅ | · | ✅ | ✅ | Biển |
+| Cá trê (Catfish) 🧩 🌧️ | ✅ | · | ✅ | ✅ | Sông TT · Sông Rừng — mùa Hạ chỉ ở Khu rừng Bí mật |
 | Cá bơn lưỡi ngựa (Halibut) | ✅ | ✅ | · | ✅ | Biển |
 | Cá hồng (Red Snapper) 🧩 🌧️ | · | ✅ | ✅ | ✅ | Biển |
+| Cá mòi (Sardine) 🧩 | ✅ | · | ✅ | ✅ | Biển |
+| Cá trích dày mình (Shad) 🧩 🌧️ | ✅ | ✅ | ✅ | · | Sông TT · Sông Rừng |
 
 **Hai mùa**
 
 | Cá | Xuân | Hạ | Thu | Đông | Nơi |
 |---|---|---|---|---|---|
-| Cá vược miệng nhỏ (Smallmouth Bass) | ✅ | · | ✅ | · | Sông TT · Ao Rừng |
+| Cá ngừ Trắng (Albacore) | · | · | ✅ | ✅ | Biển |
 | Cá cơm (Anchovy) | ✅ | · | ✅ | · | Biển |
 | Lươn (Eel) 🧩 🌧️ | ✅ | · | ✅ | · | Biển |
-| Cá trích (Herring) | ✅ | · | · | ✅ | Biển |
-| Cá thái dương (Sunfish) 🧩 ☀️ | ✅ | ✅ | · | · | Sông TT · Sông Rừng |
 | Cá bơn (Flounder) | ✅ | ✅ | · | · | Biển |
-| Cá măng (Pike) | · | ✅ | · | ✅ | Sông TT · Sông Rừng · Ao Rừng |
-| Cá ngừ (Tuna) 🧩 | · | ✅ | · | ✅ | Biển |
-| Cá phèn (Red Mullet) | · | ✅ | · | ✅ | Biển |
-| Cá tầm (Sturgeon) 🧩 | · | ✅ | · | ✅ | Hồ |
-| Cá rô phi (Tilapia) 🧩 | · | ✅ | ✅ | · | Biển |
-| Siêu Hải sâm (Super Cucumber) | · | ✅ | ✅ | · | Biển |
-| Cá mắt to (Walleye) 🧩 🌧️ | · | · | ✅ | ✅ | Sông TT · Sông Rừng · Ao Rừng · Hồ |
-| Cá hồi hổ (Tiger Trout) 🧩 | · | · | ✅ | ✅ | Sông TT · Sông Rừng |
+| Cá trích (Herring) | ✅ | · | · | ✅ | Biển |
 | Cá chép nửa đêm (Midnight Carp) | · | · | ✅ | ✅ | Ao Rừng · Hồ |
+| Cá măng (Pike) | · | ✅ | · | ✅ | Sông TT · Sông Rừng · Ao Rừng |
+| Cá phèn (Red Mullet) | · | ✅ | · | ✅ | Biển |
 | Hải sâm (Sea Cucumber) | · | · | ✅ | ✅ | Biển |
-| Cá ngừ Trắng (Albacore) | · | · | ✅ | ✅ | Biển |
+| Cá vược miệng nhỏ (Smallmouth Bass) | ✅ | · | ✅ | · | Sông TT · Ao Rừng |
+| Cá tầm (Sturgeon) 🧩 | · | ✅ | · | ✅ | Hồ |
+| Cá thái dương (Sunfish) 🧩 ☀️ | ✅ | ✅ | · | · | Sông TT · Sông Rừng |
+| Siêu Hải sâm (Super Cucumber) | · | ✅ | ✅ | · | Biển |
+| Cá hồi hổ (Tiger Trout) 🧩 | · | · | ✅ | ✅ | Sông TT · Sông Rừng |
+| Cá rô phi (Tilapia) 🧩 | · | ✅ | ✅ | · | Biển |
+| Cá ngừ (Tuna) 🧩 | · | ✅ | · | ✅ | Biển |
+| Cá mắt to (Walleye) 🧩 🌧️ | · | · | ✅ | ✅ | Sông TT · Sông Rừng · Ao Rừng · Hồ |
 
 **Chỉ một mùa** — lỡ là chờ năm sau
 
 | Cá | Xuân | Hạ | Thu | Đông | Nơi |
 |---|---|---|---|---|---|
-| **Cá huyền thoại (Legend)** 🌧️ | ✅ | · | · | · | Hồ — cấp Câu cá 10, 1 con/save |
-| Cá nóc (Pufferfish) 🧩 ☀️ | · | ✅ | · | · | Biển |
-| Bạch tuộc (Octopus) | · | ✅ | · | · | Biển |
-| Cá hồi vân (Rainbow Trout) ☀️ | · | ✅ | · | · | Sông TT · Sông Rừng · Hồ |
-| Cá Vàng (Dorado) | · | ✅ | · | · | Sông Rừng |
-| **Cá Phi Hồng (Crimsonfish)** | · | ✅ | · | · | Biển — cấp Câu cá 5, 1 con/save |
-| Cá hồi (Salmon) | · | · | ✅ | · | Sông TT · Sông Rừng |
 | **Cá lồng đèn (Angler)** | · | · | ✅ | · | Thị trấn — cấp Câu cá 3, 1 con/save |
-| Cá rô (Perch) | · | · | · | ✅ | Sông TT · Sông Rừng · Ao Rừng · Hồ |
-| Cá tuyết trâu (Lingcod) | · | · | · | ✅ | Sông TT · Sông Rừng · Hồ |
-| Mực (Squid) | · | · | · | ✅ | Biển |
+| **Cá Phi Hồng (Crimsonfish)** | · | ✅ | · | · | Biển — cấp Câu cá 5, 1 con/save |
+| Cá Vàng (Dorado) | · | ✅ | · | · | Sông Rừng |
 | **Cá Băng hà (Glacierfish)** | · | · | · | ✅ | Rừng Cindersap — cấp Câu cá 6, 1 con/save |
+| **Cá huyền thoại (Legend)** 🌧️ | ✅ | · | · | · | Hồ — cấp Câu cá 10, 1 con/save |
+| Cá tuyết trâu (Lingcod) | · | · | · | ✅ | Sông TT · Sông Rừng · Hồ |
+| Bạch tuộc (Octopus) | · | ✅ | · | · | Biển |
+| Cá rô (Perch) | · | · | · | ✅ | Sông TT · Sông Rừng · Ao Rừng · Hồ |
+| Cá nóc (Pufferfish) 🧩 ☀️ | · | ✅ | · | · | Biển |
+| Cá hồi vân (Rainbow Trout) ☀️ | · | ✅ | · | · | Sông TT · Sông Rừng · Hồ |
+| Cá hồi (Salmon) | · | · | ✅ | · | Sông TT · Sông Rừng |
+| Mực (Squid) | · | · | · | ✅ | Biển |
 
 > [!info] Mùa lấy từ `Data/Locations`, không lấy từ `Data/Fish`
 > `Data/Fish` vẫn còn cột mùa nhưng game 1.6.15 **không đọc tới**: hàm kiểm tra cá (`GameLocation.CheckGenericFishRequirements`) chỉ lấy giờ, thời tiết và cấp tối thiểu từ đó. Mùa do từng khu quyết định trong `Data/Locations`. Vì thế bảng này có chỗ khác wiki hoặc khác cột mùa của `Data/Fish` — ví dụ `Data/Fish` ghi Cá Phi Hồng là mùa Đông, Cá bống tượng thiếu mùa Đông, nhưng trong game Cá Phi Hồng cắn mùa Hạ còn Cá bống tượng cắn cả bốn mùa.
@@ -359,16 +361,16 @@ Mấy con này **không câu bằng cần** mà bắt bằng **Bẫy cua**: th�
 
 | Con | Nước | Tỉ lệ ghi trong `Data/Fish` |
 |---|---|---|
-| Tôm hùm (Lobster) 🧩 | biển | 5% — hiếm nhất |
-| Cua (Crab) 🧩 | biển | 10% |
-| Hàu (Oyster) 🧩 | biển | 15% |
 | Nghêu (Clam) 🧩 | biển | 15% |
-| Tôm (Shrimp) 🧩 | biển | 20% |
 | Sò (Cockle) 🧩 | biển | 30% |
-| Trai (Mussel) 🧩 | biển | 35% |
-| Ốc sên (Snail) 🧩 | ngọt | 25% |
+| Cua (Crab) 🧩 | biển | 10% |
 | Tôm hùm đất (Crayfish) 🧩 | ngọt | 35% |
+| Tôm hùm (Lobster) 🧩 | biển | 5% — hiếm nhất |
+| Trai (Mussel) 🧩 | biển | 35% |
+| Hàu (Oyster) 🧩 | biển | 15% |
 | Ốc mỡ (Periwinkle) 🧩 | ngọt | 55% — hay ra nhất |
+| Tôm (Shrimp) 🧩 | biển | 20% |
+| Ốc sên (Snail) 🧩 | ngọt | 25% |
 
 - **Nước biển** = Bãi biển (cả phần biển của nông trại Bãi biển). **Nước ngọt** = mọi chỗ còn lại: sông Thị trấn, sông và ao Rừng Cindersap, Hồ Trên Núi, ao nông trại.
 - Không con nào trúng thì bẫy ra **rác** (Rác, Gỗ trôi dạt, Đĩa CD hỏng, Mắt kính hỏng, Tờ báo sũng nước).
@@ -387,11 +389,11 @@ Cá ở mấy chỗ dưới đây **không đổi theo mùa** — mùa nào cũn
 
 | Cá | Nơi | Cấp tối thiểu |
 |---|---|---|
+| Thạch Hang Động (Cave Jelly) — _sứa, mới từ 1.6_ | ao tầng 20 · 60 (rất hiếm) · dung nham tầng 100 (dễ hơn) | — |
 | Cá ma (Ghostfish) 🧩 | ao tầng 20 · 60 | — |
-| Cá đá (Stonefish) | ao tầng 20 | 3 |
 | Cá băng (Ice Pip) | ao tầng 60 | 5 |
 | Lươn dung nham (Lava Eel) | ao tầng 100 | 7 |
-| Thạch Hang Động (Cave Jelly) — _sứa, mới từ 1.6_ | ao tầng 20 · 60 (rất hiếm) · dung nham tầng 100 (dễ hơn) | — |
+| Cá đá (Stonefish) | ao tầng 20 | 3 |
 
 > [!info] Vì sao cá mỏ khó ra — không phải do minigame, mà do **tỉ lệ cắn câu**
 > Soi code game 1.6.15 (`MineShaft.getFish`): mỗi lần cá cắn, game tung **1 lần xúc xắc riêng** cho cá của tầng đó; trượt thì rơi về danh sách thường của mỏ (Cá ma, tảo…).
@@ -412,9 +414,9 @@ Cá ở mấy chỗ dưới đây **không đổi theo mùa** — mùa nào cũn
 
 | Cá | Cần gì |
 |---|---|
-| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật — **Rìu Thép** để chặt khúc gỗ |
 | Cá chép biến dị (Mutant Carp) | Cống ngầm — **Chìa khóa Rỉ sét** (quyên góp 60 món Bảo tàng) |
 | Cá cát (Sandfish) · Cá chép bò cạp (Scorpion Carp) | Sa mạc — sửa xe buýt, thường chưa kịp Năm 1 |
+| Cá nhảy (Woodskip) 🧩 | Khu rừng Bí mật — **Rìu Thép** để chặt khúc gỗ |
 
 ---
 
