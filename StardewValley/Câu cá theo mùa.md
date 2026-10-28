@@ -32,10 +32,10 @@ Có **17 loại** câu được mùa Xuân ở biển, sông và hồ (không t�
 | Cá thái dương (Sunfish) 🧩 | 06:00–19:00 | ☀️ |
 | Cá trê (Catfish) 🧩 | 06:00–24:00 | 🌧️ |
 | Cá trích dày mình (Shad) 🧩 | 09:00–02:00 | 🌧️ |
-| Cá vược miệng nhỏ (Smallmouth Bass) | cả ngày | bất kỳ |
-| Cá bống (Chub) | cả ngày | bất kỳ |
+| Cá vược miệng nhỏ (Smallmouth Bass) | cả ngày | bất kỳ — sông Thị trấn và **ao Rừng Cindersap**, sông Rừng không có |
+| Cá bống (Chub) | cả ngày | bất kỳ — chỉ sông Rừng Cindersap, cũng có ở Hồ Trên Núi |
 | Cá vền (Bream) 🧩 | 18:00–02:00 | bất kỳ |
-| Cá bống tượng (Goby) — _mới từ 1.6, khác Cá bống (Chub) ở trên_ | 08:00–18:00 · trừ Đông | bất kỳ — **phao phải rơi đúng vũng nước dưới chân thác phía nam Rừng Cindersap** (ngay dưới chỗ cầu vồng Xuân 17, ô X 51–65, Y ≥ 100); câu chỗ khác của sông **không bao giờ ra** |
+| Cá bống tượng (Goby) — _mới từ 1.6, khác Cá bống (Chub) ở trên_ | 08:00–18:00 · cả bốn mùa | bất kỳ — **phao phải rơi đúng vũng nước dưới chân thác phía nam Rừng Cindersap** (ngay dưới chỗ cầu vồng Xuân 17, ô X 51–65, Y ≥ 100); câu chỗ khác của sông **không bao giờ ra** |
 
 > [!tip] Chỗ đứng câu Cá bống tượng
 > **Đứng ô (52, 98), quay mặt xuống Nam** — ô đất cuối cùng ở bờ **Tây** con sông, sát mép vách thác. Ngay dưới là 1 ô vách (52, 99), từ (52, 100) trở xuống đã là nước có Cá bống tượng, nên quăng ≥ 2 ô là trúng; quăng 1 ô thì phao rơi lên vách, quăng lại. **Đừng quay sang Đông:** nước ngay cạnh như (53, 98) vẫn là sông thường. Ô đó bị chắn thì lùi sang (51, 98), cũng quay Nam nhưng phải quăng ~6 ô.
@@ -47,7 +47,8 @@ Có **17 loại** câu được mùa Xuân ở biển, sông và hồ (không t�
 | Cá vược miệng rộng (Largemouth Bass) 🧩 | 06:00–19:00 | bất kỳ |
 | Cá chép (Carp) 🧩 | cả ngày | bất kỳ |
 | Cá đầu bò (Bullhead) 🧩 | cả ngày | bất kỳ |
-| **Cá huyền thoại (Legend)** | 06:00–20:00 | 🌧️ · **chỉ Xuân** · cần **cấp Câu cá 10** · quăng xa bờ **≥ 4 ô** · 1 con/save |
+| Cá bống (Chub) | cả ngày | bất kỳ |
+| **Cá huyền thoại (Legend)** | cả ngày | 🌧️ · **chỉ Xuân** · cần **cấp Câu cá 10** · quăng xa bờ **≥ 4 ô** · 1 con/save |
 
 > [!info] Cá huyền thoại khi chưa tới cấp 10
 > Game kiểm tra cấp Câu cá **gồm cả buff đồ ăn**, nên cấp 7–8 + món **+3 Câu cá** là đủ 10. Đang cấp 8 thì cần ít nhất **+2** — **Súp cá hồi** (Trout Soup, Willy bán 250g) hay **Thạch Biển** (Sea Jelly) chỉ +1, không đủ; hai món ăn cũng không cộng dồn vì cùng loại buff "đồ ăn".
