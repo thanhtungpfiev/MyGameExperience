@@ -4172,12 +4172,20 @@ WIKI ĐỐI CHIẾU: dùng đúng host  heroes.v.thelazy.net  (có chữ .v.). H
   bậc Basic/Advanced/Expert, mana, và bảng xác suất phép của Mage Guild từng thành.
   Đối chiếu qua WebFetch; curl trong các phiên trước không ra được mạng.
 
-METADATA YOUTUBE: trang playlist đá sang consent.youtube.com, trang watch bị JS
-chặn — không lấy được độ dài video lẫn mốc chương. Danh sách video thì lấy được
-qua RSS, NHƯNG TỐI ĐA 15 MỤC — playlist này đã chạm trần đó:
-  https://www.youtube.com/feeds/videos.xml?playlist_id=<ID playlist>
-Tên kênh lấy được qua oEmbed:
-  https://www.youtube.com/oembed?url=<url video urlencode>&format=json
+PHỤ ĐỀ VÀ METADATA YOUTUBE: dùng yt-dlp (đã cài trên máy Windows từ 28/10/2026,
+  kèm curl-cffi, Node làm JS runtime qua %APPDATA%\yt-dlp\config.txt, và ffmpeg).
+  Lấy được phụ đề tự động CÓ MỐC THỜI GIAN, độ dài, tên kênh, tiêu đề:
+    yt-dlp --skip-download --write-auto-subs --sub-langs vi --sub-format vtt
+           --print "%(title)s | %(channel)s | %(duration_string)s" --no-simulate
+           -o "<thư mục scratchpad>/%(id)s.%(ext)s" "<url video>"
+  CHỈ LẤY "vi": xin thêm "en" (bản dịch máy) là YouTube trả 429 Too Many Requests.
+  File .vtt lặp mỗi câu nhiều lần — bỏ dòng "-->" và thẻ <...>, gộp dòng trùng
+  liền kề trước khi đọc. Đoạn "[âm nhạc]" là đoạn mất lời, ghi vào callout Nguồn.
+  Cách cũ (trước yt-dlp): trang playlist đá sang consent.youtube.com, trang watch
+  bị JS chặn; RSS chỉ trả TỐI ĐA 15 MỤC:
+    https://www.youtube.com/feeds/videos.xml?playlist_id=<ID playlist>
+  oEmbed vẫn lấy được tên kênh:
+    https://www.youtube.com/oembed?url=<url video urlencode>&format=json
 
 CALLOUT dùng trong note này (định nghĩa ở .obsidian/snippets/stardew-callouts.css):
   > [!video]  🎥 nguồn video, ghi chú về nguồn
