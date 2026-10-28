@@ -1,6 +1,6 @@
 # 🏰 Heroes 3 HotA — Cách chơi cơ bản các thành (Nam InCo)
 
-> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **11/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
+> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **12/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
 >
 > _Video nói tiếng Việt nhưng tên thành, tên lính, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
@@ -22,7 +22,7 @@
 | 7 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Xương NECROPOLIS.](https://www.youtube.com/watch?v=vm2PVn17vmA) | 05/03/2022 | ✅ [[#7️⃣ Necropolis (thành Xương) — Skeleton mới là quân chủ lực, không phải Lich\|đã chắt lọc]] |
 | 8 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Rồng Đen DUNGEON](https://www.youtube.com/watch?v=hXkO43OuJkc) | 12/04/2022 | ✅ [[#8️⃣ Dungeon (Rồng Đen) — Troglodyte với Harpy gánh cả giai đoạn mở đường, dàn tướng mới là chỗ mạnh thật\|đã chắt lọc]] |
 | 9 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Gấu STRONGHOLD.](https://www.youtube.com/watch?v=frwS3OhHHxg) | 12/11/2022 | ✅ [[#9️⃣ Stronghold (thành Gấu) — công trình nào cũng mạnh, quân yếu từng con, tướng chiến khoẻ nhất game\|đã chắt lọc]] |
-| 10 | [Cách chỉnh lỗi template 8XM8: Thành không có đường đi - Không tạo được map size G !](https://www.youtube.com/watch?v=A9zkjSXFbs8) | 03/12/2022 | ⬜ chưa xem |
+| 10 | [Cách chỉnh lỗi template 8XM8: Thành không có đường đi - Không tạo được map size G !](https://www.youtube.com/watch?v=A9zkjSXFbs8) | 03/12/2022 | ✅ [[#1️⃣0️⃣ Sửa template 8XM8 — thành bị kẹt không có đường ra, và mở khoá size G\|đã chắt lọc]] |
 | 11 | [Chia sẻ kinh nghiệm cách chơi cơ bản dành cho thành Đầm Lầy FORTRESS.](https://www.youtube.com/watch?v=ylEF4scll9c) | 13/12/2022 | ✅ [[#1️⃣1️⃣ Fortress (Đầm Lầy) — Wyvern lên được ngày đầu, Gorgon làm đối phương ngại, tướng phép "ăn học đàng hoàng"\|đã chắt lọc]] |
 | 12 | [8XM8 là gì? Tại sao nhiều người chơi 8XM8? Cách chơi cơ bản map 8XM8.](https://www.youtube.com/watch?v=oZotpPb5Gl0) | 10/01/2023 | ✅ [[#1️⃣2️⃣ Map 8XM8 — vì sao khó, vì sao người Việt mê, và cách cày vịt nhanh\|đã chắt lọc]] |
 | 13 | [Chia sẻ kinh nghiệm chơi cơ bản thành Phượng Hoàng CONFLUX.](https://www.youtube.com/watch?v=VUGJGH8hJMI) | 21/01/2024 | ✅ [[#1️⃣3️⃣ Conflux (Phượng Hoàng) — không bao giờ thọt kỹ năng, quân nhanh nhất game, và năm tướng mạnh vượt trội\|đã chắt lọc]] |
@@ -58,6 +58,8 @@
 **Bên trong video 8** — [[#🐉 Vì sao Dungeon khó với người mới nhưng mạnh ở trình cao|Vì sao khó mà vẫn mạnh]] · [[#💸 Nhược điểm của Dungeon — xây đắt, và quân chủ lực không kịp tuần 1|Nhược điểm]] · [[#🏗️ Năm công trình riêng của Dungeon|Năm công trình]] · [[#🦎 Troglodyte — quân chốt của Dungeon, yếu từng con nhưng đông và miễn nhiễm Blind|Troglodyte]] · [[#🦅 Harpy Hag — con mà video coi là "quân bắn với mũi tên vô hạn"|Harpy Hag]] · [[#🏔️ Chọn địa hình trước khi đánh — kỹ thuật mà Dungeon bắt buộc phải biết|Chọn địa hình]] · [[#👁️ Beholder và Medusa — quân bắn của Dungeon đến muộn, và cái bẫy Stone Gaze|Beholder & Medusa]] · [[#⚡ Vì sao vẫn phải nâng lên Black Dragon — chuyện speed, và cái bẫy Hill Fort|Nâng Black Dragon & Hill Fort]] · [[#🐂 Minotaur — quân cấp 5 đánh đau nhất, và lý do đối phương sợ Dungeon|Minotaur]] · [[#🦂 Scorpicore và Black Dragon — trói quân, và con duy nhất miễn nhiễm Implosion|Scorpicore & kháng Implosion]] · [[#📊 Tổng kết chất lượng quân Dungeon theo video|Tổng kết quân]] · [[#⚔️ Tướng chiến Dungeon — Tactics cộng luyện quân là chỗ mạnh thật của thành|Tướng chiến]] · [[#🔮 Tướng phép Dungeon — Alamar, Jeddite và phép hồi sinh nhân theo level|Tướng phép]] · [[#📈 Darkstorn và Learning — vì sao Dungeon cần lên level nhanh hơn các thành khác|Learning]] · [[#🏁 Chốt — Dungeon gần như không có điểm yếu với người chơi có kinh nghiệm|Chốt]] · [[#🎥 Mốc thời gian — video 8|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 8 (Dungeon)|Bảng giải mã]]
 
 **Bên trong video 9** — [[#🏛️ Bốn công trình độc nhất của Stronghold — Hall of Valhalla, Escape Tunnel, Freelancer's Guild, Ballista Yard|Bốn công trình]] · [[#🐺 Mess Hall và chuyện Stronghold phải lấy quân đông bù quân yếu|Mess Hall]] · [[#🏗️ Stronghold lên quân cấp 7 rẻ và nhanh nhất — hai đường build theo gỗ hay theo đá|Hai đường build]] · [[#🪨 Cyclops Cave — chỗ nghẽn duy nhất trong cả cây công trình Stronghold|Chỗ nghẽn Cyclops Cave]] · [[#👺 Goblin và Wolf Rider — hai quân tầm thường khi chưa nâng, rất lợi khi đã nâng|Goblin & Wolf Rider]] · [[#🏹 Orc — quân cấp 3 mà video gọi là chán nhất game|Orc]] · [[#👹 Ogre Magi — quân cấp 4 trâu nhất, và phép Bloodlust buff cho Behemoth|Ogre Magi & Bloodlust]] · [[#⚡ Thunderbird — quân mở đường quen thuộc nhất của Stronghold|Thunderbird]] · [[#👁️ Cyclops — quân phá tường mà Stronghold buộc phải có khi công thành|Cyclops phá tường]] · [[#🐻 Behemoth — phá 80% giáp, và vì sao đối phương phải giết nó trước|Behemoth]] · [[#🧩 Tổng kết quân Stronghold — từng con tầm thường, ghép lại thì rất mạnh|Tổng kết quân]] · [[#⚔️ Tướng chiến Stronghold — Yog, Gurnisson, Jabarkas, Shiva|Tướng chiến]] · [[#👣 Gretchin, Tyraxor, Krellion — và cái bẫy địa hình khi gom quân nhiều thành|Gretchin, Tyraxor, Krellion]] · [[#🥇 Crag Hack — tướng chiến mạnh nhất game theo video, và phép tính 75% Offense|Crag Hack]] · [[#🔮 Tướng phép Stronghold — Gird và Vey, hai con mà video gọi là phèn|Tướng phép]] · [[#📉 Dessa và Logistics — tướng phép duy nhất đáng giá, và chỗ HotA nép mạnh nhất|Dessa & Logistics]] · [[#🚫 Nhược điểm duy nhất của Stronghold — Mage Guild chỉ lên tới cấp 3|Nhược điểm duy nhất]] · [[#💥 Zubin và Gundula — hai tướng phép còn dùng được|Zubin & Gundula]] · [[#🏁 Chốt — Stronghold mạnh ở tướng, bù cho quân yếu từng con|Chốt]] · [[#🎥 Mốc thời gian — video 9|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 9 (Stronghold)|Bảng giải mã]]
+
+**Bên trong video 10** — [[#🐞 Lỗi 1 của template 8XM8 — ba thành không có đường ra|Lỗi 1: thành kẹt]] · [[#🛠️ Mở template 8XM8 bằng công cụ chỉnh template, không mở thẳng file|Mở template]] · [[#🔗 Đọc sơ đồ template 8XM8 và nối lại thành bị văng|Nối lại thành]] · [[#📏 Lỗi 2 của template 8XM8 — không tạo được map size G|Lỗi 2: size G]] · [[#✅ Kiểm lại trong game sau khi sửa template 8XM8|Kiểm trong game]] · [[#🎥 Mốc thời gian — video 10|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 10 (sửa template 8XM8)|Bảng giải mã]]
 
 **Bên trong video 11** — [[#🧪 Nhược điểm công trình của Fortress — Mage Guild cấp 3, và quân cấp 3–5 cần tài nguyên hiếm|Nhược điểm công trình]] · [[#🛡️ Glyphs of Fear, Blood Obelisk, Cage of Warlords — thành thủ cộng thêm kiếm giáp|Glyphs, Obelisk, Cage]] · [[#🐕 Captain's Quarters — bức tường thịt Gnoll|Captain's Quarters]] · [[#🐲 Wyvern Nest — quân cấp 6 lên được ngay ngày đầu|Wyvern Nest]] · [[#🌿 Đất Swamp — cái giá khi gom quân nhiều thành|Đất Swamp]] · [[#🦎 Gnoll và Lizardman — quân hút sát thương, không phải quân chủ lực|Gnoll & Lizardman]] · [[#🪰 Dragon Fly — speed 13, Dispel cộng Weakness, mồi nhử chỉ chiếm một ô|Dragon Fly]] · [[#🦖 Basilisk — phần mở đầu bị mất trong phụ đề|Basilisk]] · [[#🐂 Mighty Gorgon — Death Stare, và vì sao đối phương phải đánh nó trước|Mighty Gorgon]] · [[#🐉 Wyvern Monarch — quân chủ lực quen thuộc nhất ở 8XM8, và chất độc 10%|Wyvern Monarch]] · [[#🐍 Chaos Hydra — đánh mọi ô quanh mình, nhưng yếu nhất trong quân cấp 7|Chaos Hydra]] · [[#🧭 Tóm lại cách dùng quân Fortress|Tóm lại quân]] · [[#⚔️ Tướng chiến Fortress — Bron, Drakon, Wystan|Tướng chiến]] · [[#🛡️ Tazar — tướng thủ khoẻ nhất game, và phép tính Armorer 30%|Tazar]] · [[#🗡️ Alkin, Gerwulf, Broghild — và Korbac chỉ được nhắc một câu|Alkin, Gerwulf, Broghild]] · [[#🔥 Tướng chiến không học được Fire — nhưng tướng phép Fortress "ăn học đàng hoàng"|Không học Fire]] · [[#🔮 Tướng phép Fortress — Mirlanda và Rosic|Mirlanda & Rosic]] · [[#📈 Kinkeria — tướng phép lên chỉ số nhanh nhất game|Kinkeria]] · [[#🩹 Verdish, Merist, Styg, Andra, Tiva|Verdish, Merist, Styg, Andra, Tiva]] · [[#🏁 Chốt — Fortress ổn áp nhất về tướng|Chốt]] · [[#🎥 Mốc thời gian — video 11|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 11 (Fortress)|Bảng giải mã]]
 
@@ -2693,6 +2695,140 @@ Tác giả cũng nói rõ giới hạn của chính clip: **chỉ ở mức cơ 
 | "mỏ Xeko lốt" | **Mỏ Cyclops ngoài bản đồ** ❓ | **Đoán** — video nói mỏ này chỉ HotA mới có; chưa mở trang nhà lính ngoài thành ra đối chiếu |
 | "trừ 25% movers" | **Hình phạt nước đi của đất Rough** ❓ | **Xác nhận cơ chế, chưa kiểm con số** — xem callout ở [[#👣 Gretchin, Tyraxor, Krellion — và cái bẫy địa hình khi gom quân nhiều thành\|phần địa hình]] |
 | "+1 speed trên đất của nó" | **Luật native terrain** | **Xác nhận** — *"+1 attack, +1 defense and +1 speed"* khi đánh trên đất gốc; đất gốc của Stronghold là **Rough** |
+
+## 1️⃣0️⃣ Sửa template 8XM8 — thành bị kẹt không có đường ra, và mở khoá size G
+
+> [!video] Nguồn
+> [Cách chỉnh lỗi template 8XM8: Thành không có đường đi - Không tạo được map size G !](https://www.youtube.com/watch?v=A9zkjSXFbs8) · đăng 03/12/2022 · video 10/25 · dài **12:42** (độ dài đọc qua `yt-dlp` ngày 28/10/2026)
+>
+> Chắt lọc từ phụ đề tự động tiếng Việt, tải bằng `yt-dlp` ngày **28/10/2026**. Video chủ yếu là **thao tác trên màn hình**, mà phụ đề chỉ ghi được lời nói, nên những gì chỉ hiện trên màn hình đều không có ở đây. Có **hai đoạn chỉ còn nhạc**: 1:01–1:59 (ngay sau khi nêu ba thành bị lỗi, trước câu "…hướng dẫn các bạn chỉnh sửa cái đấy") và 11:02–11:35 (lúc chờ tạo map). Ý của đoạn đầu **mất hẳn**. Máy này **không cài HotA**, còn trang `Random map` trên `heroes.v.thelazy.net` (kiểm 28/10/2026) không nói tên thư mục hay tên file template. Vì vậy tên thư mục, tên file và tên công cụ trong mục này là **lời video, chưa đối chiếu**. Xem [[#❓ Bảng giải mã phụ đề — video 10 (sửa template 8XM8)|bảng giải mã]].
+
+Video không bàn chiến thuật. Tác giả sửa **hai lỗi** trong file template 8XM8 ông đang dùng, cũng là file ông từng gửi cho khán giả:
+
+1. **Ba thành không có đường ra**, bị kẹt riêng một chỗ.
+2. **Không tạo được map size G**, dù đã bật lòng đất.
+
+### 🐞 Lỗi 1 của template 8XM8 — ba thành không có đường ra
+
+Mở đầu video là một trận 8XM8 tác giả cầm Isra ❓ ("con Israel"). Đánh xong ông tự hỏi sao trận này **dễ quá**. Isra đã lên đủ hai kỹ năng **Earth Magic và Air Magic** ("skin đất và gió"), cả hai ở bậc Expert, là hai kỹ năng quan trọng để mở map. Ông có thêm "Vios và bioe" ❓, nhiều khả năng là View Air và View Earth. Dùng chúng soi map thì ra lỗi: ba thành **xanh ngọc** (số 1), **tím** (số 2) và **hồng** (số 3, phụ đề ghi "thành hâm mộ" ❓) không nối được với phần còn lại của map. Phần giải thích chi tiết rơi vào đoạn chỉ có nhạc.
+
+Nguyên nhân, theo lời tác giả: ông tải template về, chỉnh sửa, rồi **quên không lưu** ("quên không sếp" ❓). Kết quả là mấy thành bị **văng ra khỏi cụm**, không có liên kết gì, nên không có đường ra. Cuối video ông nhắc lại lần nữa: lần tạo map trước ông quên lưu file rmg, nên thoát ra tạo map vẫn còn ba thành bị lạc. Ông xin lỗi vì file đã gửi có thể bị lỗi, và hứa tải lên bản đã sửa.
+
+### 🛠️ Mở template 8XM8 bằng công cụ chỉnh template, không mở thẳng file
+
+1. **Thoát hẳn game** trước khi sửa.
+2. Vào **thư mục cài game**. Bản HotA có một thư mục nghe ra là "ha rmg template" ❓, chứa các template dùng trong HotA. Trong đó có thư mục **8XM8** với một file nghe ra là "file rmg" ❓. Template nào bỏ vào thư mục này cũng phải **chuyển sang dạng rmg** thì mới dùng được trong game ❓.
+3. **Đừng mở thẳng file rmg.** Mở ra chỉ thấy một đống chữ, không sửa được gì.
+4. Cuối thư mục cài game có một file biểu tượng **Excel**, tên nghe ra là "rmg template" ❓. Đây là **công cụ chỉnh template**. Mở nó lên, chọn **File → Open**, vào thư mục "ha rmg template" → **8xm8** → file rmg.
+
+> [!info]- Ngoài nguồn — tên thật của thư mục và công cụ
+> Trang `Random map` trên `heroes.v.thelazy.net` (kiểm 28/10/2026) chỉ nói HotA *"Adds a random map template editor"*, không nêu tên file. "ha rmg template" nhiều khả năng là thư mục `HotA_RMGTemplates`, và "file rmg" là file `rmg.txt` trong đó, nhưng chưa mở cài đặt HotA ra xem.
+
+### 🔗 Đọc sơ đồ template 8XM8 và nối lại thành bị văng
+
+Công cụ hiện template thành một sơ đồ:
+
+- **Các ô màu** là thành của từng người chơi.
+- **Các đường nối** là đường đi thông thương giữa các vùng. Thành nào cũng phải được nối với nhau qua các đường này.
+- **Các ô còn lại** "chắc là tài nguyên". **Đừng sửa** chúng, để giữ đúng độ khó của 8XM8 chuẩn.
+
+Trên file lỗi của tác giả, thành hồng (góc phải màn hình) nằm **rời khỏi cụm**. Đếm ra có **ba chỗ đứt đoạn** và **ba thành không liên kết**. Ông chỉ ra một quy luật: mỗi ngã ba khi dẫn sang một ngã ba khác thì **luôn có một thành ở giữa** ❓.
+
+Cách sửa, theo đúng thứ tự video làm:
+
+1. Dùng **công cụ di chuyển** (không phải công cụ bàn tay) kéo từng thành về đúng chỗ đứt tương ứng.
+2. **Nối:** bấm vào thành, giữ chặt chuột, kéo sang ô cần nối. Thả ra là có một đường liên kết.
+3. Mỗi thành cần **thêm một đường ra nữa**, nên kéo tiếp từ thành vào đầu còn lại.
+4. Làm lần lượt thành hồng, xanh ngọc, rồi tím. Bấm **chuột phải** để trở về công cụ cũ ❓ khi cần đổi qua lại giữa kéo thành và nối đường. Kéo rộng các ô ra cho khỏi lẫn.
+5. Cuối cùng, nối thêm để các thành tạo thành **một vòng tròn**, thành nào cũng sang được thành khác. Không nên để mỗi nhánh cụt một đầu.
+6. **Lưu file.** Bản lỗi của tác giả chính là do quên bước này.
+
+Vì sao phải nối thành vòng tròn (10:02–10:35): template cũ, "theo thói quen bình thường của 8XM8", cho mỗi thành **chỉ một đường ra theo một hướng** cộng một đường xuống lòng đất. Nên không thành nào "móc lốp" ❓ được thành mình, có lẽ là đánh tạt sau lưng. Nối vòng tròn rồi thì đang **mải đánh một hướng** cũng có thể bị thành khác tới đánh, nên **thủ khó hơn rất nhiều**. Tác giả coi đó là độ khó đúng của map.
+
+### 📏 Lỗi 2 của template 8XM8 — không tạo được map size G
+
+Nhiều người hỏi sao 8XM8 bật lòng đất rồi mà vẫn **không tạo được size G**. Nguyên nhân nằm ở giới hạn size trong chính template. Cách sửa trong công cụ chỉnh template:
+
+1. Trên thanh công cụ trên cùng, chọn template → **Settings**.
+2. Thấy size nhỏ nhất ("mini website" ❓) và size lớn nhất, hiện đang là **XL kèm Underground** (lòng đất).
+3. Bấm vào ô size lớn nhất, sổ xuống, chọn **G — 252 × 252** → **OK**.
+4. **Lưu file.**
+
+> [!info]- Ngoài nguồn — size G so với XL
+> Trang `Random map` trên `heroes.v.thelazy.net` chỉ liệt kê bốn size gốc (Small 36, Medium 72, Large 108, Extra Large 144), không có G. Con số 252 × 252 là lời video, chưa đối chiếu. Nếu đúng thì size G rộng gấp (252/144)² ≈ **3 lần** XL. Trong khi đó [[#🗺️ Bố cục 8XM8 — 16 thành, khoảng 24 vùng đất, đất nhà ít mỏ vịt|video 12]] ghi "gần gấp 4 lần", có lẽ là ước lượng bằng mắt.
+
+### ✅ Kiểm lại trong game sau khi sửa template 8XM8
+
+1. Mở game ("herospah" ❓) → **New Game → Single** → random map ("nanomas" ❓) → template **8XM8** → size **G**. **Nhớ tick lòng đất**, tác giả tự nhận hay quên chỗ này. Rồi tạo map.
+2. Lần thử đầu (7:06, size cũ), tác giả gõ một mã bắt đầu bằng "nwc" ❓ để mở bản đồ. Rồi ông tìm từng thành hồng, xanh ngọc, tím: cả ba **đã có đường ra**.
+3. Lần thử size G đầu tiên (8:36), ông **quên đặt đủ 8 người chơi**, nên không thấy thành xanh ngọc. Tạo lại với **7 đối thủ** (11:43) thì có đủ 8 thành:
+   - **Thành hồng**, "thành dễ bị kẹt nhất", đã có đường ra và nối với các thành khác.
+   - **Thành tím** có đường ra, thậm chí **hai đường**.
+   - **Thành xanh ngọc** cũng có đường ra.
+
+> [!info]- Ngoài nguồn — mã "nwc"
+> Các mã gian lận của Heroes 3 đều bắt đầu bằng `nwc`. Ở bản SoD, mã mở toàn bộ bản đồ là `nwcwhatisthematrix`. Video không đọc hết mã, và chưa kiểm HotA có giữ mã này không.
+
+Tác giả sẽ **tải lại file template đã sửa** cho khán giả. Ai đã có file cũ, hoặc không có mạng, thì tự sửa trong thư mục cài đặt như trên. Vì lỗi này, có lẽ ông sẽ đánh lại trận 8XM8 với thành Xương ❓ ("thành xương con X3") trên size G ("trận đấu Giga") vào một ngày khác.
+
+> [!video] Những chỗ còn treo sau video 10
+> - **Tên thư mục, file và công cụ** ❓ — "ha rmg template", "file rmg", file Excel "rmg template". Chưa mở cài đặt HotA ra xem.
+> - **Đoạn 1:01–1:59 chỉ có nhạc** — phần giải thích ba thành bị lỗi mất hẳn.
+> - **"Mỗi ngã ba dẫn sang ngã ba khác luôn có một thành ở giữa"** ❓ — phụ đề vỡ, có thể là chuyện vùng thành nằm giữa hai đường nối.
+> - **Chuột phải để "trở về cũ"** ❓ — không rõ là đổi công cụ hay huỷ thao tác.
+> - **"Móc lốp"** ❓ — đoán là đánh tạt sau lưng.
+> - **Size G = 252 × 252** — lời video, wiki chưa có trang về size HotA.
+> - **"Thành xương con X3", "trận đấu Giga"** ❓ — đoạn kết vỡ, không chắc là hẹn đánh lại trận nào.
+
+### 🎥 Mốc thời gian — video 10
+
+| Mốc | Nội dung |
+|---|---|
+| 0:00 | Mở đầu — trận 8XM8 với Isra dễ bất thường, nên làm video về lỗi template |
+| 0:46 | Ba thành bị lỗi: xanh ngọc, tím, hồng |
+| 1:01 | *Chỉ có nhạc, mất lời* |
+| 2:01 | Lỗi 2: template chỉ tạo được size nhỏ, không tạo được size G |
+| 2:24 | Thoát game, vào thư mục cài đặt, tìm thư mục template của HotA |
+| 3:01 | Đừng mở thẳng file rmg — dùng công cụ chỉnh template, File → Open |
+| 3:46 | Đọc sơ đồ: ô màu là thành, đường nối là đường đi, đừng sửa ô tài nguyên |
+| 4:09 | Thành hồng nằm rời cụm — do tải về sửa rồi quên lưu |
+| 4:35 | Ba chỗ đứt, ba thành không liên kết |
+| 5:00 | Kéo thành về chỗ, giữ chuột kéo đường nối |
+| 6:13 | Nối thành vòng tròn để thành nào cũng sang được nhau |
+| 7:01 | Kiểm trong game bằng mã "nwc…" — cả ba thành đã có đường ra |
+| 7:52 | Lỗi 2: Settings → size lớn nhất từ XL đổi sang **G 252 × 252** |
+| 8:31 | Tạo map size G, nhớ tick lòng đất |
+| 9:11 | Xin lỗi vì file đã gửi bị lỗi, sẽ tải lại bản sửa |
+| 9:58 | Vì sao nối vòng tròn làm thủ khó hơn |
+| 10:40 | Quên đặt 8 người chơi — tạo lại với 7 đối thủ |
+| 11:54 | Đủ 8 thành, thành hồng, tím, xanh ngọc đều có đường ra |
+| 12:14 | Kết — hẹn đánh lại trận size G vào ngày khác |
+
+### ❓ Bảng giải mã phụ đề — video 10 (sửa template 8XM8)
+
+> [!tip] Phiên này không đối chiếu được gì với game
+> Máy không cài HotA, trang `Random map` trên `heroes.v.thelazy.net` (28/10/2026) không có tên thư mục, tên file hay size G. Các dòng "khá chắc" dưới đây dựa vào ngữ cảnh video hoặc bảng giải mã của các video khác.
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "mắt 8x và 8" · "Max 8x M8" · "8x mà 8" · "8x18" · "mắt tắm M8" | **Template 8XM8** | **Xác nhận** — tiêu đề video |
+| "mapg" · "maxg" · "fagor" · "Master" | **Map size G** | **Xác nhận** — tiêu đề video |
+| "con Israel" · "trận đấu với Israel" | **Isra** ❓, tướng Necropolis | **Khá chắc** — đoạn kết nhắc "thành xương" |
+| "skin đất và gió" · "xper" | Earth Magic · Air Magic, bậc Expert | **Khá chắc** |
+| "Vios và bioe" | View Air · View Earth ❓ | **Đoán** — hai phép này có ở [[#👁️ View Air và View Earth — cặp phép mà video coi là lý do để lên Air và Earth\|video 6]] |
+| "thành hâm mộ" | thành **hồng** ❓ | **Khá chắc** — về sau video chỉ gọi ba thành xanh ngọc, tím, hồng |
+| "quên không sếp" · "không xếp cái file" · "xếp lại" | **lưu (save)** | **Khá chắc** theo ngữ cảnh |
+| "ha rmg template" · "hót" | thư mục template của HotA ❓ | **Đoán** — có thể là `HotA_RMGTemplates` |
+| "file Rm" · "file rmg" | file template ❓ | **Đoán** — có thể là `rmg.txt` |
+| file Excel "rmg template" · "template của rml" | công cụ chỉnh template của HotA ❓ | **Đoán** — wiki chỉ xác nhận HotA có template editor |
+| "Bản Honda" · "hot a" | **HotA** | **Xác nhận** theo ngữ cảnh |
+| "mini website" | size nhỏ nhất ❓ | **Không rõ** |
+| "nwc" | mã gian lận Heroes 3 ❓ | **Khá chắc** tiền tố; không rõ cả mã |
+| "herospah" | file chạy game ❓ | **Không rõ** |
+| "nanomas" · "natomas" | **random map** ❓ | **Đoán** theo âm và ngữ cảnh |
+| "móc lốp" | đánh tạt sau lưng ❓ | **Đoán** |
+| "thành xương" | **Necropolis** | **Xác nhận** ở [[#7️⃣ Necropolis (thành Xương) — Skeleton mới là quân chủ lực, không phải Lich\|video 7]] |
+| "trận đấu Giga" | trận trên map size G ❓ | **Đoán** |
 
 ## 1️⃣1️⃣ Fortress (Đầm Lầy) — Wyvern lên được ngày đầu, Gorgon làm đối phương ngại, tướng phép "ăn học đàng hoàng"
 
