@@ -14,6 +14,8 @@
 
 Có **17 loại** câu được mùa Xuân ở biển, sông và hồ (không tính rong, tảo, sứa). Cá mỏ và cá ở khu phải mở khoá thì không theo mùa — xem [[#🔁 Quanh năm|Quanh năm]].
 
+🦀 Trai, Hàu, Ốc mỡ… bắt bằng **Bẫy cua**, mùa nào cũng như nhau — xem [[#🦀 Bẫy cua (Crab Pot)|Bẫy cua]].
+
 ### 🌊 Biển (Bãi biển)
 
 | Cá | Giờ | Thời tiết |
@@ -84,6 +86,8 @@ _Mùa nào cũng như nhau. Điều kiện mở khoá và tỉ lệ cắn xem �
 
 Có **22 loại** câu được mùa Hạ ở biển, sông và hồ (không tính rong, tảo, sứa). **Chỉ có trong Hạ** — lỡ là chờ năm sau: Cá nóc · Bạch tuộc · Cá Phi Hồng · Cá hồi vân · Cá Vàng. Cá Xuân **hết cắn từ Hạ**: Cá cơm · Cá mòi · Cá trích · Lươn · Cá vược miệng nhỏ · Cá huyền thoại; Cá trê mùa Hạ chỉ còn ở Khu rừng Bí mật (🌧️).
 
+🦀 Trai, Hàu, Ốc mỡ… bắt bằng **Bẫy cua**, mùa nào cũng như nhau — xem [[#🦀 Bẫy cua (Crab Pot)|Bẫy cua]].
+
 ### 🌊 Biển (Bãi biển)
 
 | Cá | Giờ | Thời tiết |
@@ -147,6 +151,8 @@ _Mùa nào cũng như nhau. Điều kiện mở khoá và tỉ lệ cắn xem �
 
 Có **22 loại** câu được mùa Thu ở biển, sông và hồ (không tính rong, tảo, sứa). **Chỉ có trong Thu:** Cá hồi · Cá lồng đèn. Cá Hạ **hết cắn từ Thu**: Cá thái dương · Cá hồi vân · Cá măng · Cá Vàng · Cá nóc · Bạch tuộc · Cá Phi Hồng · Cá ngừ · Cá phèn · Cá bơn · Cá bơn lưỡi ngựa · Cá tầm.
 
+🦀 Trai, Hàu, Ốc mỡ… bắt bằng **Bẫy cua**, mùa nào cũng như nhau — xem [[#🦀 Bẫy cua (Crab Pot)|Bẫy cua]].
+
 ### 🌊 Biển (Bãi biển)
 
 | Cá | Giờ | Thời tiết |
@@ -209,6 +215,8 @@ _Mùa nào cũng như nhau. Điều kiện mở khoá và tỉ lệ cắn xem �
 ## ❄️ Đông
 
 Có **23 loại** câu được mùa Đông ở biển, sông và hồ (không tính rong, tảo, sứa). **Chỉ có trong Đông:** Cá rô · Cá tuyết trâu · Mực · Cá Băng hà. Cá Thu **hết cắn từ Đông**: Cá cơm · Lươn · Siêu Hải sâm · Cá rô phi · Cá vược miệng nhỏ · Cá trích dày mình · Cá hồi · Cá lồng đèn; Cá chép chỉ còn ở Khu rừng Bí mật và Cống ngầm.
+
+🦀 Trai, Hàu, Ốc mỡ… bắt bằng **Bẫy cua**, mùa nào cũng như nhau — xem [[#🦀 Bẫy cua (Crab Pot)|Bẫy cua]].
 
 ### 🌊 Biển (Bãi biển)
 
@@ -274,7 +282,7 @@ _Mùa nào cũng như nhau. Điều kiện mở khoá và tỉ lệ cắn xem �
 
 ## 🗓️ Bảng bốn mùa
 
-Cá biển, sông, hồ xếp theo **số mùa câu được** — nhìn một dòng là biết con đó còn cắn tới mùa nào, con nào chỉ có một mùa. Cá mỏ và cá ở khu phải mở khoá thì mùa nào cũng có, xem [[#🔁 Quanh năm|Quanh năm]].
+Cá biển, sông, hồ xếp theo **số mùa câu được** — nhìn một dòng là biết con đó còn cắn tới mùa nào, con nào chỉ có một mùa. Cá mỏ và cá ở khu phải mở khoá thì mùa nào cũng có, xem [[#🔁 Quanh năm|Quanh năm]]; 10 con Bẫy cua cũng vậy, xem [[#🦀 Bẫy cua (Crab Pot)|Bẫy cua]].
 
 **Nơi:** Biển = Bãi biển · Sông TT = sông Thị trấn · Sông Rừng = sông Rừng Cindersap · Ao Rừng = ao lớn phía tây bắc Rừng Cindersap · Hồ = Hồ Trên Núi.
 
@@ -342,6 +350,32 @@ Cá biển, sông, hồ xếp theo **số mùa câu được** — nhìn một d
 > `Data/Fish` vẫn còn cột mùa nhưng game 1.6.15 **không đọc tới**: hàm kiểm tra cá (`GameLocation.CheckGenericFishRequirements`) chỉ lấy giờ, thời tiết và cấp tối thiểu từ đó. Mùa do từng khu quyết định trong `Data/Locations`. Vì thế bảng này có chỗ khác wiki hoặc khác cột mùa của `Data/Fish` — ví dụ `Data/Fish` ghi Cá Phi Hồng là mùa Đông, Cá bống tượng thiếu mùa Đông, nhưng trong game Cá Phi Hồng cắn mùa Hạ còn Cá bống tượng cắn cả bốn mùa.
 >
 > **Cá huyền thoại** còn bật cờ `IgnoreFishDataRequirements` trong `Data/Locations`, nên giờ, thời tiết và cấp ghi trong `Data/Fish` cũng bị bỏ qua: chúng **cắn cả ngày**, cấp tối thiểu lấy theo `Data/Locations` (Cá lồng đèn 3 · Cá Phi Hồng 5 · Cá Băng hà 6 · Cá huyền thoại 10). Riêng Cá huyền thoại vẫn cần mưa vì điều kiện mưa nằm ngay trong `Data/Locations`.
+
+---
+
+## 🦀 Bẫy cua (Crab Pot)
+
+Mấy con này **không câu bằng cần** mà bắt bằng **Bẫy cua**: thả bẫy xuống nước, gắn **Mồi**, sáng hôm sau ra 1 món. **Không theo mùa, giờ hay thời tiết** — mùa nào cũng như nhau, chỉ phụ thuộc bẫy đặt ở **nước biển** hay **nước ngọt**. Cả 10 con đều tính vào bộ sưu tập cá, và gói **Bẫy Cua** ở Bể Cá cần **5 trong 10 con** bất kỳ.
+
+| Con | Nước | Tỉ lệ ghi trong `Data/Fish` |
+|---|---|---|
+| Tôm hùm (Lobster) 🧩 | biển | 5% — hiếm nhất |
+| Cua (Crab) 🧩 | biển | 10% |
+| Hàu (Oyster) 🧩 | biển | 15% |
+| Nghêu (Clam) 🧩 | biển | 15% |
+| Tôm (Shrimp) 🧩 | biển | 20% |
+| Sò (Cockle) 🧩 | biển | 30% |
+| Trai (Mussel) 🧩 | biển | 35% |
+| Ốc sên (Snail) 🧩 | ngọt | 25% |
+| Tôm hùm đất (Crayfish) 🧩 | ngọt | 35% |
+| Ốc mỡ (Periwinkle) 🧩 | ngọt | 55% — hay ra nhất |
+
+- **Nước biển** = Bãi biển (cả phần biển của nông trại Bãi biển). **Nước ngọt** = mọi chỗ còn lại: sông Thị trấn, sông và ao Rừng Cindersap, Hồ Trên Núi, ao nông trại.
+- Không con nào trúng thì bẫy ra **rác** (Rác, Gỗ trôi dạt, Đĩa CD hỏng, Mắt kính hỏng, Tờ báo sũng nước).
+- Nghề Câu cá cấp 10: **Thủy thủ (Mariner)** → bẫy **không ra rác** · **Bậc thầy mồi chài (Luremaster)** → bẫy **không cần mồi**. Hai nghề này loại trừ nhau.
+- Gắn **Mồi dân dã (Wild Bait)** thì có lúc ra **2 món** một lần. Cách nuôi bẫy bằng mồi tự sinh xem [[Đồ câu cá#🪱 Thùng Sâu hay Máy Làm Mồi Câu?|Đồ câu cá]].
+
+_Kiểm chứng trên game 1.6.15: danh sách, loại nước và tỉ lệ từ `Data/Fish` (dòng `trap`), nước biển theo `CrabPotFishTypes` trong `Data/Locations`, logic từ `CrabPot.DayUpdate`; tên gói từ `Data/Bundles` của bản Việt hoá._
 
 ---
 
