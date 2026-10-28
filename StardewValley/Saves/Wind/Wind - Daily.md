@@ -459,7 +459,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 **📝 Dự kiến:**
 - [ ] 🎣 **Hồ Trên Núi:** câu **Cá tầm** cho gói **Cá Hồ**, gói chỉ còn thiếu con này
-- [ ] 🎣 **Cá Phi Hồng (Crimsonfish)** ở Bãi biển, **1 con/save** nên chỉ có một lần để lấy Iridium: đứng **(92, 23)** quay phải (vũng thủy triều, độ sâu 5 → cá luôn vàng) rồi **bắt hoàn hảo** để vàng lên Iridium, cách tính ở [[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng|Chỗ đứng ra cá vàng]]. Chỉ cắn **mùa Hạ**, 06:00–20:00, mọi thời tiết, đứng từ x 82 trở sang phải, cần Câu cá 5. Độ khó 95: **đã tuột vạch một lần là hết hoàn hảo**, kéo lên chỉ được Vàng vĩnh viễn, nên cứ để cá thoát rồi câu lại (cá chưa lên bờ thì chưa tính vào giới hạn 1 con)
+- [ ] 🎣 **Cá Phi Hồng (Crimsonfish)** ở Bãi biển, **1 con/save** nên chỉ có một lần để lấy Iridium: đứng **(92, 23)** quay phải (vũng thủy triều, độ sâu 5 → cá luôn vàng) rồi **bắt hoàn hảo** để vàng lên Iridium, cách tính ở [[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng|Chỗ đứng ra cá vàng]]. Chỉ cắn **mùa Hạ**, cả ngày, mọi thời tiết, đứng từ x 82 trở sang phải, cần Câu cá 5. Độ khó 95: **đã tuột vạch một lần là hết hoàn hảo**, kéo lên chỉ được Vàng vĩnh viễn, nên cứ để cá thoát rồi câu lại (cá chưa lên bờ thì chưa tính vào giới hạn 1 con)
 - [ ] 🎂 Sinh nhật **Jas**: tặng quà nếu tiện, không bắt buộc
 - [ ] 💧 Nắng thì tưới 57 ô dải
 - **Lúa mì chín Hạ 5**: đủ 10 bó là nộp gói **Thức ăn Chăn Nuôi** (còn cần 10 Cỏ khô + 3 Táo)
