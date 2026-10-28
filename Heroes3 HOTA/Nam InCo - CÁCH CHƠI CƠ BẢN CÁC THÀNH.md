@@ -2755,7 +2755,7 @@ Nhiều người hỏi sao 8XM8 bật lòng đất rồi mà vẫn **không tạ
 4. **Lưu file.**
 
 > [!info]- Ngoài nguồn — size G so với XL
-> Trang `Random map` trên `heroes.v.thelazy.net` chỉ liệt kê bốn size gốc (Small 36, Medium 72, Large 108, Extra Large 144), không có G. Con số 252 × 252 là lời video, chưa đối chiếu. Nếu đúng thì size G rộng gấp (252/144)² ≈ **3 lần** XL. Trong khi đó [[#🗺️ Bố cục 8XM8 — 16 thành, khoảng 24 vùng đất, đất nhà ít mỏ vịt|video 12]] ghi "gần gấp 4 lần", có lẽ là ước lượng bằng mắt.
+> Video đọc đúng: trang `Horn_of_the_Abyss` trên `heroes.v.thelazy.net` (kiểm 28/10/2026) ghi *"Size 7 (252×252) - G"* và *"Size 4 (144×144) - XL"*. Trang `Random map` thì chỉ liệt kê bốn size gốc, không có G. Size G rộng gấp (252/144)² ≈ **3 lần** XL. [[#🗺️ Bố cục 8XM8 — 16 thành, khoảng 24 vùng đất, đất nhà ít mỏ vịt|Video 12]] nói "gần gấp 4 lần", chỗ lệch đã ghi ở đó.
 
 ### ✅ Kiểm lại trong game sau khi sửa template 8XM8
 
@@ -2777,7 +2777,6 @@ Tác giả sẽ **tải lại file template đã sửa** cho khán giả. Ai đ�
 > - **"Mỗi ngã ba dẫn sang ngã ba khác luôn có một thành ở giữa"** ❓ — phụ đề vỡ, có thể là chuyện vùng thành nằm giữa hai đường nối.
 > - **Chuột phải để "trở về cũ"** ❓ — không rõ là đổi công cụ hay huỷ thao tác.
 > - **"Móc lốp"** ❓ — đoán là đánh tạt sau lưng.
-> - **Size G = 252 × 252** — lời video, wiki chưa có trang về size HotA.
 > - **"Thành xương con X3", "trận đấu Giga"** ❓ — đoạn kết vỡ, không chắc là hẹn đánh lại trận nào.
 
 ### 🎥 Mốc thời gian — video 10
@@ -2806,8 +2805,8 @@ Tác giả sẽ **tải lại file template đã sửa** cho khán giả. Ai đ�
 
 ### ❓ Bảng giải mã phụ đề — video 10 (sửa template 8XM8)
 
-> [!tip] Phiên này không đối chiếu được gì với game
-> Máy không cài HotA, trang `Random map` trên `heroes.v.thelazy.net` (28/10/2026) không có tên thư mục, tên file hay size G. Các dòng "khá chắc" dưới đây dựa vào ngữ cảnh video hoặc bảng giải mã của các video khác.
+> [!tip] Phiên này chỉ đối chiếu được size map
+> Máy không cài HotA, trang `Random map` trên `heroes.v.thelazy.net` (28/10/2026) không có tên thư mục hay tên file template. Riêng size G = 252 × 252 đã kiểm ở trang `Horn_of_the_Abyss` cùng ngày. Các dòng "khá chắc" dưới đây dựa vào ngữ cảnh video hoặc bảng giải mã của các video khác.
 
 | Nghe ra | Hiểu là | Chắc tới đâu |
 |---|---|---|
@@ -3402,7 +3401,10 @@ Tác giả mở map ra đếm trực tiếp, ở cả size XL lẫn size G:
 
 - **Luôn khoảng 16 thành**, ở size nào cũng vậy. Trên mặt đất đếm được khoảng 9–10, dưới lòng đất thêm 6–7. Phụ đề đoạn đếm lộn xộn, có lúc ra 15.
 - Khoảng **20–24 vùng đất**: 16 vùng có thành, phần còn lại là **vùng trung lập không có thành** (lúc nói 4–6 vùng, lúc nói 16 ❓).
-- **Size G và size XL có cùng tỉ lệ vùng đất**, nhưng size G to **gần gấp 4 lần**. Nên chơi size G thấy tài nguyên nhiều hơn và đất rộng hơn.
+- **Size G và size XL có cùng tỉ lệ vùng đất**, nhưng size G to hơn nhiều: video nói "gần gấp 4 lần", thực ra là **khoảng gấp 3 lần** (xem callout dưới). Nên chơi size G thấy tài nguyên nhiều hơn và đất rộng hơn.
+
+> [!warning] Lệch với video — size G rộng gấp khoảng 3 lần XL, không phải gần 4 lần
+> Trang `Horn_of_the_Abyss` trên `heroes.v.thelazy.net` (kiểm 28/10/2026) ghi *"Size 4 (144×144) - XL"* và *"Size 7 (252×252) - G"*. Diện tích G gấp (252/144)² ≈ **3,06 lần** XL. Cạnh map thì chỉ dài gấp 1,75 lần. [[#📏 Lỗi 2 của template 8XM8 — không tạo được map size G|Video 10]] cũng đọc đúng 252 × 252.
 
 **Điểm chung quan trọng nhất cho người cày vịt:** đất có thành thường **rất ít mỏ vịt**, thỉnh thoảng mới có 1–2 cái. Sang vùng đất khác thì lập tức có **rất nhiều mỏ**. Vấn đề là phải đánh quái canh giữa các vùng để mở đường. Muốn cày mỏ nhanh thì cần ba thứ:
 
