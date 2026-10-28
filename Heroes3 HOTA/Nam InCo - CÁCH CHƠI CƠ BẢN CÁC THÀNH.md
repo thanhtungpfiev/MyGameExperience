@@ -1,6 +1,6 @@
 # 🏰 Heroes 3 HotA — Cách chơi cơ bản các thành (Nam InCo)
 
-> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **12/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
+> Chắt lọc cả playlist [CÁCH CHƠI CƠ BẢN CÁC THÀNH](https://www.youtube.com/playlist?list=PLzCfcJ0-lvGrvCivLpUvsJfW25LnST9r3) của **Nam InCo** — **25 video** (xác nhận 09/09/2026), hiện **13/25** đã chắt lọc. Mỗi video một mục `##`, xem tiến độ ở bảng ngay dưới.
 >
 > _Video nói tiếng Việt nhưng tên thành, tên lính, tên phép để nguyên tiếng Anh như trong game — tiếng Việt trong ngoặc ở lần đầu. Chỗ nào nghe không rõ thì đánh `❓` kèm nguyên văn: **đừng tin những chỗ đó cho tới khi mở game ra đối chiếu**._
 
@@ -27,7 +27,7 @@
 | 12 | [8XM8 là gì? Tại sao nhiều người chơi 8XM8? Cách chơi cơ bản map 8XM8.](https://www.youtube.com/watch?v=oZotpPb5Gl0) | 10/01/2023 | ✅ [[#1️⃣2️⃣ Map 8XM8 — vì sao khó, vì sao người Việt mê, và cách cày vịt nhanh\|đã chắt lọc]] |
 | 13 | [Chia sẻ kinh nghiệm chơi cơ bản thành Phượng Hoàng CONFLUX.](https://www.youtube.com/watch?v=VUGJGH8hJMI) | 21/01/2024 | ✅ [[#1️⃣3️⃣ Conflux (Phượng Hoàng) — không bao giờ thọt kỹ năng, quân nhanh nhất game, và năm tướng mạnh vượt trội\|đã chắt lọc]] |
 | 14 | [Cách để chọn Tướng ẩn: SirMullich, Gelu, HaartLich...](https://www.youtube.com/watch?v=kiH2LRNbOuI) | 24/01/2024 | ⬜ chưa xem |
-| 15 | [Các phím tắt CƠ BẢN trong Heroes !](https://www.youtube.com/watch?v=Dllj-Eq8T7o) | 26/01/2024 | ⬜ chưa xem |
+| 15 | [Các phím tắt CƠ BẢN trong Heroes !](https://www.youtube.com/watch?v=Dllj-Eq8T7o) | 26/01/2024 | ✅ [[#1️⃣5️⃣ Phím tắt cơ bản — chuyển quân trong thành, đo từng điểm di chuyển trên map, và vài phím trong Combat\|đã chắt lọc]] |
 | 16 | [Duel cơ bản \| P1: Xây dựng mục tiêu ở biome !](https://www.youtube.com/watch?v=UZwwxUciiqE) | 27/01/2024 | ⬜ chưa xem |
 | 17 | [Duel cơ bản \| P2: Xây dựng mục tiêu và xử lí ở mid, size zone !](https://www.youtube.com/watch?v=WP27F1b-6eQ) | 29/01/2024 | ⬜ chưa xem |
 | 18 | [Duel cơ bản \| P3: Một số bài vở cơ bản để phát triển thành Thiên Thần CASTLE !](https://www.youtube.com/watch?v=QMbY-uHqNiA) | 04/02/2024 | ⬜ chưa xem |
@@ -66,6 +66,8 @@
 **Bên trong video 12** — [[#🧮 AI value — vì sao 8XM8 khó hơn các template khác|AI value]] · [[#🏆 8XM8 phân cấp trình độ — chênh lệch giữa các thành chỉ có nghĩa đầu game|Phân cấp trình độ]] · [[#🗺️ Bố cục 8XM8 — 16 thành, khoảng 24 vùng đất, đất nhà ít mỏ vịt|Bố cục 16 thành]] · [[#💰 Mua tướng trước, Town Hall sau — phép tính "ta hô" của 8XM8|Mua tướng trước, Town Hall sau]] · [[#🧭 Số tướng bằng số ngã rẽ — cách mở đường từng bước|Số tướng = số ngã rẽ]] · [[#🐴 Quân chủ lực tuần 1 — bài toán 10.000 vàng của Castle|Bài toán 10.000 vàng]] · [[#🦆 Tuần 2 trên 8XM8 — gom ngựa với bia đỡ đạn để đánh mỏ vịt|Tuần 2 đánh mỏ vịt]] · [[#🚪 Đừng loanh quanh đất nhà — đánh thẳng đường chính sang vùng khác|Sang vùng khác & chuyện Luna]] · [[#🔗 Chuỗi tướng luân chuyển quân — đánh nhiều hướng trong một ngày|Chuỗi tướng luân chuyển]] · [[#🐉 Ba giai đoạn của 8XM8 — quân chủ lực, cày vịt, đánh nhà rồng|Ba giai đoạn]] · [[#❓ Bảng giải mã phụ đề — video 12 (8XM8)|Bảng giải mã]]
 
 **Bên trong video 13** — [[#🏗️ Hàng công trình đầu của Conflux — và vì sao ít ai mua Ballista|Công trình đầu & Ballista]] · [[#🎓 Magic University — vì sao tướng Conflux không bao giờ "thọt kỹ năng"|Magic University]] · [[#🧚 HotA nerf con bướm qua ba đời — từ ngày 1 ở SoD tới Garden of Life ở 1.7|Ba đời nerf con bướm]] · [[#🛒 Artifact Merchants — bán đồ lấy tài nguyên để mua quân nhanh|Artifact Merchants]] · [[#🔥 Vault of Ashes — công trình bù lại khi Phoenix bị cắt quân|Vault of Ashes]] · [[#🧚 Garden of Life — +10 con bướm, và cái khoá nâng cấp của HotA 1.7|Garden of Life]] · [[#💰 Chi phí xây quân Conflux — rẻ nhất game về vàng|Chi phí xây quân]] · [[#🧚 Pixie và Sprite — yếu nhất từng con, nhưng nhanh nhất trong quân cấp 1|Pixie & Sprite]] · [[#🌪️ Air và Storm Elemental — quân cấp 2 chưa nâng mạnh nhất game|Air & Storm Elemental]] · [[#💧 Water và Ice Elemental — quân cấp 3 thiên về thủ, máu nhiều nhất cấp 3|Water & Ice Elemental]] · [[#🔥 Fire và Energy Elemental — chưa nâng thì chỉ để chịu thịt|Fire & Energy Elemental]] · [[#🪨 Earth và Magma Elemental — quân cấp 5 gần như yếu nhất game|Earth & Magma Elemental]] · [[#⚖️ Bốn Elemental — kháng phép này, ăn gấp đôi phép kia, và khắc nhau từng cặp|Kháng phép & khắc nhau]] · [[#🧠 Psychic và Magic Elemental — Hydra thu nhỏ, kháng mọi phép|Psychic & Magic Elemental]] · [[#☄️ Bốn quân kháng Armageddon — và vì sao Conflux khắc Necropolis|Armageddon & khắc Necropolis]] · [[#🐦 Phoenix — chỉ số yếu nhất cấp 7, nhưng speed 21 và hồi sinh|Phoenix]] · [[#⚔️ Tướng chiến Conflux — chuyên Elemental cộng thẳng kiếm, giáp, sát thương|Tướng chiến chuyên Elemental]] · [[#🧠 Pasis và Monere — cùng chuyên Psychic, nhưng Monere là tướng chạy nhanh nhất những ngày đầu|Pasis & Monere]] · [[#🪨 Thunar, Erdamon, Ignissa, Fiur, Lacus, Kalt — tướng phụ lo cắm mỏ|Sáu tướng phụ]] · [[#🔥 Luna — mẹo đặt Fire Wall hai vòng để đánh nhà Angel tuần một|Luna & mẹo Fire Wall]] · [[#🌪️ Inteus, Brissa, Aenain — tướng Fire bị Luna lấn át, và cặp tướng gió|Inteus, Brissa, Aenain]] · [[#🎯 Ciele và Gelare — Magic Arrow cộng 50%, và tướng nước kém hơn hẳn|Ciele & Gelare]] · [[#🪨 Labetha và Stone Skin — khi nào Stone Skin hơn Shield|Labetha, Stone Skin vs Shield]] · [[#🐌 Grindan — Slow có sẵn, cả trận chỉ tốn 5 mana|Grindan & Slow]] · [[#🏁 Chốt — năm tướng mạnh, bị cấm ở SoD, và Luna HotA chỉ còn +25%|Chốt]] · [[#🎥 Mốc thời gian — video 13|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 13 (Conflux)|Bảng giải mã]]
+
+**Bên trong video 15** — [[#🪖 Chuyển và tách quân trong thành — Ctrl, Shift, Alt|Chuyển, tách quân]] · [[#🗺️ Phím R — đo tầm Dimension Door, và mẹo đo thẳng vào cổng thành|Phím R]] · [[#🖱️ Phím B, phím G, và nút chuột giữa thay cho cả ba|B, G, chuột giữa]] · [[#🔲 Lưới ô vuông — đi thẳng tốn 100, đi chéo tốn 141|Lưới, 100 và 141]] · [[#👣 Phím Alt — xem trước điểm di chuyển hôm nay và ngày mai|Phím Alt]] · [[#🚩 Rally Flag — +400 điểm di chuyển mỗi lần thăm, và thăm lại được sau mỗi trận|Rally Flag]] · [[#⚔️ Phím trong Combat — C, Shift, Q, Alt, G|Phím Combat]] · [[#🧮 Kết ngày — tính vừa khít để về thành|Kết ngày]] · [[#🎥 Mốc thời gian — video 15|Mốc thời gian]] · [[#❓ Bảng giải mã phụ đề — video 15 (phím tắt)|Bảng giải mã]]
 
 ---
 
@@ -1791,7 +1793,7 @@ Phần dài nhất của video (21:18–29:28) và là mẹo cụ thể nhất t
 | "mỏ thiên thần" · "mỏ đến Thần" | Một nhà lính cấp 7 ngoài bản đồ, canh rất nặng | **Chưa chốt** ❓ — video đặt nó cạnh "mỏ vịt" như mốc khó hơn |
 | "quái lót" · "quân lót" · "cả lót" | Cụm quái canh đường, loại dễ nhất | **Khớp vai trò** — dùng xuyên suốt cả playlist |
 | "8x 18x" · "mát 8x 18" | **8XM8** — template bản đồ | **Khớp vai trò** — playlist có hẳn [video 12 về 8XM8](https://www.youtube.com/watch?v=oZotpPb5Gl0) |
-| "trứng gà" · "phím g" | Phím tắt **`G`** trong trận | **Khớp vai trò** ❓ — video demo ấn phím này để Lich bắn vào giữa hai cụm. Playlist có [video 15 về phím tắt](https://www.youtube.com/watch?v=Dllj-Eq8T7o), tra lại ở đó |
+| "trứng gà" · "phím g" | Phím tắt **`G`** trong trận | **Khớp lời tác giả** — [[#⚔️ Phím trong Combat — C, Shift, Q, Alt, G\|video 15]] nói đúng vậy: với Magog và Lich, `G` bắn vào ô trống giữa hai đạo quân. Chưa kiểm trong game |
 | "thành David" · "thành D viên" | **Inferno** (thành Devil) | **Khớp vai trò** — đã dùng nhất quán từ video 5 |
 | "thành đầm lầy" · "thành đầm lệch" | **Fortress** | **Khớp vai trò** |
 | "thành Sunhouse" · "thành gấu" | **Stronghold** | **Khớp vai trò** |
@@ -4135,6 +4137,200 @@ Lời cuối (59:20–1:00:02): ở bản Duel HotA 1.7, dù đã bị nerf, **g
 | "MD" | ❓ | **Không rõ** |
 | "bản sad" · "bản SS" · "bản Sơ Độ" · "bản solet" | **Shadow of Death** | **Xác nhận** |
 | "nồi" | **Mercury** | **Xác nhận** qua giá Vault of Ashes |
+
+## 1️⃣5️⃣ Phím tắt cơ bản — chuyển quân trong thành, đo từng điểm di chuyển trên map, và vài phím trong Combat
+
+> [!video] Nguồn
+> [Các phím tắt CƠ BẢN trong Heroes !](https://www.youtube.com/watch?v=Dllj-Eq8T7o) · đăng 26/01/2024 · video 15/25 · dài **25:00** (độ dài đọc qua `yt-dlp` ngày 28/10/2026)
+>
+> Chắt lọc từ phụ đề tự động tiếng Việt, tải bằng `yt-dlp` ngày **28/10/2026**. Lần đầu YouTube trả 429, phải chờ khoảng 8 phút mới tải được. Phụ đề **đọc tên phím rất sai**: phím `Alt` ra "ôn", "on", "an", "at", "ô". Video vừa nói vừa bấm trên một ván **template Duel**, nên nhiều câu chỉ hiểu được khi nhìn màn hình. Chi phí điểm di chuyển của Dimension Door, Town Portal và Rally Flag đã đối chiếu `heroes.v.thelazy.net` ngày **28/10/2026**. Bản thân các phím tắt thì **chưa đối chiếu**, vì wiki không có trang phím tắt (trang `Hotkeys` trả 404). Xem [[#❓ Bảng giải mã phụ đề — video 15 (phím tắt)|bảng giải mã]].
+
+Video gom các phím tắt tác giả dùng hằng ngày thành ba nhóm: **chuyển và tách quân** trong thành, **di chuyển và đo nước đi** trên map, và vài phím **trong Combat**. Phần dài nhất, và là ý chính của video, nằm ở nhóm thứ hai: **tính từng điểm di chuyển** (movement points, phụ đề gọi "m", "m v", "mover") để không phí một nước nào. Lý do tác giả đưa ra: ở template Duel, **thiếu một nước là mất cả một ngày**.
+
+### 🪖 Chuyển và tách quân trong thành — Ctrl, Shift, Alt
+
+Tác giả làm mẫu trong màn hình thành, giữa hàng quân của thành (trên) và của tướng (dưới):
+
+| Muốn làm | Phím theo video |
+|---|---|
+| **Chuyển hết quân** từ hàng này sang hàng kia | Giữ **Alt + Ctrl + Shift** ❓ rồi kéo một đạo quân sang |
+| **Chuyển hết, chỉ giữ lại một đạo** | Đưa chuột vào đạo muốn giữ, giữ **Alt + Ctrl + Shift** ❓ rồi bấm |
+| **Tách từng con** ra ô trống | Giữ **Ctrl** rồi bấm. Mỗi lần tách một ô, chậm |
+| **Tách ra hết các ô trống** một lượt | Giữ **Ctrl + Shift** rồi bấm |
+| **Nhập lại** các đạo đã tách | Giữ **Alt** ❓ ("phím an", "phím ôn") |
+
+Tác giả gần như **chỉ dùng Ctrl + Shift** để tách, rồi Alt để nhập, vì nhanh hơn tách từng con bằng Ctrl.
+
+Mẹo đi kèm: trước khi tướng **ngủ trong thành**, người ta thường cất hết quân vào thành và **chỉ giữ lại đạo quân nhanh nhất** (trong ví dụ là "con zot" ❓). Điểm di chuyển ngày hôm sau tính theo quân chậm nhất tướng đang cầm, nên làm vậy là giữ **tốc tối đa** cho ngày mai. Phần [[#👣 Phím Alt — xem trước điểm di chuyển hôm nay và ngày mai|phím Alt]] bên dưới cho thấy con số đó.
+
+### 🗺️ Phím R — đo tầm Dimension Door, và mẹo đo thẳng vào cổng thành
+
+Trên map, phím hay dùng nhất là **R**: hiện vùng mà **Dimension Door** ("đo", "check Door") bay tới được. Video đếm ra **9 ô ngang và 8 ô dọc**, và nói vùng này theo khung màn hình cũ "chơi trên WinXP từ những năm 2000".
+
+> [!info]- Ngoài nguồn — tầm và giới hạn của Dimension Door
+> Trang `Dimension_Door` trên `heroes.v.thelazy.net` (kiểm 28/10/2026): bán kính *"8 squares in top direction and 9 squares in any other direction, diagonal movement included"*, khớp con số video đếm. Trang đó cũng ghi HotA giới hạn Dimension Door **một lần mỗi ngày**, trừ khi bật luật giải đấu (tournament rules) trên map từ XL+U trở lên thì được hai lần với Expert Air.
+
+**Mẹo đo vào cổng thành.** Vị trí thành trên template **gần như cố định**, thỉnh thoảng mới lệch một ô. Vì vậy đứng đúng chỗ là biết chắc bay tới được cổng. Ví dụ của tác giả với thành Conflux ("thành chim lửa"): tướng đứng cách thành **đúng hai ô**, bấm R thấy ô góc chạm tới cổng, thì bay thẳng về cổng thành.
+
+**Phải giữ lại bao nhiêu điểm di chuyển** để còn bay về được, theo phép tính của video:
+
+| Khoản | Điểm di chuyển |
+|---|---|
+| Bay Dimension Door lần đầu, chưa có Expert Air | 300 (Expert thì 200) |
+| Bước vào thành từ đường cái | 100 |
+| Thành lệch một ô so với chỗ đo | thêm 100 |
+| **Nên giữ trước khi bay** | **khoảng 500** |
+
+Nếu chỉ đứng cách thành một ô, R chỉ chạm tới cạnh cổng. Lúc đó phải đi thêm một bước, và chỉ còn 400. Thành không lệch thì vẫn kịp ("hên"), lệch thì "hơi đen". Theo tác giả, chuyện lệch ít khi xảy ra, vì khoảng cách giữa các thành trên template rất chuẩn.
+
+Video cũng nhắc **Town Portal** ("hồi thành"): **300** điểm di chuyển khi Earth Magic mới ở Advanced, **200** khi lên Expert.
+
+> [!info]- Ngoài nguồn — đối chiếu chi phí
+> Trang `Dimension_Door` và `Town_Portal` trên `heroes.v.thelazy.net` (kiểm 28/10/2026) khớp cả hai cặp số: Dimension Door *"Spends 300 movement points"*, Expert *"only spends 200"*. Town Portal 300 ở Basic và Advanced, *"only 200 movement points"* ở Expert.
+
+### 🖱️ Phím B, phím G, và nút chuột giữa thay cho cả ba
+
+- **B** — mở **chợ** (Marketplace) ngay trên map, không cần vào thành, để đổi tài nguyên xây nhà.
+- **G** — "soi tướng" ❓: xem các tướng, phụ đề nghe ra "soi tavel" ❓ và "soi tướng ở trong T…" ❓, kèm các chỉ số của họ.
+- **R** — đo Dimension Door, như trên.
+
+Tác giả **ít dùng ba phím này**. Ông bấm **nút chuột giữa** để mở một menu có đủ: chợ, soi tướng, đo Dimension Door, và **bật lưới ô vuông** ("lưới mắt cáo", "mắt lưới"). Người thuận tay trái thì dùng phím tắt cũng được.
+
+### 🔲 Lưới ô vuông — đi thẳng tốn 100, đi chéo tốn 141
+
+Lưới cho thấy **ô nào đi được, ô nào không**. Chuột phải vào một ô thì biết nó là gì. Nhờ vậy tính được, chẳng hạn, có **cắt chéo** qua một góc được không hay buộc phải đi vòng. Nhiều khi tưởng đi qua được, đến nơi mới thấy bị chặn, thế là sai cả phép tính.
+
+Hai con số tác giả dùng suốt video:
+
+- **Bước thẳng tốn 100**, **bước chéo tốn 141** điểm di chuyển. Ví dụ: tới cục vàng mất 710, nhặt chéo thì thành 851, tức tốn đúng 141.
+- Đi trên **đường cái** chỉ tốn **50** mỗi bước, thay vì 100 ❓.
+
+Từ đó ra luật nhặt đồ dọc đường:
+
+- **Đồ nằm thuận đường** thì đi tới sát rồi nhặt ngang, tốn 100. Đằng nào cũng phải đi đoạn đường đó, nên chỉ tính thêm nước nhặt.
+- **Đường rẽ sang hướng khác** thì nhặt chéo trên đường đi, đừng đi thẳng tới, nhặt, rồi quay lại. Làm vậy mất 100 + 100 + 100.
+- Phần lẻ 41 của mỗi bước chéo cộng dồn lại. **Tiết kiệm được hai lần 41 lẻ là có thêm một nước đi.**
+
+Lý do một nước lại quan trọng đến vậy, theo ví dụ trong video: tướng đánh xong quái canh **Library** ("thư viện" ❓) thì còn đúng 300 điểm, vừa đủ hồi thành. Nhặt thêm thứ gì nữa là phải **ngủ ngoài**. Hết mana mà ngủ ngoài thì ngày mai rất yếu. Không có gì đánh trên đường về thì phải chạy bộ về thành lấy mana, mà chạy bộ với quân chậm thì mất cả ngày. Câu chốt của tác giả: **"Thà một ngày dư 100 còn hơn thiếu 100."**
+
+### 👣 Phím Alt — xem trước điểm di chuyển hôm nay và ngày mai
+
+Đây là phím tác giả coi là **quan trọng nhất**. Ông khuyên lúc di chuyển trên map thì **ngón cái lúc nào cũng đặt sẵn trên Alt**.
+
+- **Giữ Alt, rê chuột vào một mục tiêu**: hiện hai số, ví dụ **381** là điểm cần để tới đó, **2031** là điểm còn lại trong ngày.
+- **Rê chuột vào tướng**: hiện điểm di chuyển **hôm nay** (bên trái) và **dự kiến ngày mai** (bên phải). Ví dụ trong video: hôm qua tướng ngủ cầm "con zot" ❓ nên hôm nay có **2412**. Giờ đang cầm "con xỉa" ❓ chậm hơn, nên ngày mai dự kiến chỉ còn **2172**.
+- Thanh trạng thái dưới cùng, ngay trên cột tài nguyên, cho biết vật dưới con trỏ đã ghé thăm chưa. Ví dụ "Tree … not visited" ❓ là chưa thăm.
+
+**Phép tính mẫu** của video, trên đường đánh Air Elemental ("thần gió") canh Library:
+
+1. Tới đánh Air Elemental mất **1.427**, còn dư khoảng **985**.
+2. Hai đường về: đi thẳng tốn khoảng **600** (6 bước thẳng), đi chéo **ba bước chéo** tốn khoảng **420** (3 × 141). Chọn đường chéo.
+3. Đánh xong còn khoảng **900**. Vào nhặt thêm còn khoảng **700**. Hai nước nhặt nữa còn **500**, vẫn đủ hồi thành.
+
+Phụ đề đoạn tính này lộn xộn (lúc "512", lúc "400 chứ 42 420"), nên các con số chỉ đúng tới mức xấp xỉ ❓.
+
+**Khi phải chọn giữa hai kế hoạch**, tác giả cũng dùng Alt. Ví dụ: còn **1.026** điểm, đi đường bốn bước chéo cộng hai bước thẳng hết **760**, còn khoảng **250–270**. Nhưng hồi thành ở Earth **Advanced** cần **300**, nên không về được. Chỉ về được nếu đánh trận đó **lên Expert Earth**. Mà lên Expert Earth thì không chắc: tướng đủ kinh nghiệm để lên level, nhưng phần thưởng lên level có thể ra Air chứ không phải Earth. Kế hoạch dựa vào may mắn thì **bỏ**, chọn đường an toàn hơn.
+
+Kết luận của phần này: hết mana thì **đừng ngủ ngoài**. Phím Alt chính là thứ giữ **tốc và tempo** cho tướng.
+
+### 🚩 Rally Flag — +400 điểm di chuyển mỗi lần thăm, và thăm lại được sau mỗi trận
+
+Trước khi đánh Hydra ("con Hira" ❓), tác giả dùng **Rally Flag** ("r flag", "rên flag" ❓). Theo lời video, cờ cho **+1 luck, +1 morale tới trận tiếp theo** và **+400 điểm di chuyển**. Mẹo nằm ở chỗ **sau mỗi trận ghé lại cờ là được cộng thêm 400**. Nên nếu quanh cờ có vài con quái nhỏ, đánh dần từng con vừa lấy kinh nghiệm vừa tích được rất nhiều điểm di chuyển.
+
+Số trong video: tướng còn **820**, thăm cờ xong còn **720**, cờ cộng 400 thành **1.120**. Đánh xong Hydra gần như **không mất nước nào**. Thăm cờ hai lần tổng cộng được 800, trong khi đi đánh Hydra rồi quay lại chỉ mất 400.
+
+> [!info]- Ngoài nguồn — khớp với wiki
+> Trang `Rally_Flag` trên `heroes.v.thelazy.net` (kiểm 28/10/2026): *"+400 movement points until the end of the day"*, *"+1 to luck and morale until next battle"*, và *"a hero can revisit the flag on the same day after a battle to stack more movement bonus"*. Đúng cái mẹo tác giả dùng.
+
+### ⚔️ Phím trong Combat — C, Shift, Q, Alt, G
+
+| Phím | Tác dụng theo video |
+|---|---|
+| **C** | Mở **sách phép**. Dùng được cả trên map lẫn trong trận |
+| **Giữ Shift + rê vào quân địch** | Hiện **tầm đi** của con đó. Dùng để biết nó tới được mình hay không |
+| **Q** | **Quick Combat** (máy đánh hộ). "Quick Combat thì mình sẽ thua" |
+| **Alt** | Đổi **quân bắn sang cận chiến**: con trỏ thôi hiện mũi tên, quân bắn sẽ chém thay vì bắn. Cũng dùng cho quân đánh xong chạy về |
+| **G** | Với **Magog** ("magos") và **Lich** ("con nick" ❓): **bắn vào ô trống giữa hai đạo quân địch** để sát thương lan sang cả hai. Bắn thường chỉ ngắm được vào quân, rê ra ô trống là hiện dấu cấm |
+
+Tác giả không có Magog trong ván này nên **không demo được phím G**.
+
+**Demo Shift: nhử Hydra.** Ông tách cung ra thành nhiều đạo nhỏ làm mồi, rồi giữ Shift xem tầm đi của Hydra để biết đạo nào nó không với tới. Mấy đạo quân được kéo lên rồi **nhường lượt** (wait), sao cho mỗi đạo đứng cách nhau **hai ô dọc, ba–bốn ô ngang**. Hydra bị nhử quay qua quay lại, còn cung thì bắn. Cuối cùng còn 190 máu ❓ thì quân cận chiến chém hạ, sát thương 182–27x ❓ "gần như chắc chắn". Kết luận: biết tầm đi của quái thì nhử được, đánh trận đó **"rất là nhàn"**. Sau trận tướng lên Expert Air và Expert Earth.
+
+### 🧮 Kết ngày — tính vừa khít để về thành
+
+Ván mẫu kết thúc bằng một phép tính trọn vẹn:
+
+1. Sau Hydra còn **920**. Đi chéo lên **282**, rồi nhờ Fly đi chéo tiếp **282**, nhặt một món nữa **100**: tổng **660**.
+2. Dư **356**, ăn thêm một món còn **256**.
+3. Giờ đã có Expert Earth nên hồi thành chỉ mất **200**. Về thành **vừa khít**, ngủ trong thành để **giữ tốc và hồi mana**.
+4. Không đánh thêm con quái nhỏ kia: kinh nghiệm chẳng bao nhiêu mà lại hao quân.
+5. Về thành rồi đổi tài nguyên xây một công trình ("m lever" ❓), để ngày mai **ra mid** (vùng giữa của template Duel). Tướng còn dư 56/21xx ❓, tức đã dùng gần hết nước.
+
+> [!video] Những chỗ còn treo sau video 15
+> - **Bản thân các phím tắt** chưa đối chiếu. Trang `Hotkeys` trên wiki trả 404, máy không cài HotA để thử.
+> - **Alt + Ctrl + Shift** ❓ để chuyển hết quân. Phụ đề ghi "on Ctrl shift", "ô Ctrl shift", và lúc tóm tắt nói rõ "ba phím". Đoán là Alt.
+> - **Phím G trên map** ❓: "soi tướng", "soi tavel", "trong T…". Không rõ là xem tướng trong Tavern hay xem toàn bộ tướng của mình.
+> - **"Con zot", "con xỉa"** ❓: hai loại quân tướng cầm, một nhanh một chậm. Chưa xác định được tên.
+> - **Đường cái tốn 50 mỗi bước** ❓: lời video, chưa kiểm. Đường có nhiều loại.
+> - **"Thư viện"** ❓: có thể là Library of Enlightenment. **"Căng rồng", "găng rồng"** ❓: một vật cho "ngày mai nhiều mana", chưa giải được.
+> - **"M lever"** ❓: công trình xây cuối ngày để ra mid.
+
+### 🎥 Mốc thời gian — video 15
+
+| Mốc | Nội dung |
+|---|---|
+| 0:01 | Mở đầu — ba nhóm phím: chuyển quân, đi trên map, trong Combat |
+| 0:23 | Vào thành — chuyển hết quân bằng Alt + Ctrl + Shift |
+| 0:45 | Giữ lại quân nhanh nhất để giữ tốc ngày mai |
+| 1:01 | Tách quân: Ctrl từng con, Ctrl + Shift tất cả, Alt nhập lại |
+| 2:12 | Phím **R** — đo tầm Dimension Door, 9 ngang 8 dọc |
+| 3:01 | Mẹo đo thẳng vào cổng thành Conflux |
+| 3:43 | Giữ khoảng 500 điểm di chuyển trước khi bay |
+| 5:05 | Phím **B** — mở chợ |
+| 5:30 | Phím **G** — soi tướng |
+| 5:54 | Nút chuột giữa thay cho cả ba phím, và lưới ô vuông |
+| 6:58 | Đi thẳng 100, đi chéo 141 — khi nào nhặt thẳng, khi nào nhặt chéo |
+| 8:00 | Vì sao một nước đi quan trọng — ngủ ngoài khi hết mana |
+| 9:16 | Phím **Alt** — xem điểm di chuyển còn lại, hôm nay và ngày mai |
+| 10:29 | Phép tính mẫu quanh Air Elemental và Library |
+| 12:24 | Chọn kế hoạch: không dựa vào may mắn lên Expert Earth |
+| 14:12 | Tóm tắt phím chuyển quân và phím trên map |
+| 14:49 | Đường cái 50, Rally Flag +400 trước trận |
+| 17:02 | Phím trong Combat: **C**, **Shift**, **Q**, **Alt**, **G** |
+| 18:57 | Demo nhử Hydra bằng Shift |
+| 21:15 | Rally Flag cộng 400 sau mỗi trận |
+| 22:49 | Phép tính kết ngày — về thành vừa khít 256 |
+| 23:53 | Đổi tài nguyên xây công trình để mai ra mid |
+| 24:41 | Kết |
+
+### ❓ Bảng giải mã phụ đề — video 15 (phím tắt)
+
+> [!tip] Phiên này đối chiếu được ba con số, không đối chiếu được phím nào
+> Dimension Door, Town Portal và Rally Flag đã kiểm trên `heroes.v.thelazy.net` ngày **28/10/2026**. Trang phím tắt không có trên wiki, máy không cài HotA.
+
+| Nghe ra | Hiểu là | Chắc tới đâu |
+|---|---|---|
+| "ôn" · "on" · "an" · "at" · "ô" · "phím An" | Phím **Alt** | **Khá chắc** — "ba phím ôn Ctrl shift", và "altt chuyển bắn" ở phần Combat |
+| "m" · "m v" · "mu V" · "mover" · "MV" · "over" | **Điểm di chuyển** (movement points) | **Khá chắc** |
+| "đo" · "check Door" · "phím check đo" | **Dimension Door** | **Xác nhận** — chi phí 300/200 khớp wiki; cũng khớp [[#❓ Bảng giải mã phụ đề — video 3 (Tower)\|bảng giải mã video 3]] |
+| "hồi thành" · "về thành" | **Town Portal** | **Xác nhận** — chi phí 300/200 khớp wiki |
+| "xơ gió" · "xpe" · "x pơ gió" · "xper đất" · "add van đất" | Expert Air · Expert Earth · Advanced Earth | **Khá chắc** |
+| "r flag" · "rên flag" · "RX" · "r phá" | **Rally Flag** | **Xác nhận** — +400 và thăm lại sau trận khớp wiki |
+| "thần gió" · "Tần gió" · "thân gió" | **Air Elemental** | **Khá chắc** |
+| "Hira" · "hyra" · "her" | **Hydra** ❓ | **Khá chắc** theo âm |
+| "magos" | **Magog** | **Xác nhận** ở [[#5️⃣ Inferno (Devil) — quân đông, Magog mở đường, lối chơi đòi sự đa dạng\|video 5]] |
+| "con nick" · "nick bắn" | **Lich** ❓ | **Khá chắc** — Lich cũng bắn lan; khớp phím G ở [[#❓ Bảng giải mã phụ đề — video 7 (Necropolis)\|video 7]] |
+| "thành chim lửa" | **Conflux** | **Xác nhận** — tên quen của tác giả |
+| "chợ" · "trợ" · "marit" | **Marketplace** | **Khá chắc** |
+| "lưới mắt cáo" · "mắt lưới" | lưới ô vuông trên map | **Khá chắc** |
+| "moran" · "lắ" | morale · luck | **Khá chắc** |
+| "duell" · "Duel" · "mid" | template Duel · vùng giữa map | **Khá chắc** — khớp loạt video 16–25 |
+| "con zot" · "jos" · "zos" | quân nhanh ❓ | **Không rõ** — có thể là Zealot |
+| "con xỉa" | quân chậm ❓ | **Không rõ** |
+| "thư viện" | Library of Enlightenment ❓ | **Đoán** |
+| "căng rồng" · "găng rồng" | ❓ | **Không rõ** |
+| "m lever" | ❓ | **Không rõ** |
+| "brick" · "Break" · "BL" | đánh hạ, phá đạo quân ❓ | **Đoán** |
 
 ---
 
