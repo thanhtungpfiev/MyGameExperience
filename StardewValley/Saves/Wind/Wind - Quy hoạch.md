@@ -97,7 +97,7 @@ Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42�
 
 ## 📦 Kho — rương cạnh nhà
 
-> _Chia rương theo nhãn trong game, màu và quy ước chung ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]]. Bảng dưới chép đúng **tên, màu, chỗ đặt** trong save — **Quicksave Hạ 3** — khối 3 hàng × 4 rương ở ô 55–58, hàng 14–16, nhìn từ trên xuống, và hàng rương cá ở y = 7. Đổi trong game thì cập nhật lại ở đây._
+> _Chia rương theo nhãn trong game, màu và quy ước chung ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]]. Bảng dưới chép đúng **tên, màu, chỗ đặt** trong save — **Quicksave Hạ 3** (07:58 giờ máy) — khối 3 hàng × 4 rương ở ô 55–58, hàng 14–16, nhìn từ trên xuống, và hàng rương cá ở y = 7. Đổi trong game thì cập nhật lại ở đây._
 
 | | Cột 55 | Cột 56 | Cột 57 | Cột 58 |
 |---|---|---|---|---|
@@ -107,25 +107,25 @@ Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42�
 
 ### 🎣 Hàng rương cá
 
-Cá chia theo **mùa vừa câu** (quy ước ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]]). Hàng y = 7, từ trái sang:
+Mỗi rương mùa giữ đủ các loài cắn được trong mùa đó, câu lúc nào cũng được (quy ước ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]]). Hàng y = 7, từ trái sang, theo **Quicksave Hạ 3** (07:58 giờ máy):
 
-| Ô | Tên rương | Màu trong save | Màu cần đổi |
+| Ô | Tên rương | Màu | Đang có |
 |---|---|---|---|
-| (47, 7) | `Bẫy Cua` — đủ 9/10 con, thiếu Tôm hùm | gỗ | <span style="color:#00AAAA">■</span> ô 3 · Xanh mòng két |
+| (47, 7) | `Bẫy Cua` | <span style="color:#00AAAA">■</span> ô 3 · Xanh mòng két | 9/10, thiếu Tôm hùm |
 | (48, 7) · (49, 7) | — trống | | |
-| (50, 7) | `Cá Mùa Thu` — trống | ô 1 · Xanh dương | <span style="color:#AC00C6">■</span> ô 14 · Tím hồng |
-| (51, 7) | `Cá Mùa Hè` — 12 con | gỗ | <span style="color:#FFEA12">■</span> ô 7 · Vàng |
-| (52, 7) | `Cá Mùa Xuân` — 19 con | gỗ | <span style="color:#FFADC7">■</span> ô 12 · Hồng nhạt |
+| (50, 7) | `Cá Mùa Thu` | <span style="color:#AC00C6">■</span> ô 14 · Tím hồng | 0/30 |
+| (51, 7) | `Cá Mùa Hè` | <span style="color:#FFEA12">■</span> ô 7 · Vàng | 13/31 |
+| (52, 7) | `Cá Mùa Xuân` | <span style="color:#FFADC7">■</span> ô 12 · Hồng nhạt | 20/25 |
 
-**Việc còn lại để xong kho cá** (theo Quicksave Hạ 3):
+Rương sưu tập `Cá` (55, 16) — Rương lớn, mỗi loài 1 con, đủ bộ 71 loài kể cả Bẫy cua theo [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|danh sách đủ bộ]]: **7/71**. Còn thiếu con nào, câu mấy con: bảng [[Wind - Daily#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]].
 
-- [ ] Đổi màu 4 rương theo cột cuối.
-- [ ] Đặt rương `Cá Mùa Đông` — <span style="color:#00EAAF">■</span> ô 4 · Xanh ngọc. Chưa có trong save.
-- [ ] Gom rương sưu tập `Cá` (55, 16) — Rương lớn, **mỗi loài 1 con**, đủ bộ 71 loài kể cả Bẫy cua theo [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|danh sách đủ bộ]]. Mới có **1/71** (Cá trích). Rương mùa và `Bẫy Cua` đang giữ **35 loài** khác nhau (26 loài cá + 9 con Bẫy cua) — mỗi loài câu thêm 1 con cho rương này.
-- [ ] `Đồ ăn` (55, 15) → `Bẫy Cua`: Lục tảo, Bạch tảo, Rong biển, Thạch sông, Thạch Biển, Thạch Hang Động, 13 loại Trứng cá. Joja Cola (nhãn Rác) → `Tài Nguyên`.
+**Việc còn lại để xong kho cá:**
+
+- [ ] Đặt rương `Cá Mùa Đông` ở (48, 7) hoặc (49, 7) — <span style="color:#00EAAF">■</span> ô 4 · Xanh ngọc. Chưa có trong save.
+- [ ] `Đồ ăn` (55, 15) → `Bẫy Cua`: Lục tảo, Bạch tảo, Rong biển, Thạch sông, Thạch Biển, Thạch Hang Động, 14 loại Trứng cá. Joja Cola (nhãn Rác) → `Tài Nguyên`.
 - [ ] `Tài Nguyên` (58, 16) → `Bẫy Cua`: San hô, Nhím biển.
 
-`Bẫy Cua` sau khi gom: 9 + 6 + 13 + 2 = 30 chồng, vừa rương thường 36 ô.
+`Bẫy Cua` sau khi gom: 9 + 6 + 14 + 2 = 31 chồng, vừa rương thường 36 ô.
 
 ### Rương Automate — ô 2 · Xanh lơ nhạt
 
