@@ -505,6 +505,93 @@ Cá biển, sông, hồ xếp theo **số mùa câu được** — nhìn một d
 
 ---
 
+## 📦 Đủ bộ các loài — rương Cá
+
+Mọi món thuộc nhóm **Cá** trong game: **71 loài**, gồm cả 10 con Bẫy cua và cá ở chỗ note này chưa nói tới (Đảo Gừng, Chợ Đêm…). Dùng làm danh sách cho **rương sưu tập** mỗi loài một con. Xếp đúng thứ tự nút Sắp xếp của rương, nên mở rương ra so từng dòng là thấy còn thiếu con nào.
+
+- **66 loài tính vào bộ sưu tập cá.** 5 con ⭐ là họ hàng cá huyền thoại: chỉ cắn khi đang nhận đơn đặc biệt _Extended Family_ của Qi, và **không tính** vào bộ sưu tập.
+- **Mùa** "cả năm" = không theo mùa. Cá Chợ Đêm chỉ câu được ở **Tàu ngầm** trong 3 ngày Chợ Đêm (Đông 15–17).
+- **Không có ở đây:** rong, tảo và các loại Thạch. Chúng là nhóm đồ khác, cất ở rương `Bẫy Cua`.
+- _Mutant Bug Lair_, _Witch's Swamp_ để nguyên tiếng Anh vì bản Việt hoá không có chuỗi tên cho hai chỗ này. Hai con cùng tên **Cá ma** trong bản dịch: Ghostfish (mỏ) và Spook Fish (Chợ Đêm), phân biệt bằng tên tiếng Anh.
+
+| Cá | Mùa | Nơi |
+|---|---|---|
+| Cá ngừ Trắng (Albacore) | Thu · Đông | Biển |
+| Cá cơm (Anchovy) | Xuân · Thu | Biển |
+| **Cá lồng đèn (Angler)** | Thu | Sông TT |
+| Cá giọt nước (Blobfish) | Đông 15–17 | Chợ Đêm — Tàu ngầm |
+| Cá đĩa xanh (Blue Discus) | cả năm | Đảo Gừng — phía tây, phía bắc |
+| Cá vền (Bream) 🧩 | cả năm | Sông TT · Sông Rừng |
+| Cá đầu bò (Bullhead) 🧩 | cả năm | Hồ |
+| Cá chép (Carp) 🧩 | Xuân · Hạ · Thu (Rừng Bí mật, Cống ngầm: cả năm) | Hồ · Rừng Bí mật · Cống ngầm |
+| Cá trê (Catfish) 🧩 | Xuân · Thu · Đông (Rừng Bí mật: cả năm) | Sông TT · Sông Rừng · Rừng Bí mật |
+| Cá bống (Chub) | cả năm | Sông Rừng · Hồ |
+| Nghêu (Clam) 🧩 | cả năm | Bẫy cua — biển |
+| Sò (Cockle) 🧩 | cả năm | Bẫy cua — biển |
+| Cua (Crab) 🧩 | cả năm | Bẫy cua — biển |
+| Tôm hùm đất (Crayfish) 🧩 | cả năm | Bẫy cua — nước ngọt |
+| **Cá Phi Hồng (Crimsonfish)** | Hạ | Biển |
+| Cá Vàng (Dorado) | Hạ | Sông Rừng |
+| Lươn (Eel) 🧩 | Xuân · Thu | Biển |
+| Cá bơn (Flounder) | Xuân · Hạ | Biển |
+| Cá ma (Ghostfish) 🧩 | cả năm | Mỏ tầng 20 · 60 |
+| **Cá Băng hà (Glacierfish)** | Đông | Sông Rừng |
+| Hậu duệ Cá Băng hà (Glacierfish Jr.) ⭐ | cả năm | Sông Rừng · đơn của Qi _Extended Family_ |
+| Cá bống tượng (Goby) | cả năm | Vũng thác Rừng |
+| Cá bơn lưỡi ngựa (Halibut) | Xuân · Hạ · Đông | Biển |
+| Cá trích (Herring) | Xuân · Đông | Biển |
+| Cá băng (Ice Pip) | cả năm | Mỏ tầng 60 (cấp 5) |
+| Cá vược miệng rộng (Largemouth Bass) 🧩 | cả năm | Hồ |
+| Lươn dung nham (Lava Eel) | cả năm | Mỏ tầng 100 (cấp 7) |
+| **Cá huyền thoại (Legend)** | Xuân | Hồ |
+| Cá huyền thoại đệ nhị (Legend II) ⭐ | cả năm | Hồ · đơn của Qi _Extended Family_ |
+| Cá tuyết trâu (Lingcod) | Đông | Sông TT · Sông Rừng · Hồ |
+| Cá sư tử (Lionfish) | cả năm | Đảo Gừng — biển phía nam, đông nam, tây |
+| Tôm hùm (Lobster) 🧩 | cả năm | Bẫy cua — biển |
+| Cá chép nửa đêm (Midnight Carp) | Thu · Đông | Ao Rừng · Hồ |
+| Mực nửa đêm (Midnight Squid) | Đông 15–17 | Chợ Đêm — Tàu ngầm |
+| Cá lồng đèn cái (Ms. Angler) ⭐ | cả năm | Sông TT · đơn của Qi _Extended Family_ |
+| Trai (Mussel) 🧩 | cả năm | Bẫy cua — biển |
+| Cá chép biến dị (Mutant Carp) | cả năm | Cống ngầm |
+| Bạch tuộc (Octopus) | Hạ | Biển |
+| Hàu (Oyster) 🧩 | cả năm | Bẫy cua — biển |
+| Cá rô (Perch) | Đông | Sông TT · Sông Rừng · Ao Rừng · Hồ |
+| Ốc mỡ (Periwinkle) 🧩 | cả năm | Bẫy cua — nước ngọt |
+| Cá măng (Pike) | Hạ · Đông | Sông TT · Sông Rừng · Ao Rừng |
+| Cá nóc (Pufferfish) 🧩 | Hạ | Biển |
+| Cá chép phóng xạ (Radioactive Carp) ⭐ | cả năm | Cống ngầm · đơn của Qi _Extended Family_ |
+| Cá hồi vân (Rainbow Trout) | Hạ | Sông TT · Sông Rừng · Hồ |
+| Cá phèn (Red Mullet) | Hạ · Đông | Biển |
+| Cá hồng (Red Snapper) 🧩 | Hạ · Thu · Đông | Biển |
+| Cá hồi (Salmon) | Thu | Sông TT · Sông Rừng |
+| Cá cát (Sandfish) 🧩 | cả năm | Sa mạc |
+| Cá mòi (Sardine) 🧩 | Xuân · Thu · Đông | Biển |
+| Cá chép bò cạp (Scorpion Carp) | cả năm | Sa mạc (cấp 4) |
+| Hải sâm (Sea Cucumber) | Thu · Đông | Biển |
+| Cá trích dày mình (Shad) 🧩 | Xuân · Hạ · Thu | Sông TT · Sông Rừng |
+| Tôm (Shrimp) 🧩 | cả năm | Bẫy cua — biển |
+| Cá nhờn (Slimejack) | cả năm | _Mutant Bug Lair_ |
+| Cá vược miệng nhỏ (Smallmouth Bass) | Xuân · Thu | Sông TT · Ao Rừng |
+| Ốc sên (Snail) 🧩 | cả năm | Bẫy cua — nước ngọt |
+| Cá phi hồng con (Son of Crimsonfish) ⭐ | cả năm | Biển · đơn của Qi _Extended Family_ |
+| Cá ma (Spook Fish) | Đông 15–17 | Chợ Đêm — Tàu ngầm |
+| Mực (Squid) | Đông | Biển |
+| Cá đuối (Stingray) | cả năm | Vịnh Hải Tặc (Đảo Gừng) |
+| Cá đá (Stonefish) | cả năm | Mỏ tầng 20 (cấp 3) |
+| Cá tầm (Sturgeon) 🧩 | Hạ · Đông | Hồ |
+| Cá thái dương (Sunfish) 🧩 | Xuân · Hạ | Sông TT · Sông Rừng |
+| Siêu Hải sâm (Super Cucumber) | Hạ · Thu | Biển |
+| Cá hồi hổ (Tiger Trout) 🧩 | Thu · Đông | Sông TT · Sông Rừng |
+| Cá rô phi (Tilapia) 🧩 | Hạ · Thu | Biển |
+| Cá ngừ (Tuna) 🧩 | Hạ · Đông | Biển |
+| Cá hồi hư không (Void Salmon) | cả năm | _Witch's Swamp_ |
+| Cá mắt to (Walleye) 🧩 | Thu · Đông | Sông TT · Sông Rừng · Ao Rừng · Hồ |
+| Cá nhảy (Woodskip) 🧩 | cả năm | Rừng Bí mật |
+
+_Kiểm chứng trên game 1.6.15: danh sách là mọi món `Category` -4 trong `Data/Objects`, cờ ⭐ là `ExcludeFromFishingCollection`, tên Việt từ `Strings/Objects` của bản Việt hoá; chỗ câu của cá Đảo Gừng, Tàu ngầm, _Mutant Bug Lair_ (`BugLand`), _Witch's Swamp_ (`WitchSwamp`) và điều kiện `LEGENDARY_FAMILY` từ `Data/Locations`; tên Đảo Gừng, Vịnh Hải Tặc, Tàu ngầm, Chợ Đêm từ `StringsFromCSFiles`, `WorldMap`, `UI` của bản Việt hoá. Mùa và chỗ của các con còn lại lấy từ các bảng phía trên._
+
+---
+
 ## 🦀 Bẫy cua (Crab Pot)
 
 Mấy con này **không câu bằng cần** mà bắt bằng **Bẫy cua**: thả bẫy xuống nước, gắn **Mồi**, sáng hôm sau ra 1 món. **Không theo mùa, giờ hay thời tiết** — mùa nào cũng như nhau, chỉ phụ thuộc bẫy đặt ở **nước biển** hay **nước ngọt**. Cả 10 con đều tính vào bộ sưu tập cá, và gói **Bẫy Cua** ở Bể Cá cần **5 trong 10 con** bất kỳ.
