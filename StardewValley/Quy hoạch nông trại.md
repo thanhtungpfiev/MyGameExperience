@@ -176,7 +176,7 @@ Dựng lại từ ảnh gốc ở trên, theo cùng cách với Mẫu 1. Mẫu n
 
 ## 📦 Kho & rương — bảng màu và cách đặt tên
 
-> _Chia rương theo **nhãn nhóm hiện khi rê chuột** vào món đồ (dòng chữ màu ngay dưới tên món): nhìn nhãn là biết bỏ rương nào. Nhãn liên quan thì gộp chung một rương. **Màu** để nhận ra từ xa trên farm, **tên** để tìm trong menu [[Mods#Chests Anywhere 1.30.1|Chests Anywhere]] / [[Mods#All Chests Menu 0.4.2|All Chests Menu]]. Cách xếp rương thật của từng save nằm ở note của save — save Wind: [[Wind - Quy hoạch#📦 Kho — 12 rương cạnh nhà|Wind - Quy hoạch]]._
+> _Chia rương theo **nhãn nhóm hiện khi rê chuột** vào món đồ (dòng chữ màu ngay dưới tên món): nhìn nhãn là biết bỏ rương nào. Nhãn liên quan thì gộp chung một rương. **Màu** để nhận ra từ xa trên farm, **tên** để tìm trong menu [[Mods#Chests Anywhere 1.30.1|Chests Anywhere]] / [[Mods#All Chests Menu 0.4.2|All Chests Menu]]. Cách xếp rương thật của từng save nằm ở note của save — save Wind: [[Wind - Quy hoạch#📦 Kho — rương cạnh nhà|Wind - Quy hoạch]]._
 
 | Màu (ô trong bảng chọn màu)                               | Tên rương             | Nhãn trong game                                                                         | Món **không có nhãn** cũng cất ở đây                                                                                               |
 | --------------------------------------------------------- | --------------------- | --------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
