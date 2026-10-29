@@ -441,17 +441,28 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 
 ### ☀️ Ngày 3 (Thứ Tư) — 🪓 lấy Rìu Thép · mở Khu rừng Bí mật
 
-**📋 Thực tế** _(save Wind_448678493, đầu Hạ 3)_: ☀️ nắng · mai ☀️ nắng · 😐 trung tính (`dailyLuck` +0,011) · ví **10.448g** · Rìu Thép **xong**, lấy ở Clint · 📬 thư **Lewis** → quest **"Quần đùi" của Thị trưởng** · Gỗ 48 · 6 Trứng trong rương.
+**📋 Thực tế** _(Quicksave Hạ 3, ghi lúc 07:10 giờ máy)_: ☀️ nắng · mai ☀️ nắng · 😐 trung tính (`dailyLuck` +0,011) · ví **5.448g** · **Rìu Thép** đã trong túi · Rương lớn đã chế, đặt ở (55, 16) làm rương sưu tập `Cá` · 📬 quest **"Quần đùi" của Thị trưởng** · 🎣 quest Willy **Câu cá: Cá phèn** 0/4, **còn 2 ngày**, thưởng 300g.
 
-**🌦️ Nhánh:** ☀️ Nắng × 😐 Trung tính → bỏ qua trục may mắn, theo trục thời tiết: tưới trước, rồi đi xa. Không có quest hết hạn hôm nay.
+**🌦️ Nhánh:** ☀️ Nắng × 😐 Trung tính → bỏ qua trục may mắn, theo trục thời tiết: tưới trước, rồi đi xa. Quest Cá phèn hết hạn sau Hạ 4, nên làm luôn hôm nay khi ra biển.
 
-**✅ Việc hôm nay** (1 chính + 3 phụ)
-- [ ] 🪓 **Chính:** lấy **Rìu Thép** ở Clint → chặt khúc gỗ lớn chắn lối **Khu rừng Bí mật** (góc tây bắc Rừng Cindersap). Trong rừng:
-  - Câu **Cá nhảy** ở ao cho gói **Cá Đặc Biệt** (còn thiếu nó và **Cá cát**)
+**✅ Việc hôm nay** (1 chính + 5 phụ)
+- [ ] 🪓 **Chính:** chặt khúc gỗ lớn chắn lối **Khu rừng Bí mật** (góc tây bắc Rừng Cindersap). Trong rừng:
+  - Câu **3 Cá nhảy**: 1 cho gói **Cá Đặc Biệt** (còn thiếu nó và **Cá cát**), 1 cho `Cá Mùa Hè`, 1 cho `Cá`
   - Nhặt **Rau dớn** cho gói **Đầu Bếp**
   - Chặt gốc cây lớn lấy Gỗ cứng
+- [ ] 🎣 **Câu cá cho đủ rương** — lộ trình nắng hôm nay, cột "Rương" ghi số con cần giữ. Rương `Cá` giữ con **phẩm cao nhất** (xem [[#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]]):
+
+  | Giờ | Chỗ | Cá | Rương |
+  |---|---|---|---|
+  | 07:00–13:00 | Bãi biển | **Cá phèn ×5** (4 nộp quest Willy) · Bạch tuộc ×2 (trước 13:00) · Cá rô phi ×2 (trước 14:00) · Cá bơn ×2 · Cá bơn lưỡi ngựa ×1 (trước 11:00) · Cá ngừ ×1 | `Cá Mùa Hè` + `Cá` · Cá bơn: `Cá Mùa Xuân` + `Cá` |
+  | 12:00–16:00 | Bãi biển, nếu còn ở đó | Cá nóc ×1 | `Cá` |
+  | chiều | Rừng Cindersap | Cá bống tượng ×2 ở vũng dưới thác (trước 18:00) · Cá thái dương ×2 (trước 19:00) · Cá Vàng · Cá măng · Cá hồi vân · Cá bống ×1 mỗi loài | Cá bống tượng, Cá thái dương: `Cá Mùa Hè` + `Cá` · còn lại: `Cá` |
+  | 18:00 trở đi | sông | Cá vền ×2 | `Cá Mùa Hè` + `Cá` |
+
+  Không kịp hết thì phần còn lại dời sang Hạ 4–5. Cá Phi Hồng để dành cho Hạ 4.
 - [ ] 🩳 **Quần đùi tím may mắn** của Lewis nằm ở **nhà Marnie, ô (13, 7)** (theo `Data/Quests`). Phòng riêng có khoá thì cần 2 tim với Marnie — đang 571 điểm, đã đủ. Nhà Marnie ngay trên đường tới Khu rừng Bí mật, thứ Tư mở cửa. **Nhặt về nhưng chưa trả Lewis**: đem trưng ở gian hàng **Hội chợ Thu 16** được Lewis đút **750 Star Token**, xong mới trả lấy **750g** — quest không có hạn. Bỏ vào nồi súp Luau Hạ 11 thì chỉ được câu thoại và mất quần, xem [[Bí mật & Sự kiện ẩn#☀️ Hạ|Bí mật — Hạ]]
-- [ ] 📦 **Rương lớn:** chặt thêm Gỗ cho đủ **120** (thiếu 72), mua công thức ở **Cửa hàng Mộc** của Robin **5.000g** (ví đã đủ), chế bằng 120 Gỗ + 2 Thỏi đồng (có 24). Gom hai rương cá (55, 16) và (52, 7) vào đây
+- [x] 📦 **Rương lớn:** mua công thức ở Robin (5.000g) và chế xong, đặt ở (55, 16) làm rương sưu tập `Cá`. Cá chia rương theo mùa thay vì gom một chỗ, xem [[Wind - Quy hoạch#🎣 Hàng rương cá|Hàng rương cá]]
+- [ ] 📦 Chuyển đồ Bẫy cua từ `A Bẫy Cua Ao` / `A Bẫy Cua Biển` vào rương `Cá` cho đủ: còn thiếu **Sò · Trai · Ốc mỡ · Tôm · Ốc sên** (cả 5 có trong `Bẫy Cua`, đặt bẫy ra thêm là được) · **Tôm hùm** chưa từng bắt
 - [ ] 💧 Tưới **57 ô dải** trước khi đi
 - Pierre **đóng cửa thứ Tư**. Haley 1.761 điểm, quà tuần đã đủ 2 (tuần mới từ Chủ Nhật Hạ 7)
 
@@ -461,7 +472,8 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 
 **📝 Dự kiến:**
 - [ ] 🎣 **Cá Phi Hồng (Crimsonfish)** ở Bãi biển, **1 con/save** nên chỉ có một lần để lấy Iridium: đứng **(92, 23)** quay phải (vũng thủy triều, độ sâu 5 → cá luôn vàng) rồi **bắt hoàn hảo** để vàng lên Iridium, cách tính ở [[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng|Chỗ đứng ra cá vàng]]. Chỉ cắn **mùa Hạ**, cả ngày, mọi thời tiết, đứng từ x 82 trở sang phải, cần Câu cá 5. Độ khó 95: **đã tuột vạch một lần là hết hoàn hảo**, kéo lên chỉ được Vàng vĩnh viễn, nên cứ để cá thoát rồi câu lại (cá chưa lên bờ thì chưa tính vào giới hạn 1 con)
-- [ ] 🎣 Cùng chuyến Bãi biển: **Bạch tuộc** (06:00–13:00, độ khó 95) — loài Hạ cuối cùng còn thiếu ngoài Cá hồng (chờ mưa) và Cá Phi Hồng
+- [ ] 🎣 Cùng chuyến Bãi biển: phần cá Hạ 3 chưa câu kịp (Bạch tuộc trước 13:00, Cá rô phi trước 14:00…). **Hạn chót quest Cá phèn** nếu Hạ 3 chưa đủ 4 con. Tối ở lại bắt **Siêu Hải sâm ×2** (18:00–02:00) cho `Cá Mùa Hè` + `Cá`
+- [ ] 🎣 Hồ Trên Núi (trước 19:00): **Cá tầm ×2** cho `Cá Mùa Hè` + `Cá` · Cá vược miệng rộng · Cá đầu bò · Cá chép ×1 mỗi loài cho `Cá`
 - [ ] 🎂 Sinh nhật **Jas**: tặng quà nếu tiện, không bắt buộc
 - [ ] 💧 Tưới 57 ô dải (save Hạ 3 báo mai nắng)
 - Luau là **Hạ 11**: chưa có lễ hội hay sự kiện bí mật nào trong 3 ngày này
@@ -474,6 +486,7 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 - [ ] 🌾 Gặt **Lúa mì** (10 ở Ruộng 1, 1 ở Ruộng 3). Đủ 10 bó là nộp gói **Thức ăn Chăn Nuôi**, gói còn cần 10 Cỏ khô + 3 Táo
 - [ ] 🛒 Xe hàng rong (Rừng Cindersap): mua tối đa **1 Hạt giống hiếm** theo [[#☀️ Hạ|lịch gom]]
 - [ ] 💧 Nắng thì tưới 57 ô dải. **Ớt chín Hạ 6**, chuẩn bị chỗ cất hoặc ship
+- [ ] 🎣 Nếu còn giờ, đi **Hầm Mỏ** câu cá mỏ, 2 con mỗi loài cho `Cá Mùa Hè` + `Cá`: **Cá ma** và **Cá đá** ở ao tầng 20 · **Cá băng** ở tầng 60 · **Lươn dung nham** ở tầng 100. Cách tăng tỉ lệ cắn xem [[Câu cá theo mùa#⛏️ Hầm Mỏ|Câu cá theo mùa]]
 
 ---
 
@@ -547,6 +560,20 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 - 💰 Kho bạc (Nhà Văn hóa) đã trả xong **2.500g · 5.000g · 10.000g**, chỉ còn gói **25.000g**. Gói này cũng chờ tới đợt này, vì không có hạn chót, còn tiền đầu Hạ bỏ vào hạt quay vòng thì lời hơn.
 
 **🎣 Bộ cá Iridium** — mọi thứ game xếp vào loại cá chung một **Rương lớn** (Hạ 3): **66 loài** của bộ sưu tập, mỗi loài 1 con, phẩm cao nhất có được. Iridium chỉ nhắm cho **56 loài câu bằng cần**. 10 loài Bẫy cua luôn phẩm thường, cứ giữ 1 con mỗi loài. Cuối Hạ 2 (Quicksave 22:40) **Cá thái dương** đã lên Iridium; còn phải câu lại cho Iridium: **Cá bống tượng** · **Cá chép nửa đêm** (Thu/Đông, con duy nhất đã ship) · và cá Hạ mới đang phẩm Vàng: **Cá Vàng · Cá măng · Cá nóc · Cá tầm · Siêu Hải sâm · Cá ngừ** · **Cá rô phi** (chưa giữ con nào). **Cá huyền thoại** chỉ Vàng và không câu lại được. Bốn cá huyền thoại còn lại cũng 1 con/save, phải đứng chỗ ra vàng và bắt hoàn hảo ngay lần đầu: **Cá Phi Hồng** (Hạ 4) · **Cá lồng đèn** (Thu) · **Cá Băng hà** (Đông) · **Cá chép biến dị** (Cống ngầm).
+
+#### 🎣 Hoàn thiện các rương cá
+
+_Theo Quicksave Hạ 3 (07:10 giờ máy). Quy ước rương ở [[Wind - Quy hoạch#🎣 Hàng rương cá|Hàng rương cá]], danh sách đủ bộ ở [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|Câu cá theo mùa]]. Mỗi ngày trong lịch có một việc câu cá rút từ danh sách này; câu được loài còn thiếu thì **giữ 2 con**: một cho rương mùa, một cho rương `Cá`. Cá huyền thoại chỉ có 1 con nên vào thẳng `Cá`._
+
+| Rương | Đang có | Còn thiếu, câu được mùa này | Phải chờ |
+|---|---|---|---|
+| `Cá` (sưu tập) | 5/71 · Cá trích · Nghêu · Cua · Tôm hùm đất · Hàu | mọi cá Hạ ở dòng dưới · 12 loài đã có ở `Cá Mùa Hè` · 13 loài cá Xuân còn cắn mùa Hạ: Cá vền · Cá đầu bò · Cá chép · Cá trê · Cá bống · Cá ma · Cá bống tượng · Cá bơn lưỡi ngựa · Cá băng · Cá vược miệng rộng · Cá trích dày mình · Cá đá · Cá thái dương · 5 con Bẫy cua: Sò · Trai · Ốc mỡ · Tôm · Ốc sên | Thu: Cá cơm · Lươn · Cá mòi · Cá vược miệng nhỏ · **Cá huyền thoại**: chuyển con ở `Cá Mùa Xuân` sang |
+| `Cá Mùa Hè` | 12/31 · Cá đầu bò · Cá chép · Cá bống · Cá Vàng · Cá bơn · Cá bơn lưỡi ngựa · Cá vược miệng rộng · Cá măng · Cá nóc · Cá hồi vân · Cá phèn · Cá ngừ | **Biển:** Cá Phi Hồng (vào `Cá`) · Bạch tuộc · Cá rô phi · Siêu Hải sâm · Cá hồng 🌧️ · **Sông:** Cá vền · Cá thái dương ☀️ · Cá bống tượng · Cá trích dày mình 🌧️ · **Hồ:** Cá tầm · **Mỏ:** Cá ma · Cá đá · Cá băng · Lươn dung nham · **Khu rừng Bí mật:** Cá nhảy · Cá trê 🌧️ | Cá chép biến dị (Chìa khóa Rỉ sét) · Cá cát · Cá chép bò cạp (xe buýt đi Sa mạc) |
+| `Cá Mùa Xuân` | 19/25 | **Cá bơn**: giữ ở đây dù câu mùa Hạ | Xuân năm 2: Lươn dung nham · Cá nhảy · Cá chép biến dị · Cá cát · Cá chép bò cạp |
+| `Bẫy Cua` | 9/10 | **Tôm hùm** (bẫy biển, 5%) | — |
+| `Cá Mùa Thu` · `Cá Mùa Đông` | trống · chưa đặt rương Đông | — | tới mùa |
+
+Thêm 1 loài cho `Cá` nếu quay lại được _Witch's Swamp_ (save đã từng vào): **Cá hồi hư không**, cắn quanh năm.
 
 **🌱 Trái cổ đại** — cây ở ô (72, 27) chín lứa đầu **quanh Hạ 15**, sau đó cứ 7 ngày 1 quả (khoảng Hạ 22 · Thu 1 · 8 · 15 · 22). Bán 550g/quả thường; **nên giữ lại vài quả** — sau này có Máy làm hạt thì đổi ra Hạt giống cổ đại để trồng trong Nhà kính, nơi cây sống quanh năm.
 
