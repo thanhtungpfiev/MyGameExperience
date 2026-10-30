@@ -8,7 +8,7 @@
 
 ## 🎣 Câu cá
 
-> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 2, tối**, Năm 1): **44 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
+> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 3**, 08:23 giờ máy ngày 30/10, Năm 1): **46 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
 
 ### 🌸 Xuân — 17 / 17
 
@@ -46,7 +46,7 @@
 - [x] **Cá huyền thoại — đã câu được Xuân 26 Năm 1**. Xuân 19 từng tính để sang Năm 2 vì khi đó mới cấp 8, nhưng save Xuân 26 đã **cấp 10 gốc** nên không cần món buff nữa, và hôm đó lại mưa. Kế hoạch chi tiết ở [[Wind - Daily#☀️ Ngày 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong|Daily — Ngày 26]].
 - Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại của Xuân năm nay không cần dồn cho câu cá.
 
-### ☀️ Hạ — 9 / 12
+### ☀️ Hạ — 11 / 13
 
 _Chỉ tính cá **mới có từ mùa Hạ**; cá quanh năm và cá Xuân còn cắn mùa Hạ đã nằm ở trên._
 
@@ -56,7 +56,7 @@ _Chỉ tính cá **mới có từ mùa Hạ**; cá quanh năm và cá Xuân còn
 - [x] Cá ngừ (Tuna) 🧩
 - [x] Cá phèn (Red Mullet)
 - [x] Cá rô phi (Tilapia) 🧩
-- [ ] Bạch tuộc (Octopus) — 06:00–13:00
+- [x] Bạch tuộc (Octopus)
 - [ ] Cá hồng (Red Snapper) 🧩 — chỉ khi mưa
 - [x] Siêu Hải sâm (Super Cucumber)
 - [ ] **Cá Phi Hồng (Crimsonfish)** — cá huyền thoại, 1 con/save, kế hoạch ở [[Wind - Daily#🌦️ Ngày 4 (Thứ Năm) — 🎂 Sinh nhật Jas|Daily — Hạ 4]]
@@ -66,6 +66,10 @@ _Chỉ tính cá **mới có từ mùa Hạ**; cá quanh năm và cá Xuân còn
 - [x] Cá hồi vân (Rainbow Trout)
 - [x] Cá măng (Pike)
 - [x] Cá Vàng (Dorado)
+
+**🌲 Khu rừng Bí mật** (mở Hạ 3):
+
+- [x] Cá nhảy (Woodskip) 🧩
 
 **⛰️ Hồ Trên Núi:**
 
@@ -90,7 +94,6 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 ### 🔒 Khu chưa vào được
 
-- [ ] Cá nhảy (Woodskip) 🧩 — Khu rừng Bí mật
 - [ ] Cá chép biến dị (Mutant Carp) — Cống ngầm
 - [ ] Cá cát (Sandfish) — Sa mạc
 - [ ] Cá chép bò cạp (Scorpion Carp) — Sa mạc
@@ -99,7 +102,7 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 ## 🏛️ Nhà Văn hóa — 13 / 30 gói
 
-> _Đối chiếu **Quicksave Hạ 2, tối**, Năm 1 (`bundles` của CommunityCenter). Chỉ ghi món **còn thiếu**; gói đã xong chỉ một dòng. Không món thiếu nào đang nằm trong kho, nên chưa nộp thêm được gì._
+> _Đối chiếu **Quicksave Hạ 3**, 08:23 giờ máy ngày 30/10, Năm 1 (`bundles` của CommunityCenter). Chỉ ghi món **còn thiếu**; gói đã xong chỉ một dòng. Không món thiếu nào đang nằm trong kho, nên chưa nộp thêm được gì._
 
 **Phòng Súp-de (Boiler Room) — 3 / 3** ✅
 
@@ -113,7 +116,7 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] Cá Sông (3/4) — Cá hồi hổ
 - [ ] Cá Biển (3/4) — **Cá hồng** (ngày mưa)
 - [ ] Cá Đêm (2/3) — Cá mắt to
-- [ ] Cá Đặc Biệt (2/4) — Cá cát · **Cá nhảy**
+- [ ] Cá Đặc Biệt (3/4) — Cá cát
 
 **Két sắt (Vault) — 3 / 4**
 
