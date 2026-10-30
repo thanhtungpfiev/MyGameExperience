@@ -460,7 +460,7 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
   | ✅ đã xong | Bãi biển | **Cá phèn** (quest, Đông, `Cá`) · Cá rô phi (Hè, Thu, `Cá`) · Cá bơn (Xuân, `Cá`) · Cá bơn lưỡi ngựa (Đông, `Cá`) · Bạch tuộc (Hè, `Cá`) · Cá ngừ (Đông, `Cá`, và thay con Vàng ở Hè bằng Iridium) |
   | 12:00–16:00 | Bãi biển, nếu còn ở đó | Cá nóc ×1 (`Cá`) |
   | ✅ đã xong | Khu rừng Bí mật | **Cá chép ×2** (Thu, Đông) — đã cất vào hai rương |
-  | chiều | Rừng Cindersap | Cá bống tượng ×4 (Hè, Thu, Đông, `Cá`) ở vũng dưới thác trước 18:00 · Cá thái dương ×2 (Hè, `Cá`) trước 19:00 · Cá bống ×3 (Thu, Đông, `Cá`) · Cá măng ×2 (Đông, `Cá`) · Cá Vàng ×1 · Cá hồi vân ×1 (`Cá`) |
+  | chiều | Rừng Cindersap | Cá bống tượng ×4 (Hè, Thu, Đông, `Cá`) ở vũng dưới thác trước 18:00 · Cá thái dương ×2 (Hè, `Cá`) trước 19:00 · Cá bống ×4 (Hè, Thu, Đông, `Cá`) · Cá măng ×3 (Hè, Đông, `Cá`) · Cá Vàng ×2 (Hè, `Cá`) · Cá hồi vân ×1 (`Cá`) |
   | 18:00 trở đi | sông | Cá vền ×4 (Hè, Thu, Đông, `Cá`) |
 
   Mỗi con giữ đủ số ghi trong ngoặc: một cho **mọi rương mùa còn thiếu loài đó** (cả Thu, Đông) cộng một cho `Cá`, để sau này khỏi phải câu lại. Không kịp hết thì phần còn lại dời sang Hạ 4–5. Cá Phi Hồng để dành cho Hạ 4.
@@ -476,8 +476,8 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 
 **📝 Dự kiến:**
 - [ ] 🎣 **Cá huyền thoại: Cá Phi Hồng (Crimsonfish)** ở Bãi biển, **1 con/save**, vào thẳng rương `Cá`. **Vàng là đủ**, không cần Iridium nên không phải bắt hoàn hảo: cá cắn là kéo lên luôn. Đứng **(92, 23)** quay phải (vũng thủy triều, độ sâu 5) thì ở cấp 10 cá luôn ra vàng, cách tính ở [[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng|Chỗ đứng ra cá vàng]]. Chỉ cắn **mùa Hạ**, cả ngày, mọi thời tiết, đứng từ x 82 trở sang phải, cần Câu cá 5. Độ khó 95, gắn **Phao hút** (Trap Bobber, đang gắn sẵn trên Cần câu Iridium) cho cá tụt chậm khi lệch vạch
-- [ ] 🎣 Cùng chuyến Bãi biển: Cá nóc ×1 cho `Cá` (12:00–16:00). Tối ở lại bắt **Siêu Hải sâm ×3** (18:00–02:00) cho Hè, Thu, `Cá`
-- [ ] 🎣 Hồ Trên Núi (trước 19:00): **Cá tầm ×3** (Hè, Đông, `Cá`) · Cá vược miệng rộng ×3 · Cá đầu bò ×3 (Thu, Đông, `Cá`)
+- [ ] 🎣 Cùng chuyến Bãi biển: Cá nóc ×2 cho Hè, `Cá` (12:00–16:00). Tối ở lại bắt **Siêu Hải sâm ×3** (18:00–02:00) cho Hè, Thu, `Cá`
+- [ ] 🎣 Hồ Trên Núi (trước 19:00): **Cá tầm ×3** (Hè, Đông, `Cá`) · Cá vược miệng rộng ×4 · Cá đầu bò ×4 (Hè, Thu, Đông, `Cá`)
 - [ ] 🎂 Sinh nhật **Jas**: tặng quà nếu tiện, không bắt buộc
 - [ ] 💧 Tưới 57 ô dải (save Hạ 3 báo mai nắng)
 - Luau là **Hạ 11**: chưa có lễ hội hay sự kiện bí mật nào trong 3 ngày này
@@ -565,6 +565,8 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 
 **🎣 Bộ cá Iridium** — mọi thứ game xếp vào loại cá chung một **Rương lớn** (Hạ 3): **66 loài** của bộ sưu tập, mỗi loài 1 con, phẩm cao nhất có được. Iridium chỉ nhắm cho **56 loài câu bằng cần**. 10 loài Bẫy cua luôn phẩm thường, cứ giữ 1 con mỗi loài. Cuối Hạ 2 (Quicksave 22:40) **Cá thái dương** đã lên Iridium; còn phải câu lại cho Iridium: **Cá bống tượng** · **Cá chép nửa đêm** (Thu/Đông, con duy nhất đã ship) · và cá Hạ mới đang phẩm Vàng: **Cá Vàng · Cá măng · Cá nóc · Cá tầm · Siêu Hải sâm**. **Cá ngừ** và **Cá rô phi** đã lên Iridium (Hạ 3). **Cá huyền thoại** chỉ Vàng và không câu lại được. Bốn cá huyền thoại còn lại cũng 1 con/save, và **Vàng là đủ, không nhắm Iridium**: đứng chỗ ra vàng rồi kéo lên, không cần bắt hoàn hảo: **Cá Phi Hồng** (Hạ 4) · **Cá lồng đèn** (Thu) · **Cá Băng hà** (Đông) · **Cá chép biến dị** (Cống ngầm).
 
+**Rương `Cá Mùa Hè` cũng nhắm full Iridium**, trừ cá huyền thoại. Sáu con đang Vàng trong rương phải câu lại: **Cá đầu bò · Cá bống · Cá Vàng · Cá vược miệng rộng · Cá măng · Cá nóc**. Câu được con Iridium thì đổi vào, con Vàng đem ship. Mọi loài câu mới cho rương Hè cũng giữ con Iridium.
+
 #### 🎣 Hoàn thiện các rương cá
 
 _Theo Quicksave Hạ 3 (08:23 giờ máy ngày 30/10). Quy ước rương ở [[Wind - Quy hoạch#🎣 Hàng rương cá|Hàng rương cá]], danh sách đủ bộ ở [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|Câu cá theo mùa]]. Mỗi rương mùa giữ **đủ mọi loài cắn được trong mùa đó**, câu lúc nào cũng được, nên một con câu mùa Hạ có thể cần cho cả rương Thu, Đông. Mỗi ngày trong lịch có một việc câu cá rút từ bảng dưới._
@@ -573,32 +575,32 @@ _Theo Quicksave Hạ 3 (08:23 giờ máy ngày 30/10). Quy ước rương ở [[
 |---|---|---|
 | `Cá` (sưu tập) | 13/71 · Cá chép · Nghêu · Cua · Tôm hùm đất · Cá trích · Cá nhảy · Hàu · Cá bơn · Cá bơn lưỡi ngựa · Bạch tuộc · Cá phèn · Cá rô phi · Cá ngừ | cá Thu/Đông chưa cắn (Cá cơm, Lươn, Cá mòi…) · **Cá huyền thoại**: chuyển con ở `Cá Mùa Xuân` sang · Bẫy cua: Sò · Trai · Ốc mỡ · Tôm · Ốc sên lấy từ `A Bẫy Cua …` · Tôm hùm chưa bắt |
 | `Cá Mùa Xuân` | 21/25 | Cá chép biến dị · Cá cát · Cá chép bò cạp (khu chưa mở) |
-| `Cá Mùa Hè` | 15/31 | Cá chép biến dị · Cá cát · Cá chép bò cạp · Cá Phi Hồng (con duy nhất vào `Cá`) |
+| `Cá Mùa Hè` | 15/31 · 6 con mới Vàng: Cá đầu bò, Cá bống, Cá Vàng, Cá vược miệng rộng, Cá măng, Cá nóc | Cá chép biến dị · Cá cát · Cá chép bò cạp · Cá Phi Hồng (con duy nhất vào `Cá`) |
 | `Cá Mùa Thu` | 3/30 · Cá chép · Cá rô phi · Cá nhảy | 11 loài chưa cắn mùa Hạ, chờ tới Thu (Cá lồng đèn chỉ 1 con, vào `Cá`) · 3 loài ở khu chưa mở |
 | `Cá Mùa Đông` | 5/32 · Cá chép · Cá bơn lưỡi ngựa · Cá phèn · Cá ngừ · Cá nhảy · rương ở (49, 7) | 11 loài chưa cắn mùa Hạ, chờ tới Đông (Cá Băng hà chỉ 1 con, vào `Cá`) · 3 loài ở khu chưa mở |
 | `Bẫy Cua` | 9/10 | **Tôm hùm** (bẫy biển, 5%) |
 
-**Câu mùa Hạ: mỗi loài giữ mấy con** (đã trừ những rương có rồi). Cộng lại **60 con**, rải ra Hạ 3–28:
+**Câu mùa Hạ: mỗi loài giữ mấy con** (đã trừ những rương có rồi; rương Hè tính cả 6 con Vàng phải thay bằng Iridium). Cộng lại **66 con**, rải ra Hạ 3–28:
 
 | Cá | Giữ | Cho rương | Ở đâu · giờ |
 |---|---|---|---|
 | Cá vền (Bream) | **4** | Hè · Thu · Đông · `Cá` | Sông TT · Sông Rừng · 18:00–02:00 |
-| Cá đầu bò (Bullhead) | **3** | Thu · Đông · `Cá` | Hồ · cả ngày |
+| Cá đầu bò (Bullhead) | **4** | Hè (thay Vàng) · Thu · Đông · `Cá` | Hồ · cả ngày |
 | ~~Cá chép (Carp)~~ ✅ | **0** | đã cất Thu · Đông | Hồ · Rừng Bí mật · Cống ngầm · cả ngày |
 | Cá trê (Catfish) 🌧️ | **4** | Hè · Thu · Đông · `Cá` | Rừng Bí mật · 06:00–24:00 |
-| Cá bống (Chub) | **3** | Thu · Đông · `Cá` | Sông Rừng · Hồ · cả ngày |
+| Cá bống (Chub) | **4** | Hè (thay Vàng) · Thu · Đông · `Cá` | Sông Rừng · Hồ · cả ngày |
 | Cá Phi Hồng (Crimsonfish) | **1** | `Cá` — 1 con/save, `Cá Mùa Hè` để trống ô này | Biển (cấp 5) · cả ngày |
-| Cá Vàng (Dorado) | **1** | `Cá` | Sông Rừng · 06:00–19:00 |
+| Cá Vàng (Dorado) | **2** | Hè (thay Vàng) · `Cá` | Sông Rừng · 06:00–19:00 |
 | ~~Cá bơn (Flounder)~~ ✅ | **0** | đã cất Xuân · `Cá` | Biển · 06:00–20:00 |
 | Cá ma (Ghostfish) | **4** | Hè · Thu · Đông · `Cá` | Mỏ tầng 20 · 60 · cả ngày |
 | Cá bống tượng (Goby) | **4** | Hè · Thu · Đông · `Cá` | Vũng thác Rừng · 08:00–18:00 |
 | ~~Cá bơn lưỡi ngựa (Halibut)~~ ✅ | **0** | đã cất Đông · `Cá` | Biển · 06:00–11:00 · 19:00–02:00 |
 | Cá băng (Ice Pip) | **4** | Hè · Thu · Đông · `Cá` | Mỏ tầng 60 (cấp 5) · cả ngày |
-| Cá vược miệng rộng (Largemouth Bass) | **3** | Thu · Đông · `Cá` | Hồ · 06:00–19:00 |
+| Cá vược miệng rộng (Largemouth Bass) | **4** | Hè (thay Vàng) · Thu · Đông · `Cá` | Hồ · 06:00–19:00 |
 | Lươn dung nham (Lava Eel) | **5** | Xuân · Hè · Thu · Đông · `Cá` | Mỏ tầng 100 (cấp 7) · cả ngày |
 | ~~Bạch tuộc (Octopus)~~ ✅ | **0** | đã cất Hè · `Cá` | Biển · 06:00–13:00 |
-| Cá măng (Pike) | **2** | Đông · `Cá` | Sông TT · Sông Rừng · Ao Rừng · cả ngày |
-| Cá nóc (Pufferfish) ☀️ | **1** | `Cá` | Biển · 12:00–16:00 |
+| Cá măng (Pike) | **3** | Hè (thay Vàng) · Đông · `Cá` | Sông TT · Sông Rừng · Ao Rừng · cả ngày |
+| Cá nóc (Pufferfish) ☀️ | **2** | Hè (thay Vàng) · `Cá` | Biển · 12:00–16:00 |
 | Cá hồi vân (Rainbow Trout) ☀️ | **1** | `Cá` | Sông TT · Sông Rừng · Hồ · 06:00–19:00 |
 | ~~Cá phèn (Red Mullet)~~ ✅ | **0** | đã cất Đông · `Cá` | Biển · 06:00–19:00 |
 | Cá hồng (Red Snapper) 🌧️ | **4** | Hè · Thu · Đông · `Cá` | Biển · 06:00–19:00 |
