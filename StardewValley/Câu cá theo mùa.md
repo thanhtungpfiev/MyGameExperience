@@ -76,6 +76,8 @@ _Gộp mọi chỗ câu được mùa Xuân, kể cả Hầm Mỏ và khu phải
 
 > [!tip] Chỗ đứng câu Cá bống tượng
 > **Đứng ô (52, 98), quay mặt xuống Nam** — ô đất cuối cùng ở bờ **Tây** con sông, sát mép vách thác. Ngay dưới là 1 ô vách (52, 99), từ (52, 100) trở xuống đã là nước có Cá bống tượng, nên quăng ≥ 2 ô là trúng; quăng 1 ô thì phao rơi lên vách, quăng lại. **Đừng quay sang Đông:** nước ngay cạnh như (53, 98) vẫn là sông thường. Ô đó bị chắn thì lùi sang (51, 98), cũng quay Nam nhưng phải quăng ~6 ô.
+>
+> **Chỉ ra cá thường:** vũng hẹp, cả vũng chỉ có độ sâu 1 ô (lớp Fishing Depth của [[Mods#Data Layers 1.23.0|Data Layers]] toàn màu đỏ), nên cấp Câu cá 10 vẫn ra thường và bắt hoàn hảo cũng không lên bậc. Gắn **Phao câu chất lượng (Quality Bobber)** thì ra bạc, gắn phao **và** bắt hoàn hảo thì ra vàng — **iridium là không thể** — xem [[#📍 Chỗ đứng ra cá vàng]].
 
 ### ⛰️ Hồ Trên Núi
 
@@ -703,6 +705,7 @@ Xem ô đang đứng bằng phím **Z** ([[Mods#Debug Mode 1.17.4|Debug Mode]]).
 | **Rừng Cindersap — ao** | **(40, 41)** · dải x 34–45, y 40–42 | ↑ | (40, 35) | 5 | Bờ nam ao lớn phía tây bắc — **cá ao, không phải cá sông** |
 | | (48, 30) · (47–49, 25–30) | ← | (41, 30) | 5 | Bờ đông ao |
 | | (33, 25) | ↓ | (33, 31) | 5 | Dải đất giữa hai thuỳ ao |
+| **Rừng Cindersap — vũng thác** | (52, 98) | ↓ | (52, 104) | **1** | Vũng Cá bống tượng — lớp Fishing Depth đỏ cả vũng, **luôn ra thường**; Phao câu chất lượng nâng lên bạc, thêm bắt hoàn hảo mới tới vàng — **không bao giờ iridium** |
 | **Thị trấn — sông** | **(1, 93)** đến (4, 93) | ↓ | (1–4, 99) | 5 | Góc tây nam, sát lối sang Rừng Cindersap. **Chỗ duy nhất trong Thị trấn từ 4 ô trở lên** — phần sông còn lại tối đa 3 |
 | **Bãi biển** | **(9, 15)** · dải x 9–10, y 12–36 | ← | (2, 15) | 5 | Mép trái bãi cát |
 | | (54, 25) · x 49–56, y 24–25 | ↓ | (54, 31) | 5 | Đứng trên dãy cầu gỗ chạy ngang giữa bãi |
