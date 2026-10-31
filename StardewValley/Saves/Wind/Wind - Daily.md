@@ -441,7 +441,7 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 
 ### ☀️ Ngày 3 (Thứ Tư) — 🪓 lấy Rìu Thép · mở Khu rừng Bí mật
 
-**📋 Thực tế** _(Quicksave Hạ 3, ghi lúc 08:26 giờ máy ngày 31/10)_: ☀️ nắng · mai ☀️ nắng · 😐 trung tính (`dailyLuck` +0,011) · ví **5.748g** · gói **Cá Đặc Biệt** 3/4, chỉ còn **Cá cát** · rương **`Cá Mùa Đông`** đã đặt ở (49, 7) · đã ra **Bãi biển**: ✅ quest Willy **Cá phèn** xong (+300g) · **Quần đùi tím may mắn** đã nhặt, đang cất trong rương (56, 14), quest Lewis vẫn mở · Gỗ cứng 22 · Rau dớn **chưa có**.
+**📋 Thực tế** _(Quicksave Hạ 3, ghi lúc 08:32 giờ máy ngày 31/10)_: ☀️ nắng · mai ☀️ nắng · 😐 trung tính (`dailyLuck` +0,011) · ví **5.748g** · gói **Cá Đặc Biệt** 3/4, chỉ còn **Cá cát** · rương **`Cá Mùa Đông`** đã đặt ở (49, 7) · đã ra **Bãi biển**: ✅ quest Willy **Cá phèn** xong (+300g) · **Quần đùi tím may mắn** đã nhặt, đang cất trong rương (56, 14), quest Lewis vẫn mở · Gỗ cứng 22 · Rau dớn **chưa có**.
 
 **🌦️ Nhánh:** ☀️ Nắng × 😐 Trung tính → bỏ qua trục may mắn, theo trục thời tiết. Quest Cá phèn hết hạn sau Hạ 4, nên làm luôn hôm nay khi ra biển.
 
@@ -450,7 +450,7 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
   - [x] Câu Cá nhảy: đã có ở `Cá Mùa Xuân`, `Cá Mùa Hè`, `Cá`
   - [x] Nộp 1 **Cá nhảy** vào gói **Cá Đặc Biệt** → 3/4, chỉ còn **Cá cát**
   - [x] Cất 1 **Cá nhảy** vào `Cá Mùa Thu`, 1 vào `Cá Mùa Đông`
-  - [ ] Nhặt **Rau dớn** cho gói **Đầu Bếp** — Quicksave 08:26 (31/10) vẫn **không có** trong túi hay rương, rừng cũng không có món hái nào trên đất. Save đầu ngày chỉ có ô đào đồ cổ (6, 19). Rau dớn là đồ hái mùa Hè, mỗi sáng mọc ở ô ngẫu nhiên trong rừng, nên **sáng nào mùa Hè cũng ghé rừng xem**. Mỗi lần có save mới, đọc `objects` của `Woods` để báo trước ô có Rau dớn
+  - [ ] Nhặt **Rau dớn** cho gói **Đầu Bếp** — Quicksave 08:32 (31/10) vẫn **không có** trong túi hay rương, rừng cũng không có món hái nào trên đất. Save đầu ngày chỉ có ô đào đồ cổ (6, 19). Rau dớn là đồ hái mùa Hè, mỗi sáng mọc ở ô ngẫu nhiên trong rừng, nên **sáng nào mùa Hè cũng ghé rừng xem**. Mỗi lần có save mới, đọc `objects` của `Woods` để báo trước ô có Rau dớn
   - [x] Chặt gốc cây lớn lấy Gỗ cứng (12 → 22)
 - [x] 📦 Đặt rương **`Cá Mùa Đông`** ở (49, 7), màu ô 4 · Xanh ngọc
 - [ ] 🎣 **Câu cá cho đủ rương** — lộ trình nắng còn lại hôm nay. Số con lấy từ bảng [[#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]], rương `Cá` giữ con **phẩm cao nhất**:
@@ -465,7 +465,7 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 
   Mỗi con giữ đủ số ghi trong ngoặc: một cho **mọi rương mùa còn thiếu loài đó** (cả Thu, Đông) cộng một cho `Cá`, để sau này khỏi phải câu lại. Không kịp hết thì phần còn lại dời sang Hạ 4–5. Cá Phi Hồng để dành cho Hạ 4.
 
-  **Cá thừa còn phải ship:** con Vàng của **Cá bống** và **Cá Vàng** vẫn nằm trong `Cá Mùa Hè` · rương `Trang Bị` (58, 14) đang giữ **Cá măng Iridium ×3 · Cá hồi vân Iridium ×2 · Cá thái dương Iridium ×4** — không rương cá nào cần nữa. Con Vàng của Cá măng đã vào thùng ship.
+  **Cá thừa còn phải ship:** chỉ còn con Vàng của **Cá bống** và **Cá Vàng** nằm trong `Cá Mùa Hè`. Mấy con Iridium thừa và con Cá măng Vàng đã vào thùng ship.
 - [x] 🩳 **Quần đùi tím may mắn** của Lewis nằm ở **nhà Marnie, ô (13, 7)** (theo `Data/Quests`). Đã nhặt, đang cất ở rương (56, 14). **Chưa trả Lewis**: đem trưng ở gian hàng **Hội chợ Thu 16** được Lewis đút **750 Star Token**, xong mới trả lấy **750g** — quest không có hạn. Bỏ vào nồi súp Luau Hạ 11 thì chỉ được câu thoại và mất quần, xem [[Bí mật & Sự kiện ẩn#☀️ Hạ|Bí mật — Hạ]]
 - [x] 📦 **Rương lớn:** mua công thức ở Robin (5.000g) và chế xong, đặt ở (55, 16) làm rương sưu tập `Cá`. Cá chia rương theo mùa thay vì gom một chỗ, xem [[Wind - Quy hoạch#🎣 Hàng rương cá|Hàng rương cá]]
 - [ ] 📦 Chuyển đồ Bẫy cua từ `A Bẫy Cua Ao` / `A Bẫy Cua Biển` vào rương `Cá` cho đủ: còn thiếu **Sò · Trai · Ốc mỡ · Tôm · Ốc sên** (cả 5 có trong `Bẫy Cua`, đặt bẫy ra thêm là được) · **Tôm hùm** chưa từng bắt
@@ -571,7 +571,7 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 
 #### 🎣 Hoàn thiện các rương cá
 
-_Theo Quicksave Hạ 3 (08:26 giờ máy ngày 31/10). Quy ước rương ở [[Wind - Quy hoạch#🎣 Hàng rương cá|Hàng rương cá]], danh sách đủ bộ ở [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|Câu cá theo mùa]]. Mỗi rương mùa giữ **đủ mọi loài cắn được trong mùa đó**, câu lúc nào cũng được, nên một con câu mùa Hạ có thể cần cho cả rương Thu, Đông. Mỗi ngày trong lịch có một việc câu cá rút từ bảng dưới._
+_Theo Quicksave Hạ 3 (08:32 giờ máy ngày 31/10). Quy ước rương ở [[Wind - Quy hoạch#🎣 Hàng rương cá|Hàng rương cá]], danh sách đủ bộ ở [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|Câu cá theo mùa]]. Mỗi rương mùa giữ **đủ mọi loài cắn được trong mùa đó**, câu lúc nào cũng được, nên một con câu mùa Hạ có thể cần cho cả rương Thu, Đông. Mỗi ngày trong lịch có một việc câu cá rút từ bảng dưới._
 
 | Rương | Đang có | Chưa câu được mùa này |
 |---|---|---|
