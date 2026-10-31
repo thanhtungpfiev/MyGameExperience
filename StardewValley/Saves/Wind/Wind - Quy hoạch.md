@@ -113,12 +113,12 @@ Mỗi rương mùa giữ đủ các loài cắn được trong mùa đó, câu l
 |---|---|---|---|
 | (47, 7) | `Bẫy Cua` | <span style="color:#00AAAA">■</span> ô 3 · Xanh mòng két | 9/10, thiếu Tôm hùm |
 | (48, 7) | — trống | | |
-| (49, 7) | `Cá Mùa Đông` | <span style="color:#00EAAF">■</span> ô 4 · Xanh ngọc | 5/32 |
-| (50, 7) | `Cá Mùa Thu` | <span style="color:#AC00C6">■</span> ô 14 · Tím hồng | 3/30 |
-| (51, 7) | `Cá Mùa Hè` | <span style="color:#FFEA12">■</span> ô 7 · Vàng | 15/31 |
+| (49, 7) | `Cá Mùa Đông` | <span style="color:#00EAAF">■</span> ô 4 · Xanh ngọc | 8/32 |
+| (50, 7) | `Cá Mùa Thu` | <span style="color:#AC00C6">■</span> ô 14 · Tím hồng | 5/30 |
+| (51, 7) | `Cá Mùa Hè` | <span style="color:#FFEA12">■</span> ô 7 · Vàng | 17/31 |
 | (52, 7) | `Cá Mùa Xuân` | <span style="color:#FFADC7">■</span> ô 12 · Hồng nhạt | 21/25 |
 
-Rương sưu tập `Cá` (55, 16) — Rương lớn, mỗi loài 1 con, đủ bộ 71 loài kể cả Bẫy cua theo [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|danh sách đủ bộ]]: **13/71**. Còn thiếu con nào, câu mấy con: bảng [[Wind - Daily#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]].
+Rương sưu tập `Cá` (55, 16) — Rương lớn, mỗi loài 1 con, đủ bộ 71 loài kể cả Bẫy cua theo [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|danh sách đủ bộ]]: **19/71**. Còn thiếu con nào, câu mấy con: bảng [[Wind - Daily#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]].
 
 **Việc còn lại để xong kho cá:**
 
