@@ -563,9 +563,9 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 - 🐔 Gà mua cho đủ **4 con** (800g/con) cũng chờ tới đợt này, cùng lúc với lúc vét Hạt giống hiếm.
 - 💰 Kho bạc (Nhà Văn hóa) đã trả xong **2.500g · 5.000g · 10.000g**, chỉ còn gói **25.000g**. Gói này cũng chờ tới đợt này, vì không có hạn chót, còn tiền đầu Hạ bỏ vào hạt quay vòng thì lời hơn.
 
-**🎣 Bộ cá Iridium** — mọi thứ game xếp vào loại cá chung một **Rương lớn** (Hạ 3): **66 loài** của bộ sưu tập, mỗi loài 1 con, phẩm cao nhất có được. Iridium chỉ nhắm cho **56 loài câu bằng cần**. 10 loài Bẫy cua luôn phẩm thường, cứ giữ 1 con mỗi loài. Cuối Hạ 2 (Quicksave 22:40) **Cá thái dương** đã lên Iridium; còn phải câu lại cho Iridium: **Cá bống tượng** · **Cá chép nửa đêm** (Thu/Đông, con duy nhất đã ship) · và cá Hạ mới đang phẩm Vàng: **Cá Vàng · Cá măng · Cá nóc · Cá tầm · Siêu Hải sâm**. **Cá ngừ** và **Cá rô phi** đã lên Iridium (Hạ 3). **Cá huyền thoại** chỉ Vàng và không câu lại được. Bốn cá huyền thoại còn lại cũng 1 con/save, và **Vàng là đủ, không nhắm Iridium**: đứng chỗ ra vàng rồi kéo lên, không cần bắt hoàn hảo: **Cá Phi Hồng** (Hạ 4) · **Cá lồng đèn** (Thu) · **Cá Băng hà** (Đông) · **Cá chép biến dị** (Cống ngầm).
+**🎣 Bộ cá Iridium** — mọi thứ game xếp vào loại cá chung một **Rương lớn** (Hạ 3): **66 loài** của bộ sưu tập, mỗi loài 1 con, phẩm cao nhất có được. Iridium chỉ nhắm cho **56 loài câu bằng cần**. 10 loài Bẫy cua luôn phẩm thường, cứ giữ 1 con mỗi loài. Cuối Hạ 2 (Quicksave 22:40) **Cá thái dương** đã lên Iridium; còn phải câu lại cho Iridium: **Cá chép nửa đêm** (Thu/Đông, con duy nhất đã ship) · và cá Hạ mới đang phẩm Vàng: **Cá Vàng · Cá măng · Cá nóc · Cá tầm · Siêu Hải sâm**. **Cá ngừ** và **Cá rô phi** đã lên Iridium (Hạ 3). **Cá huyền thoại** chỉ Vàng và không câu lại được. Bốn cá huyền thoại còn lại cũng 1 con/save, và **Vàng là đủ, không nhắm Iridium**: đứng chỗ ra vàng rồi kéo lên, không cần bắt hoàn hảo: **Cá Phi Hồng** (Hạ 4) · **Cá lồng đèn** (Thu) · **Cá Băng hà** (Đông) · **Cá chép biến dị** (Cống ngầm). **Cá bống tượng** cũng không lên được Iridium: vũng thác chỉ sâu 1 ô nên luôn ra thường, gắn Phao câu chất lượng ra bạc, thêm bắt hoàn hảo mới tới **Vàng** — giữ con tốt nhất câu được ([[Câu cá theo mùa#📍 Chỗ đứng ra cá vàng|vì sao]]).
 
-**Rương `Cá Mùa Hè` cũng nhắm full Iridium**, trừ cá huyền thoại. Sáu con đang Vàng trong rương phải câu lại: **Cá đầu bò · Cá bống · Cá Vàng · Cá vược miệng rộng · Cá măng · Cá nóc**. Câu được con Iridium thì đổi vào, con Vàng đem ship. Mọi loài câu mới cho rương Hè cũng giữ con Iridium.
+**Rương `Cá Mùa Hè` cũng nhắm full Iridium**, trừ cá huyền thoại và **Cá bống tượng** (tối đa Vàng, như trên). Sáu con đang Vàng trong rương phải câu lại: **Cá đầu bò · Cá bống · Cá Vàng · Cá vược miệng rộng · Cá măng · Cá nóc**. Câu được con Iridium thì đổi vào, con Vàng đem ship. Mọi loài câu mới cho rương Hè cũng giữ con Iridium.
 
 #### 🎣 Hoàn thiện các rương cá
 
@@ -593,7 +593,7 @@ _Theo Quicksave Hạ 3 (08:23 giờ máy ngày 30/10). Quy ước rương ở [[
 | Cá Vàng (Dorado) | **2** | Hè (thay Vàng) · `Cá` | Sông Rừng · 06:00–19:00 |
 | ~~Cá bơn (Flounder)~~ ✅ | **0** | đã cất Xuân · `Cá` | Biển · 06:00–20:00 |
 | Cá ma (Ghostfish) | **4** | Hè · Thu · Đông · `Cá` | Mỏ tầng 20 · 60 · cả ngày |
-| Cá bống tượng (Goby) | **4** | Hè · Thu · Đông · `Cá` | Vũng thác Rừng · 08:00–18:00 |
+| Cá bống tượng (Goby) | **4** | Hè · Thu · Đông · `Cá` — tối đa Vàng (Phao câu chất lượng + bắt hoàn hảo) | Vũng thác Rừng · 08:00–18:00 |
 | ~~Cá bơn lưỡi ngựa (Halibut)~~ ✅ | **0** | đã cất Đông · `Cá` | Biển · 06:00–11:00 · 19:00–02:00 |
 | Cá băng (Ice Pip) | **4** | Hè · Thu · Đông · `Cá` | Mỏ tầng 60 (cấp 5) · cả ngày |
 | Cá vược miệng rộng (Largemouth Bass) | **4** | Hè (thay Vàng) · Thu · Đông · `Cá` | Hồ · 06:00–19:00 |
