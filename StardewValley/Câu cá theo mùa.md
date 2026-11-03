@@ -645,7 +645,7 @@ Cá ở mấy chỗ dưới đây **không đổi theo mùa** — mùa nào cũn
 >
 > với **k = 1 + 0,4 × cấp Câu cá + 0,1 × độ sâu nước** (quăng càng xa bờ càng sâu). Tức là **~20 lần cắn mới ra 1 con Cá băng**.
 >
-> **Tăng tỉ lệ:** **Phao mồi kì lạ (Curiosity Lure)** cộng k **+5** (Cá băng lên ~10%) — cần Cần Iridium · **Mồi riêng loài** làm từ chính con cá đó ở **Máy Làm Mồi Câu (Bait Maker)** cộng k **+10** (lên ~14%) · cả hai → ~19%. Quăng hết tầm cho nước sâu.
+> **Tăng tỉ lệ:** **Phao mồi kì lạ (Curiosity Lure)** cộng k **+5** (Cá băng lên ~10%) — cần Cần Iridium · **Mồi riêng loài** làm từ chính con cá đó ở **Máy Làm Mồi Câu (Bait Maker)** cộng k **+10** (lên ~14%) · cả hai → ~19%. Phao lấy ở đâu xem [[Đồ câu cá#🪝 Phao & mồi tự chế|Đồ câu cá]]. Quăng hết tầm cho nước sâu.
 >
 > **Thạch Hang Động:** ở tầng 20/60 chỉ ra khi xúc xắc cá mỏ trượt **và** các món thường phía trước cũng không rơi — nên cực hiếm. Ở **dung nham tầng 100**, hễ không ra Lươn dung nham là có **5% + 5% × Luck** ra Thạch, còn lại là rác → **để dành tới tầng 100 hãy săn**. Cần Tập sự (Training Rod) dưới mỏ chỉ câu ra rác.
 
