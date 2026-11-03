@@ -8,7 +8,7 @@
 
 ## 🎣 Câu cá
 
-> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 3**, 08:23 giờ máy ngày 30/10, Năm 1): **46 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
+> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 4**, 06:35 giờ máy ngày 04/11, Năm 1): **47 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
 
 ### 🌸 Xuân — 17 / 17
 
@@ -59,7 +59,7 @@ _Chỉ tính cá **mới có từ mùa Hạ**; cá quanh năm và cá Xuân còn
 - [x] Bạch tuộc (Octopus)
 - [ ] Cá hồng (Red Snapper) 🧩 — chỉ khi mưa
 - [x] Siêu Hải sâm (Super Cucumber)
-- [ ] **Cá Phi Hồng (Crimsonfish)** — cá huyền thoại, 1 con/save, kế hoạch ở [[Wind - Daily#🌦️ Ngày 4 (Thứ Năm) — 🎂 Sinh nhật Jas|Daily — Hạ 4]]
+- [ ] **Cá Phi Hồng (Crimsonfish)** — cá huyền thoại, 1 con/save, kế hoạch ở [[Wind - Daily#☀️ Ngày 7 (Chủ Nhật) — 🌊 chuyến Bãi biển · 📺 công thức mới · 🛒 Xe hàng rong|Daily — Hạ 7]]
 
 **🏞️ Sông:**
 
@@ -89,20 +89,20 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [x] Cá ma (Ghostfish) 🧩
 - [x] Cá đá (Stonefish)
 - [x] Cá băng (Ice Pip)
-- [ ] Lươn dung nham (Lava Eel) — dung nham tầng 100, cần Câu cá 7 (đã đủ)
+- [x] Lươn dung nham (Lava Eel)
 - [x] Thạch Hang Động (Cave Jelly)
 
 ### 🔒 Khu chưa vào được
 
 - [ ] Cá chép biến dị (Mutant Carp) — Cống ngầm
-- [ ] Cá cát (Sandfish) — Sa mạc
-- [ ] Cá chép bò cạp (Scorpion Carp) — Sa mạc
+- [ ] Cá cát (Sandfish) — Sa mạc, xe buýt chạy từ Hạ 5
+- [ ] Cá chép bò cạp (Scorpion Carp) — Sa mạc, xe buýt chạy từ Hạ 5
 
 ---
 
-## 🏛️ Nhà Văn hóa — 13 / 30 gói
+## 🏛️ Nhà Văn hóa — 14 / 30 gói
 
-> _Đối chiếu **Quicksave Hạ 3**, 08:23 giờ máy ngày 30/10, Năm 1 (`bundles` của CommunityCenter). Chỉ ghi món **còn thiếu**; gói đã xong chỉ một dòng. Không món thiếu nào đang nằm trong kho, nên chưa nộp thêm được gì._
+> _Đối chiếu **Quicksave Hạ 4**, 06:35 giờ máy ngày 04/11, Năm 1 (`bundles` của CommunityCenter). Chỉ ghi món **còn thiếu**; gói đã xong chỉ một dòng. Không món thiếu nào đang nằm trong kho, nên chưa nộp thêm được gì._
 
 **Phòng Súp-de (Boiler Room) — 3 / 3** ✅
 
@@ -118,9 +118,7 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] Cá Đêm (2/3) — Cá mắt to
 - [ ] Cá Đặc Biệt (3/4) — Cá cát
 
-**Két sắt (Vault) — 3 / 4**
-
-- [ ] 25.000g
+**Két sắt (Vault) — 4 / 4** ✅
 
 **Chạn Thức ăn (Pantry) — 1 / 6**
 
@@ -132,11 +130,11 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 **Bảng Tin (Bulletin Board) — 0 / 5**
 
-- [ ] Đầu Bếp (1/6) — **Rau dớn** · Nấm cục · **Anh túc** · Cơm cuộn rong biển · Trứng chiên. ⚠️ Trứng chiên cần **bếp**, mà nhà chưa nâng cấp lần nào
+- [ ] Đầu Bếp (2/6) — Nấm cục · **Anh túc** (chín Hạ 8) · Cơm cuộn rong biển · Trứng chiên. ⚠️ Trứng chiên cần **bếp**, mà nhà chưa nâng cấp lần nào
 - [ ] Nghiên Cứu Thực Địa (3/4) — Vỏ ốc anh vũ (mùa Đông)
 - [ ] Phù Thủy (0/4) — Nhựa sồi · Rượu · Chân thỏ · Lựu
 - [ ] Nhuộm (3/6) — Hướng dương · Lông vịt · Bắp cải đỏ
-- [ ] Thức ăn Chăn Nuôi (0/3) — 10 Lúa mì · 10 Rơm rạ (Kho chứa Cỏ đang có 42) · 3 Táo
+- [ ] Thức ăn Chăn Nuôi (1/3) — 10 Lúa mì (chín Hạ 5) · 3 Táo
 
 **Siêu thị Bỏ hoang — Mất Tích (0/5 trong 6)** — Rượu phẩm Bạc · Sốt Mayonnaise khủng long · Mảnh tán sắc · 5 Trái cổ đại phẩm Vàng · Cá hồi hư không phẩm Vàng · Ca-vi-a
 
@@ -144,12 +142,12 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 ## ❤️ Haley
 
-> _Save này theo **Haley**. Chọn câu nào, điều kiện nổ ra ở [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Đối chiếu **Quicksave Hạ 2, Năm 1**: **1.761 điểm = 7 tim**, sự kiện đã xem 11 · 12 · 13._
+> _Save này theo **Haley**. Chọn câu nào, điều kiện nổ ra ở [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Đối chiếu **Quicksave Hạ 4, Năm 1**: **1.779 điểm = 7 tim**, sự kiện đã xem 11 · 12 · 13._
 
 - [x] **2 tim** (ID 11) — dọn nhà, Haley cãi Emily
 - [x] **4 tim** (ID 12) — mở nắp lọ
 - [x] **6 tim** (ID 13) — vòng tay ở Bãi biển · Xuân 28 Năm 1
-- [ ] **8 tim** (ID 14) — Rừng Cindersap, ngày nắng · cần **2.000 điểm** (còn thiếu 239)
+- [ ] **8 tim** (ID 14) — Rừng Cindersap, ngày nắng · cần **2.000 điểm** (còn thiếu 221, **Trà sao sa** +250 ở Hạ 5 là đủ)
 - [ ] 💐 Tặng **Bó hoa** (200g ở tiệm Pierre) — ngay khi đủ 8 tim
 - [ ] **10 tim** (ID 15) — phòng tối, sau Bó hoa
 - [ ] 💍 **Dây chuyền tiên cá** — 10 tim + nhà đã nâng cấp
