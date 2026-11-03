@@ -107,18 +107,18 @@ Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42�
 
 ### 🎣 Hàng rương cá
 
-Mỗi rương mùa giữ đủ các loài cắn được trong mùa đó, câu lúc nào cũng được (quy ước ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]]). Hàng y = 7, từ trái sang, theo **Quicksave Hạ 3** (08:23 giờ máy ngày 30/10):
+Mỗi rương mùa giữ đủ các loài cắn được trong mùa đó, câu lúc nào cũng được (quy ước ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]]). Hàng y = 7, từ trái sang, theo **Quicksave Hạ 3** (Hạ 4, 07:13 giờ máy ngày 02/11):
 
 | Ô | Tên rương | Màu | Đang có |
 |---|---|---|---|
 | (47, 7) | `Bẫy Cua` | <span style="color:#00AAAA">■</span> ô 3 · Xanh mòng két | 9/10, thiếu Tôm hùm |
 | (48, 7) | — trống | | |
-| (49, 7) | `Cá Mùa Đông` | <span style="color:#00EAAF">■</span> ô 4 · Xanh ngọc | 8/32 |
-| (50, 7) | `Cá Mùa Thu` | <span style="color:#AC00C6">■</span> ô 14 · Tím hồng | 5/30 |
-| (51, 7) | `Cá Mùa Hè` | <span style="color:#FFEA12">■</span> ô 7 · Vàng | 17/31 |
+| (49, 7) | `Cá Mùa Đông` | <span style="color:#00EAAF">■</span> ô 4 · Xanh ngọc | 12/32 |
+| (50, 7) | `Cá Mùa Thu` | <span style="color:#AC00C6">■</span> ô 14 · Tím hồng | 8/30 |
+| (51, 7) | `Cá Mùa Hè` | <span style="color:#FFEA12">■</span> ô 7 · Vàng | 20/31 |
 | (52, 7) | `Cá Mùa Xuân` | <span style="color:#FFADC7">■</span> ô 12 · Hồng nhạt | 21/25 |
 
-Rương sưu tập `Cá` (55, 16) — Rương lớn, mỗi loài 1 con, đủ bộ 71 loài kể cả Bẫy cua theo [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|danh sách đủ bộ]]: **19/71**. Còn thiếu con nào, câu mấy con: bảng [[Wind - Daily#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]].
+Rương sưu tập `Cá` (55, 16) — Rương lớn, mỗi loài 1 con, đủ bộ 71 loài kể cả Bẫy cua theo [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|danh sách đủ bộ]]: **24/71**. Còn thiếu con nào, câu mấy con: bảng [[Wind - Daily#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]].
 
 **Việc còn lại để xong kho cá:**
 
@@ -132,7 +132,7 @@ Rương sưu tập `Cá` (55, 16) — Rương lớn, mỗi loài 1 con, đủ b�
 
 | Tên rương | Ở đâu | Nối với |
 |---|---|---|
-| `A Lò nung` | Nông trại (76, 13) | Lò nung — giữ Quặng đồng/sắt/vàng + Than đá, trả Thỏi |
+| `A Lò nung` | Nông trại (76, 13) | Lò nung — giữ Quặng đồng/sắt/vàng + Than đá, trả Thỏi · **Máy Sao chép Ngọc** ở (75, 14) đang chép **Kim cương** (Hạ 4), Kim cương làm ra về rương này. **Automate tự nạp ngọc cho máy trống**: Hạ 4 chỉ bỏ Kim cương vào rương, không bấm máy, máy vẫn tự chạy. Vì thế đừng để Thạch anh / Thạch anh lửa ở đây, máy trống sẽ lấy mất |
 | `A Nấm` | Hang nông trại (10, 6) | Hộp nấm trong hang — gom nấm hằng ngày |
 | `A Bẫy Cua Ao` | Nông trại (72, 34) | Bẫy cua ở ao trên farm — giữ Mồi, nhận đồ câu (kể cả rác) |
 | `A Bẫy Cua Biển` | Bãi biển (11, 19) | Bẫy cua ngoài biển |
