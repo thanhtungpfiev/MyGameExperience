@@ -8,7 +8,7 @@
 
 ## 🎣 Câu cá
 
-> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 4**, 06:35 giờ máy ngày 04/11, Năm 1): **47 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
+> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 5**, 07:50 giờ máy ngày 06/11, Năm 1): **50 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
 
 ### 🌸 Xuân — 17 / 17
 
@@ -95,14 +95,14 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 ### 🔒 Khu chưa vào được
 
 - [ ] Cá chép biến dị (Mutant Carp) — Cống ngầm
-- [ ] Cá cát (Sandfish) — Sa mạc, xe buýt chạy từ Hạ 5
-- [ ] Cá chép bò cạp (Scorpion Carp) — Sa mạc, xe buýt chạy từ Hạ 5
+- [x] Cá cát (Sandfish) — Sa mạc, Hạ 5
+- [x] Cá chép bò cạp (Scorpion Carp) — Sa mạc, Hạ 5
 
 ---
 
-## 🏛️ Nhà Văn hóa — 14 / 30 gói
+## 🏛️ Nhà Văn hóa — 15 / 30 gói
 
-> _Đối chiếu **Quicksave Hạ 4**, 06:35 giờ máy ngày 04/11, Năm 1 (`bundles` của CommunityCenter). Chỉ ghi món **còn thiếu**; gói đã xong chỉ một dòng. Không món thiếu nào đang nằm trong kho, nên chưa nộp thêm được gì._
+> _Đối chiếu **Quicksave Hạ 5**, 07:50 giờ máy ngày 06/11, Năm 1 (`bundles` của CommunityCenter). Chỉ ghi món **còn thiếu**; gói đã xong chỉ một dòng._
 
 **Phòng Súp-de (Boiler Room) — 3 / 3** ✅
 
@@ -111,12 +111,11 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] Sản phẩm Hái lượm Mùa Thu (1/4) — Mận dại · Hạt phỉ · Mâm xôi đen
 - [ ] Sản phẩm Hái lượm Mùa Đông (2/4) — Khoai lang tuyết · Nghệ tây
 
-**Bể Cá (Fish Tank) — 2 / 6**
+**Bể Cá (Fish Tank) — 3 / 6**
 
 - [ ] Cá Sông (3/4) — Cá hồi hổ
 - [ ] Cá Biển (3/4) — **Cá hồng** (ngày mưa)
 - [ ] Cá Đêm (2/3) — Cá mắt to
-- [ ] Cá Đặc Biệt (3/4) — Cá cát
 
 **Két sắt (Vault) — 4 / 4** ✅
 
@@ -134,7 +133,7 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] Nghiên Cứu Thực Địa (3/4) — Vỏ ốc anh vũ (mùa Đông)
 - [ ] Phù Thủy (0/4) — Nhựa sồi · Rượu · Chân thỏ · Lựu
 - [ ] Nhuộm (3/6) — Hướng dương · Lông vịt · Bắp cải đỏ
-- [ ] Thức ăn Chăn Nuôi (1/3) — 10 Lúa mì (chín Hạ 5) · 3 Táo
+- [ ] Thức ăn Chăn Nuôi (2/3) — 3 Táo
 
 **Siêu thị Bỏ hoang — Mất Tích (0/5 trong 6)** — Rượu phẩm Bạc · Sốt Mayonnaise khủng long · Mảnh tán sắc · 5 Trái cổ đại phẩm Vàng · Cá hồi hư không phẩm Vàng · Ca-vi-a
 
@@ -142,13 +141,13 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 ## ❤️ Haley
 
-> _Save này theo **Haley**. Chọn câu nào, điều kiện nổ ra ở [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Đối chiếu **Quicksave Hạ 4, Năm 1**: **1.779 điểm = 7 tim**, sự kiện đã xem 11 · 12 · 13._
+> _Save này theo **Haley**. Chọn câu nào, điều kiện nổ ra ở [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Đối chiếu **Quicksave Hạ 5, Năm 1**: **2.074 điểm = 8 tim, đang hẹn hò**, sự kiện đã xem 11 · 12 · 13 · 14._
 
 - [x] **2 tim** (ID 11) — dọn nhà, Haley cãi Emily
 - [x] **4 tim** (ID 12) — mở nắp lọ
 - [x] **6 tim** (ID 13) — vòng tay ở Bãi biển · Xuân 28 Năm 1
-- [ ] **8 tim** (ID 14) — Rừng Cindersap, ngày nắng · cần **2.000 điểm** (còn thiếu 221, **Trà sao sa** +250 ở Hạ 5 là đủ)
-- [ ] 💐 Tặng **Bó hoa** (200g ở tiệm Pierre) — ngay khi đủ 8 tim
+- [x] **8 tim** (ID 14) — Rừng Cindersap · Hạ 5 Năm 1
+- [x] 💐 Tặng **Bó hoa** — Hạ 5 Năm 1
 - [ ] **10 tim** (ID 15) — phòng tối, sau Bó hoa
 - [ ] 💍 **Dây chuyền tiên cá** — 10 tim + nhà đã nâng cấp
 
@@ -168,10 +167,10 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] **Đêm Đông 24 — Sữa / Bánh quy lên bàn → Chiếc hộp bí ẩn** · lặp mỗi năm
 - [x] **Ngày 28, 12:00 — Junimo Nhồi bông** · 1 lần/save — nhận **Xuân 28 Năm 1** _(Quicksave Xuân 28: có cờ `junimoPlush`)_
 
-### ⭐ Sao sa — 0 / 7
+### ⭐ Sao sa — 1 / 7
 
 - [ ] Hội chợ Stardew Valley (Thu 16) — 2.000 Star Token
-- [ ] Hầm Mỏ tầng 100
+- [x] Hầm Mỏ tầng 100
 - [ ] Vợ/chồng hoặc bạn cùng nhà — 12,5 tim
 - [ ] Krobus — 20.000g
 - [ ] Tượng Old Master Cannoli — Sweet Gem Berry
@@ -212,7 +211,7 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] Phao cứu sinh — phòng sau tiệm Willy
 - [ ] 'Phong cảnh' — ao ngoài Suối nước nóng
 - [ ] Giỏ cây treo tường — ao Khu rừng Bí mật
-- [ ] Đề-can Kim tự tháp — Sa mạc Calico
+- [x] Đề-can Kim tự tháp — Sa mạc Calico, Hạ 5
 - [ ] 'Con Thuyền' — _chỉ Nông trại Bãi biển, save này không có_
 - [ ] Đảo Ginger — Biểu đồ thảm thực vật · Tượng Sóc · Mũ Ếch · Tượng Ếch Sành ăn · 'Vật lý 101'
 - [ ] Tượng Krobus Iridium — Rừng Cindersap, cần Câu cá cấp 15
