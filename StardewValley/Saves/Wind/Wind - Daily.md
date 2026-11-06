@@ -12,7 +12,9 @@
 
 > _Save này chơi với cheat. Hai giới hạn mà mùa Xuân Năm 1 bên dưới lấy làm trục — **"đừng dọn quá sức"** và **"về tới nhà đã 22:00 là mất cả ngày"** — **không còn đúng từ Ngày 24**._
 
-**8 cheat đang bật** (đọc từ bảng `config.json` ở [[Mods#CJB Cheats Menu 1.42.0|Mods — CJB Cheats Menu]]; mọi thứ không có trong bảng đó đều tắt): `InfiniteStamina` · `InfiniteHealth` · `FreezeTime` · `FreezeTimeInside` · `FreezeTimeCaves` · `InstantBite` · `ThrowBobberMax` · `DurableTackles`.
+**6 cheat luôn bật:** `InfiniteStamina` · `InfiniteHealth` · `FreezeTimeInside` · `InstantBite` · `ThrowBobberMax` · `DurableTackles`.
+
+**3 cheat bật khi cần, không cần thì tắt:** `FreezeTime` · `FreezeTimeCaves` · `InstantCatch`. Lập kế hoạch không giả định chúng đang bật hay tắt; cần biết lúc đó thế nào thì đọc `config.json`. Mọi cheat khác đều tắt. Tác dụng từng cheat ở [[Mods#CJB Cheats Menu 1.42.0|Mods — CJB Cheats Menu]].
 
 **Cheat xoá bỏ:** hết năng lượng giữa ngày · chết trong mỏ/hang · hết giờ trước khi làm xong · phải tính đường đi cho tiết kiệm thời gian · giữ nút canh lực khi quăng cần · phao câu hao mòn.
 
@@ -24,7 +26,7 @@
 | 🍀 **May mắn của ngày** | `MaxDailyLuck` **đang tắt**, `AlwaysTreasure` cũng **tắt** → tỉ lệ thang trong mỏ, rương kho báu khi câu, một số loài cá vẫn tuỳ ngày |
 | 🌦️ **Thời tiết** | Cheat _"đặt thời tiết ngày mai"_ **đang tắt** → thời tiết vẫn ngẫu nhiên, trừ mấy ngày mưa/nắng cố định theo lịch |
 | 🔨 **Robin mỗi lúc một công trình** | Cheat _"xây nhanh"_ **đang tắt** → vẫn 2–3 ngày mỗi cái, công trình cùng mùa phải xếp nối nhau |
-| 🎣 **Minigame câu cá** | `InstantCatch` **đang tắt** → vẫn phải tự đánh; `InstantBite` + `ThrowBobberMax` chỉ làm mỗi lượt nhanh hơn, không làm chắc ăn hơn |
+| 🎣 **Minigame câu cá** | Khi `InstantCatch` tắt thì vẫn phải tự đánh; `InstantBite` + `ThrowBobberMax` chỉ làm mỗi lượt nhanh hơn, không làm chắc ăn hơn |
 | 🧠 **Sức chịu của chính bạn** | → quota ngay dưới |
 
 > [!important] Quota mỗi ngày — **1 việc chính + tối đa 3 việc phụ**

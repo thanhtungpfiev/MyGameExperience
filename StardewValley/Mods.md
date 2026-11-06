@@ -724,7 +724,7 @@ Trong mỏ, **tô sáng hòn đá đang giấu thang hoặc hố xuống tầng*
 | `NodeTypes` | 19 loại | Đá quý (Topaz → Kim cương, Mystic), 4 loại geode, Cinder Shard, quặng Đồng/Sắt/Vàng/Iridium/Phóng xạ |
 
 > [!tip] Hợp với lối chơi đang dùng
-> Mẹo [[Mẹo#⛏️ Khai khoáng (Mining)|Khai khoáng]] khuyên "tìm thang nhanh bằng cách đập đá và diệt quái" — mod này bỏ hẳn phần đoán mò. Với `FreezeTimeCaves` của [[#CJB Cheats Menu 1.42.0|CJB Cheats]] đang bật thì thời gian trong mỏ vốn đã không trôi, nên lợi chủ yếu là **đỡ công đập đá**, không phải đỡ giờ.
+> Mẹo [[Mẹo#⛏️ Khai khoáng (Mining)|Khai khoáng]] khuyên "tìm thang nhanh bằng cách đập đá và diệt quái" — mod này bỏ hẳn phần đoán mò. Khi bật `FreezeTimeCaves` của [[#CJB Cheats Menu 1.42.0|CJB Cheats]] thì thời gian trong mỏ vốn đã không trôi, nên lợi chủ yếu là **đỡ công đập đá**, không phải đỡ giờ.
 
 > [!info]- Log SMAPI có dòng "Rewrote LadderLocator.dll to fix 32-bit architecture"
 > SMAPI tự vá DLL build kiểu cũ cho chạy trên game 64-bit — thông báo mức TRACE, không phải lỗi. Mod vẫn nạp bình thường trong danh sách "Loaded mods".
@@ -1168,21 +1168,22 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 
 **Nexus** — https://www.nexusmods.com/stardewvalley/mods/4
 
-> [!warning] Đang bật 8 cheat — câu cá còn 3, minigame kéo cá vẫn tự đánh
-> `config.json` hiện tại (mọi thứ không liệt kê ở đây đều **tắt**):
+> [!warning] 6 cheat luôn bật, 3 cheat bật khi cần
+> Mọi thứ không liệt kê ở đây đều **tắt**. Cột "Khi nào" là cách dùng, không phải ảnh chụp `config.json`: muốn biết lúc này ra sao thì đọc file đó.
 >
-> | Cheat | Tác dụng |
-> |---|---|
-> | `InfiniteHealth` | **Vô hạn máu** — không chết |
-> | `InfiniteStamina` | **Vô hạn năng lượng** — không bao giờ kiệt sức, không phải ăn |
-> | `InstantBite` | Cá **cắn câu ngay** khi vừa quăng |
-> | `ThrowBobberMax` | Luôn quăng cần **xa tối đa**, khỏi giữ nút canh lực |
-> | `DurableTackles` | **Phao không hao mòn** |
-> | `FreezeTime` | **Đứng giờ** ở mọi nơi |
-> | `FreezeTimeInside` | **Đứng giờ** trong nhà |
-> | `FreezeTimeCaves` | **Đứng giờ** trong hầm mỏ |
+> | Cheat | Tác dụng | Khi nào |
+> |---|---|---|
+> | `InfiniteHealth` | **Vô hạn máu** — không chết | Luôn bật |
+> | `InfiniteStamina` | **Vô hạn năng lượng** — không bao giờ kiệt sức, không phải ăn | Luôn bật |
+> | `InstantBite` | Cá **cắn câu ngay** khi vừa quăng | Luôn bật |
+> | `ThrowBobberMax` | Luôn quăng cần **xa tối đa**, khỏi giữ nút canh lực | Luôn bật |
+> | `DurableTackles` | **Phao không hao mòn** | Luôn bật |
+> | `FreezeTimeInside` | **Đứng giờ** trong nhà | Luôn bật |
+> | `FreezeTime` | **Đứng giờ** ở mọi nơi | Khi cần |
+> | `FreezeTimeCaves` | **Đứng giờ** trong hầm mỏ | Khi cần |
+> | `InstantCatch` | Cá cắn là **dính luôn**, bỏ qua minigame | Khi cần |
 >
-> Câu cá còn **cắn ngay + quăng xa + phao bền** — `InstantCatch` và `AlwaysTreasure` vẫn **tắt**. Nghĩa là: vẫn phải **tự đánh minigame**, rương báu vật lại tuỳ may rủi; phao thì gắn một lần dùng mãi, chỉ **mồi** là còn tiêu hao. Chọn phao/mồi hợp với cấu hình này xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]].
+> Câu cá luôn có **cắn ngay + quăng xa + phao bền**. Khi `InstantCatch` tắt thì phải **tự đánh minigame**. `AlwaysTreasure` **tắt** nên rương báu vật tuỳ may rủi; phao thì gắn một lần dùng mãi, chỉ **mồi** là còn tiêu hao. Chọn phao/mồi hợp với cấu hình này xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]].
 >
 > Đóng băng chỉ **giữ đồng hồ đứng yên** (đặt lại bộ đếm 10 phút mỗi khung hình), không chặn được chỗ game **gán thẳng giờ**: rời lễ hội vẫn nhảy tới 22:00. Chỉnh giờ ở tab **Thời gian** thì mod cho đồng hồ chạy qua từng nấc 10 phút, nên sự kiện theo giờ vẫn kích hoạt đúng.
 
@@ -1215,7 +1216,7 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 > Farmhand **không** đổi được thời gian. Tác giả ghi **không có xung đột mod nào đã biết**.
 
 > [!warning] Ảnh trên là ảnh Nexus, không phải máy này
-> Ảnh chụp `Infinite Health`, `Increased Movement Speed`, `One Hit Kill`, `Max Daily Luck`, `One Hit Break` đang **bật** — máy này chỉ trùng `Infinite Health`, còn lại đều **tắt**. Lấy bảng "Đang bật 8 cheat" ở trên làm chuẩn.
+> Ảnh chụp `Infinite Health`, `Increased Movement Speed`, `One Hit Kill`, `Max Daily Luck`, `One Hit Break` đang **bật** — máy này chỉ trùng `Infinite Health`, còn lại đều **tắt**. Lấy bảng cheat ở trên làm chuẩn.
 
 > [!success] Mã nguồn mở, có bằng chứng dựng bản
 > Toàn bộ mã công khai, và **mỗi bản phát hành kèm một attestation** — bản ghi không giả mạo được, chứng minh file tải về đúng là dựng từ mã nguồn công khai chứ không bị nhét thêm gì. Hiếm mod nào làm tới mức này.

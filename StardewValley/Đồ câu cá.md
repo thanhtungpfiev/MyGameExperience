@@ -16,7 +16,7 @@ Mấy lá này **báo theo cấp, không theo ngày** — tới **sáng hôm sau
 
 - ⚠️ **Thư chỉ là thông báo hàng về, không phải tặng cần.** Vẫn phải ra Hàng Cá mua bằng tiền mặt.
 - 💸 **Đừng mua vội ở tuần đầu.** 1.800g ≈ **18 hạt Dâu tây** ở Lễ hội Trứng **Ngày 13** ([[Wind - Daily]]) — dâu tây sinh lời cả mùa, cần câu thì mua lúc nào cũng được. Ưu tiên hạt trước, cần sau.
-- ⚙️ **Máy bạn đang bật `InstantBite`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → cá cắn ngay, nên **Mồi (Bait) thường không cần mua** — nó chỉ làm cá cắn nhanh hơn. Nhưng `InstantCatch` đã **tắt**, minigame vẫn phải tự kéo, nên cần xịn vẫn đáng tiền vì **chỗ gắn phao**.
+- ⚙️ **Máy bạn đang bật `InstantBite`** ([[Mods#CJB Cheats Menu 1.42.0|CJB Cheats Menu]]) → cá cắn ngay, nên **Mồi (Bait) thường không cần mua** — nó chỉ làm cá cắn nhanh hơn. Nhưng `InstantCatch` chỉ bật khi cần; lúc tắt thì minigame vẫn phải tự kéo, nên cần xịn vẫn đáng tiền vì **chỗ gắn phao**.
 
 ## 🎣 Các loại cần câu
 

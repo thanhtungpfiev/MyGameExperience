@@ -97,7 +97,7 @@ _Gộp mọi chỗ câu được mùa Xuân, kể cả Hầm Mỏ và khu phải
 > 2. Chế **Bộ bếp cơ động** (Cookout Kit) — 15 Gỗ + 10 Sợi + 3 Than đá, mở ở Hái lượm cấp 3 — đặt xuống là nấu được.
 > 3. Nấu Khoai tây chiên → nấu Suất đồ biền → ăn ngay khi tới hồ.
 >
-> Món mạnh hơn (**Bánh pudding bọt biển**/Seafoam Pudding +4, mở ở Câu cá 9) thì chưa với tới. Săn vào một ngày mưa mùa Xuân — xem TV dự báo mỗi sáng. Độ khó 110 (khó nhất game) và `InstantCatch` đã **tắt** — phải tự kéo, nên gắn phao giúp minigame (xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]]).
+> Món mạnh hơn (**Bánh pudding bọt biển**/Seafoam Pudding +4, mở ở Câu cá 9) thì chưa với tới. Săn vào một ngày mưa mùa Xuân — xem TV dự báo mỗi sáng. Độ khó 110 (khó nhất game), khi `InstantCatch` tắt thì phải tự kéo, nên gắn phao giúp minigame (xem [[Mẹo#🎣 Câu cá (Fishing)|Mẹo]]).
 
 ### ⛏️ Hầm Mỏ & khu phải mở khoá
 
