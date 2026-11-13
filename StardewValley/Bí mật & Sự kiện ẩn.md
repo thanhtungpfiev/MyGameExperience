@@ -81,7 +81,7 @@ Không game nào báo bạn có 7 quả này. Mỗi quả **chỉ nhận đượ
   - > [!warning] Mẹo lách luật đặt ghế
     > Đặt ghế 2 bên khúc gỗ rồi ngồi lên để "nhảy" qua — vào được **trước khi có Rìu Thép**. Đây là mẹo có thật trên wiki, nhưng dùng hay không tùy bạn.
 - **Chìa khóa Rỉ sét (Rusty Key) → Cống ngầm (Sewers)**
-  - **Cần:** quyên góp đủ **60 món** cho Bảo tàng → sáng hôm sau Gunther tới tận nhà đưa chìa.
+  - **Cần:** quyên góp đủ **60 món** cho Bảo tàng, rồi từ sáng hôm sau bước ra nông trại trong **06:00–07:00**: Gunther đứng trước nhà đưa chìa. Lỡ giờ thì sáng sau ra sớm lại (event 66 `e 295672/t 600 700`, `Data/Events/Farm`, game 1.6.15).
   - **Mở ra:** Cống ngầm — nơi có **Krobus** (bán Sao sa 20.000g) và các món hiếm.
 - **Hiểu biết của Gấu (Bear's Knowledge)** — _cần Ghi chú bí mật #23_
   - Mang **Nhựa phong (Maple Syrup)** vào Khu rừng Bí mật, **6:00–19:00** → gặp gấu.
