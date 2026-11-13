@@ -107,19 +107,19 @@ Lối dậm bước hình chữ thập ở x = 47 (y 22–41) và y = 31 (x 42�
 
 ### 🎣 Hàng rương cá
 
-Mỗi rương mùa giữ đủ các loài cắn được trong mùa đó, câu lúc nào cũng được (quy ước ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]]). Hàng y = 7, từ trái sang, theo **Quicksave Hạ 5** (07:50 giờ máy ngày 06/11):
+Mỗi rương mùa giữ đủ các loài cắn được trong mùa đó, câu lúc nào cũng được, gồm cả cá huyền thoại của mùa: **Cá huyền thoại** ở Xuân · **Cá Phi Hồng** ở Hè · **Cá lồng đèn** ở Thu · **Cá Băng hà** ở Đông (quy ước ở [[Quy hoạch nông trại#📦 Kho & rương — bảng màu và cách đặt tên|Quy hoạch nông trại]]). Hàng y = 7, từ trái sang, theo **Quicksave Hạ 5** (07:50 giờ máy ngày 06/11):
 
 | Ô | Tên rương | Màu | Đang có |
 |---|---|---|---|
 | (46, 7) | `Trứng Cá` | <span style="color:#FF0000">■</span> ô 10 · Đỏ | 22 loại, 22/36 ô |
-| (47, 7) | `Bẫy Cua` | <span style="color:#00AAAA">■</span> ô 3 · Xanh mòng két | 9/10, Tôm hùm đang ở `A Bẫy Cua Biển` · thêm tảo, rong, thạch, San hô, Nhím biển: 18/36 ô |
+| (47, 7) | `Bẫy Cua` | <span style="color:#00AAAA">■</span> ô 3 · Xanh mòng két | 10/10 theo Quicksave Hạ 7, đã có Tôm hùm · thêm tảo, rong, thạch, San hô, Nhím biển: 18/36 ô |
 | (48, 7) | — trống | | |
-| (49, 7) | `Cá Mùa Đông` | <span style="color:#00EAAF">■</span> ô 4 · Xanh ngọc | 17/32 |
-| (50, 7) | `Cá Mùa Thu` | <span style="color:#AC00C6">■</span> ô 14 · Tím hồng | 13/30 |
-| (51, 7) | `Cá Mùa Hè` | <span style="color:#FFEA12">■</span> ô 7 · Vàng | 25/31 |
-| (52, 7) | `Cá Mùa Xuân` | <span style="color:#FFADC7">■</span> ô 12 · Hồng nhạt | 23/25 |
+| (49, 7) | `Cá Mùa Đông` | <span style="color:#00EAAF">■</span> ô 4 · Xanh ngọc | 17/31 |
+| (50, 7) | `Cá Mùa Thu` | <span style="color:#AC00C6">■</span> ô 14 · Tím hồng | 14/29 |
+| (51, 7) | `Cá Mùa Hè` | <span style="color:#FFEA12">■</span> ô 7 · Vàng | 27/30 |
+| (52, 7) | `Cá Mùa Xuân` | <span style="color:#FFADC7">■</span> ô 12 · Hồng nhạt | 23/24 |
 
-Rương sưu tập `Cá` (55, 16) — rương thường 36 ô, mỗi loài 1 con, đủ bộ 71 loài kể cả Bẫy cua theo [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|danh sách đủ bộ]]: **30/71**, nên phải nâng lên Rương lớn (70 ô) trước khi đầy, và 70 ô vẫn thiếu 1 ô cho đủ 71 loài. Còn thiếu con nào, câu mấy con: bảng [[Wind - Daily#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]].
+Rương sưu tập `Cá` (55, 16) — **Rương lớn** 70 ô, mỗi loài 1 con, đủ bộ **67 loài** kể cả Bẫy cua theo [[Câu cá theo mùa#📦 Đủ bộ các loài — rương Cá|danh sách đủ bộ]], tức 71 loài trừ 4 cá huyền thoại theo mùa. **Cá chép biến dị** không theo mùa nên vẫn ở đây. **36/67** theo Quicksave Hạ 6 21:50, đã nâng lên Rương lớn, 70 ô là đủ chỗ. Còn thiếu con nào, câu mấy con: bảng [[Wind - Daily#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]].
 
 **Việc còn lại để xong kho cá:**
 
