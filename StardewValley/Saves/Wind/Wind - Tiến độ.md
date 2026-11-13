@@ -8,7 +8,7 @@
 
 ## 🎣 Câu cá
 
-> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 5**, 07:50 giờ máy ngày 06/11, Năm 1): **50 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
+> _Đối chiếu với save **Wind** (mục `fishCaught`, **Quicksave Hạ 6**, 08:22 giờ máy ngày 13/11, Năm 1): **51 mục** đã câu — cập nhật lại khi câu thêm. Chỗ, giờ, thời tiết từng con ở [[Câu cá theo mùa]]._
 
 ### 🌸 Xuân — 17 / 17
 
@@ -59,7 +59,7 @@ _Chỉ tính cá **mới có từ mùa Hạ**; cá quanh năm và cá Xuân còn
 - [x] Bạch tuộc (Octopus)
 - [ ] Cá hồng (Red Snapper) 🧩 — chỉ khi mưa
 - [x] Siêu Hải sâm (Super Cucumber)
-- [ ] **Cá Phi Hồng (Crimsonfish)** — cá huyền thoại, 1 con/save, kế hoạch ở [[Wind - Daily#☀️ Ngày 7 (Chủ Nhật) — 🌊 chuyến Bãi biển · 📺 công thức mới · 🛒 Xe hàng rong|Daily — Hạ 7]]
+- [x] **Cá Phi Hồng (Crimsonfish)** — cá huyền thoại, 1 con/save, câu được Hạ 6 phẩm Vàng, cất ở `Cá Mùa Hè`
 
 **🏞️ Sông:**
 
@@ -121,7 +121,7 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 **Chạn Thức ăn (Pantry) — 1 / 6**
 
-- [ ] Nông sản Mùa Hè (0/4) — Cà chua · Ớt hiểm · Trái việt quất · Dưa: đã gieo đủ, chờ chín
+- [ ] Nông sản Mùa Hè (1/4, Quicksave Hạ 6) — Cà chua · Trái việt quất · Dưa: đã gieo đủ, chờ chín
 - [ ] Nông sản Chất lượng cao (0/3 trong 4) — 5 Cải vàng · **5 Dưa** · 5 Bí ngô · 5 Ngô, phẩm Vàng
 - [ ] Nông sản Mùa Thu (0/4) — Ngô · Cà Tím · Bí ngô · Khoai lang
 - [ ] Động vật (0/5 trong 6) — Sữa lớn · Trứng lớn (nâu) · Trứng lớn (trắng) · Sữa dê lớn · Len · Trứng vịt
@@ -135,13 +135,13 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] Nhuộm (3/6) — Hướng dương · Lông vịt · Bắp cải đỏ
 - [ ] Thức ăn Chăn Nuôi (2/3) — 3 Táo
 
-**Siêu thị Bỏ hoang — Mất Tích (0/5 trong 6)** — Rượu phẩm Bạc · Sốt Mayonnaise khủng long · Mảnh tán sắc · 5 Trái cổ đại phẩm Vàng · Cá hồi hư không phẩm Vàng · Ca-vi-a
+**Siêu thị Bỏ hoang — Mất Tích (0/5 trong 6)** — Rượu phẩm Bạc · Sốt Mayonnaise khủng long · Mảnh tán sắc (đang có 1 ở `Cổ Vật, Sách`, giữ cho gói này, không quyên góp) · 5 Trái cổ đại phẩm Vàng · Cá hồi hư không phẩm Vàng · Ca-vi-a
 
 ---
 
 ## ❤️ Haley
 
-> _Save này theo **Haley**. Chọn câu nào, điều kiện nổ ra ở [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Đối chiếu **Quicksave Hạ 5, Năm 1**: **2.074 điểm = 8 tim, đang hẹn hò**, sự kiện đã xem 11 · 12 · 13 · 14._
+> _Save này theo **Haley**. Chọn câu nào, điều kiện nổ ra ở [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Đối chiếu **save sáng Hạ 7, Năm 1**: **2.104 điểm = 8 tim, đang hẹn hò**, sự kiện đã xem 11 · 12 · 13 · 14. Cảnh 10 tim cần **2.500 điểm**, còn thiếu **396**._
 
 - [x] **2 tim** (ID 11) — dọn nhà, Haley cãi Emily
 - [x] **4 tim** (ID 12) — mở nắp lọ
@@ -175,12 +175,12 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] Krobus — 20.000g
 - [ ] Tượng Old Master Cannoli — Sweet Gem Berry
 - [ ] Willy — Master Angler
-- [ ] Bảo tàng — 95 món
+- [ ] Bảo tàng — 95 món (67/95, Quicksave Hạ 6)
 
 ### 🗝️ Khu vực ẩn & chìa khóa
 
 - [ ] Khu rừng Bí mật (Secret Woods)
-- [ ] Chìa khóa Rỉ sét (Rusty Key) → Cống ngầm
+- [x] Chìa khóa Rỉ sét (Rusty Key) → Cống ngầm — đã có (cờ `HasRustyKey`, Quicksave Hạ 6)
 - [ ] Hiểu biết của Gấu (Bear's Knowledge)
 
 ### 📦 Hộp bí ẩn — 3 tượng "???"
