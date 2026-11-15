@@ -536,18 +536,25 @@ _Chốt từ **Quicksave Hạ 7**, ghi lúc 07:53 giờ máy ngày 15/11, 22:00 
 
 ### ☀️ Ngày 8 (Thứ Hai) — 🎂 Sinh nhật Gus · 🌺 Anh túc chín · 🌋 Lươn dung nham
 
-**📝 Dự kiến:**
-- [ ] 🎣 **Chính · Hầm Mỏ tầng 100:** **Lươn dung nham ×5**: 4 con cho `Cá Mùa Xuân` · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá`, 1 con bỏ vào **Máy Làm Mồi Câu** lấy Mồi riêng loài. Cách tăng tỉ lệ cắn xem [[Câu cá theo mùa#⛏️ Hầm Mỏ|Câu cá theo mùa]]. Xong thì phần cá mùa Hạ còn lại đều chờ mưa, xem [[#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]]
+**📋 Thực tế** _(Quicksave Hạ 8, 06:00 trong game, lưu 08:07 giờ máy ngày 15/11)_: ☀️ nắng · mai ☀️ nắng · 💀 **may thấp** (`dailyLuck` −0,065, sát ngưỡng rất xui −0,07) · ví **18.249g** (+11.187g tiền thùng ship, sát mức ước 10.800g), **chưa mở thư** nên 10.000g của Kỳ TS chưa vào ví · hộp thư: **Hoàn thành Thử thách của Kỳ TS**, thư công thức của George và Emily · **Chuồng Gia súc** còn 1 ngày · **Rìu Vàng** còn 1 ngày, lấy Hạ 9 · Haley **2.224 điểm**, đang hẹn hò, quà tuần 1/2 · 58 ô chưa tưới · có 8 **Cà rốt hang**.
+
+**📌 Quest:** **Giao hàng: Sandy**, mang 1 **Cà rốt hang** (Cave Carrot), còn **2 ngày**, thưởng 75g. Sandy ở **Sa mạc Calico**, vé xe buýt 500g, nên không đáng đi riêng một chuyến. Bỏ quest này, trừ khi hôm nay hay mai đằng nào bạn cũng ra Sa mạc. **"Quần đùi" của Thị trưởng** không có hạn.
+
+**🌦️ Nhánh:** ☀️ Nắng × 💀 May thấp → [[#💀 May thấp|xây, nộp gói, quyên góp, tặng quà, chế máy]]. Việc chính đổi từ **Lươn dung nham** (săn cá, kết quả ngẫu nhiên, đúng loại việc [[#💀 May thấp|may thấp]] dặn đừng làm) sang **vòng nộp và tặng**, vốn đã có sẵn một loạt việc kết quả cố định.
+
+**✅ Việc hôm nay** (1 chính + 3 phụ, thu hoạch và tưới là routine)
+- [ ] 📬 **Mở thư Hoàn thành Thử thách của Kỳ TS** trước tiên → ví **≈28.249g**. Đủ để **Nâng cấp nhà** dời lên **Hạ 10** ([[#🏗️ Lịch xây và mua thú|Lịch xây]]), nên giữ từ **13.500g** trở lên
+- [ ] 🏛️ **Chính · vòng nộp và tặng:** Bảo tàng, Nhà Văn hóa, Gus, theo ba dòng ngay dưới
 - [ ] 🌺 Thu **Anh túc** ở (12, 27), nộp gói **Đầu Bếp** → 3/6. Ô trống gieo **Hạt cà phê**, chín Hạ 18
 - [ ] 🎂 Tặng **Kim cương** cho **Gus**: món Gus thích nhất, đang có 8 viên ở `Khoáng Sản`
 - [ ] 🥚 Nộp 2 **Trứng lớn** (1 trắng, 1 nâu) ở rương `Động Vật` → gói **Động vật** 2/5
 - [ ] 🏛️ **Bảo tàng** (đang có 67 món): quyên góp **Cổ vật hoàng kim** (Golden Relic) · **Xương ống tiền sử** (Prehistoric Tibia) ở rương `Cổ Vật, Sách` · **Hắc diện thạch** (Obsidian) ở `Khoáng Sản` → **70 món**. **Mảnh tán sắc** (Prismatic Shard) thì **giữ lại**: chỉ có 1 viên, mà gói **Mất Tích** cũng cần nó. Có viên thứ hai thì mới đem quyên góp. Ở Hầm Mỏ tầng 100 được khoáng hay Hốc tinh mới thì để dành, rồi đối chiếu lại
-- [ ] 📬 Mở thư **Hoàn thành Thử thách của Kỳ TS** → **+10.000g**. Cộng tiền thùng ship đêm Hạ 7, ví lên khoảng **27.900g**, nên **Nâng cấp nhà** dời lên **Hạ 10**, xem [[#🏗️ Lịch xây và mua thú|Lịch xây]]. **Đừng tiêu khoản này**
 - [ ] 🫐 Pierre: mua 1 **Hạt việt quất**, gieo ô **(39, 26)** (chín Hạ 21 · 25), ô ngoài vùng vòi nên phải tưới tay
 - [ ] 🪝 **Máy Làm Mồi Câu:** nhặt **1 San hô** ở **Vũng thủy triều** (Bãi biển, phía đông), rồi chế: 3 Thỏi sắt + 3 San hô + 1 Nhím biển. Đặt máy **không chạm rương nào**, vì Automate sẽ lấy cá trong rương làm mồi. Không có San hô thì chờ `Bẫy Cua`
 - 🪵 **Gỗ:** ⚠️ **Rìu đang ở chỗ Clint nên hôm nay không chặt được.** Bỏ ngày chặt, vẫn **gieo 2 cây** ở **khu A**: (74, 76) · (76, 76). Ba cây (88, 71) · (95, 77) · Bến Xe (32, 13) chặt bù **Hạ 9** khi đã lấy Rìu
-- 💀 **Hang Đầu lâu:** không đi hôm nay, việc chính là Hầm Mỏ tầng 100. Xem [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|lịch đi theo ngày may cao]]
-- 💧 Nắng thì tưới 57 ô dải
+- 💀 **Hang Đầu lâu:** không đi, hôm nay may thấp. Xem [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|lịch đi theo ngày may cao]]
+- 💧 Routine: tưới **58 ô** đang khô (57 ô dải và 1 ô lẻ), cộng ô (39, 26) sau khi gieo
+- ⏭️ **Lươn dung nham ×5** ở Hầm Mỏ tầng 100 (4 con cho `Cá Mùa Xuân` · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá`, 1 con cho Máy Làm Mồi Câu) dời sang **ngày may cao kế tiếp**. Hạ 9, Hạ 10 đã kín việc. Cách tăng tỉ lệ cắn xem [[Câu cá theo mùa#⛏️ Hầm Mỏ|Câu cá theo mùa]]
 - 📅 **Marnie** nghỉ Hạ 8 và Hạ 9, nên Bò Sữa vẫn mua Hạ 10 như lịch
 
 ---
