@@ -89,7 +89,7 @@
 >
 > **Cần câu đã xong** — save đã có **Cần câu Iridium** (đủ chỗ mồi và phao), khỏi tính.
 >
-> **Hiện trạng (Quicksave Hạ 6):** Rìu **Thép** · Cuốc chim **Thép** · Bình tưới **Thép** · Cuốc **Thép** · Cần câu **Iridium**. Trên nông trại chưa có thiên thạch nên **Cuốc chim Vàng** chưa gấp. Ngày gửi từng món: [[#🔧 Lịch nâng công cụ|Lịch nâng công cụ]].
+> **Hiện trạng (Quicksave Hạ 7, 11:20):** Rìu **đang lên Vàng ở Clint** (gửi Hạ 7, lấy Hạ 9) · Cuốc chim **Thép** · Bình tưới **Thép** · Cuốc **Thép** · Cần câu **Iridium**. Trên nông trại chưa có thiên thạch nên **Cuốc chim Vàng** chưa gấp. Ngày gửi từng món: [[#🔧 Lịch nâng công cụ|Lịch nâng công cụ]].
 >
 > **Túi đồ không phải việc của Clint mà của Pierre**, và nó là giới hạn cheat không chạm tới: 24 ô **2.000g**, 36 ô **10.000g**. Save đã có **36 ô** (mua Xuân 28), là nấc cuối.
 >
@@ -505,7 +505,7 @@ _Chốt từ **Quicksave Hạ 5**, ghi lúc 07:50 giờ máy ngày 06/11, 24:40 
 
 _Chốt từ **Quicksave Hạ 6**, ghi lúc 08:22 giờ máy ngày 13/11, 21:50 trong game._
 
-- [x] 💀 **Hang Đầu lâu** tới **tầng 5**, được 2 **Quặng iridium** (23 ở `Tài Nguyên`). Từ Hạ 7 theo [[#💀 Hang Đầu lâu mỗi ngày|nhịp 5 tầng]]
+- [x] 💀 **Hang Đầu lâu** tới **tầng 5**, được 2 **Quặng iridium** (23 ở `Tài Nguyên`). Từ Hạ 7 theo [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|lịch đi theo ngày may cao]]
 - [x] 🏛️ Quyên góp 16 món → Bảo tàng **67 món**, qua mốc 60: **Ghế Pha lê** (Crystal Chair) ở rương (56, 14) · có **Chìa khóa Rỉ sét**, **Cống ngầm** đã mở
 - [x] 🪨 **Clint** mở nốt 22 **Hốc tinh Băng**, 550g
 - [x] 🏗️ Đặt **Chuồng Gia súc** ở (56, 22), xong sáng **Hạ 9**, không phải mua Gỗ. Lịch cả mùa: [[#🏗️ Lịch xây và mua thú|Lịch xây và mua thú]]
@@ -520,25 +520,17 @@ _Chốt từ **Quicksave Hạ 6**, ghi lúc 08:22 giờ máy ngày 13/11, 21:50 
 
 ### ☀️ Ngày 7 (Chủ Nhật) — 🪝 Máy Làm Mồi Câu · 🧪 Cá chép biến dị · 📺 công thức mới · 🛒 Xe hàng rong
 
-**📋 Thực tế** _(save ngủ dậy Hạ 7, lưu 08:43 giờ máy ngày 13/11)_: ☀️ nắng · mai ☀️ nắng · 🍀 **may cao** (`dailyLuck` +0,038) · ví **18.512g** (+14.398g so với Quicksave 21:50 Hạ 6, tiền thùng ship và cá, chưa đối chiếu từng món) · Haley **2.104 điểm**, quà tuần mới còn 2 · **Chuồng Gia súc** còn 2 ngày, xong sáng Hạ 9 · Rìu, Cuốc chim, Bình tưới, Cuốc đều **Thép**, Cần câu **Iridium**, không có gì ở chỗ Clint · hộp thư có thư `skullCave` · **Quặng iridium** 23 ở `Tài Nguyên`.
+_Chốt từ **Quicksave Hạ 7**, ghi lúc 07:53 giờ máy ngày 15/11, 22:00 trong game._
 
-_Cập nhật theo **Quicksave Hạ 7, 09:10 trong game**, lưu 09:14 giờ máy ngày 13/11: đang ở **Tiệm cá của Willy**, ví **17.587g**, Hang Đầu lâu vẫn sâu nhất tầng 5, Haley vẫn 2.104 điểm và **chưa tặng quà**. Chưa có Cá chép biến dị, chưa chế Máy Làm Mồi Câu, đang cầm 5 Mồi._
-
-**📌 Quest:** không có quest hết hạn. **"Quần đùi" của Thị trưởng** không có hạn.
-
-**🌦️ Nhánh:** ☀️ Nắng × 🍀 May cao → [[#🍀 May cao|mỏ sâu, cá hiếm, rương kho báu]]. Việc chính đổi sang **Hang Đầu lâu** (kết quả ngẫu nhiên), Máy Làm Mồi Câu thành việc phụ.
-
-**✅ Việc hôm nay** (1 chính + 3 phụ, thu hoạch và tưới là routine)
-- [ ] 💀 **Chính · Hang Đầu lâu:** xuống tới **tầng 10**, vé 500g, xem [[#💀 Hang Đầu lâu mỗi ngày|nhịp 5 tầng]]. Ngày may cao nên đập hết đá ra thang
-- [ ] 🪝 **Chế Máy Làm Mồi Câu:** nhặt thêm **1 San hô** ở **Vũng thủy triều** (Bãi biển, phía đông) → đủ 3, rồi chế **Máy Làm Mồi Câu**: 3 Thỏi sắt + 3 San hô + 1 Nhím biển (San hô, Nhím biển ở `Bẫy Cua`, Thỏi sắt ở `A Lò nung`). Đặt máy **không chạm rương nào**, vì Automate sẽ lấy cá trong rương đem làm mồi
-- [ ] 🎣 **Cống ngầm:** câu **Cá chép biến dị** (Vàng là đủ, 1 con/save, vào `Cá`). Đã có Chìa khóa Rỉ sét và `Cá` đã là Rương lớn nên làm được ngay. Nắp cống ở phía dưới bên trái Thị trấn
-- [x] 🥒 Routine: thu **6 Bí ngòi** · **2 Củ cải** · **Hạt cà phê** ở (70, 27) · **tưới tay 57 ô dải** (save báo đang khô). Bí ngòi tự ra lứa mới sau 3 ngày (Hạ 10), không phải gieo lại. Hai ô Củ cải (10, 27) · (15, 27) gieo **Hạt cà phê** (có 9 ở `Hạt Giống, Phân Bón`), chín Hạ 17
-- [x] 🛒 Xe hàng rong: đã mua 1 **Hạt giống hiếm** → 10 hạt · ⚠️ ô (39, 26) **vẫn trống**, chưa gieo: có hạt **Bắp cải đỏ** thì gieo, không có thì gieo **Hạt việt quất** (chín Hạ 20 · 24 · 28). Ô này ngoài vùng vòi, nắng phải tưới tay
-- [x] 📺 Xem **Nữ hoàng Nước sốt**: **Cá nướng** (nhà chưa có bếp, nhưng học trước được)
-- [x] 🔥 Đã chuyển **23 Quặng iridium** sang `A Lò nung` (76, 13), 3 viên lẻ còn trong rương → 4 **Thỏi Iridium** đang nung · 📦 **Tôm hùm** đã cất vào `Bẫy Cua` → **10/10**
-- [x] 🪵 **Gỗ:** đã chặt 3 cây, Gỗ **100 → 172** · đã gieo 2 cây ở **khu A** (80, 74) · (82, 74), còn **15 Phân bón cây**, xem [[#🪵 Gỗ và trồng cây ở Rừng Cindersap|Gỗ và trồng cây]]
-- 🎁 Tuần quà mới bắt đầu: Haley trước (còn thiếu 396 điểm tới **cảnh 10 tim**, cần đang hẹn hò, xem [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]), rồi các nhà khác
-- 🏗️ **Robin** đi xây tới hết Hạ 8, Hạ 9 là Thứ Ba đóng cửa, nên tới Hạ 10 mới mua được Gỗ
+- [x] 💀 **Hang Đầu lâu** nhảy hố tới **tầng 32** (save ghi tầng sâu nhất 152 = 120 + 32) → qua mốc 25 của **Thử thách của Kỳ TS**, **mai có thư kèm 10.000g**
+- [x] 🎣 **Cá chép biến dị** → `Cá` · **Tôm hùm** → `Bẫy Cua` **10/10**
+- [x] 🔥 Quặng iridium sang `A Lò nung`: đã có **5 Thỏi Iridium** (1 đang nung) + 2 quặng lẻ
+- [x] 🪓 Gửi **Rìu** lên Vàng ở Clint, lấy sáng **Hạ 9**
+- [x] 🥒 Thu 6 Bí ngòi (lứa mới Hạ 10) · 2 Củ cải, gieo **Hạt cà phê** vào (10, 27) · (15, 27), chín Hạ 17 · tưới xong, save báo **271/271 ô ướt**
+- [x] 🛒 Mua 1 **Hạt giống hiếm** → **10 hạt**, mốc tối thiểu cho Thu · 📺 học **Cá nướng**
+- [x] 🪵 Chặt 3 cây, gieo 2 cây ở khu A (80, 74) · (82, 74) · còn 15 **Phân bón cây**
+- ⏭️ Dời sang Hạ 8: **Máy Làm Mồi Câu** (`Bẫy Cua` mới có **2 San hô**, thiếu 1) · ô **(39, 26)** vẫn trống, Pierre đã đóng cửa, trong kho không có Hạt việt quất
+- Ví **7.062g**, thùng ship có khoảng **10.800g** (chủ yếu cá Iridium: 12 Cá rô phi, 11 Cá phèn, 19 Cá bơn lưỡi ngựa; tính cả nghề **Dân chài** (Fisher) +25% cá, **Thợ cày** (Tiller) +10% nông sản) → sáng Hạ 8 khoảng **17.900g**, cộng 10.000g của Kỳ TS là **≈27.900g**. Haley **2.224 điểm** (thiếu 276 tới cảnh 10 tim), đã nói chuyện và tặng 1 quà · Gỗ **185** trong túi · Đá **687** · **Thỏi vàng 56** (39 ở `Tài Nguyên` + 17 ở `A Lò nung`)
 
 ---
 
@@ -547,9 +539,14 @@ _Cập nhật theo **Quicksave Hạ 7, 09:10 trong game**, lưu 09:14 giờ máy
 **📝 Dự kiến:**
 - [ ] 🎣 **Chính · Hầm Mỏ tầng 100:** **Lươn dung nham ×5**: 4 con cho `Cá Mùa Xuân` · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá`, 1 con bỏ vào **Máy Làm Mồi Câu** lấy Mồi riêng loài. Cách tăng tỉ lệ cắn xem [[Câu cá theo mùa#⛏️ Hầm Mỏ|Câu cá theo mùa]]. Xong thì phần cá mùa Hạ còn lại đều chờ mưa, xem [[#🎣 Hoàn thiện các rương cá|Hoàn thiện các rương cá]]
 - [ ] 🌺 Thu **Anh túc** ở (12, 27), nộp gói **Đầu Bếp** → 3/6. Ô trống gieo **Hạt cà phê**, chín Hạ 18
-- [ ] 🎂 Tặng **Kim cương** cho **Gus**: món Gus thích nhất, đang có 5 viên ở `Khoáng Sản`
-- 🪵 **Gỗ:** chặt ở rừng (88, 71) · (95, 77) · Bến Xe (32, 13), gieo ở **khu A**: (74, 76) · (76, 76)
-- 💀 **Hang Đầu lâu:** xuống tới **tầng 15**, vé 500g
+- [ ] 🎂 Tặng **Kim cương** cho **Gus**: món Gus thích nhất, đang có 8 viên ở `Khoáng Sản`
+- [ ] 🥚 Nộp 2 **Trứng lớn** (1 trắng, 1 nâu) ở rương `Động Vật` → gói **Động vật** 2/5
+- [ ] 🏛️ **Bảo tàng** (đang có 67 món): quyên góp **Cổ vật hoàng kim** (Golden Relic) · **Xương ống tiền sử** (Prehistoric Tibia) ở rương `Cổ Vật, Sách` · **Hắc diện thạch** (Obsidian) ở `Khoáng Sản` → **70 món**. **Mảnh tán sắc** (Prismatic Shard) thì **giữ lại**: chỉ có 1 viên, mà gói **Mất Tích** cũng cần nó. Có viên thứ hai thì mới đem quyên góp. Ở Hầm Mỏ tầng 100 được khoáng hay Hốc tinh mới thì để dành, rồi đối chiếu lại
+- [ ] 📬 Mở thư **Hoàn thành Thử thách của Kỳ TS** → **+10.000g**. Cộng tiền thùng ship đêm Hạ 7, ví lên khoảng **27.900g**, nên **Nâng cấp nhà** dời lên **Hạ 10**, xem [[#🏗️ Lịch xây và mua thú|Lịch xây]]. **Đừng tiêu khoản này**
+- [ ] 🫐 Pierre: mua 1 **Hạt việt quất**, gieo ô **(39, 26)** (chín Hạ 21 · 25), ô ngoài vùng vòi nên phải tưới tay
+- [ ] 🪝 **Máy Làm Mồi Câu:** nhặt **1 San hô** ở **Vũng thủy triều** (Bãi biển, phía đông), rồi chế: 3 Thỏi sắt + 3 San hô + 1 Nhím biển. Đặt máy **không chạm rương nào**, vì Automate sẽ lấy cá trong rương làm mồi. Không có San hô thì chờ `Bẫy Cua`
+- 🪵 **Gỗ:** ⚠️ **Rìu đang ở chỗ Clint nên hôm nay không chặt được.** Bỏ ngày chặt, vẫn **gieo 2 cây** ở **khu A**: (74, 76) · (76, 76). Ba cây (88, 71) · (95, 77) · Bến Xe (32, 13) chặt bù **Hạ 9** khi đã lấy Rìu
+- 💀 **Hang Đầu lâu:** không đi hôm nay, việc chính là Hầm Mỏ tầng 100. Xem [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|lịch đi theo ngày may cao]]
 - 💧 Nắng thì tưới 57 ô dải
 - 📅 **Marnie** nghỉ Hạ 8 và Hạ 9, nên Bò Sữa vẫn mua Hạ 10 như lịch
 
@@ -561,11 +558,26 @@ _Cập nhật theo **Quicksave Hạ 7, 09:10 trong game**, lưu 09:14 giờ máy
 - [ ] 🧹 **Chính · dọn nông trại:** chặt 5 cây lớn (≈100 Gỗ) và dọn 32 cây con, toạ độ ở [[#🧹 Dọn nông trại|Dọn nông trại]]. Giữ 6 cây có chén
 - [ ] 🌻 Thu **Hướng dương** (14, 27), nộp gói **Nhuộm** → 4/6 · thu **Trang kim** (16, 27). Hai ô trống gieo **Hạt cà phê**, chín Hạ 19
 - [ ] 🌶️ Thu lứa Ớt thứ hai (53 cây) · hái **Hạt cà phê** ở (70, 27)
-- [ ] 🐄 **Chuồng Gia súc** xong sáng nay. Robin, Marnie đều nghỉ, Bò Sữa mua **Hạ 10** (1.500g + 1.000g Xô Vắt sữa), nên đêm nay giữ ví từ **3.000g** trở lên
+- [ ] 🪓 Lấy **Rìu Vàng** ở Clint (gửi Hạ 7, quicksave báo còn 2 ngày)
+- [ ] 🐄 **Chuồng Gia súc** xong sáng nay. Robin, Marnie đều nghỉ. Hạ 10 cần **10.000g** (nhà) + **2.500g** (Bò Sữa, Xô Vắt sữa) + tiền mua Gỗ còn thiếu, nên đêm nay giữ ví từ **13.500g** trở lên
+- [ ] 🪵 **Gom Gỗ cho nhà:** chặt xong ở rừng và nông trại thì đếm Gỗ. Nhà cần **450**, đang có 185, còn thiếu bao nhiêu thì Hạ 10 mua ở Robin
 - 🎣 Cá: không còn loài nắng nào phải câu. Vét bẫy cua tìm **Tôm hùm**. Mai mưa thì Hạ 10 đi **Cá trê** · **Cá hồng** · **Cá trích dày mình**
-- 🪵 **Gỗ:** chặt ở rừng (72, 89) · (77, 95) · Bến Xe (35, 19), gieo ở **khu A**: (78, 76) · (80, 76)
-- 💀 **Hang Đầu lâu:** tầng 20 nếu còn giờ, ngày dọn nông trại thì bỏ được
-- Sắp tới: **Hạ 10** Việt quất lứa đầu (10 ô), nộp **Trái việt quất** → **Nông sản Mùa Hè** 2/4 · mua Bò Sữa · **Hạ 11** Luau · **Hạ 12** **Cà chua** (19, 23) → Nông sản Mùa Hè · **Hạ 13** Dưa · **Hạ 21** TV dạy **Cơm cuộn Rong biển**, món cần cho gói **Đầu Bếp**
+- 🪵 **Gỗ:** chặt ở rừng (72, 89) · (77, 95) · Bến Xe (35, 19), **cộng 3 cây Hạ 8 chưa chặt**: (88, 71) · (95, 77) · Bến Xe (32, 13). Gieo ở **khu A**: (78, 76) · (80, 76)
+- 💀 **Hang Đầu lâu:** không đi, ngày dọn nông trại. Chuyến kế tiếp chờ ngày may cao, xem [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|lịch đi]]
+- Sắp tới: **Hạ 10** đặt nhà · **Hạ 11** Luau · **Hạ 12** **Cà chua** (19, 23) → Nông sản Mùa Hè · **Hạ 13** Dưa · **Hạ 21** TV dạy **Cơm cuộn Rong biển**, món cần cho gói **Đầu Bếp**
+
+---
+
+### ☀️ Ngày 10 (Thứ Tư) — 🏠 Nâng cấp nhà · 🐄 Bò Sữa · 🫐 Việt quất lứa đầu
+
+**📝 Dự kiến:**
+- [ ] 🏠 **Chính · Robin: Nâng cấp nhà**, 10.000g + 450 Gỗ, xong sáng **Hạ 13**. Gỗ phải nằm **trong túi**. Thiếu bao nhiêu thì mua ở Robin **ngay hôm nay**, vì từ mai Robin đi xây. Nhà có **bếp** để nấu **Trứng chiên** cho gói **Đầu Bếp**
+- [ ] 🐄 **Marnie: Bò Sữa ×1** 1.500g + **Xô Vắt sữa** 1.000g, cho vào **Chuồng Gia súc** (56, 22). Từ hôm nay vuốt ve mỗi ngày để có **Sữa lớn**
+- [ ] 🫐 Thu **Việt quất** lứa đầu (10 ô Ruộng 3), nộp 1 **Trái việt quất** → **Nông sản Mùa Hè** 2/4 · thu lứa Bí ngòi mới
+- 🪵 **Gỗ:** chặt (93, 85) · (100, 75) · Bìa rừng (24, 10) **trước khi tới Robin**, để đỡ phải mua. Gieo ở **khu A**: (82, 76) · (76, 78)
+- 🛒 **Pierre** nghỉ Thứ Tư, nên hạt giống mua trước từ Hạ 8–9
+- 💧 Nắng thì tưới 57 ô dải và ô (39, 26)
+- Ví sau khi chi: khoảng **27.900g + tiền ship Hạ 8–9 − 12.500g − tiền Gỗ ≈ 15.000g**, đủ để kéo **Chuồng gia cầm lớn** (10.000g + 400 Gỗ + 150 Đá) lên **Hạ 13**, khi nhà xong và Robin rảnh lại. Chốt ở nhịp ③ Hạ 10
 
 ---
 
@@ -632,13 +644,13 @@ _Cập nhật theo **Quicksave Hạ 7, 09:10 trong game**, lưu 09:14 giờ máy
 
 #### 🏗️ Lịch xây và mua thú
 
-_Tính từ Quicksave Hạ 6, 15:50 (ví 4.114g, 100 Gỗ, 644 Đá). Đầu ngày nào đến ngày trong bảng cũng đối chiếu lại ví. Lệch thì dời việc đó, không dời cả chuỗi. **Nam việt quất ở Thu 1 luôn được ưu tiên trước công trình.**_
+_Tính từ Quicksave Hạ 6, 15:50 (ví 4.114g, 100 Gỗ, 644 Đá). Dòng Hạ 10, Hạ 14 tính lại từ Quicksave 22:00 Hạ 7 (ví 7.062g + ≈10.800g thùng ship, 185 Gỗ, 687 Đá, mai +10.000g của Kỳ TS). Đầu ngày nào đến ngày trong bảng cũng đối chiếu lại ví. Lệch thì dời việc đó, không dời cả chuỗi. **Nam việt quất ở Thu 1 luôn được ưu tiên trước công trình.**_
 
 | Ngày | Robin | Mua | Ví sáng → sau khi chi |
 |---|---|---|---|
 | **Hạ 6** · Bảy | **Chuồng Gia súc** ở (56, 22): 6.000g + 350 Gỗ + 150 Đá, xong sáng Hạ 9 | | ✅ Đã đặt. Ví 4.114g sau vé xe, dư 2.620g so với dự kiến |
-| **Hạ 10** · Tư | Ví sáng Hạ 7 đã **18.512g**, vượt dự kiến hơn 12.000g. Robin rảnh từ Hạ 10: nếu ví đủ **10.000g + 1.500g + 1.000g**, đặt **Nâng cấp nhà** sớm thay vì Hạ 14 (cần 450 Gỗ, mua bù ở Robin). Dời cả chuỗi phía sau thì tính lại ở nhịp ③ Hạ 9 | Marnie: **Bò Sữa ×1** 1.500g · **Xô Vắt sữa** 1.000g | ≈5.990 → ≈3.490g, chưa tính khoản vượt |
-| **Hạ 14** · Chủ Nhật | **Nâng cấp nhà**: 10.000g + 450 Gỗ, xong sáng Hạ 17. Ví đủ 14.500g từ Hạ 13 thì đặt Hạ 13 | | ≈15.040 → ≈540g |
+| **Hạ 10** · Tư | **Nâng cấp nhà**: 10.000g + 450 Gỗ, xong sáng **Hạ 13**. Dời lên từ Hạ 14 nhờ **10.000g của Kỳ TS** (thư sáng Hạ 8, vì Hạ 7 đã xuống tầng 32 Hang Đầu lâu) | Marnie: **Bò Sữa ×1** 1.500g · **Xô Vắt sữa** 1.000g | ≈27.900 + tiền ship Hạ 8–9 → ≈15.400g, trừ thêm tiền Gỗ mua bù |
+| **Hạ 14** · Chủ Nhật | _Trống, vì nhà đã đặt Hạ 10._ **Chuồng gia cầm lớn** có thể kéo từ Hạ 17 lên Hạ 13–14 nếu ví đủ 10.000g + 400 Gỗ, chốt ở nhịp ③ Hạ 10 | | |
 | **Hạ 15** · Hai | | Pierre: **Cây táo non** 4.000g · **Cây lựu non** 6.000g | ≈23.440 → ≈13.440g |
 | **Hạ 17** · Tư | **Chuồng gia cầm lớn**: 10.000g + 400 Gỗ + 150 Đá, xong sáng Hạ 19 | Marnie: **Gà ×2** 1.600g · **Bò Sữa ×1** 1.500g · **≈20 Rơm rạ** 1.000g | ≈20.340 → ≈2.240g |
 | **Hạ 19** · Sáu | **Chuồng Gia súc lớn**: 12.000g + 450 Gỗ + 200 Đá, xong sáng Hạ 21 | Marnie: **Vịt ×1** 1.200g | ≈29.590 → ≈11.890g |
@@ -752,12 +764,22 @@ Theo ước lượng thì **không phải mua Gỗ**, trong khi [[#🏗️ Lịc
 
 _Nguồn: `GameLocation.CanPlantTreesHere` (ngoài nông trại chỉ nhận hạt cây trên ô `Type = Dirt`), `Data/Locations` (Forest không đặt `CanPlantHere`), `Data/WildTrees` (GrowthChance 0,2), `Tree.GetMaxSizeHere`, `Tree.IsGrowthBlockedByNearbyTree`, `Maps/Forest`, game 1.6.15; số cây đọc từ save._
 
-#### 💀 Hang Đầu lâu mỗi ngày
+#### 💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì
 
-- **Mục tiêu mỗi ngày:** tầng sâu nhất trong save **+ 5**. Hạ 7 tầng 10 · Hạ 8 tầng 15 · cứ thế, không bỏ ngày thì tới **tầng 100** vào Hạ 25.
-- **Hang không lưu mốc:** mỗi chuyến đi lại từ tầng 1, nên chuyến sau dài hơn chuyến trước. Gặp hố thì nhảy, xem [[Mẹo]]. Bỏ một ngày thì mục tiêu giữ nguyên, không cộng dồn.
-- **Không tính vào quota ngày**, coi như routine. Ngày lễ hội, ngày bận thì bỏ được.
-- **Vé 500g mỗi chuyến.** Hạ 7–28 tối đa ≈11.000g, chưa tính trong cột ví. Khoản Gỗ không phải mua bù được phần này. Vé dùng trước, Gỗ tiết kiệm về sau, nên đối chiếu ví trước mỗi ngày đặt công trình, và ví dưới 500g thì nghỉ chuyến đó.
+_Đổi từ "mỗi ngày +5 tầng" sang đi theo mục tiêu (14/11). Lý do: hang không lưu mốc, mỗi chuyến vào lại từ tầng 1, và **hố** nhảy nhiều tầng một lúc nên "tầng sâu nhất" nhảy cóc, không tăng đều được (Hạ 7 đã nhảy tới tầng 32 trong một chuyến)._
+
+**Ngày nào đi:** chỉ ngày 🍀 **may cao** mà **không có việc chính khác**, theo [[#🍀 May cao|luật may cao]]. Đi không quá **2 chuyến mỗi tuần**. Ngày may thấp, ngày lễ hội, ngày đặt công trình hoặc dọn nông trại thì bỏ. **Hạ 8** (Hầm Mỏ tầng 100) và **Hạ 9** (dọn nông trại) **không đi**. Ngày may cao kế tiếp lấy từ dòng _"mai may cao"_ ở khối 📋 Thực tế. Không có chuyến nào bị coi là bỏ lỡ.
+
+| Mục tiêu | Tầng nhắm | Lấy gì | Khi nào thôi |
+|---|---|---|---|
+| **Quặng iridium** | **Tầng 25–35**, nhảy hố được thì nhảy | Quặng iridium → `A Lò nung`, **5 viên = 1 Thỏi**. Cần cho các món **Iridium** ở [[#🔧 Lịch nâng công cụ\|Lịch nâng công cụ]]: 4 công cụ × 5 = **20 Thỏi** ở Năm 2, đã có 4 đang nung, còn thiếu khoảng **16 Thỏi = 80 viên** | Hết giờ, hoặc túi đầy |
+| **Đá** | Bất kỳ tầng nào | Chuỗi công trình tới Thu 1 còn thiếu vài viên (xem [[#🏗️ Lịch xây và mua thú\|Lịch xây]]) | Dư rồi thì thôi nhắm Đá |
+| **Phao mồi kì lạ** | Tầng có **Xác Ướp** | Rơi 1% mỗi con, xem [[Đồ câu cá]]. Đây là hàng cầu may, không phải lý do để đi | Không đặt mục tiêu riêng |
+
+- **Chưa hẹn tầng 100.** Tầng 100 mới mở **Sữa rắn Iridium** (ghi chú #10), nhưng ghi chú phải rơi ra trước, nên đây là việc cuối năm chứ không xếp lịch được ở Hạ. Bỏ mốc "tầng 100 vào Hạ 25" của bản cũ.
+- **Đo lại tốc độ:** Hạ 6 tầng 5 được **2 viên**, Hạ 7 chưa ghi số viên. Sau mỗi chuyến đếm Quặng iridium ở `Tài Nguyên`, ghi vào Thực tế, rồi chia ra để biết còn cần mấy chuyến.
+- **Không tính vào quota ngày**, coi như routine, nhưng tính vào quyết định ngày may cao.
+- **Vé 500g mỗi chuyến.** Ví dưới 500g thì nghỉ, và đối chiếu ví trước mỗi ngày đặt công trình.
 - **Mang theo:** **Bom** ở `Trang Bị`, chừa ô cho **Quặng iridium**.
 
 #### 🔧 Lịch nâng công cụ
@@ -769,10 +791,10 @@ _Clint giữ mỗi lần một món, **gửi hôm nay thì sáng hai ngày sau l
 | **1** | **Bình Tưới Vàng** | Từ **Hạ 20**, đúng hôm save báo **mai mưa**. Không có hôm nào như vậy thì dời sang Thu | Tưới tay **57 ô** ngoài vùng vòi. Trước Hạ 20 tiền đang dành cho chuồng |
 | **2** | **Cuốc Vàng** | Khoảng **Thu 10**, cùng đợt tiền với Lợn | Xới một lần nhiều ô, cần cho mùa mới và khi mở Ruộng 4–6 |
 | **3** | **Cuốc chim Vàng** | Từ khoảng **Thu 14**, hôm không vào mỏ. Có **thiên thạch** trên nông trại thì đẩy lên trước | Chỉ cần để phá thiên thạch, hiện chưa có cái nào |
-| **4** | **Rìu Vàng** | Sau cùng, khi dư tiền | Rìu Thép đã chặt được khúc gỗ lớn, không còn cửa nào bị chặn |
+| ✅ | **Rìu Vàng** | **Đã gửi Hạ 7**, lấy sáng **Hạ 9** | Bạn gửi sớm hơn lịch (lịch xếp sau cùng, vì Rìu Thép đã chặt được khúc gỗ lớn). Tiền lấy từ khoản ví vượt dự kiến, nên các món **1–3** giữ nguyên ngày. **Hạ 8 không chặt được cây** vì Rìu ở chỗ Clint, xem [[#☀️ Ngày 8 (Thứ Hai) — 🎂 Sinh nhật Gus · 🌺 Anh túc chín · 🌋 Lươn dung nham\|Ngày 8]] |
 | Năm 2 | Các món **Iridium** | Khi có đủ **Thỏi Iridium** | Đang có 21 Quặng iridium, 0 Thỏi. Món đầu là **Bình Tưới Iridium** |
 
-Mỗi món lên Vàng **10.000g + 5 Thỏi vàng** (đang có 44), lên Iridium **25.000g + 5 Thỏi Iridium**. Giá lấy theo trí nhớ, xem lại trong menu Clint trước khi trả tiền.
+Mỗi món lên Vàng **10.000g + 5 Thỏi vàng** (Quicksave 22:00 Hạ 7 có **56**: 39 ở `Tài Nguyên` + 17 ở `A Lò nung`, dư cho 3 món Vàng còn lại), lên Iridium **25.000g + 5 Thỏi Iridium**. Giá lấy theo trí nhớ, xem lại trong menu Clint trước khi trả tiền.
 
 **🛒 Lịch gom Hạt giống hiếm** (Xe hàng rong luôn bán **1–5 hạt × 1.000g** suốt Xuân/Hạ; mục tiêu **10–15 hạt** trước Hạ 28 để gieo **Thu 1–4**, đang có **9**):
 - **Hạ 7** — mua 1 hạt → đủ **10 hạt**, đạt mốc tối thiểu.
