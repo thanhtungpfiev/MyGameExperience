@@ -266,6 +266,7 @@ _Nguồn theo [Rarecrow](https://stardewvalleywiki.com/Rarecrow) và [Deluxe Sca
 | `T` | Khung chat (chơi mạng) |
 | `Y` | Menu biểu cảm (emote) |
 | `Shift` (giữ) | Đi bộ chậm khi đang bật Chạy tự động |
+| `F4` | **Chế độ chụp màn hình**: ẩn hết HUD (đồng hồ, thanh công cụ, thanh năng lượng), game báo _"Đã bật chế độ chụp màn hình. Bấm 'F4' để thoát."_. Chế độ này **không tự chụp**, chỉ dọn màn hình cho bạn tự chụp. Phím cứng, không đổi được trong Tùy chọn |
 
 > [!phim] 🔧 = phím đã tự đổi — lý do nằm ở Mods
 > Bảng trên là **phím gốc của game** đang dùng trên máy này. Vì sao đổi `G`/`V`/`N` ghi ở [[Mods#🔧 Phím đã tự đổi|Mods — Phím đã tự đổi]]; phím nào đụng với mod ghi ngay dưới bảng phím ở [[Mods#🎹 Bảng phím tắt nhanh|Mods — Bảng phím tắt nhanh]]. Để một chỗ duy nhất cho khỏi sửa bên này quên bên kia.

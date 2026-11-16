@@ -46,6 +46,7 @@
 | `P` | CJB Cheats Menu | Mở menu cheat |
 | `NumPad1` | CJB Cheats Menu | Cây ăn quả / cây gỗ lớn ngay lập tức |
 | `NumPad2` | CJB Cheats Menu | Cây trồng chín ngay (bán kính 1 ô) |
+| `F9` | CJB Cheats Menu | Bật/tắt đóng băng thời gian (`FreezeTime`) — tự gán, [[#🔧 Phím đã tự đổi\|lý do]] |
 | `F5` / `F7` | QuickSave | Lưu nhanh giữa ngày / nạp lại bản lưu nhanh |
 | `F8` | MultiSave - Continued | Tạo bản lưu mốc thủ công |
 | `F10` | Stardew Dashboard | Mở bảng thống kê tổng hợp |
@@ -98,6 +99,7 @@ Chỗ **duy nhất** ghi lý do đổi phím — mục mod và bảng phím gố
 | **`N`** | Đổi hàng thanh công cụ _(game)_ | `Tab` | Không phải vì trùng mod: túi khởi đầu chỉ **1 hàng 12 ô** nên `Tab` không có gì để đảo, tưởng hỏng. Có Túi lớn (2.000g ở Pierre) mới có hàng thứ hai |
 | **`L`** | Bật/tắt lớp phủ _(Data Layers)_ | `F2` | Trùng `F2` của [[#All Chests Menu 0.4.2\|All Chests Menu]] — bên đó để `ModToOpen: false` nên bấm `F2` trơn là mở, hai mod cùng bắt một phím |
 | **`Z`** | Bật/tắt bảng debug _(Debug Mode)_ | `` ` `` | Trùng `` ` `` của [[#Ladder Locator 1.5.2\|Ladder Locator]], mà phím đó đảo thẳng `ForceShafts` → mỗi lần bật debug là **hố thôi luôn hiện** (thang không ảnh hưởng; hố chỉ có ở Hang Đầu lâu) |
+| **`F9`** | Bật/tắt đóng băng thời gian _(CJB Cheats Menu, `FreezeTimeKey`)_ | _(trống)_ | Khỏi phải mở menu `P` mỗi lần đổi `FreezeTime`. `F3` đã bị trùng hai chỗ: `ToggleDebug` của Content Patcher và `SearchKey` của Better Crafting. `F4` là chế độ chụp màn hình của game gốc (ẩn HUD). `F9` bấm thử trong game không có gì |
 | **`K`** | Mở bảng Perfection Stats | _(trống)_ | Tab cúp trong menu `Esc` hay bấm trượt ([[#Perfection Stats 1.6.7\|lỗi vùng click]]). `O` định dùng trước nhưng đã là vùng Bù nhìn của Range Highlight |
 
 **Còn để nguyên:** `X` — trùng giữa phím phụ "kiểm tra" của game và ẩn/hiện thanh XP của Experience Bars, nhưng hai việc gần như không bao giờ cần cùng lúc. Muốn đổi thì gán Experience Bars sang một phím trống.
@@ -1162,7 +1164,7 @@ Menu cheat đầy đủ trong game, chia **9 tab**: người chơi & công cụ,
 
 **Cách dùng** — bấm `P` khi **không có menu nào đang mở**. Bật/tắt từng ô, có hiệu lực ngay. Vào tab **Điều khiển** để đổi phím — khỏi sửa `config.json`.
 
-**Phím** — `P` mở menu · `NumPad1` **cây ăn quả / cây gỗ lớn ngay** · `NumPad2` **cây trồng chín ngay** (bán kính `1` ô quanh chỗ đứng). Hai phím NumPad dùng **thẳng ngoài game**, không cần mở menu.
+**Phím** — `P` mở menu · `F9` **bật/tắt đóng băng thời gian** · `NumPad1` **cây ăn quả / cây gỗ lớn ngay** · `NumPad2` **cây trồng chín ngay** (bán kính `1` ô quanh chỗ đứng). Hai phím NumPad dùng **thẳng ngoài game**, không cần mở menu.
 
 **Cấu hình** — tab **Điều khiển** trong menu, hoặc `config.json`. Mod **không** dùng GMCM.
 
