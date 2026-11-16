@@ -538,7 +538,7 @@ _Chốt từ **Quicksave Hạ 7**, ghi lúc 07:53 giờ máy ngày 15/11, 22:00 
 
 **📋 Thực tế** _(Quicksave Hạ 8, 12:00 trong game, lưu 07:14 giờ máy ngày 16/11)_: ☀️ nắng · mai ☀️ nắng · 💀 **may thấp** (`dailyLuck` −0,065) · ví **28.169g** (đã mở thư Kỳ TS) · hộp thư trống · Bảo tàng **70 món** · gói **Đầu Bếp** 3/6, **Động vật** 2/5 · **Chuồng Gia súc** còn 1 ngày · **Rìu Vàng** còn 1 ngày, lấy Hạ 9 · Haley **2.289 điểm**, đang hẹn hò, quà tuần **2/2** · Gus **1.322 điểm**, đã tặng quà sinh nhật · cả 272 ô đã tưới · **Máy Làm Mồi Câu** đã chế, đang đặt ở **Bãi biển (24, 5)**.
 
-**📌 Quest:** **Cá Hầm** (Fish Stew) mới nhận từ Jodi: mang 1 **Cá vược miệng rộng** (Largemouth Bass) tới nhà Jodi lúc **19:00**, đang có sẵn ít nhất 5 con chất lượng iridium. **Giao hàng: Sandy**, mang 1 **Cà rốt hang** (Cave Carrot), còn **2 ngày**, thưởng 75g; Sandy ở **Sa mạc Calico**, vé xe buýt 500g, không đáng đi riêng một chuyến. **"Quần đùi" của Thị trưởng** không có hạn.
+**📌 Quest:** **Cá Hầm** (Fish Stew) mới nhận từ Jodi: mang 1 **Cá vược miệng rộng** (Largemouth Bass) tới nhà Jodi lúc **19:00**. Lấy con đang ở **trong túi**, hoặc con ở rương (55, 16); bốn con ở dãy rương (49–52, 7) là cá bộ sưu tập, đừng lấy. **Giao hàng: Sandy**, mang 1 **Cà rốt hang** (Cave Carrot), còn **2 ngày**, thưởng 75g; Sandy ở **Sa mạc Calico**, vé xe buýt 500g, không đáng đi riêng một chuyến. **"Quần đùi" của Thị trưởng** không có hạn.
 
 **🌦️ Nhánh:** ☀️ Nắng × 💀 May thấp → [[#💀 May thấp|xây, nộp gói, quyên góp, tặng quà, chế máy]]. Việc chính đổi từ **Lươn dung nham** (săn cá, kết quả ngẫu nhiên, đúng loại việc [[#💀 May thấp|may thấp]] dặn đừng làm) sang **vòng nộp và tặng**, vốn đã có sẵn một loạt việc kết quả cố định.
 
@@ -554,7 +554,8 @@ _Chốt từ **Quicksave Hạ 7**, ghi lúc 07:53 giờ máy ngày 15/11, 22:00 
 - 🪵 **Gỗ:** ⚠️ **Rìu đang ở chỗ Clint nên hôm nay không chặt được.** Bỏ ngày chặt, vẫn **gieo 2 cây** ở **khu A**: (74, 76) · (76, 76). Ba cây (88, 71) · (95, 77) · Bến Xe (32, 13) chặt bù **Hạ 9** khi đã lấy Rìu
 - 💀 **Hang Đầu lâu:** không đi, hôm nay may thấp. Xem [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|lịch đi theo ngày may cao]]
 - 💧 Routine: tưới **58 ô** đang khô (57 ô dải và 1 ô lẻ), cộng ô (39, 26) sau khi gieo
-- ⏭️ **Lươn dung nham ×5** ở Hầm Mỏ tầng 100 (4 con cho `Cá Mùa Xuân` · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá`, 1 con cho Máy Làm Mồi Câu) dời sang **ngày may cao kế tiếp**. Hạ 9, Hạ 10 đã kín việc. Cách tăng tỉ lệ cắn xem [[Câu cá theo mùa#⛏️ Hầm Mỏ|Câu cá theo mùa]]
+- [ ] 🪝 **Mồi nhắm Lươn dung nham, không cần câu hôm nay:** lấy con **Lươn dung nham** Iridium ở `Cá Mùa Hè` làm mồi. Dời **Máy Làm Mồi Câu** từ Bãi biển (24, 5) về nông trại, đặt sát **rương backup** đang trống, rương này **không chạm máy nào khác**, rồi bỏ chỉ con lươn vào rương. Automate nạp lươn vào máy và trả mồi về chính rương đó
+- ⏭️ **Lươn dung nham ×5** ở Hầm Mỏ tầng 100 (`Cá Mùa Xuân` · `Cá Mùa Hè`, trả lại con vừa làm mồi · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá`) câu bằng mồi nhắm, vào **ngày rảnh kế tiếp**. Hạ 9, Hạ 10 đã kín việc. Cách tăng tỉ lệ cắn xem [[Câu cá theo mùa#⛏️ Hầm Mỏ|Câu cá theo mùa]]
 - 📅 **Marnie** nghỉ Hạ 8 và Hạ 9, nên Bò Sữa vẫn mua Hạ 10 như lịch
 
 ---
@@ -843,7 +844,7 @@ _Theo Quicksave Hạ 5 (07:50 giờ máy ngày 06/11). Quy ước rương ở [[
 | ~~Cá bơn lưỡi ngựa (Halibut)~~ ✅ | **0** | đã cất Đông · `Cá` | Biển · 06:00–11:00 · 19:00–02:00 |
 | ~~Cá băng (Ice Pip)~~ ✅ | **0** | đã cất Hè · Thu · Đông · `Cá`, cả 4 con Iridium | Mỏ tầng 60 (cấp 5) · cả ngày |
 | ~~Cá vược miệng rộng (Largemouth Bass)~~ ✅ | **0** | đã cất Hè (Iridium) · Thu · Đông · `Cá` | Hồ · 06:00–19:00 |
-| Lươn dung nham (Lava Eel) | **4** | Xuân · Thu · Đông · `Cá` (Hè đã có, Iridium) | Mỏ tầng 100 (cấp 7) · cả ngày |
+| Lươn dung nham (Lava Eel) | **5** | Xuân · Hè · Thu · Đông · `Cá` (con Iridium của Hè đem làm mồi nhắm Hạ 8) | Mỏ tầng 100 (cấp 7) · cả ngày |
 | ~~Bạch tuộc (Octopus)~~ ✅ | **0** | đã cất Hè · `Cá` | Biển · 06:00–13:00 |
 | ~~Cá măng (Pike)~~ ✅ | **0** | đã cất Hè (Iridium) · Đông · `Cá` | Sông TT · Sông Rừng · Ao Rừng · cả ngày |
 | ~~Cá nóc (Pufferfish)~~ ✅ | **0** | đã cất Hè · `Cá`, cả 2 con Iridium | Biển · 12:00–16:00 |
