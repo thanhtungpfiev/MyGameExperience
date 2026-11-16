@@ -201,17 +201,17 @@ Nhà: phòng trên lầu **Trạm xá của Harvey**.
 
 Nhà: **Nhà của Jodi, Kent & Sam** (1 Willow Lane).
 
-| Tim | ID | Ở đâu · khi nào | Chọn câu này | Đừng chọn |
-|---|---|---|---|---|
-| **2** | 44 | Nhà của Jodi, Kent & Sam · Sam ở nhà | Chọn gì cũng **+50** | — |
-| **3** | 733330 | **Bãi biển** · trời nắng · 07:00–15:00 · trừ mùa Đông · **chỉ Năm 1** | Chọn gì cũng được | — |
-| **4** | 46 | Nhà của Jodi, Kent & Sam · Sam ở nhà | **"Sam đưa quả trứng cho cháu rồi cháu làm rơi nó."** **+50** | "Sam cố tình làm rơi quả trứng..." **−50** · "Sam làm rơi quả trứng khi đưa nó cho cháu." **−10** |
-| **6** | 45 | **Thị trấn Pelican** · trời nắng · 12:00–16:00 | Chọn gì cũng được | — |
-| **8** | 47 | Nông trại · 06:00–08:00 · đã xem cảnh 2 tim | _Không có câu hỏi_ | — |
-| | 4081148 | **Bến Xe** · 16:00–19:00 (ban nhạc lên xe đi diễn) | _Không có câu hỏi_ | — |
-| **10** | 233104 | **Thị trấn Pelican** · trời nắng · 20:00–24:00 · đang hẹn hò · sau thư **"Giấy nhắn của Sam"** | Chọn gì cũng được | — |
-| **14** | 3918600 | Nhà trên nông trại · 06:10–17:00 · nhà đã nâng cấp · đã cưới | _Không có câu hỏi_ | — |
-| | 3918601 · 3918602 · 3918603 | Nhà trên nông trại, các ngày sau (chuyện Sam đi làm) | Chọn gì cũng được | — |
+| Tim    | ID                          | Ở đâu · khi nào                                                                                | Chọn câu này                                                  | Đừng chọn                                                                                         |
+| ------ | --------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| **2**  | 44                          | Nhà của Jodi, Kent & Sam · Sam ở nhà                                                           | Chọn gì cũng **+50**                                          | —                                                                                                 |
+| **3**  | 733330                      | **Bãi biển** · trời nắng · 07:00–15:00 · trừ mùa Đông · **chỉ Năm 1**                          | Chọn gì cũng được                                             | —                                                                                                 |
+| **4**  | 46                          | Nhà của Jodi, Kent & Sam · Sam ở nhà                                                           | **"Sam đưa quả trứng cho cháu rồi cháu làm rơi nó."** **+50** | "Sam cố tình làm rơi quả trứng..." **−50** · "Sam làm rơi quả trứng khi đưa nó cho cháu." **−10** |
+| **6**  | 45                          | **Thị trấn Pelican** · trời nắng · 12:00–16:00                                                 | Chọn gì cũng được                                             | —                                                                                                 |
+| **8**  | 47                          | Nông trại · 06:00–08:00 · đã xem cảnh 2 tim                                                    | _Không có câu hỏi_                                            | —                                                                                                 |
+|        | 4081148                     | **Bến Xe** · 16:00–19:00 (ban nhạc lên xe đi diễn)                                             | _Không có câu hỏi_                                            | —                                                                                                 |
+| **10** | 233104                      | **Thị trấn Pelican** · trời nắng · 20:00–24:00 · đang hẹn hò · sau thư **"Giấy nhắn của Sam"** | Chọn gì cũng được                                             | —                                                                                                 |
+| **14** | 3918600                     | Nhà trên nông trại · 06:10–17:00 · nhà đã nâng cấp · đã cưới                                   | _Không có câu hỏi_                                            | —                                                                                                 |
+|        | 3918601 · 3918602 · 3918603 | Nhà trên nông trại, các ngày sau (chuyện Sam đi làm)                                           | Chọn gì cũng được                                             | —                                                                                                 |
 
 ## 🏍️ Sebastian
 
