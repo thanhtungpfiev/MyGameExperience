@@ -536,21 +536,21 @@ _Chốt từ **Quicksave Hạ 7**, ghi lúc 07:53 giờ máy ngày 15/11, 22:00 
 
 ### ☀️ Ngày 8 (Thứ Hai) — 🎂 Sinh nhật Gus · 🌺 Anh túc chín · 🌋 Lươn dung nham
 
-**📋 Thực tế** _(Quicksave Hạ 8, 06:00 trong game, lưu 08:07 giờ máy ngày 15/11)_: ☀️ nắng · mai ☀️ nắng · 💀 **may thấp** (`dailyLuck` −0,065, sát ngưỡng rất xui −0,07) · ví **18.249g** (+11.187g tiền thùng ship, sát mức ước 10.800g), **chưa mở thư** nên 10.000g của Kỳ TS chưa vào ví · hộp thư: **Hoàn thành Thử thách của Kỳ TS**, thư công thức của George và Emily · **Chuồng Gia súc** còn 1 ngày · **Rìu Vàng** còn 1 ngày, lấy Hạ 9 · Haley **2.224 điểm**, đang hẹn hò, quà tuần 1/2 · 58 ô chưa tưới · có 8 **Cà rốt hang**.
+**📋 Thực tế** _(Quicksave Hạ 8, 12:00 trong game, lưu 07:14 giờ máy ngày 16/11)_: ☀️ nắng · mai ☀️ nắng · 💀 **may thấp** (`dailyLuck` −0,065) · ví **28.169g** (đã mở thư Kỳ TS) · hộp thư trống · Bảo tàng **70 món** · gói **Đầu Bếp** 3/6, **Động vật** 2/5 · **Chuồng Gia súc** còn 1 ngày · **Rìu Vàng** còn 1 ngày, lấy Hạ 9 · Haley **2.289 điểm**, đang hẹn hò, quà tuần **2/2** · Gus **1.322 điểm**, đã tặng quà sinh nhật · cả 272 ô đã tưới · **Máy Làm Mồi Câu** đã chế, đang đặt ở **Bãi biển (24, 5)**.
 
-**📌 Quest:** **Giao hàng: Sandy**, mang 1 **Cà rốt hang** (Cave Carrot), còn **2 ngày**, thưởng 75g. Sandy ở **Sa mạc Calico**, vé xe buýt 500g, nên không đáng đi riêng một chuyến. Bỏ quest này, trừ khi hôm nay hay mai đằng nào bạn cũng ra Sa mạc. **"Quần đùi" của Thị trưởng** không có hạn.
+**📌 Quest:** **Cá Hầm** (Fish Stew) mới nhận từ Jodi: mang 1 **Cá vược miệng rộng** (Largemouth Bass) tới nhà Jodi lúc **19:00**, đang có sẵn ít nhất 5 con chất lượng iridium. **Giao hàng: Sandy**, mang 1 **Cà rốt hang** (Cave Carrot), còn **2 ngày**, thưởng 75g; Sandy ở **Sa mạc Calico**, vé xe buýt 500g, không đáng đi riêng một chuyến. **"Quần đùi" của Thị trưởng** không có hạn.
 
 **🌦️ Nhánh:** ☀️ Nắng × 💀 May thấp → [[#💀 May thấp|xây, nộp gói, quyên góp, tặng quà, chế máy]]. Việc chính đổi từ **Lươn dung nham** (săn cá, kết quả ngẫu nhiên, đúng loại việc [[#💀 May thấp|may thấp]] dặn đừng làm) sang **vòng nộp và tặng**, vốn đã có sẵn một loạt việc kết quả cố định.
 
 **✅ Việc hôm nay** (1 chính + 3 phụ, thu hoạch và tưới là routine)
-- [ ] 📬 **Mở thư Hoàn thành Thử thách của Kỳ TS** trước tiên → ví **≈28.249g**. Đủ để **Nâng cấp nhà** dời lên **Hạ 10** ([[#🏗️ Lịch xây và mua thú|Lịch xây]]), nên giữ từ **13.500g** trở lên
-- [ ] 🏛️ **Chính · vòng nộp và tặng:** Bảo tàng, Nhà Văn hóa, Gus, theo ba dòng ngay dưới
-- [ ] 🌺 Thu **Anh túc** ở (12, 27), nộp gói **Đầu Bếp** → 3/6. Ô trống gieo **Hạt cà phê**, chín Hạ 18
-- [ ] 🎂 Tặng **Kim cương** cho **Gus**: món Gus thích nhất, đang có 8 viên ở `Khoáng Sản`
-- [ ] 🥚 Nộp 2 **Trứng lớn** (1 trắng, 1 nâu) ở rương `Động Vật` → gói **Động vật** 2/5
-- [ ] 🏛️ **Bảo tàng** (đang có 67 món): quyên góp **Cổ vật hoàng kim** (Golden Relic) · **Xương ống tiền sử** (Prehistoric Tibia) ở rương `Cổ Vật, Sách` · **Hắc diện thạch** (Obsidian) ở `Khoáng Sản` → **70 món**. **Mảnh tán sắc** (Prismatic Shard) thì **giữ lại**: chỉ có 1 viên, mà gói **Mất Tích** cũng cần nó. Có viên thứ hai thì mới đem quyên góp. Ở Hầm Mỏ tầng 100 được khoáng hay Hốc tinh mới thì để dành, rồi đối chiếu lại
-- [ ] 🫐 Pierre: mua 1 **Hạt việt quất**, gieo ô **(39, 26)** (chín Hạ 21 · 25), ô ngoài vùng vòi nên phải tưới tay
-- [ ] 🪝 **Máy Làm Mồi Câu:** nhặt **1 San hô** ở **Vũng thủy triều** (Bãi biển, phía đông), rồi chế: 3 Thỏi sắt + 3 San hô + 1 Nhím biển. Đặt máy **không chạm rương nào**, vì Automate sẽ lấy cá trong rương làm mồi. Không có San hô thì chờ `Bẫy Cua`
+- [x] 📬 **Mở thư Hoàn thành Thử thách của Kỳ TS** trước tiên → ví **≈28.249g**. Đủ để **Nâng cấp nhà** dời lên **Hạ 10** ([[#🏗️ Lịch xây và mua thú|Lịch xây]]), nên giữ từ **13.500g** trở lên
+- [x] 🏛️ **Chính · vòng nộp và tặng:** Bảo tàng, Nhà Văn hóa, Gus, theo ba dòng ngay dưới
+- [x] 🌺 Thu **Anh túc** ở (12, 27), nộp gói **Đầu Bếp** → 3/6. Ô trống gieo **Hạt cà phê**, chín Hạ 18
+- [x] 🎂 Tặng **Kim cương** cho **Gus**: món Gus thích nhất, đang có 8 viên ở `Khoáng Sản`
+- [x] 🥚 Nộp 2 **Trứng lớn** (1 trắng, 1 nâu) ở rương `Động Vật` → gói **Động vật** 2/5
+- [x] 🏛️ **Bảo tàng** (đang có 67 món): quyên góp **Cổ vật hoàng kim** (Golden Relic) · **Xương ống tiền sử** (Prehistoric Tibia) ở rương `Cổ Vật, Sách` · **Hắc diện thạch** (Obsidian) ở `Khoáng Sản` → **70 món**. **Mảnh tán sắc** (Prismatic Shard) thì **giữ lại**: chỉ có 1 viên, mà gói **Mất Tích** cũng cần nó. Có viên thứ hai thì mới đem quyên góp. Ở Hầm Mỏ tầng 100 được khoáng hay Hốc tinh mới thì để dành, rồi đối chiếu lại
+- [x] 🫐 Pierre: mua 1 **Hạt việt quất**, gieo ô **(39, 26)** (chín Hạ 21 · 25), ô ngoài vùng vòi nên phải tưới tay
+- [x] 🪝 **Máy Làm Mồi Câu:** nhặt **1 San hô** ở **Vũng thủy triều** (Bãi biển, phía đông), rồi chế: 3 Thỏi sắt + 3 San hô + 1 Nhím biển. Đặt máy **không chạm rương nào**, vì Automate sẽ lấy cá trong rương làm mồi. Không có San hô thì chờ `Bẫy Cua`
 - 🪵 **Gỗ:** ⚠️ **Rìu đang ở chỗ Clint nên hôm nay không chặt được.** Bỏ ngày chặt, vẫn **gieo 2 cây** ở **khu A**: (74, 76) · (76, 76). Ba cây (88, 71) · (95, 77) · Bến Xe (32, 13) chặt bù **Hạ 9** khi đã lấy Rìu
 - 💀 **Hang Đầu lâu:** không đi, hôm nay may thấp. Xem [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|lịch đi theo ngày may cao]]
 - 💧 Routine: tưới **58 ô** đang khô (57 ô dải và 1 ô lẻ), cộng ô (39, 26) sau khi gieo
