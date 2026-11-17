@@ -556,10 +556,10 @@ _Chốt từ **Quicksave Hạ 8**, ghi lúc 08:10 giờ máy ngày 16/11, 19:30 
 
 **📌 Quest:** **Giao hàng: Elliott** (bảng Help Wanted), mang 1 **Cà chua** (Tomato), còn **2 ngày** (hết đêm Hạ 10), thưởng 180g → **bỏ**: trong kho không có Cà chua, cây ở (19, 23) phải tới sáng **Hạ 12** mới chín, Pierre chỉ bán hạt, Xe hàng rong không mở Thứ Ba, Thứ Tư. **"Quần đùi" của Thị trưởng** không có hạn, giữ quần cho Hội chợ Thu 16.
 
-**🌦️ Nhánh:** ☀️ Nắng × 💀💀 Rất xui → [[#💀 May thấp|xây, dọn, nộp, tặng]]. Việc chính **dọn nông trại** giữ nguyên: chặt cây, nhổ cây con là việc ra kết quả cố định, may không chạm tới. Đừng xuống mỏ sâu hay Hang Đầu lâu.
+**🌦️ Nhánh:** ☀️ Nắng × 💀💀 Rất xui → [[#💀 May thấp|xây, dọn, nộp, tặng]]. Việc chính **dọn nông trại** giữ nguyên: chặt cây là việc ra kết quả cố định, may không chạm tới. Đừng xuống mỏ sâu hay Hang Đầu lâu.
 
 **✅ Việc hôm nay** (1 chính + 3 phụ, thu hoạch và tưới là routine)
-- [ ] 🧹 **Chính · dọn nông trại:** chặt 5 cây lớn (≈100 Gỗ) và dọn 32 cây con, toạ độ ở [[#🧹 Dọn nông trại|Dọn nông trại]]. Giữ 6 cây có chén
+- [ ] 🧹 **Chính · dọn nông trại:** chặt 5 cây lớn (≈100 Gỗ), toạ độ ở [[#🧹 Dọn nông trại|Dọn nông trại]]. **Không nhổ cây con**, để lớn rồi chặt lấy Gỗ. Giữ 6 cây có chén
 - [ ] 🌻 Thu **Hướng dương** (14, 27), nộp gói **Nhuộm** → 4/6 · thu **Trang kim** (16, 27). Hai ô này **gieo lại đúng loại vừa thu** (Hạt hướng dương, Hạt giống trang kim) thay cho Hạt cà phê, vì Cà phê đã có 8 cây, còn hai loại này thu xong là hết cây
 - [ ] 🧺 **Dự phòng quest:** mỗi loại cây mùa Hạ luôn có ít nhất 1 cây đang lớn, để quest giao hàng như Cà chua của Elliott hôm nay không bị lỡ. Ở Pierre mua 1 **Hạt giống củ cải** · 1 **Hạt giống anh túc** · 1 **Hạt lúa mì** (cùng 2 hạt ở dòng trên), gieo ở 3 ô đã cày sẵn còn trống: **(48, 25)** · **(51, 60)** · **(52, 60)**. Ba ô này nằm ngoài vòi nên phải tưới tay
 - [ ] 🌶️ Thu lứa Ớt thứ hai (53 cây) · hái **Hạt cà phê** ở (70, 27)
@@ -758,11 +758,11 @@ _Tính từ Quicksave Hạ 6. **Mỗi ngày chặt 3 cây, gieo 2 hạt** ở r�
 **🧹 Dọn nông trại**
 
 - **Hạ 9, chặt 5 cây lớn, ≈100 Gỗ:** Phong (74, 36) · (67, 35) · Thông (70, 42) · Sồi (12, 17) · (51, 48).
-- **Hạ 9, dọn 32 cây con nấc 0–3:** (9, 40) · (10, 17) · (12, 57) · (13, 43) · (13, 46) · (14, 20) · (16, 35) · (18, 38) · (18, 55) · (19, 11) · (20, 39) · (20, 48) · (22, 49) · (27, 47) · (29, 51) · (32, 58) · (52, 31) · (56, 35) · (56, 38) · (57, 29) · (58, 33) · (60, 37) · (64, 40) · (66, 41) · (66, 45) · (67, 40) · (69, 44) · (70, 33) · (71, 39) · (74, 39) · (75, 34) · (75, 35).
+- **32 cây con nấc 0–3: không nhổ, để lớn rồi chặt**, ≈20 Gỗ mỗi cây, tổng ≈640 Gỗ. Mỗi ngày 20% lớn một nấc, nên nấc 3 trung bình 10 ngày (≈Hạ 19), nấc 0 khoảng 25 ngày (≈Thu 6). Soát cùng lượt chặt cây nấc 4 ở Hạ 14 · Hạ 19, sau đó chặt dần trong mùa Thu, cây nào lớn thì chặt: (9, 40) · (10, 17) · (12, 57) · (13, 43) · (13, 46) · (14, 20) · (16, 35) · (18, 38) · (18, 55) · (19, 11) · (20, 39) · (20, 48) · (22, 49) · (27, 47) · (29, 51) · (32, 58) · (52, 31) · (56, 35) · (56, 38) · (57, 29) · (58, 33) · (60, 37) · (64, 40) · (66, 41) · (66, 45) · (67, 40) · (69, 44) · (70, 33) · (71, 39) · (74, 39) · (75, 34) · (75, 35).
 - **Hạ 14 và Hạ 19, chặt 20 cây nấc 4 khi đã lớn, ≈20 Gỗ mỗi cây:** (9, 58) · (9, 60) · (17, 46) · (18, 50) · (18, 57) · (19, 39) · (21, 11) · (21, 46) · (21, 47) · (22, 52) · (22, 59) · (25, 49) · (49, 60) · (51, 29) · (61, 37) · (65, 35) · (66, 34) · (66, 48) · (69, 39) · (70, 43). Trung bình 5 ngày nữa lớn, nên khoảng 16 cây sẵn sàng ở Hạ 14, 19 cây ở Hạ 19. Cây chưa lớn thì để lần sau.
 - **Giữ lại 6 cây:** 4 cây đang gắn chén: Thông (72, 39) · (54, 29), Phong (59, 36) · (48, 29). Sồi (66, 39) sẽ gắn chén, Sồi (68, 41) dự phòng.
 
-**Gỗ có đủ không** (tính từ đầu Hạ 6, gồm Gỗ dọn nông trại, chưa cộng 18 cây được bón, khoảng 400 Gỗ nữa từ Hạ 11):
+**Gỗ có đủ không** (tính từ đầu Hạ 6, gồm Gỗ dọn nông trại, chưa cộng 18 cây được bón, khoảng 400 Gỗ nữa từ Hạ 11, và 32 cây con nông trại, khoảng 640 Gỗ nữa, phần lớn vào mùa Thu):
 
 | Đặt công trình | Cần | Gỗ có tới hôm đó | Mua thêm ở Robin |
 |---|---|---|---|
@@ -776,7 +776,7 @@ Theo ước lượng thì **không phải mua Gỗ**, trong khi [[#🏗️ Lịc
 **Sau Thu 1:**
 
 - Mỗi ngày mỗi hạt có 20% lớn một nấc, 5 nấc mới trưởng thành. Hạt gieo Hạ 6 có **46%** lớn trước Thu 1, **86%** trước Thu 14. Hạ 22 gieo xong 33 ô thì tới **khoảng cuối Thu** mới lớn gần hết.
-- Rừng vẫn còn **6 cây cũ** sau Thu 1. Từ Thu chặt cả cây gieo đã lớn, rồi gieo lại đúng ô đó vì ô vẫn là nền đất. 33 ô chỉ cho khoảng 1 cây mỗi ngày về lâu dài, nên **Chuồng Gia cầm cao cấp** và **Nhà Kho** (800 Gỗ) vẫn có thể phải mua thêm. Chốt khi lập kế hoạch Thu.
+- Rừng vẫn còn **6 cây cũ** sau Thu 1. Từ Thu chặt cả cây gieo đã lớn, rồi gieo lại đúng ô đó vì ô vẫn là nền đất. 33 ô chỉ cho khoảng 1 cây mỗi ngày về lâu dài. 32 cây con để lại trên nông trại bù được khoảng 640 Gỗ trong mùa Thu, nhưng **Chuồng Gia cầm cao cấp** và **Nhà Kho** (800 Gỗ) vẫn có thể phải mua thêm. Chốt khi lập kế hoạch Thu.
 - **Thị trấn** (17 cây) chưa dùng, để dự phòng.
 
 **Nhựa sồi:** chế 1 **Chén hứng Nhựa cây** (40 Gỗ + 2 Thỏi đồng, có 27 Thỏi đồng ở `Tài Nguyên`), gắn vào **Sồi (66, 39)** trên nông trại cho gói **Phù Thủy**. Giữ **Sồi (68, 41)** dự phòng.
