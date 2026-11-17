@@ -554,26 +554,30 @@ _Chốt từ **Quicksave Hạ 8**, ghi lúc 08:10 giờ máy ngày 16/11, 19:30 
 
 **📋 Thực tế** _(save Wind_448678493, đầu Hạ 9, lưu 08:22 giờ máy ngày 16/11)_: ☀️ nắng · mai ☀️ nắng · 💀💀 **rất xui** (`dailyLuck` −0,10) · ví **28.989g** (+745g thùng ship) · hộp thư: **Công thức của Gus**, **Món quà từ Shane** (1 **Ớt bung** + 1 **Pizza**) · **Chuồng Gia súc** (56, 22) đã xong · **Rìu Vàng** lấy được ở Clint · chín: 53 Ớt hiểm · 1 Hạt cà phê · 1 Hướng dương · 1 Trang kim · 57 ô chưa tưới · Gỗ **185** · Haley 2.289 điểm, quà tuần 2/2 · Maru 1.023 điểm.
 
+**📋 Tiến độ** _(Quicksave Hạ 9, lưu 07:23 giờ máy ngày 17/11)_: ví **28.589g** · thùng ship 38 Ớt hiểm + 1 Trứng · đã tưới **270/270** cây · gói **Nhuộm** 4/6 (đã nộp Hướng dương) · Gỗ vẫn **185**, chưa chặt cây nào · Ruộng 6 chưa cuốc, chưa đặt vòi · trong túi: 2 Hạt hướng dương · 1 Hạt giống trang kim · 1 Hạt giống củ cải · 1 Hạt giống anh túc · 1 Hạt lúa mì, chưa gieo.
+
 **📌 Quest:** **Giao hàng: Elliott** (bảng Help Wanted), mang 1 **Cà chua** (Tomato), còn **2 ngày** (hết đêm Hạ 10), thưởng 180g → **bỏ**: trong kho không có Cà chua, cây ở (19, 23) phải tới sáng **Hạ 12** mới chín, Pierre chỉ bán hạt, Xe hàng rong không mở Thứ Ba, Thứ Tư. **"Quần đùi" của Thị trưởng** không có hạn, giữ quần cho Hội chợ Thu 16.
 
 **🌦️ Nhánh:** ☀️ Nắng × 💀💀 Rất xui → [[#💀 May thấp|xây, dọn, nộp, tặng]]. Việc chính **dọn nông trại** giữ nguyên: chặt cây là việc ra kết quả cố định, may không chạm tới. Đừng xuống mỏ sâu hay Hang Đầu lâu.
 
 **✅ Việc hôm nay** (1 chính + 4 phụ, thu hoạch và tưới là routine)
 - [ ] 🧹 **Chính · dọn nông trại:** chặt 5 cây lớn (≈100 Gỗ), toạ độ ở [[#🧹 Dọn nông trại|Dọn nông trại]]. **Không nhổ cây con**, để lớn rồi chặt lấy Gỗ. Giữ 6 cây có chén
-- [ ] 🌻 Thu **Hướng dương** (14, 27), nộp gói **Nhuộm** → 4/6 · thu **Trang kim** (16, 27). Hai ô này **gieo lại đúng loại vừa thu** (Hạt hướng dương, Hạt giống trang kim) thay cho Hạt cà phê, vì Cà phê đã có 8 cây, còn hai loại này thu xong là hết cây
+- [x] 🌻 Thu **Hướng dương** (14, 27), nộp gói **Nhuộm** → 4/6 · thu **Trang kim** (16, 27)
+- [ ] 🌻 Hai ô (14, 27) · (16, 27) **gieo lại đúng loại vừa thu** (Hạt hướng dương, Hạt giống trang kim) thay cho Hạt cà phê, vì Cà phê đã có 8 cây, còn hai loại này thu xong là hết cây
 - [ ] 🌱 **Gieo hạt hái lượm ở Ruộng 6** (góc (30, 33), đất còn trống 98/100 ô, không vướng cây con nào). Lấy hạt ở rương `Hạt Giống, Phân Bón` (58, 15):
   - Chế **9 Vòi tưới cây xịn** (Quality Sprinkler), mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện. Trong rương đang có 32 · 57 · 61. Đặt ở (31, 34) · (34, 34) · (37, 34) · (31, 37) · (34, 37) · (37, 37) · (31, 40) · (34, 40) · (37, 40). Chín vòi tưới kín khối x 30–38, y 33–41, còn **72 ô** để gieo. Cắt cỏ ở (36, 41) trước rồi mới cuốc
   - Gieo **30 Hạt giống mùa hè** (Summer Seeds), ra Thảo quả · Nho · Đậu hoa, chín khoảng **Hạ 16** · **18 Hạt giống tổng hợp** (Mixed Seeds), ra Ngô · Ớt hiểm · Củ cải · Lúa mì ngẫu nhiên, chín Hạ 13–23 · **24 Hạt giống hoa tổng hợp** (Mixed Flower Seeds), ra Anh túc · Trang kim · Hướng dương, chín khoảng Hạ 16–17
   - Thêm **9 Hạt giống hoa tổng hợp** cho 9 ô cày sẵn còn trống trong tầm vòi: (20, 23) · (26, 23) · (20, 26) · (23, 26) · (37, 26) · (13, 27) · (24, 27) · (9, 29) · (20, 29). Còn **13 hạt hoa** để sang mùa Thu
   - Vòi chỉ tưới từ sáng mai, nên **hôm nay tưới tay cả 81 ô**. Thể lực vô hạn nên không tốn gì
   - Sau này đặt **Vòi phun nước Iridium** theo quy hoạch thì nhổ 9 vòi này đi
+- [x] 🧺 Đã mua hạt dự phòng ở Pierre, đang trong túi
 - [ ] 🧺 **Dự phòng quest:** mỗi loại cây mùa Hạ luôn có ít nhất 1 cây đang lớn, để quest giao hàng như Cà chua của Elliott hôm nay không bị lỡ. Ở Pierre mua 1 **Hạt giống củ cải** · 1 **Hạt giống anh túc** · 1 **Hạt lúa mì** (cùng 2 hạt ở dòng trên), gieo ở 3 ô đã cày sẵn còn trống: **(48, 25)** · **(51, 60)** · **(52, 60)**. Ba ô này nằm ngoài vòi nên phải tưới tay
 - [x] 🌶️ Thu lứa Ớt thứ hai (53 cây) · hái **Hạt cà phê** ở (70, 27)
 - [x] 🪓 **Trước tiên** lấy **Rìu Vàng** ở Clint (mở 9:00), vì cả việc chính lẫn gỗ rừng đều cần rìu
 - 🐄 **Chuồng Gia súc** đã xong. Robin, Marnie đều nghỉ. Hạ 10 cần **10.000g** (nhà) + **2.500g** (Bò Sữa, Xô Vắt sữa) + tiền mua Gỗ còn thiếu, nên đêm nay giữ ví từ **13.500g** trở lên
 - [ ] 🪵 **Gom Gỗ cho nhà:** chặt xong ở rừng và nông trại thì đếm Gỗ. Nhà cần **450**, đang có 185, còn thiếu bao nhiêu thì Hạ 10 mua ở Robin
 - 🎣 Cá: không còn loài nắng nào phải câu. Vét bẫy cua tìm **Tôm hùm**. Mai cũng nắng, nên **Cá trê** · **Cá hồng** · **Cá trích dày mình** còn chờ ngày mưa
-- 💧 Routine: tưới **57 ô** đang khô, cộng 3 ô dự phòng sau khi gieo
+- 💧 Routine: tưới **57 ô** đang khô ✅ (270/270 đã tưới), còn 3 ô dự phòng và 2 ô gieo lại sau khi gieo
 - 🪵 **Gỗ:** chặt ở rừng (72, 89) · (77, 95) · Bến Xe (35, 19), **cộng 3 cây Hạ 8 chưa chặt**: (88, 71) · (95, 77) · Bến Xe (32, 13). Gieo ở **khu A**: (78, 76) · (80, 76)
 - 💀 **Hang Đầu lâu:** không đi, ngày dọn nông trại. Chuyến kế tiếp chờ ngày may cao, xem [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|lịch đi]]
 - Sắp tới: **Hạ 10** đặt nhà, sinh nhật Maru · **Hạ 11** Luau · **Hạ 12** **Cà chua** (19, 23) → Nông sản Mùa Hè · **Hạ 13** Dưa, chừa lại ít nhất 1 cây hoặc gieo lại 1 hạt (hạn gieo Dưa là Hạ 16) · **Hạ 21** TV dạy **Cơm cuộn Rong biển**, món cần cho gói **Đầu Bếp**
