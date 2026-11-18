@@ -561,7 +561,7 @@ _Chốt từ **Quicksave Hạ 8**, ghi lúc 08:10 giờ máy ngày 16/11, 19:30 
 **🌦️ Nhánh:** ☀️ Nắng × 💀💀 Rất xui → [[#💀 May thấp|xây, dọn, nộp, tặng]]. Việc chính **dọn nông trại** giữ nguyên: chặt cây là việc ra kết quả cố định, may không chạm tới. Đừng xuống mỏ sâu hay Hang Đầu lâu.
 
 **✅ Việc hôm nay** (1 chính + 4 phụ, thu hoạch và tưới là routine)
-- [ ] 🧹 **Chính · dọn nông trại:** chặt 5 cây lớn (≈100 Gỗ), toạ độ ở [[#🧹 Dọn nông trại|Dọn nông trại]]. **Không nhổ cây con**, để lớn rồi chặt lấy Gỗ. Giữ 6 cây có chén
+- [ ] 🧹 **Chính · dọn nông trại:** chặt 5 cây lớn (≈100 Gỗ), toạ độ ở [[#🧹 Dọn nông trại|Dọn nông trại]]. **Không nhổ cây con**, để lớn rồi chặt lấy Gỗ. Giữ 5 cây có chén
 - [x] 🌻 Thu **Hướng dương** (14, 27), nộp gói **Nhuộm** → 4/6 · thu **Trang kim** (16, 27)
 - [ ] 🌻 Hai ô (14, 27) · (16, 27) **gieo lại đúng loại vừa thu** (Hạt hướng dương, Hạt giống trang kim) thay cho Hạt cà phê, vì Cà phê đã có 8 cây, còn hai loại này thu xong là hết cây
 - [ ] 🌱 **Gieo hạt hái lượm ở Ruộng 6** (góc (30, 33), đất còn trống 98/100 ô, không vướng cây con nào). Lấy hạt ở rương `Hạt Giống, Phân Bón` (58, 15):
@@ -769,8 +769,8 @@ _Tính từ Quicksave Hạ 6. **Mỗi ngày chặt 3 cây, gieo 2 hạt** ở r�
 
 - **Hạ 9, chặt 5 cây lớn, ≈100 Gỗ:** Phong (74, 36) · (67, 35) · Thông (70, 42) · Sồi (12, 17) · (51, 48).
 - **32 cây con nấc 0–3: không nhổ, để lớn rồi chặt**, ≈20 Gỗ mỗi cây, tổng ≈640 Gỗ. Mỗi ngày 20% lớn một nấc, nên nấc 3 trung bình 10 ngày (≈Hạ 19), nấc 0 khoảng 25 ngày (≈Thu 6). Soát cùng lượt chặt cây nấc 4 ở Hạ 14 · Hạ 19, sau đó chặt dần trong mùa Thu, cây nào lớn thì chặt: (9, 40) · (10, 17) · (12, 57) · (13, 43) · (13, 46) · (14, 20) · (16, 35) · (18, 38) · (18, 55) · (19, 11) · (20, 39) · (20, 48) · (22, 49) · (27, 47) · (29, 51) · (32, 58) · (52, 31) · (56, 35) · (56, 38) · (57, 29) · (58, 33) · (60, 37) · (64, 40) · (66, 41) · (66, 45) · (67, 40) · (69, 44) · (70, 33) · (71, 39) · (74, 39) · (75, 34) · (75, 35).
-- **Hạ 14 và Hạ 19, chặt 20 cây nấc 4 khi đã lớn, ≈20 Gỗ mỗi cây:** (9, 58) · (9, 60) · (17, 46) · (18, 50) · (18, 57) · (19, 39) · (21, 11) · (21, 46) · (21, 47) · (22, 52) · (22, 59) · (25, 49) · (49, 60) · (51, 29) · (61, 37) · (65, 35) · (66, 34) · (66, 48) · (69, 39) · (70, 43). Trung bình 5 ngày nữa lớn, nên khoảng 16 cây sẵn sàng ở Hạ 14, 19 cây ở Hạ 19. Cây chưa lớn thì để lần sau.
-- **Giữ lại 6 cây:** 4 cây đang gắn chén: Thông (72, 39) · (54, 29), Phong (59, 36) · (48, 29). Sồi (66, 39) sẽ gắn chén, Sồi (68, 41) dự phòng.
+- **Hạ 14 và Hạ 19, chặt 19 cây nấc 4 khi đã lớn, ≈20 Gỗ mỗi cây:** (9, 58) · (9, 60) · (17, 46) · (18, 50) · (18, 57) · (19, 39) · (21, 11) · (21, 46) · (21, 47) · (22, 52) · (22, 59) · (25, 49) · (49, 60) · (61, 37) · (65, 35) · (66, 34) · (66, 48) · (69, 39) · (70, 43). Trung bình 5 ngày nữa lớn, nên khoảng 15 cây sẵn sàng ở Hạ 14, 18 cây ở Hạ 19. Cây chưa lớn thì để lần sau.
+- **Giữ lại 5 cây đang gắn chén:** Sồi (66, 39) · (51, 29), Phong (59, 36) · (48, 29), Thông (54, 29).
 
 **Gỗ có đủ không** (tính từ đầu Hạ 6, gồm Gỗ dọn nông trại, chưa cộng 18 cây được bón, khoảng 400 Gỗ nữa từ Hạ 11, và 32 cây con nông trại, khoảng 640 Gỗ nữa, phần lớn vào mùa Thu):
 
@@ -789,7 +789,7 @@ Theo ước lượng thì **không phải mua Gỗ**, trong khi [[#🏗️ Lịc
 - Rừng vẫn còn **6 cây cũ** sau Thu 1. Từ Thu chặt cả cây gieo đã lớn, rồi gieo lại đúng ô đó vì ô vẫn là nền đất. 33 ô chỉ cho khoảng 1 cây mỗi ngày về lâu dài. 32 cây con để lại trên nông trại bù được khoảng 640 Gỗ trong mùa Thu, nhưng **Chuồng Gia cầm cao cấp** và **Nhà Kho** (800 Gỗ) vẫn có thể phải mua thêm. Chốt khi lập kế hoạch Thu.
 - **Thị trấn** (17 cây) chưa dùng, để dự phòng.
 
-**Nhựa sồi:** chế 1 **Chén hứng Nhựa cây** (40 Gỗ + 2 Thỏi đồng, có 27 Thỏi đồng ở `Tài Nguyên`), gắn vào **Sồi (66, 39)** trên nông trại cho gói **Phù Thủy**. Giữ **Sồi (68, 41)** dự phòng.
+**Nhựa sồi:** chế 1 **Chén hứng Nhựa cây** (40 Gỗ + 2 Thỏi đồng, có 27 Thỏi đồng ở `Tài Nguyên`), gắn vào **Sồi (66, 39)** trên nông trại cho gói **Phù Thủy**. **Sồi (51, 29)** cũng đã gắn chén, thành nguồn Nhựa sồi thứ hai.
 
 _Nguồn: `GameLocation.CanPlantTreesHere` (ngoài nông trại chỉ nhận hạt cây trên ô `Type = Dirt`), `Data/Locations` (Forest không đặt `CanPlantHere`), `Data/WildTrees` (GrowthChance 0,2), `Tree.GetMaxSizeHere`, `Tree.IsGrowthBlockedByNearbyTree`, `Maps/Forest`, game 1.6.15; số cây đọc từ save._
 
