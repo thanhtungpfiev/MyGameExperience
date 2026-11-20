@@ -121,10 +121,10 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 **Chạn Thức ăn (Pantry) — 1 / 6**
 
-- [ ] Nông sản Mùa Hè (1/4, Quicksave Hạ 6) — Cà chua · Trái việt quất · Dưa: đã gieo đủ, chờ chín
+- [ ] Nông sản Mùa Hè (2/4, Quicksave Hạ 10) — còn **Cà chua** (chín Hạ 12) · **Dưa** (chín Hạ 13)
 - [ ] Nông sản Chất lượng cao (0/3 trong 4) — 5 Cải vàng · **5 Dưa** · 5 Bí ngô · 5 Ngô, phẩm Vàng
 - [ ] Nông sản Mùa Thu (0/4) — Ngô · Cà Tím · Bí ngô · Khoai lang
-- [ ] Động vật (0/5 trong 6) — Sữa lớn · Trứng lớn (nâu) · Trứng lớn (trắng) · Sữa dê lớn · Len · Trứng vịt
+- [ ] Động vật (2/5 trong 6, Quicksave Hạ 10) — đã nộp Trứng lớn (nâu) · Trứng lớn (trắng) · còn Sữa lớn · Sữa dê lớn · Len · Trứng vịt
 - [ ] Đồ thủ công (1/6) — Dầu nấm · Phô mai dê · Phô mai · Mật ong · Thạch · Táo · Mơ · Cam · Đào · Lựu · Quả anh đào
 
 **Bảng Tin (Bulletin Board) — 0 / 5**
