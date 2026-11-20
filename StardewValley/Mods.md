@@ -719,7 +719,7 @@ Trong mỏ, **tô sáng hòn đá đang giấu thang hoặc hố xuống tầng*
 | Tùy chọn | Đang để | Tác dụng |
 |---|---|---|
 | `ForceShafts` | ✅ | **Luôn hiện hố** (shaft — lỗ nhảy nhiều tầng, chỉ có ở Hang Đầu lâu). Tooltip mod: _"Force shafts to be always visible"_; phím `` ` `` chính là công tắc của dòng này |
-| `HighlightTypes` | `Rectangle` + `Sprite` | Kiểu tô, chọn được nhiều kiểu cùng lúc: `Rectangle` vẽ khung chữ nhật, `Sprite` tô màu lên chính hòn đá, `Image` dùng ảnh `cracked.png`. Để cả hai cho dễ thấy: khung lẫn hòn đá đều đổi màu |
+| `HighlightTypes` | `Rectangle` | Kiểu tô, chọn được nhiều kiểu cùng lúc: `Rectangle` vẽ khung chữ nhật, `Sprite` tô màu lên chính hòn đá, `Image` dùng ảnh `cracked.png`. Chỉ để khung: thêm `Sprite` thì sau khi đập đá, thang và hố hiện ra bị tô đen, khó nhìn |
 | `HighlightRectangleRGBA` | hồng tím `255,0,255`, đục hẳn | Màu khung. Hồng tím không trùng màu nền tầng nào (đá xám, băng xanh, dung nham đỏ) |
 | `HighlightUsesStoneTint` | ❌ | Bật thì khung lấy màu trung bình của hòn đá, thành xám/nâu chìm vào nền, **nhìn mờ**. Mod không có tuỳ chọn độ dày viền và `HighlightAlpha` đã ở 1.0, nên tắt cái này là cách duy nhất cho viền đậm hơn |
 | `NodeRadar` | ✅ | Bật radar quặng |
