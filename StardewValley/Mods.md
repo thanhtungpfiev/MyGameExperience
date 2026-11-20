@@ -654,7 +654,7 @@ Chuyên trị đúng một việc: làm **điểm cổ vật và đốm hạt gi
 
 ### ClayMap 2.0.0 (bản alpha cho 1.6)
 
-Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Clay)** — tô màu theo số nhát cuốc cần thêm trước khi ra sét, khỏi phải cuốc mò từng ô để tìm đủ sét xây Kho chứa Cỏ/Silo (xem [[Wind - Daily#☀️ Ngày 4 (Thứ Năm)|Daily — Ngày 4]]). Cần SMAPI, không cần Content Patcher.
+Vẽ overlay báo trước **ô đất nào cuốc lên sẽ ra Đất sét (Clay)** — tô màu theo số nhát cuốc cần thêm trước khi ra sét, khỏi phải cuốc mò từng ô để tìm đủ sét xây Kho chứa Cỏ/Silo (xem [[Wind - Daily#☀️ Xuân 4 (Thứ Năm)|Daily — Ngày 4]]). Cần SMAPI, không cần Content Patcher.
 
 **Cách dùng** — mở cửa sổ console SMAPI (cửa sổ dòng lệnh chạy nền cùng lúc với game, không phải gõ trong game) rồi gõ lệnh:
 - `claymap_toggle` — bật/tắt overlay

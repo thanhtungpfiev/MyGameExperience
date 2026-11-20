@@ -43,7 +43,7 @@
 - [x] **Cá bống tượng (Goby)** — quăng vào **vũng nước dưới chân thác phía nam Rừng Cindersap** (chỗ cầu vồng Xuân 17), 08:00–18:00. Mỗi lần cắn chỉ có ~15% được xét tới con này nên cần kiên nhẫn.
 - [x] **Cá đá** (tầng 20)
 - [x] **Cá băng** (tầng 60)
-- [x] **Cá huyền thoại — đã câu được Xuân 26 Năm 1**. Xuân 19 từng tính để sang Năm 2 vì khi đó mới cấp 8, nhưng save Xuân 26 đã **cấp 10 gốc** nên không cần món buff nữa, và hôm đó lại mưa. Kế hoạch chi tiết ở [[Wind - Daily#☀️ Ngày 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong|Daily — Ngày 26]].
+- [x] **Cá huyền thoại — đã câu được Xuân 26 Năm 1**. Xuân 19 từng tính để sang Năm 2 vì khi đó mới cấp 8, nhưng save Xuân 26 đã **cấp 10 gốc** nên không cần món buff nữa, và hôm đó lại mưa. Kế hoạch chi tiết ở [[Wind - Daily#☀️ Xuân 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong|Daily — Ngày 26]].
 - Cá trê, Lươn, Cá trích dày mình (🌧️) đều đã có — ngày mưa còn lại của Xuân năm nay không cần dồn cho câu cá.
 
 ### ☀️ Hạ — 11 / 13

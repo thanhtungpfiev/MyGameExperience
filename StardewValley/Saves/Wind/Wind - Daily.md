@@ -80,7 +80,7 @@
 | ⑫ | **Công cụ** — tier từng cái, cái nào **đang ở chỗ Clint** và còn mấy ngày, túi đồ còn mấy ô | Công cụ gửi Clint bị **khoá 2 ngày**. Gửi Bình tưới trước một chuỗi ngày nắng, hay gửi Rìu đúng hôm định dọn cây, là tự chặn mình |
 
 > [!important] Cheat đổi hẳn thứ tự nâng cấp công cụ
-> Thứ tự cũ của note — **Cuốc chim → Rìu → Bình tưới → Cuốc** ([[#☀️ Ngày 9 (Thứ Ba) — 💰 gom vốn cho Lễ hội Trứng|Ngày 9]]) — chọn theo mức **năng lượng tiết kiệm được mỗi nhát**, thứ mà `InfiniteStamina` vừa xoá sạch. Giờ chỉ còn hai lý do thật để nâng, và chúng xếp lại thứ tự:
+> Thứ tự cũ của note — **Cuốc chim → Rìu → Bình tưới → Cuốc** ([[#☀️ Xuân 9 (Thứ Ba) — 💰 gom vốn cho Lễ hội Trứng|Ngày 9]]) — chọn theo mức **năng lượng tiết kiệm được mỗi nhát**, thứ mà `InfiniteStamina` vừa xoá sạch. Giờ chỉ còn hai lý do thật để nâng, và chúng xếp lại thứ tự:
 >
 > | Lý do còn lại | Công cụ | Thứ tự mới |
 > |---|---|---|
@@ -170,7 +170,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 > _Mùa đã chơi xong. Mỗi ngày chỉ giữ việc đã làm. Bảng mua bán, ví, số liệu đọc từ save cũ và dự tính cho mấy ngày sau đã bỏ, bản đầy đủ còn trong git. Trạng thái dài hạn (gói, bảo tàng, cá) ở [[Wind - Tiến độ]]._
 
-### ☀️ Ngày 1 (Thứ Hai)
+### ☀️ Xuân 1 (Thứ Hai)
 
 - [x] Xem hội thoại mở đầu, chào dân làng, ghé Pierre
 - [x] Dọn đất, cày, gieo và tưới 15 hạt Cải vàng (đồ khởi đầu)
@@ -178,14 +178,14 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 2 (Thứ Ba)
+### ☀️ Xuân 2 (Thứ Ba)
 
 - [x] Nhận **Cần Trúc** ở Hàng Cá Willy, tập câu ở bãi biển
 - [x] Lượm đồ bãi biển
 
 ---
 
-### 🌧️ Ngày 3 (Thứ Tư) — mưa cố định
+### 🌧️ Xuân 3 (Thứ Tư) — mưa cố định
 
 - [x] Câu Cá trê và Cá trích dày mình ở sông, Lươn ở biển từ 16:00
 - [x] Xem chỗ đứng câu **Cá huyền thoại** ở hồ Dãy Núi
@@ -193,13 +193,13 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 4 (Thứ Năm)
+### ☀️ Xuân 4 (Thứ Năm)
 
 - [x] Tưới Cải vàng, gom Gỗ · Đá · Đất sét, chuẩn bị đồ ăn cho chuyến mỏ đầu
 
 ---
 
-### ☀️ Ngày 5 (Thứ Sáu) — 🔓 ngày mở khóa lớn
+### ☀️ Xuân 5 (Thứ Sáu) — 🔓 ngày mở khóa lớn
 
 - [x] Nhận thú cưng từ Marnie
 - [x] Thu 15 Cải vàng (giữ 1 cho gói), mua hạt, gieo lại
@@ -208,16 +208,16 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 6 (Thứ Bảy) — 🏗️ ngày dựng nền móng
+### ☀️ Xuân 6 (Thứ Bảy) — 🏗️ ngày dựng nền móng
 
 - [x] Lên **Tháp Phù thủy** đọc chữ Junimo, rồi đọc bảng gói ở Nhà Văn hóa
 - [x] Đặt **Lò nung**, chế **Rương** và **Bù nhìn**
 - [x] Ghé bảng tin nhiệm vụ, xuống mỏ gom quặng Đồng
-- [ ] Kho chứa Cỏ: chưa xây, dời sang [[#☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2|Ngày 25]]
+- [ ] Kho chứa Cỏ: chưa xây, dời sang [[#☀️ Xuân 25 (Thứ Năm) — 🍓 Dâu tây lứa 2|Ngày 25]]
 
 ---
 
-### ☀️ Ngày 7 (Chủ Nhật) — 📺 buổi Nữ hoàng Nước sốt đầu tiên
+### ☀️ Xuân 7 (Chủ Nhật) — 📺 buổi Nữ hoàng Nước sốt đầu tiên
 
 - [x] TV: công thức **Rau củ xào**
 - [x] Tặng quà sinh nhật Lewis
@@ -227,7 +227,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 8 (Thứ Hai) — ⛏️ ngày cày mỏ
+### ☀️ Xuân 8 (Thứ Hai) — ⛏️ ngày cày mỏ
 
 - [x] Xuống mỏ tới tầng 20–30, nhặt rương tầng 10 và 20
 - [x] Diệt 10 Slime, mở **Hội Thám hiểm**
@@ -235,7 +235,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 9 (Thứ Ba) — 💰 gom vốn cho Lễ hội Trứng
+### ☀️ Xuân 9 (Thứ Ba) — 💰 gom vốn cho Lễ hội Trứng
 
 - [x] Quét đồ lượm cho gói **Sản phẩm Hái lượm Mùa Xuân**
 - [x] Câu cá, xuống mỏ kiếm vốn cho hạt Dâu tây
@@ -243,7 +243,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 10 (Thứ Tư) — 📋 chốt sổ tuần đầu
+### ☀️ Xuân 10 (Thứ Tư) — 📋 chốt sổ tuần đầu
 
 - [x] Tặng quà sinh nhật Vincent
 - [x] Gieo nốt Súp lơ (hạn chót Xuân 16)
@@ -251,20 +251,20 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 - [ ] Kho chứa Cỏ: vẫn chưa xây, dời sang Ngày 25
 ---
 
-### ☀️ Ngày 11 (Thứ Năm)
+### ☀️ Xuân 11 (Thứ Năm)
 
 - [x] Kiếm vốn cho Lễ hội Trứng · kiểm hạn gieo · quyên góp Bảo tàng · bảng tin
 
 ---
 
-### ☀️ Ngày 12 (Thứ Sáu) — 🛒 Xe hàng rong
+### ☀️ Xuân 12 (Thứ Sáu) — 🛒 Xe hàng rong
 
 - [x] Xe hàng rong: Hạt giống hiếm
 - [x] Chốt vốn cho Lễ hội Trứng, tưới, thu hoạch
 
 ---
 
-### ☀️🎉 Ngày 13 (Thứ Bảy) — Lễ hội Trứng
+### ☀️🎉 Xuân 13 (Thứ Bảy) — Lễ hội Trứng
 
 - [x] Tưới trước 09:00, mang hết tiền đi lễ hội
 - [x] Mua **hạt Dâu tây** ở quầy Pierre
@@ -274,19 +274,19 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 14 (Chủ Nhật) — 🎂 Sinh nhật Haley · 📺 công thức mới · 🛒 Xe hàng rong
+### ☀️ Xuân 14 (Chủ Nhật) — 🎂 Sinh nhật Haley · 📺 công thức mới · 🛒 Xe hàng rong
 
 - [x] TV công thức mới · tặng quà sinh nhật Haley · ghé xe hàng rong · tưới
 
 ---
 
-### ☀️ Ngày 15 (Thứ Hai) — 🍓 Bắt đầu mùa Mâm xôi cá hồi (Salmonberry)
+### ☀️ Xuân 15 (Thứ Hai) — 🍓 Bắt đầu mùa Mâm xôi cá hồi (Salmonberry)
 
 - [x] Lượm Mâm xôi cá hồi ở Rừng Cindersap · routine · kiểm hạn gieo
 
 ---
 
-### ☀️ Ngày 16 (Thứ Ba) — Robin & Marnie đóng cửa
+### ☀️ Xuân 16 (Thứ Ba) — Robin & Marnie đóng cửa
 
 - [x] Mỏ, câu cá, lượm Mâm xôi cá hồi
 - [x] Gửi công cụ cho Clint
@@ -294,14 +294,14 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)
+### ☀️ Xuân 17 (Thứ Tư) — 🌈 Chum vàng cuối cầu vồng (Leprechaun Hat)
 
 - [x] Bấm chum vàng cạnh Căn nhà Đổ nát → **Mũ yêu tinh** + 200g. Chi tiết ở [[Bí mật & Sự kiện ẩn#🌸 Xuân|Bí mật — Xuân]]
 - [x] Lượm Mâm xôi cá hồi, routine
 
 ---
 
-### ☀️ Ngày 18 (Thứ Năm) — 🎂 Sinh nhật Pam
+### ☀️ Xuân 18 (Thứ Năm) — 🎂 Sinh nhật Pam
 
 - [x] Tặng quà sinh nhật Pam
 - [x] Lượm Mâm xôi cá hồi ngày cuối
@@ -311,13 +311,13 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### 🌧️ Ngày 19 (Thứ Sáu) — 🛒 Xe hàng rong
+### 🌧️ Xuân 19 (Thứ Sáu) — 🛒 Xe hàng rong
 
 - [x] Ghé xe hàng rong · routine. Cá huyền thoại để sau (câu được Ngày 26)
 
 ---
 
-### ☀️ Ngày 20 (Thứ Bảy) — 🎂 Sinh nhật Shane
+### ☀️ Xuân 20 (Thứ Bảy) — 🎂 Sinh nhật Shane
 
 - [x] Lấy **Cuốc chim Đồng** ở Clint
 - [x] Tặng quà sinh nhật Shane. Món Yêu thích là **Ớt hiểm**, có từ mùa Hạ
@@ -325,7 +325,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong
+### ☀️ Xuân 21 (Chủ Nhật) — 🍓 Thu hoạch Dâu tây lứa 1 · 📺 công thức mới · 🛒 Xe hàng rong
 
 - [x] TV công thức mới
 - [x] Thu Dâu tây lứa 1
@@ -334,14 +334,14 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 22 (Thứ Hai) — ⏳ Hạn chót gieo Khoai tây / Cải xoăn
+### ☀️ Xuân 22 (Thứ Hai) — ⏳ Hạn chót gieo Khoai tây / Cải xoăn
 
 - [x] Gieo nốt Khoai tây / Cải xoăn
 - [x] **Phòng Súp-de** xong cả 3 gói (Bẫy Cua và Khoáng Sản xong hôm nay)
 
 ---
 
-### ☀️ Ngày 23 (Thứ Ba) — Chuẩn bị Vũ hội Hoa
+### ☀️ Xuân 23 (Thứ Ba) — Chuẩn bị Vũ hội Hoa
 
 - [x] Không mua Bó hoa: chưa ai tới 8 tim
 - [x] Xuống mỏ tầng nấm lấy **Nấm tím** → xong gói **Sản phẩm Hái lượm Ngoại cảnh**
@@ -352,7 +352,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️🎉 Ngày 24 (Thứ Tư) — Vũ hội Hoa
+### ☀️🎉 Xuân 24 (Thứ Tư) — Vũ hội Hoa
 
 - [x] Dự **Vũ hội Hoa**, nhảy với **Haley** → lên 6 tim
 - [x] Trò chuyện với 21 người ở lễ hội
@@ -360,7 +360,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 25 (Thứ Năm) — 🍓 Dâu tây lứa 2
+### ☀️ Xuân 25 (Thứ Năm) — 🍓 Dâu tây lứa 2
 
 - [x] Đặt Robin xây **Kho chứa Cỏ** ở (72, 22), xong sáng Ngày 27. Bù nhìn ở (73, 24) dời sang (68, 26) để nhường nền
 - [x] Mua **2 gà** ở Marnie, cùng rơm rạ
@@ -370,7 +370,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong
+### ☀️ Xuân 26 (Thứ Sáu) — 🎂 Sinh nhật Pierre · 🛒 Xe hàng rong
 
 - [x] 🎣 Câu được **Cá huyền thoại (Legend)** ở Hồ Trên Núi, phẩm Vàng. Rương Cá đủ cả 17 loại cá Xuân
 - [x] Hái và ship Dâu tây
@@ -379,7 +379,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 27 (Thứ Bảy) — 🎂 Sinh nhật Emily
+### ☀️ Xuân 27 (Thứ Bảy) — 🎂 Sinh nhật Emily
 
 - [x] Cắt cỏ cho **Kho chứa Cỏ** (vừa xong sáng nay)
 - [x] Xong quest **Gặt: Đá** cho Robin (35/35)
@@ -390,7 +390,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### 🌧️☀️ Ngày 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong
+### 🌧️☀️ Xuân 28 (Chủ Nhật) — Ngày cuối mùa Xuân · 📺 công thức mới · 🛒 Xe hàng rong
 
 - [x] 🔮 12:00 rung bụi ô (20, 8) ở Thị trấn → **Junimo Nhồi bông**
 - [x] ❤️ Cảnh **6 tim của Haley** ở Bãi biển. Lần sau chọn câu theo [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]
@@ -407,7 +407,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ## 📆 Năm 1 · Hạ
 
-### ☀️ Ngày 1 (Thứ Hai) — Ngày đầu mùa Hạ · 🌱 gieo vụ Hạ
+### ☀️ Hạ 1 (Thứ Hai) — Ngày đầu mùa Hạ · 🌱 gieo vụ Hạ
 
 - [x] Lấy **Bình tưới Thép** · gửi **Rìu** lên Thép, xong **Hạ 3**
 - [x] Robin dời **Chuồng gia cầm** sang (65, 22), trồng Cỏ giống ở (67, 26)
@@ -426,7 +426,7 @@ Trung tính thì **bỏ qua trục may mắn**, cứ theo trục thời tiết. 
 
 ---
 
-### ☀️ Ngày 2 (Thứ Ba) — ⏳ hạn chót Cá nóc cho Alex · 📬 thư Willy
+### ☀️ Hạ 2 (Thứ Ba) — ⏳ hạn chót Cá nóc cho Alex · 📬 thư Willy
 
 _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 
@@ -441,7 +441,7 @@ _Chốt từ **Quicksave Hạ 2**, lưu sau khi nộp Cá tầm._
 
 ---
 
-### ☀️ Ngày 3 (Thứ Tư) — 🪓 lấy Rìu Thép · mở Khu rừng Bí mật
+### ☀️ Hạ 3 (Thứ Tư) — 🪓 lấy Rìu Thép · mở Khu rừng Bí mật
 
 _Chốt từ **Quicksave Hạ 3**, ghi lúc 06:30 giờ máy ngày 02/11._
 
@@ -460,7 +460,7 @@ _Chốt từ **Quicksave Hạ 3**, ghi lúc 06:30 giờ máy ngày 02/11._
 
 ---
 
-### ☀️ Ngày 4 (Thứ Năm) — 🎂 Sinh nhật Jas · 🌿 có Rau dớn
+### ☀️ Hạ 4 (Thứ Năm) — 🎂 Sinh nhật Jas · 🌿 có Rau dớn
 
 _Chốt từ **Quicksave Hạ 4**, ghi lúc 06:35 giờ máy ngày 04/11._
 
@@ -482,7 +482,7 @@ _Chốt từ **Quicksave Hạ 4**, ghi lúc 06:35 giờ máy ngày 04/11._
 
 ---
 
-### ☀️ Ngày 5 (Thứ Sáu) — 💛 8 tim Haley · 🚌 xe buýt đi Sa mạc · 🛒 Xe hàng rong · 🌾 Lúa mì chín
+### ☀️ Hạ 5 (Thứ Sáu) — 💛 8 tim Haley · 🚌 xe buýt đi Sa mạc · 🛒 Xe hàng rong · 🌾 Lúa mì chín
 
 _Chốt từ **Quicksave Hạ 5**, ghi lúc 07:50 giờ máy ngày 06/11, 24:40 trong game._
 
@@ -500,7 +500,7 @@ _Chốt từ **Quicksave Hạ 5**, ghi lúc 07:50 giờ máy ngày 06/11, 24:40 
 
 ---
 
-### ☀️ Ngày 6 (Thứ Bảy) — 🍀🍀 rất may · 🌶️ Ớt chín lứa đầu · 💀 Hang Đầu lâu
+### ☀️ Hạ 6 (Thứ Bảy) — 🍀🍀 rất may · 🌶️ Ớt chín lứa đầu · 💀 Hang Đầu lâu
 
 _Chốt từ **Quicksave Hạ 6**, ghi lúc 08:22 giờ máy ngày 13/11, 21:50 trong game._
 
@@ -517,7 +517,7 @@ _Chốt từ **Quicksave Hạ 6**, ghi lúc 08:22 giờ máy ngày 13/11, 21:50 
 
 ---
 
-### ☀️ Ngày 7 (Chủ Nhật) — 🪝 Máy Làm Mồi Câu · 🧪 Cá chép biến dị · 📺 công thức mới · 🛒 Xe hàng rong
+### ☀️ Hạ 7 (Chủ Nhật) — 🪝 Máy Làm Mồi Câu · 🧪 Cá chép biến dị · 📺 công thức mới · 🛒 Xe hàng rong
 
 _Chốt từ **Quicksave Hạ 7**, ghi lúc 07:53 giờ máy ngày 15/11, 22:00 trong game._
 
@@ -533,7 +533,7 @@ _Chốt từ **Quicksave Hạ 7**, ghi lúc 07:53 giờ máy ngày 15/11, 22:00 
 
 ---
 
-### ☀️ Ngày 8 (Thứ Hai) — 🎂 Sinh nhật Gus · 🌺 Anh túc chín · 🏛️ vòng nộp và tặng
+### ☀️ Hạ 8 (Thứ Hai) — 🎂 Sinh nhật Gus · 🌺 Anh túc chín · 🏛️ vòng nộp và tặng
 
 _Chốt từ **Quicksave Hạ 8**, ghi lúc 08:10 giờ máy ngày 16/11, 19:30 trong game. May thấp (`dailyLuck` −0,065) nên Lươn dung nham nhường chỗ cho vòng nộp và tặng._
 
@@ -549,7 +549,7 @@ _Chốt từ **Quicksave Hạ 8**, ghi lúc 08:10 giờ máy ngày 16/11, 19:30 
 
 ---
 
-### ☀️ Ngày 9 (Thứ Ba) — 🐄 Chuồng Gia súc xong · 🌻 Hướng dương chín · 🧹 dọn nông trại
+### ☀️ Hạ 9 (Thứ Ba) — 🐄 Chuồng Gia súc xong · 🌻 Hướng dương chín · 🧹 dọn nông trại
 
 _Chốt từ **Quicksave Hạ 9**, ghi lúc 08:05 giờ máy ngày 19/11, 23:00 trong game. Rất xui (`dailyLuck` −0,10) nên ngày dành cho dọn nông trại, không xuống mỏ._
 
@@ -563,7 +563,7 @@ _Chốt từ **Quicksave Hạ 9**, ghi lúc 08:05 giờ máy ngày 19/11, 23:00 
 
 ---
 
-### ☀️ Ngày 10 (Thứ Tư) — 🎂 Sinh nhật Maru · 🏠 Nâng cấp nhà · 🐄 Bò Sữa · 🍀🍀 rất may
+### ☀️ Hạ 10 (Thứ Tư) — 🎂 Sinh nhật Maru · 🏠 Nâng cấp nhà · 🐄 Bò Sữa · 🍀🍀 rất may
 
 _Chốt từ **Quicksave Hạ 10**, ghi lúc 08:56 giờ máy ngày 20/11, 24:00 trong game. Rất may (`dailyLuck` +0,10): buổi sáng đặt nhà, mua bò, buổi chiều đi Hang Đầu lâu._
 
@@ -578,7 +578,7 @@ _Chốt từ **Quicksave Hạ 10**, ghi lúc 08:56 giờ máy ngày 20/11, 24:00
 
 ---
 
-### ☀️ Ngày 11 (Thứ Năm) — 🎉 Lễ hội Luau · 🌋 Lươn dung nham · 🍀 may cao
+### ☀️ Hạ 11 (Thứ Năm) — 🎉 Lễ hội Luau · 🌋 Lươn dung nham · 🍀 may cao
 
 **📋 Thực tế** _(save Wind_448678493, đầu Hạ 11, lưu 08:57 giờ máy ngày 20/11)_: ☀️ nắng, lễ hội · mai ☀️ nắng · 🍀 **may cao** (`dailyLuck` +0,061) · ví **19.251g** · hộp thư: **Công thức của Marnie** · nhà còn **2 ngày** (xong sáng Hạ 13) · chín: 5 **Hạt cà phê** · 1 **Bí ngòi** · **59 ô chưa tưới** · 15 **Quặng Iridium** đã nung ra **3 Thỏi Iridium** ở rương (76, 13), tổng **6 Thỏi** · Gỗ 154 · Đá 816 · Haley 2.329 điểm · Genanie lên 23 điểm, tuổi 1.
 
@@ -596,7 +596,7 @@ _Chốt từ **Quicksave Hạ 10**, ghi lúc 08:56 giờ máy ngày 20/11, 24:00
 - 🏠 Robin đang xây nhà, hôm nay không đặt được gì
 ---
 
-### 🛒 Ngày 12 (Thứ Sáu) — 🍅 Cà chua chín · 🌶️ Ớt lứa ba · 🛒 Xe hàng rong
+### 🛒 Hạ 12 (Thứ Sáu) — 🍅 Cà chua chín · 🌶️ Ớt lứa ba · 🛒 Xe hàng rong
 
 **📝 Dự kiến:**
 - [ ] 🍅 Thu **Cà chua** (19, 23), nộp → **Nông sản Mùa Hè** 3/4. Cây ra lại nên vẫn giữ được dự phòng quest. Món cuối là **Dưa** sáng Hạ 13
@@ -608,7 +608,7 @@ _Chốt từ **Quicksave Hạ 10**, ghi lúc 08:56 giờ máy ngày 20/11, 24:00
 
 ---
 
-### 🐔 Ngày 13 (Thứ Bảy) — 🏠 Nhà xong · 🐔 Chuồng gia cầm lớn · 🍈 Dưa chín
+### 🐔 Hạ 13 (Thứ Bảy) — 🏠 Nhà xong · 🐔 Chuồng gia cầm lớn · 🍈 Dưa chín
 
 **📝 Dự kiến:**
 - [ ] 🐔 **Robin: Chuồng gia cầm lớn**, dời lên từ Hạ 17: 10.000g + 400 Gỗ + 150 Đá, xong sáng **Hạ 15**. Gỗ trong túi 154, **mua thêm 246 Gỗ** ở quầy, khoảng 2.460g (10g một Gỗ theo wiki, chưa kiểm trong file game). Ví sáng Hạ 13 dự kiến **≈22.650g** (19.250g + lứa Ớt, Việt quất Hạ 12 ≈3.400g), sau chuồng còn **≈10.200g**, trừ thêm 18 **Hạt giống dưa** (≈1.440g) còn **≈8.800g**. Lấy Gỗ, Đá vào túi trước khi tới quầy. Ví dưới 12.500g thì để lại Hạ 17 như cũ
@@ -637,7 +637,7 @@ _Chốt từ **Quicksave Hạ 10**, ghi lúc 08:56 giờ máy ngày 20/11, 24:00
 | Khi nào | Việc | Chi phí / điều kiện |
 |---|---|---|
 | **Ngày may thấp bất kỳ** | Lát **Đường lát đá**: trục ngang y 18–19 (trước nhà) rồi trục dọc x 40–41 và đoạn vòng qua ao | 1 Đá/ô, cả hai trục **≈ 307 ô** — công thức đã có, Quicksave Xuân 21 còn 1.719 Đá · việc trả kết quả cố định, đúng loại để đổ vào [[#💀 May thấp\|ngày may thấp]] |
-| **Hạ 1** (xong, xem [[#☀️ Ngày 1 (Thứ Hai) — Ngày đầu mùa Hạ · 🌱 gieo vụ Hạ\|Hạ 1]]) | Mở cả **Ruộng 1–3**, lắp **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9; hàng/cột cuối nằm ngoài vùng tưới, Hạ năm 1 gieo Ớt tưới tay · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
+| **Hạ 1** (xong, xem [[#☀️ Hạ 1 (Thứ Hai) — Ngày đầu mùa Hạ · 🌱 gieo vụ Hạ\|Hạ 1]]) | Mở cả **Ruộng 1–3**, lắp **Vòi tưới cây xịn**: 9 cái mỗi ô, ở góc + (1, 1) (4, 1) (7, 1) · (1, 4) (4, 4) (7, 4) · (1, 7) (4, 7) (7, 7) — phủ kín 9 × 9; hàng/cột cuối nằm ngoài vùng tưới, Hạ năm 1 gieo Ớt tưới tay · **Bù nhìn** ở góc + (5, 5) | Mỗi cái 1 Thỏi sắt + 1 Thỏi vàng + 1 Thạch anh tinh luyện · Nông nghiệp 6 cũng mở **Hàng rào gỗ cứng** |
 | **Cuối Thu / Đông** | Rào **bãi chăn nuôi** x 54–76, y 21–46 (92 ô rào + cổng đôi ở (63, 21) (64, 21)) | **Hàng rào gỗ cứng** 1 Gỗ cứng/ô; thiếu Gỗ cứng thì dựng tạm **Hàng rào gỗ** (2 Gỗ/ô) rồi thay sau · **Cổng** 10 Gỗ |
 | **Hạ 6 → Thu** | **Chuồng Gia súc** ở **(56, 22)**, **Nâng cấp nhà**, **Cây táo non**, **Cây lựu non**, nâng chuồng, Nhà Kho: ngày và tiền theo [[#🏗️ Lịch xây và mua thú\|Lịch xây và mua thú]] | Dời lên sớm vì vụ Việt quất từ Hạ 15 trả đủ tiền, và vì gói **Động vật**, **Đầu Bếp**, **Nhuộm** cần thú |
 | **Trước khi hết Đông 28** | Mua trữ **Gỗ, Đá** cho các công trình năm 2 | Năm 1 Gỗ 10g, Đá 20g · từ năm 2 Gỗ 50g, Đá 100g |
@@ -776,7 +776,7 @@ _Clint giữ mỗi lần một món, **gửi hôm nay thì sáng hai ngày sau l
 | **1** | **Bình Tưới Vàng** | Từ **Hạ 20**, đúng hôm save báo **mai mưa**. Không có hôm nào như vậy thì dời sang Thu | Tưới tay **57 ô** ngoài vùng vòi. Trước Hạ 20 tiền đang dành cho chuồng |
 | **2** | **Cuốc Vàng** | Khoảng **Thu 10**, cùng đợt tiền với Lợn | Xới một lần nhiều ô, cần cho mùa mới và khi mở Ruộng 4–6 |
 | **3** | **Cuốc chim Vàng** | Từ khoảng **Thu 14**, hôm không vào mỏ. Có **thiên thạch** trên nông trại thì đẩy lên trước | Chỉ cần để phá thiên thạch, hiện chưa có cái nào |
-| ✅ | **Rìu Vàng** | **Đã gửi Hạ 7**, lấy sáng **Hạ 9** | Bạn gửi sớm hơn lịch (lịch xếp sau cùng, vì Rìu Thép đã chặt được khúc gỗ lớn). Tiền lấy từ khoản ví vượt dự kiến, nên các món **1–3** giữ nguyên ngày. **Hạ 8 không chặt được cây** vì Rìu ở chỗ Clint, xem [[#☀️ Ngày 8 (Thứ Hai) — 🎂 Sinh nhật Gus · 🌺 Anh túc chín · 🏛️ vòng nộp và tặng\|Ngày 8]] |
+| ✅ | **Rìu Vàng** | **Đã gửi Hạ 7**, lấy sáng **Hạ 9** | Bạn gửi sớm hơn lịch (lịch xếp sau cùng, vì Rìu Thép đã chặt được khúc gỗ lớn). Tiền lấy từ khoản ví vượt dự kiến, nên các món **1–3** giữ nguyên ngày. **Hạ 8 không chặt được cây** vì Rìu ở chỗ Clint, xem [[#☀️ Hạ 8 (Thứ Hai) — 🎂 Sinh nhật Gus · 🌺 Anh túc chín · 🏛️ vòng nộp và tặng\|Ngày 8]] |
 | Năm 2 | Các món **Iridium** | Khi có đủ **Thỏi Iridium** | Đang có 21 Quặng iridium, 0 Thỏi. Món đầu là **Bình Tưới Iridium** |
 
 Mỗi món lên Vàng **10.000g + 5 Thỏi vàng** (Quicksave 22:00 Hạ 7 có **56**: 39 ở `Tài Nguyên` + 17 ở `A Lò nung`, dư cho 3 món Vàng còn lại), lên Iridium **25.000g + 5 Thỏi Iridium**. Giá lấy theo trí nhớ, xem lại trong menu Clint trước khi trả tiền.
