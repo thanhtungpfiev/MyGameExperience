@@ -1,0 +1,5 @@
+#!/bin/sh
+# Guard Wind - Daily.md against edits that land in the wrong season.
+# Bypass when a closed season really needs editing:
+#   ALLOW_CLOSED_SEASON_EDIT=1 git commit ...
+exec python "$(git rev-parse --show-toplevel)/.githooks/check_wind_daily.py"

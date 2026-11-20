@@ -64,3 +64,9 @@ message đã push) nằm ở skill `commit`. Đây chỉ là phần riêng của
   (`Initial commit`, và hai commit tiếng Việt). Thân bài cũ phần lớn đã lập luận đúng tinh
   thần Problem → Solution → Implications nhưng ở dạng văn xuôi không nhãn. **Nhãn là quy
   ước kể từ đây**, không viết lại commit cũ.
+- **Hook `pre-commit`** (`.githooks/`, bật bằng `git config core.hooksPath .githooks` trên
+  mỗi máy clone về) soi `Wind - Daily.md`: chặn commit khi một **mùa đã chơi xong** bị đổi
+  (danh sách `CLOSED` trong `check_wind_daily.py`, hết mùa nào thì thêm mùa đó), và khi có
+  hai tiêu đề `###` trùng nhau. Sửa mùa cũ có chủ đích thì commit với
+  `ALLOW_CLOSED_SEASON_EDIT=1`. **Tiêu đề ngày luôn là `<mùa> N (Thứ X) — …`** (`Hạ 10`,
+  `Thu 3`), không viết `Ngày N`: Xuân và Hạ từng trùng tên ngày, script sửa nhầm mùa hai lần.

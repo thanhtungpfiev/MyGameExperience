@@ -7,3 +7,4 @@
 
 # Log va snapshot trang do Playwright MCP tu do ra - chi la rac cua phien duyet web
 **/.playwright-mcp/
+__pycache__/
