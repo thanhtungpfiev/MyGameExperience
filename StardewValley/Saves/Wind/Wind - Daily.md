@@ -578,16 +578,22 @@ _Chốt từ **Quicksave Hạ 10**, ghi lúc 08:56 giờ máy ngày 20/11, 24:00
 
 ---
 
-### ☀️ Ngày 11 (Thứ Năm) — 🎉 Lễ hội Luau · 🌋 Lươn dung nham
+### ☀️ Ngày 11 (Thứ Năm) — 🎉 Lễ hội Luau · 🌋 Lươn dung nham · 🍀 may cao
 
-**📝 Dự kiến:**
-- [ ] 🎉 **Luau** ở Bãi biển, 09:00–14:00: bỏ 1 **Súp lơ** (Cauliflower) **chất lượng Vàng** vào nồi súp, save có đúng 1 cây Vàng. Giá gốc 175g, theo wiki là mức Thống đốc khen nhất (từ Vàng trở lên, giá gốc từ 160g); mình chưa kiểm công thức này trong code game. **Quần đùi tím may mắn** vẫn giữ cho Hội chợ Thu 16. Món dự phòng thì đừng lấy ở dãy rương (49–52, 7) và (55, 16): đó là năm rương cá bộ sưu tập
+**📋 Thực tế** _(save Wind_448678493, đầu Hạ 11, lưu 08:57 giờ máy ngày 20/11)_: ☀️ nắng, lễ hội · mai ☀️ nắng · 🍀 **may cao** (`dailyLuck` +0,061) · ví **19.251g** · hộp thư: **Công thức của Marnie** · nhà còn **2 ngày** (xong sáng Hạ 13) · chín: 5 **Hạt cà phê** · 1 **Bí ngòi** · **59 ô chưa tưới** · 15 **Quặng Iridium** đã nung ra **3 Thỏi Iridium** ở rương (76, 13), tổng **6 Thỏi** · Gỗ 154 · Đá 816 · Haley 2.329 điểm · Genanie lên 23 điểm, tuổi 1.
+
+**📌 Quest:** chỉ còn **"Quần đùi" của Thị trưởng**, giữ cho Hội chợ Thu 16. **Giao hàng: Elliott** đã hết hạn.
+
+**🌦️ Nhánh:** ☀️ Nắng × 🍀 May cao, nhưng là ngày lễ hội: luật [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|Hang Đầu lâu]] bỏ ngày lễ hội, nên chiều dành cho Lươn dung nham như đã dự kiến. Clint, Robin, Pierre đều đi Luau tới 14:00.
+
+**✅ Việc hôm nay** (1 chính + 2 phụ, thu hoạch và tưới là routine)
+- [ ] 💧 Routine, **trước 9:00**: tưới **59 ô** khô (ngoài vùng vòi). Vào Luau là ra lúc 14:00, tưới trước cho khỏi quên
+- [ ] 🎉 **Luau** ở Bãi biển, 09:00–14:00: lấy 1 **Súp lơ phẩm Vàng** ở rương (56, 16), bỏ vào nồi súp. Giá gốc 175g, theo wiki là mức Thống đốc khen nhất (từ Vàng trở lên, giá gốc từ 160g); chưa kiểm công thức này trong code game. **Quần đùi tím may mắn** giữ cho Hội chợ Thu 16
 - [ ] 🌋 **Chính · chiều, Hầm Mỏ tầng 100:** câu **Lươn dung nham ×5** bằng **9 mồi nhắm** đang trong túi, trả về `Cá Mùa Hè` · `Cá Mùa Xuân` · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá`. Dư con nào thì giữ 1 con làm mồi cho lần sau
-- ☕ Hái 5 **Hạt cà phê**: (11, 23) · (13, 23) · (14, 23) · (16, 23) · (70, 27)
-- 💜 **Sebastian** tuần này đã nhận đủ 2 quà, chỉ nói chuyện. Quà tuần mới mở từ Chủ Nhật Hạ 14
-- 🏠 Robin đang xây nhà (xong sáng Hạ 13), hôm nay không đặt được gì
-- 💧 Nắng thì tưới 57 ô ngoài vùng vòi
-
+- [ ] 📬 Mở thư **Công thức của Marnie** (công thức nấu ăn, nấu được từ Hạ 13 khi nhà có bếp)
+- ☕ Hái 5 **Hạt cà phê**: (11, 23) · (13, 23) · (14, 23) · (16, 23) · (70, 27) · thu 1 **Bí ngòi**
+- 💜 **Sebastian** tuần này đã nhận đủ 2 quà, chỉ nói chuyện (Luau có mặt cả làng). Haley cũng ở Luau, nói chuyện +20
+- 🏠 Robin đang xây nhà, hôm nay không đặt được gì
 ---
 
 ### 🛒 Ngày 12 (Thứ Sáu) — 🍅 Cà chua chín · 🌶️ Ớt lứa ba · 🛒 Xe hàng rong
