@@ -580,7 +580,7 @@ _Chốt từ **Quicksave Hạ 9**, ghi lúc 08:05 giờ máy ngày 19/11, 23:00 
 - [ ] 💀 **Chính · chiều, Hang Đầu lâu tầng 25–35** lấy **Quặng iridium** → `A Lò nung`. Xe buýt đi Sa mạc 500g. Mang **5 Bom tấn**, chừa ô cho quặng. Về đếm Quặng iridium ở `Tài Nguyên` để đo tốc độ
 - [ ] 🫐 Thu **Việt quất** lứa đầu (10 ô ở y 22), nộp 1 **Trái việt quất** → **Nông sản Mùa Hè** 2/4 · thu 6 **Bí ngòi**
 - 💧 Routine: tưới **58 ô** đang khô ngay lúc 6:00, trước khi đi
-- 🪵 **Gỗ:** chặt (93, 85) · (100, 75) · Bìa rừng (24, 10). Gieo ở **khu A**: (82, 76) · (76, 78). Hang về muộn thì dời sang Hạ 11
+- 🪵 Bỏ lịch chặt, gieo cây ở rừng từ hôm nay, xem [[#🪵 Gỗ|Gỗ]]
 - 🎣 Không còn loài nắng nào phải câu. Ba loài mưa (Cá trê · Cá hồng · Cá trích dày mình) vẫn chờ ngày mưa đầu tiên
 - 🛒 **Pierre** nghỉ Thứ Tư
 - Ví sau khi chi: **31.023g − 12.500g − 500g vé − 150g Clint ≈ 17.870g**. Sau nhà còn **106 Gỗ**, nên **Chuồng gia cầm lớn** (10.000g + 400 Gỗ + 150 Đá) kéo lên **Hạ 13** thì phải mua thêm khoảng 110 Gỗ ở Robin. Chốt ở nhịp ③ Hạ 10
@@ -593,7 +593,6 @@ _Chốt từ **Quicksave Hạ 9**, ghi lúc 08:05 giờ máy ngày 19/11, 23:00 
 - [ ] 🎉 **Luau** ở Bãi biển, 09:00–14:00: bỏ 1 **Súp lơ** (Cauliflower) **chất lượng Vàng** vào nồi súp, save có đúng 1 cây Vàng. Giá gốc 175g, theo wiki là mức Thống đốc khen nhất (từ Vàng trở lên, giá gốc từ 160g); mình chưa kiểm công thức này trong code game. **Quần đùi tím may mắn** vẫn giữ cho Hội chợ Thu 16. Món dự phòng thì đừng lấy ở dãy rương (49–52, 7) và (55, 16): đó là năm rương cá bộ sưu tập
 - [ ] 🌋 **Chính · chiều, Hầm Mỏ tầng 100:** câu **Lươn dung nham ×5** bằng **9 mồi nhắm** đang trong túi, trả về `Cá Mùa Hè` · `Cá Mùa Xuân` · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá`. Dư con nào thì giữ 1 con làm mồi cho lần sau
 - ☕ Hái 5 **Hạt cà phê**: (11, 23) · (13, 23) · (14, 23) · (16, 23) · (70, 27)
-- 🪵 **Gỗ:** chặt (89, 90) · (85, 94) · Bìa rừng (32, 16). Gieo ở **khu A**: (78, 78) · (80, 78)
 - 💜 **Sebastian** tuần này đã nhận đủ 2 quà, chỉ nói chuyện. Quà tuần mới mở từ Chủ Nhật Hạ 14
 - 🏠 Robin đang xây nhà (xong sáng Hạ 13), hôm nay không đặt được gì
 - 💧 Nắng thì tưới 57 ô ngoài vùng vòi
@@ -606,7 +605,6 @@ _Chốt từ **Quicksave Hạ 9**, ghi lúc 08:05 giờ máy ngày 19/11, 23:00 
 - [ ] 🍅 Thu **Cà chua** (19, 23), nộp → **Nông sản Mùa Hè** 3/4. Cây ra lại nên vẫn giữ được dự phòng quest. Món cuối là **Dưa** sáng Hạ 13
 - [ ] 🌶️ Thu lứa Ớt thứ ba (**53 cây**) · 19 **Việt quất** lứa đầu ở y 24–25 · 1 **Hoa bia** (Hops) ở (8, 23)
 - 🌦️ Việc chính chốt ở nhịp ①: mưa thì đi câu ba loài mưa (Cá trê ×4 ở Khu rừng Bí mật · Cá hồng ×4 ở biển · Cá trích dày mình ×3 ở sông); nắng mà may cao thì [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|Hang Đầu lâu]] tầng 25–35 lấy quặng iridium; còn lại thì vét bẫy cua và đi một vòng nói chuyện
-- 🪵 **Gỗ:** chặt (56, 80) · (55, 73) · Bìa rừng (42, 11). Gieo ở **khu A**: (74, 80) · (76, 80)
 - 🛒 **Xe hàng rong** mở, **không mua Hạt giống hiếm** (tiền dành cho chuồng). **Clint** vắng Thứ Sáu
 - 💧 Nắng thì tưới 57 ô ngoài vùng vòi
 - Sắp tới: **Hạ 13** nhà xong · 18 **Dưa** chín → nộp **Nông sản Mùa Hè** 4/4, 18 ô trống thì gieo lại (hạn gieo Dưa là Hạ 16) · 5 **Lúa mì** ở Ruộng 6 · **Hạ 14** Haley, Sebastian mở quà tuần mới · **Hạ 21** TV dạy **Cơm cuộn Rong biển** cho gói **Đầu Bếp**
@@ -710,7 +708,7 @@ Từ khoảng Thu 14, khi tiền vụ Thu về (chốt lại lúc lập kế ho�
 
 **Luật khi đi mua:**
 
-- 🪵 **Gỗ mua đúng hôm đặt công trình.** Từ sáng hôm sau Robin đi xây, không đứng ở quầy nên không bán được. Cả chuỗi tới Thu 1 còn cần **1.850 Gỗ** (nhà 450 · chuồng 400 · 450 · 550), đang có 73. Cột ví đã tính mua hết, khoảng 18.000g, nên Gỗ tự chặt là tiền dư ra. Chặt ở đâu, mua bao nhiêu: [[#🪵 Gỗ và trồng cây ở Rừng Cindersap|Gỗ và trồng cây]].
+- 🪵 **Gỗ mua đúng hôm đặt công trình.** Từ sáng hôm sau Robin đi xây, không đứng ở quầy nên không bán được. Cần mua bao nhiêu: [[#🪵 Gỗ|Gỗ]].
 - 🪨 **Đá thiếu 6:** còn 644 viên, chuỗi tới Thu 1 cần 650. Đập thêm ở Hang Đầu lâu, hoặc mua ở Robin 20g/viên.
 - 🎒 Công trình lấy **Gỗ, Đá trong túi**, không lấy trong rương, nên lấy sẵn trước khi tới quầy.
 - 📅 **Robin** nghỉ Thứ Ba: Hạ 9 · 16 · 23. **Marnie** nghỉ Thứ Hai, Thứ Ba: Hạ 8 · 9 · 15 · 16 · 22 · 23. **Pierre** nghỉ Thứ Tư: Hạ 10 · 17 · 24. Hạ 11 và Hạ 28 có lễ hội, không xếp việc mua.
@@ -719,54 +717,9 @@ Từ khoảng Thu 14, khi tiền vụ Thu về (chốt lại lúc lập kế ho�
 
 _Tiền dự báo chỉ tính cây đang trồng, chưa tính cá, khoáng sản, đồ trong rương: Ớt ≈2.500g mỗi 3 ngày · Việt quất ≈175g/ô mỗi lứa (131 ô Hạ 14, 142 ô Hạ 18 · 22 · 26, 19 ô Hạ 12 · 16 · 20 · 24 · 28) · 12 Dưa ≈4.000g Hạ 13 · Ngô ≈1.100g mỗi 4 ngày. Tiền về sáng hôm sau ngày ship. Giá, số ngày xây, số ngày lớn đọc từ `Data/Buildings`, `Data/FarmAnimals` và mã game 1.6.15. Lấy theo trí nhớ, chưa đọc được từ file game: 1.000g của Xô Vắt sữa, 5 ngày lớn của Vịt, ngày nghỉ của Pierre. Lịch nghỉ Thứ Hai của Marnie suy từ lịch trình NPC, chưa thử trong game._
 
-#### 🪵 Gỗ và trồng cây ở Rừng Cindersap
+#### 🪵 Gỗ
 
-_Tính từ Quicksave Hạ 6. **Mỗi ngày chặt 3 cây, gieo 2 hạt** ở rừng. Nông trại dọn theo [[#🧹 Dọn nông trại|lịch bên dưới]] và không gieo thêm ở đó. Mỗi cây chặt cả gốc được **≈20 Gỗ** với nghề **Kiểm lâm** (Forester). Đo ở Hạ 6: 3 cây ra 67 Gỗ, khoảng 22 Gỗ mỗi cây, nên bảng dưới tính hơi thấp._
-
-**Luật gieo ở rừng:**
-
-- **Chỉ gieo được trên nền đất**, không gieo được trên cỏ. Cả 55 cây đang có ở rừng đều đứng trên cỏ, nên **không gieo lại đúng chỗ vừa chặt được**.
-- **Tất cả ô gieo nằm ở bờ nam hồ lớn**, nửa dưới Rừng Cindersap. Từ nông trại đi xuống theo x ≈ 76, qua **cầu ngang** (x 77–82, y 49) ra bãi giữa hồ, rồi **cầu dọc** (x 87–88, y 52–56) sang bờ nam, khoảng 100 bước.
-- 33 ô đều là đất trống, cách nhau ít nhất 1 ô, không sát cây khác và đi bộ tới được. Đã bỏ các đường đất dài trong rừng, nhưng chưa đối chiếu lịch đi của NPC. Chưa thử gieo trong game, ô nào báo đỏ hoặc chắn lối thì đổi sang ô đất kế bên.
-
-| Khu | Ở đâu | Số ô | Toạ độ |
-|---|---|---|---|
-| **A** | Bãi đất lớn phía nam, đi từ cuối cầu dọc xuống khoảng 20 ô | 14 | x 74–82, y 74–80 |
-| **B** | Bãi đất ngay bên phải khu A, trước cửa **Mastery Cave** (101, 71) | 8 | x 88–92, y 76–80 |
-| **C** | Mép hồ, ngay dưới cuối cầu dọc | 2 | (84, 60) · (86, 60) |
-| **D** | Bãi đất nhỏ phía tây khu C, cách mép hồ vài ô | 6 | x 71–73, y 63–67 |
-| **E** | Đường đất ven hồ, giữa khu C và khu D | 3 | (75, 61) · (79, 61) · (81, 61) |
-
-- **Hạt:** lấy ở `Hạt Giống, Phân Bón` (58, 15). Ô đầu mỗi ngày gieo **Quả thông**, ô thứ hai lần lượt **Hạt phong**, **Hạt sồi**. Không cần tưới.
-- **Bón Phân bón cây:** còn **17** cái trong túi. Hạt được bón lớn một nấc mỗi ngày, gieo hôm nay thì **5 ngày sau** chặt được. Bón cho 2 hạt mỗi ngày từ Hạ 7, đủ tới Hạ 14. Mỗi cái tốn 5 Sợi + 5 Đá, đừng chế thêm khi Đá chưa đủ 650.
-- **Mỗi ngày chỉ làm phần của ngày đó**, lỡ thì cộng vào hôm sau. Không phải chặt đúng thứ tự trong bảng.
-
-| Ngày | Chặt ở rừng | Chặt nơi khác | Gieo ở rừng |
-|---|---|---|---|
-| Hạ 6 | (72, 75) · (85, 79) | Bến Xe (22, 4) | **A** (76, 74) · **A** (78, 74) |
-| Hạ 7 | (78, 65) · (71, 69) | Bến Xe (29, 17) | **A** (80, 74) · **A** (82, 74) |
-| Hạ 8 | (88, 71) · (95, 77) | Bến Xe (32, 13) | **A** (74, 76) · **A** (76, 76) |
-| Hạ 9 | (72, 89) · (77, 95) | Bến Xe (35, 19) | **A** (78, 76) · **A** (80, 76) |
-| Hạ 10 | (93, 85) · (100, 75) | Bìa rừng (24, 10) | **A** (82, 76) · **A** (76, 78) |
-| Hạ 11 | (89, 90) · (85, 94) | Bìa rừng (32, 16) | **A** (78, 78) · **A** (80, 78) |
-| Hạ 12 | (56, 80) · (55, 73) | Bìa rừng (42, 11) | **A** (74, 80) · **A** (76, 80) |
-| Hạ 13 | (52, 76) · (99, 84) | Đường tàu (25, 51) | **B** (88, 76) · **B** (90, 76) |
-| Hạ 14 | (103, 82) · (48, 77) | Đường tàu (41, 28) | **B** (88, 78) · **B** (90, 78) |
-| Hạ 15 | (106, 81) · (86, 49) | Đường tàu (45, 51) | **B** (92, 78) · **B** (88, 80) |
-| Hạ 16 | (104, 93) · (109, 89) | Đường tàu (47, 28) | **B** (90, 80) · **B** (92, 80) |
-| Hạ 17 | (66, 43) · (56, 50) | Đường tàu (60, 49) | **C** (84, 60) · **C** (86, 60) |
-| Hạ 18 | (59, 42) · (41, 94) | Đường tàu (62, 52) | **D** (71, 63) · **D** (73, 63) |
-| Hạ 19 | (44, 55) · (51, 45) | Dãy Núi (5, 30) | **D** (71, 65) · **D** (73, 65) |
-| Hạ 20 | (55, 40) · (59, 33) | Dãy Núi (28, 33) | **D** (71, 67) · **D** (73, 67) |
-| Hạ 21 | (40, 51) · (13, 78) | Dãy Núi (46, 30) | **E** (75, 61) · **E** (79, 61) |
-| Hạ 22 | (30, 56) · (23, 91) | Dãy Núi (57, 19) | **E** (81, 61) |
-| Hạ 23 | (11, 75) · (14, 83) | Dãy Núi (67, 20) | — |
-| Hạ 24 | (57, 26) · (18, 89) | Dãy Núi (69, 10) | — |
-| Hạ 25 | (34, 47) · (36, 44) | Dãy Núi (108, 24) | — |
-| Hạ 26 | (13, 67) · (57, 20) | Dãy Núi (108, 32) | — |
-| Hạ 27 | (29, 46) · (25, 50) | Dãy Núi (116, 28) | — |
-| Hạ 28 | (53, 21) · (58, 13) | Dãy Núi (117, 33) | — |
-| Thu 1 | (16, 52) · (49, 17) | Dãy Núi (124, 33) | — |
+_Từ Hạ 10 bỏ lịch chặt 3 cây, gieo 2 hạt mỗi ngày ở Rừng Cindersap: cây ngoài rừng tự mọc lại khá nhiều, việc gieo người chơi tự làm khi cần, Phân bón cây đã có. Day plan không xếp việc chặt, gieo nữa. Cây gieo ở khu A (x 74–82, y 74–78) cứ để lớn. Quicksave Hạ 10: **154 Gỗ** trong túi._
 
 **🧹 Dọn nông trại**
 
@@ -775,26 +728,17 @@ _Tính từ Quicksave Hạ 6. **Mỗi ngày chặt 3 cây, gieo 2 hạt** ở r�
 - **Hạ 14 và Hạ 19, chặt 19 cây nấc 4 khi đã lớn, ≈20 Gỗ mỗi cây:** (9, 58) · (9, 60) · (17, 46) · (18, 50) · (18, 57) · (19, 39) · (21, 11) · (21, 46) · (21, 47) · (22, 52) · (22, 59) · (25, 49) · (49, 60) · (61, 37) · (65, 35) · (66, 34) · (66, 48) · (69, 39) · (70, 43). Trung bình 5 ngày nữa lớn, nên khoảng 15 cây sẵn sàng ở Hạ 14, 18 cây ở Hạ 19. Cây chưa lớn thì để lần sau.
 - **Giữ lại 5 cây đang gắn chén:** Sồi (66, 39) · (51, 29), Phong (59, 36) · (48, 29), Thông (54, 29).
 
-**Gỗ có đủ không** (tính từ đầu Hạ 6, gồm Gỗ dọn nông trại, chưa cộng 18 cây được bón, khoảng 400 Gỗ nữa từ Hạ 11, và 32 cây con nông trại, khoảng 640 Gỗ nữa, phần lớn vào mùa Thu):
+**Gỗ cho các công trình còn lại** (Quicksave Hạ 10, 154 Gỗ):
 
-| Đặt công trình | Cần | Gỗ có tới hôm đó | Mua thêm ở Robin |
-|---|---|---|---|
-| Hạ 14 **Nâng cấp nhà** | 450 | ≈990 | 0 |
-| Hạ 17 **Chuồng gia cầm lớn** | 400 | ≈720 | 0 |
-| Hạ 19 **Chuồng Gia súc lớn** | 450 | ≈500 | 0 |
-| Thu 1 **Chuồng Gia súc cao cấp** | 550 | ≈650 | 0, dư ≈100 |
+| Đặt công trình | Cần | Mua ở Robin nếu không chặt thêm |
+|---|---|---|
+| Hạ 13–17 **Chuồng gia cầm lớn** | 400 | ≈250 |
+| Hạ 19 **Chuồng Gia súc lớn** | 450 | 450 |
+| Thu 1 **Chuồng Gia súc cao cấp** | 550 | 550 |
 
-Theo ước lượng thì **không phải mua Gỗ**, trong khi [[#🏗️ Lịch xây và mua thú|Lịch xây và mua thú]] đã tính khoảng 18.000g tiền Gỗ, nên phần đó dư ra trong ví. Mỗi cây ra ít hơn dự tính hoặc cây nấc 4 lớn chậm thì mua bù ở Robin đúng hôm đặt.
-
-**Sau Thu 1:**
-
-- Mỗi ngày mỗi hạt có 20% lớn một nấc, 5 nấc mới trưởng thành. Hạt gieo Hạ 6 có **46%** lớn trước Thu 1, **86%** trước Thu 14. Hạ 22 gieo xong 33 ô thì tới **khoảng cuối Thu** mới lớn gần hết.
-- Rừng vẫn còn **6 cây cũ** sau Thu 1. Từ Thu chặt cả cây gieo đã lớn, rồi gieo lại đúng ô đó vì ô vẫn là nền đất. 33 ô chỉ cho khoảng 1 cây mỗi ngày về lâu dài. 32 cây con để lại trên nông trại bù được khoảng 640 Gỗ trong mùa Thu, nhưng **Chuồng Gia cầm cao cấp** và **Nhà Kho** (800 Gỗ) vẫn có thể phải mua thêm. Chốt khi lập kế hoạch Thu.
-- **Thị trấn** (17 cây) chưa dùng, để dự phòng.
+Cột ví ở [[#🏗️ Lịch xây và mua thú|Lịch xây và mua thú]] đã tính mua hết Gỗ, nên Gỗ chặt được ở nông trại hay ngoài rừng là tiền dư ra. Đếm Gỗ trong túi ở mỗi lần đọc save trước hôm đặt.
 
 **Nhựa sồi:** chế 1 **Chén hứng Nhựa cây** (40 Gỗ + 2 Thỏi đồng, có 27 Thỏi đồng ở `Tài Nguyên`), gắn vào **Sồi (66, 39)** trên nông trại cho gói **Phù Thủy**. **Sồi (51, 29)** cũng đã gắn chén, thành nguồn Nhựa sồi thứ hai.
-
-_Nguồn: `GameLocation.CanPlantTreesHere` (ngoài nông trại chỉ nhận hạt cây trên ô `Type = Dirt`), `Data/Locations` (Forest không đặt `CanPlantHere`), `Data/WildTrees` (GrowthChance 0,2), `Tree.GetMaxSizeHere`, `Tree.IsGrowthBlockedByNearbyTree`, `Maps/Forest`, game 1.6.15; số cây đọc từ save._
 
 #### 💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì
 
