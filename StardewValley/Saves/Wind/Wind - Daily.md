@@ -590,16 +590,21 @@ _Chốt từ **Quicksave Hạ 11**, ghi lúc 07:44 giờ máy ngày 21/11, 22:10
 
 ---
 
-### 🛒 Hạ 12 (Thứ Sáu) — 🍅 Cà chua chín · 🌶️ Ớt lứa ba · 🛒 Xe hàng rong
+### 🛒 Hạ 12 (Thứ Sáu) — 🍅 Cà chua chín · 🌶️ Ớt lứa ba · 🛒 Xe hàng rong · 💀💀 rất xui
 
-**📝 Dự kiến:**
-- [ ] 🍅 Thu **Cà chua** (19, 23), nộp → **Nông sản Mùa Hè** 3/4. Cây ra lại nên vẫn giữ được dự phòng quest. Món cuối là **Dưa** sáng Hạ 13
-- [ ] 🌶️ Thu lứa Ớt thứ ba (**53 cây**) · 19 **Việt quất** lứa đầu ở y 24–25 · 1 **Hoa bia** (Hops) ở (8, 23)
-- 🌦️ Việc chính chốt ở nhịp ①: mưa thì đi câu ba loài mưa (Cá trê ×4 ở Khu rừng Bí mật · Cá hồng ×4 ở biển · Cá trích dày mình ×3 ở sông); nắng mà may cao thì [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|Hang Đầu lâu]] tầng 25–35 lấy quặng iridium; còn lại thì vét bẫy cua và đi một vòng nói chuyện
-- 🛒 **Xe hàng rong** mở, **không mua Hạt giống hiếm** (tiền dành cho chuồng). **Clint** vắng Thứ Sáu
-- 📬 Mở thư **Công thức cũ của Willy** (công thức nấu ăn) · 💛 nói chuyện với **Haley** (+20, lên 2.489). Quà tuần đã đủ 2/2, chờ Hạ 14
-- 💧 Nắng thì tưới 57 ô ngoài vùng vòi
-- Sắp tới: **Hạ 13** nhà xong, đặt **Chuồng gia cầm lớn**, Dưa chín
+**📋 Thực tế** _(Quicksave đầu Hạ 12, 06:00 trong game, lưu 07:50 giờ máy ngày 21/11)_: ☀️ nắng · mai ☀️ nắng · 💀💀 **rất xui** (`dailyLuck` −0,093) · ví **20.051g** · hộp thư: **Công thức cũ của Willy** · nhà còn **1 ngày** (xong sáng Hạ 13) · chín: 53 **Ớt hiểm** · 29 **Trái việt quất** · 6 **Bí ngòi** · 5 **Hạt cà phê** · 1 **Cà chua** · 1 **Hoa bia** · **Nhựa phong** ở chén (59, 36) · **58 ô chưa tưới** · Haley 2.469 điểm, quà tuần 2/2.
+
+**📌 Quest:** **Giao hàng: Robin** cần 1 **Củ cải**, thưởng 270g, còn 2 ngày (hết đêm Hạ 13). Trong rương không có Củ cải. 6 cây Củ cải ở Ruộng 6 còn 3 ngày mới chín (Hạ 15), nên không kịp. **"Quần đùi" của Thị trưởng** vẫn giữ cho Hội chợ Thu 16.
+
+**🌦️ Nhánh:** ☀️ Nắng × 💀💀 Rất xui → chỉ làm việc cho kết quả cố định: thu hoạch, nộp gói, nói chuyện. Không vào mỏ, không vào Hang Đầu lâu. Ba loài cá còn thiếu của mùa Hạ đều chỉ cắn khi mưa, nên hôm nay không có việc câu cá cho rương.
+
+**✅ Việc hôm nay** (1 chính + 2 phụ, thu hoạch và tưới là routine)
+- [x] 💧 Routine: tưới **58 ô** ngoài vùng vòi
+- [x] 🍅 **Chính:** thu **Cà chua** (19, 23), nộp → **Nông sản Mùa Hè** 3/4. Cây ra lại nên vẫn giữ được dự phòng quest. Món cuối là **Dưa** sáng Hạ 13
+- [x] 🌶️ Thu 53 **Ớt hiểm** · 29 **Trái việt quất** · 6 **Bí ngòi** · 5 **Hạt cà phê** · 1 **Hoa bia** (8, 23) · lấy **Nhựa phong** ở (59, 36) cất rương
+- [x] 🛒 **Xe hàng rong** không bán **Củ cải** → ⏭️ bỏ quest **Giao hàng: Robin**, để tự hết hạn đêm Hạ 13. Không mua Hạt giống hiếm
+- [x] 📬 Mở thư **Công thức cũ của Willy** · 💛 nói chuyện với **Haley** (+20, lên 2.489), cảnh 10 tim chờ Hạ 13
+- **Clint** vắng Thứ Sáu · Robin đang xây nhà, hôm nay không đặt được gì
 
 ---
 
