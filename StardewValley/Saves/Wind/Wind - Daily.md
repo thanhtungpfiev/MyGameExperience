@@ -603,7 +603,7 @@ _Chốt từ **Quicksave Hạ 12**, ghi lúc 15:46 giờ máy ngày 21/11. Rất
 
 ---
 
-### ⛈️ Hạ 13 (Thứ Bảy) — 🏠 Nhà xong · 🐔 Chuồng gia cầm lớn · 🍈 Dưa chín · ⛈️ giông · 🍀🍀 rất may
+### ⛈️ Hạ 13 (Thứ Bảy) — 🎂 Sinh nhật Alex · 🏠 Nhà xong · 🐔 Chuồng gia cầm lớn · 🍈 Dưa chín · ⛈️ giông · 🍀🍀 rất may
 
 > _**Hạ 13 và Hạ 26 năm nào cũng giông.** Save tối Hạ 12 ghi `weatherForTomorrow` = `Sun` vì game chỉ ép giông lúc sang ngày; save sáng Hạ 13 đã ghi `isLightning` = `true`. Nguồn: wiki và hàm `getWeatherModificationsForDate` (bản 1.5 ép giông khi ngày mùa Hạ chia hết cho 13), chưa đọc lại dữ liệu bản 1.6.15 vì `Data/LocationContexts` bị nén._
 
@@ -618,6 +618,7 @@ _Chốt từ **Quicksave Hạ 12**, ghi lúc 15:46 giờ máy ngày 21/11. Rất
 - [ ] 🐔 **Robin: Chuồng gia cầm lớn**: 10.000g + 400 Gỗ + 150 Đá, xong sáng **Hạ 15**. Túi đã có **401 Gỗ** _(Quicksave 16:14 giờ máy)_, **khỏi mua Gỗ**, chỉ cần lấy 150 Đá vào túi. Ví sau đó **≈17.500g**
 - [x] 🍈 Thu 18 **Dưa** → **Nông sản Mùa Hè** 4/4 xong gói · 5 **Dưa** Vàng → **Nông sản Chất lượng cao** 1/3 · 12 **Dưa** trong túi để ship _(Quicksave 16:14 giờ máy)_
 - [ ] 🌱 Pierre: 18 **Hạt giống dưa** (≈1.440g) gieo lại, chín Hạ 25 · 5 **Hạt lúa mì** gieo lại ô Lúa mì
+- [ ] 🎂 **Sinh nhật Alex** (1.287 điểm, quà tuần đã 2/2 nhưng quà sinh nhật vẫn tặng được): tặng 1 **Trứng lớn** chất lượng Vàng ở rương (55, 14), là món Alex **thích**, quà sinh nhật nhân 8. Món Alex **mê** đang có trong kho chỉ có **Kẹo đá ma thuật** (rương (55, 15)), nhưng nên giữ cho chuyến Hang Đầu lâu. Hai món ruột **Bữa sáng hoàn chỉnh**, **Bữa tối cá hồi** thì chưa có công thức hoặc nguyên liệu
 - [ ] 💛 Nói chuyện với **Haley** → **2.509 điểm = 10 tim** → vào **Nhà của Emily & Haley** lúc cô ấy ở nhà để nổ cảnh **10 tim** (ID 15). Chọn **"Nhìn tuyệt đấy!"**, câu thứ hai **"Thử hôn cô ấy."** · [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]
 - [ ] 💍 **Dây chuyền tiên cá** 5.000g ở Ông lão đi biển, Bãi biển (chỉ có ngày mưa). Ví sau chuồng và hạt ≈16.000g → còn **≈11.000g**
 - [ ] 🏛️ **Bảo tàng:** quyên góp **Xương sườn tiền sử** (rương (57, 14)) → 71 món. **Mảnh tán sắc** cùng rương vẫn giữ cho gói **Mất Tích**
