@@ -615,15 +615,16 @@ _Chốt từ **Quicksave Hạ 12**, ghi lúc 15:46 giờ máy ngày 21/11. Rất
 
 **✅ Việc hôm nay** (1 chính + 2 phụ, thu hoạch là routine)
 - [ ] 🎣 **Chính:** **Cá trê ×4** ở Khu rừng Bí mật · **Cá hồng ×5** ở biển (06:00–19:00; 4 cho rương, 1 cho gói **Cá Biển**) · **Cá trích dày mình ×3** ở sông (từ 09:00), trả về `Cá Mùa Hè` · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá` theo [[#🎣 Hoàn thiện các rương cá|bảng]]. Mang **Mồi cao cấp** (10 trong túi)
-- [ ] 🐔 **Robin: Chuồng gia cầm lớn**: 10.000g + 400 Gỗ + 150 Đá, xong sáng **Hạ 15**. Mua **256 Gỗ** ở quầy (≈2.560g), lấy Đá vào túi trước khi tới. Ví sau đó **≈14.900g**
-- [ ] 🍈 Thu 18 **Dưa** → nộp 1 vào **Nông sản Mùa Hè** 4/4, giữ **5 Dưa chất lượng Vàng** cho **Nông sản Chất lượng cao**, còn lại ship · Pierre: 18 **Hạt giống dưa** (≈1.440g) gieo lại, chín Hạ 25 · 5 **Hạt lúa mì** gieo lại ô Lúa mì
+- [ ] 🐔 **Robin: Chuồng gia cầm lớn**: 10.000g + 400 Gỗ + 150 Đá, xong sáng **Hạ 15**. Túi đã có **401 Gỗ** _(Quicksave 16:14 giờ máy)_, **khỏi mua Gỗ**, chỉ cần lấy 150 Đá vào túi. Ví sau đó **≈17.500g**
+- [x] 🍈 Thu 18 **Dưa** → **Nông sản Mùa Hè** 4/4 xong gói · 5 **Dưa** Vàng → **Nông sản Chất lượng cao** 1/3 · 12 **Dưa** trong túi để ship _(Quicksave 16:14 giờ máy)_
+- [ ] 🌱 Pierre: 18 **Hạt giống dưa** (≈1.440g) gieo lại, chín Hạ 25 · 5 **Hạt lúa mì** gieo lại ô Lúa mì
 - [ ] 💛 Nói chuyện với **Haley** → **2.509 điểm = 10 tim** → vào **Nhà của Emily & Haley** lúc cô ấy ở nhà để nổ cảnh **10 tim** (ID 15). Chọn **"Nhìn tuyệt đấy!"**, câu thứ hai **"Thử hôn cô ấy."** · [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]
-- [ ] 💍 **Dây chuyền tiên cá** 5.000g ở Ông lão đi biển, Bãi biển (chỉ có ngày mưa). Ví sau chuồng và hạt ≈13.400g → còn **≈8.400g**
+- [ ] 💍 **Dây chuyền tiên cá** 5.000g ở Ông lão đi biển, Bãi biển (chỉ có ngày mưa). Ví sau chuồng và hạt ≈16.000g → còn **≈11.000g**
 - [ ] 🏛️ **Bảo tàng:** quyên góp **Xương sườn tiền sử** (rương (57, 14)) → 71 món. **Mảnh tán sắc** cùng rương vẫn giữ cho gói **Mất Tích**
 - [ ] 📦 **Nhà Văn hóa:** nộp 1 **Nhựa sồi** (rương (56, 15)) → **Phù Thủy** 1/4 · con **Cá hồng** thứ 5 câu hôm nay → **Cá Biển** 4/4
 - [ ] 🍳 Nấu 1 **Trứng chiên** (1 **Trứng** ở rương (55, 14)) → gói **Đầu Bếp** 4/6
 - [ ] 🍀 **Clint:** mở 1 **Chiếc hộp bí ẩn** · 2 **Hốc tinh dung nham**, đối chiếu Bảo tàng trước khi bán
-- 🌾 Routine: 5 **Lúa mì** · 5 **Bí ngòi** · 5 **Hạt cà phê** · 1 **Hoa bia**. Tối soát lại ruộng: ô nào sét đánh chết cây thì ghi lại, gieo bù hôm sau
+- [x] 🌾 Routine: 5 **Lúa mì** · 5 **Bí ngòi** · 5 **Hạt cà phê** · 1 **Hoa bia** đã thu _(Quicksave 16:14 giờ máy)_. Tối soát lại ruộng: ô nào sét đánh chết cây thì ghi lại, gieo bù hôm sau
 - Sắp tới: **Hạ 14** nắng, tưới · 131 **Trái việt quất** · quà tuần mới cho Haley, Sebastian
 
 ---
