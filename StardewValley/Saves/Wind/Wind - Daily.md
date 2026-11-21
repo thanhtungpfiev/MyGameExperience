@@ -592,20 +592,14 @@ _Chốt từ **Quicksave Hạ 11**, ghi lúc 07:44 giờ máy ngày 21/11, 22:10
 
 ### 🛒 Hạ 12 (Thứ Sáu) — 🍅 Cà chua chín · 🌶️ Ớt lứa ba · 🛒 Xe hàng rong · 💀💀 rất xui
 
-**📋 Thực tế** _(Quicksave đầu Hạ 12, 06:00 trong game, lưu 07:50 giờ máy ngày 21/11)_: ☀️ nắng · mai ⛈️ **giông** (save ghi `Sun`, TV báo bão) · 💀💀 **rất xui** (`dailyLuck` −0,093) · ví **20.051g** · hộp thư: **Công thức cũ của Willy** · nhà còn **1 ngày** (xong sáng Hạ 13) · chín: 53 **Ớt hiểm** · 29 **Trái việt quất** · 6 **Bí ngòi** · 5 **Hạt cà phê** · 1 **Cà chua** · 1 **Hoa bia** · **Nhựa phong** ở chén (59, 36) · **58 ô chưa tưới** · Haley 2.469 điểm, quà tuần 2/2.
+_Chốt từ **Quicksave Hạ 12**, ghi lúc 15:46 giờ máy ngày 21/11. Rất xui (`dailyLuck` −0,093): chỉ thu hoạch, nộp gói, nói chuyện, không vào mỏ._
 
-**📌 Quest:** **Giao hàng: Robin** cần 1 **Củ cải**, thưởng 270g, còn 2 ngày (hết đêm Hạ 13). Trong rương không có Củ cải. 6 cây Củ cải ở Ruộng 6 còn 3 ngày mới chín (Hạ 15), nên không kịp. **"Quần đùi" của Thị trưởng** vẫn giữ cho Hội chợ Thu 16.
-
-**🌦️ Nhánh:** ☀️ Nắng × 💀💀 Rất xui → chỉ làm việc cho kết quả cố định: thu hoạch, nộp gói, nói chuyện. Không vào mỏ, không vào Hang Đầu lâu. Ba loài cá còn thiếu của mùa Hạ đều chỉ cắn khi mưa, nên hôm nay không có việc câu cá cho rương.
-
-**✅ Việc hôm nay** (1 chính + 2 phụ, thu hoạch và tưới là routine)
-- [x] 💧 Routine: tưới **58 ô** ngoài vùng vòi
-- [x] 🍅 **Chính:** thu **Cà chua** (19, 23), nộp → **Nông sản Mùa Hè** 3/4. Cây ra lại nên vẫn giữ được dự phòng quest. Món cuối là **Dưa** sáng Hạ 13
-- [x] 🌶️ Thu 53 **Ớt hiểm** · 29 **Trái việt quất** · 6 **Bí ngòi** · 5 **Hạt cà phê** · 1 **Hoa bia** (8, 23) · lấy **Nhựa phong** ở (59, 36) cất rương
-- [x] 🛒 **Xe hàng rong** không bán **Củ cải** → ⏭️ bỏ quest **Giao hàng: Robin**, để tự hết hạn đêm Hạ 13. Không mua Hạt giống hiếm
-- [x] 📬 Mở thư **Công thức cũ của Willy** · 💛 nói chuyện với **Haley** (+20, lên 2.489), cảnh 10 tim chờ Hạ 13
-- **Clint** vắng Thứ Sáu · Robin đang xây nhà, hôm nay không đặt được gì
-- [ ] ⛈️ **Mai giông** (TV báo): chế **6 Cột thu lôi** trước khi ngủ (mỗi cái 1 **Thỏi sắt** · 1 **Thạch anh tinh luyện** · 5 **Cánh dơi**, rương đang có 46 · 52 · 93), cộng 1 cái sẵn trong rương là 7. Đặt rải quanh **Ruộng 1–3**, **Ruộng 6** và cây **Trái cổ đại** (72, 27). Mỗi cột chỉ đỡ được 1 tia mỗi đêm (đỡ xong thì giữ 1 **Cục pin** tới hôm sau), tia không có cột hứng thì đánh trúng ô ngẫu nhiên, làm chết cây trồng ở đó
+- [x] 🍅 **Cà chua** (19, 23) → **Nông sản Mùa Hè** 3/4, món cuối là **Dưa** sáng Hạ 13. Cây ra lại, giữ làm dự phòng quest
+- [x] 🌶️ Thu **Ớt hiểm** · **Trái việt quất** · 1 **Hoa bia** · **Nhựa phong** ở (59, 36) · tưới xong, **0 ô khô**
+- [x] 🛒 **Xe hàng rong** không bán **Củ cải** → bỏ quest **Giao hàng: Robin**, tự hết hạn đêm Hạ 13 · mua 1 **Hạt giống hiếm** (1.000g), rương (58, 15) có **11 hạt**
+- [x] ⛈️ Chế đủ **7 Cột thu lôi**, đã đặt: Ruộng 6 (29, 37) · (39, 37) · Ruộng 1–3 (7, 26) · (18, 26) · (29, 26) · (40, 26) · **Trái cổ đại** (71, 27)
+- [x] 📬 **Công thức cũ của Willy** · 💛 Haley **2.489 điểm** (đã nói chuyện, thiếu 11 tới 2.500), quà tuần 2/2 · Sebastian 993, hôm nay không nói chuyện
+- Ví **19.301g**, thùng ship 72 **Ớt hiểm** · 57 **Trái việt quất** · 4 **Dâu tây** · 5 **Mâm xôi cá hồi**, khoảng **8.200g** (đã tính +10% nghề **Thợ cày** (Tiller)) → sáng Hạ 13 khoảng **27.500g** · Gỗ trong túi **144** · thư mai: không có
 
 ---
 
@@ -614,14 +608,14 @@ _Chốt từ **Quicksave Hạ 11**, ghi lúc 07:44 giờ máy ngày 21/11, 22:10
 > _**Hạ 13 và Hạ 26 năm nào cũng giông.** Save ghi `weatherForTomorrow` = `Sun` (cả Quicksave 08:04 Hạ 12) vì game chỉ ép giông lúc sang ngày, còn TV và mod giao diện đã báo bão. Nguồn: wiki và hàm `getWeatherModificationsForDate` (bản 1.5 ép giông khi ngày mùa Hạ chia hết cho 13), chưa đọc lại dữ liệu bản 1.6.15 vì `Data/LocationContexts` bị nén._
 
 **📝 Dự kiến:**
-- [ ] 🐔 **Robin: Chuồng gia cầm lớn**, dời lên từ Hạ 17: 10.000g + 400 Gỗ + 150 Đá, xong sáng **Hạ 15**. Gỗ trong túi 154, **mua thêm 246 Gỗ** ở quầy, khoảng 2.460g (10g một Gỗ theo wiki, chưa kiểm trong file game). Ví sáng Hạ 13 dự kiến **≈23.450g** (20.050g + lứa Ớt, Việt quất Hạ 12 ≈3.400g), sau chuồng còn **≈11.000g**, trừ thêm 18 **Hạt giống dưa** (≈1.440g) còn **≈9.550g**. Lấy Gỗ, Đá vào túi trước khi tới quầy. Ví dưới 12.500g thì để lại Hạ 17 như cũ
+- [ ] 🐔 **Robin: Chuồng gia cầm lớn**, dời lên từ Hạ 17: 10.000g + 400 Gỗ + 150 Đá, xong sáng **Hạ 15**. Gỗ trong túi **144**, **mua thêm 256 Gỗ** ở quầy, khoảng 2.560g (10g một Gỗ theo wiki, chưa kiểm trong file game). Ví sáng Hạ 13 dự kiến **≈27.500g** (19.301g + thùng ship Hạ 12 ≈8.200g), sau chuồng còn **≈14.900g**, trừ thêm 18 **Hạt giống dưa** (≈1.440g) và 5 **Hạt lúa mì** còn **≈13.400g**. Lấy Gỗ, Đá vào túi trước khi tới quầy
 - [ ] 🍈 Thu 18 **Dưa** → nộp 1 vào **Nông sản Mùa Hè** 4/4. Giữ **5 Dưa chất lượng Vàng** cho gói **Nông sản Chất lượng cao**, phần còn lại ship · gieo lại 18 ô bằng **Hạt giống dưa** mua ở Pierre (Thứ Bảy mở), chín Hạ 25, kịp trước hạn gieo Hạ 16
 - [ ] 🍳 Nhà có **bếp**: nấu 1 **Trứng chiên** (1 **Trứng** ở rương (55, 14)) → gói **Đầu Bếp** 4/6
-- 🌾 Thu 5 **Lúa mì** ở Ruộng 6 · 5 **Bí ngòi**
+- 🌾 Thu 5 **Lúa mì** ở Ruộng 6, gieo lại ngay bằng **Hạt lúa mì** (Pierre) để còn cây dự phòng quest · 5 **Bí ngòi** · 5 **Hạt cà phê** · 1 **Hoa bia**
 - 🍀 **Clint:** mở 1 **Chiếc hộp bí ẩn** · 2 **Hốc tinh dung nham**, đối chiếu Bảo tàng trước khi bán
 - 🎣 **Chính · ngày mưa đầu tiên của Hạ:** câu **Cá trê ×4** ở Khu rừng Bí mật · **Cá hồng ×4** ở biển (06:00–19:00) · **Cá trích dày mình ×3** ở sông (từ 09:00), trả về `Cá Mùa Hè` · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá` theo [[#🎣 Hoàn thiện các rương cá|bảng]]. Mang **Mồi cao cấp** (10 trong túi)
 - 💧 Giông thì ruộng tự ướt, không tưới. Sáng ra soát ruộng xem có ô nào bị sét đánh chết cây, ô Dưa thì gieo lại luôn
-- 💛 **Haley lên 2.509 điểm = 10 tim** sau câu chuyện hôm nay → cảnh **10 tim** (ID 15) có thể nổ khi vào **Nhà của Emily & Haley** lúc Haley ở nhà. Chọn **"Nhìn tuyệt đấy!"** (+10), câu thứ hai **"Thử hôn cô ấy."** · điều kiện, câu tránh: [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Cùng hôm nhà xong, đủ điều kiện **Dây chuyền tiên cá**: Ông lão đi biển chỉ hiện ở Bãi biển ngày mưa, 5.000g, ví sau chuồng không đủ thì để dành
+- 💛 **Haley lên 2.509 điểm = 10 tim** sau câu chuyện hôm nay → cảnh **10 tim** (ID 15) có thể nổ khi vào **Nhà của Emily & Haley** lúc Haley ở nhà. Chọn **"Nhìn tuyệt đấy!"** (+10), câu thứ hai **"Thử hôn cô ấy."** · điều kiện, câu tránh: [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Cùng hôm nhà xong, đủ điều kiện **Dây chuyền tiên cá**: Ông lão đi biển chỉ hiện ở Bãi biển ngày mưa, 5.000g. Ví sau chuồng và hạt ≈13.400g nên **mua được**, còn ≈8.400g; Hạ 15 vẫn đủ tiền cây ăn quả nhờ lứa Việt quất Hạ 14
 - Sắp tới: **Hạ 14** 131 **Việt quất** chín, Haley, Sebastian mở quà tuần mới
 
 ---
@@ -629,12 +623,24 @@ _Chốt từ **Quicksave Hạ 11**, ghi lúc 07:44 giờ máy ngày 21/11, 22:10
 ### 🫐 Hạ 14 (Chủ Nhật) — 🫐 131 Việt quất · 🎁 quà tuần mới
 
 **📝 Dự kiến:**
-- [ ] 🫐 Thu lứa đầu của **131 Việt quất** còn lại · lứa Ớt kế tiếp là Hạ 15 · giữ ít nhất 1 cây mỗi loại cho quest giao hàng
+- [ ] 🫐 Thu **131 Trái việt quất** · 3 **Ớt hiểm** · 1 **Khế** · 1 **Bí ngòi** · lứa Ớt chính là Hạ 15 · giữ ít nhất 1 cây mỗi loại cho quest giao hàng
 - [ ] 🎁 Tuần mới: 2 quà cho **Haley**, 2 quà cho **Sebastian**. Cảnh 10 tim Haley chưa nổ ở Hạ 13 thì ghé **Nhà của Emily & Haley** lúc cô ấy ở nhà
 - 🌦️ Việc chính chốt ở nhịp ①: mưa thì đi câu ba loài mưa (Cá trê ×4 · Cá hồng ×4 · Cá trích dày mình ×3); nắng mà may cao thì [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|Hang Đầu lâu]] tầng 25–35, tính là lượt thứ hai của tuần (sau Hạ 10)
 - 🏗️ Robin đang xây **Chuồng gia cầm lớn** (xong sáng Hạ 15), hôm nay không đặt được gì
 - 💧 Nắng thì tưới 57 ô ngoài vùng vòi
 - Sắp tới: **Hạ 15** chuồng gia cầm lớn xong, Pierre: **Cây táo non**, **Cây lựu non**, Ngô chín · **Hạ 16** hạn gieo cuối cho Dưa
+
+---
+
+### 🌳 Hạ 15 (Thứ Hai) — 🐔 Chuồng gia cầm lớn xong · 🌳 Cây ăn quả · 🌽 Ngô chín
+
+**📝 Dự kiến:**
+- [ ] 🌳 **Pierre: Cây táo non** 4.000g trồng ở **(50, 50)** · **Cây lựu non** 6.000g ở **(65, 50)**, đập **Đá ở (64, 51)** trước khi trồng. Ví sáng dự kiến **≈20.000g** (≈8.400g + ship Hạ 13 ≈3.800g + 131 Việt quất Hạ 14 ≈7.900g), sau cây còn **≈10.000g**
+- [ ] 🌶️ Thu 53 **Ớt hiểm** · 19 **Ngô** · 6 **Củ cải** ở Ruộng 6 → giữ 1 **Củ cải**, gieo lại ô đó bằng **Hạt giống củ cải** (Pierre) cho dự phòng quest · 1 **Trái cổ đại** (72, 27), **giữ lại** không bán
+- 🐔 **Chuồng gia cầm lớn** xong (nâng tại chỗ, 2 Gà vẫn ở trong) · mua thú để **Hạ 17** vì **Marnie** nghỉ Thứ Hai, Thứ Ba
+- 🌦️ Việc chính chốt ở nhịp ①: mưa thì câu nốt ba loài mưa nếu Hạ 13 chưa đủ · nắng thì tưới ngoài vùng vòi
+- Sắp tới: **Hạ 16** hạn gieo cuối cho Dưa, 19 **Trái việt quất** · 11 **Anh túc** · 30 **Thảo quả** · 1 **Cà chua** chín · Robin nghỉ Thứ Ba
+
 ---
 
 ## 🏗️ Lộ trình xây trang trại theo năm
@@ -706,8 +712,8 @@ _Tính từ Quicksave Hạ 6, 15:50 (ví 4.114g, 100 Gỗ, 644 Đá). Dòng Hạ
 |---|---|---|---|
 | **Hạ 6** · Bảy | **Chuồng Gia súc** ở (56, 22): 6.000g + 350 Gỗ + 150 Đá, xong sáng Hạ 9 | | ✅ Đã đặt. Ví 4.114g sau vé xe, dư 2.620g so với dự kiến |
 | **Hạ 10** · Tư | **Nâng cấp nhà**: 10.000g + 450 Gỗ, xong sáng **Hạ 13** | Marnie: **Bò Sữa ×1** 1.500g · **Xô Vắt sữa** 1.000g | ✅ Đã đặt, đã mua. Ví 31.023 → 17.876g tối Hạ 10, sau vé xe và Clint |
-| **Hạ 13** · Bảy | **Chuồng gia cầm lớn**: 10.000g + 400 Gỗ + 150 Đá, xong sáng Hạ 15. Dời lên từ Hạ 17 (chốt nhịp ③ Hạ 10). Mua 246 Gỗ ≈2.460g | Pierre: 18 **Hạt giống dưa** | ≈23.450 → ≈9.550g |
-| **Hạ 15** · Hai | | Pierre: **Cây táo non** 4.000g · **Cây lựu non** 6.000g | ≈24.240 → ≈14.240g |
+| **Hạ 13** · Bảy | **Chuồng gia cầm lớn**: 10.000g + 400 Gỗ + 150 Đá, xong sáng Hạ 15. Dời lên từ Hạ 17 (chốt nhịp ③ Hạ 10). Mua 256 Gỗ ≈2.560g | Pierre: 18 **Hạt giống dưa** · Ông lão đi biển: **Dây chuyền tiên cá** 5.000g | ≈27.500 → ≈8.400g (tính lại nhịp ③ Hạ 12) |
+| **Hạ 15** · Hai | | Pierre: **Cây táo non** 4.000g · **Cây lựu non** 6.000g | ≈20.000 → ≈10.000g |
 | **Hạ 17** · Tư | | Marnie: **Gà ×2** 1.600g · **Bò Sữa ×1** 1.500g · **≈20 Rơm rạ** 1.000g | tính lại ở nhịp ③ Hạ 16 |
 | **Hạ 19** · Sáu | **Chuồng Gia súc lớn**: 12.000g + 450 Gỗ + 200 Đá, xong sáng Hạ 21 | Marnie: **Vịt ×1** 1.200g | ≈29.590 → ≈11.890g |
 | **Hạ 21** · Chủ Nhật | | Marnie: **Dê ×1** 4.000g | ≈16.290 → ≈12.290g |
