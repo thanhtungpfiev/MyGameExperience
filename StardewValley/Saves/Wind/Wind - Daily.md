@@ -592,7 +592,7 @@ _Chốt từ **Quicksave Hạ 11**, ghi lúc 07:44 giờ máy ngày 21/11, 22:10
 
 ### 🛒 Hạ 12 (Thứ Sáu) — 🍅 Cà chua chín · 🌶️ Ớt lứa ba · 🛒 Xe hàng rong · 💀💀 rất xui
 
-**📋 Thực tế** _(Quicksave đầu Hạ 12, 06:00 trong game, lưu 07:50 giờ máy ngày 21/11)_: ☀️ nắng · mai ☀️ nắng · 💀💀 **rất xui** (`dailyLuck` −0,093) · ví **20.051g** · hộp thư: **Công thức cũ của Willy** · nhà còn **1 ngày** (xong sáng Hạ 13) · chín: 53 **Ớt hiểm** · 29 **Trái việt quất** · 6 **Bí ngòi** · 5 **Hạt cà phê** · 1 **Cà chua** · 1 **Hoa bia** · **Nhựa phong** ở chén (59, 36) · **58 ô chưa tưới** · Haley 2.469 điểm, quà tuần 2/2.
+**📋 Thực tế** _(Quicksave đầu Hạ 12, 06:00 trong game, lưu 07:50 giờ máy ngày 21/11)_: ☀️ nắng · mai ⛈️ **giông** (save ghi `Sun`, TV báo bão) · 💀💀 **rất xui** (`dailyLuck` −0,093) · ví **20.051g** · hộp thư: **Công thức cũ của Willy** · nhà còn **1 ngày** (xong sáng Hạ 13) · chín: 53 **Ớt hiểm** · 29 **Trái việt quất** · 6 **Bí ngòi** · 5 **Hạt cà phê** · 1 **Cà chua** · 1 **Hoa bia** · **Nhựa phong** ở chén (59, 36) · **58 ô chưa tưới** · Haley 2.469 điểm, quà tuần 2/2.
 
 **📌 Quest:** **Giao hàng: Robin** cần 1 **Củ cải**, thưởng 270g, còn 2 ngày (hết đêm Hạ 13). Trong rương không có Củ cải. 6 cây Củ cải ở Ruộng 6 còn 3 ngày mới chín (Hạ 15), nên không kịp. **"Quần đùi" của Thị trưởng** vẫn giữ cho Hội chợ Thu 16.
 
@@ -605,10 +605,13 @@ _Chốt từ **Quicksave Hạ 11**, ghi lúc 07:44 giờ máy ngày 21/11, 22:10
 - [x] 🛒 **Xe hàng rong** không bán **Củ cải** → ⏭️ bỏ quest **Giao hàng: Robin**, để tự hết hạn đêm Hạ 13. Không mua Hạt giống hiếm
 - [x] 📬 Mở thư **Công thức cũ của Willy** · 💛 nói chuyện với **Haley** (+20, lên 2.489), cảnh 10 tim chờ Hạ 13
 - **Clint** vắng Thứ Sáu · Robin đang xây nhà, hôm nay không đặt được gì
+- [ ] ⛈️ **Mai giông** (TV báo): chế **6 Cột thu lôi** trước khi ngủ (mỗi cái 1 **Thỏi sắt** · 1 **Thạch anh tinh luyện** · 5 **Cánh dơi**, rương đang có 46 · 52 · 93), cộng 1 cái sẵn trong rương là 7. Đặt rải quanh **Ruộng 1–3**, **Ruộng 6** và cây **Trái cổ đại** (72, 27). Mỗi cột chỉ đỡ được 1 tia mỗi đêm (đỡ xong thì giữ 1 **Cục pin** tới hôm sau), tia không có cột hứng thì đánh trúng ô ngẫu nhiên, làm chết cây trồng ở đó
 
 ---
 
-### 🐔 Hạ 13 (Thứ Bảy) — 🏠 Nhà xong · 🐔 Chuồng gia cầm lớn · 🍈 Dưa chín
+### ⛈️ Hạ 13 (Thứ Bảy) — 🏠 Nhà xong · 🐔 Chuồng gia cầm lớn · 🍈 Dưa chín · ⛈️ giông
+
+> _**Hạ 13 và Hạ 26 năm nào cũng giông.** Save ghi `weatherForTomorrow` = `Sun` (cả Quicksave 08:04 Hạ 12) vì game chỉ ép giông lúc sang ngày, còn TV và mod giao diện đã báo bão. Nguồn: wiki và hàm `getWeatherModificationsForDate` (bản 1.5 ép giông khi ngày mùa Hạ chia hết cho 13), chưa đọc lại dữ liệu bản 1.6.15 vì `Data/LocationContexts` bị nén._
 
 **📝 Dự kiến:**
 - [ ] 🐔 **Robin: Chuồng gia cầm lớn**, dời lên từ Hạ 17: 10.000g + 400 Gỗ + 150 Đá, xong sáng **Hạ 15**. Gỗ trong túi 154, **mua thêm 246 Gỗ** ở quầy, khoảng 2.460g (10g một Gỗ theo wiki, chưa kiểm trong file game). Ví sáng Hạ 13 dự kiến **≈23.450g** (20.050g + lứa Ớt, Việt quất Hạ 12 ≈3.400g), sau chuồng còn **≈11.000g**, trừ thêm 18 **Hạt giống dưa** (≈1.440g) còn **≈9.550g**. Lấy Gỗ, Đá vào túi trước khi tới quầy. Ví dưới 12.500g thì để lại Hạ 17 như cũ
@@ -616,7 +619,8 @@ _Chốt từ **Quicksave Hạ 11**, ghi lúc 07:44 giờ máy ngày 21/11, 22:10
 - [ ] 🍳 Nhà có **bếp**: nấu 1 **Trứng chiên** (1 **Trứng** ở rương (55, 14)) → gói **Đầu Bếp** 4/6
 - 🌾 Thu 5 **Lúa mì** ở Ruộng 6 · 5 **Bí ngòi**
 - 🍀 **Clint:** mở 1 **Chiếc hộp bí ẩn** · 2 **Hốc tinh dung nham**, đối chiếu Bảo tàng trước khi bán
-- 💧 Nắng thì tưới 57 ô ngoài vùng vòi
+- 🎣 **Chính · ngày mưa đầu tiên của Hạ:** câu **Cá trê ×4** ở Khu rừng Bí mật · **Cá hồng ×4** ở biển (06:00–19:00) · **Cá trích dày mình ×3** ở sông (từ 09:00), trả về `Cá Mùa Hè` · `Cá Mùa Thu` · `Cá Mùa Đông` · `Cá` theo [[#🎣 Hoàn thiện các rương cá|bảng]]. Mang **Mồi cao cấp** (10 trong túi)
+- 💧 Giông thì ruộng tự ướt, không tưới. Sáng ra soát ruộng xem có ô nào bị sét đánh chết cây, ô Dưa thì gieo lại luôn
 - 💛 **Haley lên 2.509 điểm = 10 tim** sau câu chuyện hôm nay → cảnh **10 tim** (ID 15) có thể nổ khi vào **Nhà của Emily & Haley** lúc Haley ở nhà. Chọn **"Nhìn tuyệt đấy!"** (+10), câu thứ hai **"Thử hôn cô ấy."** · điều kiện, câu tránh: [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Cùng hôm nhà xong, đủ điều kiện **Dây chuyền tiên cá**: Ông lão đi biển chỉ hiện ở Bãi biển ngày mưa, 5.000g, ví sau chuồng không đủ thì để dành
 - Sắp tới: **Hạ 14** 131 **Việt quất** chín, Haley, Sebastian mở quà tuần mới
 
