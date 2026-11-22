@@ -631,12 +631,12 @@ _Chốt từ **Quicksave Hạ 13**, ghi lúc 08:02 giờ máy ngày 22/11. Giôn
 **🌦️ Nhánh:** ☀️ Nắng × 💀 May thấp → không vào Hang Đầu lâu, không cần may cho việc nào hôm nay. Ngày làm ruộng và đi việc vặt trong thị trấn.
 
 **✅ Việc hôm nay** (1 chính + 2 phụ, thu hoạch là routine)
-- [ ] 🫐 **Chính:** thu **131 Trái việt quất** · 3 **Ớt hiểm** · 1 **Khế** · 1 **Hoa bia** · 1 **Bí ngòi** · giữ ít nhất 1 cây mỗi loại cho quest. 131 lượt thu Việt quất ≈ **1.300 XP Trồng trọt** → **đêm nay lên cấp 8**, mở công thức **Thùng ủ** (30 Gỗ · 1 Thỏi đồng · 1 Thỏi sắt · 1 Nhựa sồi)
-- [ ] 💧 Tưới 57 ô ngoài vùng vòi
-- [ ] 🔨 **Clint:** nộp 1 **Thỏi vàng** (quest, +750g) · mở 2 **Hốc tinh dung nham** (túi) · 1 **Chiếc hộp bí ẩn** + 1 **Hốc tinh toàn năng** (rương (58, 16)) · đối chiếu Bảo tàng trước khi bán
-- [ ] 🏛️ **Bảo tàng:** quyên góp 1 **Mảnh tán sắc** → **73 món**, con thứ hai giữ cho gói **Mất Tích**
-- [ ] 🌺 Dọn cây **Anh túc** chết ở (36, 39), gieo bù 1 **Hạt giống anh túc** (Pierre, 100g) → chín Hạ 21
-- [ ] 🍺 Giữ **Hoa bia** (3 cái sau khi thu) cho quest Pam — đừng ship. Thùng ủ chế từ Hạ 15
+- [x] 🫐 ✅ đã thu, 398 **Trái việt quất** trong thùng ship · Trồng trọt **7.710 XP = cấp 8** _(Quicksave 08:53 giờ máy)_ · **Chính:** thu **131 Trái việt quất** · 3 **Ớt hiểm** · 1 **Khế** · 1 **Hoa bia** · 1 **Bí ngòi** · giữ ít nhất 1 cây mỗi loại cho quest. 131 lượt thu Việt quất ≈ **1.300 XP Trồng trọt** → **đêm nay lên cấp 8**, mở công thức **Thùng ủ** (30 Gỗ · 1 Thỏi đồng · 1 Thỏi sắt · 1 Nhựa sồi)
+- [x] 💧 Tưới 57 ô ngoài vùng vòi · ✅ 0 ô khô _(Quicksave 08:53 giờ máy)_
+- [ ] 🔨 **Clint:** ✅ đã nộp 1 **Thỏi vàng** (quest xong) _(Quicksave 08:53 giờ máy)_ · **chưa mở** 2 **Hốc tinh dung nham** (túi) · 1 **Chiếc hộp bí ẩn** + 1 **Hốc tinh toàn năng** (rương (58, 16)) · đối chiếu Bảo tàng trước khi bán
+- [ ] 🏛️ **Bảo tàng:** ✅ **Xương bả vai tiền sử** đã nộp → **73 món** (khôi phục từ Quicksave 08:38 sau khi bị rơi mất) _(Quicksave 08:53 giờ máy)_ · còn quyên góp 1 **Mảnh tán sắc** → **74 món**, con thứ hai giữ cho gói **Mất Tích**
+- [x] 🌺 ✅ đã gieo bù _(Quicksave 08:53 giờ máy)_ · Dọn cây **Anh túc** chết ở (36, 39), gieo bù 1 **Hạt giống anh túc** (Pierre, 100g) → chín Hạ 21
+- [x] 🍺 ✅ 3 **Hoa bia** trong kho, quest **Pam đang Khát** đã nhận _(Quicksave 08:53 giờ máy)_ · Giữ **Hoa bia** (3 cái sau khi thu) cho quest Pam — đừng ship. Thùng ủ chế từ Hạ 15
 - [ ] 💍 **Cầu hôn Haley — nếu bạn muốn**: đưa **Dây chuyền tiên cá**. Đã đủ điều kiện: đang hẹn hò, 2.529 điểm (≥ 10 tim), nhà đã nâng cấp. **Đám cưới đúng 3 ngày sau → Hạ 17** (Thứ Tư), cũng là sinh nhật Sam và ngày mua thú ở Marnie: cưới buổi sáng, xong vẫn làm việc bình thường
 - [ ] 🎁 Tuần mới: 2 quà cho **Haley**
 - Sắp tới: **Hạ 15** chuồng gia cầm lớn xong, Pierre: **Cây táo non**, **Cây lựu non**, Ngô chín, chế **Thùng ủ** · **Hạ 17** sinh nhật Sam
