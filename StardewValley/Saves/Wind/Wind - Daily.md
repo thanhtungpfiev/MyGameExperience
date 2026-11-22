@@ -637,8 +637,8 @@ _Chốt từ **Quicksave Hạ 13**, ghi lúc 08:02 giờ máy ngày 22/11. Giôn
 - [ ] 🏛️ **Bảo tàng:** ✅ **Xương bả vai tiền sử** đã nộp → **73 món** (khôi phục từ Quicksave 08:38 sau khi bị rơi mất) _(Quicksave 08:53 giờ máy)_ · còn quyên góp 1 **Mảnh tán sắc** → **74 món**, con thứ hai giữ cho gói **Mất Tích**
 - [x] 🌺 ✅ đã gieo bù _(Quicksave 08:53 giờ máy)_ · Dọn cây **Anh túc** chết ở (36, 39), gieo bù 1 **Hạt giống anh túc** (Pierre, 100g) → chín Hạ 21
 - [x] 🍺 ✅ 3 **Hoa bia** trong kho, quest **Pam đang Khát** đã nhận _(Quicksave 08:53 giờ máy)_ · Giữ **Hoa bia** (3 cái sau khi thu) cho quest Pam — đừng ship. Thùng ủ chế từ Hạ 15
-- [ ] 💍 **Cầu hôn Haley — nếu bạn muốn**: đưa **Dây chuyền tiên cá**. Đã đủ điều kiện: đang hẹn hò, 2.529 điểm (≥ 10 tim), nhà đã nâng cấp. **Đám cưới đúng 3 ngày sau → Hạ 17** (Thứ Tư), cũng là sinh nhật Sam và ngày mua thú ở Marnie: cưới buổi sáng, xong vẫn làm việc bình thường
-- [ ] 🎁 Tuần mới: 2 quà cho **Haley**
+- [x] 💍 ✅ **Đã cầu hôn, Haley nhận lời** → **đính hôn**, 2.605 điểm, save ghi `WeddingDate` = **Hạ 17** _(Quicksave 09:24 giờ máy)_ · **Cầu hôn Haley — nếu bạn muốn**: đưa **Dây chuyền tiên cá**. Đã đủ điều kiện: đang hẹn hò, 2.529 điểm (≥ 10 tim), nhà đã nâng cấp. **Đám cưới đúng 3 ngày sau → Hạ 17** (Thứ Tư), cũng là sinh nhật Sam và ngày mua thú ở Marnie: cưới buổi sáng, xong vẫn làm việc bình thường
+- [ ] 🎁 Tuần mới: 2 quà cho **Haley** · ✅ 1/2 (Dây chuyền tiên cá tính là quà hôm nay) _(Quicksave 09:24 giờ máy)_
 - Sắp tới: **Hạ 15** chuồng gia cầm lớn xong, Pierre: **Cây táo non**, **Cây lựu non**, Ngô chín, chế **Thùng ủ** · **Hạ 17** sinh nhật Sam
 
 ---
@@ -662,7 +662,7 @@ _Chốt từ **Quicksave Hạ 13**, ghi lúc 08:02 giờ máy ngày 22/11. Giôn
 - [ ] 🎂 Chuẩn bị quà cho **Sam** (sinh nhật Hạ 17, 1.140 điểm)
 - 🏗️ Robin nghỉ Thứ Ba, Marnie nghỉ Thứ Ba → Hạ 17 mới mua thú
 - 🌦️ Việc chính chốt ở nhịp ①: nắng thì tưới · may cao mà tuần này chưa đủ hai lượt thì Hang Đầu lâu
-- Sắp tới: **Hạ 17** 💒 đám cưới (nếu cầu hôn Hạ 14) · 🎂 Sam · Marnie: **Gà ×2** · **Bò Sữa** · Rơm rạ · chín 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 2 **Hạt cà phê**
+- Sắp tới: **Hạ 17** 💒 **đám cưới với Haley** (đã đính hôn Hạ 14) · 🎂 Sam · Marnie: **Gà ×2** · **Bò Sữa** · Rơm rạ · chín 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 2 **Hạt cà phê**
 
 ---
 
