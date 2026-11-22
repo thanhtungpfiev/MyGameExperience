@@ -33,6 +33,24 @@ Mua ở Hàng Cá của Willy. Điều kiện mở bán lấy từ file game 1.6
 - ⚠️ **"Gốc" = không tính buff đồ ăn** — cửa hàng kiểm tra `PLAYER_BASE_FISHING_LEVEL`. Ngược với điều kiện câu Cá huyền thoại (có tính buff), xem [[Câu cá theo mùa]].
 - Đang bật `InstantBite` thì phao/mồi **chỉ làm cá cắn nhanh** là vô dụng: **Phao câu (Spinner)**, **Phao xoay có Trang trí (Dressed Spinner)**, **Mồi (Bait)**. Phao giúp minigame thì vẫn đáng gắn.
 
+## 🎯 Săn con nào thì cầm cần nào
+
+Cần câu **không có chỉ số ẩn**. Các loại cần chỉ khác nhau ở số ô gắn mồi/phao, và Cần Tập sự còn lọc cá. Thanh câu xanh to hay nhỏ là do **cấp Câu cá** cùng phao/mồi đang gắn, không phải do cần. Độ khó và kiểu bơi của từng con nằm ở cột **Độ khó** trong [[Câu cá theo mùa]].
+
+**Cần Tập sự lọc cá trước khi chọn, không phải sau.** Mỗi lần cá cắn câu, game duyệt lần lượt danh sách cá của chỗ đó. Đang cầm Cần Tập sự thì con nào **độ khó ≥ 50** bị gạt ngay khỏi lượt duyệt, game xét tiếp con sau, chứ không hoá thành rác. Danh sách càng ít con thì con mình săn càng được xét tới nhiều → **tỉ lệ ra tăng hẳn**. Cầm Cần Iridium thì ngược lại: con nào cũng ra được, cá mình săn bị loãng giữa đám đông.
+
+| Săn con | Cầm cần | Vì sao |
+|---|---|---|
+| Độ khó **dưới 50** (🎓) | **Cần Tập sự (Training Rod)** | Cá khó bị loại khỏi lượt chọn. Không gắn được mồi/phao, nhưng con 🎓 dễ kéo nên không cần |
+| Độ khó **50 trở lên** | **Cần Iridium** + **Mồi riêng loài** của đúng con đó | Mồi riêng loài là cách chính để tăng tỉ lệ đúng một con. Phao theo kiểu bơi: giật / lẫn lộn → Phao hút (Trap Bobber) · đều / chìm / nổi (cá ít nhảy) → Lưỡi câu có ngạnh (Barbed Hook) |
+
+- **Ví dụ Cá hồng (Red Snapper), độ khó 40:** ở **Biển mùa Hạ lúc mưa**, mọi con khác đều từ 50 trở lên (Cá bơn, Cá bơn lưỡi ngựa, Cá rô phi đúng 50; Cá phèn 55; Cá ngừ 70…). Cầm Cần Tập sự thì **Cá hồng là con cá duy nhất còn lại**, phần còn lại chỉ là rác/rong.
+- ⚠️ **Đúng 50 là không được:** Cá vược miệng rộng, Cá hồi, Cá ma (Ghostfish), Cá bơn, Cá rô phi, Cá bơn lưỡi ngựa, Cá nhảy, Cá sư tử đều độ khó 50 → Cần Tập sự **không bao giờ ra**.
+- **Cá 🎓 (độ khó < 50), từ dễ tới khó:** Cá chép 15 · Cá trích 25 · Cá vược miệng nhỏ 28 · Cá cơm, Cá mòi, Cá thái dương 30 · Cá vền, Cá rô, Cá bống 35 · Cá hồng, Hải sâm 40 · Cá hồi vân, Cá mắt to, Cá trích dày mình 45 · Cá đầu bò 46.
+- Cần Tập sự 25g ở Hàng Cá của Willy — mua một cây cất rương, khi nào săn con 🎓 thì lấy ra.
+
+> _Kiểm chứng trên game 1.6.15 (2026-11-22): độ khó và kiểu bơi từ `Data/Fish` (trường 1–2); luật Cần Tập sự trong `GameLocation.CheckGenericFishRequirements`: so `(T)TrainingRod` rồi `difficulty` với 50, trừ khi chỗ câu đặt `CanUseTrainingRod`. Hàm này được gọi cho từng con trong vòng duyệt của `GameLocation.GetFishFromLocationData`, bị loại thì vòng chạy tiếp. Trong `BobberBar` (minigame) không thấy chỗ nào so loại cần. Chưa soát chỗ câu nào ghi đè `CanUseTrainingRod`._
+
 ## 🪝 Phao & mồi tự chế
 
 Cấp mở khoá và nguyên liệu lấy từ file game 1.6.15 (`Data/CraftingRecipes`); tên theo bản dịch đang cài.
