@@ -175,7 +175,7 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 - [ ] Krobus — 20.000g
 - [ ] Tượng Old Master Cannoli — Sweet Gem Berry
 - [ ] Willy — Master Angler
-- [ ] Bảo tàng — 95 món (73/95, Quicksave Hạ 14)
+- [ ] Bảo tàng — 95 món (74/95, Quicksave Hạ 14 lúc chốt ngày)
 
 ### 🗝️ Khu vực ẩn & chìa khóa
 
