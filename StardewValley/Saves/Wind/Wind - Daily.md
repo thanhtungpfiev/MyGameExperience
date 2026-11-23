@@ -668,15 +668,20 @@ _Chốt từ **Quicksave Hạ 16**, ghi lúc 15:36 giờ máy ngày 23/11. Mưa 
 
 ### 💒 Hạ 17 (Thứ Tư) — 💒 Cưới Haley · 🎂 Sinh nhật Sam · 🐔 mua thú
 
-**📝 Dự kiến:**
-- [ ] 💧 Lấy **Bình Tưới Vàng** ở Clint trước khi tưới
-- [ ] 💒 **Đám cưới với Haley** buổi sáng (đính hôn Hạ 14), xong vẫn làm việc bình thường
-- [ ] 🎂 Tặng quà sinh nhật **Sam**: 1 **Quả xương rồng** (món thích)
-- [ ] 💧 Nắng: tưới **59 ô ngoài vùng vòi** (Việt quất, Ớt hiểm dọc x 17, x 28, x 39, y 31 · Hạt cà phê (70, 27) · Trái cổ đại (72, 27)) bằng **Bình Tưới Vàng**
-- [ ] 🐔 **Marnie:** **Gà ×2** 1.600g · **Vịt ×1** 1.200g · **≈20 Rơm rạ** 1.000g → **≈3.800g**, gà vịt lên 7/8. **Bò Sữa** và **Dê** dời Hạ 18: chuồng đang nâng cấp thì không thả thú mới vào được. Ví sáng dự kiến ≈**27.200g** (Quicksave 15:49 Hạ 16) → sau ≈23.400g
-- 🌾 Thu 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 7 **Hạt cà phê** · 3 **Ớt hiểm** · 1 **Bí ngòi** · 1 **Hoa bia** → gieo lại 18 ô bằng **Hạt giống hoa tổng hợp** trong rương (58, 15), vì không mua được ở Pierre và **Hạt giống tổng hợp** đã gieo hết Hạ 16 (Quicksave 15:30: 0 hạt). Sau đó còn khoảng 9 Hạt giống hoa tổng hợp cho mùa Thu. Hạt tổng hợp ra cây ngẫu nhiên, ô dự phòng ở Ruộng 6 vẫn giữ đủ mỗi loại 1 cây
-- 🏗️ Robin **chưa rảnh**: Chuồng Gia súc lớn còn nâng cấp tới sáng Hạ 18 (Quicksave 15:36 Hạ 16 vẫn còn 2 ngày). Công trình kế tiếp chốt ở nhịp ③ Hạ 17, đặt sớm nhất Hạ 18: **Nhà Kho** 15.000g + 300 Gỗ, hoặc **Kho chứa Cỏ** thứ hai (100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng) cho 14 con từ Hạ 19. Giữ tiền cho **Nam việt quất** và **Chuồng Gia súc cao cấp** ở Thu 1
-- Pierre nghỉ Thứ Tư
+**📋 Thực tế** _(Quicksave 6:00 sáng Hạ 17, lưu 15:53 giờ máy ngày 23/11)_: ☀️ nắng · mai ☀️ nắng · 🍀 **may cao** (`dailyLuck` +0,08) · ví **27.337g**, khớp dự kiến · 💒 **đã cưới Haley** (2.696 điểm) · thư: **Món quà từ Evelyn** (bánh) · thư mai: không có · kỹ năng không đổi (Trồng trọt 8 · Khai khoáng 9 · Hái lượm 8 · Câu cá 10 · Chiến đấu 8) · **Bình Tưới Vàng** xong, lấy ở Clint · **Chuồng Gia súc lớn** còn 1 ngày → xong sáng **Hạ 18** · túi còn 28/36 ô · Bảo tàng 76 · gà 4, bò 2 · Kho chứa Cỏ 99 phần.
+
+**📌 Quest:** **"Quần đùi" của Thị trưởng** giữ cho Hội chợ Thu 16.
+
+**🌦️ Nhánh:** ☀️ Nắng × 🍀 May cao, nhưng hôm nay đã kín việc (tưới tay 59 ô, thu hoạch, gieo lại, Marnie, sinh nhật Sam) nên **không vào Hang Đầu lâu**; tuần này chưa đi lượt nào, để dành ngày may cao rảnh. Chỉ có 1 **Hốc tinh Băng**, chưa đáng ghé Clint mở. Mùa Hạ đã câu đủ loài, không có việc câu.
+
+**✅ Việc hôm nay** (1 chính + 2 phụ, thu hoạch là routine)
+- [ ] 💧 **Chính:** lấy **Bình Tưới Vàng** ở Clint → tưới **59 ô ngoài vùng vòi** (Việt quất, Ớt hiểm dọc x 17, x 28, x 39, y 31 · Hạt cà phê (70, 27) · Trái cổ đại (72, 27))
+- [ ] 🐔 **Marnie:** **Gà ×2** 1.600g · **Vịt ×1** 1.200g · **≈20 Rơm rạ** 1.000g → **≈3.800g**, gà vịt lên 7/8 · ví ≈27.300 → ≈23.500g. **Bò Sữa**, **Dê** để Hạ 18
+- [ ] 🎂 Tặng **Sam** 1 **Quả xương rồng** ở rương (56, 16), món thích
+- 🌾 Thu 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 7 **Hạt cà phê** · 3 **Ớt hiểm** · 1 **Bí ngòi** · 1 **Hoa bia** → gieo lại 18 ô bằng **Hạt giống hoa tổng hợp** (rương (58, 15), có 39 hạt → còn 21)
+- 📬 Mở hộp thư lấy quà Evelyn
+- 🏗️ Robin chưa rảnh tới sáng Hạ 18. Công trình kế tiếp chốt ở nhịp ③ hôm nay: **Nhà Kho** 15.000g + 300 Gỗ, hoặc **Kho chứa Cỏ** thứ hai (100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng). Giữ tiền cho **Nam việt quất** và **Chuồng Gia súc cao cấp** ở Thu 1
+- Pierre nghỉ Thứ Tư · Sắp tới: **Hạ 18** 142 cây Việt quất, Bò Sữa + Dê, mua hạt Pierre · **Hạ 19** 🎂 Demetrius
 
 ---
 
