@@ -626,7 +626,7 @@ _Chốt từ **Quicksave Hạ 13**, ghi lúc 08:02 giờ máy ngày 22/11. Giôn
 
 _Chốt từ **Quicksave Hạ 14**, ghi lúc 08:24 giờ máy ngày 23/11. Nắng, may thấp (`dailyLuck` −0,034): ngày làm ruộng và đi việc vặt trong thị trấn._
 
-- [x] 🫐 Thu 131 cây **Việt quất** ra **398 Trái việt quất** (309 thường · 54 bạc · 35 vàng) · 3 **Ớt hiểm** · 1 **Khế** · 1 **Hoa bia** · 1 **Bí ngòi** · Trồng trọt **7.710 XP = cấp 8**, mở công thức **Thùng ủ** · tưới xong, **0 ô khô**
+- [x] 🫐 Thu 131 cây **Việt quất** ra **398 Trái việt quất** (309 thường · 54 bạc · 35 vàng) · 3 **Ớt hiểm** · 1 **Khế** · 1 **Hoa bia** · 1 **Bí ngòi** · Trồng trọt **7.710 XP = cấp 8**, mở công thức **Thùng chứa** · tưới xong, **0 ô khô**
 - [x] 🔨 Clint: nộp 1 **Thỏi vàng**, quest **Giao hàng: Clint** xong. **Chưa mở** 2 **Hốc tinh dung nham** · 1 **Chiếc hộp bí ẩn** · 1 **Hốc tinh toàn năng**, đều ở rương (58, 16) → dời Hạ 15
 - [x] 🏛️ Bảo tàng **74 món**: **Xương bả vai tiền sử** (khôi phục từ Quicksave 08:38 sau khi bị rơi mất) · **Hóa thạch cây cọ**. **2 Mảnh tán sắc** vẫn ở rương (57, 14), chưa quyên góp → dời Hạ 15
 - [x] 🌺 Dọn **Anh túc** chết ở (36, 39), gieo bù → chín Hạ 21
