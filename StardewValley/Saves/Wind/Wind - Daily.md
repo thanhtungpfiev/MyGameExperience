@@ -636,35 +636,33 @@ _Chốt từ **Quicksave Hạ 14**, ghi lúc 08:24 giờ máy ngày 23/11. Nắn
 
 ---
 
-### 🌳 Hạ 15 (Thứ Hai) — 🐔 Chuồng gia cầm lớn xong · 🌳 Cây ăn quả · 🐄 đặt Chuồng Gia súc lớn · 💧 Bình tưới đi Clint · 🍀 may cao
+### 🌳 Hạ 15 (Thứ Hai) — 🌳 Cây ăn quả · 🐄 đặt Chuồng Gia súc lớn · 💧 Bình tưới đi Clint · 🍀 may cao
 
-**📋 Thực tế** _(save ngủ dậy Hạ 15, lưu 08:31 giờ máy ngày 23/11)_: ☀️ nắng · mai 🟢 **mưa xanh** (Green Rain, ruộng tự tưới) · 🍀 **may cao** (`dailyLuck` +0,046) · ví **48.587g**, khớp dự kiến · thư: **Công thức của Pam** · thư công thức của **Clint** · thư **Emily** · **Lò ấp trứng** (có sẵn trong Chuồng gia cầm lớn) · thư mai: không có · kỹ năng: Trồng trọt 8 · Khai khoáng 9 · **Hái lượm 8** (6.953 XP) · Câu cá 10 · Chiến đấu 8 · công thức mới: **Thùng chứa** · **Máy ép dầu** · **Phân bón thúc cao cấp** · **Cọc dịch chuyển: Nông trại** · **Bộ dụng cụ lều** · Robin rảnh (Chuồng gia cầm lớn xong) · không công cụ nào ở Clint, túi 9/36 ô · 74 **Thỏi vàng** · Haley 2.605 điểm, quà tuần 1/2 · Bảo tàng 74 món, món chưa quyên góp duy nhất là 2 **Mảnh tán sắc**.
+_Chốt từ **Quicksave Hạ 15**, ghi lúc 10:20 giờ máy ngày 23/11. Nắng, may cao (`dailyLuck` +0,046), nhưng đã có việc chính nên không vào Hang Đầu lâu._
 
-**📌 Quest:** **Pam đang Khát** — **Bia nhẹ**, không hạn, 350g · **"Quần đùi" của Thị trưởng** giữ cho Hội chợ Thu 16.
-
-**🌦️ Nhánh:** ☀️ Nắng × 🍀 May cao. Hôm nay đã có việc chính là mua cây và đặt chuồng, nên theo luật [[#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|Hang Đầu lâu]] thì **không đi** dù may cao. Mai mưa xanh tự tưới ruộng → **gửi Bình tưới cho Clint hôm nay**.
-
-**✅ Việc hôm nay** (1 chính + 3 phụ, thu hoạch và tưới là routine)
-- [ ] 🌳🐄 **Chính — Pierre rồi Robin:** **Cây táo non** 4.000g ở **(50, 50)** · **Cây lựu non** 6.000g ở **(65, 50)**, đập **Đá ở (64, 51)** trước · Robin: mua **477 Gỗ** ≈4.770g, cầm Gỗ và 200 Đá trong túi, đặt **Chuồng Gia súc lớn** 12.000g + 450 Gỗ + 200 Đá → xong sáng **Hạ 17**
-- [ ] 💧🔨 **Tưới 57 ô ngoài vùng vòi trước**, rồi mang **Bình Tưới Thép** tới Clint lên **Vàng** (10.000g + 5 **Thỏi vàng**) → lấy sáng **Hạ 17**. Cùng lượt mở 2 **Hốc tinh dung nham** · **Chiếc hộp bí ẩn** · **Hốc tinh toàn năng** (rương (58, 16)), đối chiếu Bảo tàng trước khi bán. Ví sau cây, chuồng, Bình tưới ≈**11.800g**
-- [ ] 🍺 Chế 1 **Thùng chứa** (30 Gỗ · 1 Thỏi đồng · 1 Thỏi sắt · 1 **Nhựa sồi** ở rương (56, 15)), bỏ 1 **Hoa bia** vào → **Bia nhẹ** cho Pam
-- [ ] 🏛️ Quyên góp 1 **Mảnh tán sắc** → **75 món**, con thứ hai giữ cho gói **Mất Tích**
-- 🌶️ Thu 53 **Ớt hiểm** · 19 **Ngô** · 5 **Hạt cà phê** · 6 **Củ cải** · 1 **Hoa bia** · 1 **Trái cổ đại** (72, 27, **giữ lại**) · giữ 1 **Củ cải**, gieo lại ô đó bằng **Hạt giống củ cải** · **5 Ngô Vàng** thì nộp gói **Nông sản Chất lượng cao** → 2/3, món cuối là Bí ngô vàng mùa Thu
-- Sắp tới: **Hạ 16** mưa xanh, không phải tưới · **Hạ 17** cưới Haley · sinh nhật Sam · lấy Bình tưới · Marnie mua thú
+- [x] 🌳 **Cây táo non** ở (50, 50) · **Cây lựu non** ở (65, 50), đúng chỗ theo [[Wind - Quy hoạch#Bản quy hoạch riêng — thôn quê, xây dần|quy hoạch]]. Lớn ngày Thu 15
+- [x] 🐄 Robin: **Chuồng Gia súc lớn** đã đặt (12.000g), xong sáng **Hạ 17**. Không phải mua Gỗ
+- [x] 💧 Tưới xong, **0 ô khô** · **Bình tưới** đang ở Clint lên **Vàng** (10.000g + 5 **Thỏi vàng**), lấy sáng **Hạ 17**
+- [x] 🔨 Clint mở 2 **Hốc tinh dung nham** · **Chiếc hộp bí ẩn** · **Hốc tinh toàn năng** · quest **Gặt: Quặng đồng** xong (+360g), giữ **114 Quặng đồng**
+- [x] 🏛️ Bảo tàng **76 món**: **Mảnh tán sắc** · **Đá Hắc phương** (từ Hốc tinh). Con Mảnh tán sắc còn lại giữ cho gói **Mất Tích**
+- [x] 🍺 **Thùng chứa** ở (42, 16) đang ủ **Bia nhẹ** cho Pam, còn 1.320 phút · 🧀 **Máy ép Pho-mát** ở (43, 16) đã ra 1 **Phô mai**, đang ở trong rương
+- [x] 🌶️ Thu 53 **Ớt hiểm** · 19 **Ngô** · 5 **Hạt cà phê** · 6 **Củ cải** · 1 **Hoa bia** · 1 **Trái cổ đại** (giữ lại) · **Nông sản Chất lượng cao 2/3** (Ngô Vàng) · **Củ cải không gieo lại** (bạn chốt), 5 Củ cải trong rương làm dự phòng
+- [x] 🎁 Haley 2.647 điểm, quà tuần **2/2** · Sam 1.332 điểm
+- Ví **16.847g**, thùng ship 56 **Ớt hiểm** · 20 **Hạt cà phê** · 2 **San hô** · đồ Bẫy cua, khoảng **3.800g** → sáng Hạ 16 khoảng **20.600g** · 69 **Thỏi vàng** · thư mai: không có · mai 🟢 **mưa xanh**
 
 ---
 
-### 🫐 Hạ 16 (Thứ Ba) — 🫐 Việt quất · 🌺 Anh túc · Thảo quả chín
+### 🟢 Hạ 16 (Thứ Ba) — 🟢 mưa xanh · 🫐 Việt quất · 🌺 Anh túc · Thảo quả chín
 
 **📝 Dự kiến:**
-- [ ] 🫐 Thu 19 **Trái việt quất** · 10 **Anh túc** · 30 **Thảo quả** · 1 **Cà chua** · 5 **Bí ngòi** · giữ ít nhất 1 cây mỗi loại cho quest
-- [ ] 🎂 Chuẩn bị quà cho **Sam** (sinh nhật Hạ 17, 1.267 điểm): món thích **Pizza** (quán Saloon) · **Quả xương rồng** · **Bánh mật cây phong** · **Đá mắt cọp** (có thể ra từ **Hốc tinh dung nham** mở Hạ 15)
-- [ ] 🎁 Quà thứ hai trong tuần cho **Haley** (tuần Hạ 14–20, đang 1/2)
-- 🍺 **Bia nhẹ** đang ủ, xem đã xong chưa rồi đưa Pam
-- 🏗️ Robin nghỉ Thứ Ba, Marnie nghỉ Thứ Ba → Hạ 17 mới mua thú
-- 🟢 **Mưa xanh**: ruộng tự tưới, Bình tưới đang ở Clint cũng không sao · may cao mà tuần này chưa đủ hai lượt thì Hang Đầu lâu
-- 🍺 Sau khi có **Bia nhẹ**, bỏ **Trái việt quất** vào **Thùng chứa** → **Rượu** (7 ngày) cho gói **Phù Thủy**
-- Sắp tới: **Hạ 17** 💒 cưới Haley · 🎂 Sam · Chuồng Gia súc lớn xong · Marnie mua thú
+- [ ] 🫐 Thu 19 **Trái việt quất** · 10 **Anh túc** · 30 **Thảo quả** · 1 **Cà chua** · 5 **Bí ngòi** · 1 **Hoa bia** · gieo lại 10 **Anh túc** bằng **Hạt giống anh túc** (Pierre 100g/hạt, chín Hạ 23)
+- [ ] 🌱 **Pierre mua trước hạt cho Hạ 17**, vì Pierre nghỉ Thứ Tư: 5 **Hạt lúa mì** · 5 **Hạt hướng dương** · 8 **Hạt giống trang kim**. Cả ba còn kịp chín trước Hạ 28
+- [ ] 🎂 Chuẩn bị quà sinh nhật **Sam** (Hạ 17): **Pizza** ở Saloon · **Quả xương rồng** · **Bánh mật cây phong**. Hốc tinh hôm qua không ra **Đá mắt cọp**. Sam đã nhận 2 quà tuần này, nhưng **quà sinh nhật vẫn tặng được**
+- [ ] 📦 Nộp **Phô mai** (rương) → gói **Đồ thủ công** 2/6
+- 🍺 **Bia nhẹ** xong khoảng chiều tối nay, đưa Pam (350g), rồi bỏ **Trái việt quất** vào **Thùng chứa** → **Rượu** (7 ngày) cho gói **Phù Thủy**
+- 🟢 **Mưa xanh**: ruộng tự tưới, không cần Bình tưới · may cao mà tuần này chưa đi lượt nào thì Hang Đầu lâu
+- 🏗️ Robin nghỉ Thứ Ba, Marnie nghỉ Thứ Ba
+- Sắp tới: **Hạ 17** 💒 cưới Haley · 🎂 Sam · Chuồng Gia súc lớn xong · Marnie mua thú · lấy Bình Tưới Vàng
 
 ---
 
@@ -674,10 +672,21 @@ _Chốt từ **Quicksave Hạ 14**, ghi lúc 08:24 giờ máy ngày 23/11. Nắn
 - [ ] 💧 Lấy **Bình Tưới Vàng** ở Clint trước khi tưới
 - [ ] 💒 **Đám cưới với Haley** buổi sáng (đính hôn Hạ 14), xong vẫn làm việc bình thường
 - [ ] 🎂 Tặng quà sinh nhật **Sam**
-- [ ] 🐐 **Marnie:** **Gà ×2** 1.600g · **Bò Sữa ×1** 1.500g · **Vịt ×1** 1.200g (Chuồng gia cầm lớn xong Hạ 15) · **Dê ×1** 4.000g (Chuồng Gia súc lớn xong sáng nay) · **≈20 Rơm rạ** 1.000g → tổng **≈9.300g**. Vịt và Dê dời lên từ Hạ 19, Hạ 21
-- 🌾 Thu 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 2 **Hạt cà phê** · 3 **Ớt hiểm** · 1 **Bí ngòi**
-- 🏗️ Robin rảnh từ hôm nay. Công trình kế tiếp (**Nhà Kho** 15.000g + 300 Gỗ hoặc **Chuồng Gia cầm cao cấp** 20.000g + 500 Gỗ + 200 Đá) chốt ở nhịp ③ Hạ 16 theo ví, nhớ giữ tiền cho **Nam việt quất** và **Chuồng Gia súc cao cấp** ở Thu 1
+- [ ] 🐐 **Marnie:** **Gà ×2** 1.600g · **Bò Sữa ×1** 1.500g · **Vịt ×1** 1.200g · **Dê ×1** 4.000g · **≈20 Rơm rạ** 1.000g → tổng **≈9.300g**. Ví sáng dự kiến ≈**28.000g** (≈20.600g + vụ Hạ 16 ≈7.500g) → sau ≈18.700g
+- 🌾 Thu 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 7 **Hạt cà phê** · 3 **Ớt hiểm** · 1 **Bí ngòi** → gieo lại Lúa mì (chín Hạ 21), Hướng dương, Trang kim (chín Hạ 25) bằng hạt mua Hạ 16
+- 🏗️ Robin rảnh từ hôm nay. Công trình kế tiếp chốt ở nhịp ③ Hạ 17 sau khi biết ví: **Nhà Kho** 15.000g + 300 Gỗ, hoặc **Kho chứa Cỏ** thứ hai (100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng) cho 14 con từ Hạ 19. Giữ tiền cho **Nam việt quất** và **Chuồng Gia súc cao cấp** ở Thu 1
 - Pierre nghỉ Thứ Tư
+
+---
+
+### 🫐 Hạ 18 (Thứ Năm) — 🫐 142 cây Việt quất · 🌶️ Ớt
+
+**📝 Dự kiến:**
+- [ ] 🫐 Thu 142 cây **Việt quất** (≈420 quả, ≈23.000g) · 53 **Ớt hiểm** · 1 **Hạt cà phê** · giữ ít nhất 1 cây mỗi loại
+- [ ] 💧 Nắng thì tưới 57 ô ngoài vùng vòi bằng **Bình Tưới Vàng**
+- 🐔 Vuốt ve thú mới mua Hạ 17 · 🧀 sữa Bò, Dê vào **Máy ép Pho-mát**
+- 🌦️ Việc chính chốt ở nhịp ①
+- Sắp tới: **Hạ 19** Marnie: **Gà ×3** · **Bò Sữa ×3** · **Cỏ giống** · chế **Máy làm sốt Mayonnaise** + **Máy ép Pho-mát** thứ hai (tiền từ vụ Việt quất hôm nay) · Clint vắng Thứ Sáu
 
 ---
 
