@@ -622,35 +622,30 @@ _Chốt từ **Quicksave Hạ 13**, ghi lúc 08:02 giờ máy ngày 22/11. Giôn
 
 ---
 
-### 🫐 Hạ 14 (Chủ Nhật) — 🫐 131 Việt quất · 💍 có thể cầu hôn · 🌾 Trồng trọt lên 8 · 💀 may thấp
+### 🫐 Hạ 14 (Chủ Nhật) — 🫐 398 Việt quất · 💍 đính hôn Haley · 🌾 Trồng trọt lên 8 · 💀 may thấp
 
-**📋 Thực tế** _(Quicksave đầu Hạ 14, lưu 08:12 giờ máy ngày 22/11)_: ☀️ nắng · mai ☀️ nắng · 💀 **may thấp** (`dailyLuck` −0,034) · ví **23.343g**, khớp dự kiến · thư: Lewis **"Về Dây chuyền Tiên cá"** · **"Yêu cầu của Pam"** (đọc thư là nhận quest) · thư mai: **Công thức của Pam** · kỹ năng: Trồng trọt 7 (6.290/6.900 XP), Khai khoáng 9, Hái lượm 7 (6.750/6.900), Câu cá 10, Chiến đấu 8 · Robin còn 1 ngày cho **Chuồng gia cầm lớn** · không công cụ nào ở Clint · Haley **2.529 điểm**, quà tuần 0/2 · 🏛️ Bảo tàng 72 món, rương (57, 14) có **2 Mảnh tán sắc**.
+_Chốt từ **Quicksave Hạ 14**, ghi lúc 08:24 giờ máy ngày 23/11. Nắng, may thấp (`dailyLuck` −0,034): ngày làm ruộng và đi việc vặt trong thị trấn._
 
-**📌 Quest:** **Giao hàng: Clint** — 1 **Thỏi vàng**, còn 2 ngày, thưởng 750g; kho có 70 Thỏi vàng · **Pam: Bia nhẹ (Pale Ale)** — không hạn, thưởng 350g, cần **Thùng ủ** (Keg) + **Hoa bia** · **"Quần đùi" của Thị trưởng** đã tìm thấy, giữ cho Hội chợ Thu 16.
-
-**🌦️ Nhánh:** ☀️ Nắng × 💀 May thấp → không vào Hang Đầu lâu, không cần may cho việc nào hôm nay. Ngày làm ruộng và đi việc vặt trong thị trấn.
-
-**✅ Việc hôm nay** (1 chính + 2 phụ, thu hoạch là routine)
-- [x] 🫐 ✅ đã thu, 398 **Trái việt quất** trong thùng ship · Trồng trọt **7.710 XP = cấp 8** _(Quicksave 08:53 giờ máy)_ · **Chính:** thu **131 Trái việt quất** · 3 **Ớt hiểm** · 1 **Khế** · 1 **Hoa bia** · 1 **Bí ngòi** · giữ ít nhất 1 cây mỗi loại cho quest. 131 lượt thu Việt quất ≈ **1.300 XP Trồng trọt** → **đêm nay lên cấp 8**, mở công thức **Thùng ủ** (30 Gỗ · 1 Thỏi đồng · 1 Thỏi sắt · 1 Nhựa sồi)
-- [x] 💧 Tưới 57 ô ngoài vùng vòi · ✅ 0 ô khô _(Quicksave 08:53 giờ máy)_
-- [ ] 🔨 **Clint:** ✅ đã nộp 1 **Thỏi vàng** (quest xong) _(Quicksave 08:53 giờ máy)_ · **chưa mở** 2 **Hốc tinh dung nham** (túi) · 1 **Chiếc hộp bí ẩn** + 1 **Hốc tinh toàn năng** (rương (58, 16)) · đối chiếu Bảo tàng trước khi bán
-- [ ] 🏛️ **Bảo tàng:** ✅ **Xương bả vai tiền sử** đã nộp → **73 món** (khôi phục từ Quicksave 08:38 sau khi bị rơi mất) _(Quicksave 08:53 giờ máy)_ · còn quyên góp 1 **Mảnh tán sắc** → **74 món**, con thứ hai giữ cho gói **Mất Tích**
-- [x] 🌺 ✅ đã gieo bù _(Quicksave 08:53 giờ máy)_ · Dọn cây **Anh túc** chết ở (36, 39), gieo bù 1 **Hạt giống anh túc** (Pierre, 100g) → chín Hạ 21
-- [x] 🍺 ✅ 3 **Hoa bia** trong kho, quest **Pam đang Khát** đã nhận _(Quicksave 08:53 giờ máy)_ · Giữ **Hoa bia** (3 cái sau khi thu) cho quest Pam — đừng ship. Thùng ủ chế từ Hạ 15
-- [x] 💍 ✅ **Đã cầu hôn, Haley nhận lời** → **đính hôn**, 2.605 điểm, save ghi `WeddingDate` = **Hạ 17** _(Quicksave 09:24 giờ máy)_ · **Cầu hôn Haley — nếu bạn muốn**: đưa **Dây chuyền tiên cá**. Đã đủ điều kiện: đang hẹn hò, 2.529 điểm (≥ 10 tim), nhà đã nâng cấp. **Đám cưới đúng 3 ngày sau → Hạ 17** (Thứ Tư), cũng là sinh nhật Sam và ngày mua thú ở Marnie: cưới buổi sáng, xong vẫn làm việc bình thường
-- [ ] 🎁 Tuần mới: 2 quà cho **Haley** · ✅ 1/2 (Dây chuyền tiên cá tính là quà hôm nay) _(Quicksave 09:24 giờ máy)_
-- Sắp tới: **Hạ 15** chuồng gia cầm lớn xong, Pierre: **Cây táo non**, **Cây lựu non**, Ngô chín, chế **Thùng ủ** · **Hạ 17** sinh nhật Sam
+- [x] 🫐 Thu 131 cây **Việt quất** ra **398 Trái việt quất** (309 thường · 54 bạc · 35 vàng) · 3 **Ớt hiểm** · 1 **Khế** · 1 **Hoa bia** · 1 **Bí ngòi** · Trồng trọt **7.710 XP = cấp 8**, mở công thức **Thùng ủ** · tưới xong, **0 ô khô**
+- [x] 🔨 Clint: nộp 1 **Thỏi vàng**, quest **Giao hàng: Clint** xong. **Chưa mở** 2 **Hốc tinh dung nham** · 1 **Chiếc hộp bí ẩn** · 1 **Hốc tinh toàn năng**, đều ở rương (58, 16) → dời Hạ 15
+- [x] 🏛️ Bảo tàng **74 món**: **Xương bả vai tiền sử** (khôi phục từ Quicksave 08:38 sau khi bị rơi mất) · **Hóa thạch cây cọ**. **2 Mảnh tán sắc** vẫn ở rương (57, 14), chưa quyên góp → dời Hạ 15
+- [x] 🌺 Dọn **Anh túc** chết ở (36, 39), gieo bù → chín Hạ 21
+- [x] 🍺 Nhận quest **Pam đang Khát**, giữ 3 **Hoa bia** ở rương (56, 16)
+- [x] 💍 Cầu hôn bằng **Dây chuyền tiên cá**, **Haley nhận lời** → **đính hôn**, 2.605 điểm, **cưới Hạ 17** · quà tuần 1/2
+- Ví **22.993g**, thùng ship 398 **Trái việt quất** · 6 **San hô** bạc + 2 thường · 3 **Cá bơn lưỡi ngựa** vàng · đồ Bẫy cua · 3 **Ớt hiểm** · 1 **Quả xương rồng**, khoảng **25.600g** (đã tính **Thợ cày** +10%, **Dân chài** +25%) → sáng Hạ 15 khoảng **48.600g**, hơn dự kiến ≈18.000g vì mỗi cây Việt quất cho 3 quả chứ không phải 1 · Hái lượm **6.953 XP → cấp 8 đêm nay** · thư mai: **Công thức của Pam** · thư công thức của **Clint** · mai ☀️ nắng
 
 ---
 
-### 🌳 Hạ 15 (Thứ Hai) — 🐔 Chuồng gia cầm lớn xong · 🌳 Cây ăn quả · 🌽 Ngô chín
+### 🌳 Hạ 15 (Thứ Hai) — 🐔 Chuồng gia cầm lớn xong · 🌳 Cây ăn quả · 🐄 đặt Chuồng Gia súc lớn · 🌽 Ngô chín
 
 **📝 Dự kiến:**
-- [ ] 🌳 **Pierre: Cây táo non** 4.000g trồng ở **(50, 50)** · **Cây lựu non** 6.000g ở **(65, 50)**, đập **Đá ở (64, 51)** trước khi trồng. Ví sáng dự kiến **≈30.500g** (≈23.300g + 131 Việt quất Hạ 14 ≈7.200g), sau cây còn **≈20.500g**
-- [ ] 🌶️ Thu 53 **Ớt hiểm** · 19 **Ngô** · 5 **Hạt cà phê** · 6 **Củ cải** ở Ruộng 6 → giữ 1 **Củ cải**, gieo lại ô đó bằng **Hạt giống củ cải** (Pierre) cho dự phòng quest · 1 **Trái cổ đại** (72, 27), **giữ lại** không bán
-- [ ] 🍺 Trồng trọt cấp 8 → chế 1 **Thùng ủ** (30 Gỗ · 1 Thỏi đồng · 1 Thỏi sắt · 1 Nhựa sồi — kho chỉ còn **3 Gỗ**, mua 27 Gỗ ở Robin ≈270g; Nhựa sồi còn đúng 1), bỏ 1 **Hoa bia** vào → **Bia nhẹ** cho quest Pam (350g)
-- 🐔 **Chuồng gia cầm lớn** xong (nâng tại chỗ, 2 Gà vẫn ở trong) · mua thú để **Hạ 17** vì **Marnie** nghỉ Thứ Hai, Thứ Ba
-- 🌦️ Việc chính chốt ở nhịp ①: nắng thì tưới ngoài vùng vòi · may cao mà Hạ 14 chưa đi thì Hang Đầu lâu
+- [ ] 🌳 **Pierre: Cây táo non** 4.000g trồng ở **(50, 50)** · **Cây lựu non** 6.000g ở **(65, 50)**, đập **Đá ở (64, 51)** trước khi trồng
+- [ ] 🐄 **Robin: Chuồng Gia súc lớn** — dời lên từ Hạ 19 vì ví dư. 12.000g + 450 Gỗ + 200 Đá (có 1.277 Đá), xong sáng **Hạ 17**. Mua **477 Gỗ** ≈4.770g (450 cho chuồng + 27 cho Thùng ủ), cầm trong túi trước khi tới quầy. Ví ≈48.600g → sau cây và chuồng ≈**21.800g**
+- [ ] 🍺 Chế 1 **Thùng ủ** (30 Gỗ · 1 Thỏi đồng · 1 Thỏi sắt · 1 **Nhựa sồi** ở rương (56, 15), còn đúng 1), bỏ 1 **Hoa bia** vào → **Bia nhẹ** cho quest Pam (350g)
+- [ ] 🔨 Clint mở 2 **Hốc tinh dung nham** · **Chiếc hộp bí ẩn** · **Hốc tinh toàn năng**, đối chiếu Bảo tàng trước khi bán · 🏛️ quyên góp 1 **Mảnh tán sắc** → **75 món**, con thứ hai giữ cho gói **Mất Tích**
+- 🌶️ Thu 53 **Ớt hiểm** · 19 **Ngô** · 5 **Hạt cà phê** · 6 **Củ cải** · 1 **Hoa bia** · 1 **Trái cổ đại** (72, 27, **giữ lại**) → giữ 1 **Củ cải**, gieo lại ô đó bằng **Hạt giống củ cải** cho dự phòng quest. **Hoa bia** mới cũng giữ
+- 🐔 **Chuồng gia cầm lớn** xong (2 Gà vẫn ở trong). Marnie nghỉ Thứ Hai, Thứ Ba → mua thú Hạ 17
+- 🌦️ Việc chính chốt ở nhịp ①: nắng thì tưới 57 ô ngoài vùng vòi · may cao thì vẫn ưu tiên Pierre, Robin trước
 - Sắp tới: **Hạ 16** 19 **Trái việt quất** · 10 **Anh túc** · 30 **Thảo quả** · 1 **Cà chua** · 5 **Bí ngòi** chín · Robin nghỉ Thứ Ba
 
 ---
@@ -659,10 +654,24 @@ _Chốt từ **Quicksave Hạ 13**, ghi lúc 08:02 giờ máy ngày 22/11. Giôn
 
 **📝 Dự kiến:**
 - [ ] 🫐 Thu 19 **Trái việt quất** · 10 **Anh túc** · 30 **Thảo quả** · 1 **Cà chua** · 5 **Bí ngòi** · giữ ít nhất 1 cây mỗi loại cho quest
-- [ ] 🎂 Chuẩn bị quà cho **Sam** (sinh nhật Hạ 17, 1.140 điểm)
+- [ ] 🎂 Chuẩn bị quà cho **Sam** (sinh nhật Hạ 17, 1.267 điểm): món thích **Pizza** (quán Saloon) · **Quả xương rồng** · **Bánh mật cây phong** · **Đá mắt cọp** (có thể ra từ **Hốc tinh dung nham** mở Hạ 15)
+- [ ] 🎁 Quà thứ hai trong tuần cho **Haley** (tuần Hạ 14–20, đang 1/2)
+- 🍺 **Bia nhẹ** đang ủ, xem đã xong chưa rồi đưa Pam
 - 🏗️ Robin nghỉ Thứ Ba, Marnie nghỉ Thứ Ba → Hạ 17 mới mua thú
 - 🌦️ Việc chính chốt ở nhịp ①: nắng thì tưới · may cao mà tuần này chưa đủ hai lượt thì Hang Đầu lâu
-- Sắp tới: **Hạ 17** 💒 **đám cưới với Haley** (đã đính hôn Hạ 14) · 🎂 Sam · Marnie: **Gà ×2** · **Bò Sữa** · Rơm rạ · chín 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 2 **Hạt cà phê**
+- Sắp tới: **Hạ 17** 💒 cưới Haley · 🎂 Sam · Chuồng Gia súc lớn xong · Marnie mua thú
+
+---
+
+### 💒 Hạ 17 (Thứ Tư) — 💒 Cưới Haley · 🎂 Sinh nhật Sam · 🐄 Chuồng Gia súc lớn xong · 🐐 mua thú
+
+**📝 Dự kiến:**
+- [ ] 💒 **Đám cưới với Haley** buổi sáng (đính hôn Hạ 14), xong vẫn làm việc bình thường
+- [ ] 🎂 Tặng quà sinh nhật **Sam**
+- [ ] 🐐 **Marnie:** **Gà ×2** 1.600g · **Bò Sữa ×1** 1.500g · **Vịt ×1** 1.200g (Chuồng gia cầm lớn xong Hạ 15) · **Dê ×1** 4.000g (Chuồng Gia súc lớn xong sáng nay) · **≈20 Rơm rạ** 1.000g → tổng **≈9.300g**. Vịt và Dê dời lên từ Hạ 19, Hạ 21
+- 🌾 Thu 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 2 **Hạt cà phê** · 3 **Ớt hiểm** · 1 **Bí ngòi**
+- 🏗️ Robin rảnh từ hôm nay. Công trình kế tiếp (**Nhà Kho** 15.000g + 300 Gỗ hoặc **Chuồng Gia cầm cao cấp** 20.000g + 500 Gỗ + 200 Đá) chốt ở nhịp ③ Hạ 16 theo ví, nhớ giữ tiền cho **Nam việt quất** và **Chuồng Gia súc cao cấp** ở Thu 1
+- Pierre nghỉ Thứ Tư
 
 ---
 
@@ -736,10 +745,8 @@ _Tính từ Quicksave Hạ 6, 15:50 (ví 4.114g, 100 Gỗ, 644 Đá). Dòng Hạ
 | **Hạ 6** · Bảy | **Chuồng Gia súc** ở (56, 22): 6.000g + 350 Gỗ + 150 Đá, xong sáng Hạ 9 | | ✅ Đã đặt. Ví 4.114g sau vé xe, dư 2.620g so với dự kiến |
 | **Hạ 10** · Tư | **Nâng cấp nhà**: 10.000g + 450 Gỗ, xong sáng **Hạ 13** | Marnie: **Bò Sữa ×1** 1.500g · **Xô Vắt sữa** 1.000g | ✅ Đã đặt, đã mua. Ví 31.023 → 17.876g tối Hạ 10, sau vé xe và Clint |
 | **Hạ 13** · Bảy | **Chuồng gia cầm lớn**: 10.000g + 400 Gỗ + 150 Đá, xong sáng Hạ 15. Dời lên từ Hạ 17 (chốt nhịp ③ Hạ 10). Mua 256 Gỗ ≈2.560g | Pierre: 18 **Hạt giống dưa** · Ông lão đi biển: **Dây chuyền tiên cá** 5.000g | ✅ Đã đặt, đã mua. Ví 27.489 → 9.649g tối Hạ 13 |
-| **Hạ 15** · Hai | | Pierre: **Cây táo non** 4.000g · **Cây lựu non** 6.000g | ≈30.500 → ≈20.500g (tính lại nhịp ③ Hạ 13) |
-| **Hạ 17** · Tư | | Marnie: **Gà ×2** 1.600g · **Bò Sữa ×1** 1.500g · **≈20 Rơm rạ** 1.000g | tính lại ở nhịp ③ Hạ 16 |
-| **Hạ 19** · Sáu | **Chuồng Gia súc lớn**: 12.000g + 450 Gỗ + 200 Đá, xong sáng Hạ 21 | Marnie: **Vịt ×1** 1.200g | ≈29.590 → ≈11.890g |
-| **Hạ 21** · Chủ Nhật | | Marnie: **Dê ×1** 4.000g | ≈16.290 → ≈12.290g |
+| **Hạ 15** · Hai | **Chuồng Gia súc lớn**: 12.000g + 450 Gỗ + 200 Đá, xong sáng Hạ 17. Dời lên từ Hạ 19 (chốt nhịp ③ Hạ 14, ví dư ≈18.000g so với dự kiến). Mua 477 Gỗ ≈4.770g | Pierre: **Cây táo non** 4.000g · **Cây lựu non** 6.000g | ≈48.600 → ≈21.800g |
+| **Hạ 17** · Tư | | Marnie: **Gà ×2** 1.600g · **Bò Sữa ×1** 1.500g · **Vịt ×1** 1.200g · **Dê ×1** 4.000g · **≈20 Rơm rạ** 1.000g | tính lại ở nhịp ③ Hạ 16 |
 | **Thu 1** · Hai | **Chuồng Gia súc cao cấp**: 25.000g + 550 Gỗ + 300 Đá, xong sáng Thu 3. Không đủ thì đặt Thu 3 | Pierre: **Nam việt quất ×161** 38.640g | ≈78.290 → ≈9.150g |
 | **Thu 10** · Tư | | Marnie: **Lợn ×1** 16.000g, tiền từ lứa Nam việt quất đầu tiên | chốt lại lúc lập kế hoạch Thu |
 
@@ -788,7 +795,7 @@ _Từ Hạ 10 bỏ lịch chặt 3 cây, gieo 2 hạt mỗi ngày ở Rừng Cin
 | Đặt công trình | Cần | Mua ở Robin nếu không chặt thêm |
 |---|---|---|
 | Hạ 13–17 **Chuồng gia cầm lớn** | 400 | ≈250 |
-| Hạ 19 **Chuồng Gia súc lớn** | 450 | 450 |
+| Hạ 15 **Chuồng Gia súc lớn** | 450 | 450 |
 | Thu 1 **Chuồng Gia súc cao cấp** | 550 | 550 |
 
 Cột ví ở [[#🏗️ Lịch xây và mua thú|Lịch xây và mua thú]] đã tính mua hết Gỗ, nên Gỗ chặt được ở nông trại hay ngoài rừng là tiền dư ra. Đếm Gỗ trong túi ở mỗi lần đọc save trước hôm đặt.
