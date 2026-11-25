@@ -139,6 +139,30 @@ Quicksave Hạ 2 đã xuống tới **tầng 120**, nên cả ba ao tầng 20 ·
 
 ---
 
+## 🗡️ Mục tiêu diệt quái — 1 / 12 đủ, 0 đã lĩnh
+
+> _Đối chiếu **Quicksave 9:30 Hạ 17** (`specificMonstersKilled`, lưu 08:41 ngày 25/11). Mục tiêu, loài được tính, phần thưởng lấy từ `Data/MonsterSlayerQuests` (game 1.6.15); save chưa có cờ `Gil_*` nào, tức chưa lĩnh món nào. Đủ số thì nói chuyện với **Gil** ở Hội Thám hiểm để lĩnh. Chỗ diệt ghi theo hiểu biết chung về game, chưa đối chiếu file._
+
+| | Mục tiêu | Đã diệt | Phần thưởng | Diệt ở đâu |
+|---|---|---|---|---|
+| ✅ | **Côn trùng** (Cave Insects) | **107 / 80** · Bug 61 · Grub 30 · Fly 16 | **Đầu Côn trùng** (Insect Head), kiếm | **chưa lĩnh** |
+| ⬜ | **Xương khô** (Skeletons) | 21 / 50 | **Mặt nạ Đầu lâu** (Skeleton Mask) | Hầm Mỏ tầng 71–79 |
+| ⬜ | **Trùng Đất** (Duggies) | 5 / 30 | **Mũ Bảo hộ** (Hard Hat) | Hầm Mỏ tầng 6–29 |
+| ⬜ | **Cua Đá** (Rock Crabs) | 23 / 60 · Rock 6 · Lava 15 · Iridium 2 | **Nhẫn mai cua** (Crabshell Ring) | Hầm Mỏ, đập đá |
+| ⬜ | **Khủng long Ớt** (Pepper Rex) | 2 / 50 | **Mũ Hiệp sĩ** (Knight's Helmet) | Hang Đầu lâu |
+| ⬜ | **Tinh linh Hư không** (Void Spirits) | 68 / 150 · Shaman 30 · Brute 38 | **Nhẫn hoang dã** (Savage Ring) | Hầm Mỏ 80–119, Hang Đầu lâu |
+| ⬜ | **Xác Ướp** (Mummies) | 0 / 100 | **Mũ Ma pháp** (Arcane Hat) | Hang Đầu lâu |
+| ⬜ | **Dơi** (Bats) | 85 / 200 · Bat 3 · Frost 69 · Lava 7 · Iridium 6 | **Nhẫn ma-cà-rồng** (Vampire Ring) | Hầm Mỏ 31+, Hang Đầu lâu |
+| ⬜ | **Tinh linh Núi lửa** (Magma Sprites) | 0 / 150 | số điện thoại của Gil, không có đồ | Núi lửa đảo Gừng, chưa mở |
+| ⬜ | **Tinh linh Bụi** (Dust Sprites) | 306 / 500 | **Nhẫn đạo tặc** (Burglar's Ring) | Hầm Mỏ 41–79 |
+| ⬜ | **Mãng xà** (Serpents) | 38 / 250 | **Nhẫn na-pan** (Napalm Ring) | Hang Đầu lâu |
+| ⬜ | **Slime** (Slimes) | 439 / 1000 · Green 125 · Frost Jelly 170 · Sludge 144 | **Nhẫn mê hoặc slime** (Slime Charmer Ring) | khắp nơi |
+
+- **Hang Đầu lâu** gánh ba mục Xác Ướp · Khủng long Ớt · Mãng xà, nên mỗi lượt đi theo [[Wind - Daily#💀 Hang Đầu lâu — ngày nào đi, tới tầng nào, lấy gì|nhịp Hang Đầu lâu]] là cả ba cùng lên.
+- **Slime:** danh sách loài trong file game chỉ có Green Slime · Frost Jelly · Sludge · Tiger Slime; 27 **Big Slime** đã diệt không nằm trong danh sách nên không cộng (đọc theo file dữ liệu, chưa soi mã game).
+
+---
+
 ## ❤️ Haley
 
 > _Save này theo **Haley**. Chọn câu nào, điều kiện nổ ra ở [[Sự kiện tim#💛 Haley|Sự kiện tim — Haley]]. Đối chiếu **save sáng Hạ 7, Năm 1**: **2.104 điểm = 8 tim, đang hẹn hò**, sự kiện đã xem 11 · 12 · 13 · 14. Cảnh 10 tim cần **2.500 điểm**, còn thiếu **396**._
