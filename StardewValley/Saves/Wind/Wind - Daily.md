@@ -674,10 +674,11 @@ _Chốt từ **Quicksave Hạ 16**, ghi lúc 15:36 giờ máy ngày 23/11. Mưa 
 
 **🌦️ Nhánh:** ☀️ Nắng × 🍀 May cao, nhưng hôm nay đã kín việc (tưới tay 59 ô, thu hoạch, gieo lại, Marnie, sinh nhật Sam) nên **không vào Hang Đầu lâu**; tuần này chưa đi lượt nào, để dành ngày may cao rảnh. Chỉ có 1 **Hốc tinh Băng**, chưa đáng ghé Clint mở. Mùa Hạ đã câu đủ loài, không có việc câu.
 
-**✅ Việc hôm nay** (1 chính + 2 phụ, thu hoạch là routine)
+**✅ Việc hôm nay** (1 chính + 3 phụ, thu hoạch là routine)
 - [x] 💧 **Chính:** lấy **Bình Tưới Vàng** ở Clint → tưới **59 ô ngoài vùng vòi**, save báo 0 ô khô
 - [x] 🐔 **Marnie:** **Gà ×2** 1.600g · **Vịt ×1** 1.200g → 2.800g, gà vịt lên **5/8** · ví 27.337 → 24.537g. Không mua **Rơm rạ**: Kho chứa Cỏ còn 97 phần, mùa Hạ thú ăn cỏ ngoài bãi. **Bò Sữa**, **Dê** để Hạ 18
 - [x] 🎂 Tặng **Sam** quà sinh nhật → 1.330 → 2.150 điểm
+- [ ] 🗡️ Chiều (Hội Thám hiểm mở 14:00) ghé **Gil** lĩnh **Đầu Côn trùng**: mục **Côn trùng** đã 107/80. Bảng mục tiêu diệt quái ở [[Wind - Tiến độ#🗡️ Mục tiêu diệt quái — 1 / 12 đủ, 0 đã lĩnh|Tiến độ]]
 - [x] 🌾 Thu 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 7 **Hạt cà phê** · 3 **Ớt hiểm** · 1 **Bí ngòi** · 1 **Hoa bia** → gieo lại 20 ô: 13 **Bí ngòi** · 7 **Hướng dương** (không dùng **Hạt giống hoa tổng hợp**, rương (58, 15) vẫn 39 hạt)
 - [x] 📬 Mở hộp thư lấy quà Evelyn
 - 🏗️ Robin chưa rảnh tới sáng Hạ 18. Công trình kế tiếp chốt ở nhịp ③ hôm nay: **Nhà Kho** 15.000g + 300 Gỗ, hoặc **Kho chứa Cỏ** thứ hai (100g + 100 Đá + 10 Đất sét + 5 Thỏi đồng). Giữ tiền cho **Nam việt quất** và **Chuồng Gia súc cao cấp** ở Thu 1
