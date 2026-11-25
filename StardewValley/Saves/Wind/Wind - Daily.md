@@ -668,15 +668,15 @@ _Chốt từ **Quicksave Hạ 16**, ghi lúc 15:36 giờ máy ngày 23/11. Mưa 
 
 ### 💒 Hạ 17 (Thứ Tư) — 💒 Cưới Haley · 🎂 Sinh nhật Sam · 🐔 mua thú
 
-**📋 Thực tế** _(Quicksave 9:30 sáng Hạ 17, lưu 08:34 giờ máy ngày 25/11)_: ☀️ nắng · mai ☀️ nắng · 🍀 **may cao** (`dailyLuck` +0,08) · ví **27.337g**, chưa tiêu gì · 💒 **đã cưới Haley** (2.714 điểm, quà hôm nay rồi) · hộp thư đã mở (**Món quà từ Evelyn**) · thư mai: không có · kỹ năng không đổi (Trồng trọt 8 · Khai khoáng 9 · Hái lượm 8 · Câu cá 10 · Chiến đấu 8) · **Bình Tưới Vàng** xong, lấy ở Clint · **Chuồng Gia súc lớn** còn 1 ngày → xong sáng **Hạ 18** · túi còn 26/36 ô · Bảo tàng 76 · gà **2**, bò **1** · Kho chứa Cỏ 99 phần. Số cũ "gà 4, bò 2" là đếm đôi: save ghi mỗi con hai lần, đếm theo `myID` chỉ có 2 Gà, 1 Bò.
+**📋 Thực tế** _(Quicksave 9:30 sáng Hạ 17, lưu 08:41 giờ máy ngày 25/11)_: ☀️ nắng · mai ☀️ nắng · 🍀 **may cao** (`dailyLuck` +0,08) · ví **24.537g** sau lượt Marnie · 💒 **đã cưới Haley** (2.714 điểm, quà hôm nay rồi) · hộp thư đã mở (**Món quà từ Evelyn**) · thư mai: không có · kỹ năng không đổi (Trồng trọt 8 · Khai khoáng 9 · Hái lượm 8 · Câu cá 10 · Chiến đấu 8) · **Bình Tưới Vàng** xong, lấy ở Clint · **Chuồng Gia súc lớn** còn 1 ngày → xong sáng **Hạ 18** · túi còn 27/36 ô · Bảo tàng 76 · gà vịt **5/8** (4 Gà · 1 Vịt), gia súc **1** (Bò) · Kho chứa Cỏ 97 phần. Số cũ "gà 4, bò 2" là đếm đôi: save ghi mỗi con hai lần, đếm theo `myID` thì sáng nay chỉ có 2 Gà, 1 Bò.
 
 **📌 Quest:** **"Quần đùi" của Thị trưởng** giữ cho Hội chợ Thu 16.
 
 **🌦️ Nhánh:** ☀️ Nắng × 🍀 May cao, nhưng hôm nay đã kín việc (tưới tay 59 ô, thu hoạch, gieo lại, Marnie, sinh nhật Sam) nên **không vào Hang Đầu lâu**; tuần này chưa đi lượt nào, để dành ngày may cao rảnh. Chỉ có 1 **Hốc tinh Băng**, chưa đáng ghé Clint mở. Mùa Hạ đã câu đủ loài, không có việc câu.
 
 **✅ Việc hôm nay** (1 chính + 2 phụ, thu hoạch là routine)
-- [ ] 💧 **Chính:** lấy **Bình Tưới Vàng** ở Clint ✅ → tưới **59 ô ngoài vùng vòi**: đã tưới 57, **còn khô 2 ô** Hạt cà phê (70, 27) · Trái cổ đại (72, 27)
-- [ ] 🐔 **Marnie:** **Gà ×2** 1.600g · **Vịt ×1** 1.200g · **≈20 Rơm rạ** 1.000g → **≈3.800g**, gà vịt lên 7/8 · ví ≈27.300 → ≈23.500g. **Bò Sữa**, **Dê** để Hạ 18
+- [x] 💧 **Chính:** lấy **Bình Tưới Vàng** ở Clint → tưới **59 ô ngoài vùng vòi**, save báo 0 ô khô
+- [x] 🐔 **Marnie:** **Gà ×2** 1.600g · **Vịt ×1** 1.200g → 2.800g, gà vịt lên **5/8** · ví 27.337 → 24.537g. Không mua **Rơm rạ**: Kho chứa Cỏ còn 97 phần, mùa Hạ thú ăn cỏ ngoài bãi. **Bò Sữa**, **Dê** để Hạ 18
 - [x] 🎂 Tặng **Sam** quà sinh nhật → 1.330 → 2.150 điểm
 - [x] 🌾 Thu 5 **Lúa mì** · 5 **Hướng dương** · 8 **Trang kim** · 7 **Hạt cà phê** · 3 **Ớt hiểm** · 1 **Bí ngòi** · 1 **Hoa bia** → gieo lại 20 ô: 13 **Bí ngòi** · 7 **Hướng dương** (không dùng **Hạt giống hoa tổng hợp**, rương (58, 15) vẫn 39 hạt)
 - [x] 📬 Mở hộp thư lấy quà Evelyn
@@ -781,7 +781,7 @@ _Tính từ Quicksave Hạ 6, 15:50 (ví 4.114g, 100 Gỗ, 644 Đá). Dòng Hạ
 | **Hạ 10** · Tư | **Nâng cấp nhà**: 10.000g + 450 Gỗ, xong sáng **Hạ 13** | Marnie: **Bò Sữa ×1** 1.500g · **Xô Vắt sữa** 1.000g | ✅ Đã đặt, đã mua. Ví 31.023 → 17.876g tối Hạ 10, sau vé xe và Clint |
 | **Hạ 13** · Bảy | **Chuồng gia cầm lớn**: 10.000g + 400 Gỗ + 150 Đá, xong sáng Hạ 15. Dời lên từ Hạ 17 (chốt nhịp ③ Hạ 10). Mua 256 Gỗ ≈2.560g | Pierre: 18 **Hạt giống dưa** · Ông lão đi biển: **Dây chuyền tiên cá** 5.000g | ✅ Đã đặt, đã mua. Ví 27.489 → 9.649g tối Hạ 13 |
 | **Hạ 15** · Hai | **Chuồng Gia súc lớn**: 12.000g + 450 Gỗ + 200 Đá, xong sáng Hạ 17, chậm sang **Hạ 18** vì mưa xanh Hạ 16. Dời lên từ Hạ 19 (chốt nhịp ③ Hạ 14, ví dư ≈18.000g so với dự kiến). Mua 477 Gỗ ≈4.770g | Pierre: **Cây táo non** 4.000g · **Cây lựu non** 6.000g | ≈48.600 → ≈21.800g |
-| **Hạ 17** · Tư | | Marnie: **Gà ×2** 1.600g · **Vịt ×1** 1.200g · **≈20 Rơm rạ** 1.000g | ≈27.200 → ≈23.400g (nhịp ③ Hạ 16) |
+| **Hạ 17** · Tư | | Marnie: **Gà ×2** 1.600g · **Vịt ×1** 1.200g, không mua Rơm rạ | ✅ Đã mua. Ví 27.337 → 24.537g |
 | **Hạ 18** · Năm | | Marnie: **Bò Sữa ×1** 1.500g · **Dê ×1** 4.000g. Dời từ Hạ 17: Chuồng Gia súc lớn chậm 1 ngày vì mưa xanh Hạ 16 | sau vụ Việt quất Hạ 18 |
 | **Hạ 19** · Sáu | | Marnie: **Gà ×3** 2.400g (sau Hạ 17 chuồng có 4 Gà + 1 Vịt → 8/8; số "4 Gà có sẵn" ghi Hạ 16 là đếm đôi) · **Bò Sữa ×3** 4.500g · thêm Rơm rạ theo số thú. Pierre: **Cỏ giống** rải bãi x 55–75, y 27–45. Chế thêm 1 **Máy làm sốt Mayonnaise** (15 Gỗ · 15 Đá · 1 Tinh thể đất, có 11 · 1 Thỏi đồng) + 1 **Máy ép Pho-mát** | tiền từ lứa Việt quất Hạ 18 (≈23.000g), chốt ở nhịp ③ Hạ 18 |
 | **Thu 1** · Hai | **Chuồng Gia súc cao cấp**: 25.000g + 550 Gỗ + 300 Đá, xong sáng Thu 3. Không đủ thì đặt Thu 3 | Pierre: **Nam việt quất ×161** 38.640g | ≈78.290 → ≈9.150g |
